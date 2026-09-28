@@ -239,8 +239,8 @@ das Pronomen im Genitiv: [σου]{lang="el"}, „dir“.
 ::: {.callout-note .exercise}
 ## Übung 21.2: Schnell gesagt
 
-Sag jede Wendung laut, schnell und vertraut. Sag vorher mit der Rangfolge
-[α > ο, ου > ε > ι]{lang="el"} voraus, welcher Vokal fällt und wo die Betonung landet. Im Chat
+Sag jede Wendung laut, schnell und vertraut. Überleg vorher mit der Rangfolge
+[α > ο, ου > ε > ι]{lang="el"}, welcher Vokal fällt und wo die Betonung landet. Im Chat
 reichen die Nummern, bei denen das zweite Wort seinen Vokal verliert.
 
 ::: {lang="el" .no-audio}
@@ -513,14 +513,14 @@ Aufgaben: **a** eröffnen · **b** Zeit gewinnen · **c** erklären, abschwäche
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-(1) und (5), (3) und (4) sind dasselbe Wort mit anderer Aufgabe: Steht es allein, am Anfang oder
+Marker 1 und 5, 3 und 4 sind jeweils dasselbe Wort mit anderer Aufgabe: Steht es allein, am Anfang oder
 mitten im Satz?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-(3) steht allein und steigt: So hakt man nach. Verdoppeltes [καλά]{lang="el"} heißt nicht „gut“.
+Marker 3 steht allein und steigt: So hakt man nach. Verdoppeltes [καλά]{lang="el"} heißt nicht „gut“.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -528,14 +528,14 @@ mitten im Satz?
 
 **1a, 2a, 3e, 4c, 5e, 6b, 7c, 8d, 9e, 10g, 11f.**
 
-- (1) grüßt am Telefon; (5) protestiert: „Ach komm!“
-- (2) kündigt eine unangenehme Erklärung an, nicht „schau“.
-- (3) „Und das heißt?“ fordert heraus; (4) erklärt dann wirklich.
-- (7) macht die Aufzählung vage: „oder so“.
-- (9) „Ja, ja, schon gut“; (10) ist vertraut und winkt hier mit ab. Für beide ist auch **f**
+- **1** grüßt am Telefon, **5** protestiert: „Ach komm!“
+- **2** kündigt eine unangenehme Erklärung an, nicht „schau“.
+- **3**, „Und das heißt?“, fordert heraus; **4** erklärt dann wirklich.
+- **7** macht die Aufzählung vage: „oder so“.
+- **9** heißt „Ja, ja, schon gut“, **10** ist vertraut und winkt hier mit ab. Für beide ist auch **f**
   richtig.
 
-**Typischer Fehler:** (3) und (4) gleich einordnen, weil man aufs Wort achtet statt auf Stelle und
+**Typischer Fehler:** 3 und 4 gleich einordnen, weil man aufs Wort achtet statt auf Stelle und
 Melodie.
 :::
 
