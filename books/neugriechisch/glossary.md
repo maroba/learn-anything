@@ -74,6 +74,9 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 | Partizip (auf -μένος) | μετοχή | | 19 |
 | Gerundium (auf -οντας) | μετοχή ενεστώτα | | 19 |
 | Diskursmarker | – | λοιπόν, έλα, ρε, δηλαδή … | 01 |
+| Komparativ | συγκριτικός βαθμός | zwei Bildungen: „Form mit [πιο]{lang="el"}“ und „Form auf [-τερος]{lang="el"}“ | 12 |
+| Superlativ | υπερθετικός βαθμός | Artikel + Komparativ; kein eigenes Wort | 12 |
+| Adverb | επίρρημα | | 12 |
 
 ## Vokabeltabellen
 
@@ -205,3 +208,13 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 | Diskursmarker (Kapitel 11) | [Τι λες;]{lang="el"}, [ελληνική ώρα]{lang="el"} (scherzhaft), [Καλό μήνα!]{lang="el"}, [Καλή εβδομάδα!]{lang="el"}, [Πόσες του μηνός έχουμε σήμερα;]{lang="el"} | 11 |
 | Namen und Orte (Kapitel 11) | *Nafplio*, *Ioannis Metaxas* (ELOT); *Ägina*, *Konstantinopel*, *Marathon*, *Zypern* (eingebürgert); *Polytechnikum*, *Mariä Verkündigung*, *Junta* | 11 |
 | Hörübung mit `.listen` | Auftrag immer „mit ▶, ohne den Text aufzuklappen“; erst hören, dann lesen | 08 |
+| Form mit [πιο]{lang="el"} / Form auf [-τερος]{lang="el"} | die zwei Komparativbildungen, im Buch immer so benannt (nicht „analytisch/synthetisch“); [πιο]{lang="el"} + Adjektiv, das sich anpasst; regelmäßig [-ότερος]{lang="el"}, Betonung fest auf [-ό-]{lang="el"}. Die Form mit [πιο]{lang="el"} ist im Gespräch die häufigere | 12 |
+| Superlativ (Bildung) | Artikel + Komparativ ([το πιο ψηλό βουνό, το μεγαλύτερο νησί]{lang="el"}), Bezugsgruppe im Genitiv ([της Ελλάδας]{lang="el"}) oder [από]{lang="el"} + [όλους/όλες/όλα]{lang="el"}; ohne Artikel vor Nomen kein Superlativ. Elativ auf [-τατος/-ιστος]{lang="el"} nur als „äußerst“ (gehoben) | 12 |
+| „die sechs“ | die sechs Adjektive mit üblicher Form auf [-τερος]{lang="el"}: [καλύτερος, χειρότερος, μεγαλύτερος, μικρότερος, περισσότερος, λιγότερος]{lang="el"}; in Übungen auch „Sonderformen“; [μεγαλύτερος/μικρότερος]{lang="el"} auch „älter/jünger“. Doppelt gesteigert \*[πιο καλύτερος]{lang="el"} gilt als Fehler | 12 |
+| „als“ beim Vergleich | [από]{lang="el"} + Akkusativ; vor Satz, Orts- oder Zeitangabe [από ό,τι]{lang="el"}, gesprochen [απ’ ό,τι]{lang="el"}; „so … wie“ [τόσο … όσο]{lang="el"} (Nominativ nach [όσο]{lang="el"}) | 12 |
+| Adverb (Bildung) | „sieht aus wie das sächliche Adjektiv im Plural“ ([καλά, γρήγορα, βαθιά]{lang="el"}); Ausnahmen [πολύ, λίγο]{lang="el"}; gelehrte Adverbien auf [-ως/-ώς]{lang="el"} ([συνήθως, ακριβώς]{lang="el"}), bei Doppelformen die förmlichere. Komparativ [πιο γρήγορα]{lang="el"}, [καλύτερα, χειρότερα, περισσότερο, λιγότερο, αργότερα, νωρίτερα]{lang="el"}. Befinden mit Adverb: [Είσαι καλύτερα;]{lang="el"} | 12 |
+| Wetter | [βρέχει]{lang="el"} ohne Subjekt; [κάνει ζέστη/κρύο]{lang="el"} (Nomen); im Vergleich Adverb [είναι πιο ζεστά]{lang="el"} | 12 |
+| [πιο / ποιο]{lang="el"} [pço] als Hörfalle | gleich ausgesprochen, eine Silbe; Unterscheidung über die Stellung: [ποιο]{lang="el"} vor Nomen oder Verb (fragt), [πιο]{lang="el"} vor Adjektiv/Adverb. Hörsignale für Vergleiche: [pço], betonte Silbe vor [-teros/-tera/-tero] (das [t] entscheidet), [ap] vor Artikel oder [ˈoti] | 12 |
+| Namen, Orte, Sachwörter (Kapitel 12) | *Psiloreitis* ([ο Ψηλορείτης]{lang="el"}, ELOT; nicht „Psiloritis“), *Sifnos, Mykonos, Ios, Andros, Naxos, Volos* (ELOT); *Kreta, Korfu, Lesbos, Santorin, Pilion, Kykladen, Ionisches Meer, Libysches Meer* (eingebürgert); Einwohner „Kreter/Kreterin“, „Korfiote“; *Pastitsada, Dakos, Ouzo* eingedeutscht, nicht kursiv; Kanal *Easy Greek* | 12 |
+| Zitiertes Englisch | wie die anderen Fremdsprachen kursiv mit `lang="en"` ([*more beautiful*]{lang="en"}); ausgenommen die festen Ausspracheannäherungen „wie engl. *think*“ | 05 |
+| Zahlen im deutschen Text | vierstellig ohne Leerzeichen (*2456 m, 1500 Menschen*), ab fünf Stellen mit Leerzeichen (*21 000*); im griechischen Text Tausenderpunkt ([2.456]{lang="el"}) | 11 |

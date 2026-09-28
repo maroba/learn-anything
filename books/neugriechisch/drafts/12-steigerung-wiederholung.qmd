@@ -144,9 +144,9 @@ Adjektiv, fertig. Das Adjektiv passt sich an wie immer.
 - [Ο Οκτώβριος είναι πιο ήσυχος.]{lang="el"} Der Oktober ist ruhiger.
 - [Τα βουνά της Κρήτης είναι πιο ψηλά.]{lang="el"} Die Berge Kretas sind höher.
 
-Das Muster kennst du aus [*más verde*]{lang="es"}, [*plus vert*]{lang="fr"}, *more beautiful*,
+Das Muster kennst du aus [*más verde*]{lang="es"}, [*plus vert*]{lang="fr"}, [*more beautiful*]{lang="en"},
 nur dass das Griechische es bei jedem Adjektiv erlaubt, auch bei kurzen: [πιο ψηλός]{lang="el"}
-ist so normal wie *higher*.
+ist so normal wie [*higher*]{lang="en"}.
 
 **„Als“ heißt [από]{lang="el"}**, mit dem Akkusativ, wie nach jeder Präposition:
 
@@ -257,9 +257,9 @@ Grob gerundet:
 
 | Insel | Fläche | höchster Berg | Regen im Jahr (Hauptort) |
 |---|---|---|---|
-| [η Κρήτη]{lang="el"} | 8 300 km² | 2 456 m | ca. 450 mm |
-| [η Κέρκυρα]{lang="el"} | 600 km² | 900 m | ca. 1 100 mm |
-| [η Νάξος]{lang="el"} | 430 km² | 1 000 m | ca. 370 mm |
+| [η Κρήτη]{lang="el"} | 8300 km² | 2456 m | ca. 450 mm |
+| [η Κέρκυρα]{lang="el"} | 600 km² | 900 m | ca. 1100 mm |
+| [η Νάξος]{lang="el"} | 430 km² | 1000 m | ca. 370 mm |
 
 **Teil A.** Sag laut auf Griechisch:
 
@@ -267,7 +267,7 @@ Grob gerundet:
 2. Naxos ist trockener als Korfu.
 3. Die Berge von Naxos sind etwas höher als die Berge von Korfu.
 4. Naxos ist nicht so groß wie Korfu.
-5. Der Psiloritis ist der höchste Berg Kretas.
+5. Der Psiloreitis ist der höchste Berg Kretas.
 6. Naxos ist die trockenste der drei Inseln.
 
 (Worthilfen: [της Νάξου]{lang="el"} von Naxos; [ο Ψηλορείτης]{lang="el"};
@@ -322,7 +322,7 @@ trockenere von beiden“; [το πιο ξερό]{lang="el"} gehört zum mitgedac
 
 [Το μεγαλύτερο νησί]{lang="el"}, [το καλύτερο φαγητό]{lang="el"}: Die Kreterin hat im Dialog zweimal
 kein [πιο]{lang="el"} gebraucht. Neben der Form mit [πιο]{lang="el"} hat das Griechische eine
-**Form auf [-τερος]{lang="el"}**, ein Wort mit angehängter Silbe, wie *greener* oder lateinisch
+**Form auf [-τερος]{lang="el"}**, ein Wort mit angehängter Silbe, wie [*greener*]{lang="en"} oder lateinisch
 [*altior*]{lang="la"}. Beide sind richtig und bedeuten dasselbe.
 
 ### Die Regel: [-ότερος]{lang="el"} {#sec-vergleich-oteros}
@@ -476,7 +476,7 @@ heißt [μεγαλύτερος]{lang="el"} bei Menschen?
 ## Gut und besser: Adverbien {#sec-vergleich-adverbien}
 
 Deutsch sagt „das Essen ist gut“ und „sie kocht gut“ mit demselben Wort. Englisch, Spanisch und
-Französisch trennen: *good/well*, [*bueno/bien*]{lang="es"}, [*bon/bien*]{lang="fr"}. Das Griechische
+Französisch trennen: [*good/well*]{lang="en"}, [*bueno/bien*]{lang="es"}, [*bon/bien*]{lang="fr"}. Das Griechische
 trennt auch: Das **Adverb** ([το επίρρημα]{lang="el"}) sieht aus wie das sächliche Adjektiv im
 Plural. Ausnahmen: [πολύ]{lang="el"} „sehr, viel“ und [λίγο]{lang="el"} „etwas“ ([πολλά]{lang="el"}
 heißt „vieles“).
@@ -636,7 +636,9 @@ Nur eine Vergangenheit und keine Foto-Form haben [είμαι, έχω, ξέρω]{
 [ήμουν, είχα, ήξερα]{lang="el"} und [θα είμαι, θα έχω, θα ξέρω]{lang="el"}.
 
 ::: {.callout-important}
-## Merke: Foto oder Film?
+## Merke
+
+**Foto oder Film?**
 
 - **Foto** (perfektiver Stamm): die Handlung als Ganzes, einmal, abgeschlossen, egal wie lang
   ([δούλεψε σαράντα χρόνια]{lang="el"}). Bringt die Geschichte weiter („und dann?“).
@@ -687,9 +689,9 @@ Im Plural: [οι φίλοι, των φίλων, τους φίλους]{lang="el"
 [στις 25 Μαρτίου]{lang="el"}, [τον Οκτώβριο]{lang="el"}, [το 1821]{lang="el"}.
 
 ::: {.callout-note .review}
-## Zur Wiederholung: die häufigsten Stolpersteine
+## Zur Wiederholung
 
-Diese Fehler machen fast alle, die Teil I hinter sich haben:
+**Die häufigsten Stolpersteine.** Diese Fehler machen fast alle, die Teil I hinter sich haben:
 
 1. **Augment ohne Betonung:** \*[εγράψαμε]{lang="el"} statt [γράψαμε]{lang="el"} (Kapitel 2).
 2. **Die Perfekt-Falle:** „Hast du den Film gesehen?“ ist [Είδες την ταινία;]{lang="el"}, ein
@@ -848,7 +850,7 @@ lesen:
 ::: {.callout-note .exercise}
 ## Übung 12.6: Erst hören
 
-Hör die Umfrage zweimal mit ▶, ohne mitzulesen. Merk dir zu jeder der vier Antworten: welches
+Hör die Umfrage zweimal mit ▶, ohne den Text aufzuklappen. Merk dir zu jeder der vier Antworten: welches
 Ziel, und warum? Wer erzählt von einer früheren Gewohnheit, an welcher Form hörst du das?
 :::
 
@@ -925,7 +927,7 @@ Beim schnellen Hören helfen drei Signale:
 
 - **[pço]** ist [πιο]{lang="el"} oder [ποιο]{lang="el"}; steht ein Adjektiv dahinter, ist es
   „mehr“.
-- **[-ˈoteros], [-ˈitera]**: Eine betonte Silbe vor [-teros, -tera, -tero]{lang="el"} ist ein
+- **[-ˈoteros], [-ˈitera]**: Eine betonte Silbe vor [-teros, -tera, -tero] ist ein
   Komparativ. Achte auf das [t]: [καλύτερα]{lang="el"} [kaˈlitera] gegen [καλά]{lang="el"} [kaˈla].
 - **[ap]** vor Artikel oder [ˈoti]: das verkürzte [από]{lang="el"}, „als“:
   [απ’ τη Μύκονο]{lang="el"}, [απ’ ό,τι]{lang="el"} [aˈpoti].
@@ -993,7 +995,7 @@ Tempo gehalten. Wenig verstanden in Durchgang 1 ist bei Straßensprache normal.
   [-ως]{lang="el"}: [ακριβώς, συνήθως]{lang="el"}. Komparativ [πιο γρήγορα]{lang="el"},
   [καλύτερα, περισσότερο, αργότερα, νωρίτερα]{lang="el"}.
 - **Wetter:** [βρέχει, κάνει ζέστη, κάνει κρύο, είναι ζεστά]{lang="el"}.
-- **Teil I** in Tabellen: @sec-vergleich-bilanz-verb.
+- **Teil I** in Tabellen: @sec-vergleich-bilanz.
 
 ## Zum Lesen: Welche Insel? {#sec-vergleich-lesetext}
 
@@ -1082,7 +1084,7 @@ abregnen; der Osten liegt im Regenschatten.
 | [εξαρτάται]{lang="el"} | es kommt darauf an |
 | [η βραχονησίδα]{lang="el"} | die Felsinsel |
 | [μοιάζω με]{lang="el"} | ähneln, aussehen wie (Kapitel 2) |
-| [ο Ψηλορείτης]{lang="el"} | der Psiloritis (Ida-Gebirge), wörtlich „der Hohe“ |
+| [ο Ψηλορείτης]{lang="el"} | der Psiloreitis (Ida-Gebirge), wörtlich „der Hohe“ |
 | [κολυμπάω, κολύμπησα]{lang="el"} | schwimmen (Kapitel 4) |
 | [το Λιβυκό Πέλαγος]{lang="el"} | das Libysche Meer |
 | [το αντίθετο]{lang="el"} | das Gegenteil |
@@ -1121,7 +1123,7 @@ Insel?“ Schwierige Frage. Und ich antworte ihnen immer: „Kommt drauf an.“ 
 und Felsinseln, aber Menschen leben nur auf etwas über hundert. Und keine gleicht der anderen.
 
 Kreta ist die größte Insel des Landes, fast ein kleines Land für sich. Es hat auch die höchsten
-Berge aller Inseln: Der Psiloritis erreicht 2456 Meter. Im April kannst du morgens schwimmen und nachmittags
+Berge aller Inseln: Der Psiloreitis erreicht 2456 Meter. Im April kannst du morgens schwimmen und nachmittags
 Schnee auf den Bergen sehen. Im Süden, am Libyschen Meer, dauert der Sommer länger als in
 Athen, und das Meer ist bis November warm.
 
@@ -1151,7 +1153,7 @@ beim nächsten Mal sehen wirst.
 :::
 
 ::: {.callout-note .exercise}
-## Übung 12.8: Formen jagen in „[Ποιο νησί;]{lang="el"}“
+## Übung 12.8: Formen jagen in [«Ποιο νησί;»]{lang="el"}
 
 **Teil A.** Richtig oder falsch laut Text? Im Chat reicht „1r, 2f …“.
 
@@ -1199,7 +1201,7 @@ länger. 7: das Ionische Meer.
 8. [ήμουν, είχαμε]{lang="el"}: nur eine Vergangenheit, Zustand. [περνούσαμε]{lang="el"} (jeden
    Sommer), [φώναζε]{lang="el"} (jeden Tag): Film, Gewohnheit. Kein Aorist: Der Absatz beschreibt,
    wie es war.
-9. [διάλεξε]{lang="el"} (Foto), [πήγαινε]{lang="el"} (fester Film-Imperativ); Verbot [μην
+9. [διάλεξε]{lang="el"} (Foto), [πήγαινε]{lang="el"} (Einzelgänger, Kapitel 9); Verbot [μην
    ξεχάσεις]{lang="el"} (Foto, dieses eine Mal); [να θυμάσαι]{lang="el"} (Rat, Film);
    [θα δεις]{lang="el"} (Foto). Bei [θα σου αρέσει]{lang="el"} sehen Foto und Film gleich aus.
 10. [το πιο ωραίο ελληνικό νησί]{lang="el"}; [το μεγαλύτερο νησί της χώρας]{lang="el"};
@@ -1210,7 +1212,7 @@ länger. 7: das Ionische Meer.
     [-τερος]{lang="el"} darin steckt. Die übrigen Vergleiche, etwa [πιο γρήγορα από τον μέσο
     όρο]{lang="el"}, sind Komparative.
 
-**Teil C.** In [κυπαρίσσια]{lang="el"} wird das [ι]{lang="el"} vor [α]{lang="el"} zum Gleitlaut:
+**Teil C.** In [κυπαρίσσια]{lang="el"} wird das [ι]{lang="el"} vor [α]{lang="el"} zum kurzen *j*-Laut:
 vier Silben, nicht fünf. In [αμπέλια]{lang="el"} und [Σαντορίνη]{lang="el"} klingen
 [μπ]{lang="el"} und [ντ]{lang="el"} wie *b* und *d* (Kapitel 1).
 :::

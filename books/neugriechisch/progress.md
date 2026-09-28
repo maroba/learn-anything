@@ -17,7 +17,7 @@
 | 10 Verben auf -μαι im Alltag | veröffentlicht | Welle 4; Audio ausstehend |
 | 12 Vergleichen und Zwischenbilanz | Konsistenz | Welle 6; überarbeitet |
 | 13 Es wurde gefunden: das Mediopassiv | Übungen | Welle 7; Entwurf fertig |
-| 14 Hast du schon …? Perfekt und Plusquamperfekt | Übungen | Welle 7; Entwurf fertig |
+| 14 Hast du schon …? Perfekt und Plusquamperfekt | im Review | Welle 7; Übungen fertig |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio läuft |
 
