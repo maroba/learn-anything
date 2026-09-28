@@ -378,13 +378,14 @@ ist nichts kleiner geworden, aber alles näher.
 so fragt, macht es dem anderen leicht, ja zu sagen, und sich selbst leicht, nicht aufdringlich zu
 wirken. Beim Bestellen unter Freunden gehört das zum Ton: [μια σαλατούλα, ένα κρασάκι]{lang="el"}.
 Dass das [λεπτάκι]{lang="el"} auf dem Amt zwanzig Minuten dauern kann, gehört zur Lesart dazu.
+Auch schlechte Nachrichten werden so gepolstert: [Έχουμε ένα μικρό προβληματάκι.]{lang="el"} kann
+heißen: Wir haben ein ernstes Problem, und ich sage es dir schonend.
 
-**4. Spöttisch oder herabsetzend.** Auf etwas Großes angewandt, wird das Diminutiv ironisch. [Έχουμε
-ένα μικρό προβληματάκι.]{lang="el"} kann heißen: Wir haben ein ernstes Problem, und ich sage es
-dir schonend. Über einen Menschen gesagt, setzt es herab: [ο κυριούλης]{lang="el"} ist kein
-kleiner Herr, sondern ein Spießer, der sich wichtig nimmt. Und wer zur neuen Villa eines Bekannten
-[Ωραίο σπιτάκι]{lang="el"} sagt, lobt nicht, er stichelt.
-<!-- CHECK: κυριούλης als abwertend „Spießer, Kleinbürger“ (LKN: μειωτικό?) -->
+**4. Spöttisch oder herabsetzend.** Auf etwas Großes angewandt, das der Sprecher kleinreden
+will, wird das Diminutiv spöttisch: Wer zur neuen Villa eines Bekannten [Ωραίο
+σπιτάκι]{lang="el"} sagt, lobt nicht, er stichelt. Über einen Menschen gesagt, setzt es herab:
+[ένα ανθρωπάκι]{lang="el"} ist ein kleiner Wicht, ein Niemand. Milder ist [ο
+κυριούλης]{lang="el"}, der ältere Herr, das Männchen, halb herablassend, halb mitleidig.
 
 Welche Lesart gilt, entscheiden die Umstände: Wie groß ist die Sache wirklich? Spricht jemand mit
 einem Kind? Wird gerade etwas angeboten oder erbeten? Und wie klingt es? Wo die Sache offensichtlich
@@ -425,8 +426,8 @@ Zwei Buchstaben sind erlaubt. Im Chat: „1c, 2b, …“.
 6. Eine Freundin über den Urlaub: [Νοικιάσαμε ένα σπιτάκι στο βουνό, δύο δωμάτια όλο κι
    όλο.]{lang="el"}
 7. Ein Enkel am Telefon: [Παππούλη, πώς είσαι;]{lang="el"}
-8. Eine Kollegin über den neuen Abteilungsleiter: [Πάλι μας είπε τι να κάνουμε ο
-   κυριούλης.]{lang="el"}
+8. Eine Kollegin über den neuen Abteilungsleiter: [Ανθρωπάκι είναι, δεν τον
+   φοβάμαι.]{lang="el"}
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -445,13 +446,13 @@ sticheln.
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**1c, 2b, 3c (+b), 4c (+d), 5d, 6a (+b), 7b, 8d.**
+**1c, 2b, 3c (+b), 4c, 5d, 6a (+b), 7b, 8d.**
 
 - 1, 3: Bitte und Angebot werden klein gemacht; wer selbst gebacken hat, meint es auch herzlich.
-- 4: Das Diminutiv polstert eine große Nachricht; wer den Unterton hört, nimmt d dazu.
+- 4: Das Diminutiv polstert eine schlechte Nachricht; höchstens +d, wenn Ironie mitklingt.
 - 5: Die Miene verrät den Spott; ohne sie wäre es vielleicht ein freundlicher Scherz.
 - 6: Wörtlich klein, oft zugleich „gemütlich“. 2, 7: nichts kleiner, alles näher.
-- 8: [ο κυριούλης]{lang="el"} ist der Wichtigtuer.
+- 8: [ανθρωπάκι]{lang="el"} macht den Chef klein, in der Bedeutung, nicht in der Größe.
 
 Typischer Fehler: jedes Diminutiv mit „klein“ übersetzen. Hier ist nur eines wirklich klein.
 :::
@@ -460,7 +461,8 @@ Typischer Fehler: jedes Diminutiv mit „klein“ übersetzen. Hier ist nur eine
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [το προβληματάκι]{lang="el"} | [to provlimaˈtaci] | das kleine Problem (oft schonend für ein großes) |
-| [ο κυριούλης]{lang="el"} | [o ciˈrʝulis] | der Spießer (abwertend) |
+| [το ανθρωπάκι]{lang="el"} | [to anθroˈpaci] | der kleine Wicht, der Niemand (abwertend) |
+| [ο κυριούλης]{lang="el"} | [o ciˈrʝulis] | der ältere Herr, das Männchen (herablassend oder mitleidig) |
 | [κούκλα μου, κουκλίτσα μου]{lang="el"} | [ˈkukla mu], [kuˈklitsa mu] | mein Püppchen, Schätzchen (zu Kindern; unter Vertrauten) |
 | [γλυκούλης, -α, -ικο]{lang="el"} | [ɣliˈkulis] | süß, niedlich |
 | [το γλυκάκι]{lang="el"} | [to ɣliˈkaci] | etwas Süßes, eine kleine Süßigkeit |
@@ -469,14 +471,8 @@ Typischer Fehler: jedes Diminutiv mit „klein“ übersetzen. Hier ist nur eine
 ## Vorsilben: Bedeutung erschließen {#sec-praefixe-vorsilben}
 
 Vier Vorsilben tragen im Alltag viel. Die Methode ist immer dieselbe: Vorsilbe abtrennen, das
-bekannte Verb erkennen, beides zusammensetzen und die Bedeutung am Satz prüfen.
-
-Eine Regel gilt für alle: **Im Aorist zählt die Vorsilbe mit.** Die Betonung liegt wie immer auf
-der drittletzten Silbe (Kapitel 2); fällt sie auf die Vorsilbe, braucht es kein Augment mehr:
-[έφαγα → παράφαγα]{lang="el"}, [έγραψα → ξανάγραψα]{lang="el"}, [έφυγα → ξέφυγα]{lang="el"}. Wo
-das Augment zum unregelmäßigen Stamm gehört, bleibt es: [ξαναήρθα, ξαναείδα,
-παραήπια]{lang="el"}.
-<!-- CHECK: Formen ξανάγραψα, ξέφυγα, παράφαγα, ξαναήρθα, ξαναείδα, παραήπια als Standard; Regel „Augment fällt, wenn die Vorsilbe die Betonung trägt“ so haltbar? -->
+bekannte Verb erkennen, beides zusammensetzen und die Bedeutung am Satz prüfen. Was die
+Vorsilben mit dem Augment machen, folgt nach den vier Vorsilben (@sec-praefixe-aorist).
 
 ### [ξανα-]{lang="el"}: noch einmal {#sec-praefixe-ksana}
 
@@ -508,12 +504,16 @@ ein [b].
 
 Die zweite Bedeutung ist die alte, **heraus, weg**: [φεύγω → ξεφεύγω]{lang="el"} „entkommen,
 entwischen“, [πλένω → ξεπλένω]{lang="el"} „ausspülen“, [χωρίζω → ξεχωρίζω]{lang="el"}
-„auseinanderhalten; herausragen“. Und in [ξεκινάω]{lang="el"} „aufbrechen“ bewegt sich
-([κινώ]{lang="el"}) etwas aus dem Stand heraus. Auch [ξεχνάω]{lang="el"} gehört wohl dazu: Es
-hängt mit [χάνω]{lang="el"} „verlieren“ zusammen, vergessen heißt also „aus dem Kopf verlieren“.
-<!-- CHECK: Etymologie ξεχνώ < *ξεχάνω (εκ + χάνω); sonst Satz streichen -->
+„auseinanderhalten; herausragen“. Und in [ξεκινάω]{lang="el"} „aufbrechen“ (Kapitel 19) bewegt
+sich ([κινώ]{lang="el"}) etwas aus dem Stand heraus.
 
-Wer ein [ξε-]{lang="el"}-Verb nicht kennt, probiert zuerst „rückgängig“, dann „heraus, weg“.
+Seltener ist eine dritte Bedeutung, **ganz und gar**: [ξετρελαίνω]{lang="el"} „völlig verrückt
+machen“, [ξεκουφαίνω]{lang="el"} „taub machen“ (vor Lärm). Hierher gehört auch
+[ξεχνάω]{lang="el"} (Kapitel 2): Es geht auf [ξεχάνω]{lang="el"} „ganz verlieren“ zurück;
+vergessen heißt also, etwas restlos aus dem Kopf zu verlieren.
+
+Wer ein [ξε-]{lang="el"}-Verb nicht kennt, probiert zuerst „rückgängig“, dann „heraus, weg“,
+zuletzt „ganz und gar“.
 Aber Vorsicht: Nicht jedes [ξε]{lang="el"} am Wortanfang ist eine Vorsilbe. In [ξέρω]{lang="el"}
 und [ξένος]{lang="el"} bleibt nach dem Abtrennen nichts Sinnvolles übrig.
 
@@ -537,7 +537,8 @@ h. Μη με ξαναρωτήσεις!
 
 **Grundverben:** [βιδώνω]{lang="el"} festschrauben, [κουμπώνω]{lang="el"} zuknöpfen,
 [φορτώνω]{lang="el"} beladen, [βάφω]{lang="el"} färben, [κολλάω]{lang="el"} kleben. **Neu:**
-[το καπάκι]{lang="el"} Deckel, [το πουκάμισο]{lang="el"} Hemd, [η αφίσα]{lang="el"} Plakat.
+[το πουκάμισο]{lang="el"} Hemd, [η αφίσα]{lang="el"} Plakat; [το καπάκι]{lang="el"} „Deckel“ kennst
+du aus Kapitel 9.
 
 **Bedeutungen:** 1 fremd · 2 aufknöpfen · 3 sich lösen · 4 noch einmal lesen · 5 ausladen ·
 6 aufschrauben · 7 noch einmal fragen · 8 verblassen

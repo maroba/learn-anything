@@ -532,8 +532,7 @@ In echten Filmen fallen Redewendungen schnell, beiläufig und oft verkürzt. Zwe
 Achte auf die **Reaktion** des Gegenübers (Lachen, Empörung, Schweigen verraten, ob gerade eine
 Spitze gefallen ist), und nutze **griechische Untertitel**. Sie kürzen zwar (Kapitel 21), lassen
 feste Wendungen aber oft stehen, sodass du sie nachschlagen kannst. Filme und Serien
-findest du auf [ERTflix](https://www.ertflix.gr), manche mit griechischen Untertiteln
-(Kapitel 21).
+findest du auf [ERTflix](https://www.ertflix.gr), manche mit griechischen Untertiteln.
 
 <!-- EXERCISE: Hör-Auftrag ERTflix (https://www.ertflix.gr): eine griechische Komödie oder Familienserie mit griechischen Untertiteln (CC) wählen, 10 Minuten Streit- oder Tischszene; (1) ohne Untertitel: Strich bei jedem Satz, bei dem man die Wörter, aber nicht den Sinn versteht; (2) mit griechischen Untertiteln: zwei solcher Stellen merken, im LKN nachschlagen, entscheiden, ob Formel, Redewendung oder Sprichwort; (3) prüfen, ob eine Wendung aus diesem Kapitel vorkam; Rückmeldung im Chat als Zahl + zwei Wendungen; keine erfundenen Titel oder URLs, Schwierigkeit 2 -->
 
@@ -664,7 +663,7 @@ wir die alle glauben würden.
 - **Galeere:** Dass [κατεργάρης]{lang="el"} von [κάτεργο]{lang="el"} kommt, steht in den
   Wörterbüchern. Das Bild der Ruderbank für die Wendung ist die übliche, naheliegende Erklärung,
   aber keine Quelle belegt, wie genau sie entstand.
-<!-- CHECK: Aristoteles EN VIII 1156b25–29 (τοὺς λεγομένους ἅλας συναναλῶσαι); Cicero Laelius 19,67 (multos modios salis); Plutarch, Lacaenarum apophthegmata, Moralia 241F (ἢ τὰν ἢ ἐπὶ τᾶς); κατεργάρης < κάτεργο laut LKN; venezianische Galeeren „oft auch“ mit Sträflingen gerudert (Byzanz: überwiegend freie Ruderer?); deutsche Wendung „einen Scheffel Salz mit jemandem gegessen haben“ -->
+<!-- CHECK: Aristoteles EN VIII 1156b25–29; Cicero Laelius 19,67 (multos modios salis); Plutarch, Lacaenarum apophthegmata, Moralia 241F; κατεργάρης < κάτεργο laut LKN; venezianische Galeeren „oft auch“ mit Sträflingen gerudert (Byzanz: überwiegend freie Ruderer?); deutsche Wendung „einen Scheffel Salz mit jemandem gegessen haben“ -->
 :::
 
 <!-- EXERCISE: Leseverstehen zur Kolumne: Teil A richtig/falsch aus dem Text (7 Aussagen, u. a. Aristoteles erfand das Sprichwort [falsch: zitiert es als Sprichwort]; Schildflüchtige warfen den Schild weg; κατεργάρης heißt heute „Sträfling“ [falsch]; Herkunft von „Σιγά τα λάχανα“ ist geklärt [falsch]); Teil B: vier Wendungen aus dem ganzen Kapitel einer Herkunft zuordnen (Antike, Kirche, Seefahrt, osmanisch) und sagen, ob gesichert oder „gängige Erklärung“; Schwierigkeit 2 -->
