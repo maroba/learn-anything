@@ -93,11 +93,6 @@ Straße, morgens aufgebaut, nachmittags verschwunden. Der volle Name ist [η λ�
 ist über lateinisch *laicus* im Deutschen zum *Laien* geworden; mit einem Augenzwinkern ist die
 Laiki also der Markt der Laien.
 
-Das Kapitel liefert, was man dort braucht: **Nomen im Plural** ([οι ντομάτες, τα
-αγγούρια]{lang="el"}), **Adjektive, die sich anpassen** ([ώριμες ντομάτες, γλυκιά
-ντομάτα]{lang="el"}), und **Zahlen**, die auf das Genus achten: [τρία αγγούρια]{lang="el"}, aber
-[τρεις ντομάτες]{lang="el"}.
-
 Einige Formen kommen erst später dran; nimm sie als feste Stücke mit. [Κοίτα, Δοκίμασε, Βάλε
 μου, Δώσε μου]{lang="el"} sind Befehlsformen (Kapitel 9); [Δοκίμασε]{lang="el"} „probier!“
 klingt genau wie der Aorist „er probierte“. In [Τα κόψαμε]{lang="el"} ist [τα]{lang="el"} „sie“
@@ -330,10 +325,9 @@ zwei Wörtern wandert die Betonung, bei einem davon nur im Akkusativ.
 | [η γιαγιά]{lang="el"} | [οι γιαγιάδες]{lang="el"} | [τις γιαγιάδες]{lang="el"} |
 | [το ευρώ]{lang="el"} | [τα ευρώ]{lang="el"} | [τα ευρώ]{lang="el"} |
 
-- **[τους ψαράδες, τους εργάτες]{lang="el"}**: Akkusativ gleich Nominativ; \*[τους
-  ψαράδους]{lang="el"} ist ein häufiger Mischfehler, \*[οι εργάτηδες]{lang="el"} ein zweiter.
-- **[τα κρεμμύδια]{lang="el"}** [ta kreˈmiðʝa]: Das [ι]{lang="el"} wird vor [α]{lang="el"} zum
-  Gleitlaut wie in Kapitel 1, aus vier Silben werden drei.
+- **[τους ψαράδες, τους εργάτες]{lang="el"}**: \*[τους ψαράδους]{lang="el"} und
+  \*[οι εργάτηδες]{lang="el"} sind häufige Mischfehler.
+- **[τα κρεμμύδια]{lang="el"}** [ta kreˈmiðʝa]: [ι]{lang="el"} als Gleitlaut wie in Kapitel 1.
 - **[οι πόλεις, οι λέξεις]{lang="el"}**, nicht \*[οι πόλες]{lang="el"}. Im Nominativ hört man den
   Plural nur am [-s]: [i ˈpoli] – [i ˈpolis]; im Akkusativ zusätzlich am Artikel
   ([την – τις]{lang="el"}).
@@ -609,7 +603,7 @@ Nach „neben, in, auf“ denkt man an den deutschen Dativ und greift zum nackte
 ::: {.callout-note .exercise}
 ## Übung 6.3: Die zweite Sprachnachricht
 
-**Teil A: auswählen.** Noch eine Wegbeschreibung, zu einem anderen Markt. Was gehört in die
+Noch eine Wegbeschreibung, zu einem anderen Markt. Was gehört in die
 Lücken? Nicht jede Auswahl wird gebraucht. Im Chat reicht „1b, 2c …“.
 
 **(a)** [στον]{lang="el"} · **(b)** [στη]{lang="el"} · **(c)** [στην]{lang="el"} ·
@@ -622,12 +616,6 @@ Lücken? Nicht jede Auswahl wird gebraucht. Im Chat reicht „1b, 2c …“.
 απέναντι (6) … ψαρά. Τα χόρτα είναι (7) … τέλος, (8) … παραγωγούς. Και έλα (9) … οχτώ,
 όχι (10) … έντεκα.
 :::
-
-**Teil B: mündlich übersetzen.**
-
-1. Ich bin auf dem Markt, neben dem Fischhändler.
-2. Die Tüte ist im Einkaufswagen.
-3. Um acht fahren wir nach Megara.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -648,7 +636,7 @@ Ortsadverb nimmt [σε]{lang="el"}: [πίσω]{lang="el"} und [μακριά]{lan
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**Teil A: 1b, 2c, 3a, 4d, 5c, 6a oder 6h, 7d, 8e, 9f, 10f.**
+**1b, 2c, 3a, 4d, 5c, 6a oder 6h, 7d, 8e, 9f, 10f.**
 
 - (1) [στη λαϊκή]{lang="el"}: vor [λ]{lang="el"} ohne [ν]{lang="el"}; (2) [στην αρχή]{lang="el"}:
   vor Vokal mit.
@@ -661,14 +649,8 @@ Ortsadverb nimmt [σε]{lang="el"}: [πίσω]{lang="el"} und [μακριά]{lan
 - (7) [στο τέλος]{lang="el"}: sächlich wie [το λάθος]{lang="el"}. (8) [στους παραγωγούς]{lang="el"}.
 - (9), (10) [στις]{lang="el"}: Uhrzeiten sind weiblich Plural.
 
-[στα]{lang="el"} bleibt übrig; es kommt in Teil B.
-
-**Teil B**
-
-1. [Είμαι στη λαϊκή, δίπλα στον ψαρά.]{lang="el"}
-2. [Η σακούλα είναι στο καρότσι.]{lang="el"} Auch: [μέσα στο καρότσι]{lang="el"}.
-3. [Στις οχτώ πάμε στα Μέγαρα.]{lang="el"} [τα Μέγαρα]{lang="el"} ist ein Plural. Dass es „nach“
-   Megara geht, sagt das Verb [πάω]{lang="el"}, nicht die Präposition.
+[στα]{lang="el"} bleibt übrig: [στα Μέγαρα]{lang="el"}, denn [τα Μέγαρα]{lang="el"} ist ein
+Plural.
 :::
 
 ::: {.vocab}
@@ -813,11 +795,10 @@ Singular. Ist das Ganze Objekt, steht auch das Nomen im Akkusativ: [Θέλω έ�
 
 **Teil B: mündlich übersetzen.**
 
-1. Drei Tomaten und vier Gurken, bitte.
-2. Ich komme um vier.
-3. Ein halbes Kilo Feta und anderthalb Kilo Tomaten.
-4. Ich will dreizehn Paprika und einundzwanzig Zitronen.
-5. Anderthalb Stunden für zweieinhalb Kilo Kartoffeln!
+1. Ich komme um vier.
+2. Ein halbes Kilo Feta und anderthalb Kilo Tomaten.
+3. Ich will dreizehn Paprika und einundzwanzig Zitronen.
+4. Anderthalb Stunden für zweieinhalb Kilo Kartoffeln!
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -851,16 +832,15 @@ In Schild 4 zählt die 4 die Kilos; für Schild 5 hilft der Exkurs. „Anderthal
 
 **Teil B**
 
-1. [Τρεις ντομάτες και τέσσερα αγγούρια, παρακαλώ.]{lang="el"}
-2. [Έρχομαι στις τέσσερις.]{lang="el"} \*[στις τέσσερα]{lang="el"} ist der Spiegelfehler zu
+1. [Έρχομαι στις τέσσερις.]{lang="el"} \*[στις τέσσερα]{lang="el"} ist der Spiegelfehler zu
    \*[τρεις ευρώ]{lang="el"}.
-3. [Μισό κιλό φέτα και ενάμισι κιλό ντομάτες.]{lang="el"} Beide Zahlwörter richten sich nach
+2. [Μισό κιλό φέτα και ενάμισι κιλό ντομάτες.]{lang="el"} Beide Zahlwörter richten sich nach
    [το κιλό]{lang="el"}; zu \*[μισή κιλό]{lang="el"} verleitet [η φέτα]{lang="el"}.
-4. [Θέλω δεκατρείς πιπεριές και είκοσι ένα λεμόνια.]{lang="el"} Das Nomen steht trotzdem im
+3. [Θέλω δεκατρείς πιπεριές και είκοσι ένα λεμόνια.]{lang="el"} Das Nomen steht trotzdem im
    Plural.
-5. [Μιάμιση ώρα για δυόμισι κιλά πατάτες!]{lang="el"} [μιάμιση]{lang="el"} wegen
+4. [Μιάμιση ώρα για δυόμισι κιλά πατάτες!]{lang="el"} [μιάμιση]{lang="el"} wegen
    [η ώρα]{lang="el"}; \*[ενάμισι ώρα]{lang="el"} ist der häufigste Fehler. Nach
-   [δυόμισι]{lang="el"} Plural [κιλά]{lang="el"}, nach [ενάμισι]{lang="el"} Singular.
+   [δυόμισι]{lang="el"} Plural [κιλά]{lang="el"}, nach [ενάμισι]{lang="el"} in Satz 2 Singular.
 :::
 
 ::: {.vocab}
@@ -1160,18 +1140,7 @@ auch in [ντομάαατες]{lang="el"}.
 ::: {.callout-note .exercise}
 ## Übung 6.6: Selbst ausrufen
 
-**Teil A: Aussage oder Beschreibung?** Ist die Wortgruppe (a) ein ganzer Satz („… sind …“)
-oder (b) nur eine Nominalgruppe? Im Chat reicht „1a, 2b …“.
-
-::: {lang="el" .no-audio}
-1. Γλυκά τα σύκα!
-2. τα γλυκά σύκα
-3. Ζάχαρη το καρπούζι!
-4. τις φρέσκες πιπεριές
-5. Φτηνές οι πατάτες, κυρία μου!
-:::
-
-**Teil B: ausrufen.** Mach einen Marktruf und pass das Adjektiv an. Beispiel: (φρέσκος) + τα
+**Teil A: ausrufen.** Mach einen Marktruf und pass das Adjektiv an. Beispiel: (φρέσκος) + τα
 φασολάκια → [Φρέσκα τα φασολάκια!]{lang="el"}
 
 ::: {lang="el" .no-audio}
@@ -1181,7 +1150,7 @@ oder (b) nur eine Nominalgruppe? Im Chat reicht „1a, 2b …“.
 4. (κρητικός) + το μέλι
 :::
 
-**Teil C: Digraphen.** Ruf das laut, als stündest du hinter dem Stand. Hör es dir erst danach
+**Teil B: Digraphen.** Ruf das laut, als stündest du hinter dem Stand. Hör es dir erst danach
 mit ▶ an.
 
 ::: {lang="el"}
@@ -1192,31 +1161,27 @@ mit ▶ an.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Teil A: Kommt der Artikel zuerst, beschreibt das Adjektiv nur. Teil B: Das Adjektiv richtet sich
-nach dem Nomen dahinter.
+Teil A: Das Adjektiv steht vor dem Artikel und richtet sich trotzdem nach dem Nomen dahinter.
+Teil B: Lies langsam, Digraph für Digraph.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Teil A: Ein Nomen vor dem Artikel macht ebenfalls einen Satz. Teil B: Bei [γλυκός]{lang="el"}
-unterscheiden sich Singular und Plural im Femininum. Teil C: Jeder Digraph aus
+Teil A: Bei [γλυκός]{lang="el"} unterscheiden sich Singular und Plural im Femininum. Teil B:
+Jeder Digraph aus
 @sec-markt-digraphen ist ein einziger Laut, nur [γγ]{lang="el"} sind zwei.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**Teil A: 1a, 2b, 3a, 4b, 5a.** Nr. 3 hat statt eines Adjektivs ein Nomen und ist trotzdem eine
-Aussage. Nr. 4 ist eine Nominalgruppe im Akkusativ, die ein Verb braucht: [Θέλω τις φρέσκες
-πιπεριές.]{lang="el"}
-
-**Teil B:** [Ώριμο το καρπούζι! Γλυκές οι ντομάτες! Ωραία η μελιτζάνα! Κρητικό το
+**Teil A:** [Ώριμο το καρπούζι! Γλυκές οι ντομάτες! Ωραία η μελιτζάνα! Κρητικό το
 μέλι!]{lang="el"} Fehlerquellen: \*[γλυκιές]{lang="el"} (im Plural kein [ι]{lang="el"}),
 \*[ωραίη]{lang="el"} (nach Vokal [-α]{lang="el"}) und die Grundform \*[Ώριμος το
 καρπούζι]{lang="el"}. Die Endung ist das Einzige, was den Ruf zusammenhält.
 
-**Teil C**
+**Teil B**
 
 - [Ντομάτες!]{lang="el"} [doˈmates]: [d] ohne [n] davor.
 - [Μπάμιες!]{lang="el"} [ˈbamɲes]: [μπ]{lang="el"} ist [b]; [mp] ist der verbreitetste
@@ -1334,8 +1299,7 @@ ohne nachzuschlagen; dann helfen Wortschatz und Übersetzung.
 
 Οι πελάτες δοκιμάζουν, ρωτάνε, συγκρίνουν. Ένας παππούς ρωτάει σε τέσσερις πάγκους πόσο κάνουν
 οι πατάτες και στο τέλος αγοράζει από τον πρώτο. Μια κυρία διαλέγει ντομάτες μία μία, σαν
-κοσμήματα. Οι έξυπνοι πελάτες έρχονται αργά: γύρω στις δύο οι πωλητές είναι κουρασμένοι και οι
-τιμές πέφτουν. Οι έξυπνοι πωλητές, πάλι, κρατάνε τις καλές ντομάτες για τους πρώτους πελάτες.
+κοσμήματα.
 
 Στις τρεις ο δρόμος αδειάζει. Έρχονται τα φορτηγά του δήμου και πλένουν την άσφαλτο. Στις
 τέσσερις κανείς δεν καταλαβαίνει ότι εδώ, πριν από λίγες ώρες, είχε τριακόσια μέτρα αγορά.
@@ -1373,9 +1337,6 @@ Nomen [αγορά]{lang="el"} weggefallen ist, wie in @sec-markt-adjektive-stell
 | [συγκρίνω]{lang="el"} | vergleichen |
 | [μία μία]{lang="el"} | eine nach der anderen |
 | [το κόσμημα]{lang="el"} | das Schmuckstück |
-| [έξυπνος, -η, -ο]{lang="el"} | klug, schlau |
-| [κουρασμένος, -η, -ο]{lang="el"} | müde |
-| [κρατάω]{lang="el"} | (zurück)behalten |
 | [αδειάζω]{lang="el"} | sich leeren |
 | [ο δήμος]{lang="el"} | die Gemeinde, Stadtverwaltung |
 | [η άσφαλτος]{lang="el"} | der Asphalt (weiblich auf -ος) |
@@ -1405,8 +1366,7 @@ der Kohl und das Wildgemüse. Wassermelone im Dezember? Nur im Supermarkt.
 
 Die Kunden probieren, fragen, vergleichen. Ein Großvater fragt an vier Ständen, was die
 Kartoffeln kosten, und kauft am Ende beim ersten. Eine Frau sucht Tomaten einzeln aus, wie
-Schmuckstücke. Die klugen Kunden kommen spät: Gegen zwei sind die Verkäufer müde, und die Preise
-fallen. Die klugen Verkäufer wiederum halten die guten Tomaten für die ersten Kunden zurück.
+Schmuckstücke.
 
 Um drei leert sich die Straße. Die Wagen der Stadtreinigung kommen und waschen den Asphalt. Um
 vier merkt niemand mehr, dass hier vor ein paar Stunden dreihundert Meter Markt waren. Bis zum

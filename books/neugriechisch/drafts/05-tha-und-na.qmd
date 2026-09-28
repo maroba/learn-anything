@@ -86,8 +86,8 @@ nie hinaufgestiegen.
 — Sag so was nicht mal im Spaß.
 :::
 
-Bis auf drei Aoriste ([κλείσαμε, ήρθα, ανέβηκα]{lang="el"}) spielt dieses Gespräch in der
-Zukunft. Das Griechische braucht dafür ein einziges kleines Wort: **[θα]{lang="el"}** [θa], mit
+Bis auf drei Aoriste ([κλείσαμε, ήρθα, ανέβηκα]{lang="el"}) und ein paar Präsensformen spielt
+dieses Gespräch in der Zukunft. Das Griechische braucht dafür ein einziges kleines Wort: **[θα]{lang="el"}** [θa], mit
 dem Laut wie engl. *think*. Es steht vor dem Verb und verändert sich nie. Spannender ist, was
 dahinter steht:
 
@@ -109,31 +109,7 @@ zweiten kleinen Wort des Kapitels, **[να]{lang="el"}** [na]: [Θέλω να δ
 Zur Aussprache: [μποφόρ]{lang="el"} [boˈfor] ist das französische *Beaufort* in griechischer
 Schrift, und [μπ]{lang="el"} ist ein [b], wie in [μπορώ]{lang="el"} [boˈro] „ich kann“, das
 gleich eine Hauptrolle bekommt. Das [Αιγαίο]{lang="el"} [eˈʝeo] hat zweimal [αι]{lang="el"}, beide
-Male ein [e]; das [γ]{lang="el"} dazwischen klingt vor [e] wie *j* in *ja*. Und
-[ο αέρας]{lang="el"} [o aˈeras] hat drei Silben, [α-έ-ρας]{lang="el"}, ohne Digraph.
-
-[Λόγω καιρού]{lang="el"} „wegen des Wetters“ ist Amtssprache von der Anzeigetafel (Kapitel 28).
-Und [κλείνω]{lang="el"} hat eine praktische zweite Bedeutung: Ein Zimmer oder eine Fahrkarte
-„schließt“ man, wenn man sie bucht.
-
-::: {.callout-note collapse="true"}
-## Exkurs: Ein Wind mit Geschichte
-
-Der Meltemi ist kein Unwetter. Er weht bei blauem Himmel und praller Sonne aus Norden über die
-Ägäis, von etwa Mai bis September, am stärksten im Juli und August, oft tagelang. Seefahrer kennen
-ihn seit der Antike. Die Griechen nannten diese Winde nach dem Jahr ([ετήσιος]{lang="el"}
-„jährlich“, heute etwa in [ετήσια συνδρομή]{lang="el"} „Jahresabo“), weil sie jedes Jahr
-zuverlässig wiederkommen; daher heißen sie in der Meteorologie bis heute *Etesien*.
-
-Diese Zuverlässigkeit hatte Folgen für die Politik. Demosthenes wies die Athener in seiner ersten
-Rede gegen Philipp von Makedonien darauf hin, dass der König seine Feldzüge gern in die Zeit der
-Etesien oder des Winters lege, wenn eine athenische Flotte gegen den Wind nicht nach Norden käme.
-<!-- CHECK: Demosthenes, 1. Philippika (4), § 31: Philipp nutzt die Etesien bzw. den Winter, wenn die Athener nicht hinkommen – Stelle und Paraphrase prüfen -->
-
-Das Wort [μελτέμι]{lang="el"} kam über das Türkische (*meltem*) ins Griechische; woher das
-türkische Wort stammt, ist nicht sicher geklärt.
-<!-- CHECK: Etymologie μελτέμι < türk. meltem; Herkunft des türkischen Worts unsicher (ital. Deutungen umstritten) – mit LKN/Babiniotis abgleichen -->
-:::
+Male ein [e]; das [γ]{lang="el"} dazwischen klingt vor [e] wie *j* in *ja*.
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
