@@ -189,43 +189,37 @@ Bilde die Verkleinerung auf [-άκι]{lang="el"} mit Artikel und sag sie laut:
 
 [ο κεφτές, ο δρόμος, το ποτήρι, το λεπτό, το νερό, η πατάτα, το πρόβλημα, ο φραπές]{lang="el"}
 
-Dann laut auf Griechisch, jeweils verkleinert: eine ruhige Gasse, zwei leckere Fleischbällchen,
-ein starker Kaffee.
+Dann verkleinert auf Griechisch: eine ruhige Gasse, zwei leckere Fleischbällchen, ein starker
+Kaffee.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Der Artikel ist bei allen acht derselbe. Endung des Grundworts weg, [-άκι]{lang="el"} dran,
-Betonung auf [-ά-]{lang="el"}.
+Der Artikel ist bei allen acht derselbe, die Betonung liegt immer auf [-ά-]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Zwei Wörter werden länger: Denk an [οι κεφτέδες]{lang="el"} und [του προβλήματος]{lang="el"}.
+Zwei Wörter werden länger: [οι κεφτέδες]{lang="el"}, [του προβλήματος]{lang="el"}.
 [ο φραπές]{lang="el"} geht wie [ο καφές]{lang="el"}. Das Adjektiv folgt dem neuen Artikel.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-[το κεφτεδάκι]{lang="el"} [kefteˈðaci], [το δρομάκι]{lang="el"} [ðroˈmaci], [το
-ποτηράκι]{lang="el"} [potiˈraci], [το λεπτάκι]{lang="el"} [lepˈtaci], [το νεράκι]{lang="el"}
-[neˈraci], [το πατατάκι]{lang="el"} [pataˈtaci], [το προβληματάκι]{lang="el"}
-[provlimaˈtaci], [το φραπεδάκι]{lang="el"} [frapeˈðaci].
+[το κεφτεδάκι, το δρομάκι, το ποτηράκι, το λεπτάκι, το νεράκι, το πατατάκι, το προβληματάκι,
+το φραπεδάκι]{lang="el"}
 
-- [κεφτεδάκι, φραπεδάκι]{lang="el"} nehmen das [δ]{lang="el"} des Plurals mit
-  ([κεφτέδες, φραπέδες]{lang="el"}), [προβληματάκι]{lang="el"} den Genitivstamm
-  [προβλήματ-]{lang="el"}.
-- Auch bei sächlichen Grundwörtern springt die Betonung: [poˈtiri → potiˈraci]. Wer
-  [poˈtiraci] sagt, betont nach dem Grundwort.
-- [το πατατάκι]{lang="el"} ist richtig gebildet, bedeutet aber meist „Kartoffelchip“; mehr dazu
-  im nächsten Abschnitt.
+- [κεφτεδάκι, φραπεδάκι]{lang="el"} nehmen das [δ]{lang="el"} des Plurals mit,
+  [προβληματάκι]{lang="el"} den Genitivstamm.
+- Die Betonung springt auch bei sächlichen Grundwörtern: [poˈtiri → potiˈraci].
+- [το πατατάκι]{lang="el"} ist richtig gebildet, heißt aber meist „Kartoffelchip“ (nächster
+  Abschnitt).
 
-Die Wendungen: [ένα ήσυχο δρομάκι, δυο νόστιμα κεφτεδάκια, ένα δυνατό καφεδάκι]{lang="el"}.
-Typischer Fehler: Artikel und Adjektiv vom Grundwort übernehmen, \*[ένας δυνατός
-καφεδάκι]{lang="el"}, \*[δυο νόστιμοι κεφτεδάκια]{lang="el"}.
+[ένα ήσυχο δρομάκι, δυο νόστιμα κεφτεδάκια, ένα δυνατό καφεδάκι]{lang="el"}. Typischer Fehler:
+Artikel und Adjektiv vom Grundwort, \*[ένας δυνατός καφεδάκι]{lang="el"}.
 :::
 
 ::: {.vocab}
@@ -299,44 +293,35 @@ Nenn zu jeder Verkleinerung das Grundwort mit Artikel. Hat das Genus gewechselt?
 [η μπιρίτσα, το χταποδάκι, οι σαρδελίτσες, το κρασάκι, η κουβεντούλα, ο Κωστάκης, τα
 παϊδάκια, το σκυλάκι, το σουβλάκι, το κουταλάκι]{lang="el"}
 
-Welche drei davon sind heute eigene Wörter, bei denen niemand mehr an „klein“ denkt?
+Welche drei sind heute eigene Wörter, bei denen niemand mehr an „klein“ denkt?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Unbekannte Grundwörter: Oktopus, Sardine, Gespräch, Rippe, Löffel. Wechseln kann das Genus nur
-bei [-άκι]{lang="el"}, und nur, wenn das Grundwort nicht schon sächlich ist.
+Unbekannte Grundwörter: Oktopus, Sardine, Gespräch, Rippe, Löffel. Das Genus wechseln kann nur
+[-άκι]{lang="el"}, und nur bei nicht sächlichen Grundwörtern.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Für die eigenen Wörter: Denk an die Speisekarte vom Grill und an die Besteckschublade.
+Eigene Wörter: Denk an die Speisekarte vom Grill und an die Besteckschublade.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-| Verkleinerung | Grundwort | Genus |
-|---|---|---|
-| [η μπιρίτσα]{lang="el"} | [η μπίρα]{lang="el"} | bleibt |
-| [το χταποδάκι]{lang="el"} | [το χταπόδι]{lang="el"} | bleibt |
-| [οι σαρδελίτσες]{lang="el"} | [η σαρδέλα]{lang="el"} | bleibt |
-| [το κρασάκι]{lang="el"} | [το κρασί]{lang="el"} | bleibt |
-| [η κουβεντούλα]{lang="el"} | [η κουβέντα]{lang="el"} | bleibt |
-| [ο Κωστάκης]{lang="el"} | [ο Κώστας]{lang="el"} | bleibt (Name) |
-| [τα παϊδάκια]{lang="el"} | [το παΐδι]{lang="el"} | bleibt |
-| [το σκυλάκι]{lang="el"} | [ο σκύλος]{lang="el"} | wechselt |
-| [το σουβλάκι]{lang="el"} | [η σούβλα]{lang="el"} | wechselt |
-| [το κουταλάκι]{lang="el"} | [το κουτάλι]{lang="el"} | bleibt |
+[η μπίρα, το χταπόδι, η σαρδέλα, το κρασί, η κουβέντα, ο Κώστας, το παΐδι, ο σκύλος, η σούβλα,
+το κουτάλι]{lang="el"}. Das Genus wechselt nur bei [το σκυλάκι]{lang="el"} und
+[το σουβλάκι]{lang="el"}; [ο Κωστάκης]{lang="el"} bleibt als Name männlich.
 
 Eigene Wörter: [τα παϊδάκια]{lang="el"} (Lammkoteletts vom Grill), [το σουβλάκι]{lang="el"},
 [το κουταλάκι]{lang="el"} (Teelöffel). Grenzfall: [χταποδάκι]{lang="el"} heißt auf der
-Speisekarte meist einfach „Oktopus“, klein muss er nicht sein.
+Speisekarte meist einfach „Oktopus“.
 
-Typischer Fehler: [το σκυλάκι]{lang="el"} für ein weibliches oder sächliches Grundwort halten.
-Der Artikel [το]{lang="el"} verrät bei [-άκι]{lang="el"} nichts über das Grundwort.
+Typischer Fehler: vom [το]{lang="el"} auf ein sächliches Grundwort schließen. Bei
+[-άκι]{lang="el"} verrät der Artikel nichts.
 :::
 <!-- CHECK: παϊδάκια (Lamm-/Schweinekoteletts) als lexikalisiert, κουταλάκι = Teelöffel -->
 
@@ -415,7 +400,7 @@ Zwei Buchstaben sind erlaubt. Im Chat: „1c, 2b, …“.
 3. Die Gastgeberin nach einem großen Essen: [Ένα γλυκάκι μόνο. Το έφτιαξα εγώ.]{lang="el"}
 4. Der Mechaniker, bevor er 1 200 Euro nennt: [Έχουμε ένα μικρό προβληματάκι.]{lang="el"}
 5. Ein Gast mit säuerlicher Miene vor der neuen Villa mit Pool: [Ωραίο σπιτάκι.]{lang="el"}
-6. Eine Freundin erzählt vom Urlaub: [Νοικιάσαμε ένα σπιτάκι στο βουνό, δύο δωμάτια όλο κι
+6. Eine Freundin über den Urlaub: [Νοικιάσαμε ένα σπιτάκι στο βουνό, δύο δωμάτια όλο κι
    όλο.]{lang="el"}
 7. Ein Enkel am Telefon: [Παππούλη, πώς είσαι;]{lang="el"}
 8. Eine Kollegin über den neuen Abteilungsleiter: [Πάλι μας είπε τι να κάνουμε ο
@@ -425,15 +410,14 @@ Zwei Buchstaben sind erlaubt. Im Chat: „1c, 2b, …“.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Frag zuerst: Ist die Sache wirklich klein? Wenn nicht, fällt a weg. Dann: Wird etwas angeboten
-oder um etwas gebeten?
+Ist die Sache wirklich klein? Wenn nicht, fällt a weg. Wird etwas angeboten oder erbeten?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Zwei Äußerungen verkleinern etwas offensichtlich Großes. Bei einer davon will der Sprecher
-schonen, bei der anderen sticheln.
+Zwei Äußerungen verkleinern etwas offensichtlich Großes: einmal, um zu schonen, einmal, um zu
+sticheln.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -441,21 +425,13 @@ schonen, bei der anderen sticheln.
 
 **1c, 2b, 3c (+b), 4c (+d), 5d, 6a (+b), 7b, 8d.**
 
-1. Die Beamtin bittet um Geduld und macht die Wartezeit klein, ob sie es ist oder nicht.
-2. Zärtlich: Ein Kind ist kein Püppchen, aber nah.
-3. Das Angebot wird klein gemacht, damit man ja sagt. Wer selbst gebacken hat und es so anbietet,
-   meint es oft auch herzlich; b ist also vertretbar.
-4. Schonend: Das Problem ist groß, das Diminutiv polstert die Nachricht. Wer den Unterton hört
-   (wir wissen beide, dass es teuer wird), kann d dazunehmen.
-5. Spöttisch: Eine Villa ist kein Häuschen, und die Miene verrät, dass es nicht als Lob gemeint ist.
-   Ohne die Miene könnte es auch ein freundlicher Scherz sein; das entscheidet die Stimme.
-6. Wörtlich klein, zwei Zimmer. Wer von seinem Urlaub schwärmt, meint oft auch „gemütlich“, daher b.
-7. Zärtlich. [παππούλης]{lang="el"} ist nicht kleiner als [παππούς]{lang="el"}, nur lieber.
-8. Herabsetzend: [ο κυριούλης]{lang="el"} ist der Wichtigtuer, [πάλι]{lang="el"} bestätigt den
-   Ärger.
+- 1, 3: Bitte und Angebot werden klein gemacht; wer selbst gebacken hat, meint es auch herzlich.
+- 4: Das Diminutiv polstert eine große Nachricht; wer den Unterton hört, nimmt d dazu.
+- 5: Die Miene verrät den Spott; ohne sie wäre es vielleicht ein freundlicher Scherz.
+- 6: Wörtlich klein, oft zugleich „gemütlich“. 2, 7: nichts kleiner, alles näher.
+- 8: [ο κυριούλης]{lang="el"} ist der Wichtigtuer.
 
-Typischer Fehler: jedes Diminutiv mit „klein“ übersetzen. In dieser Übung ist nur eines davon
-wirklich klein.
+Typischer Fehler: jedes Diminutiv mit „klein“ übersetzen. Hier ist nur eines wirklich klein.
 :::
 
 ::: {.vocab}
@@ -522,9 +498,9 @@ und [ξένος]{lang="el"} bleibt nach dem Abtrennen nichts Sinnvolles übrig.
 ::: {.callout-note .exercise}
 ## Übung 26.4: Abtrennen und raten
 
-Die Verben in diesen Sätzen kennst du noch nicht, ihre Grundverben stehen darunter. Ordne jedem
-Satz eine Bedeutung zu und sag, welche Lesart die Vorsilbe hat: rückgängig, heraus/weg oder noch
-einmal. Ein Satz enthält gar keine Vorsilbe. Im Chat: „a6, …“.
+Die Verben kennst du noch nicht, ihre Grundverben stehen darunter. Ordne jedem Satz eine
+Bedeutung zu und sag, welche Lesart die Vorsilbe hat: rückgängig, heraus/weg oder noch einmal.
+Ein Satz hat gar keine Vorsilbe. Im Chat: „a6, …“.
 
 ::: {lang="el" .no-audio}
 a. Δεν μπορώ να ξεβιδώσω το καπάκι.
@@ -538,26 +514,24 @@ h. Μη με ξαναρωτήσεις!
 :::
 
 **Grundverben:** [βιδώνω]{lang="el"} festschrauben, [κουμπώνω]{lang="el"} zuknöpfen,
-[φορτώνω]{lang="el"} beladen, [βάφω]{lang="el"} färben, [κολλάω]{lang="el"} kleben.
-**Sonst neu:** [το καπάκι]{lang="el"} Deckel, [το πουκάμισο]{lang="el"} Hemd, [η
-αφίσα]{lang="el"} Plakat.
+[φορτώνω]{lang="el"} beladen, [βάφω]{lang="el"} färben, [κολλάω]{lang="el"} kleben. **Neu:**
+[το καπάκι]{lang="el"} Deckel, [το πουκάμισο]{lang="el"} Hemd, [η αφίσα]{lang="el"} Plakat.
 
-**Bedeutungen:** 1 fremd · 2 aufknöpfen · 3 sich lösen, abgehen · 4 noch einmal lesen ·
-5 ausladen · 6 aufschrauben · 7 noch einmal fragen · 8 verblassen
+**Bedeutungen:** 1 fremd · 2 aufknöpfen · 3 sich lösen · 4 noch einmal lesen · 5 ausladen ·
+6 aufschrauben · 7 noch einmal fragen · 8 verblassen
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Probier bei [ξε-]{lang="el"} zuerst „rückgängig“: Was ist das Gegenteil von festschrauben,
+Bei [ξε-]{lang="el"} zuerst „rückgängig“ probieren: Was ist das Gegenteil von festschrauben,
 zuknöpfen, beladen?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Trenn bei g das [ξε]{lang="el"} ab: Bleibt ein Wort übrig? Und d: Was passiert mit Farbe, die
-„entfärbt“ wird?
+Trenn bei g das [ξε]{lang="el"} ab: Bleibt ein Wort übrig? Bei d verliert etwas seine Farbe.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -565,18 +539,12 @@ Trenn bei g das [ξε]{lang="el"} ab: Bleibt ein Wort übrig? Und d: Was passier
 
 **a6, b2, c5, d8, e3, f4, g1, h7.**
 
-- Rückgängig: a (Gegenteil von festschrauben), b, c, d (die Farbe geht wieder weg), e (was klebte,
-  klebt nicht mehr). Bei c ist auch „heraus“ vertretbar: Das Gepäck kommt aus dem Auto.
-- Noch einmal: f, h. [Μη με ξαναρωτήσεις]{lang="el"} kann je nach Ton auch „Frag mich nie
-  wieder!“ heißen.
-- g: [ξένος]{lang="el"} hat keine Vorsilbe; nach dem Abtrennen bliebe \*[νος]{lang="el"}.
+- Rückgängig: a, b, c, d, e. Bei c ist auch „heraus“ vertretbar: Das Gepäck kommt aus dem Auto.
+- Noch einmal: f, h; h kann je nach Ton auch „Frag mich nie wieder!“ heißen.
+- g: [ξένος]{lang="el"} hat keine Vorsilbe, übrig bliebe nur [-νος]{lang="el"}.
 
-Aorist und Betonung: [ξεβίδωσα, ξεκούμπωσα, ξεφόρτωσα, ξέβαψα, ξεκόλλησα,
-ξαναδιάβασα]{lang="el"}. Bei [ξέβαψα]{lang="el"} trägt die Vorsilbe die Betonung, genau wie bei
-[ξέφυγα]{lang="el"}.
-
-Typischer Fehler: d als „färben“ oder „abfärben auf etwas anderes“ lesen. Das Hemd verliert hier
-seine eigene Farbe.
+Typischer Fehler: d als „abfärben“ lesen; das Hemd verliert seine eigene Farbe. Betonung wie bei
+[ξέφυγε]{lang="el"}: [ξέβαψε]{lang="el"}.
 :::
 <!-- CHECK: ξεβάφω intransitiv „verblassen, Farbe verlieren“ (auch „abfärben“?); ξεκολλάω intransitiv „sich lösen“ -->
 
@@ -647,7 +615,7 @@ nach Buchkonvention [g], [συγκάτοικος]{lang="el"} [siˈgatikos]. [Σ�
 ::: {.callout-note .exercise}
 ## Übung 26.5: Vier Vorsilben
 
-**A. Erschließen.** Zerleg das hervorgehobene Wort und sag, was der Satz bedeutet.
+**A. Erschließen.** Zerleg das hervorgehobene Wort. Was bedeutet der Satz?
 
 ::: {lang="el" .no-audio}
 1. Εντάξει, το **παράκανες** λίγο.
@@ -672,45 +640,34 @@ zu teuer. · Entschuldigen Sie, ich habe verschlafen.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-A: [παρα-]{lang="el"} vor [κάνω]{lang="el"} und [λέω]{lang="el"} heißt „zu viel“. Bei 4 steckt
-zwischen [συν-]{lang="el"} und [ηλικ-]{lang="el"} noch ein [ομ-]{lang="el"} „gleich“ (wie in
-*homogen*). B: Silben zählen, Betonung auf die drittletzte.
+A: [παρα-]{lang="el"} vor [κάνω, λέω]{lang="el"} heißt „zu viel“. In 4 steckt noch
+[ομ-]{lang="el"} „gleich“ (wie *homogen*). B: Betonung auf die drittletzte Silbe.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-B: In [έφαγα, έγραψα, έφυγε]{lang="el"} liefert das [ε-]{lang="el"} nur die fehlende Silbe.
-Mit Vorsilbe fehlt keine mehr. Bei [ήπια, ήρθα]{lang="el"}
-gehört das [ή-]{lang="el"} zum Stamm. C: [παραλίγο να]{lang="el"}, [Μη με παρεξηγείς]{lang="el"},
-[Με συγχωρείτε]{lang="el"}.
+B: In [έφαγα, έγραψα, έφυγε]{lang="el"} liefert das [ε-]{lang="el"} nur die fehlende Silbe; mit
+Vorsilbe fehlt keine mehr. Bei [ήπια, ήρθα]{lang="el"} gehört das [ή-]{lang="el"} zum Stamm.
+C: [παραλίγο να, Μη με παρεξηγείς, Με συγχωρείτε]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**A.**
+**A.** 1 „Du hast ein bisschen übertrieben.“ 2 „Übertreib nicht, so schlimm war’s nicht.“
+3 der Mitreisende. 4 mit Gleichaltrigen
+([συν- + ομ- + ηλικ-]{lang="el"}). 5 Landsleute ([συμ-]{lang="el"} vor [π]{lang="el"}).
+6 „Ich überleg’s mir noch mal“, oft eine höfliche Absage.
 
-1. [παρα- + κάνω]{lang="el"}: „Okay, du hast ein bisschen übertrieben.“ [Το
-   παράκανες!]{lang="el"} ist eine feste Wendung.
-2. [παρα- + λέω]{lang="el"}: „Übertreib nicht, so schlimm war’s nicht.“ Das [τα]{lang="el"}
-   gehört zur Wendung.
-3. [συν- + επιβάτης]{lang="el"}: der Mitreisende auf dem Schiff.
-4. [συν- + ομ- + ηλικ-]{lang="el"}: Gleichaltrige. Die Kinder spielen mit Gleichaltrigen.
-5. [συμ- + πατριώτης]{lang="el"}: Landsleute; [συμ-]{lang="el"} vor [π]{lang="el"}.
-6. [ξανα- + σκέφτομαι]{lang="el"}: „Ich überleg’s mir noch mal.“ Oft eine höfliche Absage.
-
-**B.** [παράφαγα]{lang="el"} [paˈrafaɣa], [ξανάγραψα]{lang="el"} [ksaˈnaɣrapsa],
-[ξέφυγε]{lang="el"} [ˈksefiʝe], [ξεκλείδωσες]{lang="el"} [kseˈkliðoses],
-[παραήπιαμε]{lang="el"} [paraˈipçame], [ξαναήρθαν]{lang="el"} [ksanaˈirθan].
-In den ersten drei Formen trägt die Vorsilbe die Betonung und ersetzt das Augment;
-[κλείδωσα]{lang="el"} braucht schon ohne Vorsilbe keins. In den letzten beiden gehört
-[ή-]{lang="el"} zum Stamm und bleibt. Häufige Fehlform: [ξαναέγραψα]{lang="el"},
-also Augment und Vorsilbe zugleich; die Standardform ist [ξανάγραψα]{lang="el"}.
+**B.** [παράφαγα, ξανάγραψα, ξέφυγε, ξεκλείδωσες, παραήπιαμε, ξαναήρθαν]{lang="el"}. In den
+ersten drei ersetzt die betonte Vorsilbe das Augment, [κλείδωσα]{lang="el"} hat ohnehin keins,
+in den letzten beiden bleibt das [ή-]{lang="el"} des Stamms. Häufige Fehlform: [ξαναέγραψα]{lang="el"}, Augment und Vorsilbe zugleich; Standard ist
+[ξανάγραψα]{lang="el"}.
 
 **C.** [Παραλίγο να χάσω το πλοίο.]{lang="el"} · [Μη με παρεξηγείς, αλλά είναι πολύ
-ακριβό.]{lang="el"} (umgangssprachlich auch [παραείναι ακριβό]{lang="el"}; zu Fremden [Μη με
-παρεξηγήσετε]{lang="el"}) · [Με συγχωρείτε, παρακοιμήθηκα.]{lang="el"}
+ακριβό.]{lang="el"} (umgangssprachlich auch [παραείναι ακριβό]{lang="el"}) · [Με συγχωρείτε,
+παρακοιμήθηκα.]{lang="el"}
 :::
 <!-- CHECK: παραλέω „übertreiben“ (μην τα παραλές); συνομήλικος als συν + ομ- + ηλικ-; ξαναέγραψα als nicht-standard ohne Sternchen; Μη με παρεξηγήσετε neben παρεξηγείτε -->
 
@@ -797,54 +754,45 @@ Hör die Szene mit ▶, ohne den Text aufzuklappen, höchstens zweimal. Im Chat:
    Fleischbällchen, Feta, c) Sardinen, Kartoffeln, Feta.
 4. Warum soll die Portion Fleischbällchen klein sein? a) Der Besteller hat gestern zu viel
    gegessen. b) Er ist auf Diät. c) Die Küche hat nicht mehr viele.
-5. Wie wird darauf reagiert? a) mit Lob, b) mit Zweifel: letzten Freitag hieß es auch so, c) mit
-   einer zweiten Bestellung.
-6. Was wird nachbestellt? a) Ouzo und Brot, b) Ouzo und Oktopus, c) Wasser und Brot.
-7. Was war mit den Sardinen? a) zu salzig, b) zu lange auf dem Grill, c) kalt.
-8. Das „kleine Problem“ der Küche und die Antwort darauf? a) Der Grill ist kaputt, man bestellt
+5. Was wird nachbestellt? a) Ouzo und Brot, b) Ouzo und Oktopus, c) Wasser und Brot.
+6. Was war mit den Sardinen? a) zu salzig, b) zu lange auf dem Grill, c) kalt.
+7. Das „kleine Problem“ der Küche und die Antwort darauf? a) Der Grill ist kaputt, man bestellt
    nichts mehr. b) Der Koch hat Geburtstag, man spendiert ihm einen Ouzo. c) Die Sardinen sind
    aus, man beschwert sich.
 
-**Zweiter Durchgang, mit Text:** Such alle Diminutive und sag, welche Lesart überwiegt. Such
-außerdem die vier Wörter mit Vorsilbe.
+**Zweiter Durchgang, mit Text:** Such die Diminutive und bestimm die Lesart, dann die vier Wörter
+mit Vorsilbe.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Frage 2: ein Ortsname im Genitiv, [plomaˈriu]. Frage 5: Achte auf den Wochentag, [paraskeˈvi].
-Frage 7: [parapsiˈmenes], Partizip von [παραψήνω]{lang="el"}.
+Frage 2: ein Ortsname im Genitiv, [plomaˈriu]. Frage 6: [parapsiˈmenes].
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Zweiter Durchgang: Fast alles wird beim Bestellen oder Anbieten verkleinert, und bei
-Angeboten und Bitten ist fast immer Lesart c im Spiel. Ein Diminutiv fällt aus der Reihe: Es
+Zweiter Durchgang: Beim Bestellen und Anbieten ist fast immer Lesart c im Spiel. Ein Diminutiv
 verkleinert eine schlechte Nachricht.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**1b, 2a, 3a, 4a, 5b, 6a, 7b, 8b.**
-
-Bei 5 ist die Bemerkung ironisch: Letzten Freitag wurde die kleine Portion offenbar nicht klein.
+**1b, 2a, 3a, 4a, 5a, 6b, 7b.** Die Reaktion auf 4 ist ironisch: Die „kleine Portion“ vom
+letzten Freitag war wohl nicht klein.
 
 **Zweiter Durchgang**
 
-- Beschwichtigend, der freundliche Ton beim Bestellen und Anbieten: [μεζεδάκια, νεράκι,
-  χταποδάκι, σαρδελίτσες, φετούλα, κεφτεδάκια, ψωμάκι]{lang="el"}, das [ουζάκι]{lang="el"} für
-  den Koch (auch herzlich), [ένα λεπτάκι]{lang="el"} des Kellners.
-- Klein und beschwichtigend zugleich: [λαδάκι]{lang="el"}, „ein bisschen Öl“.
-- [το καραφάκι]{lang="el"} ist die normale Bestellgröße; das „klein“ steckt kaum noch drin.
-- Schonend mit ironischem Unterton: [ένα μικρό προβληματάκι]{lang="el"}. Das Problem ist ein Koch, der
-  Geburtstag feiert; die Sardinen haben es schon verraten.
+- Beschwichtigend, der gesellige Ton beim Bestellen: [μεζεδάκια, νεράκι, χταποδάκι,
+  σαρδελίτσες, φετούλα, κεφτεδάκια, ψωμάκι, λεπτάκι, ουζάκι]{lang="el"}; [λαδάκι]{lang="el"}
+  auch wörtlich, ein bisschen Öl. [καραφάκι]{lang="el"} ist die normale Bestellgröße.
+- Schonend-ironisch: [ένα μικρό προβληματάκι]{lang="el"}; die Sardinen haben es verraten.
 
 Vorsilben: [παράφαγα]{lang="el"} (zu viel), [ξαναγεμίζεις]{lang="el"} (noch einmal),
-[παραψημένες]{lang="el"} (zu lange), [παρεξηγείς]{lang="el"} (daneben: falsch verstehen).
-
-**Falle:** [μικρή μερίδα]{lang="el"} ist kein Diminutiv, sondern Adjektiv und Nomen.
+[παραψημένες]{lang="el"} (zu lange), [παρεξηγείς]{lang="el"} (daneben). Falle: [μικρή
+μερίδα]{lang="el"} ist kein Diminutiv.
 :::
 
 ::: {.callout-note collapse="true" .translation}
@@ -906,8 +854,7 @@ Kochen oder Ausgehen.
 1. Hör drei bis vier Minuten **ohne Untertitel** und mach einen Strich für jedes betonte [ˈaci],
    [ˈaca], [ˈitsa] oder [ˈula] am Wortende.
 2. Hör dieselbe Stelle **mit griechischen Untertiteln** und prüf deine Striche.
-3. Nimm zwei der Diminutive und bestimm die Lesart: klein, zärtlich, beschwichtigend, spöttisch
-   oder schon ein eigenes Wort.
+3. Bestimm bei zwei Diminutiven die Lesart, oder ob es schon ein eigenes Wort ist.
 4. Sprich zwei Sätze mit Diminutiv nach.
 :::
 
@@ -915,14 +862,13 @@ Kochen oder Ausgehen.
 ## Hinweis 1
 
 Das Signal ist die betonte Silbe direkt vor [ci], [ca], [tsa] oder [la]: [kafeˈðaci] zählt,
-[ˈtiri] nicht. Im schnellen Sprechen ist [-άκια]{lang="el"} nur ein kurzes [ˈaca].
+[ˈtiri] nicht.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Frag bei Schritt 3: Ist die Sache klein? Wird etwas angeboten, bestellt, empfohlen? Beim Essen
-landet man meist bei beschwichtigend oder bei einem eigenen Wort.
+Schritt 3: Ist die Sache klein? Wird etwas angeboten, bestellt, empfohlen?
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -930,14 +876,12 @@ landet man meist bei beschwichtigend oder bei einem eigenen Wort.
 
 Jedes Interview ist anders; so wertest du aus:
 
-- **Treffer, die nichts Kleines meinen:** [σουβλάκι, κολοκυθάκια, φασολάκια,
-  πατατάκια]{lang="el"} zählen als Striche, sind aber eigene Wörter.
-- **Falsche Striche:** Wörter, die nur ähnlich klingen: [το κεφάλι, το αγόρι]{lang="el"} (kein
-  betontes [ˈaci]), [η πίτσα]{lang="el"} [ˈpitsa] (kein Grundwort dahinter).
-- **Lesart:** Beim Essen überwiegt fast immer beschwichtigend und gesellig; zärtlich wird es, wenn
-  jemand von der Mutter oder Großmutter erzählt ([της γιαγιάς μου τα κεφτεδάκια]{lang="el"}).
-
-Viele Striche in wenigen Minuten sind beim Thema Essen nicht ungewöhnlich.
+- **Striche ohne „klein“:** [σουβλάκι, κολοκυθάκια, φασολάκια, πατατάκια]{lang="el"} sind eigene
+  Wörter.
+- **Falsche Striche:** [το κεφάλι, το αγόρι]{lang="el"} (kein [ˈaci]), [η πίτσα]{lang="el"}
+  (kein Grundwort dahinter).
+- **Lesart:** Beim Essen überwiegt beschwichtigend und gesellig; zärtlich wird es, wenn von der
+  Großmutter die Rede ist.
 :::
 
 ::: {.vocab}
@@ -1078,51 +1022,44 @@ natürlich viele zu viel gegessen und getrunken, und die Rechnung ist alles ande
 5. In Volos kommt zu jedem Karäffchen derselbe Meze.
 6. Die Portionen in einer Ouzeri sind laut Text immer klein.
 
-**B. Wortbildung.** Such im Text die zehn verschiedenen Diminutive (Titel mitgezählt). Bei welchen
-hat das Genus gewechselt? Such dann die Wörter mit Vorsilbe: Welches hat zwei, und warum
-bestellt dabei niemand zu viel?
+**B. Wortbildung.** Such die zehn verschiedenen Diminutive (Titel mitgezählt). Bei welchen hat
+das Genus gewechselt? Welches Wort hat zwei Vorsilben, und warum bestellt dabei niemand zu viel?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-A: Bei 4 und 6 kippen zwei kleine Wörter den Satz: [ή χωρίς]{lang="el"} und
-[δεν … πάντα]{lang="el"}. B: Ein Diminutiv ist ein
-Adjektiv und steht im letzten Satz.
+A: Bei 4 und 6 kippen kleine Wörter den Satz: [ή χωρίς]{lang="el"}, [δεν … πάντα]{lang="el"}.
+B: Ein Diminutiv ist ein Adjektiv im letzten Satz.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-B: Genuswechsel gibt es dreimal; zu [καραφάκι]{lang="el"} gehört [η καράφα]{lang="el"}.
-Die Vorsilben-Wörter stehen im Absatz über den Tsipouro und im letzten. [τσιπουράδικα]{lang="el"} hat
-zwar ein betontes [-ά-]{lang="el"}, ist aber kein Diminutiv.
+B: Dreimal Genuswechsel; zu [καραφάκι]{lang="el"} gehört [η καράφα]{lang="el"}.
+[τσιπουράδικα]{lang="el"} ist kein Diminutiv.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**A. 1f, 2r, 3r, 4f, 5f, 6f.** Zu 1: nur Griechenland und Zypern. Zu 4: [με γλυκάνισο ή
-χωρίς]{lang="el"}. Zu 5: [ο μεζές είναι άλλος]{lang="el"}, jedes Mal ein anderer. Zu 6: [Οι
-μερίδες δεν είναι πάντα μικρές.]{lang="el"}
+**A. 1f, 2r, 3r, 4f, 5f, 6f.** 1: nur Griechenland und Zypern. 5: [ο μεζές είναι
+άλλος]{lang="el"}, jedes Mal ein anderer.
 
 **B.** [ουζάκι, μεζεδάκια, πιατάκι, φετούλα, χταποδάκι, καραφάκι, σαρδελίτσες, κεφτεδάκια,
 πατατούλες, μικρούλης]{lang="el"}.
 
-- Genuswechsel: [ο μεζές → το μεζεδάκι]{lang="el"}, [ο κεφτές → το κεφτεδάκι]{lang="el"}, [η
-  καράφα → το καραφάκι]{lang="el"}. Alle anderen bleiben: [το ούζο, το πιάτο, το
-  χταπόδι]{lang="el"} sind schon sächlich, [φετούλα, σαρδελίτσες, πατατούλες]{lang="el"} gehen
-  den weiblichen Weg.
-- [μικρούλης]{lang="el"} ist spöttisch: Die Rechnung ist [καθόλου μικρούλης]{lang="el"}, also
-  groß. Die übrigen deutet der Text selbst: beschwichtigend.
-- [τσιπουράδικο]{lang="el"} ist ein Lokal: [-άδικο]{lang="el"} bildet Namen für Lokale und Läden,
-  keine Verkleinerungen.
+- Genuswechsel: [ο μεζές, ο κεφτές, η καράφα]{lang="el"}. [ούζο, πιάτο, χταπόδι]{lang="el"}
+  sind schon sächlich, [-ούλα, -ίτσα]{lang="el"} bleiben weiblich.
+- [καθόλου μικρούλης]{lang="el"}: spöttisch, die Rechnung ist groß. Die übrigen deutet der Text
+  selbst als beschwichtigend.
+- [τσιπουράδικο]{lang="el"} ist ein Lokal; [-άδικο]{lang="el"} bildet Namen für Lokale und
+  Läden.
 
-Vorsilben: [ξαναπαραγγέλνεις]{lang="el"} hat zwei. [ξανα-]{lang="el"} ist durchsichtig, „noch
-einmal“; [παρα-]{lang="el"} in [παραγγέλνω]{lang="el"} ist alt und nicht mehr erkennbar, daher kein
-„zu viel“. Durchsichtig ist [παρα-]{lang="el"} dagegen in [παραφάει]{lang="el"} und
-[παραπιεί]{lang="el"}. Wer weiter sucht, findet [ο συγγενής]{lang="el"}: [συγ-]{lang="el"} vor
-[γ]{lang="el"}, wörtlich „mit-geboren“, der Verwandte.
+[ξαναπαραγγέλνεις]{lang="el"}: [ξανα-]{lang="el"} ist durchsichtig, das [παρα-]{lang="el"} in
+[παραγγέλνω]{lang="el"} alt und nicht mehr als „zu viel“ erkennbar. Durchsichtig ist es in
+[παραφάει, παραπιεί]{lang="el"}. Bonus: [ο συγγενής]{lang="el"}, [συγ-]{lang="el"} vor
+[γ]{lang="el"}, wörtlich „mit-geboren“.
 :::
 <!-- CHECK: συγγενής < συν + γένος „mit-geboren“ als Eselsbrücke vertretbar; -άδικο als Suffix für Lokale (ψαράδικο, τσιπουράδικο) -->
 
