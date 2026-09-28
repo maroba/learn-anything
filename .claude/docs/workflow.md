@@ -80,6 +80,9 @@ Das gilt auch für Commit-Messages und `progress.md`.
    geänderte Texte. Fehlen die API-Schlüssel (`LUVVOICE_API_KEY`, `OPENAI_API_KEY`), trotzdem
    veröffentlichen (der Browser liest dann selbst vor) und in `progress.md` „Audio fehlt“ notieren.
    Dialogzeilen mit Lücken oder Texte, die nicht vorgelesen werden sollen, bekommen `.no-audio`.
+   Nach Überarbeitungen `python3 scripts/make_audio.py <slug> --prune` ausführen, damit Aufnahmen
+   entfernter oder geänderter Texte nicht im Repo liegen bleiben. Dialoge: Zeilen, die mit „—“
+   beginnen, wechseln zwischen `audio.voice` und `audio.dialogue-voice`.
 3. Öffentliches Repo: committen, `git push origin HEAD:main`. Auch auf den aktuellen
    Arbeitsbranch pushen, falls die Session einen vorgibt.
 4. Privates Repo, falls geändert: in `../learn-anything-private` committen und `git push origin main`.

@@ -13,6 +13,7 @@ text as it appears on the page to its file; learn-anything.js adds a ▶ button 
     python3 scripts/make_audio.py neugriechisch --dry-run       # what would be voiced, and cost
     python3 scripts/make_audio.py neugriechisch                 # voice everything missing
     python3 scripts/make_audio.py neugriechisch --chapter 02    # only one chapter
+    python3 scripts/make_audio.py neugriechisch --prune         # drop recordings of removed texts
     python3 scripts/make_audio.py --list-voices --lang el       # LuvVoice voices for a language
     python3 scripts/make_audio.py --sample out/ --lang el       # blind test of providers/voices
 
@@ -274,12 +275,29 @@ def voice_book(args):
     manifest_path = audio_dir / "manifest.json"
     manifest = json.loads(manifest_path.read_text(encoding="utf-8")) if manifest_path.exists() else {}
 
+    if args.prune:
+        if args.chapter:
+            sys.exit("--prune needs all chapters; run it without --chapter.")
+        current = {t for chapter in chapters for t, _ in texts_of_chapter(chapter, lang)}
+        stale = [t for t in manifest if t not in current]
+        for t in stale:
+            del manifest[t]
+        used = set(manifest.values())
+        removed = [f for f in audio_dir.glob("*.mp3") if f.name not in used]
+        for f in removed:
+            f.unlink()
+        manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
+        print(f"pruned {len(stale)} manifest entries and {len(removed)} unused files")
+        return 0
+
     todo, chars = [], 0
     for chapter in chapters:
         for text, speaker in texts_of_chapter(chapter, lang):
             name = file_name(provider, voices[speaker], instructions, text)
             if manifest.get(text) == name and (audio_dir / name).exists():
                 continue
+            if not re.search(r"\w", speech_text(text)):
+                continue  # nothing speakable, e.g. an exercise gap "(4) …"
             if all(t != text for t, _, _ in todo):
                 todo.append((text, name, voices[speaker]))
                 chars += len(speech_text(text))
@@ -342,6 +360,8 @@ def main() -> int:
     parser.add_argument("--dry-run", action="store_true", help="only list what would be voiced")
     parser.add_argument("--show", type=int, default=20, help="how many texts --dry-run prints")
     parser.add_argument("--fake", action="store_true", help="write empty files (for testing the site)")
+    parser.add_argument("--prune", action="store_true",
+                        help="drop recordings of texts that no longer exist (use without --chapter)")
     parser.add_argument("--list-voices", action="store_true", help="list LuvVoice voices")
     parser.add_argument("--lang", default="el", help="language for --list-voices / --sample")
     parser.add_argument("--sample", metavar="DIR", help="write anonymous voice samples for a blind test")
