@@ -1330,7 +1330,7 @@ etwa [Πέμπτη]{lang="el"} [ˈpempti] „Donnerstag“.]
 | [κερδίζω, κέρδισα]{lang="el"} | [cerˈðizo], [ˈcerðisa] | verdienen; gewinnen |
 | [ο πόλεμος]{lang="el"} | [o ˈpolemos] | der Krieg |
 | [όμως]{lang="el"} | [ˈomos] | aber, jedoch |
-| [σχεδόν]{lang="el"} | [sxeˈðon] | fast |
+| [σχεδόν]{lang="el"} | [sçeˈðon] | fast |
 | [ίσως]{lang="el"} | [ˈisos] | vielleicht |
 | [δυστυχώς]{lang="el"} | [distiˈxos] | leider |
 | [κανείς]{lang="el"} | [kaˈnis] | niemand (mit [δεν]{lang="el"}); jemand |
