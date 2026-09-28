@@ -28,6 +28,7 @@
 | 22 Vielleicht, wahrscheinlich, sicher: Modalität | veröffentlicht | Welle 9; Audio läuft |
 | 23 Thessaloniki und Zwischenbilanz | im Review | Welle 11; Übungen fertig |
 | 24 Was wäre, wenn: Irrealis und Wünsche | fertig | Welle 10; wartet auf 23 |
+| 25 Er muss gegangen sein: Vermutungen über die Vergangenheit | Entwurf | Welle 11 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 
