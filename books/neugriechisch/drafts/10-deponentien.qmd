@@ -5,7 +5,7 @@ title: "Verben auf -μαι im Alltag"
 ::: {.callout-note .review}
 ## Zur Wiederholung
 
-Aus Kapitel 1, 2 und 5:
+Aus Kapitel 1, 2, 4 und 5:
 
 - **Präsens auf [-μαι]{lang="el"}** (Kapitel 1): [έρχομαι, έρχεσαι, έρχεται, ερχόμαστε,
   έρχεστε, έρχονται]{lang="el"} und [κοιμάμαι, κοιμάσαι, κοιμάται, κοιμόμαστε, κοιμάστε,
@@ -14,6 +14,8 @@ Aus Kapitel 1, 2 und 5:
   ([έγραψα – γράψαμε]{lang="el"}).
 - **Ein Stamm, drei Einsätze:** [έγραψα, θα γράψω, να γράψω]{lang="el"}. Aus [-ηκα]{lang="el"}
   wird [-ω]{lang="el"} mit den Endungen von [μπορώ]{lang="el"}: [βρήκα → θα βρω, να βρεις]{lang="el"}.
+- **Imperfekt** (Kapitel 4): [ήμουν, ήσουν, ήταν, ήμασταν, ήσασταν, ήταν]{lang="el"}. Foto oder
+  Film? Frag „und dann?“: Bringt der Satz die Geschichte weiter, ist er ein Foto.
 :::
 
 ## Drei Uhr nachts, fünf Richter {#sec-mai-einstieg}
@@ -120,8 +122,7 @@ Wie [κάθομαι]{lang="el"} gehen [έρχομαι, σκέφτομαι, γί�
 [φοβάμαι]{lang="el"} gehen [κοιμάμαι, θυμάμαι]{lang="el"} und [λυπάμαι]{lang="el"} „es tut mir
 leid“. Die [-άμαι]{lang="el"}-Gruppe ist klein; die meisten Verben auf [-μαι]{lang="el"} gehen wie
 [κάθομαι]{lang="el"}. In der wir-Form rückt die Betonung nach hinten ([καθόμαστε]{lang="el"}),
-sonst stünde sie auf der viertletzten Silbe. Im Gespräch hörst du für „ihr“ auch
-[καθόσαστε, φοβόσαστε]{lang="el"}.
+sonst stünde sie auf der viertletzten Silbe.
 
 ::: {.callout-warning}
 ## Achtung
@@ -135,9 +136,10 @@ klingen entsprechend [se], [te].
 
 Die Endung [-μαι]{lang="el"} gehört zum **Mediopassiv** (Kapitel 13): [γράφεται]{lang="el"} „es
 wird geschrieben“, [ντύνομαι]{lang="el"} „ich ziehe mich an“. Bei den sieben Verben dieses
-Kapitels ist aber nichts passiv. Wer kommt, wird nicht gekommen. Verben, die nur Formen auf
-[-μαι]{lang="el"} haben und trotzdem aktiv gemeint sind, heißen **Deponentien** (Singular
-**Deponens**, [το αποθετικό ρήμα]{lang="el"}). Der Name stammt aus der lateinischen Grammatik:
+Kapitels ist aber nichts passiv. Wer kommt, wird nicht gekommen. Verben, die im Präsens nur auf
+[-μαι]{lang="el"} vorkommen und trotzdem aktiv gemeint sind, heißen **Deponentien** (Singular
+**Deponens**, [το αποθετικό ρήμα]{lang="el"}); manche haben im Aorist sogar aktive Endungen
+([ήρθα, έγινα, κάθισα]{lang="el"}, @sec-mai-aorist). Der Name stammt aus der lateinischen Grammatik:
 [*deponere*]{lang="la"} „ablegen“, als hätten sie die passive Bedeutung abgelegt. Wer Latein
 hatte, kennt [*sequor*]{lang="la"} „ich folge“.
 
@@ -146,15 +148,17 @@ reflexiv: *sich* setzen, *sich* fürchten, *sich* erinnern; spanisch [*sentarse*
 [*acordarse*]{lang="es"}, französisch [*s'asseoir*]{lang="fr"}, [*se souvenir*]{lang="fr"}. Wo
 du ein „sich“ spürst, liegt [-μαι]{lang="el"} nahe. Eine Regel ist das nicht:
 [έρχομαι]{lang="el"} „kommen“ hat kein „sich“, und „sich hinlegen“ heißt aktiv
-[ξαπλώνω]{lang="el"} (Kapitel 2). Als Suchhilfe taugt es trotzdem: [βιάζομαι]{lang="el"} „sich
-beeilen“ (Kapitel 1), [χαίρομαι]{lang="el"} „sich freuen“.
+[ξαπλώνω]{lang="el"} (Kapitel 2). Als Suchhilfe taugt es trotzdem: [βιάζομαι]{lang="el"} „es eilig
+haben, sich beeilen“ (Kapitel 1), [χαίρομαι]{lang="el"} „sich freuen“.
 
 ### Sieben Verben für jeden Tag {#sec-mai-sieben}
 
 **[κάθομαι]{lang="el"}: sitzen, sich setzen; bleiben.** [Κάθομαι στο μπαλκόνι.]{lang="el"} „Ich
 sitze auf dem Balkon.“ Im Gespräch auch „herumsitzen, bleiben“: [Θα κάτσουμε όλη μέρα στο
-λιμάνι;]{lang="el"} aus Kapitel 5. Eselsbrücke: die *Kathedrale*, nach der
-[καθέδρα]{lang="el"}, dem Sitz des Bischofs, aus derselben Wortfamilie.
+λιμάνι;]{lang="el"} aus Kapitel 5; und umgangssprachlich „wohnen“: [Πού κάθεσαι;]{lang="el"}
+„Wo wohnst du?“ Eselsbrücke: die *Kathedrale*, nach der [καθέδρα]{lang="el"}, dem Sitz des
+Bischofs. Mit [κάθισα]{lang="el"} teilt sie die alte Wurzel für „sitzen“, die auch in lateinisch
+[*sedere*]{lang="la"} steckt.
 
 **[φοβάμαι]{lang="el"}: Angst haben, sich fürchten.** Mit Akkusativ oder mit
 [να]{lang="el"}: [Φοβάμαι τους σεισμούς.]{lang="el"} „Ich habe Angst vor Erdbeben.“
@@ -177,8 +181,6 @@ gibt es ein aktives Gegenstück: [θυμίζω]{lang="el"} „erinnern an“, me
 Latein: Das [κοιμητήριο]{lang="el"}, der „Schlafplatz“ der Toten, wurde zu
 [*coemeterium*]{lang="la"} und englisch *cemetery*.
 
-<!-- CHECK: Etymologie Kathedrale/καθέδρα als „dieselbe Wortfamilie“ wie κάθομαι (Wurzel *sed-); Skeptiker < σκέπτομαι; γίνομαι < γίγνομαι, Wurzel wie Genesis; cemetery < coemeterium < κοιμητήριον. -->
-
 ::: {.callout-note .exercise}
 ## Übung 10.1: Sieben Verben, zwei Muster
 
@@ -188,7 +190,7 @@ a) [σκέφτομαι]{lang="el"} → wir
 b) [θυμάμαι]{lang="el"} → sie (Plural)
 c) [γίνομαι]{lang="el"} → du
 d) [κοιμάμαι]{lang="el"} → ihr
-e) [έρχομαι]{lang="el"} → wir
+e) [έρχομαι]{lang="el"} → ihr
 f) [λυπάμαι]{lang="el"} → wir
 g) [κάθομαι]{lang="el"} → sie (Plural)
 h) [φοβάμαι]{lang="el"} → er
@@ -227,8 +229,8 @@ Die wir-Form ist bei beiden Mustern gleich gebaut: [-όμαστε]{lang="el"}, b
 - a) [σκεφτόμαστε]{lang="el"} [scefˈtomaste]
 - b) [θυμούνται]{lang="el"} [θiˈmude]
 - c) [γίνεσαι]{lang="el"} [ˈʝinese]
-- d) [κοιμάστε]{lang="el"} [ciˈmaste]
-- e) [ερχόμαστε]{lang="el"} [erˈxomaste]
+- d) [κοιμάστε]{lang="el"} [ciˈmaste], umg. [κοιμόσαστε]{lang="el"}
+- e) [έρχεστε]{lang="el"} [ˈerxeste]
 - f) [λυπόμαστε]{lang="el"} [liˈpomaste]
 - g) [κάθονται]{lang="el"} [ˈkaθode]
 - h) [φοβάται]{lang="el"} [foˈvate]
@@ -238,14 +240,16 @@ Typische Fehler: \*[σκέφτομαστε]{lang="el"} (Betonung auf der viertle
 \*[θυμάνται]{lang="el"}. Und [-ται]{lang="el"} klingt [te], nicht „tai“.
 
 **Teil B:** 1 [Έγινε!]{lang="el"}, 2 [Γίνεται;]{lang="el"}, 3 [Δε γίνεται.]{lang="el"},
-4 [Λυπάμαι.]{lang="el"}, 5 [Μου θυμίζει …]{lang="el"}. Bei 4 geht auch [Λυπάμαι πολύ.]{lang="el"};
-wer nur jemanden angerempelt hat, sagt dagegen [Συγγνώμη.]{lang="el"}
+4 [Λυπάμαι.]{lang="el"}, 5 [Μου θυμίζει …]{lang="el"}. Bei 3 sagt der Beamte oft beides:
+[Λυπάμαι, δε γίνεται.]{lang="el"} Bei 4 geht auch [Λυπάμαι πολύ.]{lang="el"}, formeller
+[Συλλυπητήρια.]{lang="el"} „Mein Beileid.“ Wer nur jemanden angerempelt hat, sagt dagegen
+[Συγγνώμη.]{lang="el"}
 :::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [κάθομαι, κάθισα, (να) κάτσω]{lang="el"} | [ˈkaθome], [ˈkaθisa], [ˈkatso] | sitzen, sich setzen; bleiben |
+| [κάθομαι, κάθισα, (να) καθίσω/κάτσω]{lang="el"} | [ˈkaθome], [ˈkaθisa], [kaˈθiso]/[ˈkatso] | sitzen, sich setzen; bleiben; wohnen (umg.) |
 | [φοβάμαι, φοβήθηκα, (να) φοβηθώ]{lang="el"} | [foˈvame], [foˈviθika], [foviˈθo] | Angst haben, sich fürchten |
 | [σκέφτομαι, σκέφτηκα, (να) σκεφτώ]{lang="el"} | [ˈsceftome], [ˈsceftika], [scefˈto] | denken, überlegen |
 | [γίνομαι, έγινα, (να) γίνω]{lang="el"} | [ˈʝinome], [ˈeʝina], [ˈʝino] | werden; geschehen |
@@ -289,8 +293,9 @@ tragen weit:
 
 - Die vier [-άμαι]{lang="el"}-Verben dieses Kapitels nehmen [-ήθηκα]{lang="el"}:
   [θυμήθηκα, κοιμήθηκα, φοβήθηκα, λυπήθηκα]{lang="el"}.
-- Endet der Stamm auf einen Konsonanten, steht oft [-τηκα]{lang="el"}: [σκέφτηκα]{lang="el"},
-  ebenso [χρειάστηκα, βιάστηκα]{lang="el"} aus Kapitel 1.
+- Aus [-ζομαι]{lang="el"} wird [-στηκα]{lang="el"}: [χρειάζομαι → χρειάστηκα]{lang="el"},
+  [βιάζομαι → βιάστηκα]{lang="el"} aus Kapitel 1. Und [σκέφτομαι]{lang="el"} hat den
+  [τ]{lang="el"} schon im Stamm: [σκέφτηκα]{lang="el"}.
 
 Du hast solche Formen schon gelesen, ohne es zu merken: Schliemann [γεννήθηκε]{lang="el"}
 „wurde geboren“, sein Schatz [χάθηκε]{lang="el"} „ging verloren“ (Kapitel 2). Das sind echte
@@ -307,7 +312,8 @@ Vergangenheit eines Verbs auf [-μαι]{lang="el"}.
 
 [ήρθα]{lang="el"} kennst du aus Kapitel 3. [έγινα – γίναμε]{lang="el"} folgt der
 Augment-Regel: betont vorn, unbetont weg. Bei [κάθομαι]{lang="el"} stehen zwei Formen
-nebeneinander, beide richtig; [έκατσα]{lang="el"} hörst du im Gespräch mindestens so oft.
+nebeneinander: [κάθισα]{lang="el"} ist die neutrale Standardform, [έκατσα]{lang="el"} ist
+umgangssprachlich, im Gespräch aber sehr häufig.
 
 ::: {.callout-important}
 ## Merke
@@ -315,7 +321,7 @@ nebeneinander, beide richtig; [έκατσα]{lang="el"} hörst du im Gespräch m
 - Aorist der Verben auf [-μαι]{lang="el"} meist auf [-θηκα/-τηκα]{lang="el"}:
   [θυμήθηκα, κοιμήθηκα, φοβήθηκα, σκέφτηκα]{lang="el"}. Endungen [-α, -ες, -ε, -αμε, -ατε,
   -αν]{lang="el"}, Betonung auf der drittletzten Silbe, kein Augment.
-- Ausreißer mit aktivem Aorist: [ήρθα, έγινα, κάθισα/έκατσα]{lang="el"}.
+- Ausreißer mit aktivem Aorist: [ήρθα, έγινα, κάθισα]{lang="el"} (umg. [έκατσα]{lang="el"}).
 :::
 
 ### Zustand oder Moment {#sec-mai-zustand}
@@ -331,14 +337,27 @@ Das ist kein bloßer Zeitunterschied. Bei diesen Verben beschreibt der imperfekt
 | [κάθομαι]{lang="el"} ich sitze | [κάθισα]{lang="el"} ich setzte mich |
 | [θυμάμαι]{lang="el"} ich weiß noch | [θυμήθηκα]{lang="el"} es fiel mir ein |
 
-Aus dem Spanischen kennst du das: [*sabía*]{lang="es"} „ich wusste“, [*supe*]{lang="es"} „ich
-erfuhr“; und aus Kapitel 4 [γνώρισα]{lang="el"} „ich lernte kennen“. [Θυμήθηκα!]{lang="el"} heißt
-deshalb „Jetzt fällt's mir ein!“, nicht „Ich erinnerte mich die ganze Zeit“.
+Die zweite Zeile kennst du aus Kapitel 3. Polyphem trinkt drei Becher Wein, und dann:
+[Όταν κοιμήθηκε, πήραμε ένα μεγάλο ξύλο …]{lang="el"} „Als er eingeschlafen war, nahmen wir einen
+großen Pfahl …“ Es zählt der Moment, in dem die Augen zufallen. Auch [κάθισα]{lang="el"} und
+[κάθονται]{lang="el"} hast du dort schon gelesen, ohne es zu merken: Odysseus erzählt
+[Κάθισα στην ακρογιαλιά]{lang="el"} „Ich setzte mich an den Strand“, ein Moment; im Palast
+dagegen [κάθονται πάνω από εκατό άντρες]{lang="el"} „sitzen über hundert Männer“, seit Jahren, ein
+Zustand.
+
+Aus dem Spanischen kennst du das Muster: [*sabía*]{lang="es"} „ich wusste“, [*supe*]{lang="es"}
+„ich erfuhr“. In Kapitel 4 brauchte der Wendepunkt ein anderes Verb ([ήξερα → έμαθα]{lang="el"});
+hier leistet das der Aorist desselben Verbs: [θυμάμαι → θυμήθηκα]{lang="el"}.
+[Θυμήθηκα!]{lang="el"} heißt deshalb „Jetzt fällt's mir ein!“, nicht „Ich erinnerte mich die
+ganze Zeit“.
 
 Der Aorist kann aber auch den ganzen Zustand als Foto fassen, wie in Kapitel 2 die drei Jahre in
 Troja: [Κοιμήθηκα οκτώ ώρες.]{lang="el"} „Ich habe acht Stunden geschlafen.“ [Κάθισα εκεί μέχρι
-τις πέντε.]{lang="el"} „Ich saß dort bis fünf.“ Mit Zeitangabe, die die Dauer ausmisst, ist
-das „saß“ und „schlief“, ohne sie meist „setzte mich“ und „schlief ein“.
+τις πέντε.]{lang="el"} „Ich saß dort bis fünf.“ Eine Zeitangabe ist dafür nicht nötig; es genügt,
+dass der Zusammenhang den Zustand abschließt. Wer erzählt, wie die Familie die Nacht nach dem
+Beben verbracht hat, sagt [κοιμηθήκαμε στο αυτοκίνητο]{lang="el"}, „wir haben im Auto
+geschlafen“. Steht der Satz ohne solchen Zusammenhang da, ist „setzte mich“ und „schlief ein“ die
+häufigste Lesart.
 
 ::: {.callout-note .exercise}
 ## Übung 10.2: [-θηκα]{lang="el"} oder Ausreißer?
@@ -360,24 +379,25 @@ h) [κάθομαι]{lang="el"} → ich, beide Formen
 2. [θυμήθηκαμε]{lang="el"}
 3. [κοιμηθήκαμε]{lang="el"}
 4. [κάθηκα]{lang="el"}
-5. [γίνηκα]{lang="el"}
+5. [γινήθηκα]{lang="el"}
 6. [ήρθαμε]{lang="el"}
-7. [σκέφθηκα]{lang="el"}
+7. [φοβηθήκα]{lang="el"}
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
 Erst fragen: Gehört das Verb zu den drei Ausreißern? Wenn nicht, [-ήθηκα]{lang="el"} bei der
-[-άμαι]{lang="el"}-Gruppe, [-τηκα]{lang="el"} nach Konsonant.
+[-άμαι]{lang="el"}-Gruppe, [-στηκα]{lang="el"} bei [-ζομαι]{lang="el"}, [σκέφτηκα]{lang="el"}
+mit dem [τ]{lang="el"} des Stamms.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
 Silben zählen: Die Betonung sitzt auf der drittletzten, und [θυμήθηκα]{lang="el"} hat schon
-vier Silben. Bei [ήρθα]{lang="el"} gehört das [ή-]{lang="el"} zum Stamm. In Teil B sind drei
-Formen nicht falsch.
+vier Silben. Bei [ήρθα]{lang="el"} gehört das [ή-]{lang="el"} zum Stamm. In Teil B sind zwei
+Formen richtig.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -388,23 +408,24 @@ Formen nicht falsch.
 - a) [θυμήθηκα]{lang="el"} [θiˈmiθika], [θυμηθήκαμε]{lang="el"} [θimiˈθikame]
 - b) [φοβήθηκαν]{lang="el"}, umg. [φοβηθήκανε]{lang="el"}
 - c) [κοιμηθήκαμε]{lang="el"} [cimiˈθikame]
-- d) [σκέφτηκες]{lang="el"} [ˈsceftices]
-- e) [χρειάστηκα]{lang="el"}: Konsonant vor der Endung, also [-τηκα]{lang="el"}.
+- d) [σκέφτηκες]{lang="el"} [ˈsceftices]. In gehobenen Texten steht auch [σκέφθηκες]{lang="el"}
+  mit [θ]{lang="el"}; im Gespräch sagt man [σκέφτηκες]{lang="el"}.
+- e) [χρειάστηκα]{lang="el"}: Aus [-ζομαι]{lang="el"} wird [-στηκα]{lang="el"}.
 - f) [λυπήθηκε]{lang="el"}
 - g) [ήρθαμε]{lang="el"}
 - h) [κάθισα]{lang="el"} oder [έκατσα]{lang="el"}
 
-**Teil B:** Nicht falsch sind **3**, **6** und **7**.
+**Teil B:** Richtig sind nur **3** und **6**.
 
 1. \*[εθυμήθηκα]{lang="el"} → [θυμήθηκα]{lang="el"}: Vier Silben brauchen kein Augment.
 2. \*[θυμήθηκαμε]{lang="el"} → [θυμηθήκαμε]{lang="el"}: Die Betonung aus der ich-Form
    mitgenommen, sie läge auf der viertletzten Silbe.
 3. Richtig.
 4. \*[κάθηκα]{lang="el"} → [κάθισα, έκατσα]{lang="el"}: [κάθομαι]{lang="el"} ist ein Ausreißer.
-5. \*[γίνηκα]{lang="el"} → [έγινα]{lang="el"}: ebenso.
+5. \*[γινήθηκα]{lang="el"} → [έγινα]{lang="el"}: ebenso ein Ausreißer.
 6. Richtig: Das [ή-]{lang="el"} ist kein Augment und bleibt.
-7. Formell richtig: [σκέφθηκα]{lang="el"} mit [θ]{lang="el"} steht in gehobenen Texten, im
-   Gespräch sagt man [σκέφτηκα]{lang="el"}.
+7. \*[φοβηθήκα]{lang="el"} → [φοβήθηκα]{lang="el"}: Die Betonung sitzt auf der drittletzten
+   Silbe, nicht auf der vorletzten. Umgekehrt als bei 2: Dort rutschte sie zu weit nach vorn.
 :::
 
 ::: {.callout-note .exercise}
@@ -413,13 +434,13 @@ Formen nicht falsch.
 Was braucht der Satz auf Griechisch?
 
 1. **Film:** Zustand, Gewohnheit
-2. **Foto:** Beginn des Zustands oder der Zustand als abgemessenes Ganzes
+2. **Foto:** Beginn des Zustands oder der Zustand als abgeschlossenes Ganzes
 
 Ordne ein und sag den Satz auf Griechisch. Bei Film in der Vergangenheit reicht die Einordnung,
 das Imperfekt folgt in @sec-mai-imperfekt.
 
 a) Ich habe Angst vor dem Meer.
-b) Als das Haus wackelte, hatte ich furchtbar Angst.
+b) Als das Beben kam, bekam ich furchtbare Angst.
 c) Um zwölf bin ich eingeschlafen.
 d) Ich habe zehn Stunden geschlafen.
 e) Als Kind hatte ich Angst vor der Dunkelheit.
@@ -439,7 +460,7 @@ Deutsches „hatte Angst“ kann beides sein. Frag: Beginnt hier etwas, oder dau
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Zwei Sätze haben eine Zeitangabe. Die eine nennt einen Zeitpunkt, die andere misst die Dauer
+In c und d steht eine Zeitangabe. Die eine nennt einen Zeitpunkt, die andere misst die Dauer
 aus; beide passen zum Foto.
 :::
 
@@ -449,8 +470,9 @@ aus; beide passen zum Foto.
 **a1, b2, c2, d2, e1, f1, g2, h2.**
 
 - a) [Φοβάμαι τη θάλασσα.]{lang="el"}
-- b) [Φοβήθηκα πολύ.]{lang="el"} „Ich erschrak.“ Häufigster Fehler: Film, weil das Deutsche
-  „hatte“ sagt.
+- b) [Όταν έγινε ο σεισμός, φοβήθηκα πολύ.]{lang="el"} Die Angst setzt ein. Eine andere
+  Lesart wäre [φοβόμουν πολύ]{lang="el"}, „ich hatte (die ganze Zeit) große Angst“, als Kulisse
+  für das, was danach kommt; „bekam“ zeigt aber auf den Moment.
 - c) [Κοιμήθηκα στις δώδεκα.]{lang="el"} Zeitpunkt, der Moment des Einschlafens.
 - d) [Κοιμήθηκα δέκα ώρες.]{lang="el"} Dieselbe Form, jetzt „schlief“: Die zehn Stunden werden
   als Ganzes gefasst, wie die drei Jahre in Troja.
@@ -483,8 +505,8 @@ Die Ausreißer gehen ihren eigenen Weg, aber nach bekannten Mustern:
 - [ήρθα → έρθω]{lang="el"}, umg. [’ρθω]{lang="el"} (Kapitel 5).
 - [έγινα → γίνω, γίνεις, γίνει]{lang="el"}: die drei Handgriffe, Endungen wie
   [μένω]{lang="el"}.
-- [κάθισα → καθίσω]{lang="el"}, aber im Alltag fast immer [κάτσω, κάτσεις, κάτσει]{lang="el"}
-  ([ˈkatso]), passend zu [έκατσα]{lang="el"}.
+- [κάθισα → καθίσω]{lang="el"} [kaˈθiso], die neutrale Standardform; im Gespräch meist
+  [κάτσω, κάτσεις, κάτσει]{lang="el"} [ˈkatso], passend zu [έκατσα]{lang="el"}.
 
 Die imperfektive Seite, der Film, ist wie immer das Präsens hinter [θα]{lang="el"} oder
 [να]{lang="el"}. Die Wahl folgt den Regeln aus Kapitel 5, mit dem Zusatz aus
@@ -500,10 +522,11 @@ Die imperfektive Seite, der Film, ist wie immer das Präsens hinter [θα]{lang=
 ::: {.callout-tip}
 ## Tipp
 
-Drei Imperative (Kapitel 9) gehören zu diesen Verben, und einen benutzt du seit Kapitel 1:
-[Έλα!]{lang="el"} ist der Imperativ von [έρχομαι]{lang="el"}, „komm!“. Dazu [Κάτσε!]{lang="el"}
-„Setz dich! Bleib noch!“ und [Μη φοβάσαι!]{lang="el"} „Hab keine Angst!“. Lern sie als feste
-Wendungen.
+Aus Kapitel 9 kennst du Imperativ und Verbot. Bei diesen Verben fallen zwei Imperative und ein
+Verbot ständig, und einen davon benutzt du seit Kapitel 1: [Έλα!]{lang="el"} ist der Imperativ
+von [έρχομαι]{lang="el"}, „komm!“. Dazu [Κάτσε!]{lang="el"} „Setz dich! Bleib noch!“ und das
+Verbot [Μη φοβάσαι!]{lang="el"} „Hab keine Angst!“, [μη]{lang="el"} mit der Präsensform. Lern
+sie als feste Wendungen.
 :::
 
 ::: {.callout-note .exercise}
@@ -540,10 +563,11 @@ verlangen den Film, also Präsensformen nach [να]{lang="el"}.
 
 - a) [Δεν μπορώ να κοιμηθώ.]{lang="el"} Foto: Es geht ums Einschlafen.
 - b) [Αύριο θα κάτσουμε στην ταβέρνα στο λιμάνι.]{lang="el"} Foto. Auch richtig:
-  [θα καθίσουμε]{lang="el"}, eher formell.
+  [θα καθίσουμε]{lang="el"}, die neutrale Standardform.
 - c) [Θέλει να γίνει σεισμολόγος.]{lang="el"} Foto, [να]{lang="el"}-Form in der er-Form;
   \*[θέλει να γίνω]{lang="el"} hieße „er will, dass ich werde“.
-- d) [Θα έρθεις αύριο;]{lang="el"}, umg. [Θα ’ρθεις αύριο;]{lang="el"} Foto.
+- d) [Θα έρθεις αύριο;]{lang="el"}, umg. [Θα ’ρθεις αύριο;]{lang="el"} Foto. Ebenso richtig:
+  [Έρχεσαι αύριο;]{lang="el"}, das Präsens mit Zukunftsbedeutung aus Kapitel 5.
 - e) [Θα το σκεφτώ.]{lang="el"} Foto.
 - f) [Πρέπει να το θυμάσαι πάντα.]{lang="el"} Film wegen „immer“: ein Zustand, der bleiben
   soll. [να το θυμηθείς]{lang="el"} hieße „dass es dir (einmal) einfällt“.

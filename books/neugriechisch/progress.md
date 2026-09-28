@@ -15,7 +15,7 @@
 | 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | veröffentlicht | Welle 3; Audio läuft |
 | 11 Zeit: Uhrzeit, Datum, Jahreszahlen | überarbeitet | Welle 3; Konsistenzprüfung erst wenn 8–10 fertig (vocab-Dubletten), erscheint nach 10 |
 | 10 Verben auf -μαι im Alltag | Überarbeitung | Welle 4; beide Reviews da |
-| 08 Kleine Wörter, große Wirkung: schwache Pronomen | Übungen | Welle 4; Entwurf fertig |
+| 08 Kleine Wörter, große Wirkung: schwache Pronomen | im Review | Welle 4; Übungen fertig |
 | 09 Sag’s direkt: der Imperativ | Entwurf | Welle 5 |
 
 ## Plan für /write all (Wellen nach Voraussetzungen)
