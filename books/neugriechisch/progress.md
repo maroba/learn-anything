@@ -26,7 +26,7 @@
 | 20 Mit Nachdruck: starke Pronomen und Doppelung | veröffentlicht | Welle 9; Audio vollständig |
 | 21 So spricht man wirklich: gesprochene Sprache | veröffentlicht | Welle 10; Audio vollständig |
 | 22 Vielleicht, wahrscheinlich, sicher: Modalität | veröffentlicht | Welle 9; Audio vollständig |
-| 23 Thessaloniki und Zwischenbilanz | Überarbeitung | Welle 11; beide Reviews da |
+| 23 Thessaloniki und Zwischenbilanz | Konsistenz | Welle 11; überarbeitet |
 | 24 Was wäre, wenn: Irrealis und Wünsche | fertig | Welle 10; wartet auf 23 |
 | 25 Er muss gegangen sein: Vermutungen über die Vergangenheit | Übungen | Welle 11; Entwurf fertig |
 | 29 Argumentieren | Entwurf | Welle 11 |
