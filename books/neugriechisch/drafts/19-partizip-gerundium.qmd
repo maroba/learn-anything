@@ -623,8 +623,7 @@ griechischen Wörtern, zwei haben ein Problem mit dem Pronomen.
 4. [Γελούσε λέγοντάς το.]{lang="el"} oder [Λέγοντάς το, γελούσε.]{lang="el"}
 5. [Μην ξέροντας το μονοπάτι, χαθήκαμε.]{lang="el"}
 
-Die Reihenfolge ist frei: Das Gerundium kann vorn stehen (dann meist mit Komma) oder hinten.
-Bei 3 und 4 nicht \*[βλέποντας τον]{lang="el"}: drittletzte Silbe betont, also zweiter Akzent.
+Das Gerundium kann vorn (mit Komma) oder hinten stehen. Bei 3 und 4 nicht \*[βλέποντας τον]{lang="el"}: drittletzte Silbe betont, also zweiter Akzent.
 
 **Teil B: Richtig ist 6.** [ρωτώντας]{lang="el"} ist auf der vorletzten Silbe betont, deshalb
 kein zweiter Akzent. Wer \*[ρωτώντάς τον]{lang="el"} erwartet hat, hat die Regel zu weit
@@ -760,8 +759,8 @@ wieder hinauf zum See.
 1. Falsch: [καλά σημαδεμένο]{lang="el"}.
 2. Richtig: [Τρίτωνες, δηλαδή.]{lang="el"}
 3. Falsch: hinauf [λέγοντας «γιατί το κάνω αυτό;»]{lang="el"}, hinunter
-   [τραγουδώντας]{lang="el"}. Wer beide Gerundien gehört, aber vertauscht hat, hat die Form
-   erkannt; das ist das Ziel.
+   [τραγουδώντας]{lang="el"}. Wer beide gehört, aber vertauscht hat, hat die Formen trotzdem
+   erkannt.
 4. Falsch: [γυρίστε πίσω]{lang="el"}, umkehren.
 5. Falsch: [Το έχω ήδη κλεισμένο.]{lang="el"}, [έχω]{lang="el"} + Partizip.
 
@@ -889,13 +888,11 @@ bei denen [-μενος]{lang="el"} unbetont ist, etwa [επόμενος]{lang="e
 
 Keine feste Lösung. Häufig sind in solchen Interviews [αγαπημένος]{lang="el"} („mein
 Lieblings…“), [κουρασμένος]{lang="el"}, [ευχαριστημένος]{lang="el"} „zufrieden“ und Gerundien
-wie [κάνοντας, πηγαίνοντας, περπατώντας]{lang="el"}. Partizipien sind meist häufiger als
-Gerundien, denn das Gerundium ist im spontanen Gespräch seltener als in Erzählung und Presse.
+wie [κάνοντας, πηγαίνοντας, περπατώντας]{lang="el"}. Partizipien überwiegen meist; das
+Gerundium ist im spontanen Gespräch seltener als in Erzählung und Presse.
 
 **Auswertung:** Hast du ohne Untertitel mindestens die Hälfte gefunden, sitzen die Hörsignale.
-Hast du zu viele gezählt, prüf, ob [επόμενος]{lang="el"} oder ein Nomen auf [-οντας]{lang="el"}
-dabei war. Fehlen dir viele Partizipien, hör auf die Betonung: [ˈme] ist die lauteste Silbe im
-Wort.
+Fehlen dir viele Partizipien, hör auf die Betonung: [ˈme] ist die lauteste Silbe im Wort.
 :::
 
 
@@ -1104,8 +1101,8 @@ Verben im Mediopassiv, sie tragen eine Personalendung. [εκατοντάδες]{
 2. [Αφού περπατήσεις τρεις με τέσσερις ώρες, φτάνεις στις Πόρτες.]{lang="el"} oder
    [Περπατάς τρεις με τέσσερις ώρες και φτάνεις στις Πόρτες.]{lang="el"} Mit
    [ενώ]{lang="el"} käme man während des Gehens an.
-3. [Τα μονοπάτια τα μαθαίνεις όταν τα περπατάς.]{lang="el"} Hier heißt das Gerundium „dadurch,
-   dass“; [όταν]{lang="el"} trifft es nur ungefähr, das Gerundium ist kürzer und genauer.
+3. [Τα μονοπάτια τα μαθαίνεις όταν τα περπατάς.]{lang="el"} Das Gerundium heißt hier „dadurch,
+   dass“; [όταν]{lang="el"} trifft es nur ungefähr.
 :::
 
 ::: {.vocab}
