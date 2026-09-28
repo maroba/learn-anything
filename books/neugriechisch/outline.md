@@ -120,7 +120,7 @@ bis zwei Wochen pro Kapitel bei 5 Stunden pro Woche.
 - **Lernziele:** kann Relativsätze mit που bilden; versteht ο οποίος, όποιος, ό,τι
 - **Voraussetzungen:** 12
 - **Lesezeit:** 40 min
-- **Inhalt:** Sachthema: griechisches Kino von Kakogiannis bis Lanthimos; Hörspur: Filmszenen-Beschreibungen
+- **Inhalt:** Sachthema: griechisches Kino von Cacoyannis bis Lanthimos; Hörspur: Filmszenen-Beschreibungen
 
 ### 16 Weil, obwohl, damit: Nebensätze
 - **Datei:** 16-nebensaetze

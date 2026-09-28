@@ -51,7 +51,7 @@ Zwei Freundinnen in einem Café in Athen. Die eine sucht einen Film, der ihr nic
 
 — Der mit dem Vater, der seine Kinder nicht aus dem Haus lässt.
 
-— Ach, *Dogtooth*! Von Lanthimos.
+— Ach, [*Dogtooth*]{lang="en"}! Von Lanthimos.
 
 — Genau der. Ein Kollege, der aus Sevilla ist, will einen griechischen Film sehen. Alle, die ich
 ihm vorgeschlagen habe, kennt er schon.
@@ -71,8 +71,8 @@ starker Wind.
 Das kleine Wort, das hier ständig auftaucht, kennst du seit Kapitel 1: [που]{lang="el"} ohne
 Akzent. Es heißt „der, die, das“, „den“, „in der“ und noch einiges mehr, und es ändert sich nie.
 Dazu kommen [όποιος]{lang="el"} „wer“ und [ό,τι]{lang="el"} „alles, was“. Der Film heißt
-griechisch «[Κυνόδοντας]{lang="el"}», „Eckzahn“; auf Deutsch erschien er, ebenfalls als
-*Dogtooth*, auf DVD.
+griechisch [«Κυνόδοντας»]{lang="el"}, „Eckzahn“; auf Deutsch erschien er, ebenfalls als
+[*Dogtooth*]{lang="en"}, auf DVD.
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -124,7 +124,7 @@ Ein **Relativsatz** ([η αναφορική πρόταση]{lang="el"}) beschrei
 Kasus, keinen Plural. Es funktioniert wie spanisches [*que*]{lang="es"} oder englisches
 [*that*]{lang="en"}:
 
-- [ο σκηνοθέτης που γύρισε τον «Κυνόδοντα»]{lang="el"} – der Regisseur, der *Dogtooth* gedreht hat
+- [ο σκηνοθέτης που γύρισε τον «Κυνόδοντα»]{lang="el"} – der Regisseur, der [*Dogtooth*]{lang="en"} gedreht hat
 - [η ηθοποιός που παίζει τη μητέρα]{lang="el"} – die Schauspielerin, die die Mutter spielt
 - [τα παιδιά που δεν έχουν βγει ποτέ από το σπίτι]{lang="el"} – die Kinder, die nie aus dem Haus
   gekommen sind
@@ -150,7 +150,7 @@ Subjekt, und der Regisseur bleibt als Objekt übrig. Das Subjekt steht im Relati
 dem Verb, wie in [Ήρθε ο Γιάννης]{lang="el"}. Hier hilft dir das Deutsche mit seinen Fällen mehr
 als das Spanische.
 
-Im Neutrum hilft der Artikel nicht, denn [το]{lang="el"} ist Nominativ und Akkusativ. Dann
+Bei sächlichen Nomen hilft der Artikel nicht, denn [το]{lang="el"} ist Nominativ und Akkusativ. Dann
 entscheidet der Sinn: [το παιδί που βλέπει το σκυλί]{lang="el"} ist grammatisch „das Kind, das den
 Hund sieht“ oder „das Kind, das der Hund sieht“; meist klärt es der Zusammenhang.
 
@@ -239,7 +239,7 @@ ein Komma vor [που]{lang="el"} setzen.
 :::
 
 ::: {.callout-note .exercise}
-## Übung 15.2: Ein Wörterbuch wie im *Dogtooth*
+## Übung 15.2: Ein Wörterbuch wie im [*Dogtooth*]{lang="en"}
 
 Spiel die Eltern aus dem Film und erfinde falsche Bedeutungen. Bilde laut Definitionen nach dem
 Muster [Θάλασσα είναι μια πολυθρόνα που …]{lang="el"} aus den Bausteinen hinter dem Pfeil.
@@ -401,7 +401,7 @@ Nur „wem“ und „wessen“ brauchen [του, της …]{lang="el"}. Maßgeb
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-„Mir gefällt“ heißt [μου αρέσει]{lang="el"}: Wer den Film nicht mag, dem gefällt er nicht. Das
+„Mir gefällt“ heißt [μου αρέσει]{lang="el"}: Wer den Film nicht mag, dem gefällt er nicht.
 Bei „deren, dessen“ steht das Besitzwort hinter seinem Nomen, wie in [ο σκηνοθέτης που οι
 ταινίες του]{lang="el"}.
 :::
@@ -425,7 +425,7 @@ Bei „deren, dessen“ steht das Besitzwort hinter seinem Nomen, wie in [ο σ�
   „den Film“.
 - 4, 5: Ort und Zeit ohne alles. In 4 auch [όπου γεννήθηκε]{lang="el"}. Nicht \*[που
   γεννήθηκε εκεί]{lang="el"}, nicht \*[στην που]{lang="el"}.
-- 7: Im Deutschen Subjekt, im Griechischen „wem“, wie bei spanisch *gustar*. Nicht
+- 7: Im Deutschen Subjekt, im Griechischen „wem“, wie bei spanisch [*gustar*]{lang="es"}. Nicht
   \*[που δεν άρεσε την ταινία]{lang="el"}.
 - 8: [μου]{lang="el"} ist „mir“, kein Rückverweis; das Bezugswort ist Objekt.
 - 9: Ohne [της]{lang="el"} fehlt das „wem“; so sagt man es nicht.
@@ -743,11 +743,11 @@ Sonntagabend, erfunden, aber im Ton echt. Erst hören, dann lesen.
 ::: {.callout-note .exercise}
 ## Übung 15.6: Drei Szenen, drei Filme
 
-Hör das Quiz mit ▶, ohne Text und Übersetzung aufzuklappen, gern zweimal.
+Hör das Quiz mit ▶, ohne den Text aufzuklappen (auch nicht die Übersetzung), gern zweimal.
 
-1. Welcher Film gehört zu welcher Szene? A «[Στέλλα]{lang="el"}»,
-   B «[Ζορμπάς]{lang="el"}», C «[Ποτέ την Κυριακή]{lang="el"}», D «[Κυνόδοντας]{lang="el"}»,
-   E «[Μια αιωνιότητα και μια μέρα]{lang="el"}»
+1. Welcher Film gehört zu welcher Szene? A [«Στέλλα»]{lang="el"},
+   B [«Ζορμπάς»]{lang="el"}, C [«Ποτέ την Κυριακή»]{lang="el"}, D [«Κυνόδοντας»]{lang="el"},
+   E [«Μια αιωνιότητα και μια μέρα»]{lang="el"}
 2. Welche Antwort der Anruferin war falsch?
 
 Die nächsten Fragen entscheidet jeweils ein Relativsatz. Hör genau hin, wer was tut.
@@ -785,7 +785,7 @@ Welches Genus hat [ο οποίος]{lang="el"}?
 - Szene 1: Kreta, Tanz am Strand, [ένας άντρας που ξέρει να ζει]{lang="el"}: Sorbas.
 - Szene 2: [την Κυριακή δε δουλεύει ποτέ]{lang="el"} verrät den Titel. Die Anruferin sagte
   *Stella* (A).
-- 3: An [όλο το λιμάνι]{lang="el"} sieht man den Fall nicht (Neutrum), aber [την]{lang="el"}
+- 3: An [όλο το λιμάνι]{lang="el"} sieht man den Fall nicht (sächlich), aber [την]{lang="el"}
   ist Objekt und weiblich: der umgangssprachliche Rückverweis auf die Frau. Der Hafen bleibt als
   Subjekt übrig. Wer a wählt, hat [που]{lang="el"} für das Subjekt gehalten.
 - 4: [Ένας νέος από την Αγγλία, που τα έχει χάσει όλα]{lang="el"}: Der Relativsatz hängt am
@@ -913,7 +913,7 @@ Jedes Interview ist anders; so wertest du aus:
 | [όποιος, όποιον, ό,τι, αυτό που]{lang="el"} | [που … μαζί του]{lang="el"} (umg.) |
 | [Ό,τι πεις. Ό,τι να ’ναι. Ό,τι καλύτερο!]{lang="el"} | [όσοι]{lang="el"}, [όπου]{lang="el"} |
 
-## Zum Lesen: Von *Stella* bis *Dogtooth* {#sec-relativ-lesetext}
+## Zum Lesen: Von *Stella* bis [*Dogtooth*]{lang="en"} {#sec-relativ-lesetext}
 
 ::: {lang="el"}
 **Ταινίες που δεν ξεχνάς**
@@ -1015,9 +1015,9 @@ Danach kam Theo Angelopoulos, ein Regisseur, dessen Filme Einstellungen haben, d
 dauern. Wer es eilig hat, sollte sie sich besser nicht ansehen. Wer Geduld hat, wird sie nicht
 vergessen. 1998 gewann er in Cannes die Goldene Palme mit *Die Ewigkeit und ein Tag*.
 
-2009 stellte ein junger Regisseur, Yorgos Lanthimos, in Cannes *Dogtooth* vor, einen Film über eine Familie, die
+2009 stellte ein junger Regisseur, Yorgos Lanthimos, in Cannes [*Dogtooth*]{lang="en"} vor, einen Film über eine Familie, die
 eingeschlossen in einem Haus lebt. Die ausländischen Kritiker sprachen von einer „seltsamen
-Welle“ (*Greek Weird Wave*), in die sie Regisseure mit sehr unterschiedlichem Stil einordneten.
+Welle“ ([*Greek Weird Wave*]{lang="en"}), in die sie Regisseure mit sehr unterschiedlichem Stil einordneten.
 Heute dreht Lanthimos Filme auf Englisch, mit Schauspielern, die Oscars gewinnen. Aber was ihn
 bekannt gemacht hat, war ein kleiner griechischer Film, den er mit sehr wenig Geld gedreht hat.
 
@@ -1033,7 +1033,7 @@ unterhalb der Akropolis.
   unterschiedlich angegeben.
 - **Untertitel und Englisch:** Der Zusammenhang ist plausibel und wird oft behauptet, aber
   kaum sauber belegt; deshalb im Text „viele sagen“.
-- **„Weird Wave“** ist ein Etikett ausländischer Kritiker (um 2011); viele der gemeinten
+- **„[Weird Wave]{lang="en"}“** ist ein Etikett ausländischer Kritiker (um 2011); viele der gemeinten
   Regisseurinnen und Regisseure lehnen es als gemeinsame Schule ab.
 :::
 

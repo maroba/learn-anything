@@ -55,6 +55,7 @@ Titel immer in der Buchsprache. Diese Typen haben eine feste Bedeutung:
 | Wortschatz zum Text (eingeklappt, keine Karten) | `::: {.callout-note collapse="true" .vocab-text}` + `## Wortschatz zum Text` |
 | Übersetzung eines Textes (eingeklappt) | `::: {.callout-note collapse="true" .translation}` + `## Übersetzung` |
 | Hörübung: nur ▶ „Alles anhören“, Text eingeklappt | `::: {lang="el" .listen}` (ohne Callout; Dialogzeilen „— …“ wie sonst) |
+| Dialog: Stimme einer Zeile festlegen | Zeilen „— …“ wechseln automatisch zwischen zwei Stimmen; `[— …]{.v1}` bzw. `[— …]{.v2}` setzt die Stimme ausdrücklich (bei drei oder mehr Sprechern), danach wird weiter abgewechselt |
 | Leserfrage | `::: {.callout-note .reader-question}` + `## Leserfrage: …` |
 | Wiederholung früheren Stoffs | `::: {.callout-note .review}` + `## Zur Wiederholung` |
 | Unsichere Aussage | `::: {.callout-caution .uncertain}` + `## Vorsicht` |

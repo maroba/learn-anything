@@ -1112,7 +1112,7 @@ Wohnung und kümmert sich um die Katze. Am Kühlschrank hängt ein Zettel.
 
 | Griechisch | Deutsch |
 |---|---|
-| [πριν κάνεις]{lang="el"} | bevor du … machst ([πριν]{lang="el"} + [να]{lang="el"}-Form, Kapitel 17) |
+| [πριν κάνεις]{lang="el"} | bevor du … machst ([πριν]{lang="el"} + [να]{lang="el"}-Form, Kapitel 16) |
 | [οτιδήποτε]{lang="el"} | irgendetwas |
 | [ταΐζω, τάισα]{lang="el"} | füttern; Film-Imperativ [τάιζε]{lang="el"} |
 | [το κουτάκι]{lang="el"} | die kleine Dose |

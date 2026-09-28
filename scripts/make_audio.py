@@ -131,6 +131,21 @@ def attr_of(block):
     return classes, dict(kvs)
 
 
+def explicit_voice(block):
+    """0 or 1 if the paragraph starts with a Span of class v1/v2, else None."""
+    if block["t"] not in ("Plain", "Para") or not block["c"]:
+        return None
+    first = block["c"][0]
+    if first["t"] != "Span":
+        return None
+    classes = first["c"][0][1]
+    if "v1" in classes:
+        return 0
+    if "v2" in classes:
+        return 1
+    return None
+
+
 def collect(blocks, lang, found, in_vocab=False):
     for b in blocks:
         t = b["t"]
@@ -142,11 +157,16 @@ def collect(blocks, lang, found, in_vocab=False):
                 collect(b["c"][1], lang, found, in_vocab=True)
             elif kvs.get("lang", "").split("-")[0] == lang:
                 # Dialogue lines ("— …") alternate between two speakers within a block.
+                # A line wrapped in [— …]{.v1} or [— …]{.v2} sets the voice explicitly
+                # (for three or more speakers); alternation continues from there.
                 turn = 0
                 for inner in b["c"][1]:
                     text = block_text(inner)
                     if not text:
                         continue
+                    forced = explicit_voice(inner)
+                    if forced is not None:
+                        turn = forced
                     if re.match(r"\s*[—–]", text):
                         found.append((text, turn % 2))
                         turn += 1
