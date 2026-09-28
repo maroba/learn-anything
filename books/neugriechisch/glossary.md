@@ -88,7 +88,8 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 | Foto / Film | Bild für den Aspekt: perfektiv = Foto (als Ganzes, von außen), imperfektiv = Film (Vorgang, Wiederholung, Gewohnheit, Hintergrund). Immer diese beiden Wörter, keine anderen Metaphern | 02 |
 | Vergangenheit im perfektiven Aspekt | Standarderklärung von „Aorist“; „als Ganzes“ heißt nicht „kurz“ | 02 |
 | Perfekt-Falle | deutsches/spanisches Perfekt („Hast du … gelesen?“), wo Griechisch den Aorist nimmt | 02 |
-| Augment | [ε-]{lang="el"} (auch [η-, ει-]{lang="el"}), steht nur betont; Merkformel „nur, wenn es betont ist“ | 02 |
+| Augment | [ε-]{lang="el"}, bei einigen Verben [η-]{lang="el"} ([ήξερα – ξέραμε]{lang="el"}); steht nur betont; Merkformel „nur, wenn es betont ist“. Das [ή-/εί-]{lang="el"} in [ήρθα, ήπια, είδα, είπα]{lang="el"} gehört zum Stamm und bleibt im Plural ([ήρθαμε, είδαμε]{lang="el"}) | 02 |
+| Bauform (unregelmäßige Aoriste) | (A) fester Anfang: zweisilbig, erste Silbe bleibt ([πήγα – πήγαμε]{lang="el"}); (B) Regel aus Kapitel 2: Augment nur betont, Betonung auf der drittletzten Silbe ([έκανα – κάναμε, ανέβηκα – ανεβήκαμε]{lang="el"}) | 03 |
 | drittletzte / viertletzte Silbe | Betonungsposition immer so benennen (nicht „dritte von hinten“, „vier Silben vor dem Ende“) | 02 |
 | Lippenlaut, Kehllaut | für [π β φ (ευ)]{lang="el"} bzw. [κ γ χ]{lang="el"} bei der Stammbildung ([-ψα, -ξα]{lang="el"}) | 02 |
 | Präsens-Zutat | Laut, der nur im Präsens steht und im perfektiven Stamm fehlt ([τ]{lang="el"} in [-πτω]{lang="el"}, [ν]{lang="el"} in [-χνω]{lang="el"}) | 02 |
