@@ -575,7 +575,7 @@ aber verliert das Hemd in der Sonne seine eigene Farbe. Betonung wie bei [ξέφ
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [ξε-]{lang="el"} | [kse] | Vorsilbe: rückgängig (ent-, auf-); heraus, weg |
+| [ξε-]{lang="el"} | [kse] | Vorsilbe: rückgängig (ent-, auf-); heraus, weg; ganz und gar |
 | [ξεκλειδώνω, ξεκλείδωσα]{lang="el"} | [ksekliˈðono], [kseˈkliðosa] | aufschließen |
 | [ξεντύνομαι, ξεντύθηκα]{lang="el"} | [kseˈdinome], [kseˈdiθika] | sich ausziehen |
 | [ξεπαγώνω, ξεπάγωσα]{lang="el"} | [ksepaˈɣono], [kseˈpaɣosa] | auftauen |
@@ -594,10 +594,9 @@ Die Großmutter hat es vorgemacht: [παράφαγες]{lang="el"}. Die häufigs
 - [παρατρώω]{lang="el"} zu viel essen, [παραπίνω]{lang="el"} zu viel trinken
 - [παρακοιμάμαι]{lang="el"} zu lange schlafen, verschlafen: [Παρακοιμήθηκα και έχασα το
   πλοίο.]{lang="el"}
-- [παραψήνω]{lang="el"} zu lange braten; das Partizip [παραψημένος]{lang="el"} „zu lange gebraten,
-  verbrannt“ (Kapitel 19)
-- umgangssprachlich sogar vor [είμαι]{lang="el"}: [Παραείναι ακριβό.]{lang="el"} „Das ist zu
-  teuer.“ <!-- CHECK: παραείναι umgangssprachlich üblich? -->
+- [παραψήνω]{lang="el"} zu lange braten oder garen; [παραψημένος]{lang="el"} „zu lange gegart,
+  zu durch“ (Partizip auf [-μένος]{lang="el"}, Kapitel 19)
+- sogar vor [είμαι]{lang="el"}: [Παραείναι ακριβό.]{lang="el"} „Das ist zu teuer.“
 
 Die zweite Bedeutung ist **daneben, verkehrt**: [παρακούω]{lang="el"} „sich verhören“,
 [παρεξηγώ]{lang="el"} „missverstehen; übelnehmen“ (vor Vokal [παρ-]{lang="el"}). Daraus die
@@ -624,16 +623,32 @@ wer Spanisch oder Französisch kann, kennt das Spiel: *compañero*, *collègue*,
 | [π, β, φ, ψ, μ]{lang="el"} | [συμ-]{lang="el"} | [συμφωνώ, ο συμμαθητής]{lang="el"} |
 | [κ, γ, χ, ξ]{lang="el"} | [συγ-]{lang="el"} | [συγχωρώ, ο συγκάτοικος]{lang="el"} |
 | [λ]{lang="el"} | [συλ-]{lang="el"} | [η συλλογή]{lang="el"} (Sammlung) |
+| [ρ]{lang="el"} | [συρ-]{lang="el"} | [η συρροή]{lang="el"} (Zustrom) |
 | [σ, ζ]{lang="el"} | [συ-]{lang="el"} | [συζητάω, το σύστημα]{lang="el"} |
 
-Manche dieser Wörter lassen sich wie ein Rätsel lösen. [συμφωνώ]{lang="el"} ist „mit-stimmen“
+Manche dieser Wörter lassen sich wie ein Rätsel lösen. [συμφωνώ]{lang="el"} (Kapitel 18) ist „mit-stimmen“
 ([η φωνή]{lang="el"} Stimme), also wörtlich *übereinstimmen*, und dieselbe Bildung steckt in der
 *Symphonie*. [συζητάω]{lang="el"} ist „zusammen suchen“ ([ζητάω]{lang="el"}). Und
 [Συγχαρητήρια!]{lang="el"} „Herzlichen Glückwunsch!“ ist die „Mit-Freude“ ([η χαρά]{lang="el"}).
 Zur Aussprache: [γχ]{lang="el"} ist [ŋx], [συγχωρώ]{lang="el"} [siŋxoˈro]; [γκ]{lang="el"} ist
 nach Buchkonvention [g], [συγκάτοικος]{lang="el"} [siˈgatikos]. [Συγγνώμη]{lang="el"}
 [siɣˈnomi] ist die Ausnahme aus Kapitel 1: Dort ist [γγ]{lang="el"} nur [ɣ].
-<!-- CHECK: συγχαρητήρια etymologisch zu χαρά (συγχαίρω) korrekt; Aussprache [siˈgatikos] nach Buchkonvention ok? -->
+
+### Vorsilbe und Augment {#sec-praefixe-aorist}
+
+Im Aorist zählt die Vorsilbe mit. Der Grundgedanke ist der aus Kapitel 2: Die Betonung liegt auf
+der drittletzten Silbe, und das [ε-]{lang="el"} kommt nur dazu, wenn sonst eine Silbe fehlt. Mit
+Vorsilbe fehlt keine mehr. Deshalb ersetzt **meist die betonte Vorsilbe das Augment**:
+[έφαγα → παράφαγα]{lang="el"}, [έγραψα → ξανάγραψα]{lang="el"}, [έφυγα → ξέφυγα]{lang="el"}.
+Das ist eine Tendenz, keine feste Regel: Das Wörterbuch verzeichnet daneben auch
+[ξαναέγραψα, παραέφαγα]{lang="el"}, mit Vorsilbe und Augment.
+
+Die Verben mit festem Anfang aus Kapitel 3 ([ήρθα, ήπια, είδα]{lang="el"}) behalten ihr
+[ή-/εί-]{lang="el"} meist: [ξαναήρθα, παραήπια, ξαναείδα]{lang="el"}. Umgangssprachlich hört man
+auch [ξανάρθα, παράπια, ξανάδα]{lang="el"}.
+
+Anders verhalten sich gelehrte Verben, bei denen das Augment ins Wortinnere rutscht:
+[παραγγέλνω → παρήγγειλα]{lang="el"}, [συμβαίνει → συνέβη]{lang="el"}. Die kommen in Kapitel 27.
 
 ::: {.callout-note .exercise}
 ## Übung 26.5: Vier Vorsilben
