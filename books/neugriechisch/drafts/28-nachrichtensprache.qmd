@@ -94,15 +94,15 @@ In den Tabellen dieses Kapitels steht die Stufe dabei, im Wortschatz als „(Stu
 ::: {.callout-note collapse="true"}
 ## Exkurs: Die Katharevousa
 
-Im 19. Jahrhundert suchte der junge griechische Staat eine Schriftsprache. Gelehrte schufen eine
-„gereinigte“ Form, [η καθαρεύουσα]{lang="el"}, wörtlich „die rein Seiende“, von
-[καθαρεύω]{lang="el"} „rein sein“ (zu [καθαρός]{lang="el"}): gesprochenes Griechisch,
-zurechtgebogen in Richtung Altgriechisch, mit alten Endungen und ohne türkische und italienische
-Lehnwörter. Die Volkssprache, [η δημοτική]{lang="el"}, galt als unfein. Über ein Jahrhundert
-schrieben Staat, Gerichte und die meisten Zeitungen Katharevousa, während alle Welt Demotiki
-sprach. Erst 1976 wurde die Demotiki per Gesetz Sprache der Schulen und im selben Jahr per Erlass
-Sprache der Verwaltung. Die Katharevousa verschwand, aber ihre Formen blieben: in Nachrichten,
-Gesetzen, auf Schildern ([Εκτός λειτουργίας]{lang="el"}) und in festen Wendungen.
+Im 19. Jahrhundert schufen Gelehrte für den jungen griechischen Staat eine „gereinigte“
+Schriftsprache, [η καθαρεύουσα]{lang="el"}, wörtlich „die rein Seiende“, von
+[καθαρεύω]{lang="el"} „rein sein“: gesprochenes Griechisch, zurechtgebogen in Richtung
+Altgriechisch, ohne türkische und italienische Lehnwörter. Die Volkssprache, [η
+δημοτική]{lang="el"}, galt als unfein. Über ein Jahrhundert schrieben Staat, Gerichte und die
+meisten Zeitungen Katharevousa, während alle Welt Demotiki sprach. Erst 1976 wurde die Demotiki
+per Gesetz Sprache der Schulen und im selben Jahr per Erlass Sprache der Verwaltung. Die Formen
+der Katharevousa blieben: in Nachrichten, Gesetzen, auf Schildern ([Εκτός
+λειτουργίας]{lang="el"}).
 :::
 
 ::: {.vocab}
@@ -211,15 +211,10 @@ geschah. Das Funktionsverb des Alltags ist [γίνεται, έγινε]{lang="el
 3. η πτώση των τιμών
 4. η λήψη νέων μέτρων
 5. η ψήφιση του νόμου
-6. το κλείσιμο του λιμανιού
-7. η αναχώρηση του πλοίου
-8. η ανακοίνωση του υπουργείου
+6. η ανακοίνωση του υπουργείου
 :::
 
-**B.** Umgekehrt, vom Kafenion in die Nachrichten: [αυξάνεται η ανεργία]{lang="el"} und
-[ανεβαίνουν οι τιμές]{lang="el"}.
-
-**C.** Zwei Ketten, von innen nach außen aufgelöst. Sag jeden Satz so, wie du ihn im Gespräch
+**B.** Zwei Ketten, von innen nach außen aufgelöst. Sag jeden Satz so, wie du ihn im Gespräch
 erzählen würdest.
 
 ::: {lang="el"}
@@ -232,14 +227,14 @@ erzählen würdest.
 ## Hinweis 1
 
 Nomen → Verb, Genitiv → Subjekt oder Objekt. Frag bei jedem Genitiv: Tut er etwas, oder
-geschieht ihm etwas? Bei C mit dem letzten Genitiv anfangen.
+geschieht ihm etwas? Bei B mit dem letzten Genitiv anfangen.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Vier Zeilen in A enthalten Zwillinge: [άφιξη, πτώση, λήψη, αναχώρηση]{lang="el"} gehören zu
-[φτάνω, πέφτω, παίρνω, φεύγω]{lang="el"}. In Zeile 8 ist der Genitiv der Handelnde. Bei C1
+Drei Zeilen in A enthalten Zwillinge: [άφιξη, πτώση, λήψη]{lang="el"} gehören zu
+[φτάνω, πέφτω, παίρνω]{lang="el"}. In Zeile 6 ist der Genitiv der Handelnde. Bei B1
 wird [εντός του μήνα]{lang="el"} zu [μέσα στον μήνα]{lang="el"}.
 :::
 
@@ -254,16 +249,12 @@ wird [εντός του μήνα]{lang="el"} zu [μέσα στον μήνα]{lan
 3. πέφτουν οι τιμές
 4. παίρνουν νέα μέτρα
 5. ψηφίζουν τον νόμο (auch: ψηφίζεται ο νόμος)
-6. κλείνει το λιμάνι (auch: κλείνουν το λιμάνι)
-7. φεύγει το πλοίο
-8. το υπουργείο ανακοινώνει (auch: ανακοίνωσε)
+6. το υπουργείο ανακοινώνει (auch: ανακοίνωσε)
 :::
 
-**B:** [η αύξηση της ανεργίας]{lang="el"}; [η άνοδος των τιμών]{lang="el"}, ebenso richtig
-[η αύξηση των τιμών]{lang="el"}. Zeitform und Aktiv/Passiv legt das Nomen nicht fest; jede
-passende Variante zählt.
+Zeitform und Aktiv/Passiv legt das Nomen nicht fest; jede passende Variante zählt.
 
-**C:** Von innen: Arbeitslosigkeit sinkt → dafür Maßnahmen ergreifen → das wird erwartet.
+**B:** Von innen: Arbeitslosigkeit sinkt → dafür Maßnahmen ergreifen → das wird erwartet.
 Steuern sinken → Gesetz dafür verabschieden → danach fallen die Preise.
 
 ::: {lang="el" .no-audio}
@@ -272,11 +263,10 @@ Steuern sinken → Gesetz dafür verabschieden → danach fallen die Preise.
 :::
 
 **Typische Fehler:** Den Genitiv als Besitzer lesen: [η ανακοίνωση του υπουργείου]{lang="el"}
-ist keine Mitteilung, die dem Ministerium gehört, sondern eine, die es macht; bei
-[η ανακοίνωση της απόφασης]{lang="el"} wird dagegen die Entscheidung bekannt gegeben. Bei A4 den
-gelehrten Zwilling nehmen: [λαμβάνονται νέα μέτρα]{lang="el"} ist richtig, aber Stufe 2; im
-Kafenion sagt man [παίρνουν]{lang="el"}. Bei C von vorn anfangen: Dann hängt [για τη
-μείωση]{lang="el"} in der Luft.
+ist eine Mitteilung, die das Ministerium macht; bei [η ανακοίνωση της απόφασης]{lang="el"} wird
+dagegen die Entscheidung bekannt gegeben. Bei A4 den gelehrten Zwilling nehmen: [λαμβάνονται
+νέα μέτρα]{lang="el"} ist Stufe 2. Bei B von vorn anfangen: Dann hängt [για τη μείωση]{lang="el"}
+in der Luft.
 :::
 
 ::: {.vocab}
@@ -371,9 +361,9 @@ via · h) vor · i) während · j) für
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Fang mit dem an, was du von Schildern und Reisen kennst: [λόγω]{lang="el"} von der Ladentür,
-[μέσω]{lang="el"} von der Flugroute. [βάσει]{lang="el"} steckt in [η βάση]{lang="el"}; dem Sinn
-nach passt in Satz 8 auch „laut“, das Wort selbst heißt aber „auf Grund von“.
+Fang mit [λόγω]{lang="el"} und [μέσω]{lang="el"} an. [βάσει]{lang="el"} steckt in [η
+βάση]{lang="el"}; dem Sinn nach passt in Satz 8 auch „laut“, das Wort selbst heißt aber „auf
+Grund von“.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -546,8 +536,7 @@ Am Telefon etwa: [Χθες έπιασαν δύο άτομα στον Πειρα�
 πρόεδρο.]{lang="el"} oder [Εκλέχτηκε νέα πρόεδρος στον σύλλογο.]{lang="el"}
 
 **Die Falle:** [εξελέγη]{lang="el"} zu [εξηγώ]{lang="el"} „erklären“ stellen, weil beide mit
-[εξ-]{lang="el"} beginnen. Der Aorist von [εξηγώ]{lang="el"} heißt [εξήγησα]{lang="el"},
-passiv [εξηγήθηκε]{lang="el"}, und hat kein [λ]{lang="el"}. Das [λεγ-]{lang="el"} in
+[εξ-]{lang="el"} beginnen; [εξήγησα, εξηγήθηκε]{lang="el"} haben aber kein [λ]{lang="el"}. Das [λεγ-]{lang="el"} in
 [εξελέγη]{lang="el"} ist mit dem [λογ-]{lang="el"} in [εκλογές]{lang="el"} „Wahlen“ verwandt. Bei
 7 und 8 hilft der Kontext: [σε ηλικία 90 ετών]{lang="el"} steht in Todesmeldungen,
 [προέβη σε]{lang="el"} + Nomen ist ein Funktionsverb wie [προχώρησε σε]{lang="el"}.
@@ -593,9 +582,8 @@ Nachrichten oft nach hinten, [των εργαζομένων]{lang="el"} [erɣazo
 [καθαρεύουσα]{lang="el"} aus dem Exkurs ist selbst so ein Partizip.
 
 **[-θείς]{lang="el"}** ist das gelehrte Partizip zum Aorist aus @sec-nachrichten-aoriste:
-[συνελήφθη]{lang="el"} „wurde festgenommen“, [ο συλληφθείς]{lang="el"} „der Festgenommene“. Es
-lebt fast nur in Polizei- und Gerichtsmeldungen. Erkennbar ist es am betonten [-θεί-]{lang="el"}
-oder [-θέντ-]{lang="el"}.
+[συνελήφθη → ο συλληφθείς]{lang="el"} „der Festgenommene“. Es lebt fast nur in Polizei- und
+Gerichtsmeldungen und ist am betonten [-θεί-, -θέντ-]{lang="el"} erkennbar.
 
 ::: {.callout-warning}
 ## Achtung
@@ -660,12 +648,10 @@ ein Partizip, sonst ein Imperfekt (siehe Achtung-Box).
 8. η επιτροπή που διοικεί
 :::
 
-**Typische Fehler:** 3 für Typ B halten: [μιλούσα]{lang="el"} ist Imperfekt, „ich sprach“, ohne
-Artikel und Nomen. 6 für Typ A halten: [κουρασμένοι]{lang="el"} ist betont auf
-[-μέ-]{lang="el"}, das Alltagspartizip aus Kapitel 19. Bei 5 verlangt [συμφώνησαν]{lang="el"}
-die Vergangenheit im Relativsatz, obwohl das Partizip ein Präsens ist: Es bedeutet nur
-„gleichzeitig“. Bei 1 ist das Partizip längst ein Nomen, der Arbeitnehmer; der Relativsatz zeigt
-nur, woher es kommt.
+**Typische Fehler:** 3 für Typ B halten: [μιλούσα]{lang="el"} ist Imperfekt, ohne Artikel und
+Nomen. 6 für Typ A halten: [κουρασμένοι]{lang="el"} ist auf [-μέ-]{lang="el"} betont, das
+Alltagspartizip aus Kapitel 19. Bei 5 verlangt [συμφώνησαν]{lang="el"} die Vergangenheit im
+Relativsatz; das Partizip Präsens bedeutet nur „gleichzeitig“.
 :::
 
 ::: {.vocab}
@@ -698,13 +684,13 @@ Griechischen gibt es vier Grundmuster:
    ([ο καύσωνας]{lang="el"} die Hitzewelle). Wer spricht, steht vorn; was gesagt wurde, in
    «Winkeln». Das ist die Kurzform von [σύμφωνα με]{lang="el"}.
 
-Die Zeit ist meist Präsens, wie im Deutschen („Regierung beschließt Maßnahmen“), oder Aorist des
-Mediopassivs. Oft steht auch das Objekt vorn. Ist es unbestimmt wie in [Νέα μέτρα ανακοινώνει η
-κυβέρνηση]{lang="el"}, gilt die Regel aus Kapitel 20: Unbestimmtes bekommt kein Echo-Pronomen.
-Meldungen stellen aber auch ein **bestimmtes** Objekt ohne Echo nach vorn: [Τη σύλληψη ενός
-38χρονου ανακοίνωσε η αστυνομία.]{lang="el"} Nach Kapitel 20 wäre das ein Scheinwerfer mit
-Gegensatz. Im Nachrichtenstil ist es eine Ausnahme ohne Gegensatz: Das Neue kommt einfach zuerst.
-Im Gespräch bleibt es bei der Überschrift mit Echo-Pronomen.
+Die Zeit ist meist Präsens („Regierung beschließt Maßnahmen“) oder Aorist des Mediopassivs. Oft
+steht auch das Objekt vorn. Ist es unbestimmt wie in [Νέα μέτρα ανακοινώνει η
+κυβέρνηση]{lang="el"}, gilt Kapitel 20: Unbestimmtes bekommt kein Echo-Pronomen. Meldungen
+stellen aber auch ein **bestimmtes** Objekt ohne Echo nach vorn: [Τη σύλληψη ενός 38χρονου
+ανακοίνωσε η αστυνομία.]{lang="el"} Nach Kapitel 20 wäre das ein Scheinwerfer mit Gegensatz; im
+Nachrichtenstil ist es eine Ausnahme ohne Gegensatz: Das Neue kommt zuerst. Im Gespräch bleibt es
+bei der Überschrift mit Echo-Pronomen.
 
 ::: {.callout-note .exercise}
 ## Übung 28.5: Schlagzeile sucht Meldung
@@ -765,15 +751,14 @@ machen (Übung 28.1), bei Muster 4 [λένε ότι]{lang="el"} einsetzen. [38χ
 6. Η κυβέρνηση ανακοινώνει νέα μέτρα για τα δάση.
 :::
 
-Andere Wortstellungen und [λόγω χιονιού]{lang="el"} (Stufe 1) sind ebenso richtig. Bei 3 sagt
-[για κλοπή]{lang="el"} „wegen Diebstahls“ nur, was ihm vorgeworfen wird; [επειδή
-έκλεψε]{lang="el"} würde die Schuld als Tatsache hinstellen.
+Andere Wortstellungen und [λόγω χιονιού]{lang="el"} (Stufe 1) sind ebenso richtig. Bei 3 nennt
+[για κλοπή]{lang="el"} nur den Vorwurf; [επειδή έκλεψε]{lang="el"} würde die Schuld als Tatsache
+hinstellen (Kapitel 18).
 
 **Typische Fehler:** Bei 6 [τα μέτρα]{lang="el"} für das Subjekt halten, weil sie vorn stehen;
 das Verb [ανακοινώνει]{lang="el"} ist Singular und gehört zu [η κυβέρνηση]{lang="el"}. Bei 3
-[38χρονος]{lang="el"} als Datum oder Uhrzeit lesen. Meldung B stellt ein bestimmtes Objekt ohne
-Echo-Pronomen nach vorn, die Nachrichtenausnahme von oben; bei C und Schlagzeile 6 ist das Objekt
-unbestimmt, da gibt es ohnehin kein Echo.
+[38χρονος]{lang="el"} als Datum oder Uhrzeit lesen. Meldung B zeigt die Nachrichtenausnahme:
+bestimmtes Objekt vorn, ohne Echo-Pronomen; bei C und Schlagzeile 6 ist das Objekt unbestimmt.
 :::
 
 ::: {.vocab}
@@ -882,9 +867,7 @@ Frage 3 und 4 hängen an zwei Verben: [αναμένεται]{lang="el"} „wird 
 βαθμούς]{lang="el"}).
 
 **Typische Fehler:** 3 und 4 vertauschen: Die Tankschiffe kommen sicher, die Anlage ist nur
-eine Forderung. Bei 5 b wählen, weil die Tankschiffe gerade vorkamen; die Hotelbesitzerin will
-aber eine dauerhafte Lösung. Wer bei 6 schwankt, hört noch einmal auf
-[διακόσια]{lang="el"} [ðiaˈkosia]: [δύο χιλιάδες]{lang="el"} klingt ganz anders.
+eine Forderung. Bei 5 b wählen; die Hotelbesitzerin will aber eine dauerhafte Lösung.
 :::
 
 ::: {.callout-note collapse="true" .translation}
@@ -919,16 +902,12 @@ Abend.
 | Griechisch | Deutsch |
 |---|---|
 | [ο/η συνάδελφος]{lang="el"} | der Kollege, die Kollegin (Kapitel 15) |
-| [οι Κυκλάδες]{lang="el"} | die Kykladen |
 | [το υπουργείο]{lang="el"} | das Ministerium |
 | [μισοάδειος, -α, -ο]{lang="el"} | halb leer |
-| [ο δήμος]{lang="el"} | die Gemeinde |
 | [η μονάδα]{lang="el"} | die Anlage, die Einheit |
 | [προσωρινός, -ή, -ό]{lang="el"} | vorübergehend |
 | [η ιδιοκτήτρια]{lang="el"} | die Besitzerin |
 | [η υπόσχεση, οι υποσχέσεις]{lang="el"} | das Versprechen |
-| [του χρόνου]{lang="el"} | nächstes Jahr |
-| [η Βοιωτία]{lang="el"} | Böotien |
 | [η αρχαιοκαπηλία]{lang="el"} | der illegale Antikenhandel |
 | [το νόμισμα, τα νομίσματα]{lang="el"} | die Münze; die Währung |
 | [το διαδίκτυο]{lang="el"} | das Internet (Stufe 2) |
@@ -1011,23 +990,22 @@ Hörspur oben mit ihrem Text oder an einer Sendung mit CC, dann zurück zur echt
 ## Das Wichtigste {#sec-nachrichten-wichtigste}
 
 - **Drei Stufen:** (1) auch im Gespräch: [λόγω, μέσω, κατά 20%, οι εργαζόμενοι, εν τω
-  μεταξύ]{lang="el"}; (2) Nachrichtenton, verstehen: [εντός, η λήψη μέτρων, συνελήφθη, ο ισχύων
-  νόμος]{lang="el"}; (3) nur verstehen: [διεξήχθη, εξελέγη, ενώπιον, ο συλληφθείς]{lang="el"}.
+  μεταξύ]{lang="el"}; (2) Nachrichtenton: [εντός, η λήψη μέτρων, συνελήφθη]{lang="el"}; (3) nur
+  verstehen: [διεξήχθη, εξελέγη, ενώπιον, ο συλληφθείς]{lang="el"}, auch [με]{lang="el"} + Nomen
+  + [να]{lang="el"} „wobei“.
 - **Nominalstil:** Verb wird Nomen, Subjekt oder Objekt wird Genitiv: [η αύξηση των
-  τιμών]{lang="el"}. Beim Verstehen von innen nach außen zurückübersetzen. Manche Nomen kommen vom
-  gelehrten Zwilling: [φτάνω – η άφιξη, παίρνω – η λήψη, πέφτω – η πτώση]{lang="el"}.
+  τιμών]{lang="el"}. Von innen nach außen zurückübersetzen. Gelehrte Zwillinge: [φτάνω – η άφιξη,
+  παίρνω – η λήψη]{lang="el"}.
 - **Gelehrte Präpositionen** nehmen den Genitiv: [λόγω, εντός, εκτός, ενώπιον, μέσω, υπέρ,
   βάσει]{lang="el"}; [κατά]{lang="el"} + Akk. „um, laut, während“, + Gen. „gegen“. Mit schwachen
   Pronomen ist der Genitiv Alltag: [δίπλα μου, μεταξύ μας]{lang="el"}.
-- **Nachrichtenaoriste:** Endung [-η/-ησαν]{lang="el"}, Augment auch unbetont, oft [θ]{lang="el"}:
-  [ελήφθη, εξελέγη, συνελήφθησαν, απεδείχθη]{lang="el"}. Für dich selbst gilt weiter: Augment nur
-  betont.
-- **Gelehrte Partizipien:** [-όμενος]{lang="el"} (meist vor [-μενος]{lang="el"} betont),
-  [-ων/-ουσα/-ον, -οντες]{lang="el"}, [-θείς/-θέντες]{lang="el"}.
-- **Schlagzeilen:** Aussage vorn ohne Verb, nur Nomen, Mediopassiv vorn, Quelle mit Doppelpunkt.
-  Objekt vorn ohne Echo-Pronomen ist hier kein Gegensatz.
+- **Nachrichtenaoriste:** [-η/-ησαν]{lang="el"}, Augment auch unbetont, oft [θ]{lang="el"}:
+  [ελήφθη, εξελέγη, απεδείχθη]{lang="el"}. Für dich selbst gilt weiter: Augment nur betont.
+- **Gelehrte Partizipien:** [-όμενος]{lang="el"}, [-ων/-ουσα/-ον]{lang="el"},
+  [-θείς/-θέντες]{lang="el"}.
+- **Schlagzeilen:** Aussage vorn ohne Verb, nur Nomen, Mediopassiv vorn, Quelle mit Doppelpunkt;
+  Objekt vorn ohne Echo-Pronomen ohne Gegensatz.
 - **Sendung:** Schlagzeilen, Hauptmeldung mit Korrespondent und O-Ton, weitere Meldungen, Wetter.
-  Das Muster [με]{lang="el"} + Nomen + [να]{lang="el"} „wobei“ nur verstehen.
 
 ## Zum Lesen: Zwölf Stunden bis zu den Nachrichten {#sec-nachrichten-lesetext}
 
@@ -1104,7 +1082,6 @@ geschnappt‘. Zu Hause reden wir aber wie alle.“
 | [καλούμαι, κλήθηκα]{lang="el"} | gebeten, gerufen werden |
 | [τυχόν]{lang="el"} | etwaig, möglich (Stufe 2) |
 | [η παρουσιάστρια]{lang="el"} | die Moderatorin |
-| [ο θεατής]{lang="el"} | der Zuschauer |
 | [προηγούμαι, προηγήθηκα]{lang="el"} | vorausgehen |
 | [η ακρίβεια]{lang="el"} | die Genauigkeit; auch die Teuerung |
 | [πιάνω, έπιασα]{lang="el"} | fassen; (umg.) schnappen, festnehmen |

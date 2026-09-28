@@ -7,9 +7,9 @@ title: "Vom Amt bis zur Taverne: Register und Höflichkeit"
 
 - **Du oder Sie** (Kapitel 7): [εσύ]{lang="el"} unter Vertrauten, [εσείς]{lang="el"} auf Abstand;
   dazwischen [κύριε/κυρία]{lang="el"} + Vorname mit [εσείς]{lang="el"}: [Καλημέρα, κυρία Μαρία!
-  Τι κάνετε;]{lang="el"}
+  Τι κάνετε;]{lang="el"} Das Du bietet man mit [Να μιλάμε στον ενικό;]{lang="el"} an.
 - **Höflich mit [θα]{lang="el"} + Imperfekt** (Kapitel 5 und 24): [θα ήθελα, Θα μπορούσατε να
-  …;]{lang="el"}, eine Stufe von der Wirklichkeit weggerückt.
+  …;]{lang="el"}, einen Schritt von der Wirklichkeit weggerückt.
 - **Gehobene Wörter** (Kapitel 28 und 29): drei Stufen der Nachrichtensprache; Wörter, die eher
   geschrieben sind ([ωστόσο, επομένως, εφόσον]{lang="el"}), gegen die des Gesprächs ([αλλά, άρα,
   αν]{lang="el"}).
@@ -25,12 +25,12 @@ jedes Mal: [αύριο]{lang="el"}. An einem Dienstagabend schreibt die Mieterin
 E-Mail an ihn:
 
 ::: {lang="el"}
-**Θέμα: Διαρροή στο μπάνιο του διαμερίσματος (3ος όροφος)**
+**Θέμα: Διαρροή στο μπάνιο του διαμερίσματος (τρίτος όροφος)**
 
 Αξιότιμε κύριε Αντωνίου,
 
-Σας γράφω σχετικά με τη διαρροή στο μπάνιο. Όπως σας ενημέρωσα τηλεφωνικά ήδη από τις 3
-Νοεμβρίου, το ταβάνι στάζει κάθε φορά που ο ένοικος του επάνω ορόφου κάνει ντους. Δυστυχώς,
+Σας γράφω σχετικά με τη διαρροή στο μπάνιο. Όπως σας έχω ενημερώσει τηλεφωνικά ήδη από τις
+τρεις Νοεμβρίου, η οροφή στάζει κάθε φορά που ο ένοικος του επάνω ορόφου κάνει ντους. Δυστυχώς,
 στο μεταξύ η υγρασία έχει περάσει και στον τοίχο της κουζίνας. Σας στέλνω συνημμένα φωτογραφίες.
 
 Θα σας παρακαλούσα να στείλετε υδραυλικό το συντομότερο δυνατό, το αργότερο μέχρι την Παρασκευή.
@@ -54,7 +54,7 @@ Dann eine Nachricht in die Gruppe der Freunde:
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
 
-**Betreff: Undichte Stelle im Bad der Wohnung (3. Stock)**
+**Betreff: Undichte Stelle im Bad der Wohnung (dritter Stock)**
 
 Sehr geehrter Herr Antoniou,
 
@@ -87,7 +87,8 @@ Dieselbe Geschichte, zwei Sprachen:
 |---|---|
 | [Αξιότιμε κύριε Αντωνίου]{lang="el"} | [τον σπιτονοικοκύρη]{lang="el"}, [Παιδιά]{lang="el"} |
 | [Σας γράφω σχετικά με τη διαρροή]{lang="el"} | [δεν πάει άλλο με …]{lang="el"} |
-| [Όπως σας ενημέρωσα τηλεφωνικά]{lang="el"} | [Τον έχω πάρει πέντε φορές τηλέφωνο.]{lang="el"} |
+| [Όπως σας έχω ενημερώσει τηλεφωνικά]{lang="el"} | [Τον έχω πάρει πέντε φορές τηλέφωνο.]{lang="el"} |
+| [η οροφή]{lang="el"} | [το ταβάνι]{lang="el"} |
 | [ο ένοικος του επάνω ορόφου]{lang="el"} | [ο από πάνω]{lang="el"} |
 | [Θα σας παρακαλούσα να στείλετε …]{lang="el"} | [Θα δούμε.]{lang="el"} |
 | [Με εκτίμηση]{lang="el"} | [Απόψε ταβέρνα;]{lang="el"} |
@@ -98,14 +99,14 @@ der vertraute. Das Wort [ύφος]{lang="el"} kennst du vielleicht aus dem Allta
 Haltung“ heißt: [Μη μου μιλάς μ’ αυτό το ύφος!]{lang="el"} „Sprich nicht in diesem Ton mit mir!“
 
 Aufschlussreich ist, was die E-Mail **nicht** sagt. Am Telefon heißt der Vermieter [κύριε
-Στέλιο]{lang="el"}, und er sagt [κυρία Δάφνη]{lang="el"}: die Zwischenstufe aus Kapitel 7.
+Στέλιο]{lang="el"}, und er sagt [κυρία Δάφνη]{lang="el"}: die Zwischenform aus Kapitel 7.
 Dass sie plötzlich [Αξιότιμε κύριε Αντωνίου]{lang="el"} schreibt, ist selbst eine Botschaft.
 Wer mit einem Bekannten auf einmal förmlich wird, schafft Abstand, und der Bekannte merkt es.
 Im Deutschen wirkt „Sehr geehrter Herr Antoniou“ an jemanden, den man sonst mit dem Vornamen
 anspricht, genauso.
 
 Noch zwei Kleinigkeiten: [Αύριο, λέει!]{lang="el"} ist das eingeschobene [λέει]{lang="el"}
-„angeblich“ aus Kapitel 18, hier voller Spott. Und [το μέιλ]{lang="el"} schreibt man genauso oft
+„angeblich“ aus Kapitel 18, hier voller Spott. Und [το μέιλ]{lang="el"} schreibt man oft auch
 lateinisch *email*.
 
 ::: {.vocab}
@@ -125,6 +126,7 @@ lateinisch *email*.
 | [Δεν πάει άλλο.]{lang="el"} | [ðem ˈbai ˈalo] | Es geht so nicht weiter. (umg.) |
 | [το ύφος]{lang="el"} | [to ˈifos] | der Stil, das Register; der Ton(fall) |
 | [επίσημος, -η, -ο]{lang="el"} | [eˈpisimos] | offiziell, förmlich |
+| [το μέιλ]{lang="el"} | [to ˈmeil] | die E-Mail (umg. und neutral) |
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -133,6 +135,7 @@ lateinisch *email*.
 | Griechisch | Deutsch |
 |---|---|
 | [η διαρροή]{lang="el"} | die undichte Stelle, das Leck (gehoben) |
+| [η οροφή]{lang="el"} | die Decke (gehoben für [το ταβάνι]{lang="el"}) |
 | [τηλεφωνικά]{lang="el"} | telefonisch |
 | [ο ένοικος]{lang="el"} | der Bewohner (formell; [ο από πάνω]{lang="el"} umg.) |
 | [στο μεταξύ]{lang="el"} | inzwischen |
@@ -146,14 +149,15 @@ lateinisch *email*.
 | [οικείος, -α, -ο]{lang="el"} | vertraut |
 :::
 
-## Drei Stufen: formell, neutral, vertraut {#sec-register-stufen}
+## Drei Register: formell, neutral, vertraut {#sec-register-stufen}
 
 Das Buch hat bisher einzelne Wörter markiert: (umg.), (salopp), (gehoben), (formell). Für die
-eigene Wahl reichen drei Stufen:
+eigene Wahl reichen drei Register (die drei Stufen aus Kapitel 28 sind etwas anderes: Sie
+sortieren nur gelehrte Wörter):
 
 | | formell | neutral | vertraut |
 |---|---|---|---|
-| Anrede | [Αξιότιμε κύριε Αντωνίου]{lang="el"}, [εσείς]{lang="el"} | [κύριε Στέλιο]{lang="el"}, [Καλησπέρα σας]{lang="el"}, [εσείς]{lang="el"} | [Δάφνη]{lang="el"}, [ρε Άρη]{lang="el"}, [εσύ]{lang="el"} |
+| Anrede | [Αξιότιμε κύριε Αντωνίου]{lang="el"}, [εσείς]{lang="el"} | [κύριε Στέλιο]{lang="el"}, [Καλησπέρα σας]{lang="el"}, [εσείς]{lang="el"} (unter Kollegen oft [εσύ]{lang="el"}) | [Δάφνη]{lang="el"}, [ρε Άρη]{lang="el"}, [εσύ]{lang="el"} |
 | Wörter | [ενημερώνω, διαφορετικά, ο ένοικος]{lang="el"} | [λέω, αλλιώς, ο γείτονας]{lang="el"} | [ο από πάνω, και τα σχετικά]{lang="el"} |
 | Bitte | [Θα σας παρακαλούσα να …]{lang="el"} | [Μήπως μπορείτε να …;]{lang="el"} | [Μου κάνεις μια χάρη;]{lang="el"} |
 | Schluss | [Με εκτίμηση]{lang="el"} | [Καλή συνέχεια]{lang="el"} | [Φιλιά]{lang="el"}, [Τα λέμε]{lang="el"} |
@@ -165,8 +169,9 @@ Familie; dorthin gehören die Wörter mit (umg.), von denen viele auch im neutra
 unauffällig sind. Jenseits davon liegt **salopp**; das verstehst du, benutzt es aber nicht
 (Kapitel 30).
 
-Hinter den drei Stufen stecken zwei Regler, die du schon kennst. Der eine regelt die **Nähe**:
-[εσύ]{lang="el"} oder [εσείς]{lang="el"}, Vorname oder [κύριε]{lang="el"} (Kapitel 7). Der andere
+Hinter den drei Registern stecken zwei Regler, die du schon kennst. Der eine regelt die **Nähe**:
+[μιλάω στον ενικό]{lang="el"} oder [στον πληθυντικό]{lang="el"}, Vorname oder [κύριε]{lang="el"}
+(Kapitel 7). Der andere
 regelt die **Wortwahl**: Alltagswort oder gelehrtes Wort, [λέω]{lang="el"} oder
 [ενημερώνω]{lang="el"}, [αλλιώς]{lang="el"} oder [διαφορετικά]{lang="el"} (Kapitel 28 und 29).
 Meist stehen beide Regler gleich, aber nicht immer. Der Vermieter am Telefon siezt und benutzt
@@ -179,7 +184,7 @@ Woran du beim Lesen und Hören erkennst, wo du bist:
 - **Anrede und Verbform:** [σας, -ετε, κύριε]{lang="el"} oder [σου, -εις, ρε]{lang="el"}.
 - **Diskursmarker:** [Άσ’ τα, μωρέ, αμέ]{lang="el"} sind vertraut; [Κοιτάξτε, Μάλιστα]{lang="el"}
   (Kapitel 21 und 7) neutral bis formell.
-- **Gelehrte Wörter und Formen:** Genitiv nach [λόγω, εντός]{lang="el"}, Nominalstil, Wörter wie
+- **Gelehrte Wörter und Formen:** Genitiv nach [εντός, ενώπιον]{lang="el"}, Nominalstil, Wörter wie
   [εκ των προτέρων]{lang="el"} (Kapitel 28).
 - **Verkleinerungen:** [ένα κρασάκι, ένα λεπτάκι]{lang="el"} sind gesellig (Kapitel 26); in einem
   Brief ans Amt fehlen sie.
@@ -188,27 +193,25 @@ Woran du beim Lesen und Hören erkennst, wo du bist:
 ::: {.callout-important}
 ## Merke
 
-Drei Stufen: **formell** (vor allem schriftlich, gelehrte Wörter, [εσείς]{lang="el"}, Nachname),
+Drei Register: **formell** (vor allem schriftlich, gelehrte Wörter, [εσείς]{lang="el"}, meist Nachname),
 **neutral** (höflich, Alltagswörter, [εσείς]{lang="el"} oder [εσύ]{lang="el"}), **vertraut**
-([εσύ]{lang="el"}, Vorname, umgangssprachliche Wörter). Wer die Stufe wechselt, sagt damit etwas:
+([εσύ]{lang="el"}, Vorname, umgangssprachliche Wörter). Wer das Register wechselt, sagt damit etwas:
 förmlich zu Bekannten heißt Abstand, vertraut zu Fremden heißt Nähe, die nicht jeder will.
 :::
 
 ::: {.callout-caution .uncertain}
 ## Vorsicht
 
-Die Stufen sind **Tendenzen**, keine Regeln, und die Grenzen verschieben sich: In vielen Büros und
+Die Register sind **Tendenzen**, keine Regeln, und die Grenzen verschieben sich: In vielen Büros und
 Online-Läden duzt man schneller als früher, und E-Mails werden insgesamt lockerer. Alter, Region
 und Branche spielen mit. Im Zweifel hilft der Grundsatz aus dem Lesetext am Ende: Folge dem
 anderen.
 :::
 
-<!-- CHECK: „In vielen Büros und Online-Läden duzt man schneller als früher, E-Mails werden lockerer“ – eigene Einschätzung (eE), keine Quelle; so vorsichtig vertretbar? -->
-
 ::: {.callout-note .exercise}
 ## Übung 31.1: Wo sind wir?
 
-Acht Sätze. Welche Stufe: **a** formell, **b** neutral, **c** vertraut? Nenn dir zu jedem das
+Acht Sätze. Welches Register: **a** formell, **b** neutral, **c** vertraut? Nenn dir zu jedem das
 Signal, das ihn verrät. Im Chat reicht „1a, 2c, …“.
 
 ::: {lang="el"}
@@ -218,9 +221,12 @@ Signal, das ihn verrät. Im Chat reicht „1a, 2c, …“.
 4. Σας ευχαριστώ εκ των προτέρων.
 5. Κυρία Ρένα, μήπως θέλετε ένα νεράκι;
 6. Μανώλη, φέρε μας ένα καραφάκι και λίγο ψωμάκι!
-7. Η αίτηση συμπληρώνεται εντός πέντε ημερών.
+7. Η αίτηση υποβάλλεται εντός πέντε εργάσιμων ημερών.
 8. Κοιτάξτε, αλλιώς δε γίνεται. Περάστε αύριο το πρωί.
 :::
+
+Wörter: [υποβάλλω]{lang="el"} einreichen (gehoben) · [εργάσιμος, -η, -ο]{lang="el"} Arbeits-
+([εργάσιμη μέρα]{lang="el"} Werktag).
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -242,17 +248,19 @@ formell sein.
 
 **1a, 2b, 3c, 4a, 5b, 6c, 7a, 8b.**
 
-1. [λόγω]{lang="el"} + Genitiv, [η υπηρεσία, παραμένω]{lang="el"}: Aushang einer Behörde. Niemand
-   wird angeredet, die Wörter reichen.
-2. [σας, -ετε]{lang="el"}, [κύριε]{lang="el"} + Vorname, [μήπως]{lang="el"}: die Zwischenstufe.
+1. [η υπηρεσία θα παραμείνει κλειστή]{lang="el"}: Aushang einer Behörde. Niemand wird angeredet,
+   die Wörter reichen; im Gespräch hieße es eher [θα είναι κλειστά]{lang="el"}. [λόγω]{lang="el"} allein
+   macht noch keinen Amtston, es ist Stufe 1 aus Kapitel 28.
+2. [σας, -ετε]{lang="el"}, [κύριε]{lang="el"} + Vorname, [μήπως]{lang="el"}: die Zwischenform.
 3. [Άσ’ τα, μωρέ]{lang="el"} und der Apostroph in [θα ’ρθω]{lang="el"}.
 4. [εκ των προτέρων]{lang="el"}, typisch vor dem Schluss einer formellen E-Mail.
 5. **Die Falle:** [νεράκι]{lang="el"} ist gesellig, aber [κυρία]{lang="el"} + Vorname und
    [θέλετε]{lang="el"} halten Abstand. Wer c gewählt hat, hat nur auf die Verkleinerung geachtet.
 6. Vorname, Imperativ in der du-Form, Verkleinerungen: der Kellner, den man kennt.
-7. [εντός]{lang="el"} + Genitiv und das unpersönliche Mediopassiv: Formularsprache.
-8. **Gekreuzte Regler:** [Κοιτάξτε, Περάστε]{lang="el"} siezen, [αλλιώς, δε γίνεται]{lang="el"}
-   sind Alltagswörter. Das ist neutral, wie der Vermieter am Telefon. Formell wäre
+7. [υποβάλλεται]{lang="el"}, [εντός]{lang="el"} + Genitiv und das unpersönliche Mediopassiv:
+   Formularsprache.
+8. **Gekreuzte Regler:** [Κοιτάξτε, Περάστε]{lang="el"} siezen, [αλλιώς]{lang="el"} (hier „anders“)
+   und [δε γίνεται]{lang="el"} sind Alltagswörter. Das ist neutral, wie der Vermieter am Telefon. Formell wäre
    [διαφορετικά]{lang="el"}.
 :::
 
@@ -266,30 +274,40 @@ aufmachen. Wie sie fragt, hängt davon ab, wen:
 3. [Μπορείς να ανοίξεις αύριο στον υδραυλικό;]{lang="el"} – zur Kollegin, die nebenan wohnt.
 4. [Μήπως μπορείτε να ανοίξετε αύριο στον υδραυλικό;]{lang="el"} – zur älteren Nachbarin.
 5. [Θα μπορούσατε να ανοίξετε αύριο στον υδραυλικό;]{lang="el"} – zum Hausverwalter
-   ([ο διαχειριστής]{lang="el"}).
+   ([ο διαχειριστής]{lang="el"}), in griechischen Mietshäusern oft ein Bewohner, der die
+   Gemeinschaftskasse führt.
 6. [Θα σας παρακαλούσα να ανοίξετε αύριο στον υδραυλικό.]{lang="el"} – schriftlich, an eine
    Firma.
 
-[ανοίγω σε κάποιον]{lang="el"} heißt „jemandem die Tür aufmachen“. Nach unten wird die Bitte
-länger und weiter von der Wirklichkeit weggerückt: erst der Imperativ (Kapitel 9), dann die Frage
-im Präsens, [μπορώ να]{lang="el"}, dann [θα]{lang="el"} + Imperfekt (Kapitel 24) und schließlich
-[Θα σας παρακαλούσα να …]{lang="el"} „Ich möchte Sie bitten, …“, wörtlich „Ich würde Sie bitten“.
-Die letzte Form ist eine Bitte, die sich nicht mehr als Frage verkleidet; sie gehört in Briefe und
-E-Mails und klingt am Telefon schnell nach Behörde.
+[ανοίγω σε κάποιον]{lang="el"} heißt „jemandem die Tür aufmachen“. Jede Zeile ist eine Sprosse
+auf einer Leiter. Nach unten wird die Bitte länger und weiter von der Wirklichkeit weggerückt:
+erst der Imperativ (Kapitel 9), dann die Frage im Präsens, [μπορώ να]{lang="el"}, dann
+[θα]{lang="el"} + Imperfekt (Kapitel 24) und schließlich [Θα σας παρακαλούσα να …]{lang="el"}
+„Ich möchte Sie bitten, …“, wörtlich „Ich würde Sie bitten“. Die letzte Form ist eine Bitte, die
+sich nicht mehr als Frage verkleidet; sie gehört in Briefe und E-Mails und klingt am Telefon
+schnell nach Behörde.
+
+Das Französische baut die oberste Sprosse genauso: [Je vous prierais de …]{lang="fr"} ist Wort für
+Wort [Θα σας παρακαλούσα να …]{lang="el"}, Konditional statt Präsens, und steht ebenfalls vor
+allem in Briefen.
 
 ### Weichmacher {#sec-register-weichmacher}
 
-Zwischen den Stufen helfen kleine Wörter, die die Bitte kleiner machen, ohne ihren Inhalt zu
+Auf jeder Sprosse helfen kleine Wörter, die die Bitte kleiner machen, ohne ihren Inhalt zu
 ändern. Die Sprachwissenschaft nennt das **Abschwächung**; dieses Buch nennt die Wörter
-**Weichmacher**.
+**Weichmacher**. [θα]{lang="el"} + Imperfekt zählt nicht dazu: Es ist selbst eine Sprosse der
+Leiter.
 
-- **[μήπως]{lang="el"}** „vielleicht, etwa“ (Kapitel 18) stellt die Bitte als Frage nach einer
-  Möglichkeit und lässt Platz für ein Nein: [Μήπως έχετε ένα στιλό;]{lang="el"} Auch Angebote
-  werden so leichter: [Μήπως θέλετε ένα νεράκι;]{lang="el"}
+- **[μήπως]{lang="el"}** „vielleicht, etwa“ (Kapitel 4 und 18) stellt die Bitte als Frage nach
+  einer Möglichkeit und lässt Platz für ein Nein: [Μήπως έχετε ένα στιλό;]{lang="el"} „Haben Sie
+  vielleicht einen Kuli?“ Auch Angebote werden so leichter: [Μήπως θέλετε ένα νεράκι;]{lang="el"}
 - **[λίγο]{lang="el"}** macht nicht die Menge kleiner, sondern die Zumutung:
-  [Περιμένετε λίγο.]{lang="el"} [Έλα λίγο εδώ.]{lang="el"} [Κλείσε λίγο την πόρτα.]{lang="el"}
-  Die Tür wird trotzdem ganz zugemacht.
-- **Verkleinerung** (Kapitel 26): [ένα λεπτάκι, μια ερωτησούλα]{lang="el"}.
+  [Έλα λίγο εδώ.]{lang="el"} [Δώσε μου λίγο το αλάτι.]{lang="el"} [Κλείσε λίγο την
+  πόρτα.]{lang="el"} Die Tür wird trotzdem ganz zugemacht. Vor einem Komparativ ist
+  [λίγο]{lang="el"} dagegen eine Mengenangabe, kein Weichmacher: [λίγο πιο αργά]{lang="el"}
+  „etwas später“.
+- **Verkleinerung** (Kapitel 26): [ένα λεπτάκι]{lang="el"} „ein Minütchen“, [μια
+  ερωτησούλα]{lang="el"} „eine kleine Frage“.
 - **Bedingungen:** [αν γίνεται]{lang="el"} „wenn es geht“, [αν δε σας κάνει κόπο]{lang="el"}
   „wenn es Ihnen keine Mühe macht“.
 - **Vorab entschuldigen:** [Συγγνώμη που σας ενοχλώ, …]{lang="el"} „Entschuldigen Sie die
@@ -298,63 +316,66 @@ Zwischen den Stufen helfen kleine Wörter, die die Bitte kleiner machen, ohne ih
   davor wird es ungeduldig: [Έλα, σε παρακαλώ!]{lang="el"} „Jetzt komm schon!“
 
 Unter Freunden bittet man anders: [Μου κάνεις μια χάρη;]{lang="el"} „Tust du mir einen
-Gefallen?“ Wer so fragt, erwartet ein Ja und sagt es auch.
+Gefallen?“ Wer so fragt, erwartet ein Ja und sagt es auch. Das Spanische fragt genauso im
+Präsens: [¿Me haces un favor?]{lang="es"}
 
 ::: {.callout-caution .uncertain}
 ## Vorsicht
 
-Sifianou (1992) hat Bitten im Griechischen und Englischen verglichen. Nach ihrer Beschreibung
-setzt die griechische Höflichkeit unter Freunden und in der Familie eher auf **Nähe**
-(Imperativ, Verkleinerungen), die englische eher auf
-**Abstand** ([*Could you possibly …?*]{lang="en"}). Zu viel Umständlichkeit kann unter Vertrauten
-deshalb kühl wirken. Das ist ein Vergleich mit dem Englischen, nicht mit dem Deutschen, mit Daten
-aus den 1980er-Jahren, und es beschreibt Tendenzen, keine Regeln.
+Die Linguistin Maria Sifianou hat in einer Studie von 1992 (Fragebögen, Theatertexte,
+Beobachtung) Höflichkeit in England und Griechenland verglichen, unter anderem Bitten. Nach ihrer
+Beschreibung setzt die griechische Höflichkeit unter Freunden und in der Familie eher auf
+**Nähe** (Imperativ, Verkleinerungen), die englische eher auf **Abstand** ([*Could you possibly
+…?*]{lang="en"}). Zu viel Umständlichkeit kann unter Vertrauten deshalb kühl wirken. Das ist ein
+Vergleich mit dem Englischen, nicht mit dem Deutschen, und es beschreibt Tendenzen, keine Regeln.
 :::
-
-<!-- CHECK: Sifianou 1992: Wiedergabe korrekt? (griechische Höflichkeit eher „positive politeness“/Nähe, englische eher „negative politeness“/Abstand; Imperative und Diminutive unter Vertrauten; zu viel Indirektheit unter Vertrauten wirkt distanziert)? Datengrundlage 1980er-Jahre? -->
 
 ::: {.callout-warning}
 ## Achtung
 
-- Weichmacher nicht stapeln. [Μήπως θα μπορούσατε, αν δε σας κάνει κόπο, να μου πείτε λίγο
-  …;]{lang="el"} klingt unterwürfig oder ironisch. Ein oder zwei reichen.
-- Zu förmlich ist auch falsch. [Θα μπορούσες να μου δώσεις το αλάτι;]{lang="el"} am
+- **Wie viele Weichmacher?** Meist reichen ein oder zwei. Drei gehen, wenn die Bitte groß ist.
+  Unterwürfig oder ironisch wird es, wenn sich viele um dasselbe Verb drängen: [Συγγνώμη που σας
+  ενοχλώ, μήπως, αν δε σας κάνει κόπο, θα μπορούσατε να μου πείτε λίγο …;]{lang="el"} Das sind
+  vier Weichmacher auf der vorletzten Sprosse.
+- Zu förmlich geht auch daneben. [Θα μπορούσες να μου δώσεις το αλάτι;]{lang="el"} am
   Familientisch kann spitz klingen, als hätte man vorher schon dreimal gefragt.
 - [αν δε σας κάνει κόπο]{lang="el"}: [δε]{lang="el"} ohne [ν]{lang="el"} vor [σ]{lang="el"}
   (Kapitel 1). Viele schreiben [δεν]{lang="el"}; beides kommt vor.
 :::
 
-<!-- CHECK: „Θα μπορούσες να μου δώσεις το αλάτι;“ am Familientisch „kann spitz klingen“ – eE, plausibel? -->
-
 ::: {.callout-note .exercise}
 ## Übung 31.2: Sechs Bitten, sechs Menschen
 
-Formuliere jede Bitte laut, passend zum Gegenüber, mit höchstens zwei Weichmachern.
+Formuliere jede Bitte laut, passend zum Gegenüber, mit ein oder zwei Weichmachern.
 
 1. Salz reichen: der Bruder am Familientisch.
 2. Morgen ein Paket für dich annehmen: die Freundin, die zu Hause arbeitet.
 3. Die Musik leiser machen: der Nachbar von oben, den du kaum kennst, abends an seiner Tür.
 4. Einen Moment warten, während du deinen Ausweis suchst: die Beamtin am Schalter.
 5. Eine Liste der Hausbewohner unterschreiben: die ältere Nachbarin, Frau Rena.
-6. Das Fenster im Treppenhaus nachts schließen: die Hausverwaltung, schriftlich.
+6. Dafür sorgen, dass das Fenster im Treppenhaus nachts geschlossen ist: die Hausverwaltung,
+   schriftlich.
 
-Wörter: [το αλάτι]{lang="el"} · [παίρνω ένα δέμα]{lang="el"} ein Paket annehmen ·
+Wörter: [το αλάτι]{lang="el"} · [το δέμα]{lang="el"} das Paket · [παραλαμβάνω,
+παρέλαβα]{lang="el"} annehmen, in Empfang nehmen (umg. auch [παίρνω]{lang="el"}) ·
 [χαμηλώνω, χαμήλωσα]{lang="el"} leiser machen · [η ταυτότητα]{lang="el"} der Ausweis ·
-[υπογράφω]{lang="el"} · [το παράθυρο της σκάλας]{lang="el"} das Fenster im Treppenhaus.
+[υπογράφω]{lang="el"} · [φροντίζω, φρόντισα]{lang="el"} sorgen ([ώστε να]{lang="el"}: dafür,
+dass) · [το κλιμακοστάσιο]{lang="el"} das Treppenhaus (gehoben; umg. [η σκάλα]{lang="el"}).
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Erst den Nähe-Regler: Wen duzt du (1, 2), wen siezt du (3 bis 6)? Dann die Stufe auf der Leiter
-aus @sec-register-bitten.
+Erst den Nähe-Regler: Wen duzt du (1, 2), wen siezt du (3 bis 6)? Dann die Sprosse auf der
+Leiter aus @sec-register-bitten.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Unter Vertrauten reicht der Imperativ oder [Μου … ;]{lang="el"}, die Freundin bekommt
-[Μου κάνεις μια χάρη;]{lang="el"} Nur 6 verträgt [Θα σας παρακαλούσα να …]{lang="el"}.
+Unter Vertrauten reicht der Imperativ oder eine Frage im Präsens. Wer einen größeren Gefallen
+will (2), kann ihn vorher mit einer festen Formel aus @sec-register-weichmacher ankündigen. Nur 6
+verträgt die oberste Sprosse.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -364,33 +385,34 @@ Musterlösungen; Varianten in Klammern.
 
 ::: {lang="el"}
 1. Δώσε μου λίγο το αλάτι. (Μου δίνεις το αλάτι;)
-2. Μου κάνεις μια χάρη; Μπορείς να πάρεις αύριο ένα δέμα για μένα; (Μου παίρνεις αύριο ένα δέμα;)
+2. Μου κάνεις μια χάρη; Μπορείς να παραλάβεις αύριο ένα δέμα για μένα; (Αν έρθει αύριο ένα δέμα για μένα, μπορείς να το πάρεις;)
 3. Συγγνώμη που σας ενοχλώ. Μήπως μπορείτε να χαμηλώσετε τη μουσική; (Μήπως μπορείτε να τη χαμηλώσετε λίγο;)
 4. Ένα λεπτάκι, σας παρακαλώ. (Μήπως μπορείτε να περιμένετε λίγο;)
 5. Κυρία Ρένα, μήπως μπορείτε να υπογράψετε εδώ; (Θα μπορούσατε να υπογράψετε εδώ, αν δε σας κάνει κόπο;)
-6. Θα σας παρακαλούσα να κλείνετε το παράθυρο της σκάλας τη νύχτα.
+6. Θα σας παρακαλούσα να φροντίσετε ώστε να κλείνει το παράθυρο του κλιμακοστασίου τη νύχτα.
 :::
 
-In 6 ist [κλείνετε]{lang="el"} (jede Nacht) genauer; [κλείσετε]{lang="el"} ist auch richtig.
+In 3 kommt die Variante mit [Συγγνώμη που σας ενοχλώ]{lang="el"} davor auf drei Weichmacher; an
+einer fremden Tür am Abend ist das keine kleine Bitte, also in Ordnung. In 6 steht
+[κλείνει]{lang="el"} imperfektiv, weil es jede Nacht geschehen soll. Die Hausverwaltung soll das
+Fenster nicht selbst schließen, sondern dafür sorgen.
 
 **Typische Fehler:**
 
 - **Zu förmlich unter Vertrauten:** [Θα μπορούσες να μου δώσεις το αλάτι;]{lang="el"} ist
-  grammatisch richtig, passt aber nicht zum Register; am Familientisch klingt es spitz.
-- **Gestapelt:** [Συγγνώμη που σας ενοχλώ, μήπως θα μπορούσατε, αν δε σας κάνει κόπο, να
+  grammatisch richtig, kann am Familientisch aber spitz oder gekünstelt klingen.
+- **Gestapelt:** [Συγγνώμη που σας ενοχλώ, μήπως, αν δε σας κάνει κόπο, θα μπορούσατε να
   χαμηλώσετε λίγο …]{lang="el"} klingt unterwürfig oder ironisch.
 - **[Θα σας παρακαλούσα]{lang="el"} mündlich** am Schalter oder an der Tür klingt nach Behörde.
 - **Regler vermischt:** \*[Μήπως μπορείς να υπογράψετε;]{lang="el"} Du und Sie im selben Satz ist
   ein Fehler, keine Stilfrage.
 :::
 
-<!-- CHECK: Übung 31.2: „παίρνω ένα δέμα“ für „ein Paket (für jemanden) annehmen“ idiomatisch, oder besser „παραλαμβάνω“? „να κλείνετε το παράθυρο της σκάλας“ natürlich? -->
-
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [μήπως]{lang="el"} | [ˈmipos] | vielleicht, etwa (in Fragen, Bitten, Angeboten) |
 | [ανοίγω σε κάποιον]{lang="el"} | [aˈniɣo se ˈkapçon] | jemandem (die Tür) aufmachen |
+| [ο διαχειριστής, η διαχειρίστρια]{lang="el"} | [o ðiaçiriˈstis], [i ðiaçiˈristria] | der Hausverwalter (oft ein Bewohner), die Hausverwalterin |
 | [Θα σας παρακαλούσα να …]{lang="el"} | [θa sas parakaˈlusa na] | Ich möchte Sie bitten, … (formell) |
 | [ο κόπος]{lang="el"} | [o ˈkopos] | die Mühe |
 | [αν δε σας κάνει κόπο]{lang="el"} | [an ðe sas ˈkani ˈkopo] | wenn es Ihnen keine Mühe macht |
@@ -403,9 +425,9 @@ In 6 ist [κλείνετε]{lang="el"} (jede Nacht) genauer; [κλείσετε]{
 
 ## Sich beschweren, ohne zu streiten {#sec-register-beschwerde}
 
-Die E-Mail vom Anfang ist eine Beschwerde nach Lehrbuch, und sie ist hart, ohne ein einziges
+Die E-Mail vom Anfang ist eine Beschwerde, [ένα παράπονο]{lang="el"}, nach Lehrbuch, und sie ist hart, ohne ein einziges
 unhöfliches Wort. Die Härte steckt im Aufbau: Anlass, Vorgeschichte mit Datum, Bitte mit Frist,
-Folge. Dieselben vier Schritte funktionieren auch am Telefon, nur eine Stufe tiefer:
+Folge. Dieselben vier Schritte funktionieren auch am Telefon, nur ein Register tiefer:
 
 | Schritt | formell (schriftlich) | neutral (am Telefon) |
 |---|---|---|
@@ -416,7 +438,7 @@ Folge. Dieselben vier Schritte funktionieren auch am Telefon, nur eine Stufe tie
 
 [Σας παίρνω για …]{lang="el"} heißt „Ich rufe Sie wegen … an“, kurz für [σας παίρνω
 τηλέφωνο]{lang="el"}. [Θα ήθελα να σας ενημερώσω ότι …]{lang="el"} „Ich möchte Ihnen mitteilen,
-dass …“ ist die höflichste Art, schlechte Nachrichten anzukündigen, und steht in Briefen von Banken
+dass …“ ist eine höfliche Art, schlechte Nachrichten anzukündigen, und steht in Briefen von Banken
 und Behörden oft vor etwas Unangenehmem.
 
 Am Telefon kommt ein Wort aus Kapitel 21 dazu: [Κοιτάξτε, κύριε Στέλιο, δεν πάει άλλο.]{lang="el"}
@@ -530,28 +552,34 @@ Mal).
 ## E-Mails: Anrede und Schluss {#sec-register-email}
 
 Eine griechische E-Mail beginnt mit einer Anrede und endet mit einer Grußformel, wie im Deutschen.
-Beide zeigen die Stufe, und beide stehen im Vokativ (Kapitel 7):
+Beide zeigen das Register; die Anrede steht im Vokativ (Kapitel 7):
 
-| Anrede | Stufe | an wen |
+| Anrede | Register | an wen |
 |---|---|---|
 | [Αξιότιμε κύριε Αντωνίου]{lang="el"}, [Αξιότιμη κυρία Παπαδοπούλου]{lang="el"} | formell | Ämter, Professoren, Unbekannte, Beschwerden |
 | [Αγαπητέ κύριε Νικολάου]{lang="el"}, [Αγαπητή κυρία Μαρία]{lang="el"} | formell bis neutral | Bekannte, mit denen man siezt |
 | [Καλησπέρα σας]{lang="el"}, [Καλημέρα σας]{lang="el"} | neutral | fast alle, heute sehr verbreitet |
-| [Γεια σου, Νίκο]{lang="el"}, [Αγαπητή Μαρία]{lang="el"} | vertraut | Kollegen, Freunde |
+| [Γεια σου, Νίκο]{lang="el"}, [Αγαπητή Μαρία]{lang="el"} | neutral bis vertraut | Kollegen, Freunde |
 
 [αξιότιμος]{lang="el"} heißt „ehrenwert, verehrt“, wörtlich „der Ehre wert“ ([άξιος]{lang="el"} +
 [τιμή]{lang="el"}). Es steht mit [κύριε/κυρία]{lang="el"} und Nachnamen oder Titel:
-[Αξιότιμε κύριε καθηγητά]{lang="el"} „Sehr geehrter Herr Professor“, mit dem alten Vokativ
-[καθηγητά]{lang="el"}. [Αγαπητέ/Αγαπητή]{lang="el"} ist wärmer und passt auch in formelle E-Mails
-an Menschen, die man kennt. Mit dem Vornamen allein ist es ein freundlicher Brief. Eine Firma oder
+[Αξιότιμε κύριε καθηγητά]{lang="el"} „Sehr geehrter Herr Professor“, mit dem gelehrten Vokativ
+[καθηγητά]{lang="el"}; daneben ist auch [κύριε καθηγητή]{lang="el"} üblich.
+[Αγαπητέ/Αγαπητή]{lang="el"} ist wärmer und passt auch in formelle E-Mails an Menschen, die man
+kennt. Mit dem Vornamen allein ist es ein freundlicher Brief. Eine Firma oder
 ein Amt ohne Namen redet man mit [Αξιότιμοι κύριοι/κυρίες]{lang="el"} an oder einfach mit
 [Καλησπέρα σας]{lang="el"}.
 
-<!-- CHECK: E-Mail-Anreden: „Καλησπέρα σας / Καλημέρα σας“ als heute sehr verbreitete neutrale Anrede in E-Mails (eE); „Αξιότιμοι κύριοι/κυρίες“ an Institutionen ohne Namen üblich? „Αγαπητή κυρία Μαρία“ (Anrede mit κυρία + Vorname) in E-Mails natürlich? -->
+Unter Kollegen stehen die beiden Regler oft gekreuzt: Man duzt sich ([Γεια σου, Νίκο]{lang="el"}),
+schreibt aber in Alltagswörtern ohne [ρε]{lang="el"} und ohne [Φιλιά]{lang="el"}. Nähe vertraut,
+Wortwahl neutral. Dasselbe tun inzwischen viele Online-Shops: griechische schreiben oft in der
+du-Form, spanische aus Spanien meist mit [tú]{lang="es"} statt [usted]{lang="es"}; französische
+bleiben häufiger beim [vous]{lang="fr"}. Wer dem Shop schreibt, darf trotzdem beim [Καλησπέρα
+σας]{lang="el"} bleiben.
 
 Für die Schlussformel gibt es eine ähnliche Leiter:
 
-| Schluss | Stufe |
+| Schluss | Register |
 |---|---|
 | [Με εκτίμηση]{lang="el"} | formell, der Standard für alles Offizielle |
 | [Με φιλικούς χαιρετισμούς]{lang="el"}, [Φιλικά]{lang="el"} | neutral, freundlich |
@@ -565,19 +593,25 @@ Davor stehen oft feste Sätze:
   gern zur Verfügung.“ (formell)
 - [Ελπίζω να είστε καλά.]{lang="el"} „Ich hoffe, es geht Ihnen gut.“ (neutral, eher am Anfang)
 - [Περιμένω νέα σας.]{lang="el"} „Ich freue mich, von Ihnen zu hören.“ (neutral)
+- [Μπορείτε να επικοινωνήσετε μαζί μου στο …]{lang="el"} „Sie erreichen mich unter …“ (neutral
+  bis formell)
 
 Auf Ämtern und in Behördenbriefen triffst du außerdem Stufe 3 aus Kapitel 28, zum Erkennen:
 [Σε συνέχεια της τηλεφωνικής μας επικοινωνίας …]{lang="el"} „Bezug nehmend auf unser
-Telefonat …“, [Παρακαλώ όπως μου απαντήσετε …]{lang="el"} „Ich bitte um Ihre Antwort …“, und am
-Ende eines Antrags [Με τιμή]{lang="el"} „Hochachtungsvoll“. [όπως]{lang="el"} ersetzt hier ein
-[να]{lang="el"}: [Παρακαλώ να μου απαντήσετε]{lang="el"} sagt dasselbe, eine Stufe tiefer.
+Telefonat …“ und [Παρακαλώ όπως μου απαντήσετε …]{lang="el"} „Ich bitte um Ihre Antwort …“.
+[όπως]{lang="el"} ersetzt hier ein [να]{lang="el"}: [Παρακαλώ να μου απαντήσετε]{lang="el"} sagt
+dasselbe ohne Kanzleiton.
 
-<!-- CHECK: „Με τιμή“ als Schluss von Anträgen (αιτήσεις) an Behörden; „Παρακαλώ όπως + Konjunktiv ohne να“ als Kanzleiformel; „Με φιλικούς χαιρετισμούς“ neutral-freundlich – Einordnung korrekt? -->
+Selbst benutzen kannst du [Με τιμή]{lang="el"} „Hochachtungsvoll“, wörtlich „mit Ehre“. Es steht
+am Ende von Anträgen und sehr förmlichen Briefen und E-Mails, auch von Studierenden an
+Professoren, und liegt auf der Höhe des französischen [Veuillez agréer, Madame, Monsieur,
+l’expression de mes salutations distinguées]{lang="fr"}. Wer unsicher ist, nimmt [Με
+εκτίμηση]{lang="el"}; das ist nie falsch.
 
 ::: {.callout-warning}
 ## Achtung
 
-- **Vokativ in beiden Wörtern:** [Αξιότιμε κύριε Παπαδόπουλε]{lang="el"}, nicht
+- **Vokativ in jedem Wort der Anrede:** [Αξιότιμε κύριε Παπαδόπουλε]{lang="el"}, nicht
   \*[Αξιότιμος κύριος Παπαδόπουλος]{lang="el"}. Frauennamen und Namen wie [Αντωνίου]{lang="el"}
   ändern sich nicht.
 - **Geschlecht:** [Αγαπητέ]{lang="el"} an einen Mann, [Αγαπητή]{lang="el"} an eine Frau. Wer
@@ -627,8 +661,8 @@ Vornamen?
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**1a1, 2b1, 3d2, 4c1, 5f4, 6g5, 7e3.** Ebenfalls richtig: 1e1; 3d3, 3d4, 3e2; 5f3, 5f6; 6g6;
-7e2, 7e1.
+**1a1, 2b1, 3d2, 4c1, 5f4, 6g5, 7e3.** Ebenfalls richtig: 1e1; 3d1, 3d3, 3d4, 3e2; 5f3, 5f6;
+6g6; 7e2, 7e1, 7a1 (steif).
 
 - **Finanzamt, Professorin:** Schluss immer 1; [Βλάχου]{lang="el"} ändert sich im Vokativ nicht.
 - **Vermieter, der Kern der Übung:** Für den Dank hält [Αγαπητέ κύριε Στέλιο]{lang="el"} die
@@ -662,7 +696,7 @@ Vornamen?
 | [Καλή συνέχεια!]{lang="el"} | [kaˈli siˈneçia] | Einen schönen Tag noch! (auch mündlich) |
 | [Φιλιά]{lang="el"} | [fiˈʎa] | Küsse; Liebe Grüße (vertraut) |
 | [Σας ευχαριστώ εκ των προτέρων.]{lang="el"} | [sas efxariˈsto ek ton proˈteron] | Vielen Dank im Voraus. (formell) |
-| [Είμαι στη διάθεσή σας.]{lang="el"} | [ˈime sti ðiˈaθeˈsi sas] | Ich stehe Ihnen zur Verfügung. (formell) |
+| [Παραμένω/Είμαι στη διάθεσή σας.]{lang="el"} | [paraˈmeno], [ˈime sti ðiˈaθeˈsi sas] | Ich stehe Ihnen zur Verfügung. (formell) |
 | [Ελπίζω να είστε καλά.]{lang="el"} | [elˈpizo na ˈiste kaˈla] | Ich hoffe, es geht Ihnen gut. |
 | [Περιμένω νέα σας.]{lang="el"} | [periˈmeno ˈnea sas] | Ich freue mich, von Ihnen zu hören. |
 | [συνημμένος, -η, -ο; το συνημμένο]{lang="el"} | [siniˈmenos]; [to siniˈmeno] | angehängt; der Anhang (E-Mail) |
@@ -677,12 +711,12 @@ Vornamen?
 |---|---|
 | [αξιότιμος, -η, -ο]{lang="el"} | ehrenwert, verehrt |
 | [Αξιότιμοι κύριοι/κυρίες]{lang="el"} | Sehr geehrte Damen und Herren (formell) |
-| [κύριε καθηγητά]{lang="el"} | Herr Professor (Anrede) |
+| [κύριε καθηγητά]{lang="el"} | Herr Professor (Anrede, gelehrter Vokativ; auch [κύριε καθηγητή]{lang="el"}) |
 | [οποιοσδήποτε, -α, -ο]{lang="el"} | jeder beliebige |
 | [η διευκρίνιση]{lang="el"} | die Klarstellung, Rückfrage |
 | [Σε συνέχεια της επικοινωνίας μας]{lang="el"} | Bezug nehmend auf unseren Kontakt (formell, nur erkennen) |
 | [Παρακαλώ όπως …]{lang="el"} | Ich bitte darum, dass … (formell, nur erkennen) |
-| [Με τιμή]{lang="el"} | Hochachtungsvoll (Anträge, formell) |
+| [Με τιμή]{lang="el"} | Hochachtungsvoll (Anträge, sehr förmliche Briefe und E-Mails) |
 :::
 
 ## Hörspur: ein Anruf in der Taverne {#sec-register-hoerspur}
@@ -795,8 +829,6 @@ Hör auf Dafnis Kommentar nach dem Auflegen.
   Mutter war die Entschuldigung, nicht der Grund.
 :::
 
-<!-- CHECK: Hörspur: „έγινε αρνάκι“ (wurde lammfromm) idiomatisch? „Ο Στέλιος Αντωνίου είμαι“ als Meldung am Telefon natürlich? „από δω και πέρα μόνο έτσι να του γράφεις“ -->
-
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
 
@@ -852,7 +884,7 @@ er ist lammfromm.
 | [Ούτε λέξη.]{lang="el"} | Kein Wort. |
 | [Στάσου.]{lang="el"} | Warte mal. Moment. |
 | [με παίρνει]{lang="el"} | er ruft mich an |
-| [Ναι, παρακαλώ;]{lang="el"} | Ja, bitte? (am Telefon, bei unbekannter Nummer) |
+| [Ναι, παρακαλώ;]{lang="el"} | Ja, bitte? (neutral-höfliche Meldung am Telefon) |
 | [τέτοια ώρα]{lang="el"} | um diese Zeit |
 | [Δεν ενοχλείτε καθόλου.]{lang="el"} | Sie stören überhaupt nicht. |
 | [και πάλι]{lang="el"} | noch einmal |
@@ -863,26 +895,39 @@ er ist lammfromm.
 ### Register hören {#sec-register-hoeren}
 
 Im Gespräch verrät sich das Register zuerst an den Endungen: [sas] und [-ete] gegen [su] und
-[-is], und an der Anrede, die meist vorn oder hinten im Satz steht ([ˈcirie ˈstelʝo],
+[-is], und an der Anrede, die meist vorn oder hinten im Satz steht ([ˈcirie ˈsteʎo],
 [re ˈari]). Achte in echten Aufnahmen außerdem auf den Rest: Wer förmlich wird, spricht oft
 langsamer und in ganzen Sätzen, lässt weniger [ρε, μωρέ, άσ’ τα]{lang="el"} fallen und
 unterbricht seltener.
 
+Zähl im Anruf die Weichmacher nach. Der Vermieter fragt [Μήπως θα μπορούσατε να είστε στο
+σπίτι;]{lang="el"}: ein Weichmacher auf der vorletzten Sprosse, sehr höflich, aber nicht
+unterwürfig; er hat etwas gutzumachen. Dafni antwortet [Αν δε σας κάνει κόπο, μήπως γίνεται λίγο
+πιο αργά;]{lang="el"} Das sind zwei Weichmacher, denn [λίγο πιο αργά]{lang="el"} heißt wörtlich
+„etwas später“. Für diese Bitte ist das angemessen, denn sie ist groß: Dafni will einen Termin
+verschieben, den er gerade erst gefunden hat.
+
 Filme und Serien leben von solchen Wechseln: Eine Figur redet mit dem Chef und dreht sich zur
 Kollegin um, ein Polizist wird vom [εσείς]{lang="el"} zum [εσύ]{lang="el"}, sobald es ernst
-wird. Auf [ERTflix](https://www.ertflix.gr) findest du griechische Serien, viele mit griechischen
-Untertiteln für Hörgeschädigte.
+wird. Auf [ERTflix](https://www.ertflix.gr) sammelt die Rubrik [Προσβασιμότητα για
+όλους]{lang="el"} Sendungen mit griechischen Untertiteln für Hörgeschädigte, gekennzeichnet mit
+**CC**. Der Name der Rubrik kann sich ändern; das Kürzel CC
+bleibt ein gutes Suchzeichen.
 
 ::: {.callout-note .exercise}
 ## Übung 31.6: Hör-Auftrag
 
-Such auf [ERTflix](https://www.ertflix.gr) eine Serie oder einen Film und darin zehn Minuten mit
-Szenen in Büro, Amt, Laden oder Arztpraxis.
+Wähl auf [ERTflix](https://www.ertflix.gr) in der Rubrik mit CC-Untertiteln eine griechische
+Spielserie (keine Doku, keine Nachrichten) und darin zehn Minuten mit Szenen in Büro, Amt, Laden,
+Polizeiwache oder Arztpraxis. Ersatz ohne ERTflix: ein Straßeninterview von
+[Easy Greek](https://www.youtube.com/@EasyGreekVideos); dort stehen die griechischen Untertitel
+ohnehin im Bild, also Schritt 1 mit abgedecktem unterem Bildrand hören.
 
 1. **Ohne Untertitel:** Mach eine Strichliste der Anreden ([κύριε/κυρία]{lang="el"} + Name,
    Vorname, [ρε]{lang="el"}) und notier jeweils, ob gesiezt oder geduzt wird.
-2. Hör eine Bitte oder Beschwerde heraus und notier ihre Weichmacher ([μήπως, λίγο, Συγγνώμη
-   που …, θα μπορούσατε]{lang="el"}).
+2. Hör eine Bitte oder Beschwerde heraus, notier ihre Weichmacher ([μήπως, λίγο, αν γίνεται,
+   Συγγνώμη που …]{lang="el"}) und die Sprosse der Leiter (Imperativ, Präsens, [θα]{lang="el"} +
+   Imperfekt).
 3. **Mit griechischen Untertiteln:** Prüf Liste und Weichmacher.
 4. **Zusatz:** Wechselt eine Figur vom [εσείς]{lang="el"} zum [εσύ]{lang="el"} oder umgekehrt? Was
    bedeutet das in der Szene?
@@ -905,26 +950,37 @@ wird es ernst?
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-Jede Szene ist anders; so wertest du aus:
+Jede Szene ist anders. So könnte die Auswertung einer Szene in einer Arztpraxis aussehen
+(ausgedacht, aber typisch):
 
-- **Anreden:** [κύριε/κυρία]{lang="el"} + Vorname mit [εσείς]{lang="el"} ist in Läden und
-  Praxen häufig, der Nachname eher bei Ämtern und Vorgesetzten.
-- **Weichmacher:** Gestapelte sind in Serien oft Komik.
-- **Wechsel:** [εσείς → εσύ]{lang="el"} heißt Nähe oder Druck (der Polizist, der ernst wird);
-  [εσύ → εσείς]{lang="el"} heißt Abstand, oft Kränkung.
+- **Strichliste:** [κυρία Ελένη]{lang="el"} dreimal, mit [εσείς]{lang="el"} (Patientin zur
+  Sprechstundenhilfe) · [γιατρέ]{lang="el"} zweimal, mit [εσείς]{lang="el"} · [Γιώργο]{lang="el"}
+  einmal, mit [εσύ]{lang="el"} (Arzt zum Pfleger) · [ρε]{lang="el"} einmal (der Pfleger zum Arzt,
+  als die Patientin draußen ist).
+- **Bitte:** [Μήπως θα μπορούσατε να με βάλετε λίγο νωρίτερα;]{lang="el"} Weichmacher:
+  [μήπως]{lang="el"}; [λίγο]{lang="el"} vor dem Komparativ ist Mengenangabe. Sprosse:
+  [θα]{lang="el"} + Imperfekt.
+- **Wechsel:** Der Pfleger siezt den Arzt vor der Patientin und duzt ihn danach: Das Register
+  richtet sich nach dem Publikum.
+
+Allgemein gilt: [κύριε/κυρία]{lang="el"} + Vorname mit [εσείς]{lang="el"} ist in Läden und
+Praxen häufig, der Nachname eher bei Ämtern und Vorgesetzten. Gestapelte Weichmacher sind in
+Serien oft Komik. [εσείς → εσύ]{lang="el"} heißt Nähe oder Druck (der Polizist, der ernst wird);
+[εσύ → εσείς]{lang="el"} kann Abstand oder Kränkung signalisieren.
 :::
 
 ## Das Wichtigste {#sec-register-wichtigste}
 
-- **Register** ([το ύφος]{lang="el"}) in drei Stufen: **formell** (vor allem schriftlich,
-  gelehrte Wörter, [εσείς]{lang="el"}, Nachname), **neutral** (höflich, Alltagswörter), **vertraut**
-  ([εσύ]{lang="el"}, Vorname, umg. Wörter). Zwei Regler: Nähe und Wortwahl. Ein Wechsel der Stufe
-  ist selbst eine Botschaft.
-- **Bitten** auf der Leiter: Imperativ → [Μου … ;]{lang="el"} → [Μπορείς/Μπορείτε να …;]{lang="el"}
+- **Drei Register** ([το ύφος]{lang="el"}): **formell** (vor allem schriftlich, gelehrte Wörter,
+  [εσείς]{lang="el"}, meist Nachname), **neutral** (höflich, Alltagswörter), **vertraut**
+  ([εσύ]{lang="el"}, Vorname, umg. Wörter). Zwei Regler: Nähe und Wortwahl. Ein Wechsel des
+  Registers ist selbst eine Botschaft.
+- **Bitten** auf der Leiter, Sprosse für Sprosse: Imperativ → [Μου … ;]{lang="el"} → [Μπορείς/Μπορείτε να …;]{lang="el"}
   → [Θα μπορούσατε να …;]{lang="el"} → [Θα σας παρακαλούσα να …]{lang="el"} (schriftlich).
 - **Weichmacher:** [μήπως, λίγο]{lang="el"}, Verkleinerung, [αν γίνεται, αν δε σας κάνει
-  κόπο]{lang="el"}, [Συγγνώμη που σας ενοχλώ]{lang="el"}; höchstens zwei auf einmal. Unter Freunden
-  [Μου κάνεις μια χάρη;]{lang="el"}
+  κόπο]{lang="el"}, [Συγγνώμη που σας ενοχλώ]{lang="el"}; meist ein oder zwei, bei großen Bitten drei; gestapelt
+  klingt es unterwürfig oder ironisch. [θα]{lang="el"} + Imperfekt ist eine Sprosse, kein
+  Weichmacher. Unter Freunden [Μου κάνεις μια χάρη;]{lang="el"}
 - **Beschwerde** in vier Schritten: Anlass ([Σας γράφω σχετικά με …]{lang="el"}), Vorgeschichte
   ([Όπως σας ενημέρωσα …]{lang="el"}), Bitte mit Frist, Folge ([Διαφορετικά …]{lang="el"}).
   Kleinigkeiten mit [μήπως]{lang="el"}: [Μήπως ξεχάσατε …;]{lang="el"}
@@ -944,7 +1000,7 @@ diesem Kapitel.
 
 Αγαπητή Μαρίνα,
 
-είμαι φοιτήτρια στο δεύτερο έτος. Χθες έστειλα στον καθηγητή μου την εργασία μου με ένα μέιλ.
+Είμαι φοιτήτρια στο δεύτερο έτος. Χθες έστειλα στον καθηγητή μου την εργασία μου με ένα μέιλ.
 Όλα σωστά: «Αξιότιμε κύριε καθηγητά», «Σας ευχαριστώ εκ των προτέρων», «Με εκτίμηση». Μόνο που
 από τη βιασύνη μου έγραψα από κάτω και «Φιλιά», όπως γράφω στη μαμά μου. Το είδα όταν ήταν πια
 αργά. Τι κάνω τώρα; Του ξαναγράφω; Κάνω πως δεν έγινε τίποτα;
@@ -953,7 +1009,7 @@ diesem Kapitel.
 
 Αγαπητή Κατερίνα,
 
-μην ανησυχείς· δεν είσαι η πρώτη. Οι καθηγητές διαβάζουν εκατοντάδες μέιλ τον μήνα και έχουν δει
+Μην ανησυχείς· δεν είσαι η πρώτη. Οι καθηγητές διαβάζουν εκατοντάδες μέιλ τον μήνα και έχουν δει
 πολύ χειρότερα. Αν θέλεις να ησυχάσεις, στείλε δύο γραμμές: «Συγγνώμη για το λάθος στο
 προηγούμενο μήνυμα. Με εκτίμηση». Τίποτα άλλο. Όσο περισσότερο εξηγείς, τόσο μεγαλώνει το θέμα.
 
@@ -994,7 +1050,7 @@ diesem Kapitel.
 | [βιάζομαι, βιάστηκα]{lang="el"} | sich beeilen; es eilig haben |
 | [η παρηγοριά]{lang="el"} | der Trost |
 | [χαμογελάω, χαμογέλασα]{lang="el"} | lächeln |
-| [η σχολή]{lang="el"} | die Fakultät (falscher Freund, Kapitel 1) |
+| [η σχολή]{lang="el"} | die Fakultät (Kapitel 16) |
 :::
 
 ::: {.callout-note collapse="true" .translation}
@@ -1046,7 +1102,7 @@ an der Fakultät, der diese Woche für eine Hausarbeit Küsse bekommen hat.
 4. [Αγαπητέ]{lang="el"} ist nach Marina höflich, aber wärmer als [Αξιότιμε]{lang="el"}.
 5. Wenn der Professor duzt, soll Katerina zurückduzen.
 
-**B. Welche Stufe?** Ordne zu: a formell, b neutral, c vertraut.
+**B. Welches Register?** Ordne zu: a formell, b neutral, c vertraut.
 1 [Αξιότιμε κύριε καθηγητά]{lang="el"} · 2 [Σας ευχαριστώ εκ των προτέρων]{lang="el"} ·
 3 [Καλησπέρα σας]{lang="el"} · 4 [Καλή συνέχεια]{lang="el"} · 5 [Φιλιά]{lang="el"} ·
 6 [Γεια σας, Κατερίνα]{lang="el"}
@@ -1075,18 +1131,18 @@ C: Marina diktiert die erste Mail fast wörtlich. Für Eleni: [εσύ]{lang="el"
 darunter. Zu 5: [μη βιαστείς να κάνεις το ίδιο]{lang="el"}.
 
 **B: 1a, 2a, 3b, 4b, 5c, 6b.** Zu 6: [Γεια σας]{lang="el"} siezt, der Vorname macht es freundlich;
-so antwortet ein Professor, der eine Stufe herunterkommt.
+so antwortet ein Professor, der einen Schritt auf sie zugeht.
 
 **C**
 
 ::: {lang="el"}
 Αξιότιμε κύριε καθηγητά,\
-συγγνώμη για το λάθος στο προηγούμενο μήνυμα.\
+Συγγνώμη για το λάθος στο προηγούμενο μήνυμα.\
 Με εκτίμηση,\
 Κατερίνα
 
 Γεια σου, Ελένη,\
-συγγνώμη, σου έστειλα λάθος συνημμένο. Σου στέλνω το σωστό.\
+Συγγνώμη, σου έστειλα λάθος συνημμένο. Σου στέλνω το σωστό.\
 Καλή συνέχεια!
 :::
 
