@@ -355,7 +355,6 @@ Typischer Fehler in die Gegenrichtung: \*[σου ευχαριστώ]{lang="el"} 
 |---|---|---|
 | [η προφορά]{lang="el"} | [i profoˈra] | die Aussprache; der Akzent |
 | [η διάλεκτος]{lang="el"} | [i ðiˈalektos] | der Dialekt (weiblich auf [-ος]{lang="el"}) |
-| [βόρειος, -α, -ο]{lang="el"} | [ˈvorios] | nördlich, Nord- |
 | [βαρύς, βαριά, βαρύ]{lang="el"} | [vaˈris], [vaˈrʝa], [vaˈri] | schwer; [βαριά προφορά]{lang="el"} starker Akzent |
 | [η συμπρωτεύουσα]{lang="el"} | [i sibroˈtevusa] | Beiname Thessalonikis, „Mit-Hauptstadt“ |
 | [ο πύργος]{lang="el"} | [o ˈpirɣos] | der Turm |
@@ -434,7 +433,7 @@ herleiten. Probier es aus: Deck die Spalte „Beispiel“ ab und bilde zu jeder 
 κουρασμένος]{lang="el"}). Die wichtigste Ausnahme: [αν]{lang="el"} als „ob“ ([δεν ξέρω αν θα
 έρθει]{lang="el"}).
 
-**Wo die Zeit stehen bleibt:** In der indirekten Rede behält das Verb in der Regel die Zeit des
+**Die Zeit des Originals:** In der indirekten Rede behält das Verb in der Regel die Zeit des
 Originals ([Είπε ότι είναι κουρασμένος.]{lang="el"}, Kapitel 18). Nach [πρέπει να, μπορεί να]{lang="el"} als
 Vermutung darf eine Vergangenheit stehen ([πρέπει να έφυγε]{lang="el"}), nach [θέλω να, μπορώ
 να]{lang="el"} nicht („Wo steht die Zeit?“, Kapitel 22).
