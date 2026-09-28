@@ -669,25 +669,33 @@ Heimat.
 
 **B. Aorist, laut und richtig betont:** [παρατρώω]{lang="el"} ich · [ξαναγράφω]{lang="el"} ich ·
 [ξεφεύγω]{lang="el"} er · [ξεκλειδώνω]{lang="el"} du · [παραπίνω]{lang="el"} wir ·
-[ξαναέρχομαι]{lang="el"} sie (Plural)
+[ξαναέρχομαι]{lang="el"} (dasselbe Verb wie [ξανάρχομαι]{lang="el"} aus Kapitel 14) sie (Plural)
 
 **C. Laut übersetzen:** Fast hätte ich die Fähre verpasst. · Nimm’s mir nicht übel, aber das ist
 zu teuer. · Entschuldigen Sie, ich habe verschlafen.
+
+**D. Alte Bekannte zerlegen.** Welche Vorsilbe oder Verkleinerung steckt darin, und was bleibt
+übrig? [ξεσπάω]{lang="el"} (Kapitel 14) · [συμπληρώνω]{lang="el"} (17) · [συνεχίζω]{lang="el"}
+(24) · [ξεκινάω]{lang="el"} (19) · [παραπονιέμαι]{lang="el"} (16) · [τα
+προβατάκια]{lang="el"} (5)
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
 A: [παρα-]{lang="el"} vor [κάνω, λέω]{lang="el"} heißt „zu viel“. In 4 steckt noch
-[ομ-]{lang="el"} „gleich“ (wie *homogen*). B: Betonung auf die drittletzte Silbe.
+[ομ-]{lang="el"} „gleich“ (wie *homogen*). B: Betonung auf die drittletzte Silbe; das
+[ε-]{lang="el"} kommt nur dazu, wenn sonst eine Silbe fehlt. [ήρθα, ήπια]{lang="el"} bleiben meist,
+wie sie sind. D: [σπάω]{lang="el"} zerbrechen, [ο πόνος]{lang="el"} Schmerz, [το
+πρόβατο]{lang="el"} Schaf.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
 B: In [έφαγα, έγραψα, έφυγε]{lang="el"} liefert das [ε-]{lang="el"} nur die fehlende Silbe; mit
-Vorsilbe fehlt keine mehr. Bei [ήπια, ήρθα]{lang="el"} gehört das [ή-]{lang="el"} zum Stamm.
-C: [παραλίγο να, Μη με παρεξηγείς, Με συγχωρείτε]{lang="el"}.
+Vorsilbe fehlt keine mehr. C: [παραλίγο να, Μη με παρεξηγείς, Με συγχωρείτε]{lang="el"}.
+D: [πλήρης]{lang="el"} heißt „voll“, [έχω]{lang="el"} auch „halten“.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
