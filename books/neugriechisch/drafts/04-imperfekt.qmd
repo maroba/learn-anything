@@ -418,13 +418,11 @@ Für die Verben auf [-άω]{lang="el"} und [-ώ]{lang="el"} gilt etwas anderes
 **Teil A.** Bilde das Imperfekt und sag es laut, mit Betonung.
 
 a) [βλέπω]{lang="el"} → ich
-b) [γράφω]{lang="el"} → wir
-c) [πίνω]{lang="el"} → sie (Plural)
-d) [λέω]{lang="el"} → er
-e) [πάω]{lang="el"} → wir
-f) [θέλω]{lang="el"} → er
-g) [μαθαίνω]{lang="el"} → ihr
-h) [ακούω]{lang="el"} → ich
+b) [πίνω]{lang="el"} → sie (Plural)
+c) [λέω]{lang="el"} → er
+d) [πάω]{lang="el"} → wir
+e) [θέλω]{lang="el"} → er
+f) [μαθαίνω]{lang="el"} → ihr
 
 **Teil B.** Alle Formen sollen Imperfekt sein. Welche sind falsch?
 
@@ -433,8 +431,6 @@ h) [ακούω]{lang="el"} → ich
 3. [έτρωγα]{lang="el"}
 4. [ήθελαμε]{lang="el"}
 5. [πήγα]{lang="el"}
-6. [έμαθαινα]{lang="el"}
-7. [ήξερες]{lang="el"}
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -448,7 +444,7 @@ kommt nur, wenn es diese Betonung tragen muss.
 ## Hinweis 2
 
 Die kurzen Verben holen ein [γ]{lang="el"} heraus, [πάω]{lang="el"} leiht sich
-[πηγαίνω]{lang="el"}. In Teil B sind zwei Formen richtig.
+[πηγαίνω]{lang="el"}. In Teil B ist genau eine Form ein richtiges Imperfekt.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -457,15 +453,13 @@ Die kurzen Verben holen ein [γ]{lang="el"} heraus, [πάω]{lang="el"} leiht si
 **Teil A**
 
 - a) [έβλεπα]{lang="el"}: Der Aorist [είδα]{lang="el"} ist hier egal.
-- b) [γράφαμε]{lang="el"}, ohne Augment.
-- c) [έπιναν]{lang="el"}, umg. [πίνανε]{lang="el"}. Das [ν]{lang="el"} des Präsens bleibt.
-- d) [έλεγε]{lang="el"}
-- e) [πηγαίναμε]{lang="el"}
-- f) [ήθελε]{lang="el"}, mit [η-]{lang="el"}.
-- g) [μαθαίνατε]{lang="el"}: [μα-θαί-να-τε]{lang="el"}, Betonung wie im Präsens.
-- h) [άκουγα]{lang="el"}, auch [άκουα]{lang="el"}.
+- b) [έπιναν]{lang="el"}, umg. [πίνανε]{lang="el"}. Das [ν]{lang="el"} des Präsens bleibt.
+- c) [έλεγε]{lang="el"}
+- d) [πηγαίναμε]{lang="el"}
+- e) [ήθελε]{lang="el"}, mit [η-]{lang="el"}.
+- f) [μαθαίνατε]{lang="el"}: Betonung wie im Präsens, kein Augment.
 
-**Teil B:** Richtig sind **3** und **7**.
+**Teil B:** Richtig ist nur **3**.
 
 1. \*[εγράφαμε]{lang="el"} → [γράφαμε]{lang="el"}: Augment unbetont.
 2. \*[έβλεψα]{lang="el"} → [έβλεπα]{lang="el"}: Ein [ψ]{lang="el"} gehört zum perfektiven
@@ -474,9 +468,6 @@ Die kurzen Verben holen ein [γ]{lang="el"} heraus, [πάω]{lang="el"} leiht si
 4. \*[ήθελαμε]{lang="el"} → [θέλαμε]{lang="el"}: Auch [η-]{lang="el"} fällt, wenn es unbetont
    wäre.
 5. [πήγα]{lang="el"} gibt es, aber es ist der Aorist. Das Imperfekt ist [πήγαινα]{lang="el"}.
-6. \*[έμαθαινα]{lang="el"} → [μάθαινα]{lang="el"}: drei Silben sind schon da. Das
-   [έ-]{lang="el"} stammt aus dem Aorist [έμαθα]{lang="el"}.
-7. [ήξερες]{lang="el"}: **richtig**.
 :::
 
 ::: {.vocab}
@@ -562,11 +553,9 @@ den Verben auf [-ώ]{lang="el"} wie [μπορώ]{lang="el"} gibt es sie nicht.
 **Teil A.** Imperfekt, laut:
 
 a) [ρωτάω]{lang="el"} → er
-b) [μπορώ]{lang="el"} → wir
-c) [ζω]{lang="el"} → sie (Plural)
-d) [τρώω]{lang="el"} → wir
-e) [τηλεφωνώ]{lang="el"} → du
-f) [φεύγω]{lang="el"} → er
+b) [ζω]{lang="el"} → sie (Plural)
+c) [τρώω]{lang="el"} → wir
+d) [τηλεφωνώ]{lang="el"} → du
 
 **Teil B.** Nur nach dem Klang: Imperfekt (I), Aorist (A) oder beides (B)? Lies die Lautschrift
 laut. Im Chat reicht „1I, 2A, …“.
@@ -599,11 +588,9 @@ eine Form für beides.
 **Teil A**
 
 - a) [ρωτούσε]{lang="el"}, umg. auch [ρώταγε]{lang="el"}.
-- b) [μπορούσαμε]{lang="el"}
-- c) [ζούσαν]{lang="el"}, umg. [ζούσανε]{lang="el"}.
-- d) [τρώγαμε]{lang="el"}: kurzes Verb, [γ]{lang="el"}-Muster, kein [-ούσ-]{lang="el"}.
-- e) [τηλεφωνούσες]{lang="el"}
-- f) [έφευγε]{lang="el"}: Muster [γράφω]{lang="el"}, Augment betont.
+- b) [ζούσαν]{lang="el"}, umg. [ζούσανε]{lang="el"}.
+- c) [τρώγαμε]{lang="el"}: kurzes Verb, [γ]{lang="el"}-Muster, kein [-ούσ-]{lang="el"}.
+- d) [τηλεφωνούσες]{lang="el"}
 
 Typische Fehler: \*[ρώτουσε]{lang="el"} (Betonung zurückgeholt), \*[ετηλεφωνούσες]{lang="el"}
 (Augment), \*[ρωτάσε]{lang="el"} (das [α]{lang="el"} des Präsens behalten).
@@ -780,13 +767,11 @@ Sag die Sätze laut auf Griechisch.
 
 1. Wart ihr ’90 auf Sifnos? – Waren wir.
 2. Wir hatten kein Geld für ein Hotel.
-3. Hattest du damals ein Fahrrad?
-4. Wusstet ihr, wo das Kafeneío war?
-5. Sie (Plural) konnten zehn Wörter Deutsch.
-6. Damals waren wir zwanzig.
-7. Dort habe ich meinen Mann kennengelernt.
-8. Ich habe es gestern erfahren.
-9. Da hatte ich eine Idee.
+3. Wusstet ihr, wo das Kafeneío war?
+4. Sie (Plural) konnten zehn Wörter Deutsch.
+5. Dort habe ich meinen Mann kennengelernt.
+6. Ich habe es gestern erfahren.
+7. Da hatte ich eine Idee.
 
 **Worthilfe:** [το ξενοδοχείο]{lang="el"} das Hotel.
 :::
@@ -794,7 +779,7 @@ Sag die Sätze laut auf Griechisch.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Sechs Sätze brauchen [ήμουν, είχα, ήξερα]{lang="el"} in der passenden Person. In den letzten drei
+Vier Sätze brauchen [ήμουν, είχα, ήξερα]{lang="el"} in der passenden Person. In den letzten drei
 ändert sich etwas: Dafür nimmt man ein anderes Verb.
 :::
 
@@ -802,7 +787,7 @@ Sechs Sätze brauchen [ήμουν, είχα, ήξερα]{lang="el"} in der passe
 ## Hinweis 2
 
 Das [εί-]{lang="el"} von [είχα]{lang="el"} und das [ή-]{lang="el"} von [ήμουν]{lang="el"}
-bleiben überall, das [ή-]{lang="el"} von [ήξερα]{lang="el"} nicht. Satz 9 ist eine feste
+bleiben überall, das [ή-]{lang="el"} von [ήξερα]{lang="el"} nicht. Satz 7 ist eine feste
 Wendung aus dem Abschnitt.
 :::
 
@@ -814,14 +799,12 @@ Wendung aus dem Abschnitt.
    [ήμασταν]{lang="el"} deutlicher.
 2. [Δεν είχαμε λεφτά για ξενοδοχείο.]{lang="el"} Nicht \*[χάμε]{lang="el"}: Das
    [εί-]{lang="el"} ist kein Augment.
-3. [Είχες ποδήλατο τότε;]{lang="el"}
-4. [Ξέρατε πού ήταν το καφενείο;]{lang="el"} Hier umgekehrt: nicht \*[ήξερατε]{lang="el"}.
-5. [Ήξεραν δέκα λέξεις γερμανικά.]{lang="el"} Umg. auch [Ξέρανε…]{lang="el"}
-6. [Τότε ήμασταν είκοσι χρονών.]{lang="el"}
-7. [Εκεί γνώρισα τον άντρα μου.]{lang="el"} [ήξερα]{lang="el"} hieße „kannte“.
-8. [Το έμαθα χθες.]{lang="el"} [Το ήξερα χθες]{lang="el"} hieße „Gestern wusste ich es
+3. [Ξέρατε πού ήταν το καφενείο;]{lang="el"} Hier umgekehrt: nicht \*[ήξερατε]{lang="el"}.
+4. [Ήξεραν δέκα λέξεις γερμανικά.]{lang="el"} Umg. auch [Ξέρανε…]{lang="el"}
+5. [Εκεί γνώρισα τον άντρα μου.]{lang="el"} [ήξερα]{lang="el"} hieße „kannte“.
+6. [Το έμαθα χθες.]{lang="el"} [Το ήξερα χθες]{lang="el"} hieße „Gestern wusste ich es
    (noch)“.
-9. [Τότε μου ήρθε μια ιδέα.]{lang="el"} [Τότε είχα μια ιδέα]{lang="el"} ist verständlich, sagt
+7. [Τότε μου ήρθε μια ιδέα.]{lang="el"} [Τότε είχα μια ιδέα]{lang="el"} ist verständlich, sagt
    aber eher „damals hatte ich eine Idee (im Kopf)“, keinen Einfall.
 :::
 
@@ -1371,17 +1354,7 @@ mitzulesen.
 a) Nach welchem Satz springt sie ins Präsens?
 b) Wie viele echte Imperfekte benutzt sie, ohne [ήταν, είχα]{lang="el"} und Co.?
 
-**Schritt 2: ein Laut.** Imperfekt (I) oder Aorist (A)? Erst die Lautschrift laut lesen, dann
-in der Tabelle oben prüfen.
-
-1. [ˈemina]
-2. [ˈepeza]
-3. [ˈðʝavasa]
-4. [ˈpiʝena]
-5. [ˈemena]
-6. [ˈeɣrapsa]
-
-**Schritt 3: ein echtes Gespräch.** Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos)
+**Schritt 2: ein echtes Gespräch.** Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos)
 nach [παλιά]{lang="el"}, [παιδικά χρόνια]{lang="el"} (Kindheit) oder [καλοκαίρι]{lang="el"} und
 wähl ein Straßeninterview. Hör drei Minuten ohne Untertitel und mach zwei Strichlisten: Formen
 mit betontem [ˈu] vor [sa, se, same, san] und [ήταν, ήμουν, είχα]{lang="el"} in allen Personen.
@@ -1391,14 +1364,13 @@ Dann mit den griechischen Untertiteln prüfen.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Schritt 1: Achte auf die Stelle, an der sie Gläser spült. Schritt 2: [e] gegen [i], [z] gegen
-[ks], [f] gegen [ps].
+Achte auf die Stelle, an der sie Gläser spült.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Schritt 1: Zwei Imperfekte stehen vor dem Sprung, zwei in einem kurzen Film danach, eins ganz am
+Zwei Imperfekte stehen vor dem Sprung, zwei in einem kurzen Film danach, eins ganz am
 Schluss, verschluckt. Nur zählen, was die Großmutter sagt.
 :::
 
@@ -1418,11 +1390,7 @@ mit nur einer Vergangenheit: [ήταν, είχα, είχαμε, ήξερα]{lang
 verschluckt ist. Wer [ακούω, βλέπω]{lang="el"} mitgezählt hat, hat das erzählende Präsens für
 eine Vergangenheit gehalten.
 
-**Schritt 2:** 1A ([έμεινα]{lang="el"}), 2I ([έπαιζα]{lang="el"}), 3A ([διάβασα]{lang="el"}),
-4I ([πήγαινα]{lang="el"}), 5I ([έμενα]{lang="el"}), 6A ([έγραψα]{lang="el"}). 1 und 5 sind das
-schwerste Paar: Im Gespräch hilft nur der Rest des Satzes.
-
-**Schritt 3:** Eine feste Zahl gibt es nicht. So wertest du aus:
+**Schritt 2:** Eine feste Zahl gibt es nicht. So wertest du aus:
 
 - **Treffer:** Was du gehört hast und in den Untertiteln wiederfindest. In Gesprächen über früher
   ist [ήταν]{lang="el"} fast immer das häufigste Wort auf deiner Liste.
@@ -1430,8 +1398,6 @@ schwerste Paar: Im Gespräch hilft nur der Rest des Satzes.
   betontem [ˈu]; ohne [s] danach sind sie kein Imperfekt.
 - **Übersehen:** meist die Formen auf [-ούσανε]{lang="el"} und das kurze [ˈitan], das im Satz
   untergeht.
-- Die Imperfekte ohne [-ούσ-]{lang="el"} ([πηγαίναμε, έμενα]{lang="el"}) hat die Strichliste
-  bewusst ausgelassen; die sind der nächste Schritt.
 :::
 
 ::: {.vocab}
@@ -1667,7 +1633,7 @@ kenne ich nicht. Wann genau und an welchen Stellen gedreht wurde, ist hier ausge
 2. Im Zimmer gab es kein warmes Wasser.
 3. Sie rief jeden Tag ihre Eltern an.
 4. Der Junge sprang nur einmal von den Felsen.
-5. Die Freundinnen sahen zwei Stunden lang zu.
+5. Die drei sahen beim Dreh zwei Stunden lang zu.
 6. Sie wussten sofort, welcher Film gedreht wurde.
 7. Letztes Jahr sprang die Erzählerin wieder ins Meer.
 
@@ -1709,22 +1675,13 @@ Teil B: Im ersten Absatz stehen neun Imperfekte, im zweiten fünf Imperfekte und
 
 **Teil B**
 
-Absatz [Οι μέρες ήταν…]{lang="el"}:
+Absatz [Οι μέρες ήταν…]{lang="el"}: neun Imperfekte, [ξυπνούσαμε, περπατούσαμε,
+κολυμπούσαμε, τρώγαμε, ανεβαίναμε, πίναμε, υπήρχαν, τηλεφωνούσα, ρωτούσε]{lang="el"}; nur eine
+Vergangenheit: [ήταν]{lang="el"} (zweimal), [είχε]{lang="el"}.
 
-- Imperfekt: [ξυπνούσαμε]{lang="el"} ← [ξυπνάω]{lang="el"}, [περπατούσαμε]{lang="el"} ←
-  [περπατάω]{lang="el"}, [κολυμπούσαμε]{lang="el"} ← [κολυμπάω]{lang="el"},
-  [τρώγαμε]{lang="el"} ← [τρώω]{lang="el"}, [ανεβαίναμε]{lang="el"} ← [ανεβαίνω]{lang="el"},
-  [πίναμε]{lang="el"} ← [πίνω]{lang="el"}, [υπήρχαν]{lang="el"} ← [υπάρχουν]{lang="el"},
-  [τηλεφωνούσα]{lang="el"} ← [τηλεφωνώ]{lang="el"}, [ρωτούσε]{lang="el"} ← [ρωτάω]{lang="el"}
-- Nur eine Vergangenheit: [ήταν]{lang="el"} (zweimal), [είχε]{lang="el"}
-
-Absatz [Ένα πρωί…]{lang="el"}:
-
-- Aorist: [είδαμε]{lang="el"} ← [βλέπω]{lang="el"}, [μείναμε]{lang="el"} ← [μένω]{lang="el"}
-- Imperfekt: [κολυμπούσαμε]{lang="el"} ← [κολυμπάω]{lang="el"}, [γύριζαν]{lang="el"} ←
-  [γυρίζω]{lang="el"}, [βουτούσε]{lang="el"} ← [βουτάω]{lang="el"}, [φώναζε]{lang="el"} ←
-  [φωνάζω]{lang="el"}, [κοιτάζαμε]{lang="el"} ← [κοιτάζω]{lang="el"}
-- Nur eine Vergangenheit: [ξέραμε, ήταν, ήταν]{lang="el"}
+Absatz [Ένα πρωί…]{lang="el"}: Aorist [είδαμε]{lang="el"} ([βλέπω]{lang="el"}),
+[μείναμε]{lang="el"} ([μένω]{lang="el"}); Imperfekt [κολυμπούσαμε, γύριζαν, βουτούσε, φώναζε,
+κοιτάζαμε]{lang="el"}; nur eine Vergangenheit: [ξέραμε, ήταν, ήταν]{lang="el"}.
 
 Der erste Absatz erzählt nichts, was geschah, sondern wie jeder Tag war: lauter Film. Im zweiten
 tragen genau zwei Fotos die Handlung, [είδαμε]{lang="el"} und [μείναμε]{lang="el"}; alles andere
