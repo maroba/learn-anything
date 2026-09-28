@@ -11,6 +11,11 @@ title: "Was wäre, wenn: Irrealis und Wünsche"
   [είχα φύγει]{lang="el"} „ich war gegangen“.
 - **Realer Bedingungssatz** (Kapitel 17): [αν]{lang="el"} + Präsens oder perfektive Form, in der
   Bedingung kein [θα]{lang="el"}: [Αν βρέξει, θα μείνουμε σπίτι.]{lang="el"}
+- **Futur der Vergangenheit** (Kapitel 18): [θα]{lang="el"} + Imperfekt, [Είπε ότι θα
+  ερχόταν.]{lang="el"} „Er sagte, er würde kommen.“
+- **Wo steht die Zeit?** (Kapitel 22): Nach [πρέπει να]{lang="el"} als Vermutung darf eine
+  Vergangenheit stehen ([πρέπει να έφυγε]{lang="el"}), nach Wollen, Können, Müssen die zeitlose
+  [να]{lang="el"}-Form ([έπρεπε να φύγει]{lang="el"}).
 :::
 
 ## Dienstag, 29. Mai {#sec-irrealis-einstieg}
@@ -75,7 +80,7 @@ zum Sultan gegangen.
 
 — Wer weiß? Hätte ich doch eine Zeitmaschine.
 
-— Und ich hätte bloß einen Hut mitgenommen. Ich schmelze. Wir hätten am Morgen kommen sollen.
+— Und ich – hätte ich bloß einen Hut mitgenommen! Ich schmelze. Wir hätten am Morgen kommen sollen.
 
 — Du hast gesagt, du würdest um sieben aufstehen. Aufgestanden bist du um zehn.
 
@@ -88,8 +93,9 @@ für sie bis heute einfach [η Πόλη]{lang="el"} „die Stadt“ ist, aus Kap
 fast nur über Dinge, die nicht wirklich sind: [θα ήταν, θα καταλάβαινα, θα ζούσαμε]{lang="el"}
 („wäre, würde verstehen, würden leben“), [θα είχα πληρώσει]{lang="el"} („hätte bezahlt“),
 [μακάρι να είχα]{lang="el"} („hätte ich doch“), [έπρεπε να είχαμε έρθει]{lang="el"} („hätten
-kommen sollen“). Wirklich passiert ist nur, was im Aorist steht: [έπεσε, πήγε,
-ξύπνησες]{lang="el"}.
+kommen sollen“). Wirklich passiert ist vor allem, was im Aorist steht: [έπεσε, πήγε,
+ξύπνησες]{lang="el"}, dazu das Imperfekt ohne [αν]{lang="el"} und [θα]{lang="el"}: [δεν είχε
+λεφτά]{lang="el"}.
 
 Ein [θα]{lang="el"} + Imperfekt fällt aus der Reihe: [είπες ότι θα ξυπνούσες]{lang="el"} ist
 nicht irreal, sondern das Futur der Vergangenheit aus Kapitel 18. Warum dieselbe Form beides kann,
@@ -121,7 +127,7 @@ klärt @sec-irrealis-drei-aufgaben.
 | [ο Ουρβανός]{lang="el"} | Urban, ein Kanonengießer |
 | [ο σουλτάνος]{lang="el"} | der Sultan |
 | [η χρονομηχανή]{lang="el"} | die Zeitmaschine |
-| [λιώνω]{lang="el"} | schmelzen; [Λιώνω.]{lang="el"} Ich zerfließe (vor Hitze, umg.) |
+| [λιώνω]{lang="el"} | schmelzen (Kapitel 22); [Λιώνω.]{lang="el"} Ich zerfließe (vor Hitze, umg.) |
 | [η σκιά]{lang="el"} | der Schatten |
 :::
 
@@ -187,8 +193,8 @@ fragen.“ Das Imperfekt steht auch für einzelne und künftige Ereignisse.
 ::: {.callout-warning}
 ## Achtung
 
-- \*[Αν θα είχα χρόνο …]{lang="el"}: Auch in der irrealen Bedingung steht kein [θα]{lang="el"},
-  wie im realen Satz (Kapitel 17). Das [θα]{lang="el"} gehört in die Folge.
+- [Αν θα είχα χρόνο …]{lang="el"} (nicht Standard): Auch in der irrealen Bedingung steht kein
+  [θα]{lang="el"}, wie im realen Satz (Kapitel 17). Das [θα]{lang="el"} gehört in die Folge.
 - [Αν είχα χρόνο, θα πάω.]{lang="el"}: halb irreal, halb real. Wer [αν είχα]{lang="el"} sagt,
   muss mit [θα πήγαινα]{lang="el"} weitermachen.
 :::
@@ -216,7 +222,7 @@ Zum Schluss: Ein Freund will um zwölf Uhr mittags die ganze Landmauer ablaufen.
 ## Hinweis 1
 
 Beide Hälften rücken eine Stufe zurück: Bedingung ins Imperfekt, Folge [θα]{lang="el"} +
-Imperfekt. Kein Aorist bleibt stehen, auch [αύριο]{lang="el"} nicht.
+Imperfekt. Kein Aorist bleibt stehen, auch bei [αύριο]{lang="el"} nicht.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -246,7 +252,7 @@ Zum Schluss, zum Beispiel: [Εγώ στη θέση σου θα πήγαινα τ
 θέση σου δε θα περπατούσα με τέτοια ζέστη.]{lang="el"} Jedes [θα]{lang="el"} + Imperfekt passt.
 
 **Typische Fehler:** die Folge stehen lassen ([αν ερχόσουν, θα δεις]{lang="el"}: halb irreal,
-halb real); \*[αν θα μπορούσα]{lang="el"}; [αν κέρδισα]{lang="el"} mit Aorist: Das ist eine echte
+halb real); [αν θα μπορούσα]{lang="el"} (nicht Standard); [αν κέρδισα]{lang="el"} mit Aorist: Das ist eine echte
 Vergangenheit, „falls ich gewonnen habe“.
 :::
 
@@ -292,12 +298,20 @@ Welche Zeit gemeint ist, sagt der Zusammenhang. Im Einstieg klang es so: [αν �
 ohnehin nur das Imperfekt, denn sie haben kein Perfekt und kein Plusquamperfekt:
 [Αν ήμουν εκεί, θα το είχα δει.]{lang="el"} „Wenn ich dort gewesen wäre, hätte ich es gesehen.“
 
+Die Bedingung kann auch ganz fehlen, weil ein [αλλά]{lang="el"} sagt, was dazwischenkam: [Θα
+ερχόμουν, αλλά …]{lang="el"} „Ich wäre ja gekommen, aber …“, [Θα σε έπαιρνα τηλέφωνο, αλλά
+ξέχασα.]{lang="el"} „Ich hätte dich ja angerufen, aber ich hab’s vergessen.“ Mitgedacht ist
+„wenn nicht … gewesen wäre“; das ist ein Irrealis der Vergangenheit im Gesprächsstil, und im
+Gespräch brauchst du ihn ständig.
+
 Die beiden Hälften können außerdem verschiedene Zeiten haben. Jede nimmt die, die sie braucht:
 
 - [Αν είχαμε ξυπνήσει νωρίτερα, τώρα δε θα λιώναμε στον ήλιο.]{lang="el"} – Wären wir früher
   aufgestanden, würden wir jetzt nicht in der Sonne zerfließen.
-- [Αν ήμουν εγώ ο Κωνσταντίνος, θα είχα πληρώσει τον Ουρβανό.]{lang="el"} – Wäre ich Konstantin
-  gewesen, hätte ich Urban bezahlt.
+- [Αν ήξερα τουρκικά, θα είχα καταλάβει τι είπε.]{lang="el"} – Wenn ich Türkisch könnte, hätte
+  ich verstanden, was er gesagt hat.
+
+Gemischt wird nur innerhalb des Irrealis: Die Folge hat immer [θα]{lang="el"} + Vergangenheitsform.
 
 ::: {.callout-important}
 ## Merke
@@ -310,17 +324,18 @@ Imperfekt; der Zusammenhang zeigt dann, dass Vergangenes gemeint ist.
 ::: {.callout-warning}
 ## Achtung
 
-[θα]{lang="el"} + **Aorist** ist kein Irrealis, sondern eine Vermutung wie [Θα είναι
-σπίτι]{lang="el"} aus Kapitel 22: [Θα το ξέχασε.]{lang="el"} „Er hat es wohl vergessen.“ Auch
-[θα είχε φύγει]{lang="el"} kann ohne irrealen Zusammenhang eine Vermutung sein („er wird wohl
-schon weg gewesen sein“); das ist Stoff für Kapitel 25.
+[θα]{lang="el"} + **Aorist** ist kein Irrealis. Neu, aber naheliegend: Wie [θα]{lang="el"} +
+Präsens eine Vermutung über jetzt ist ([Θα είναι σπίτι.]{lang="el"}, Kapitel 22), ist
+[θα]{lang="el"} + Aorist eine über Vergangenes: [Θα το ξέχασε.]{lang="el"} „Er hat es wohl
+vergessen.“ Auch [θα είχε φύγει]{lang="el"} kann ohne irrealen Zusammenhang eine Vermutung sein
+(„er wird wohl schon weg gewesen sein“). Mehr dazu in Kapitel 25.
 :::
 
 ::: {.callout-note .exercise}
 ## Übung 24.2: Hätte, wäre, wenn
 
 Sprich die Sätze auf Griechisch. 1 bis 3 und 6 spielen ganz in der Vergangenheit, bei 4 und 5
-ist die Folge jetzt.
+ist die Folge jetzt. In 7 steckt ein „würde“, das kein Irrealis ist.
 
 1. Wenn die venezianische Flotte früher aufgebrochen wäre, wäre sie rechtzeitig angekommen.
 2. Wenn du um sieben aufgestanden wärst, hätten wir das Schiff nicht verpasst.
@@ -328,6 +343,7 @@ ist die Folge jetzt.
 4. Wenn die Stadt nicht gefallen wäre, würde man hier heute Griechisch sprechen.
 5. Wenn ich Türkisch gelernt hätte, könnte ich jetzt die Speisekarte lesen.
 6. Wenn ich das gewusst hätte, wäre ich am Morgen gekommen.
+7. Du hast gesagt, du würdest um sieben aufstehen.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -335,7 +351,7 @@ ist die Folge jetzt.
 
 Vergangenheit: [αν]{lang="el"} + [είχα]{lang="el"} + Form auf [-ει]{lang="el"}, Folge
 [θα είχα]{lang="el"} + Form auf [-ει]{lang="el"}. Wo die Folge „jetzt“ meint, [θα]{lang="el"} +
-Imperfekt.
+Imperfekt. 7 ist das Futur der Vergangenheit aus Kapitel 18.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -355,9 +371,11 @@ Hat [ξέρω]{lang="el"} ein Plusquamperfekt?
 4. Αν δεν είχε πέσει η Πόλη, σήμερα εδώ θα μιλούσαν ελληνικά.
 5. Αν είχα μάθει τουρκικά, τώρα θα μπορούσα να διαβάσω το μενού.
 6. Αν το ήξερα, θα είχα έρθει το πρωί.
+7. Είπες ότι θα ξυπνούσες στις επτά.
 :::
 
-Zu 6: [ξέρω]{lang="el"} hat kein Plusquamperfekt, also [αν το ήξερα]{lang="el"}; der Zusammenhang
+Zu 7: [θα]{lang="el"} + Imperfekt nach [είπες ότι]{lang="el"}, wie im Einstieg; hier gibt es
+keine Bedingung, sondern einen Blick nach vorn von damals aus. Zu 6: [ξέρω]{lang="el"} hat kein Plusquamperfekt, also [αν το ήξερα]{lang="el"}; der Zusammenhang
 macht es zur Vergangenheit. Zu 5: Nach [να]{lang="el"} die zeitlose Form, das „könnte“ steckt in
 [θα μπορούσα]{lang="el"}.
 
@@ -375,6 +393,7 @@ angekommen“); in 4 und 5 auch die Folge ins Plusquamperfekt setzen, dann geht 
 |---|---|---|
 | [ο στόλος]{lang="el"} | [o ˈstolos] | die Flotte |
 | [έγκαιρα]{lang="el"} | [ˈeɟera] | rechtzeitig |
+| [Θα ερχόμουν, αλλά …]{lang="el"} | [θa erˈxomun aˈla] | Ich wäre ja gekommen, aber … |
 :::
 
 ## Eine Form, drei Aufgaben: [θα]{lang="el"} + Imperfekt {#sec-irrealis-drei-aufgaben}
@@ -394,10 +413,9 @@ Englische und Französische verteilen sie genauso auf eine einzige Form:
 ερχόσουν.]{lang="el"} „Ich wusste nicht, ob du kommen würdest.“ Nach [είπε ότι]{lang="el"} geht
 weiterhin auch [θα έρθει]{lang="el"}, solange das Ereignis noch aussteht (Kapitel 18).
 
-Zwischen dieser Aufgabe und dem Irrealis liegt eine Wendung, die du im Gespräch ständig brauchst:
-[Θα ερχόμουν, αλλά …]{lang="el"} „Ich wollte ja kommen, aber …“, „ich wäre ja gekommen, aber …“.
-[Θα σε έπαιρνα τηλέφωνο, αλλά ξέχασα.]{lang="el"} „Ich wollte dich anrufen, aber ich hab’s
-vergessen.“ Ein Plan von damals, aus dem nichts wurde.
+**Irrealis.** Hier hängt [θα]{lang="el"} + Imperfekt an einer Bedingung, ausgesprochen mit
+[αν]{lang="el"} oder mitgedacht wie in [Θα ερχόμουν, αλλά …]{lang="el"}
+(@sec-irrealis-imperfekt-vergangenheit).
 
 **Höflichkeit.** [θα ήθελα]{lang="el"} kennst du seit Kapitel 5; jetzt weißt du, warum es
 höflich klingt: Der Wunsch wird eine Stufe von der Wirklichkeit weggerückt, wie „ich hätte gern“.
@@ -408,12 +426,16 @@ Welche Aufgabe gerade dran ist, verrät die Umgebung: ein [είπε ότι, ήξ
 spricht für das Futur der Vergangenheit, ein [αν]{lang="el"} oder ein [αλλά]{lang="el"} danach
 für den Irrealis, eine Bitte an Fremde für die Höflichkeit.
 
+Daneben kann [θα]{lang="el"} + Imperfekt auch vermuten: [Θα ήταν γύρω στις δέκα.]{lang="el"}
+„Es wird so gegen zehn gewesen sein.“ Das kommt in Kapitel 25.
+
 ::: {.callout-important}
 ## Merke
 
 [θα]{lang="el"} + Imperfekt = „würde“, im Griechischen wie im Englischen dreifach: Futur der
 Vergangenheit ([είπε ότι θα ερχόταν]{lang="el"}), Irrealis ([αν μπορούσε, θα
-ερχόταν]{lang="el"}), Höflichkeit ([θα ήθελα, θα μπορούσατε]{lang="el"}).
+ερχόταν]{lang="el"}), Höflichkeit ([θα ήθελα, θα μπορούσατε]{lang="el"}). Dazu die Vermutung,
+Kapitel 25.
 :::
 
 ::: {.callout-note .exercise}
@@ -455,11 +477,13 @@ Zwei Sätze haben gar kein Imperfekt nach [θα]{lang="el"}: [έχασε, ξέχ
 **1a, 2c, 3b, 4d, 5c, 6a, 7b, 8c, 9d, 10b.**
 
 - 1 und 6: Blick nach vorn von einem Punkt in der Vergangenheit, nach [ήξερε ότι, είπε ότι]{lang="el"}.
-- 7: der Plan, aus dem nichts wurde, „ich wollte ja anrufen“. Er steht zwischen a und b; mit
-  [αλλά]{lang="el"} zählt er zum Irrealis, a ist vertretbar. <!-- CHECK: Einordnung von „Θα σε έπαιρνα τηλέφωνο, αλλά …“ als b (Irrealis) mit a als Alternative – so vertretbar? -->
+- 7: Irrealis mit mitgedachter Bedingung: „Ich hätte dich ja angerufen, aber der Akku war
+  leer“, also „wenn der Akku nicht leer gewesen wäre“. Das [αλλά]{lang="el"} nennt, was
+  dazwischenkam.
 - 8: eine abgefederte Meinung, keine Bedingung dahinter.
 - 10: Imperfekt für 1453, der Irrealis der Vergangenheit im Gesprächsstil.
-- 4 und 9: [θα]{lang="el"} + Aorist ist eine Vermutung, „hat wohl verpasst, wohl vergessen“.
+- 4 und 9: [θα]{lang="el"} + Aorist ist eine Vermutung über Vergangenes, „hat wohl verpasst,
+  wohl vergessen“ (Achtung-Kasten in @sec-irrealis-vergangenheit).
 
 **Typischer Fehler:** jedes [θα]{lang="el"} vor einer Vergangenheitsform für „würde“ halten.
 :::
@@ -467,7 +491,6 @@ Zwei Sätze haben gar kein Imperfekt nach [θα]{lang="el"}: [έχασε, ξέχ
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [Θα ερχόμουν, αλλά …]{lang="el"} | [θa erˈxomun aˈla] | Ich wollte ja kommen, aber … |
 | [Θα μπορούσατε να …;]{lang="el"} | [θa boˈrusate na] | Könnten Sie …? |
 | [θα έλεγα ότι …]{lang="el"} | [θa ˈeleɣa ˈoti] | ich würde sagen, dass … |
 :::

@@ -26,7 +26,7 @@
 | 20 Mit Nachdruck: starke Pronomen und Doppelung | veröffentlicht | Welle 9; Audio läuft |
 | 21 So spricht man wirklich: gesprochene Sprache | veröffentlicht | Welle 10; Audio ausstehend |
 | 22 Vielleicht, wahrscheinlich, sicher: Modalität | veröffentlicht | Welle 9; Audio ausstehend |
-| 23 Thessaloniki und Zwischenbilanz | Entwurf | Welle 11 |
+| 23 Thessaloniki und Zwischenbilanz | Übungen | Welle 11; Entwurf fertig |
 | 24 Was wäre, wenn: Irrealis und Wünsche | Überarbeitung | Welle 10; beide Reviews da |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
