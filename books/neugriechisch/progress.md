@@ -34,7 +34,7 @@
 | 28 Nachrichtensprache | Konsistenz | Welle 13; überarbeitet |
 | 29 Argumentieren | fertig | Welle 11; wartet auf 26–28 |
 | 30 Redewendungen | fertig | Welle 12; wartet auf 27–29 |
-| 31 Vom Amt bis zur Taverne: Register und Höflichkeit | Überarbeitung | Welle 14; beide Reviews da |
+| 31 Vom Amt bis zur Taverne: Register und Höflichkeit | überarbeitet | Welle 14; Konsistenz nach 28 |
 | 32 Kreta und Zypern hören | fertig | Welle 12; wartet auf 27–31 |
 | 33 Filme verstehen | Entwurf | Welle 15 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
