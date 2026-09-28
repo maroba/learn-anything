@@ -10,7 +10,7 @@
 | 02 Der zweite Stamm: der Aorist | veröffentlicht | Probekapitel; Reviews abgeschlossen; Audio vollständig |
 | 03 Die unregelmäßigen Aoriste | veröffentlicht | Welle 1; Audio vollständig |
 | 04 Erzählen: Imperfekt und Aspekt | Entwurf | Welle 2 |
-| 06 Auf dem Markt: Nomen, Adjektive, Zahlen | Entwurf | Welle 2 |
+| 06 Auf dem Markt: Nomen, Adjektive, Zahlen | Übungen | Welle 2; Entwurf fertig |
 
 ## Plan für /write all (Wellen nach Voraussetzungen)
 

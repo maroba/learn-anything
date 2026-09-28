@@ -1,0 +1,1245 @@
+---
+title: "Auf dem Markt: Nomen, Adjektive, Zahlen"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+Aus Kapitel 1 wird vorausgesetzt:
+
+- **Artikel** im Nominativ und Akkusativ: [ο, η, το]{lang="el"} – [τον, τη(ν), το]{lang="el"};
+  Plural [οι, οι, τα]{lang="el"} – [τους, τις, τα]{lang="el"}.
+- **Männliche Nomen verlieren im Akkusativ Singular ihr [-ς]{lang="el"}**: [ο δρόμος – τον
+  δρόμο]{lang="el"}.
+- **Präpositionen** wie [για, από, σε]{lang="el"} nehmen den Akkusativ; [σε]{lang="el"}
+  verschmilzt mit dem Artikel ([στο, στη, στον]{lang="el"}).
+- **Schluss-ν:** [την, δεν, μην]{lang="el"} behalten ihr [ν]{lang="el"} nur vor Vokal und vor
+  [κ π τ ξ ψ μπ ντ γκ τσ τζ]{lang="el"}: [την πόρτα]{lang="el"}, aber [τη μέρα]{lang="el"}.
+:::
+
+## Samstag, acht Uhr: die [λαϊκή]{lang="el"} {#sec-markt-einstieg}
+
+Ein Samstagmorgen in Exarchia, im Zentrum Athens. Die Straße, in der gestern noch Autos parkten,
+ist über Nacht verschwunden, an ihrer Stelle stehen zwei Reihen Marktstände unter Planen. Es
+riecht nach Dill und nassem Asphalt, irgendwo ruft jemand etwas von Bohnen. Eine Kundin bleibt
+an einem Stand mit Tomaten stehen.
+
+::: {lang="el"}
+— Καλημέρα. Πόσο κάνουν οι ντομάτες;
+
+— Δύο ευρώ το κιλό. Κρητικές, κυρία μου, ζάχαρη!
+
+— Είναι ώριμες;
+
+— Ώριμες; Κοίτα χρώμα! Δοκίμασε μία.
+
+— Μμμ… Πολύ γλυκιά. Βάλε μου δύο κιλά. Και τρία αγγούρια.
+
+— Τρία αγγούρια. Κάτι άλλο; Έχω και φρέσκα κολοκυθάκια. Τα κόψαμε χθες το βράδυ.
+
+— Μισό κιλό. Και μια μελιτζάνα. Μεγάλη.
+
+— Αυτή;
+
+— Όχι, την άλλη. Τη γυαλιστερή.
+
+— Ορίστε. Λεμόνια θέλεις; Τέσσερα ένα ευρώ.
+
+— Δώσε μου τέσσερα. Πόσο είναι όλα;
+
+— Λοιπόν… Ντομάτες τέσσερα, αγγούρια ενάμισι, κολοκυθάκια ένα κι είκοσι, η μελιτζάνα ογδόντα
+λεπτά, λεμόνια ένα. Οχτώ και πενήντα. Οχτώ να ’ναι.
+
+— Ευχαριστώ πολύ. Καλές δουλειές!
+
+— Να ’σαι καλά! … Πάρτε κόσμε! Φρέσκα τα κολοκυθάκια!
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Guten Morgen. Was kosten die Tomaten?
+
+— Zwei Euro das Kilo. Aus Kreta, meine Dame, zuckersüß!
+
+— Sind sie reif?
+
+— Reif? Schau dir die Farbe an! Probier eine.
+
+— Mmm … Sehr süß. Gib mir zwei Kilo. Und drei Gurken.
+
+— Drei Gurken. Sonst noch etwas? Ich hab auch frische Zucchini. Die haben wir gestern Abend
+geerntet.
+
+— Ein halbes Kilo. Und eine Aubergine. Eine große.
+
+— Die hier?
+
+— Nein, die andere. Die glänzende.
+
+— Bitte sehr. Willst du Zitronen? Vier für einen Euro.
+
+— Gib mir vier. Was macht das alles zusammen?
+
+— Also … Tomaten vier, Gurken eins fünfzig, Zucchini eins zwanzig, die Aubergine achtzig Cent,
+Zitronen eins. Acht fünfzig. Sagen wir acht.
+
+— Vielen Dank. Gute Geschäfte!
+
+— Mach's gut! … Kauft, Leute! Frische Zucchini!
+:::
+
+Das ist die **[λαϊκή]{lang="el"}**, der Wochenmarkt, wie es ihn in jedem Athener Viertel gibt:
+jede Woche am selben Tag in derselben Straße, morgens aufgebaut, nachmittags verschwunden. Der
+volle Name ist [η λαϊκή αγορά]{lang="el"}, „der Volksmarkt“; im Alltag sagt niemand mehr als
+[η λαϊκή]{lang="el"}. [λαϊκός]{lang="el"} heißt „zum Volk gehörig“, von [ο λαός]{lang="el"}
+„das Volk“, und über das lateinische *laicus* ist es im Deutschen zum *Laien* geworden: zu dem,
+der nicht zum Klerus gehört. Die Laiki ist also, wörtlich, der Markt der Laien. Profis sind
+trotzdem nur die, die hinter den Ständen stehen.
+
+Beim Einkaufen braucht man drei Dinge, und dieses Kapitel liefert sie: **Nomen im Plural**
+([οι ντομάτες, τα αγγούρια, τα λεμόνια]{lang="el"}), **Adjektive, die sich anpassen**
+([ώριμες ντομάτες, γλυκιά ντομάτα, φρέσκα κολοκυθάκια]{lang="el"}), und **Zahlen**, die bei
+eins, drei und vier auf das Genus achten: [τρία αγγούρια]{lang="el"}, [τέσσερα
+λεμόνια]{lang="el"}, aber [τρεις ντομάτες]{lang="el"}.
+
+Einige Wendungen nimm als feste Stücke mit. [Βάλε μου]{lang="el"} und [Δώσε μου]{lang="el"}
+„tu mir rein, gib mir“ sind Befehlsformen mit einem kleinen Pronomen dahinter (Kapitel 8 und 9);
+auf dem Markt duzt man sich meist. [Οχτώ να ’ναι]{lang="el"}, „es soll acht sein“, ist die
+Formel, mit der Händler abrunden; [να]{lang="el"} kommt in Kapitel 5. Und [Να ’σαι
+καλά!]{lang="el"}, „mögest du wohlauf sein“, ist die griechische Art, sich zu bedanken,
+wenn „danke“ zu wenig wäre.
+
+### Ein Parcours aus Digraphen {#sec-markt-digraphen}
+
+Der Markt ist eine Ausspracheübung. Gemüsenamen stammen oft aus dem Italienischen oder
+Türkischen, und die Laute, die das Griechische aus diesen Sprachen geerbt hat, schreibt es mit
+Digraphen:
+
+| Wort | Aussprache | Digraph |
+|---|---|---|
+| [η ντομάτα]{lang="el"} | [i doˈmata] | [ντ]{lang="el"} = [d] |
+| [οι μπάμιες]{lang="el"} | [i ˈbamɲes] | [μπ]{lang="el"} = [b] |
+| [ο πάγκος]{lang="el"} | [o ˈpagos] | [γκ]{lang="el"} = [g] |
+| [η μελιτζάνα]{lang="el"} | [i meliˈdzana] | [τζ]{lang="el"} = [dz] |
+| [το ματσάκι]{lang="el"} | [to maˈtsaci] | [τσ]{lang="el"} = [ts] |
+| [το αγγούρι]{lang="el"} | [to aŋˈguri] | [γγ]{lang="el"} = [ŋg] |
+
+Wer [ντομάτα]{lang="el"} als „n-tomata“ liest, wird trotzdem verstanden, aber sofort als
+Tourist erkannt. Die [ντ]{lang="el"} am Wortanfang ist ein reines [d], wie in *Dame*. Das
+griechische Wort kommt übrigens aus dem Nahuatl *tomatl*, über das Spanische und Italienische;
+in gehobener Schrift steht auch [τομάτα]{lang="el"}.
+<!-- CHECK: Herkunft ντομάτα (Nahuatl tomatl über span./ital. Vermittlung) und die Variante τομάτα als gehoben/schriftlich; LKN prüfen -->
+
+::: {.callout-tip}
+## Tipp
+
+[το αγγούρι]{lang="el"} ist eine Eselsbrücke mit Geschichte: Das deutsche Wort *Gurke* kommt
+über das Polnische (*ogórek*) aus dem mittelgriechischen [αγγούριον]{lang="el"}. Die Gurke im
+deutschen Kühlschrank spricht also, sehr entfernt, Griechisch.
+:::
+<!-- CHECK: Etymologie Gurke < westslaw. ogurek < mittelgriech. angúrion (Kluge/DWDS) -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η λαϊκή (αγορά)]{lang="el"} | [i laiˈci aɣoˈra] | der Wochenmarkt |
+| [ο πάγκος]{lang="el"} | [o ˈpagos] | der Marktstand; die Theke |
+| [η ντομάτα]{lang="el"} | [i doˈmata] | die Tomate |
+| [το αγγούρι]{lang="el"} | [to aŋˈguri] | die Gurke |
+| [το κολοκυθάκι]{lang="el"} | [to kolociˈθaci] | die Zucchini |
+| [η μελιτζάνα]{lang="el"} | [i meliˈdzana] | die Aubergine |
+| [το λεμόνι]{lang="el"} | [to leˈmoni] | die Zitrone |
+| [το κιλό]{lang="el"} | [to ciˈlo] | das Kilo |
+| [Πόσο κάνει; Πόσο κάνουν;]{lang="el"} | [ˈposo ˈkani], [ˈposo ˈkanun] | Was kostet das? Was kosten die? |
+| [δοκιμάζω, δοκίμασα]{lang="el"} | [ðociˈmazo], [ðoˈcimasa] | probieren; anprobieren |
+| [κόβω, έκοψα]{lang="el"} | [ˈkovo], [ˈekopsa] | schneiden; (Obst, Gemüse) ernten |
+| [Να ’σαι καλά!]{lang="el"} | [ˈnase kaˈla] | Danke dir! Mach's gut! (herzlich) |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [κρητικός, -ή, -ό]{lang="el"} | kretisch, aus Kreta |
+| [κυρία μου]{lang="el"} | meine Dame (Anrede, Kapitel 7) |
+| [η ζάχαρη]{lang="el"} | der Zucker; auf dem Markt: zuckersüß |
+| [Κοίτα χρώμα!]{lang="el"} | Schau dir die Farbe an! (umg.) |
+| [Βάλε μου …, Δώσε μου …]{lang="el"} | Gib mir … (Kapitel 8, 9) |
+| [γυαλιστερός, -ή, -ό]{lang="el"} | glänzend |
+| [Ορίστε.]{lang="el"} | Bitte sehr. (beim Überreichen) |
+| [όλα]{lang="el"} | alles |
+| [Οχτώ να ’ναι.]{lang="el"} | Sagen wir acht. (beim Abrunden) |
+| [Καλές δουλειές!]{lang="el"} | Gute Geschäfte! (Gruß an Händler) |
+| [οι μπάμιες]{lang="el"} | die Okraschoten |
+:::
+
+## Ein Nomen, drei Fragen: Genus, Plural, Betonung {#sec-markt-nomen}
+
+Zwei Kilo Tomaten, drei Gurken, vier Zitronen: Auf dem Markt ist fast alles Plural. Aus dem
+Dialog:
+
+| Singular | Plural | Deutsch |
+|---|---|---|
+| [η ντομάτα]{lang="el"} | [οι ντομάτες]{lang="el"} | die Tomate |
+| [το αγγούρι]{lang="el"} | [τα αγγούρια]{lang="el"} | die Gurke |
+| [το κιλό]{lang="el"} | [τα κιλά]{lang="el"} | das Kilo |
+| [το κολοκυθάκι]{lang="el"} | [τα κολοκυθάκια]{lang="el"} | die Zucchini |
+| [το λεμόνι]{lang="el"} | [τα λεμόνια]{lang="el"} | die Zitrone |
+
+Die gute Nachricht: Anders als im Deutschen, wo man bei *Gurke – Gurken*, *Kilo – Kilos*,
+*Zitrone – Zitronen*, *Apfel – Äpfel* jedes Mal einzeln lernt, verrät im Griechischen meist
+schon die **Endung im Nominativ Singular** das Genus, und das Genus zusammen mit der Endung den
+Plural. Man muss einem Nomen also drei Fragen stellen: Welches Genus? Welcher Plural? Wandert die
+Betonung? Für die häufigsten Klassen beantwortet die Endung alle drei.
+
+### Männlich: [-ος, -ας, -ης]{lang="el"} {#sec-markt-nomen-maskulin}
+
+| Singular | Plural | Deutsch |
+|---|---|---|
+| [ο πάγκος]{lang="el"} | [οι πάγκοι]{lang="el"} | der Stand |
+| [ο παραγωγός]{lang="el"} | [οι παραγωγοί]{lang="el"} | der Erzeuger |
+| [ο μήνας]{lang="el"} | [οι μήνες]{lang="el"} | der Monat |
+| [ο εργάτης]{lang="el"} | [οι εργάτες]{lang="el"} | der Arbeiter |
+
+Männliche Nomen auf [-ος]{lang="el"} bilden den Plural auf [-οι]{lang="el"}, die auf
+[-ας]{lang="el"} und [-ης]{lang="el"} auf [-ες]{lang="el"}. Im **Akkusativ Plural** gehen sie
+auseinander: [-ος]{lang="el"} wird zu [-ους]{lang="el"} ([Ψάχνω τους παραγωγούς.]{lang="el"}),
+bei den anderen ist der Akkusativ gleich dem Nominativ ([τους μήνες, τους εργάτες]{lang="el"}).
+
+Eine kleine Familie verlängert den Plural um eine Silbe mit [-δ-]{lang="el"}. Dazu gehören vor
+allem Wörter mit betonter Endung, dazu einige Berufe:
+
+| Singular | Plural | Deutsch |
+|---|---|---|
+| [ο ψαράς]{lang="el"} | [οι ψαράδες]{lang="el"} | der Fischhändler, Fischer |
+| [ο καφές]{lang="el"} | [οι καφέδες]{lang="el"} | der Kaffee |
+| [ο παππούς]{lang="el"} | [οι παππούδες]{lang="el"} | der Großvater |
+| [ο μανάβης]{lang="el"} | [οι μανάβηδες]{lang="el"} | der Gemüsehändler |
+
+Viele dieser Wörter kamen aus dem Türkischen oder sind Berufsbezeichnungen des Alltags:
+[ο μανάβης]{lang="el"} ist türkisch *manav*, der Gemüsehändler, und sein Laden heißt
+[το μανάβικο]{lang="el"}. Die Betonung bleibt auf ihrer Silbe: [ψα-**ρά**-δες]{lang="el"}.
+
+### Weiblich: [-α, -η]{lang="el"} {#sec-markt-nomen-feminin}
+
+| Singular | Plural | Deutsch |
+|---|---|---|
+| [η ντομάτα]{lang="el"} | [οι ντομάτες]{lang="el"} | die Tomate |
+| [η πιπεριά]{lang="el"} | [οι πιπεριές]{lang="el"} | die Paprika |
+| [η φωνή]{lang="el"} | [οι φωνές]{lang="el"} | die Stimme; der Ruf |
+| [η πόλη]{lang="el"} | [οι πόλεις]{lang="el"} | die Stadt |
+| [η γιαγιά]{lang="el"} | [οι γιαγιάδες]{lang="el"} | die Großmutter |
+
+Weibliche Nomen sind die bequemsten: Plural auf [-ες]{lang="el"}, und der Akkusativ Plural ist
+gleich dem Nominativ ([τις ντομάτες]{lang="el"}). Zwei Abweichungen:
+
+- **[-η]{lang="el"} teilt sich.** Die meisten Wörter nehmen [-ες]{lang="el"} ([η φωνή – οι
+  φωνές]{lang="el"}). Wörter auf **[-ση, -ξη, -ψη]{lang="el"}** und einige andere wie
+  [η πόλη]{lang="el"} nehmen [-εις]{lang="el"}: [η λέξη – οι λέξεις]{lang="el"} (das Wort),
+  [η πόλη – οι πόλεις]{lang="el"}. Das sind oft gelehrte Wörter; dazu mehr in
+  @sec-markt-internationalismen. Gesprochen klingt [-εις]{lang="el"} wie [-ις]: [ˈpolis].
+- **Endbetontes [-ά]{lang="el"}** kann, wie bei den Männern, eine [-δ-]{lang="el"}-Silbe
+  anhängen: [η γιαγιά – οι γιαγιάδες]{lang="el"}, [η μαμά – οι μαμάδες]{lang="el"}. Die
+  meisten Wörter auf betontes [-ιά]{lang="el"} tun es aber nicht: [οι πιπεριές]{lang="el"},
+  [οι ελιές]{lang="el"} (die Oliven).
+
+Und es gibt einige Feminina auf [-ος]{lang="el"}, darunter [η έξοδος]{lang="el"} aus Kapitel 1.
+Sie verdienen einen eigenen Auftritt (@sec-markt-internationalismen).
+
+### Sächlich: [-ο, -ι, -μα]{lang="el"} {#sec-markt-nomen-neutrum}
+
+| Singular | Plural | Deutsch |
+|---|---|---|
+| [το κιλό]{lang="el"} | [τα κιλά]{lang="el"} | das Kilo |
+| [το αγγούρι]{lang="el"} | [τα αγγούρια]{lang="el"} | die Gurke |
+| [το κλειδί]{lang="el"} | [τα κλειδιά]{lang="el"} | der Schlüssel |
+| [το πρόβλημα]{lang="el"} | [τα προβλήματα]{lang="el"} | das Problem |
+| [το λάθος]{lang="el"} | [τα λάθη]{lang="el"} | der Fehler |
+
+Sächliche Nomen haben im Plural immer [τα]{lang="el"} und unterscheiden nie Nominativ und
+Akkusativ. [-ο]{lang="el"} wird zu [-α]{lang="el"}, [-ι]{lang="el"} zu [-ια]{lang="el"},
+[-μα]{lang="el"} zu [-ματα]{lang="el"}. Die kleine Gruppe auf [-ος]{lang="el"} mit Plural
+[-η]{lang="el"} kennst du schon: [το τείχος – τα τείχη]{lang="el"} aus der Schliemann-Geschichte
+in Kapitel 2, und [το λάθος]{lang="el"} wirst du öfter brauchen, als dir lieb ist.
+
+Wörter aus anderen Sprachen, die auf einen Konsonanten oder einen ungewohnten Vokal enden,
+sind fast immer sächlich und **ändern sich überhaupt nicht**: [το ευρώ – τα ευρώ]{lang="el"},
+[το σούπερ μάρκετ, το ταξί, το μετρό]{lang="el"}. Das macht Preise einfach, dazu gleich mehr.
+
+::: {.callout-important}
+## Merke
+
+| Endung | Genus | Plural (Nom. = Akk.) |
+|---|---|---|
+| [-ος]{lang="el"} | männlich | [-οι]{lang="el"}, Akk. [-ους]{lang="el"} |
+| [-ας, -ης]{lang="el"} | männlich | [-ες]{lang="el"} |
+| [-άς, -ές, -ούς]{lang="el"} | männlich | [-άδες, -έδες, -ούδες]{lang="el"} |
+| [-α, -η]{lang="el"} | weiblich | [-ες]{lang="el"}; [-ση, -ξη, -ψη → -εις]{lang="el"} |
+| [-ο]{lang="el"} | sächlich | [-α]{lang="el"} |
+| [-ι]{lang="el"} | sächlich | [-ια]{lang="el"} |
+| [-μα]{lang="el"} | sächlich | [-ματα]{lang="el"} |
+
+Die Ausnahmen, die du kennen musst: weibliche Nomen auf [-ος]{lang="el"} ([η
+μέθοδος]{lang="el"}), sächliche auf [-ος]{lang="el"} ([το λάθος]{lang="el"}), und unveränderliche
+Fremdwörter ([το ευρώ]{lang="el"}). Lern jedes Nomen mit Artikel.
+:::
+
+### Wann die Betonung wandert {#sec-markt-nomen-betonung}
+
+Meist bleibt die Betonung im Plural, wo sie war: [ντο-**μά**-τα – ντο-**μά**-τες]{lang="el"}.
+Sie wandert nur, wenn sie sonst auf die viertletzte Silbe fiele, und die gibt es im Griechischen
+nicht (Kapitel 2):
+
+- [το **πρό**βλημα – τα προ**βλή**ματα]{lang="el"}: Die Endung [-ματα]{lang="el"} bringt eine
+  Silbe mit, also rückt der Ton nach.
+- [ο **άν**θρωπος – οι **άν**θρωποι]{lang="el"}, aber [τους αν**θρώ**πους]{lang="el"}: Hier
+  wandert er im Akkusativ Plural, obwohl die Silbenzahl gleich bleibt. Das [-ους]{lang="el"}
+  zieht ihn, ein Erbe des Altgriechischen. Bei [ο πάγκος]{lang="el"} passiert nichts, weil der
+  Ton ohnehin auf der vorletzten Silbe liegt.
+<!-- CHECK: τους ανθρώπους – Betonungswechsel im Akk. Pl. bei proparoxytonen Maskulina auf -ος (Nom. Pl. οι άνθρωποι bleibt). Ggf. Hinweis, dass die Begründung „Erbe des Altgriechischen“ vereinfacht ist. -->
+
+Und ein Ausspracheeffekt: Bei den Wörtern auf [-ι]{lang="el"} wird das [ι]{lang="el"} im Plural
+vor dem [α]{lang="el"} zum Gleitlaut, und der Konsonant davor wird weich:
+[τα αγγούρια]{lang="el"} [ta aŋˈgurʝa], [τα κρεμμύδια]{lang="el"} [ta kreˈmiðʝa],
+[τα λεμόνια]{lang="el"} [ta leˈmoɲa], wobei [ɲ] klingt wie span. *ñ* in *mañana*. Aus
+vier Silben werden drei: [le-mo-ɲa].
+
+<!-- EXERCISE: Genus und Plural häufiger Nomenklassen bilden (Marktwortschatz: ο ψαράς, η πιπεριά, η πόλη, το πρόβλημα, το λάθος, ο πάγκος im Akk. Pl. …), Formen bilden laut mit Artikel im Nom. und Akk. Plural, Betonung beachten; Schwierigkeit 2. Übung 6.1 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο μανάβης, οι μανάβηδες]{lang="el"} | [o maˈnavis], [i maˈnaviðes] | der Gemüsehändler |
+| [ο παραγωγός]{lang="el"} | [o paraɣoˈɣos] | der Erzeuger, Produzent |
+| [ο ψαράς, οι ψαράδες]{lang="el"} | [o psaˈras], [i psaˈraðes] | der Fischhändler; der Fischer |
+| [η πατάτα]{lang="el"} | [i paˈtata] | die Kartoffel |
+| [η πιπεριά]{lang="el"} | [i pipeˈrʝa] | die Paprika(schote) |
+| [η φωνή]{lang="el"} | [i foˈni] | die Stimme; der Ruf |
+| [η πόλη, οι πόλεις]{lang="el"} | [i ˈpoli], [i ˈpolis] | die Stadt |
+| [το κρεμμύδι]{lang="el"} | [to kreˈmiði] | die Zwiebel |
+| [τα φρούτα]{lang="el"} | [ta ˈfruta] | das Obst |
+| [τα λαχανικά]{lang="el"} | [ta laxaniˈka] | das Gemüse |
+| [το λάθος, τα λάθη]{lang="el"} | [to ˈlaθos], [ta ˈlaθi] | der Fehler, Irrtum |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [ο μήνας, οι μήνες]{lang="el"} | der Monat |
+| [το μανάβικο]{lang="el"} | der Gemüseladen |
+| [η λέξη, οι λέξεις]{lang="el"} | das Wort |
+| [η ελιά, οι ελιές]{lang="el"} | die Olive; der Olivenbaum |
+| [η μαμά, οι μαμάδες]{lang="el"} | die Mama |
+| [το κλειδί, τα κλειδιά]{lang="el"} | der Schlüssel |
+| [ο άνθρωπος, τους ανθρώπους]{lang="el"} | der Mensch |
+:::
+
+## Adjektive: [ώριμες ντομάτες, γλυκιά ντομάτα]{lang="el"} {#sec-markt-adjektive}
+
+Zurück zum Stand. Die Kundin fragt, ob die Tomaten reif sind, und bekommt eine zum Probieren:
+
+- [Είναι ώριμ**ες**;]{lang="el"} – die Tomaten (Plural, weiblich)
+- [Πολύ γλυκ**ιά**.]{lang="el"} – die eine probierte Tomate (Singular, weiblich)
+- [φρέσκ**α** κολοκυθάκια]{lang="el"} – Zucchini (Plural, sächlich)
+- [μια μελιτζάνα, μεγάλ**η**]{lang="el"} – (Singular, weiblich)
+
+Das griechische Adjektiv passt sich in Genus, Zahl und Fall an sein Nomen an, auch dort, wo das
+Deutsche es unverändert lässt: „Die Tomaten sind reif“, aber [Οι ντομάτες είναι
+ώριμες.]{lang="el"} Wer Spanisch oder Französisch spricht, kennt das: [*Los tomates están
+maduros*]{lang="es"}, [*les tomates sont mûres*]{lang="fr"}.
+
+Die Endungen sind die der Nomen, die du gerade gesehen hast: männlich wie [ο πάγκος]{lang="el"},
+weiblich wie [η φωνή]{lang="el"}, sächlich wie [το κιλό]{lang="el"}.
+
+| Singular | männlich | weiblich | sächlich |
+|---|---|---|---|
+| Nominativ | [καλ**ός**]{lang="el"} | [καλ**ή**]{lang="el"} | [καλ**ό**]{lang="el"} |
+| Akkusativ | [καλ**ό**]{lang="el"} | [καλ**ή**]{lang="el"} | [καλ**ό**]{lang="el"} |
+
+| Plural | männlich | weiblich | sächlich |
+|---|---|---|---|
+| Nominativ | [καλ**οί**]{lang="el"} | [καλ**ές**]{lang="el"} | [καλ**ά**]{lang="el"} |
+| Akkusativ | [καλ**ούς**]{lang="el"} | [καλ**ές**]{lang="el"} | [καλ**ά**]{lang="el"} |
+
+Beispiele vom Markt: [ένας καλός μανάβης]{lang="el"}, [μια κόκκινη ντομάτα]{lang="el"},
+[ένα μεγάλο καρπούζι]{lang="el"} (eine große Wassermelone); im Akkusativ Plural
+[Ψάχνω καλούς παραγωγούς.]{lang="el"}
+
+### Drei Formen für das Femininum {#sec-markt-adjektive-feminin}
+
+Männlich und sächlich sind immer gleich gebaut. Beim Femininum gibt es drei Varianten:
+
+| männlich | weiblich | sächlich | Muster |
+|---|---|---|---|
+| [ώριμος]{lang="el"} | [ώριμη]{lang="el"} | [ώριμο]{lang="el"} | die meisten: [-η]{lang="el"} |
+| [ωραίος]{lang="el"} | [ωραία]{lang="el"} | [ωραίο]{lang="el"} | nach Vokal: [-α]{lang="el"} |
+| [γλυκός]{lang="el"} | [γλυκιά]{lang="el"} | [γλυκό]{lang="el"} | einige wenige: [-ια]{lang="el"} |
+
+- **[-η]{lang="el"}** ist der Normalfall: [καλή, μεγάλη, κόκκινη, φτηνή]{lang="el"}.
+- **[-α]{lang="el"} nach Vokal:** [ωραία]{lang="el"}, [κρύα]{lang="el"} (aus Kapitel 1),
+  [νέα]{lang="el"} (neu, jung), [αρχαία]{lang="el"} (antik).
+- **[-ια]{lang="el"}** bei einer Handvoll Wörter, die du einzeln lernst: [γλυκιά]{lang="el"}
+  [ɣliˈca], [φρέσκια]{lang="el"} [ˈfresca]. Das [ι]{lang="el"} ist nicht zu hören, es macht nur
+  das [κ]{lang="el"} weich. Für [φρέσκια]{lang="el"} findest du auch [φρέσκη]{lang="el"}.
+<!-- CHECK: φρέσκος im LKN: -ια, -ο (mit Nebenform -η?); γλυκός -ιά -ό; Plural fem. γλυκές/φρέσκες (ohne ι) -->
+
+Im Plural verschwindet der Unterschied: Alle weiblichen Formen enden auf [-ες]{lang="el"},
+[ώριμες, ωραίες, γλυκές, φρέσκες]{lang="el"}. Das [ι]{lang="el"} aus [γλυκιά]{lang="el"}
+kommt nicht mit.
+
+### Das Adjektiv folgt dem Genus, nicht der Endung {#sec-markt-adjektive-genus}
+
+Das Adjektiv hat seine eigenen Endungen, egal wie das Nomen endet. Es fragt nur: männlich,
+weiblich oder sächlich?
+
+- [ο καλός μανάβης]{lang="el"}, [οι καλοί μανάβηδες]{lang="el"}
+- [η μεγάλη πόλη]{lang="el"}, [οι μεγάλες πόλεις]{lang="el"}
+- [το μεγάλο πρόβλημα]{lang="el"}, [τα μεγάλα προβλήματα]{lang="el"}
+
+Spanisch kennt das von *la mano derecha*: Hand auf *-o*, trotzdem weiblich, also *derecha*. Das
+Griechische hat davon mehr, und die Feminina auf [-ος]{lang="el"} sind der Härtefall:
+[η σωστή έξοδος]{lang="el"}, der richtige Ausgang, mit [-ή]{lang="el"} am Adjektiv und
+[-ος]{lang="el"} am Nomen.
+
+### Vor dem Nomen, nach dem Nomen, ohne Nomen {#sec-markt-adjektive-stellung}
+
+Das Adjektiv steht meist **vor** dem Nomen, und der Artikel steht vor beiden:
+[οι φρέσκες ντομάτες]{lang="el"}. Es kann auch hinterher kommen, dann mit eigenem Artikel und
+mit Nachdruck: [τη μελιτζάνα, τη γυαλιστερή]{lang="el"}, „die Aubergine, und zwar die
+glänzende“.
+
+Auf dem Markt fällt das Nomen oft ganz weg, weil jeder sieht, worum es geht. Dann bleibt der
+Artikel mit dem Adjektiv, wie im Spanischen und Französischen:
+
+- [Όχι, την άλλη. Τη γυαλιστερή.]{lang="el"} – *la brillante*
+- [Θέλεις τις κόκκινες ή τις πράσινες;]{lang="el"} – die roten oder die grünen (Paprika)?
+- [Δώσε μου από τα μικρά.]{lang="el"} – Gib mir von den kleinen.
+
+Im Deutschen geht das auch („die roten“), aber das Griechische macht es häufiger und ohne Scheu,
+schon weil die Endung verrät, welches Nomen gemeint ist.
+
+### Viel und wenig: [πολύς, λίγος]{lang="el"} {#sec-markt-adjektive-polys}
+
+[πολύς]{lang="el"} „viel“ ist das einzige wirklich unregelmäßige Adjektiv, das du jetzt schon
+brauchst:
+
+| | männlich | weiblich | sächlich |
+|---|---|---|---|
+| Singular | [πολύς]{lang="el"} | [πολλή]{lang="el"} | [πολύ]{lang="el"} |
+| Plural | [πολλοί]{lang="el"} | [πολλές]{lang="el"} | [πολλά]{lang="el"} |
+
+Akkusativ Singular männlich ist [πολύ]{lang="el"}, im Plural [πολλούς]{lang="el"}. Der Rest
+geht wie [καλός]{lang="el"}, mit doppeltem [λλ]{lang="el"}. [λίγος, λίγη, λίγο]{lang="el"}
+„wenig“ ist ganz regelmäßig.
+
+Die Falle liegt im Neutrum: [πολύ]{lang="el"} ist auch das Adverb „sehr“, und das ändert sich
+nie.
+
+- [πολλές ντομάτες]{lang="el"} – viele Tomaten
+- [πολύ φρέσκες ντομάτες]{lang="el"} – sehr frische Tomaten
+- [πολλές πολύ φρέσκες ντομάτες]{lang="el"} – viele sehr frische Tomaten
+
+Ebenso [λίγο]{lang="el"}: [λίγες ντομάτες]{lang="el"} „wenige Tomaten“, aber [λίγο
+ακριβές]{lang="el"} „ein bisschen teuer“. Auf dem Markt sagt man [λίγο]{lang="el"} sehr oft:
+[Λίγο μαϊντανό;]{lang="el"}, „ein bisschen Petersilie?“, fragt der Händler und legt einen Bund
+gratis dazu.
+
+::: {.callout-tip}
+## Tipp
+
+Farbwörter aus dem Französischen und Italienischen bleiben unverändert, wie die Fremdwörter bei
+den Nomen: [μπλε, ροζ, μωβ, γκρι, μπεζ]{lang="el"}, und [καφέ]{lang="el"} „braun“ (wie Kaffee).
+[μια μωβ μελιτζάνα, δύο μπλε καρότσια]{lang="el"}. Die Endung musst du nur bei einheimischen
+Farben anpassen: [κόκκινος, πράσινος, άσπρος, μαύρος]{lang="el"} (rot, grün, weiß, schwarz).
+:::
+
+<!-- EXERCISE: Adjektive an Nomen anpassen (Genus, Numerus, Nom./Akk.; Typen -η/-α/-ια; Adjektiv bei Nomen mit abweichender Endung wie μανάβης, πόλη, πρόβλημα; πολύς vs. πολύ), Formen bilden bzw. Auswahl mit nummerierten Optionen; Schwierigkeit 2. Übung 6.2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ώριμος, -η, -ο]{lang="el"} | [ˈorimos] | reif |
+| [γλυκός, -ιά, -ό]{lang="el"} | [ɣliˈkos], [ɣliˈca] | süß |
+| [φρέσκος, -ια, -ο]{lang="el"} | [ˈfreskos], [ˈfresca] | frisch |
+| [ακριβός, -ή, -ό]{lang="el"} | [akriˈvos] | teuer |
+| [φτηνός, -ή, -ό]{lang="el"} | [ftiˈnos] | billig, preiswert |
+| [κόκκινος, -η, -ο]{lang="el"} | [ˈkocinos] | rot |
+| [πράσινος, -η, -ο]{lang="el"} | [ˈprasinos] | grün |
+| [ωραίος, -α, -ο]{lang="el"} | [oˈreos] | schön |
+| [πολύς, πολλή, πολύ]{lang="el"} | [poˈlis], [poˈli] | viel; Pl. viele; [πολύ]{lang="el"} auch: sehr |
+| [λίγος, -η, -ο]{lang="el"} | [ˈliɣos] | wenig; [λίγο]{lang="el"} auch: ein bisschen |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [σωστός, -ή, -ό]{lang="el"} | richtig |
+| [νέος, -α, -ο]{lang="el"} | neu; jung |
+| [αρχαίος, -α, -ο]{lang="el"} | antik, alt |
+| [το καρπούζι]{lang="el"} | die Wassermelone |
+| [ο μαϊντανός]{lang="el"} | die Petersilie |
+| [άσπρος, μαύρος]{lang="el"} | weiß, schwarz |
+| [μπλε, ροζ, μωβ, γκρι, μπεζ, καφέ]{lang="el"} | blau, rosa, lila, grau, beige, braun (unveränderlich) |
+:::
+
+## [σε]{lang="el"} + Artikel: am dritten Stand links {#sec-markt-se}
+
+Wer zum ersten Mal auf eine fremde Laiki geht, bekommt von der Nachbarin eine Wegbeschreibung.
+Eine Sprachnachricht, abgetippt:
+
+::: {lang="el"}
+Η λαϊκή είναι κάθε Σάββατο στην Καλλιδρομίου. Πάρε το καρότσι μου, είναι στο μπαλκόνι.
+Ντομάτες στον κυρ Στέλιο: τρίτος πάγκος από την αρχή, δίπλα στον ψαρά. Αυγά στη γωνία,
+απέναντι από το περίπτερο: μια κυρία από τα Μέγαρα. Τα χόρτα είναι στους παραγωγούς, στο
+τέλος. Και μην πας στις δέκα, πήγαινε στις οχτώ. Στις δέκα έχει πολύ κόσμο.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+Der Markt ist jeden Samstag in der Kallidromiou-Straße. Nimm meinen Einkaufswagen, er steht auf
+dem Balkon. Tomaten bei Herrn Stelios: dritter Stand vom Anfang, neben dem Fischhändler. Eier an
+der Ecke, gegenüber vom Kiosk: eine Frau aus Megara. Das Blattgemüse gibt es bei den
+Erzeugern, am Ende. Und geh nicht um zehn, geh um acht. Um zehn ist es sehr voll.
+:::
+
+<!-- CHECK: Laiki in der Kallidromiou (Exarchia) am Samstag – aktuell noch so? -->
+
+Sechs Formen von [σε]{lang="el"} stecken darin. Das [ε]{lang="el"} fällt weg, der Artikel
+hängt sich an:
+
+| Artikel | [σε]{lang="el"} + Artikel | Beispiel |
+|---|---|---|
+| [τον]{lang="el"} | [στον]{lang="el"} | [στον ψαρά]{lang="el"} |
+| [τη(ν)]{lang="el"} | [στη(ν)]{lang="el"} | [στη γωνία, στην Καλλιδρομίου]{lang="el"} |
+| [το]{lang="el"} | [στο]{lang="el"} | [στο μπαλκόνι]{lang="el"} |
+| [τους]{lang="el"} | [στους]{lang="el"} | [στους παραγωγούς]{lang="el"} |
+| [τις]{lang="el"} | [στις]{lang="el"} | [στις οχτώ]{lang="el"} |
+| [τα]{lang="el"} | [στα]{lang="el"} | [στα Μέγαρα]{lang="el"} |
+
+Die Regel ist kurz: **[σε]{lang="el"} + bestimmter Artikel wird immer zusammengezogen.**
+\*[σε το]{lang="el"} oder \*[σε τη]{lang="el"} sagt niemand. Und weil nach [σε]{lang="el"}
+der Akkusativ steht, gibt es kein \*[στο]{lang="el"} für männliche Nomen:
+[στον πάγκο]{lang="el"}, nie \*[στο πάγκο]{lang="el"}. Das [ν]{lang="el"} von [στον]{lang="el"}
+ist also wichtig: Es unterscheidet „beim Stand“ von „beim Kilo“. Bei [στη(ν)]{lang="el"} gilt
+die Schluss-ν-Regel aus Kapitel 1: [στην Αθήνα, στην πλατεία]{lang="el"}, aber [στη γωνία, στη
+λαϊκή]{lang="el"}.
+
+### Wo, wohin, wann {#sec-markt-se-bedeutung}
+
+Französisch hat mit *au, à la, aux* fast dasselbe System, auch mit derselben Faulheit: Ein Wort
+für „wo“ und „wohin“.
+
+- [Είμαι στη λαϊκή.]{lang="el"} – *Je suis au marché.* – Ich bin auf dem Markt.
+- [Πάω στη λαϊκή.]{lang="el"} – *Je vais au marché.* – Ich gehe auf den Markt.
+- [στις οχτώ]{lang="el"} – *à huit heures* – um acht (weiblich, weil [η ώρα]{lang="el"}
+  mitgedacht ist)
+
+Das Deutsche unterscheidet hier mit Dativ und Akkusativ („auf dem Markt“ gegen „auf den
+Markt“), Spanisch mit *en* und *a*. Das Griechische überlässt das dem Verb. Bei Personen heißt
+[σε]{lang="el"} „bei“ wie französisch *chez*: [Ντομάτες στον κυρ Στέλιο]{lang="el"}, Tomaten bei
+Herrn Stelios.
+
+Ohne bestimmten Artikel bleibt [σε]{lang="el"} stehen, im Gespräch oft mit Apostroph:
+[σε έναν πάγκο]{lang="el"}, gesprochen [σ’ έναν πάγκο]{lang="el"} [ˈsenan ˈpago].
+
+### Neben, gegenüber, drin, drauf {#sec-markt-se-ortsangaben}
+
+Viele Ortsangaben bestehen aus einem Adverb und [σε]{lang="el"} oder [από]{lang="el"}. Welches,
+musst du mitlernen:
+
+| mit [σε]{lang="el"} | mit [από]{lang="el"} |
+|---|---|
+| [δίπλα στον ψαρά]{lang="el"} neben dem Fischhändler | [απέναντι από το περίπτερο]{lang="el"} gegenüber vom Kiosk |
+| [μέσα στη σακούλα]{lang="el"} in der Tüte | [πίσω από τον πάγκο]{lang="el"} hinter dem Stand |
+| [πάνω στον πάγκο]{lang="el"} auf dem Stand | [μακριά από την πόλη]{lang="el"} weit weg von der Stadt |
+
+[από]{lang="el"} verschmilzt nicht, verliert im Gespräch aber gern sein [ο]{lang="el"}:
+[απ’ το περίπτερο]{lang="el"}. [μέσα]{lang="el"} und [πάνω]{lang="el"} nehmen im Alltag oft
+[σε]{lang="el"}; wer [μέσα στο]{lang="el"} sagt, ist nie falsch.
+
+::: {.callout-warning}
+## Achtung
+
+Nach „neben, in, auf“ denkt man auf Deutsch an den Dativ und greift gern zum nackten Artikel:
+\*[δίπλα ο ψαράς]{lang="el"}, \*[δίπλα τον ψαρά]{lang="el"}. Beides fehlt das Bindeglied. Es
+heißt [δίπλα στον ψαρά]{lang="el"}: Adverb, [σε]{lang="el"}, Akkusativ. Im Gespräch hörst du
+auch [δίπλα από τον ψαρά]{lang="el"}; mit [σε]{lang="el"} liegst du immer richtig.
+:::
+
+<!-- EXERCISE: σε mit Artikel zusammenziehen (στον/στη(ν)/στο/στους/στις/στα, Schluss-ν, δίπλα σε/απέναντι από) in einer Wegbeschreibung auf dem Markt, Lückentext als Auswahl mit nummerierten Optionen bzw. mündlich übersetzen; Schwierigkeit 1. Übung 6.3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [δίπλα σε]{lang="el"} | [ˈðipla se] | neben |
+| [απέναντι από]{lang="el"} | [aˈpenadi aˈpo] | gegenüber (von) |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [κάθε]{lang="el"} | jeder, jede, jedes (unveränderlich) |
+| [Πάρε …, Πήγαινε …]{lang="el"} | Nimm …, Geh … (Kapitel 9) |
+| [το καρότσι]{lang="el"} | der Einkaufstrolley; der Wagen |
+| [κυρ Στέλιος]{lang="el"} | Herr Stelios (umg., vertraut-respektvoll) |
+| [η αρχή]{lang="el"} | der Anfang |
+| [το αυγό]{lang="el"} | das Ei |
+| [το περίπτερο]{lang="el"} | der Kiosk |
+| [τα Μέγαρα]{lang="el"} | Megara (Stadt westlich von Athen; Plural!) |
+| [τα χόρτα]{lang="el"} | Wildgemüse, Blattgemüse (gekocht als Salat) |
+| [έχει πολύ κόσμο]{lang="el"} | es ist sehr voll |
+| [μέσα σε, πάνω σε]{lang="el"} | in, drinnen; auf |
+| [η σακούλα]{lang="el"} | die Tüte |
+| [μακριά από]{lang="el"} | weit weg von |
+:::
+
+## Zahlen und Preise {#sec-markt-zahlen}
+
+Die Preise stehen auf Pappschildern, mit Filzstift in Großbuchstaben geschrieben, also ohne
+Akzent (Kapitel 1). Ein Gang an den Ständen entlang:
+
+::: {lang="el" .no-audio}
+ΝΤΟΜΑΤΕΣ ΚΡΗΤΙΚΕΣ 2,00 € ΤΟ ΚΙΛΟ
+
+ΑΓΓΟΥΡΙΑ 3 ΤΕΜ. 1,50 €
+
+ΠΙΠΕΡΙΕΣ 4 ΤΕΜ. 1,00 €
+
+ΠΑΤΑΤΕΣ ΝΑΞΟΥ 3 ΚΙΛΑ 2,50 €
+
+ΚΑΡΠΟΥΖΙ 0,60 € ΤΟ ΚΙΛΟ
+
+ΑΝΗΘΟΣ 0,50 € ΤΟ ΜΑΤΣΑΚΙ
+:::
+
+[ΤΕΜ.]{lang="el"} steht für [τεμάχια]{lang="el"}, „Stück“. [ΝΑΞΟΥ]{lang="el"} heißt „aus
+Naxos“ (ein Genitiv, Kapitel 7); die Kartoffeln von dort sind in ganz Griechenland berühmt. Laut
+gelesen, wie der Händler es sagt:
+
+| Schild | gesprochen |
+|---|---|
+| [ΑΓΓΟΥΡΙΑ 3 ΤΕΜ. 1,50 €]{lang="el"} | [τρία αγγούρια ενάμισι ευρώ]{lang="el"} |
+| [ΠΙΠΕΡΙΕΣ 4 ΤΕΜ. 1,00 €]{lang="el"} | [τέσσερις πιπεριές ένα ευρώ]{lang="el"} |
+| [ΠΑΤΑΤΕΣ 3 ΚΙΛΑ 2,50 €]{lang="el"} | [τρία κιλά πατάτες δυόμισι ευρώ]{lang="el"} |
+| [ΚΑΡΠΟΥΖΙ 0,60 €]{lang="el"} | [εξήντα λεπτά το κιλό]{lang="el"} |
+
+Drei Gurken sind [τρία]{lang="el"}, drei Kilo auch, vier Paprika aber [τέσσερις]{lang="el"}.
+Die Zahl richtet sich nach dem Genus.
+
+### Eins, drei, vier: Zahlen mit Genus {#sec-markt-zahlen-genus}
+
+Nur drei Zahlen unter hundert haben verschiedene Formen:
+
+| | männlich | weiblich | sächlich |
+|---|---|---|---|
+| 1 | [ένας]{lang="el"}, Akk. [έναν]{lang="el"} | [μία, μια]{lang="el"} | [ένα]{lang="el"} |
+| 3 | [τρεις]{lang="el"} | [τρεις]{lang="el"} | [τρία]{lang="el"} |
+| 4 | [τέσσερις]{lang="el"} | [τέσσερις]{lang="el"} | [τέσσερα]{lang="el"} |
+
+Die „Eins“ ist der unbestimmte Artikel aus Kapitel 1. Bei drei und vier gehen männlich und
+weiblich zusammen, nur das Neutrum ist anders, und im Akkusativ ändert sich nichts:
+
+- [τρεις πάγκοι, τρεις ντομάτες]{lang="el"}, aber [τρία αγγούρια, τρία κιλά]{lang="el"}
+- [τέσσερις παραγωγοί, τέσσερις πιπεριές]{lang="el"}, aber [τέσσερα λεμόνια]{lang="el"}
+
+Alle anderen Zahlen bis hundert ändern sich nicht: [δύο ντομάτες, δύο αγγούρια]{lang="el"},
+[πέντε πάγκοι]{lang="el"}. Zusammengesetzte Zahlen richten sich nach ihrer letzten Stelle:
+[δεκατρείς ντομάτες]{lang="el"} [ðekaˈtris], aber [δεκατρία κιλά]{lang="el"} [ðekaˈtria];
+[είκοσι μία μέρες]{lang="el"}, aber [είκοσι ένα ευρώ]{lang="el"}; [τριάντα τέσσερις
+πατάτες]{lang="el"}.
+
+Ab zweihundert passen sich auch die Hunderter an, wie ein Adjektiv auf [-οι, -ες, -α]{lang="el"}:
+[διακόσιοι άνθρωποι]{lang="el"}, [διακόσιες σελίδες]{lang="el"} (aus der kurzen Nacht in
+Kapitel 2), [διακόσια γραμμάρια]{lang="el"}. [εκατό]{lang="el"} bleibt unverändert und wird vor
+weiteren Zahlen zu [εκατόν]{lang="el"}: [εκατόν πενήντα γραμμάρια]{lang="el"}.
+
+::: {.callout-important}
+## Merke
+
+**Eins, drei und vier** passen sich an: [ένας/μία/ένα]{lang="el"}, [τρεις/τρία]{lang="el"},
+[τέσσερις/τέσσερα]{lang="el"}, auch in 13, 14, 21, 23, 24, 31 … **Preise** sind
+immer sächlich, weil [το ευρώ]{lang="el"} und [το λεπτό]{lang="el"} sächlich sind:
+[τρία ευρώ]{lang="el"}. **Uhrzeiten** sind immer weiblich, weil [η ώρα]{lang="el"} dahinter
+steht: [στις τρεις]{lang="el"}.
+
+Ein Satz für alles: [Στις τρεις όλα κάνουν τρία ευρώ.]{lang="el"} Um drei kostet alles drei
+Euro.
+:::
+
+::: {.callout-warning}
+## Achtung
+
+\*[τρεις ευρώ]{lang="el"} ist der häufigste Fehler, weil [τρεις]{lang="el"} von den Uhrzeiten und
+den Tomaten her im Ohr hängt. Dabei ist die Zählform, [ένα, δύο, τρία, τέσσερα]{lang="el"},
+die sächliche, und genau die braucht der Euro. Umgekehrt ist \*[στις τρία]{lang="el"} für „um
+drei“ ebenso falsch.
+:::
+
+::: {.callout-note collapse="true"}
+## Exkurs: Die Zahlen zum Nachschlagen
+
+| | Einer | Zehner |
+|---|---|---|
+| 1 / 10 | [ένα]{lang="el"} | [δέκα]{lang="el"} |
+| 2 / 20 | [δύο, δυο]{lang="el"} | [είκοσι]{lang="el"} |
+| 3 / 30 | [τρία]{lang="el"} | [τριάντα]{lang="el"} |
+| 4 / 40 | [τέσσερα]{lang="el"} | [σαράντα]{lang="el"} |
+| 5 / 50 | [πέντε]{lang="el"} | [πενήντα]{lang="el"} |
+| 6 / 60 | [έξι]{lang="el"} | [εξήντα]{lang="el"} |
+| 7 / 70 | [επτά, εφτά]{lang="el"} | [εβδομήντα]{lang="el"} |
+| 8 / 80 | [οκτώ, οχτώ]{lang="el"} | [ογδόντα]{lang="el"} |
+| 9 / 90 | [εννέα, εννιά]{lang="el"} | [ενενήντα]{lang="el"} |
+
+Dazu [έντεκα, δώδεκα]{lang="el"} (11, 12), dann [δεκατρία, δεκατέσσερα, δεκαπέντε]{lang="el"}
+… und [εκατό]{lang="el"} (100), [χίλια]{lang="el"} (1000, auch [χίλιοι, χίλιες]{lang="el"}).
+Von [επτά/εφτά, οκτώ/οχτώ, εννέα/εννιά]{lang="el"} ist jeweils die erste Form etwas
+förmlicher, die zweite im Gespräch häufiger; falsch ist keine.
+:::
+
+### Preise sagen {#sec-markt-preise}
+
+Euro und Cent werden einfach mit [και]{lang="el"} verbunden, das Wort „Euro“ fällt meistens weg:
+
+| Preis | gesprochen |
+|---|---|
+| 2,50 € | [δύο και πενήντα]{lang="el"}, [δυόμισι]{lang="el"} |
+| 1,50 € | [ένα και πενήντα]{lang="el"}, [ενάμισι]{lang="el"} |
+| 1,80 € | [ένα κι ογδόντα]{lang="el"} |
+| 3,20 € | [τρία κι είκοσι]{lang="el"} |
+| 0,60 € | [εξήντα λεπτά]{lang="el"} |
+
+Vor Vokal wird [και]{lang="el"} zu [κι]{lang="el"} [c]: [ένα κι ογδόντα]{lang="el"}
+[ˈena c oɣˈðoda]. Das [λεπτό]{lang="el"} ist eigentlich „das Dünne, Kleine“ und heißt auch
+„Minute“: [πέντε λεπτά]{lang="el"} sind fünf Cent oder fünf Minuten, je nachdem, ob man am
+Stand oder an der Bushaltestelle steht.
+
+**Die Hälfte** hat eigene Wörter. [μισός, -ή, -ό]{lang="el"} ist „halb“: [μισό
+κιλό]{lang="el"}, [μισή ώρα]{lang="el"}. Für „anderthalb“ gibt es drei Formen, wieder nach
+Genus: [ενάμισης μήνας]{lang="el"}, [μιάμιση ώρα]{lang="el"}, [ενάμισι κιλό]{lang="el"}.
+Ab zwei hängt man [-μισι]{lang="el"} an: [δυόμισι]{lang="el"} (2,5) für alle Genera; bei drei
+und vier kehrt der Unterschied zurück: [τριάμισι κιλά]{lang="el"}, aber [τρεισήμισι
+ώρες]{lang="el"}.
+<!-- CHECK: τριάμισι (n.) / τρεισήμισι (m./f.), τεσσεράμισι / τεσσερισήμισι – Schreibung nach LKN -->
+
+**Mengen** stehen ohne „von“ vor dem Nomen, genau wie im Deutschen: [ένα κιλό
+ντομάτες]{lang="el"}, ein Kilo Tomaten, [μισό κιλό φέτα]{lang="el"}, [ένα ματσάκι
+άνηθο]{lang="el"}. Spanisch und Französisch brauchen hier *de*; das Griechische nicht. Zählbares
+steht nach der Menge im Plural ([ένα κιλό πατάτες]{lang="el"}), Unzählbares im Singular
+([διακόσια γραμμάρια φέτα]{lang="el"}). Ist das Ganze Objekt, steht auch das Nomen im
+Akkusativ: [Θέλω ένα ματσάκι άνηθο]{lang="el"}, von [ο άνηθος]{lang="el"}.
+
+**Der Preis pro Einheit** steht mit bestimmtem Artikel, ganz wie im Französischen:
+
+- [δύο ευρώ το κιλό]{lang="el"} – *deux euros le kilo*
+- [ένα ευρώ το ένα]{lang="el"} – ein Euro das Stück
+- [πενήντα λεπτά το ματσάκι]{lang="el"} – fünfzig Cent der Bund
+- [τρία ευρώ τα δύο κιλά]{lang="el"} – drei Euro für zwei Kilo
+
+Und zum Schluss das Geld: [Ορίστε, δέκα ευρώ.]{lang="el"} – [Και τα ρέστα σας, ενάμισι
+ευρώ.]{lang="el"} (Und Ihr Wechselgeld, eins fünfzig.)
+
+<!-- EXERCISE: Mengen und Preise mit Zahlen angeben, Genuskongruenz bei 1, 3, 4 (τρεις/τρία, τέσσερις/τέσσερα, ένας/μία/ένα, auch 13/21/23; Preise sächlich, Uhrzeit weiblich; ενάμισι/μιάμιση, δυόμισι): eine Einkaufsliste bzw. Preisschilder laut vorlesen und mündlich übersetzen; Schwierigkeit 2. Übung 6.4 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [τρεις, τρία]{lang="el"} | [tris], [ˈtria] | drei (m./f.; n.) |
+| [τέσσερις, τέσσερα]{lang="el"} | [ˈteseris], [ˈtesera] | vier (m./f.; n.) |
+| [το ευρώ, τα ευρώ]{lang="el"} | [to evˈro] | der Euro |
+| [το λεπτό]{lang="el"} | [to lepˈto] | der Cent; die Minute |
+| [μισός, -ή, -ό]{lang="el"} | [miˈsos] | halb |
+| [ενάμισης, μιάμιση, ενάμισι]{lang="el"} | [eˈnamisis], [ˈmʝamisi], [eˈnamisi] | anderthalb |
+| [δυόμισι]{lang="el"} | [ðʝoˈmisi] | zweieinhalb |
+| [διακόσιοι, -ες, -α]{lang="el"} | [ðʝaˈkosçi] | zweihundert |
+| [το γραμμάριο]{lang="el"} | [to ɣraˈmario] | das Gramm |
+| [το ματσάκι]{lang="el"} | [to maˈtsaci] | der Bund (Kräuter, Gemüse) |
+| [τα ρέστα]{lang="el"} | [ta ˈresta] | das Wechselgeld |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [το τεμάχιο, ΤΕΜ.]{lang="el"} | das Stück (auf Preisschildern) |
+| [ο άνηθος]{lang="el"} | der Dill |
+| [η φέτα]{lang="el"} | der Feta; die Scheibe |
+| [η ώρα]{lang="el"} | die Stunde; die Uhrzeit |
+| [εκατό, εκατόν]{lang="el"} | hundert |
+| [χίλιοι, -ες, -α]{lang="el"} | tausend |
+:::
+
+## Das Problem mit der Tomate: Internationalismen {#sec-markt-internationalismen}
+
+Eine Glosse aus einer Athener Stadtzeitschrift, wie sie jeden Winter irgendwo erscheint:
+
+::: {lang="el"}
+**Το πρόβλημα με την ντομάτα**
+
+Κάθε χειμώνα το ίδιο θέμα. Αγοράζω ντομάτες στο σούπερ μάρκετ. Είναι μεγάλες, κόκκινες,
+ωραίες, και δεν έχουν καμία γεύση. Φταίει η κρίση; Φταίει το σύστημα; Φταίει το κλίμα;
+
+Η ανάλυσή μου είναι απλή: η ντομάτα θέλει ήλιο. Τον Ιανουάριο έρχεται από ένα θερμοκήπιο ή από
+πολύ μακριά. Είναι ώριμη στο ράφι, όχι στο φυτό.
+
+Γι’ αυτό έχω τη δική μου μέθοδο. Από τον Νοέμβριο μέχρι τον Μάιο δεν αγοράζω ντομάτες. Τρώω
+λάχανο, καρότα, πορτοκάλια. Τον Ιούλιο πάω στη λαϊκή και παίρνω τρία κιλά κρητικές. Τις τρώω
+σαν μήλα.
+
+Η γιαγιά μου έχει μια παροιμία γι’ αυτό: «Κάθε πράγμα στον καιρό του κι ο κολιός τον
+Αύγουστο.»
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Das Problem mit der Tomate**
+
+Jeden Winter dasselbe Thema. Ich kaufe Tomaten im Supermarkt. Sie sind groß, rot, schön, und sie
+schmecken nach nichts. Ist die Krise schuld? Das System? Das Klima?
+
+Meine Analyse ist einfach: Die Tomate braucht Sonne. Im Januar kommt sie aus einem Gewächshaus
+oder von sehr weit her. Sie wird im Regal reif, nicht an der Pflanze.
+
+Deshalb habe ich meine eigene Methode. Von November bis Mai kaufe ich keine Tomaten. Ich esse
+Kohl, Karotten, Orangen. Im Juli gehe ich auf den Markt und nehme drei Kilo kretische. Die esse
+ich wie Äpfel.
+
+Meine Großmutter hat ein Sprichwort dafür: „Alles zu seiner Zeit, und die Makrele im August.“
+:::
+
+<!-- CHECK: Sprichwort «Κάθε πράγμα στον καιρό του κι ο κολιός τον Αύγουστο» – Wortlaut; κολιός = Mittelmeer-Makrele (Scomber colias) -->
+
+Die Hälfte der Glosse verstehst du ohne Wörterbuch: [το πρόβλημα, το θέμα, η κρίση, το
+σύστημα, το κλίμα, η ανάλυση, η μέθοδος]{lang="el"}. Diese Wörter sind aus dem Griechischen in
+alle europäischen Sprachen gewandert und kommen jetzt als **Internationalismen** zurück. Die
+Frage ist nur: Welches Genus? Die Endung sagt es, und zwar erstaunlich zuverlässig.
+
+**[-μα]{lang="el"} ist sächlich**, Plural [-ματα]{lang="el"} mit wandernder Betonung:
+[το πρόβλημα, το θέμα, το σύστημα, το πρόγραμμα, το κλίμα, το δράμα, το άρωμα]{lang="el"}. Das
+Deutsche ist hier ein guter Ratgeber: *das Problem, das Thema, das System, das Klima, das
+Drama, das Aroma*, alle sächlich. Spanisch und Französisch führen in die Irre: [*el problema,
+el sistema, el tema*]{lang="es"}, [*le problème, le système*]{lang="fr"} sind männlich.
+
+**[-ση, -ξη, -ψη]{lang="el"} ist weiblich**, Plural [-εις]{lang="el"}: [η ανάλυση, η κρίση, η
+σύνθεση, η διάγνωση]{lang="el"}. Auch hier stimmt das Deutsche: *die Analyse, die Krise, die
+Synthese, die Diagnose*. Spanisch ist
+gespalten, [*la crisis*]{lang="es"}, aber [*el análisis*]{lang="es"}.
+
+**[-ία]{lang="el"} ist weiblich** ([η δημοκρατία, η οικονομία, η φιλοσοφία]{lang="el"}), wie
+*die Demokratie*. **[-ισμός]{lang="el"} ist männlich** ([ο τουρισμός, ο ρεαλισμός, ο
+οργανισμός]{lang="el"}), wie *der Tourismus, der Realismus, der Organismus*. Bis hierhin ist
+Deutsch ein treuer Begleiter.
+
+### Die Falle: weibliche Wörter auf [-ος]{lang="el"} {#sec-markt-internationalismen-os}
+
+Dann kommt [η μέθοδος]{lang="el"}. Ein Wort auf [-ος]{lang="el"} sieht männlich aus und dekliniert
+auch so, hat aber den weiblichen Artikel. Davon gibt es eine kleine, aber lästige Gruppe, fast
+alles gelehrte Wörter:
+
+| Griechisch | Deutsch | Genus im Deutschen |
+|---|---|---|
+| [η μέθοδος]{lang="el"} | die Methode | gleich |
+| [η περίοδος]{lang="el"} | die Periode, der Zeitraum | gleich |
+| [η έξοδος, η είσοδος]{lang="el"} | der Ausgang, der Eingang | anders |
+| [η παράγραφος]{lang="el"} | der Absatz, Paragraph | anders |
+| [η διάλεκτος]{lang="el"} | der Dialekt | anders |
+| [η διάμετρος]{lang="el"} | der Durchmesser | anders |
+
+Die Wörter der ersten drei Zeilen enthalten [η οδός]{lang="el"}, „der Weg“ (Kapitel 1), und die war schon im
+Altgriechischen weiblich. Wer „Methode“ als „Weg, dem man nachgeht“ ([μετά + οδός]{lang="el"})
+im Kopf hat, hat die Hälfte der Gruppe.
+<!-- CHECK: Etymologie μέθοδος < μετά + ὁδός; περίοδος < περί + ὁδός -->
+
+Solche Wörter deklinieren wie [ο πάγκος]{lang="el"}, aber mit weiblichem Artikel und
+**weiblichem Adjektiv**:
+
+- [η μέθοδος – τη μέθοδο – οι μέθοδοι – τις μεθόδους]{lang="el"}
+- [η δική μου μέθοδος]{lang="el"}, [μια καλή μέθοδος]{lang="el"}, [η σωστή
+  έξοδος]{lang="el"}, [μια παλιά διάλεκτος]{lang="el"}
+
+Das Adjektiv sieht dann „falsch“ aus, [καλή μέθοδος]{lang="el"}, und genau das ist richtig.
+
+### Fremdwörter von heute {#sec-markt-internationalismen-fremd}
+
+Neuere Lehnwörter aus dem Englischen, Französischen und Italienischen, die nicht auf eine
+griechische Endung passen, werden **sächlich und unveränderlich**: [το σούπερ μάρκετ, το
+κομπιούτερ, το ταξί, το μετρό, το ασανσέρ, το ρεστοράν]{lang="el"}. Im Plural ändert sich nur
+der Artikel: [τα σούπερ μάρκετ]{lang="el"}.
+
+Wörter, die zufällig auf eine griechische Endung passen, werden eingemeindet und dekliniert:
+[η πίτσα – οι πίτσες]{lang="el"}, [η μπίρα – οι μπίρες]{lang="el"}. Und manches sehr Alte kam
+auf Umwegen: [η πατάτα]{lang="el"} ist spanisch *patata*, [η μελιτζάνα]{lang="el"} italienisch
+*melanzana*, und das wiederum aus dem Arabischen.
+
+::: {.callout-note collapse="true"}
+## Exkurs: Der doppelte Akzent, noch einmal
+
+In der Glosse steht [η ανάλυσή μου]{lang="el"}, mit zwei Akzenten. Das ist dieselbe Regel wie bei
+[το μήνυμά μου]{lang="el"} aus Kapitel 2: Mit [μου]{lang="el"} läge die Betonung auf der
+viertletzten Silbe, also bekommt das Wort einen zweiten Akzent. Bei Internationalismen, die
+gern auf der drittletzten Silbe betont werden, passiert das ständig: [το πρόβλημά μου, η
+μέθοδός μου]{lang="el"}.
+:::
+
+<!-- EXERCISE: Internationalismen und ihr Genus (το πρόβλημα, η μέθοδος, η ανάλυση, ο τουρισμός, το σούπερ μάρκετ …): Genus aus der Endung bestimmen und mit passendem Adjektiv/Artikel laut sagen, Auswahl mit nummerierten Optionen; Vergleich mit deutschem/spanischem Genus; Schwierigkeit 2. Übung 6.5 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το πρόβλημα, τα προβλήματα]{lang="el"} | [to ˈprovlima], [ta provˈlimata] | das Problem |
+| [το θέμα]{lang="el"} | [to ˈθema] | das Thema; die Sache |
+| [το σύστημα]{lang="el"} | [to ˈsistima] | das System |
+| [η μέθοδος, οι μέθοδοι]{lang="el"} | [i ˈmeθoðos], [i ˈmeθoði] | die Methode |
+| [η ανάλυση, οι αναλύσεις]{lang="el"} | [i aˈnalisi], [i anaˈlisis] | die Analyse |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [ο χειμώνας]{lang="el"} | der Winter |
+| [ο ίδιος, η ίδια, το ίδιο]{lang="el"} | derselbe, dieselbe, dasselbe |
+| [καμία γεύση]{lang="el"} | kein Geschmack ([η γεύση]{lang="el"}) |
+| [φταίω]{lang="el"} | schuld sein; [Φταίει …;]{lang="el"} Ist … schuld? |
+| [η κρίση]{lang="el"} | die Krise |
+| [το κλίμα]{lang="el"} | das Klima |
+| [ο ήλιος]{lang="el"} | die Sonne |
+| [το θερμοκήπιο]{lang="el"} | das Gewächshaus |
+| [μακριά]{lang="el"} | weit weg |
+| [το ράφι]{lang="el"} | das Regal |
+| [το φυτό]{lang="el"} | die Pflanze |
+| [δικός μου, δική μου, δικό μου]{lang="el"} | mein eigener, meine eigene … |
+| [το λάχανο]{lang="el"} | der Kohl |
+| [το καρότο]{lang="el"} | die Karotte |
+| [το πορτοκάλι]{lang="el"} | die Orange |
+| [τις τρώω]{lang="el"} | ich esse sie (Kapitel 8) |
+| [σαν]{lang="el"} | wie |
+| [το μήλο]{lang="el"} | der Apfel |
+| [η παροιμία]{lang="el"} | das Sprichwort |
+| [ο κολιός]{lang="el"} | die Mittelmeermakrele |
+| [η περίοδος, η παράγραφος, η διάλεκτος]{lang="el"} | der Zeitraum, der Absatz, der Dialekt |
+| [ο τουρισμός]{lang="el"} | der Tourismus |
+:::
+
+## Hörspur: Marktschreier {#sec-markt-hoerspur}
+
+Die griechischen Texte, Dialoge und Vokabeln dieses Kapitels kannst du mit ▶ anhören. Die Stimmen
+sind synthetisch und rufen nicht; wie es auf einem echten Markt klingt, bringt der Hör-Auftrag
+am Ende des Abschnitts.
+
+Eine Laiki hört man, bevor man sie sieht. Um zehn Uhr, zwischen zwei Ständen:
+
+::: {lang="el"}
+— Πάρτε κόσμε! Φρέσκα τα φασολάκια, φρέσκα!
+
+— Με το μαχαίρι το καρπούζι! Ζάχαρη, κυρία μου!
+
+— Ελάτε, δοκιμάστε! Μέλι τα σύκα!
+
+— Ένα ευρώ το κιλό οι πατάτες! Ένα ευρώ!
+
+— Τρία κιλά δύο ευρώ τα κρεμμύδια! Τζάμπα είναι, τζάμπα!
+
+— Κρητικές οι ντομάτες! Διαλέξτε, κυρίες μου, διαλέξτε!
+
+— Όλα ένα ευρώ! Φεύγουμε, όλα ένα ευρώ!
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Kauft, Leute! Frisch sind die Bohnen, frisch!
+
+— Die Wassermelone mit dem Messer! Zuckersüß, meine Dame!
+
+— Kommt, probiert! Honigsüß sind die Feigen!
+
+— Ein Euro das Kilo, die Kartoffeln! Ein Euro!
+
+— Drei Kilo zwei Euro, die Zwiebeln! Geschenkt ist das, geschenkt!
+
+— Aus Kreta sind die Tomaten! Sucht euch aus, meine Damen, sucht euch aus!
+
+— Alles ein Euro! Wir packen zusammen, alles ein Euro!
+:::
+
+[Με το μαχαίρι]{lang="el"} ist ein Versprechen: Der Händler schneidet dir einen Keil aus der
+Melone, bevor du sie kaufst, damit du siehst, dass sie rot und reif ist. [Τζάμπα]{lang="el"}
+„umsonst“ ist türkisch *caba*, und [Φεύγουμε!]{lang="el"}, „wir gehen“, heißt am frühen
+Nachmittag: Jetzt wird der Rest verramscht.
+
+### Die Grammatik des Rufens {#sec-markt-hoerspur-grammatik}
+
+Marktschreier sparen sich das Verb. Übrig bleibt ein Muster, das du im Griechischen überall
+wieder hörst, in Schlagzeilen, Werbung und beim Streit am Küchentisch:
+
+**Adjektiv + Artikel + Nomen = ein ganzer Satz.**
+
+- [Φρέσκα τα φασολάκια!]{lang="el"} – Frisch sind die Bohnen!
+- [Κρητικές οι ντομάτες!]{lang="el"} – Aus Kreta sind die Tomaten!
+
+Die Stellung des Artikels entscheidet alles:
+
+| Wortfolge | Bedeutung |
+|---|---|
+| [τα φρέσκα φασολάκια]{lang="el"} | die frischen Bohnen (Nominalgruppe) |
+| [φρέσκα τα φασολάκια]{lang="el"} | die Bohnen sind frisch (Aussage) |
+
+Steht das Adjektiv **vor** dem Artikel, ist es eine Aussage, das [είναι]{lang="el"} wird
+mitgedacht. Steht es **zwischen** Artikel und Nomen, beschreibt es nur. Angepasst wird in beiden
+Fällen: [φρέσκα]{lang="el"} sächlich Plural, [κρητικές]{lang="el"} weiblich Plural.
+
+Statt eines Adjektivs geht auch ein Nomen: [Ζάχαρη το πεπόνι!]{lang="el"}, „Zucker, die
+Melone!“, [Μέλι τα σύκα!]{lang="el"}. Das Nomen passt sich nicht an; Zucker bleibt Zucker.
+
+Der Rest sind feste Formeln: [Πάρτε, ελάτε, δοκιμάστε, διαλέξτε]{lang="el"} sind Befehlsformen
+im Plural (Kapitel 9), [κυρία μου, κυρίες μου]{lang="el"} Anreden (Kapitel 7), und der Preis
+kommt immer im Muster Zahl + [ευρώ το κιλό]{lang="el"}.
+
+### Gerufene Wörter hören {#sec-markt-hoerspur-hoeren}
+
+Wer ruft, dehnt die betonte Silbe, oft bis zur Unkenntlichkeit: [Φρέεεσκα!]{lang="el"},
+[Ζάαχαρη!]{lang="el"}, [Τζάααμπα!]{lang="el"} Das ist eine gute Nachricht, denn die Betonung
+ist das, woran das Ohr ein griechisches Wort am sichersten erkennt (Kapitel 1). Wer weiß, dass
+[ντομάτες]{lang="el"} auf [-ˈma-] betont wird, hört es auch in [ντομάαατες]{lang="el"}.
+
+Die zweite Hilfe sind die Zahlen: [τρεις]{lang="el"} [tris] ist eine Silbe, [τρία]{lang="el"}
+[ˈtria] sind zwei; [τέσσερις]{lang="el"} endet auf [-is], [τέσσερα]{lang="el"} auf [-a]. Schon
+daran hörst du, ob von Tomaten oder von Kilos die Rede ist.
+
+Und eine Silbe, die ständig fällt: [το κιλό]{lang="el"} [to ciˈlo], mit dem weichen [c] vor
+[i], das wie *k* in *Kiel* klingt. Auf dem Markt hörst du es in jedem zweiten Satz.
+
+::: {.callout-note collapse="true"}
+## Exkurs: Warum so viele Wörter auf [-άκι]{lang="el"}?
+
+[το κολοκυθάκι, το φασολάκι, το ματσάκι]{lang="el"}: Die Endung [-άκι]{lang="el"} macht aus
+einem Wort etwas Kleines, wie deutsch *-chen*. [το κολοκυθάκι]{lang="el"} ist eigentlich „der
+kleine Kürbis“, [τα φασολάκια]{lang="el"} sind „die Böhnchen“, also grüne Bohnen, im
+Unterschied zu [τα φασόλια]{lang="el"}, den getrockneten weißen, aus denen die Fasolada wird.
+Solche Wörter sind **immer sächlich**, der Plural endet auf [-άκια]{lang="el"}, und die Betonung
+bleibt auf dem [ά]{lang="el"}: [ta fasoˈlaca]. Mehr über die griechische Liebe zu
+Verkleinerungen in Kapitel 26.
+:::
+
+<!-- EXERCISE: Marktrufe verstehen und umformen (Adjektiv + Artikel + Nomen als Aussage vs. Artikel + Adjektiv + Nomen als Nominalgruppe; Kongruenz; Zahlen τρεις/τρία heraushören), Zuordnen und Sätze laut umformen, auch Digraphen laut lesen (ντομάτες, μπάμιες, πάγκος, μελιτζάνα, ματσάκι, αγγούρι); Schwierigkeit 2. Übung 6.6 -->
+
+<!-- EXERCISE: Hör-Auftrag: Schritt 1 Marktrufe aus diesem Abschnitt mit ▶ ohne Mitlesen hören und Preise notieren/nennen; Schritt 2 auf dem YouTube-Kanal Easy Greek (https://www.youtube.com/@EasyGreekVideos) nach „λαϊκή“ suchen (ersatzweise ein Straßeninterview über Einkaufen oder Preise, Suchwort „ακρίβεια“), die ersten drei Minuten ohne Untertitel: drei Preise oder Mengen heraushören und bei 3/4 auf τρεις/τρία, τέσσερις/τέσσερα achten, dann mit griechischen Untertiteln prüfen; Schwierigkeit 2. Übung 6.7 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Πάρτε κόσμε!]{lang="el"} | [ˈparte ˈkozme] | Kauft, Leute! (Marktruf) |
+| [τζάμπα]{lang="el"} | [ˈdzaba] | umsonst, spottbillig (umg.) |
+| [φωνάζω, φώναξα]{lang="el"} | [foˈnazo], [ˈfonaksa] | rufen, schreien |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [τα φασολάκια]{lang="el"} | die grünen Bohnen |
+| [τα φασόλια]{lang="el"} | die (getrockneten) Bohnen |
+| [το μαχαίρι]{lang="el"} | das Messer |
+| [Ελάτε!]{lang="el"} | Kommt! Kommen Sie! (Kapitel 9) |
+| [Δοκιμάστε!]{lang="el"} | Probiert! Probieren Sie! |
+| [Διαλέξτε!]{lang="el"} | Sucht euch aus! ([διαλέγω, διάλεξα]{lang="el"} wählen) |
+| [το μέλι]{lang="el"} | der Honig |
+| [το σύκο, τα σύκα]{lang="el"} | die Feige |
+| [το πεπόνι]{lang="el"} | die Honigmelone |
+| [Φεύγουμε!]{lang="el"} | Wir packen zusammen! (wörtlich: Wir gehen!) |
+:::
+
+## Das Wichtigste {#sec-markt-wichtigste}
+
+- **Die Endung verrät Genus und Plural.** Männlich [-ος → -οι]{lang="el"} (Akk.
+  [-ους]{lang="el"}), [-ας, -ης → -ες]{lang="el"}; weiblich [-α, -η → -ες]{lang="el"}, aber
+  [-ση, -ξη, -ψη → -εις]{lang="el"}; sächlich [-ο → -α, -ι → -ια, -μα → -ματα]{lang="el"}. Betonte
+  Endungen wie [-άς, -ές, -ά]{lang="el"} bilden oft [-άδες, -έδες]{lang="el"}.
+- **Ausnahmen mit Artikel lernen:** weibliche [-ος]{lang="el"} ([η μέθοδος]{lang="el"}),
+  sächliche [-ος]{lang="el"} ([το λάθος]{lang="el"}), unveränderliche Fremdwörter
+  ([το ευρώ, το σούπερ μάρκετ]{lang="el"}).
+- **Adjektive** passen sich in Genus, Zahl und Fall an, auch nach [είναι]{lang="el"}; sie folgen
+  dem Genus, nicht der Endung des Nomens ([καλή μέθοδος]{lang="el"}). Weiblich meist
+  [-η]{lang="el"}, nach Vokal [-α]{lang="el"}, bei einigen [-ια]{lang="el"}
+  ([γλυκιά]{lang="el"}). [πολύς, πολλή, πολύ]{lang="el"}; [πολύ]{lang="el"} heißt auch „sehr“.
+- **[σε]{lang="el"} + Artikel** wird immer zusammengezogen: [στον, στη(ν), στο, στους, στις,
+  στα]{lang="el"}, für „wo“ und „wohin“ und für Uhrzeiten.
+- **Eins, drei, vier** haben Genus: [ένας/μία/ένα, τρεις/τρία, τέσσερις/τέσσερα]{lang="el"}.
+  Preise sind sächlich ([τρία ευρώ]{lang="el"}), Uhrzeiten weiblich ([στις τρεις]{lang="el"}).
+- **Preise und Mengen:** [δύο κι ογδόντα]{lang="el"}, [δυόμισι]{lang="el"}, [δύο ευρώ το
+  κιλό]{lang="el"}, [ένα κιλό ντομάτες]{lang="el"} ohne „von“.
+- **Internationalismen:** [-μα]{lang="el"} sächlich, [-ση]{lang="el"} und [-ία]{lang="el"}
+  weiblich, [-ισμός]{lang="el"} männlich; das Deutsche rät hier meist richtig, Spanisch und
+  Französisch oft falsch.
+- **Marktrufe:** [Φρέσκα τα φασολάκια!]{lang="el"} Adjektiv vor dem Artikel ist eine Aussage.
+
+## Zum Lesen: die Laiki {#sec-markt-lesetext}
+
+Ein Text über die Institution, auf der dieses Kapitel eingekauft hat. Lies ihn einmal ganz,
+ohne nachzuschlagen; dann helfen Wortschatz und Übersetzung.
+
+::: {lang="el"}
+**Η λαϊκή**
+
+Σάββατο, έξι το πρωί. Ένας ήσυχος δρόμος στην Αθήνα αλλάζει πρόσωπο. Φτάνουν τα φορτηγά, οι
+πωλητές στήνουν τους πάγκους, και σε μία ώρα ο δρόμος είναι μια μεγάλη, θορυβώδης αγορά:
+τριακόσια μέτρα ντομάτες, πατάτες, πορτοκάλια, ψάρια και λουλούδια. Αυτή είναι η λαϊκή.
+
+Η λαϊκή δεν είναι καινούρια ιδέα. Οι πρώτες λαϊκές αγορές άνοιξαν στην Αθήνα το 1929. Η σκέψη
+ήταν απλή: ο αγρότης πουλάει απευθείας στον πελάτη, χωρίς μεσάζοντες, και οι τιμές μένουν
+χαμηλές. Σήμερα κάθε γειτονιά έχει τη δική της λαϊκή, κάθε εβδομάδα την ίδια μέρα, στον ίδιο
+δρόμο. Πολλοί πωλητές είναι έμποροι, αλλά πολλοί είναι ακόμα παραγωγοί και φέρνουν στην πόλη τα
+φρούτα και τα λαχανικά από τα δικά τους χωράφια.
+
+Η λαϊκή ακολουθεί τις εποχές. Το καλοκαίρι οι πάγκοι είναι κόκκινοι, πράσινοι και μωβ:
+ντομάτες, αγγούρια, πιπεριές, μελιτζάνες, μπάμιες, καρπούζια, σύκα. Τον χειμώνα έρχονται τα
+πορτοκάλια, τα μανταρίνια, τα λάχανα και τα χόρτα. Καρπούζι τον Δεκέμβριο; Μόνο στο σούπερ
+μάρκετ.
+
+Στη λαϊκή ακούς πριν δεις. «Πάρτε κόσμε! Φρέσκα τα φασολάκια!» «Με το μαχαίρι το καρπούζι!» Ο
+πωλητής κόβει ένα καρπούζι στη μέση και δείχνει: κόκκινο, γλυκό, ζάχαρη. Οι πελάτες
+δοκιμάζουν, ρωτάνε, συγκρίνουν. Ένας παππούς ρωτάει σε τέσσερις πάγκους πόσο κάνουν οι πατάτες
+και στο τέλος αγοράζει από τον πρώτο. Μια κυρία διαλέγει ντομάτες μία μία, σαν κοσμήματα.
+
+Οι έξυπνοι πελάτες έρχονται αργά. Γύρω στις δύο οι πωλητές είναι κουρασμένοι, οι πάγκοι
+μισοάδειοι, και οι τιμές πέφτουν: «Όλα ένα ευρώ! Τρία κιλά δύο ευρώ!» Οι έξυπνοι πωλητές, πάλι,
+κρατάνε τις καλές ντομάτες για τους πρώτους πελάτες.
+
+Και το σύμβολο της λαϊκής; Το καρότσι. Ένα μικρό καρότσι με δύο ρόδες. Χωράει δέκα κιλά
+πατάτες και τρία πεπόνια, και στα στενά πεζοδρόμια της Αθήνας είναι όπλο.
+
+Στις τρεις ο δρόμος αδειάζει. Έρχονται τα φορτηγά του δήμου και πλένουν την άσφαλτο. Στις
+τέσσερις κανείς δεν καταλαβαίνει ότι εδώ, πριν από λίγες ώρες, είχε τριακόσια μέτρα αγορά.
+Μέχρι το επόμενο Σάββατο.
+:::
+
+Zwei Muster helfen beim Lesen:
+
+- **[τη δική της, τα δικά τους]{lang="el"}** heißt „ihre eigene, ihre eigenen“: [δικός]{lang="el"}
+  ist ein Adjektiv wie [καλός]{lang="el"} und passt sich an, [της, τους]{lang="el"} dahinter
+  sagt, wem es gehört (Kapitel 7).
+- **[της λαϊκής, της Αθήνας, του δήμου]{lang="el"}** sind Genitive, „des Marktes, Athens, der
+  Gemeinde“ (Kapitel 7). Beim Lesen reicht: [του, της]{lang="el"} + Nomen heißt „von“.
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [ήσυχος, -η, -ο]{lang="el"} | ruhig |
+| [αλλάζει πρόσωπο]{lang="el"} | verändert sein Gesicht ([το πρόσωπο]{lang="el"}) |
+| [το φορτηγό]{lang="el"} | der Lastwagen |
+| [ο πωλητής, οι πωλητές]{lang="el"} | der Verkäufer |
+| [στήνω, έστησα]{lang="el"} | aufbauen, aufstellen |
+| [θορυβώδης]{lang="el"} | laut, lärmend |
+| [τριακόσια μέτρα]{lang="el"} | dreihundert Meter |
+| [το ψάρι]{lang="el"} | der Fisch |
+| [το λουλούδι]{lang="el"} | die Blume |
+| [καινούριος, -α, -ο]{lang="el"} | neu |
+| [η σκέψη]{lang="el"} | der Gedanke |
+| [ο αγρότης]{lang="el"} | der Landwirt |
+| [απευθείας]{lang="el"} | direkt |
+| [ο πελάτης]{lang="el"} | der Kunde |
+| [ο μεσάζοντας, οι μεσάζοντες]{lang="el"} | der Zwischenhändler |
+| [η τιμή]{lang="el"} | der Preis |
+| [χαμηλός, -ή, -ό]{lang="el"} | niedrig |
+| [ο έμπορος]{lang="el"} | der Händler, Kaufmann |
+| [φέρνω]{lang="el"} | bringen |
+| [το χωράφι]{lang="el"} | das Feld, der Acker |
+| [ακολουθώ]{lang="el"} | folgen |
+| [το μανταρίνι]{lang="el"} | die Mandarine |
+| [ακούς πριν δεις]{lang="el"} | du hörst, bevor du siehst ([δεις]{lang="el"}: Kapitel 5) |
+| [στη μέση]{lang="el"} | in der Mitte, mittendurch |
+| [συγκρίνω]{lang="el"} | vergleichen |
+| [μία μία]{lang="el"} | eine nach der anderen |
+| [έξυπνος, -η, -ο]{lang="el"} | klug, schlau |
+| [γύρω στις δύο]{lang="el"} | gegen zwei (Uhr) |
+| [κουρασμένος, -η, -ο]{lang="el"} | müde |
+| [μισοάδειος, -α, -ο]{lang="el"} | halb leer |
+| [πέφτω]{lang="el"} | fallen |
+| [κρατάω]{lang="el"} | (zurück)behalten |
+| [το σύμβολο]{lang="el"} | das Symbol |
+| [η ρόδα]{lang="el"} | das Rad |
+| [χωράει]{lang="el"} | es fasst, passt hinein |
+| [στενός, -ή, -ό]{lang="el"} | eng, schmal |
+| [το πεζοδρόμιο]{lang="el"} | der Gehweg |
+| [αδειάζω]{lang="el"} | sich leeren |
+| [ο δήμος]{lang="el"} | die Gemeinde, Stadtverwaltung |
+| [πλένω]{lang="el"} | waschen |
+| [η άσφαλτος]{lang="el"} | der Asphalt (weiblich auf -ος) |
+| [καταλαβαίνω]{lang="el"} | verstehen, merken |
+| [επόμενος, -η, -ο]{lang="el"} | nächster |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Die Laiki**
+
+Samstag, sechs Uhr morgens. Eine ruhige Straße in Athen verändert ihr Gesicht. Die Lastwagen
+kommen, die Verkäufer bauen die Stände auf, und in einer Stunde ist die Straße ein großer,
+lärmender Markt: dreihundert Meter Tomaten, Kartoffeln, Orangen, Fisch und Blumen. Das ist die
+Laiki.
+
+Die Laiki ist keine neue Idee. Die ersten Volksmärkte öffneten 1929 in Athen. Der Gedanke war
+einfach: Der Bauer verkauft direkt an den Kunden, ohne Zwischenhändler, und die Preise bleiben
+niedrig. Heute hat jedes Viertel seine eigene Laiki, jede Woche am selben Tag, in derselben
+Straße. Viele Verkäufer sind Händler, aber viele sind noch immer Erzeuger und bringen Obst und
+Gemüse von ihren eigenen Feldern in die Stadt.
+
+Die Laiki folgt den Jahreszeiten. Im Sommer sind die Stände rot, grün und lila: Tomaten, Gurken,
+Paprika, Auberginen, Okra, Wassermelonen, Feigen. Im Winter kommen die Orangen, die Mandarinen,
+der Kohl und das Wildgemüse. Wassermelone im Dezember? Nur im Supermarkt.
+
+Auf der Laiki hörst du, bevor du siehst. „Kauft, Leute! Frisch sind die Bohnen!“ „Die
+Wassermelone mit dem Messer!“ Der Verkäufer schneidet eine Wassermelone mittendurch und zeigt:
+rot, süß, Zucker. Die Kunden probieren, fragen, vergleichen. Ein Großvater fragt an vier Ständen,
+was die Kartoffeln kosten, und kauft am Ende beim ersten. Eine Frau sucht Tomaten einzeln aus,
+wie Schmuckstücke.
+
+Die klugen Kunden kommen spät. Gegen zwei sind die Verkäufer müde, die Stände halb leer, und die
+Preise fallen: „Alles ein Euro! Drei Kilo zwei Euro!“ Die klugen Verkäufer wiederum halten die
+guten Tomaten für die ersten Kunden zurück.
+
+Und das Symbol der Laiki? Der Einkaufstrolley. Ein kleiner Wagen mit zwei Rädern. Er fasst zehn
+Kilo Kartoffeln und drei Melonen, und auf den schmalen Gehwegen Athens ist er eine Waffe.
+
+Um drei leert sich die Straße. Die Wagen der Stadtreinigung kommen und waschen den Asphalt. Um
+vier merkt niemand mehr, dass hier vor ein paar Stunden dreihundert Meter Markt waren. Bis zum
+nächsten Samstag.
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+- **1929:** Die Gründung der Volksmärkte wird in griechischen Darstellungen meist auf 1929
+  datiert, in die Regierungszeit von Eleftherios Venizelos; Idee war der Verkauf ohne
+  Zwischenhändler. Die genaue Rechtsgrundlage und ob die ersten Märkte tatsächlich in Athen
+  öffneten, ist hier nicht im Detail geprüft.
+- **Erzeuger und Händler:** Auf den Laiki verkaufen heute Erzeuger mit eigener Genehmigung neben
+  gewerblichen Händlern; das Verhältnis ist von Markt zu Markt verschieden.
+- **Uhrzeiten:** Auf- und Abbau sind je nach Gemeinde geregelt; „von sechs bis drei“ ist ein
+  typischer, kein amtlicher Rahmen.
+:::
+<!-- CHECK: Gründungsjahr 1929 (Venizelos-Regierung), erste Märkte in Athen; Nebeneinander von Erzeugern (παραγωγοί) und gewerblichen Händlern (επαγγελματίες πωλητές); übliche Marktzeiten -->
+
+<!-- EXERCISE: Lesetext verstehen (richtig/falsch aus dem griechischen Text, nummeriert) und Formen jagen: alle Adjektive mit ihrem Nomen finden und Genus/Zahl bestimmen, alle Zahlen mit Genus (τριακόσια μέτρα, τέσσερις πάγκους, τρία πεπόνια …), dazu σε + Artikel; Schwierigkeit 2. Übung 6.8 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η εποχή]{lang="el"} | [i epoˈçi] | die Jahreszeit; die Epoche |
+:::
