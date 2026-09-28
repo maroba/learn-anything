@@ -205,7 +205,56 @@ anderen.
 
 <!-- CHECK: „In vielen Büros und Online-Läden duzt man schneller als früher, E-Mails werden lockerer“ – eigene Einschätzung (eE), keine Quelle; so vorsichtig vertretbar? -->
 
-<!-- EXERCISE: Register erkennen: acht kurze Äußerungen (Schild/Formular, E-Mail-Zeile, Telefon mit dem Vermieter, Chat unter Freunden, Taverne, Nachrichten) den Stufen formell/neutral/vertraut zuordnen und jeweils das verräterische Signal nennen (Anrede/Verbform, Diskursmarker, gelehrtes Wort, Verkleinerung, Apostroph); ein Satz mit gekreuzten Reglern (εσείς + Alltagswörter), Antwort im Chat „1a, 2c …“; Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 31.1: Wo sind wir?
+
+Acht Sätze. Welche Stufe: **a** formell, **b**
+neutral, **c** vertraut? Nenn dir zu jedem das Signal, das ihn verrät. Im Chat reicht „1a, 2c, …“.
+
+::: {lang="el"}
+1. Λόγω απεργίας, η υπηρεσία θα παραμείνει κλειστή την Πέμπτη.
+2. Καλησπέρα σας, κύριε Στέλιο. Μήπως μπορείτε να περάσετε αύριο;
+3. Άσ’ τα, μωρέ. Θα ’ρθω αργότερα.
+4. Σας ευχαριστώ εκ των προτέρων.
+5. Κυρία Ρένα, μήπως θέλετε ένα νεράκι;
+6. Μανώλη, φέρε μας ένα καραφάκι και λίγο ψωμάκι!
+7. Η αίτηση συμπληρώνεται εντός πέντε ημερών.
+8. Κοιτάξτε, αλλιώς δε γίνεται. Περάστε αύριο το πρωί.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Prüf zwei Regler nacheinander: Nähe ([σας, -ετε]{lang="el"} oder [σου, -εις]{lang="el"}, welche
+Anrede?) und Wortwahl (Alltagswort oder gelehrtes Wort?).
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Eine Verkleinerung allein macht einen Satz nicht vertraut, und ein Satz ohne Anrede kann trotzdem
+formell sein.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1a, 2b, 3c, 4a, 5b, 6c, 7a, 8b.**
+
+1. [λόγω]{lang="el"} + Genitiv, [η υπηρεσία, παραμένω]{lang="el"}: Aushang einer Behörde. Niemand
+   wird angeredet, die Wörter reichen.
+2. [σας, -ετε]{lang="el"}, [κύριε]{lang="el"} + Vorname, [μήπως]{lang="el"}: die Zwischenstufe.
+3. [Άσ’ τα, μωρέ]{lang="el"} und der Apostroph in [θα ’ρθω]{lang="el"}.
+4. [εκ των προτέρων]{lang="el"}, typisch vor dem Schluss einer formellen E-Mail.
+5. **Die Falle:** [νεράκι]{lang="el"} ist gesellig, aber [κυρία]{lang="el"} + Vorname und
+   [θέλετε]{lang="el"} halten Abstand. Wer c gewählt hat, hat nur auf die Verkleinerung geachtet.
+6. Vorname, Imperativ in der du-Form, zwei Verkleinerungen: der Kellner, den man kennt.
+7. [εντός]{lang="el"} + Genitiv und das unpersönliche Mediopassiv: Formularsprache.
+8. **Gekreuzte Regler:** [Κοιτάξτε, Περάστε]{lang="el"} siezen, [αλλιώς, δε γίνεται]{lang="el"}
+   sind Alltagswörter. Das ist neutral, wie der Vermieter am Telefon. Formell wäre
+   [διαφορετικά]{lang="el"}.
+:::
 
 ## Bitten: vom Imperativ bis [θα σας παρακαλούσα]{lang="el"} {#sec-register-bitten}
 
@@ -277,7 +326,65 @@ aus den 1980er-Jahren, und es beschreibt Tendenzen, keine Regeln.
 
 <!-- CHECK: „Θα μπορούσες να μου δώσεις το αλάτι;“ am Familientisch „kann spitz klingen“ – eE, plausibel? -->
 
-<!-- EXERCISE: Bitten auf der Leiter verschieben: sechs Bitten (Salz reichen, Fenster zumachen, einen Moment warten, eine Unterschrift, Paket annehmen, Musik leiser) jeweils für ein angegebenes Gegenüber (Bruder, Freundin, ältere Nachbarin, Beamtin am Schalter, Hausverwaltung schriftlich) laut umformen, mit passendem Weichmacher (μήπως, λίγο, αν δε σας κάνει κόπο, Συγγνώμη που σας ενοχλώ, σε/σας παρακαλώ, Μου κάνεις μια χάρη;); Lösung mit Varianten und den Fehlern „zu förmlich unter Vertrauten“ und „Weichmacher gestapelt“; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 31.2: Sechs Bitten, sechs Menschen
+
+Formuliere jede Bitte laut, passend zum Gegenüber, mit höchstens zwei Weichmachern.
+
+1. Salz reichen: der Bruder am Familientisch.
+2. Morgen ein Paket für dich annehmen: die Freundin, die zu Hause arbeitet.
+3. Die Musik leiser machen: der Nachbar von oben, den du kaum kennst, abends an seiner Tür.
+4. Einen Moment warten, während du deinen Ausweis suchst: die Beamtin am Schalter.
+5. Eine Liste der Hausbewohner unterschreiben: die ältere Nachbarin, Frau Rena.
+6. Das Fenster im Treppenhaus nachts schließen: die Hausverwaltung, schriftlich.
+
+Wörter: [το αλάτι]{lang="el"} · [παίρνω ένα δέμα]{lang="el"} ein Paket annehmen ·
+[χαμηλώνω, χαμήλωσα]{lang="el"} leiser machen · [η ταυτότητα]{lang="el"} der Ausweis ·
+[υπογράφω]{lang="el"} · [το παράθυρο της σκάλας]{lang="el"} das Fenster im Treppenhaus.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Erst den Nähe-Regler: Wen duzt du (1, 2), wen siezt du (3 bis 6)? Dann die Stufe auf der Leiter
+aus @sec-register-bitten.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Unter Vertrauten reicht der Imperativ oder [Μου … ;]{lang="el"}, die Freundin bekommt
+[Μου κάνεις μια χάρη;]{lang="el"} Nur 6 verträgt [Θα σας παρακαλούσα να …]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Musterlösungen; Varianten in Klammern.
+
+::: {lang="el"}
+1. Δώσε μου λίγο το αλάτι. (Μου δίνεις το αλάτι;)
+2. Μου κάνεις μια χάρη; Μπορείς να πάρεις αύριο ένα δέμα για μένα; (Μου παίρνεις αύριο ένα δέμα;)
+3. Συγγνώμη που σας ενοχλώ. Μήπως μπορείτε να χαμηλώσετε τη μουσική; (Μήπως μπορείτε να τη χαμηλώσετε λίγο;)
+4. Ένα λεπτάκι, σας παρακαλώ. (Μήπως μπορείτε να περιμένετε λίγο;)
+5. Κυρία Ρένα, μήπως μπορείτε να υπογράψετε εδώ; (Θα μπορούσατε να υπογράψετε εδώ, αν δε σας κάνει κόπο;)
+6. Θα σας παρακαλούσα να κλείνετε το παράθυρο της σκάλας τη νύχτα.
+:::
+
+In 6 ist [κλείνετε]{lang="el"} (jede Nacht) genauer; [κλείσετε]{lang="el"} ist auch richtig.
+
+**Typische Fehler:**
+
+- **Zu förmlich unter Vertrauten:** [Θα μπορούσες να μου δώσεις το αλάτι;]{lang="el"} ist
+  grammatisch richtig, passt aber nicht zum Register; am Familientisch klingt es spitz.
+- **Gestapelt:** [Συγγνώμη που σας ενοχλώ, μήπως θα μπορούσατε, αν δε σας κάνει κόπο, να
+  χαμηλώσετε λίγο …]{lang="el"} klingt unterwürfig oder ironisch.
+- **[Θα σας παρακαλούσα]{lang="el"} mündlich** am Schalter oder an der Tür klingt nach Behörde.
+- **Regler vermischt:** \*[Μήπως μπορείς να υπογράψετε;]{lang="el"} Du und Sie im selben Satz ist
+  ein Fehler, keine Stilfrage.
+:::
+
+<!-- CHECK: Übung 31.2: „παίρνω ένα δέμα“ für „ein Paket (für jemanden) annehmen“ idiomatisch, oder besser „παραλαμβάνω“? „να κλείνετε το παράθυρο της σκάλας“ natürlich? -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -335,7 +442,80 @@ Halte dich an die vier Schritte und an [δυστυχώς]{lang="el"}: [Δυστ�
 (Kapitel 13 und 14) nennt keinen Schuldigen und ist trotzdem unmissverständlich.
 :::
 
-<!-- EXERCISE: Eine Beschwerde in drei Registern, laut: Der Nachbar feiert jede Nacht bis drei Uhr, die Hausverwaltung reagiert nicht. (A) Stichpunkte als formelle E-Mail an die Hausverwaltung mit den vier Schritten (Σας γράφω σχετικά με, Όπως σας ενημέρωσα, Θα σας παρακαλούσα να, Διαφορετικά θα αναγκαστώ να); (B) neutral am Telefon mit dem Nachbarn selbst (Συγγνώμη που σας ενοχλώ, αλλά…, Κοιτάξτε, μήπως); (C) vertraut, die Geschichte einem Freund erzählen (άκου να δεις, Δεν πάει άλλο, λέει, Übertreibung); Musterlösungen mit Varianten, typische Fehler: Register mischen (Αξιότιμε + ρε), Imperativ an den Nachbarn; Schwierigkeit 3 -->
+::: {.callout-note .exercise}
+## Übung 31.3: Bis drei Uhr nachts
+
+Der Nachbar im vierten Stock feiert fast jede Nacht bis drei. Letzte Woche hast du schon mit ihm
+gesprochen und die Hausverwaltung, Herrn Dimitriou, angerufen; passiert ist nichts. Sprich laut:
+
+- **A** die E-Mail an Herrn Dimitriou, formell, in den vier Schritten;
+- **B** dasselbe an der Tür des Nachbarn, neutral;
+- **C** die Geschichte, einem Freund erzählt.
+
+Wörter: [η φασαρία]{lang="el"} der Lärm · [το πάρτι]{lang="el"} · [μέχρι τις τρεις τα
+ξημερώματα]{lang="el"} bis drei Uhr früh · [μιλάω σε κάποιον]{lang="el"} mit jemandem reden ·
+[η αστυνομία]{lang="el"} die Polizei.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+A und B folgen derselben Tabelle in @sec-register-beschwerde, nur eine Spalte weiter. Für C
+gelten andere Mittel: Marker, Übertreibung, Zitat.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+A: [Σας γράφω σχετικά με … Όπως σας ενημέρωσα … Θα σας παρακαλούσα να … Διαφορετικά θα
+αναγκαστώ να …]{lang="el"} B: [Συγγνώμη που σας ενοχλώ, αλλά … Κοιτάξτε … μήπως …; Αλλιώς
+…]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**A**
+
+::: {lang="el"}
+Αξιότιμε κύριε Δημητρίου,
+
+Σας γράφω σχετικά με τη φασαρία από το διαμέρισμα του τέταρτου ορόφου. Όπως σας ενημέρωσα ήδη
+τηλεφωνικά την περασμένη εβδομάδα, ο ένοικος κάνει πάρτι σχεδόν κάθε βράδυ μέχρι τις τρεις τα
+ξημερώματα. Δυστυχώς, το πρόβλημα δεν έχει λυθεί ακόμα. Θα σας παρακαλούσα να του μιλήσετε το
+συντομότερο δυνατό. Διαφορετικά, θα αναγκαστώ να καλέσω την αστυνομία.
+
+Με εκτίμηση,\
+…
+:::
+
+**B**
+
+::: {lang="el"}
+Καλησπέρα σας. Συγγνώμη που σας ενοχλώ, αλλά μένω από κάτω. Σας το είπα και την περασμένη
+εβδομάδα: η μουσική ακούγεται κάθε βράδυ μέχρι τις τρεις, κι εγώ δουλεύω το πρωί. Κοιτάξτε,
+μήπως μπορείτε να τη χαμηλώνετε μετά τις δώδεκα; Αλλιώς θα πρέπει να μιλήσω με τον διαχειριστή.
+:::
+
+**C**
+
+::: {lang="el"}
+Άκου να δεις. Ο από πάνω κάνει πάρτι κάθε βράδυ μέχρι τις τρεις. Κάθε βράδυ, σου λέω! Τον
+διαχειριστή τον έχω πάρει δέκα φορές τηλέφωνο. «Θα του μιλήσω», λέει. Δεν πάει άλλο.
+:::
+
+In B geht auch [να τη χαμηλώσετε]{lang="el"} (einmal) statt [χαμηλώνετε]{lang="el"} (jedes
+Mal).
+
+**Typische Fehler:**
+
+- **Register mischen:** [Αξιότιμε]{lang="el"} oben und [ρε]{lang="el"} oder [ο από πάνω]{lang="el"}
+  im Text; in C umgekehrt [διαφορετικά]{lang="el"} oder [ο ένοικος]{lang="el"}. Das passt nicht
+  zum Register.
+- **Imperativ an den Nachbarn:** [Χαμηλώστε τη μουσική!]{lang="el"} ist grammatisch richtig, aber
+  als erster Satz an einer fremden Tür ein Befehl. Die Härte gehört in den vierten Schritt, nicht
+  in die Bitte.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -406,7 +586,70 @@ Ende eines Antrags [Με τιμή]{lang="el"} „Hochachtungsvoll“. [όπως]
   eines Professors aber eine Überraschung (siehe den Lesetext).
 :::
 
-<!-- EXERCISE: Anrede und Schluss wählen: sechs Empfänger (Steuerbehörde ohne Namen, Professorin Eleni Vlachou, der Vermieter Herr Stelios, den man sonst mit κύριε Στέλιο anredet – einmal freundlich, einmal Beschwerde, ein Kollege, die beste Freundin, ein Online-Shop) je Anrede und Schluss aus nummerierten Listen wählen (Chat „1b-3, …“); dazu drei fehlerhafte Anreden verbessern (Αξιότιμος κύριος Παπαδόπουλος, Αγαπητή κύριε Νίκο, Αξιότιμε Στέλιο); Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 31.4: Wer bekommt was?
+
+Wähle für jede E-Mail eine Anrede (a bis g) und einen Schluss (1 bis 6). Im Chat: „1a1, 2…“.
+
+1. das Finanzamt, ohne Namen
+2. Professorin Eleni Vlachou, die du nicht kennst
+3. der Vermieter Stelios Antoniou, den du am Telefon [κύριε Στέλιο]{lang="el"} nennst: ein Dank
+   für den schnellen Installateur
+4. derselbe: die dritte Beschwerde
+5. dein Kollege Nikos
+6. deine beste Freundin Maria
+7. der Kundenservice eines Online-Shops: eine Frage zur Lieferung
+
+**Anreden:** a [Αξιότιμοι κύριοι/κυρίες]{lang="el"} · b [Αξιότιμη κυρία Βλάχου]{lang="el"} ·
+c [Αξιότιμε κύριε Αντωνίου]{lang="el"} · d [Αγαπητέ κύριε Στέλιο]{lang="el"} · e [Καλησπέρα
+σας]{lang="el"} · f [Γεια σου, Νίκο]{lang="el"} · g [Γεια σου, Μαρία]{lang="el"}
+
+**Schluss:** 1 [Με εκτίμηση]{lang="el"} · 2 [Με φιλικούς χαιρετισμούς]{lang="el"} · 3 [Καλή
+συνέχεια]{lang="el"} · 4 [Φιλικά]{lang="el"} · 5 [Φιλιά]{lang="el"} · 6 [Τα λέμε]{lang="el"}
+
+**Dazu:** Was ist an diesen drei Anreden falsch? [Αξιότιμος κύριος Παπαδόπουλος]{lang="el"} ·
+[Αγαπητή κύριε Νίκο]{lang="el"} · [Αξιότιμε Στέλιο]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Beim Vermieter entscheidet nicht die Person, sondern die Botschaft: Nähe oder Abstand?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Bei den drei Anreden: Kasus, Geschlecht, und passt [Αξιότιμε]{lang="el"} zu einem bloßen
+Vornamen?
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1a1, 2b1, 3d2, 4c1, 5f4, 6g5, 7e3.** Ebenfalls richtig: 1e1; 3d3, 3d4, 3e2; 5f3, 5f6; 6g6;
+7e2, 7e1.
+
+- **Finanzamt, Professorin:** Schluss immer 1; [Βλάχου]{lang="el"} ändert sich im Vokativ nicht.
+- **Vermieter, der Kern der Übung:** Für den Dank hält [Αγαπητέ κύριε Στέλιο]{lang="el"} die
+  Beziehung warm. Für die Beschwerde ist [Αξιότιμε κύριε Αντωνίου]{lang="el"} mit
+  [Με εκτίμηση]{lang="el"} die bewusste Botschaft „Jetzt wird es ernst“. Vertauscht passt beides
+  nicht zum Register: c unter einem Dank wirkt kühl, d über einer Beschwerde nimmt ihr die Spitze.
+- **Kollege:** [Φιλικά]{lang="el"} oder [Καλή συνέχεια]{lang="el"}; [Τα λέμε]{lang="el"}, wenn ihr
+  euch gut kennt.
+- **Freundin:** Nur hier gehört [Φιλιά]{lang="el"} hin.
+- **Online-Shop:** e; [Με εκτίμηση]{lang="el"} ist nicht falsch, nur steifer als nötig.
+
+**Die drei Anreden:**
+
+- \*[Αξιότιμος κύριος Παπαδόπουλος]{lang="el"}: Nominativ statt Vokativ. Richtig:
+  [Αξιότιμε κύριε Παπαδόπουλε]{lang="el"}.
+- \*[Αγαπητή κύριε Νίκο]{lang="el"}: weibliches Adjektiv zu einem Mann. Richtig:
+  [Αγαπητέ κύριε Νίκο]{lang="el"}.
+- [Αξιότιμε Στέλιο]{lang="el"} ist grammatisch richtig, passt aber nicht zum Register: die
+  förmlichste Anrede mit dem bloßen Vornamen. Also [Αξιότιμε κύριε Αντωνίου]{lang="el"} oder,
+  wenn ihr euch duzt, [Αγαπητέ Στέλιο]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -505,9 +748,54 @@ Vor dem Hören:
 [— Στην υγειά του! Και του κυρίου Αξιότιμου.]{.v1}
 :::
 
-<!-- CHECK: Hörspur: „έγινε αρνάκι“ (wurde lammfromm) idiomatisch? „Ο Στέλιος Αντωνίου είμαι“ als Meldung am Telefon natürlich? „από δω και πέρα μόνο έτσι να του γράφεις“ -->
+::: {.callout-note .exercise}
+## Übung 31.5: Auf Lautsprecher
 
-<!-- EXERCISE: Hörverstehen: direkt nach dem Block, mit ▶ hören, ohne den Text aufzuklappen, höchstens zweimal; sechs bis sieben Inhaltsfragen (Multiple Choice, Antwort im Chat „1a, 2b …“) zu: was gestern in die Spüle fiel, warum Aris auf Lautsprecher drängt bzw. was er hören will, warum der Vermieter sich verspätet hat, wann der Installateur kommen soll, warum Dafni nicht kann und welche Uhrzeit sie vorschlägt, wer die Rechnung bezahlt, womit Dafni die Wendung des Vermieters erklärt; nur Inhaltsfragen, keine Formfragen; Schwierigkeit 2 -->
+Hör die Szene mit ▶, ohne den Text aufzuklappen, höchstens zweimal. Im Chat: „1b, 2…“.
+
+1. Was ist gestern in die Spüle gefallen? a) ein Stück Putz, b) Wasser von der Decke, c) eine
+   Fliese.
+2. Was will Aris, als das Handy klingelt? a) dass Dafni nicht rangeht, b) selbst mit dem Vermieter
+   reden, c) mithören.
+3. Warum hat sich der Vermieter so lange nicht gemeldet? a) Er war verreist. b) Seine Mutter war
+   im Krankenhaus. c) Der Installateur hatte keine Zeit.
+4. Welcher Termin passt Dafni nicht, und was schlägt sie vor? a) morgen um neun, weil sie
+   arbeitet; um sechs, b) morgen um sechs, weil sie arbeitet; um neun, c) Freitag; Donnerstag.
+5. Steht der neue Termin am Ende fest? a) Ja, sechs Uhr. b) Ja, neun Uhr. c) Nein, der Vermieter
+   fragt den Installateur und schreibt ihr.
+6. Wer bezahlt die Rechnung? a) Dafni, b) der Vermieter, c) beide zur Hälfte.
+7. Womit erklärt Dafni, dass der Vermieter plötzlich so freundlich ist? a) Seiner Mutter geht es
+   besser. b) Aris hat ihm gedroht. c) Sie hat ihm förmlich geschrieben.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Frage 2: Die Worthilfen vor dem Hören verraten das Stichwort. Frage 4: Achte auf zwei Zahlen und
+auf [δυστυχώς]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Frage 5: Hör auf das Futur beim Vermieter, [θα …]{lang="el"}, zweimal hintereinander. Frage 7:
+Hör auf Dafnis Kommentar nach dem Auflegen.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1a, 2c, 3b, 4a, 5c, 6b, 7c.**
+
+- 2: [Βάλε ανοιχτή ακρόαση!]{lang="el"} Aris will mithören.
+- 4: [Στις εννιά δουλεύω, δυστυχώς. … Στις έξι, ας πούμε;]{lang="el"}
+- 5: **c**, nicht a: [Θα τον ρωτήσω και θα σας στείλω μήνυμα.]{lang="el"} Sechs Uhr ist nur Dafnis
+  Vorschlag; wer a gewählt hat, hat ihn für die Zusage gehalten.
+- 7: [Ένα μέιλ με «Αξιότιμε» και έγινε αρνάκι.]{lang="el"} Antwort a ist die falsche Fährte: Die
+  Mutter war die Entschuldigung, nicht der Grund.
+:::
+
+<!-- CHECK: Hörspur: „έγινε αρνάκι“ (wurde lammfromm) idiomatisch? „Ο Στέλιος Αντωνίου είμαι“ als Meldung am Telefon natürlich? „από δω και πέρα μόνο έτσι να του γράφεις“ -->
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -585,7 +873,46 @@ Kollegin um, ein Polizist wird vom [εσείς]{lang="el"} zum [εσύ]{lang="el
 wird. Auf [ERTflix](https://www.ertflix.gr) findest du griechische Serien, viele mit griechischen
 Untertiteln für Hörgeschädigte.
 
-<!-- EXERCISE: Hör-Auftrag mit ERTflix (https://www.ertflix.gr): zehn Minuten einer griechischen Serie oder eines Films mit Szenen in Büro, Amt, Laden oder Arztpraxis; (1) ohne Untertitel eine Strichliste: jede Anrede notieren (κύριε/κυρία + Name, Vorname, ρε) und ob die Figur siezt oder duzt; (2) eine Bitte oder Beschwerde heraushören und ihre Weichmacher notieren (μήπως, λίγο, Συγγνώμη που…, θα μπορούσατε); (3) mit griechischen Untertiteln prüfen; Zusatz: Gibt es einen Wechsel vom εσείς zum εσύ oder umgekehrt, und was bedeutet er in der Szene?; Auswertung ohne feste Lösung, Hinweis auf Signale aus @sec-register-stufen; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 31.6: Hör-Auftrag
+
+Such auf [ERTflix](https://www.ertflix.gr) eine Serie oder einen Film und darin zehn Minuten mit
+Szenen in Büro, Amt, Laden oder Arztpraxis.
+
+1. **Ohne Untertitel:** Mach eine Strichliste der Anreden ([κύριε/κυρία]{lang="el"} + Name,
+   Vorname, [ρε]{lang="el"}) und notier jeweils, ob gesiezt oder geduzt wird.
+2. Hör eine Bitte oder Beschwerde heraus und notier ihre Weichmacher ([μήπως, λίγο, Συγγνώμη
+   που …, θα μπορούσατε]{lang="el"}).
+3. **Mit griechischen Untertiteln:** Prüf Liste und Weichmacher.
+4. **Zusatz:** Wechselt eine Figur vom [εσείς]{lang="el"} zum [εσύ]{lang="el"} oder umgekehrt? Was
+   bedeutet das in der Szene?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Die Anrede steht meist am Satzanfang oder -ende, die Endung [-ετε]{lang="el"} oder
+[-εις]{lang="el"} direkt dahinter oder davor.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zum Zusatz: Ein Wechsel ist selbst eine Botschaft (@sec-register-stufen). Wird es wärmer, oder
+wird es ernst?
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Jede Szene ist anders; so wertest du aus:
+
+- **Anreden:** [κύριε/κυρία]{lang="el"} + Vorname mit [εσείς]{lang="el"} ist in Läden und
+  Praxen häufig, der Nachname eher bei Ämtern und Vorgesetzten.
+- **Weichmacher:** Gestapelte sind in Serien oft Komik.
+- **Wechsel:** [εσείς → εσύ]{lang="el"} heißt Nähe oder Druck (der Polizist, der ernst wird);
+  [εσύ → εσείς]{lang="el"} heißt Abstand, oft Kränkung.
+:::
 
 ## Das Wichtigste {#sec-register-wichtigste}
 
@@ -708,4 +1035,61 @@ an der Fakultät, der diese Woche für eine Hausarbeit Küsse bekommen hat.
 *Marina*
 :::
 
-<!-- EXERCISE: Nach dem Lesen: Teil A richtig/falsch zum Inhalt (fünf Aussagen: was Katerina falsch gemacht hat, was Marina ihr rät, wie lang die Entschuldigung sein soll, wofür „Αγαπητέ“ passt, was man tut, wenn der Professor duzt); Teil B die Formeln der Kolumne den Stufen formell/neutral/vertraut zuordnen; Teil C laut die kurze Entschuldigungs-Mail an den Professor sprechen und eine Variante an eine Kollegin, mit passender Anrede und Schlussformel; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 31.7: Nach dem Lesen
+
+**A. Richtig oder falsch?** Im Chat: „1r, 2f, …“.
+
+1. Katerina hat ihren Professor falsch angeredet.
+2. Marina rät zu einer Entschuldigung von zwei Zeilen.
+3. Je ausführlicher die Entschuldigung, desto besser, meint Marina.
+4. [Αγαπητέ]{lang="el"} ist nach Marina höflich, aber wärmer als [Αξιότιμε]{lang="el"}.
+5. Wenn der Professor duzt, soll Katerina zurückduzen.
+
+**B. Welche Stufe?** Ordne zu: a formell, b neutral, c vertraut.
+1 [Αξιότιμε κύριε καθηγητά]{lang="el"} · 2 [Σας ευχαριστώ εκ των προτέρων]{lang="el"} ·
+3 [Καλησπέρα σας]{lang="el"} · 4 [Καλή συνέχεια]{lang="el"} · 5 [Φιλιά]{lang="el"} ·
+6 [Γεια σας, Κατερίνα]{lang="el"}
+
+**C. Laut:** Sprich Katerinas Entschuldigung an den Professor. Dann eine Variante: Du hast deiner
+Kollegin Eleni den falschen Anhang geschickt.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+A: Zitiert Katerina ihre Anrede? B: Die Tabelle in @sec-register-email.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+C: Marina diktiert die erste Mail fast wörtlich. Für Eleni: [εσύ]{lang="el"}, [το
+συνημμένο]{lang="el"}, ein neutraler Schluss.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**A: 1f, 2r, 3f, 4r, 5f.** Zu 1: Die Anrede war richtig, der Fehler war das [Φιλιά]{lang="el"}
+darunter. Zu 5: [μη βιαστείς να κάνεις το ίδιο]{lang="el"}.
+
+**B: 1a, 2a, 3b, 4b, 5c, 6b.** Zu 6: [Γεια σας]{lang="el"} siezt, der Vorname macht es freundlich;
+so antwortet ein Professor, der eine Stufe herunterkommt.
+
+**C**
+
+::: {lang="el"}
+Αξιότιμε κύριε καθηγητά,\
+συγγνώμη για το λάθος στο προηγούμενο μήνυμα.\
+Με εκτίμηση,\
+Κατερίνα
+
+Γεια σου, Ελένη,\
+συγγνώμη, σου έστειλα λάθος συνημμένο. Σου στέλνω το σωστό.\
+Καλή συνέχεια!
+:::
+
+Auch richtig: [Φιλικά]{lang="el"}; [κύριε]{lang="el"} + Nachname. **Typische Fehler:** eine lange
+Erklärung an den Professor, [Σας]{lang="el"} an Eleni.
+:::
