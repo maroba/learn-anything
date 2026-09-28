@@ -21,7 +21,7 @@
 | 15 Der Film, den ich gesehen habe: Relativsätze | veröffentlicht | Welle 7; Audio läuft |
 | 16 Weil, obwohl, damit: Nebensätze | Überarbeitung | Welle 8; beide Reviews da |
 | 17 Wenn … dann: realer Konditional und Zeitsätze | Entwurf | Welle 9 |
-| 19 Partizip und Gerundium | im Review | Welle 8; Übungen fertig; erscheint nach 17, 18 |
+| 19 Partizip und Gerundium | Überarbeitung | Welle 8; beide Reviews da; erscheint nach 17, 18 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 

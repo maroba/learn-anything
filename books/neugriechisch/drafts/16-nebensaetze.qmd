@@ -12,7 +12,7 @@ Aus Kapitel 5: Die [να]{lang="el"}-Form hat keine eigene Zeit, nur einen Aspek
 - Film: einfach das Präsens: [να γράφω, να παίρνει]{lang="el"}
 - verneint mit [μη(ν)]{lang="el"}: [να μην το ξεχάσεις]{lang="el"}
 
-Aus Kapitel 4: [όταν]{lang="el"} „als, wenn“ und [ενώ]{lang="el"} „während“ mit Foto oder Film.
+Aus Kapitel 4: [όταν]{lang="el"} „als, wenn“ mit Foto oder Film, [ενώ]{lang="el"} „während“ mit Film.
 :::
 
 ## Die Schlange am Automaten {#sec-nebensatz-einstieg}
@@ -22,9 +22,9 @@ höchstens 60 Euro pro Karte und Tag. Kurz nach sieben Uhr morgens, eine Schlang
 Bürgersteig.
 
 ::: {lang="el"}
-— Συγγνώμη, εσείς είστε ο τελευταίος;
+[— Συγγνώμη, εσείς είστε ο τελευταίος;]{.v1}
 
-— Εγώ. Αλλά μην ελπίζετε πολλά. Λένε ότι το μηχάνημα αδειάζει πριν έρθει το μεσημέρι.
+[— Εγώ. Αλλά μην ελπίζετε πολλά. Λένε ότι το μηχάνημα αδειάζει πριν έρθει το μεσημέρι.
 
 — Και γιατί περιμένετε;
 
@@ -44,7 +44,7 @@ Bürgersteig.
 
 — Στο σπίτι, με το κλιματιστικό. Χαίρεται που είχε δίκιο.
 
-— Λυπάμαι που σας το λέω, αλλά το μηχάνημα μόλις άδειασε.
+[— Λυπάμαι που σας το λέω, αλλά το μηχάνημα μόλις άδειασε.]{.v1}
 :::
 
 ::: {.callout-note collapse="true" .translation}
