@@ -1,0 +1,711 @@
+---
+title: "Vom Amt bis zur Taverne: Register und Höflichkeit"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+- **Du oder Sie** (Kapitel 7): [εσύ]{lang="el"} unter Vertrauten, [εσείς]{lang="el"} auf Abstand;
+  dazwischen [κύριε/κυρία]{lang="el"} + Vorname mit [εσείς]{lang="el"}: [Καλημέρα, κυρία Μαρία!
+  Τι κάνετε;]{lang="el"}
+- **Höflich mit [θα]{lang="el"} + Imperfekt** (Kapitel 5 und 24): [θα ήθελα, Θα μπορούσατε να
+  …;]{lang="el"}, eine Stufe von der Wirklichkeit weggerückt.
+- **Gehobene Wörter** (Kapitel 28 und 29): drei Stufen der Nachrichtensprache; Wörter, die eher
+  geschrieben sind ([ωστόσο, επομένως, εφόσον]{lang="el"}), gegen die des Gesprächs ([αλλά, άρα,
+  αν]{lang="el"}).
+- **[Κοίτα / Κοιτάξτε]{lang="el"}** (Kapitel 21) am Anfang einer Antwort: Jetzt kommt eine
+  Erklärung oder ein sanfter Widerspruch.
+:::
+
+## Ein Wasserschaden, zweimal erzählt {#sec-register-einstieg}
+
+Ein Altbau in Kypseli, Athen, dritter Stock. Seit drei Wochen tropft es im Bad von der Decke,
+jedes Mal, wenn oben jemand duscht. Der Vermieter, Herr Stelios Antoniou, verspricht am Telefon
+jedes Mal: [αύριο]{lang="el"}. An einem Dienstagabend schreibt die Mieterin zwei Texte. Zuerst eine
+E-Mail an ihn:
+
+::: {lang="el"}
+**Θέμα: Διαρροή στο μπάνιο του διαμερίσματος (3ος όροφος)**
+
+Αξιότιμε κύριε Αντωνίου,
+
+Σας γράφω σχετικά με τη διαρροή στο μπάνιο. Όπως σας ενημέρωσα τηλεφωνικά ήδη από τις 3
+Νοεμβρίου, το ταβάνι στάζει κάθε φορά που ο ένοικος του επάνω ορόφου κάνει ντους. Δυστυχώς,
+στο μεταξύ η υγρασία έχει περάσει και στον τοίχο της κουζίνας. Σας στέλνω συνημμένα φωτογραφίες.
+
+Θα σας παρακαλούσα να στείλετε υδραυλικό το συντομότερο δυνατό, το αργότερο μέχρι την Παρασκευή.
+Διαφορετικά, θα αναγκαστώ να καλέσω υδραυλικό η ίδια και να σας αποστείλω τον λογαριασμό.
+
+Σας ευχαριστώ εκ των προτέρων και παραμένω στη διάθεσή σας.
+
+Με εκτίμηση,\
+Δάφνη Καραγιάννη
+:::
+
+Dann eine Nachricht in die Gruppe der Freunde:
+
+::: {lang="el"}
+Παιδιά, δεν πάει άλλο με τον σπιτονοικοκύρη. Τρεις βδομάδες στάζει το ταβάνι στο μπάνιο, κάθε
+φορά που κάνει ντους ο από πάνω. Τον έχω πάρει πέντε φορές τηλέφωνο. «Ναι, ναι, κυρία Δάφνη,
+αύριο θα στείλω άνθρωπο.» Αύριο, λέει! Τώρα έχει μούχλα κι η κουζίνα. Σήμερα του έστειλα ένα
+μέιλ πολύ επίσημο, με «Αξιότιμε» και τα σχετικά. Θα δούμε. Απόψε ταβέρνα; Χρειάζομαι ένα κρασάκι.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Betreff: Undichte Stelle im Bad der Wohnung (3. Stock)**
+
+Sehr geehrter Herr Antoniou,
+
+ich schreibe Ihnen wegen der undichten Stelle im Bad. Wie ich Ihnen bereits seit dem 3. November
+telefonisch mitgeteilt habe, tropft die Decke jedes Mal, wenn der Bewohner der Wohnung darüber
+duscht. Leider ist die Feuchtigkeit inzwischen auch in die Küchenwand gezogen. Anbei sende ich
+Ihnen Fotos.
+
+Ich möchte Sie bitten, so bald wie möglich einen Installateur zu schicken, spätestens bis
+Freitag. Andernfalls sehe ich mich gezwungen, selbst einen Installateur zu rufen und Ihnen die
+Rechnung zukommen zu lassen.
+
+Vielen Dank im Voraus; für Rückfragen stehe ich Ihnen gern zur Verfügung.
+
+Mit freundlichen Grüßen\
+Dafni Karagianni
+
+\
+
+Leute, es geht nicht mehr mit dem Vermieter. Seit drei Wochen tropft die Decke im Bad, jedes
+Mal, wenn der von oben duscht. Ich hab ihn fünfmal angerufen. „Ja, ja, Frau Dafni, morgen schick
+ich jemanden.“ Morgen, sagt er! Jetzt hat auch die Küche Schimmel. Heute hab ich ihm eine total
+förmliche Mail geschickt, mit „Sehr geehrter“ und allem Drum und Dran. Mal sehen. Heute Abend
+Taverne? Ich brauch ein Gläschen Wein.
+:::
+
+Dieselbe Geschichte, zwei Sprachen:
+
+| E-Mail | Gruppe |
+|---|---|
+| [Αξιότιμε κύριε Αντωνίου]{lang="el"} | [τον σπιτονοικοκύρη]{lang="el"}, [Παιδιά]{lang="el"} |
+| [Σας γράφω σχετικά με τη διαρροή]{lang="el"} | [δεν πάει άλλο με …]{lang="el"} |
+| [Όπως σας ενημέρωσα τηλεφωνικά]{lang="el"} | [Τον έχω πάρει πέντε φορές τηλέφωνο.]{lang="el"} |
+| [ο ένοικος του επάνω ορόφου]{lang="el"} | [ο από πάνω]{lang="el"} |
+| [Θα σας παρακαλούσα να στείλετε …]{lang="el"} | [Θα δούμε.]{lang="el"} |
+| [Με εκτίμηση]{lang="el"} | [Απόψε ταβέρνα;]{lang="el"} |
+
+Die Wahl der Wörter, Formen und Formeln passend zur Situation heißt **Register**, griechisch
+[το ύφος]{lang="el"}: [επίσημο ύφος]{lang="el"} ist der förmliche Ton, [οικείο ύφος]{lang="el"}
+der vertraute. Das Wort [ύφος]{lang="el"} kennst du vielleicht aus dem Alltag, wo es „Tonfall,
+Haltung“ heißt: [Μη μου μιλάς μ’ αυτό το ύφος!]{lang="el"} „Sprich nicht in diesem Ton mit mir!“
+
+Aufschlussreich ist, was die E-Mail **nicht** sagt. Am Telefon heißt der Vermieter [κύριε
+Στέλιο]{lang="el"}, und er sagt [κυρία Δάφνη]{lang="el"}: die Zwischenstufe aus Kapitel 7.
+Dass sie plötzlich [Αξιότιμε κύριε Αντωνίου]{lang="el"} schreibt, ist selbst eine Botschaft.
+Wer mit einem Bekannten auf einmal förmlich wird, schafft Abstand, und der Bekannte merkt es.
+Im Deutschen wirkt „Sehr geehrter Herr Antoniou“ an jemanden, den man sonst mit dem Vornamen
+anspricht, genauso.
+
+Noch zwei Kleinigkeiten: [Αύριο, λέει!]{lang="el"} ist das eingeschobene [λέει]{lang="el"}
+„angeblich“ aus Kapitel 18, hier voller Spott. Und [το μέιλ]{lang="el"} schreibt man genauso oft
+lateinisch *email*.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο σπιτονοικοκύρης, η σπιτονοικοκυρά]{lang="el"} | [o spitonikoˈciris], [i spitonikociˈra] | der Vermieter, die Vermieterin |
+| [το ταβάνι]{lang="el"} | [to taˈvani] | die Zimmerdecke |
+| [στάζω, έσταξα]{lang="el"} | [ˈstazo], [ˈestaksa] | tropfen |
+| [η υγρασία]{lang="el"} | [i iɣraˈsia] | die Feuchtigkeit |
+| [η μούχλα]{lang="el"} | [i ˈmuxla] | der Schimmel |
+| [ο υδραυλικός]{lang="el"} | [o iðravliˈkos] | der Installateur, Klempner |
+| [ενημερώνω, ενημέρωσα; ενημερώνομαι, ενημερώθηκα]{lang="el"} | [enimeˈrono], [eniˈmerosa]; [enimeˈronome], [enimeˈroθika] | informieren, mitteilen; sich informieren |
+| [σχετικά με]{lang="el"} | [sçetiˈka me] | bezüglich, wegen |
+| [το συντομότερο (δυνατό)]{lang="el"} | [to sidoˈmotero (ðinaˈto)] | so bald wie möglich |
+| [διαφορετικά]{lang="el"} | [ðiaforetiˈka] | andernfalls, sonst (im Gespräch meist [αλλιώς]{lang="el"}) |
+| [αναγκάζω, ανάγκασα; αναγκάζομαι, αναγκάστηκα]{lang="el"} | [anaˈgazo], [aˈnagasa]; [anaˈgazome], [anaˈgastika] | zwingen; gezwungen sein ([να]{lang="el"}) |
+| [Δεν πάει άλλο.]{lang="el"} | [ðem ˈbai ˈalo] | Es geht so nicht weiter. (umg.) |
+| [το ύφος]{lang="el"} | [to ˈifos] | der Stil, das Register; der Ton(fall) |
+| [επίσημος, -η, -ο]{lang="el"} | [eˈpisimos] | offiziell, förmlich |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η διαρροή]{lang="el"} | die undichte Stelle, das Leck (gehoben) |
+| [τηλεφωνικά]{lang="el"} | telefonisch |
+| [ο ένοικος]{lang="el"} | der Bewohner (formell; [ο από πάνω]{lang="el"} umg.) |
+| [στο μεταξύ]{lang="el"} | inzwischen |
+| [συνημμένα]{lang="el"} | anbei, im Anhang |
+| [η ίδια]{lang="el"} | (ich) selbst (Frau) |
+| [αποστέλλω, απέστειλα]{lang="el"} | zusenden (gehoben für [στέλνω]{lang="el"}) |
+| [εκ των προτέρων]{lang="el"} | im Voraus (gehoben) |
+| [παραμένω στη διάθεσή σας]{lang="el"} | ich stehe Ihnen zur Verfügung (formell) |
+| [η βδομάδα]{lang="el"} | umg. für [η εβδομάδα]{lang="el"} |
+| [και τα σχετικά]{lang="el"} | und allem Drum und Dran (umg.) |
+| [οικείος, -α, -ο]{lang="el"} | vertraut |
+:::
+
+## Drei Stufen: formell, neutral, vertraut {#sec-register-stufen}
+
+Das Buch hat bisher einzelne Wörter markiert: (umg.), (salopp), (gehoben), (formell). Für die
+eigene Wahl reichen drei Stufen:
+
+| | formell | neutral | vertraut |
+|---|---|---|---|
+| Anrede | [Αξιότιμε κύριε Αντωνίου]{lang="el"}, [εσείς]{lang="el"} | [κύριε Στέλιο]{lang="el"}, [Καλησπέρα σας]{lang="el"}, [εσείς]{lang="el"} | [Δάφνη]{lang="el"}, [ρε Άρη]{lang="el"}, [εσύ]{lang="el"} |
+| Wörter | [ενημερώνω, διαφορετικά, ο ένοικος]{lang="el"} | [λέω, αλλιώς, ο γείτονας]{lang="el"} | [ο από πάνω, και τα σχετικά]{lang="el"} |
+| Bitte | [Θα σας παρακαλούσα να …]{lang="el"} | [Μήπως μπορείτε να …;]{lang="el"} | [Μου κάνεις μια χάρη;]{lang="el"} |
+| Schluss | [Με εκτίμηση]{lang="el"} | [Καλή συνέχεια]{lang="el"} | [Φιλιά]{lang="el"}, [Τα λέμε]{lang="el"} |
+
+**Formell** ist das Register der Ämter, Verträge, Bewerbungen und Beschwerdebriefe; es lebt vor
+allem schriftlich. **Neutral** sprichst du mit dem Vermieter am Telefon, mit der Apothekerin, mit
+Kollegen: höflich, aber ohne Amtswörter. **Vertraut** ist der Ton unter Freunden und in der
+Familie; dorthin gehören die Wörter mit (umg.), von denen viele auch im neutralen Gespräch
+unauffällig sind. Jenseits davon liegt **salopp**; das verstehst du, benutzt es aber nicht
+(Kapitel 30).
+
+Hinter den drei Stufen stecken zwei Regler, die du schon kennst. Der eine regelt die **Nähe**:
+[εσύ]{lang="el"} oder [εσείς]{lang="el"}, Vorname oder [κύριε]{lang="el"} (Kapitel 7). Der andere
+regelt die **Wortwahl**: Alltagswort oder gelehrtes Wort, [λέω]{lang="el"} oder
+[ενημερώνω]{lang="el"}, [αλλιώς]{lang="el"} oder [διαφορετικά]{lang="el"} (Kapitel 28 und 29).
+Meist stehen beide Regler gleich, aber nicht immer. Der Vermieter am Telefon siezt und benutzt
+Alltagswörter: neutral. Eine Nachrichtensprecherin benutzt gelehrte Wörter, spricht aber
+niemanden an. Und wer unter Freunden [ωστόσο]{lang="el"} und [επομένως]{lang="el"} sagt, klingt
+nach Leitartikel oder nach Ironie.
+
+Woran du beim Lesen und Hören erkennst, wo du bist:
+
+- **Anrede und Verbform:** [σας, -ετε, κύριε]{lang="el"} oder [σου, -εις, ρε]{lang="el"}.
+- **Diskursmarker:** [Άσ’ τα, μωρέ, αμέ]{lang="el"} sind vertraut; [Κοιτάξτε, Μάλιστα]{lang="el"}
+  (Kapitel 21 und 7) neutral bis formell.
+- **Gelehrte Wörter und Formen:** Genitiv nach [λόγω, εντός]{lang="el"}, Nominalstil, Wörter wie
+  [εκ των προτέρων]{lang="el"} (Kapitel 28).
+- **Verkleinerungen:** [ένα κρασάκι, ένα λεπτάκι]{lang="el"} sind gesellig (Kapitel 26); in einem
+  Brief ans Amt fehlen sie.
+- **Apostroph in der Schrift:** [τα ’χω, θα ’ρθω]{lang="el"} zeigt gesprochene Sprache.
+
+::: {.callout-important}
+## Merke
+
+Drei Stufen: **formell** (vor allem schriftlich, gelehrte Wörter, [εσείς]{lang="el"}, Nachname),
+**neutral** (höflich, Alltagswörter, [εσείς]{lang="el"} oder [εσύ]{lang="el"}), **vertraut**
+([εσύ]{lang="el"}, Vorname, umgangssprachliche Wörter). Wer die Stufe wechselt, sagt damit etwas:
+förmlich zu Bekannten heißt Abstand, vertraut zu Fremden heißt Nähe, die nicht jeder will.
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Die Stufen sind **Tendenzen**, keine Regeln, und die Grenzen verschieben sich: In vielen Büros und
+Online-Läden duzt man schneller als früher, und E-Mails werden insgesamt lockerer. Alter, Region
+und Branche spielen mit. Im Zweifel hilft der Grundsatz aus dem Lesetext am Ende: Folge dem
+anderen.
+:::
+
+<!-- CHECK: „In vielen Büros und Online-Läden duzt man schneller als früher, E-Mails werden lockerer“ – eigene Einschätzung (eE), keine Quelle; so vorsichtig vertretbar? -->
+
+<!-- EXERCISE: Register erkennen: acht kurze Äußerungen (Schild/Formular, E-Mail-Zeile, Telefon mit dem Vermieter, Chat unter Freunden, Taverne, Nachrichten) den Stufen formell/neutral/vertraut zuordnen und jeweils das verräterische Signal nennen (Anrede/Verbform, Diskursmarker, gelehrtes Wort, Verkleinerung, Apostroph); ein Satz mit gekreuzten Reglern (εσείς + Alltagswörter), Antwort im Chat „1a, 2c …“; Schwierigkeit 1 -->
+
+## Bitten: vom Imperativ bis [θα σας παρακαλούσα]{lang="el"} {#sec-register-bitten}
+
+Der Installateur soll morgen um neun kommen, die Mieterin muss arbeiten. Jemand muss ihm die Tür
+aufmachen. Wie sie fragt, hängt davon ab, wen:
+
+1. [Άνοιξε αύριο στον υδραυλικό, σε παρακαλώ.]{lang="el"} – zum Bruder.
+2. [Μου ανοίγεις αύριο στον υδραυλικό;]{lang="el"} – zur Freundin, die einen Schlüssel hat.
+3. [Μπορείς να ανοίξεις αύριο στον υδραυλικό;]{lang="el"} – zur Kollegin, die nebenan wohnt.
+4. [Μήπως μπορείτε να ανοίξετε αύριο στον υδραυλικό;]{lang="el"} – zur älteren Nachbarin.
+5. [Θα μπορούσατε να ανοίξετε αύριο στον υδραυλικό;]{lang="el"} – zum Hausverwalter
+   ([ο διαχειριστής]{lang="el"}).
+6. [Θα σας παρακαλούσα να ανοίξετε αύριο στον υδραυλικό.]{lang="el"} – schriftlich, an eine
+   Firma.
+
+[ανοίγω σε κάποιον]{lang="el"} heißt „jemandem die Tür aufmachen“. Nach unten wird die Bitte
+länger und weiter von der Wirklichkeit weggerückt: erst der Imperativ (Kapitel 9), dann die Frage
+im Präsens, [μπορώ να]{lang="el"}, dann [θα]{lang="el"} + Imperfekt (Kapitel 24) und schließlich
+[Θα σας παρακαλούσα να …]{lang="el"} „Ich möchte Sie bitten, …“, wörtlich „Ich würde Sie bitten“.
+Die letzte Form ist eine Bitte, die sich nicht mehr als Frage verkleidet; sie gehört in Briefe und
+E-Mails und klingt am Telefon schnell nach Behörde.
+
+### Weichmacher {#sec-register-weichmacher}
+
+Zwischen den Stufen helfen kleine Wörter, die die Bitte kleiner machen, ohne ihren Inhalt zu
+ändern. Die Sprachwissenschaft nennt das **Abschwächung**; dieses Buch nennt die Wörter
+**Weichmacher**.
+
+- **[μήπως]{lang="el"}** „vielleicht, etwa“ (Kapitel 18) stellt die Bitte als Frage nach einer
+  Möglichkeit und lässt Platz für ein Nein: [Μήπως έχετε ένα στιλό;]{lang="el"} Auch Angebote
+  werden so leichter: [Μήπως θέλετε ένα νεράκι;]{lang="el"}
+- **[λίγο]{lang="el"}** macht nicht die Menge kleiner, sondern die Zumutung:
+  [Περιμένετε λίγο.]{lang="el"} [Έλα λίγο εδώ.]{lang="el"} [Κλείσε λίγο την πόρτα.]{lang="el"}
+  Die Tür wird trotzdem ganz zugemacht.
+- **Verkleinerung** (Kapitel 26): [ένα λεπτάκι, μια ερωτησούλα]{lang="el"}.
+- **Bedingungen:** [αν γίνεται]{lang="el"} „wenn es geht“, [αν δε σας κάνει κόπο]{lang="el"}
+  „wenn es Ihnen keine Mühe macht“.
+- **Vorab entschuldigen:** [Συγγνώμη που σας ενοχλώ, …]{lang="el"} „Entschuldigen Sie die
+  Störung, …“.
+- **[σε/σας παρακαλώ]{lang="el"}** (Kapitel 9) steht am Ende. Betont und mit [Έλα]{lang="el"}
+  davor wird es ungeduldig: [Έλα, σε παρακαλώ!]{lang="el"} „Jetzt komm schon!“
+
+Unter Freunden bittet man anders: [Μου κάνεις μια χάρη;]{lang="el"} „Tust du mir einen
+Gefallen?“ Wer so fragt, erwartet ein Ja und sagt es auch.
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Sifianou (1992) hat Bitten im Griechischen und Englischen verglichen. Nach ihrer Beschreibung
+setzt die griechische Höflichkeit unter Freunden und in der Familie eher auf **Nähe**
+(Imperativ, Verkleinerungen), die englische eher auf
+**Abstand** ([*Could you possibly …?*]{lang="en"}). Zu viel Umständlichkeit kann unter Vertrauten
+deshalb kühl wirken. Das ist ein Vergleich mit dem Englischen, nicht mit dem Deutschen, mit Daten
+aus den 1980er-Jahren, und es beschreibt Tendenzen, keine Regeln.
+:::
+
+<!-- CHECK: Sifianou 1992: Wiedergabe korrekt? (griechische Höflichkeit eher „positive politeness“/Nähe, englische eher „negative politeness“/Abstand; Imperative und Diminutive unter Vertrauten; zu viel Indirektheit unter Vertrauten wirkt distanziert)? Datengrundlage 1980er-Jahre? -->
+
+::: {.callout-warning}
+## Achtung
+
+- Weichmacher nicht stapeln. [Μήπως θα μπορούσατε, αν δε σας κάνει κόπο, να μου πείτε λίγο
+  …;]{lang="el"} klingt unterwürfig oder ironisch. Ein oder zwei reichen.
+- Zu förmlich ist auch falsch. [Θα μπορούσες να μου δώσεις το αλάτι;]{lang="el"} am
+  Familientisch kann spitz klingen, als hätte man vorher schon dreimal gefragt.
+- [αν δε σας κάνει κόπο]{lang="el"}: [δε]{lang="el"} ohne [ν]{lang="el"} vor [σ]{lang="el"}
+  (Kapitel 1). Viele schreiben [δεν]{lang="el"}; beides kommt vor.
+:::
+
+<!-- CHECK: „Θα μπορούσες να μου δώσεις το αλάτι;“ am Familientisch „kann spitz klingen“ – eE, plausibel? -->
+
+<!-- EXERCISE: Bitten auf der Leiter verschieben: sechs Bitten (Salz reichen, Fenster zumachen, einen Moment warten, eine Unterschrift, Paket annehmen, Musik leiser) jeweils für ein angegebenes Gegenüber (Bruder, Freundin, ältere Nachbarin, Beamtin am Schalter, Hausverwaltung schriftlich) laut umformen, mit passendem Weichmacher (μήπως, λίγο, αν δε σας κάνει κόπο, Συγγνώμη που σας ενοχλώ, σε/σας παρακαλώ, Μου κάνεις μια χάρη;); Lösung mit Varianten und den Fehlern „zu förmlich unter Vertrauten“ und „Weichmacher gestapelt“; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [μήπως]{lang="el"} | [ˈmipos] | vielleicht, etwa (in Fragen, Bitten, Angeboten) |
+| [ανοίγω σε κάποιον]{lang="el"} | [aˈniɣo se ˈkapçon] | jemandem (die Tür) aufmachen |
+| [Θα σας παρακαλούσα να …]{lang="el"} | [θa sas parakaˈlusa na] | Ich möchte Sie bitten, … (formell) |
+| [ο κόπος]{lang="el"} | [o ˈkopos] | die Mühe |
+| [αν δε σας κάνει κόπο]{lang="el"} | [an ðe sas ˈkani ˈkopo] | wenn es Ihnen keine Mühe macht |
+| [αν γίνεται]{lang="el"} | [an ˈʝinete] | wenn es geht |
+| [ενοχλώ, ενόχλησα; ενοχλούμαι, ενοχλήθηκα]{lang="el"} | [enoˈxlo], [eˈnoxlisa]; [enoˈxlume], [enoˈxliθika] | stören; sich gestört fühlen |
+| [Συγγνώμη που σας ενοχλώ.]{lang="el"} | [siɣˈnomi pu sas enoˈxlo] | Entschuldigen Sie die Störung. |
+| [η χάρη]{lang="el"} | [i ˈxari] | der Gefallen; die Anmut |
+| [Μου κάνεις μια χάρη;]{lang="el"} | [mu ˈkanis mɲa ˈxari] | Tust du mir einen Gefallen? |
+:::
+
+## Sich beschweren, ohne zu streiten {#sec-register-beschwerde}
+
+Die E-Mail vom Anfang ist eine Beschwerde nach Lehrbuch, und sie ist hart, ohne ein einziges
+unhöfliches Wort. Die Härte steckt im Aufbau: Anlass, Vorgeschichte mit Datum, Bitte mit Frist,
+Folge. Dieselben vier Schritte funktionieren auch am Telefon, nur eine Stufe tiefer:
+
+| Schritt | formell (schriftlich) | neutral (am Telefon) |
+|---|---|---|
+| Anlass | [Σας γράφω σχετικά με …]{lang="el"}, [Θα ήθελα να σας ενημερώσω ότι …]{lang="el"} | [Σας παίρνω για …]{lang="el"}, [Συγγνώμη που σας ενοχλώ, αλλά …]{lang="el"} |
+| Vorgeschichte | [Όπως σας ενημέρωσα ήδη …]{lang="el"} | [Σας το είπα και την περασμένη εβδομάδα.]{lang="el"} |
+| Bitte, Frist | [Θα σας παρακαλούσα να … το συντομότερο δυνατό.]{lang="el"} | [Μήπως μπορείτε να στείλετε κάποιον μέχρι την Παρασκευή;]{lang="el"} |
+| Folge | [Διαφορετικά θα αναγκαστώ να …]{lang="el"} | [Αλλιώς θα πρέπει να …]{lang="el"} |
+
+[Σας παίρνω για …]{lang="el"} heißt „Ich rufe Sie wegen … an“, kurz für [σας παίρνω
+τηλέφωνο]{lang="el"}. [Θα ήθελα να σας ενημερώσω ότι …]{lang="el"} „Ich möchte Ihnen mitteilen,
+dass …“ ist die höflichste Art, schlechte Nachrichten anzukündigen, und steht in Briefen von Banken
+und Behörden oft vor etwas Unangenehmem.
+
+Am Telefon kommt ein Wort aus Kapitel 21 dazu: [Κοιτάξτε, κύριε Στέλιο, δεν πάει άλλο.]{lang="el"}
+[Κοιτάξτε]{lang="el"} kündigt an, dass jetzt etwas Ernstes kommt, und das [κύριε Στέλιο]{lang="el"}
+hält die Beziehung freundlich.
+
+Kleinere Ärgernisse löst man mit [μήπως]{lang="el"}. In der Taverne fehlt der Salat:
+[Συγγνώμη, μήπως ξεχάσατε τη σαλάτα μας;]{lang="el"} „Entschuldigung, haben Sie vielleicht
+unseren Salat vergessen?“ Die Frage beschuldigt niemanden, und der Kellner kann „schon unterwegs“
+sagen, ohne das Gesicht zu verlieren.
+
+Unter Freunden wird aus der Beschwerde eine Erzählung. Dort gelten andere Mittel: die Marker aus
+Kapitel 2 ([άκου να δεις, που λες]{lang="el"}), Übertreibung ([πέντε φορές]{lang="el"}), das
+spöttische [λέει]{lang="el"} und das Zitat in wörtlicher Rede, oft mit verstellter Stimme:
+[«Αύριο, κυρία Δάφνη, αύριο.»]{lang="el"}
+
+::: {.callout-tip}
+## Tipp
+
+Wer sich auf Griechisch beschwert und die Wörter noch sucht, wird leicht schroffer als gewollt.
+Halte dich an die vier Schritte und an [δυστυχώς]{lang="el"}: [Δυστυχώς, το πρόβλημα δεν έχει
+λυθεί ακόμα.]{lang="el"} „Leider ist das Problem noch nicht gelöst.“ Das Mediopassiv im Perfekt
+(Kapitel 13 und 14) nennt keinen Schuldigen und ist trotzdem unmissverständlich.
+:::
+
+<!-- EXERCISE: Eine Beschwerde in drei Registern, laut: Der Nachbar feiert jede Nacht bis drei Uhr, die Hausverwaltung reagiert nicht. (A) Stichpunkte als formelle E-Mail an die Hausverwaltung mit den vier Schritten (Σας γράφω σχετικά με, Όπως σας ενημέρωσα, Θα σας παρακαλούσα να, Διαφορετικά θα αναγκαστώ να); (B) neutral am Telefon mit dem Nachbarn selbst (Συγγνώμη που σας ενοχλώ, αλλά…, Κοιτάξτε, μήπως); (C) vertraut, die Geschichte einem Freund erzählen (άκου να δεις, Δεν πάει άλλο, λέει, Übertreibung); Musterlösungen mit Varianten, typische Fehler: Register mischen (Αξιότιμε + ρε), Imperativ an den Nachbarn; Schwierigkeit 3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Σας γράφω σχετικά με …]{lang="el"} | [sas ˈɣrafo sçetiˈka me] | Ich schreibe Ihnen wegen … (formell) |
+| [Θα ήθελα να σας ενημερώσω ότι …]{lang="el"} | [θa ˈiθela na sas enimeˈroso ˈoti] | Ich möchte Ihnen mitteilen, dass … (formell) |
+| [Σας παίρνω για …]{lang="el"} | [sas ˈperno ʝa] | Ich rufe Sie wegen … an |
+| [το παράπονο]{lang="el"} | [to paˈrapono] | die Beschwerde, die Klage |
+| [λύνω, έλυσα; λύνομαι, λύθηκα]{lang="el"} | [ˈlino], [ˈelisa]; [ˈlinome], [ˈliθika] | lösen; gelöst werden |
+:::
+
+## E-Mails: Anrede und Schluss {#sec-register-email}
+
+Eine griechische E-Mail beginnt mit einer Anrede und endet mit einer Grußformel, wie im Deutschen.
+Beide zeigen die Stufe, und beide stehen im Vokativ (Kapitel 7):
+
+| Anrede | Stufe | an wen |
+|---|---|---|
+| [Αξιότιμε κύριε Αντωνίου]{lang="el"}, [Αξιότιμη κυρία Παπαδοπούλου]{lang="el"} | formell | Ämter, Professoren, Unbekannte, Beschwerden |
+| [Αγαπητέ κύριε Νικολάου]{lang="el"}, [Αγαπητή κυρία Μαρία]{lang="el"} | formell bis neutral | Bekannte, mit denen man siezt |
+| [Καλησπέρα σας]{lang="el"}, [Καλημέρα σας]{lang="el"} | neutral | fast alle, heute sehr verbreitet |
+| [Γεια σου, Νίκο]{lang="el"}, [Αγαπητή Μαρία]{lang="el"} | vertraut | Kollegen, Freunde |
+
+[αξιότιμος]{lang="el"} heißt „ehrenwert, verehrt“, wörtlich „der Ehre wert“ ([άξιος]{lang="el"} +
+[τιμή]{lang="el"}). Es steht mit [κύριε/κυρία]{lang="el"} und Nachnamen oder Titel:
+[Αξιότιμε κύριε καθηγητά]{lang="el"} „Sehr geehrter Herr Professor“, mit dem alten Vokativ
+[καθηγητά]{lang="el"}. [Αγαπητέ/Αγαπητή]{lang="el"} ist wärmer und passt auch in formelle E-Mails
+an Menschen, die man kennt. Mit dem Vornamen allein ist es ein freundlicher Brief. Eine Firma oder
+ein Amt ohne Namen redet man mit [Αξιότιμοι κύριοι/κυρίες]{lang="el"} an oder einfach mit
+[Καλησπέρα σας]{lang="el"}.
+
+<!-- CHECK: E-Mail-Anreden: „Καλησπέρα σας / Καλημέρα σας“ als heute sehr verbreitete neutrale Anrede in E-Mails (eE); „Αξιότιμοι κύριοι/κυρίες“ an Institutionen ohne Namen üblich? „Αγαπητή κυρία Μαρία“ (Anrede mit κυρία + Vorname) in E-Mails natürlich? -->
+
+Für die Schlussformel gibt es eine ähnliche Leiter:
+
+| Schluss | Stufe |
+|---|---|
+| [Με εκτίμηση]{lang="el"} | formell, der Standard für alles Offizielle |
+| [Με φιλικούς χαιρετισμούς]{lang="el"}, [Φιλικά]{lang="el"} | neutral, freundlich |
+| [Καλή συνέχεια]{lang="el"} | neutral, „einen schönen Tag noch“ |
+| [Φιλιά]{lang="el"}, [Τα λέμε]{lang="el"} | vertraut: Freunde, Familie |
+
+Davor stehen oft feste Sätze:
+
+- [Σας ευχαριστώ εκ των προτέρων.]{lang="el"} „Vielen Dank im Voraus.“ (formell)
+- [Παραμένω στη διάθεσή σας για οποιαδήποτε διευκρίνιση.]{lang="el"} „Für Rückfragen stehe ich Ihnen
+  gern zur Verfügung.“ (formell)
+- [Ελπίζω να είστε καλά.]{lang="el"} „Ich hoffe, es geht Ihnen gut.“ (neutral, eher am Anfang)
+- [Περιμένω νέα σας.]{lang="el"} „Ich freue mich, von Ihnen zu hören.“ (neutral)
+
+Auf Ämtern und in Behördenbriefen triffst du außerdem Stufe 3 aus Kapitel 28, zum Erkennen:
+[Σε συνέχεια της τηλεφωνικής μας επικοινωνίας …]{lang="el"} „Bezug nehmend auf unser
+Telefonat …“, [Παρακαλώ όπως μου απαντήσετε …]{lang="el"} „Ich bitte um Ihre Antwort …“, und am
+Ende eines Antrags [Με τιμή]{lang="el"} „Hochachtungsvoll“. [όπως]{lang="el"} ersetzt hier ein
+[να]{lang="el"}: [Παρακαλώ να μου απαντήσετε]{lang="el"} sagt dasselbe, eine Stufe tiefer.
+
+<!-- CHECK: „Με τιμή“ als Schluss von Anträgen (αιτήσεις) an Behörden; „Παρακαλώ όπως + Konjunktiv ohne να“ als Kanzleiformel; „Με φιλικούς χαιρετισμούς“ neutral-freundlich – Einordnung korrekt? -->
+
+::: {.callout-warning}
+## Achtung
+
+- **Vokativ in beiden Wörtern:** [Αξιότιμε κύριε Παπαδόπουλε]{lang="el"}, nicht
+  \*[Αξιότιμος κύριος Παπαδόπουλος]{lang="el"}. Frauennamen und Namen wie [Αντωνίου]{lang="el"}
+  ändern sich nicht.
+- **Geschlecht:** [Αγαπητέ]{lang="el"} an einen Mann, [Αγαπητή]{lang="el"} an eine Frau. Wer
+  nicht weiß, wer die E-Mail liest, nimmt [Καλησπέρα σας]{lang="el"}.
+- **[Φιλιά]{lang="el"}** heißt „Küsse“. Es ist unter Freunden so normal wie „LG“, im Postfach
+  eines Professors aber eine Überraschung (siehe den Lesetext).
+:::
+
+<!-- EXERCISE: Anrede und Schluss wählen: sechs Empfänger (Steuerbehörde ohne Namen, Professorin Eleni Vlachou, der Vermieter Herr Stelios, den man sonst mit κύριε Στέλιο anredet – einmal freundlich, einmal Beschwerde, ein Kollege, die beste Freundin, ein Online-Shop) je Anrede und Schluss aus nummerierten Listen wählen (Chat „1b-3, …“); dazu drei fehlerhafte Anreden verbessern (Αξιότιμος κύριος Παπαδόπουλος, Αγαπητή κύριε Νίκο, Αξιότιμε Στέλιο); Schwierigkeit 1 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Αξιότιμε κύριε …, Αξιότιμη κυρία …]{lang="el"} | [aksiˈotime ˈcirie], [aksiˈotimi ciˈria] | Sehr geehrter Herr …, Sehr geehrte Frau … (formell) |
+| [Αγαπητέ …, Αγαπητή …]{lang="el"} | [aɣapiˈte], [aɣapiˈti] | Lieber …, Liebe …; Sehr geehrte(r) (an Bekannte) |
+| [Με εκτίμηση]{lang="el"} | [me ekˈtimisi] | Mit freundlichen Grüßen (formell) |
+| [Με φιλικούς χαιρετισμούς]{lang="el"} | [me filiˈkus çeretizˈmus] | Mit freundlichen Grüßen (freundlich) |
+| [Φιλικά]{lang="el"} | [filiˈka] | Freundliche Grüße, Viele Grüße |
+| [Καλή συνέχεια!]{lang="el"} | [kaˈli siˈneçia] | Einen schönen Tag noch! (auch mündlich) |
+| [Φιλιά]{lang="el"} | [fiˈʎa] | Küsse; Liebe Grüße (vertraut) |
+| [Σας ευχαριστώ εκ των προτέρων.]{lang="el"} | [sas efxariˈsto ek ton proˈteron] | Vielen Dank im Voraus. (formell) |
+| [Είμαι στη διάθεσή σας.]{lang="el"} | [ˈime sti ðiˈaθeˈsi sas] | Ich stehe Ihnen zur Verfügung. (formell) |
+| [Ελπίζω να είστε καλά.]{lang="el"} | [elˈpizo na ˈiste kaˈla] | Ich hoffe, es geht Ihnen gut. |
+| [Περιμένω νέα σας.]{lang="el"} | [periˈmeno ˈnea sas] | Ich freue mich, von Ihnen zu hören. |
+| [συνημμένος, -η, -ο; το συνημμένο]{lang="el"} | [siniˈmenos]; [to siniˈmeno] | angehängt; der Anhang (E-Mail) |
+| [επικοινωνώ, επικοινώνησα]{lang="el"} | [epicinoˈno], [epiciˈnonisa] | Kontakt aufnehmen ([με]{lang="el"} + Akk.) |
+| [η επικοινωνία]{lang="el"} | [i epicinoˈnia] | die Kommunikation, der Kontakt |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [αξιότιμος, -η, -ο]{lang="el"} | ehrenwert, verehrt |
+| [Αξιότιμοι κύριοι/κυρίες]{lang="el"} | Sehr geehrte Damen und Herren (formell) |
+| [κύριε καθηγητά]{lang="el"} | Herr Professor (Anrede) |
+| [οποιοσδήποτε, -α, -ο]{lang="el"} | jeder beliebige |
+| [η διευκρίνιση]{lang="el"} | die Klarstellung, Rückfrage |
+| [Σε συνέχεια της επικοινωνίας μας]{lang="el"} | Bezug nehmend auf unseren Kontakt (formell, nur erkennen) |
+| [Παρακαλώ όπως …]{lang="el"} | Ich bitte darum, dass … (formell, nur erkennen) |
+| [Με τιμή]{lang="el"} | Hochachtungsvoll (Anträge, formell) |
+:::
+
+## Hörspur: ein Anruf in der Taverne {#sec-register-hoerspur}
+
+Die ▶-Aufnahmen sind synthetische Stimmen. Sie wechseln das Register nur in den Wörtern, nicht im
+Ton; wie echte Menschen dabei Tempo und Stimme ändern, bringt der Hör-Auftrag am Ende des
+Abschnitts.
+
+Am selben Abend, eine Taverne in Kypseli. Dafni erzählt ihrem Freund Aris die Geschichte vom Bad,
+dann klingelt ihr Handy, und sie stellt auf Lautsprecher. Drei Personen, aber die Aufnahme hat nur
+zwei Stimmen: Dafni spricht die Frauenstimme, Aris **und** der Vermieter die Männerstimme. Den
+Vermieter erkennst du an [σας]{lang="el"} und [κυρία Δάφνη]{lang="el"}.
+
+Vor dem Hören:
+
+- **Worthilfen:** [ο σοβάς]{lang="el"} der Putz · [ο νεροχύτης]{lang="el"} die Spüle ·
+  [η ανοιχτή ακρόαση]{lang="el"} der Lautsprecher (Telefon) · [το νοσοκομείο]{lang="el"} das
+  Krankenhaus · [το αρνάκι]{lang="el"} das Lämmchen.
+- **Ein Spitzname:** Aris nennt den Vermieter [ο κύριος Αξιότιμος]{lang="el"}, „Herr
+  Sehr-geehrt“.
+- **Achte auf den Wechsel:** Wie spricht Dafni mit Aris, wie mit dem Vermieter?
+
+::: {lang="el" .listen}
+[— Λοιπόν; Σου απάντησε ο κύριος Αξιότιμος;]{.v2}
+
+[— Μπα. Ούτε λέξη. Άσ’ τα, ρε Άρη. Χθες έπεσε κι ένα κομμάτι σοβάς στον νεροχύτη.]{.v1}
+
+[— Έλα ρε! Κι εσύ τι έκανες;]{.v2}
+
+[— Τι να κάνω; Το μάζεψα και… Στάσου, με παίρνει. Αυτός είναι!]{.v1}
+
+[— Βάλε ανοιχτή ακρόαση!]{.v2}
+
+[— Ναι, παρακαλώ;]{.v1}
+
+[— Κυρία Δάφνη; Ο Στέλιος Αντωνίου είμαι. Συγγνώμη που σας ενοχλώ τέτοια ώρα. Πήρα το μήνυμά
+σας.]{.v2}
+
+[— Καλησπέρα σας, κύριε Στέλιο. Δεν ενοχλείτε καθόλου.]{.v1}
+
+[— Κοιτάξτε, έχετε δίκιο, άργησα. Είχα ένα θέμα με τη μητέρα μου στο νοσοκομείο.]{.v2}
+
+[— Λυπάμαι πολύ. Ελπίζω να είναι καλύτερα.]{.v1}
+
+[— Καλύτερα, ευχαριστώ. Αύριο στις εννιά θα έρθει ο υδραυλικός. Μήπως θα μπορούσατε να είστε στο
+σπίτι;]{.v2}
+
+[— Στις εννιά δουλεύω, δυστυχώς. Αν δε σας κάνει κόπο, μήπως γίνεται λίγο πιο αργά; Στις έξι, ας
+πούμε;]{.v1}
+
+[— Θα τον ρωτήσω και θα σας στείλω μήνυμα. Και για τον λογαριασμό μην ανησυχείτε, τον πληρώνω
+εγώ.]{.v2}
+
+[— Σας ευχαριστώ πολύ. Καλό βράδυ.]{.v1}
+
+[— Καλό βράδυ. Και πάλι συγγνώμη.]{.v2}
+
+[— Άκουσες; «Συγγνώμη που σας ενοχλώ»! Ένα μέιλ με «Αξιότιμε» και έγινε αρνάκι.]{.v1}
+
+[— Εγώ σου λέω, από δω και πέρα μόνο έτσι να του γράφεις. Άντε, στην υγειά του
+υδραυλικού!]{.v2}
+
+[— Στην υγειά του! Και του κυρίου Αξιότιμου.]{.v1}
+:::
+
+<!-- CHECK: Hörspur: „έγινε αρνάκι“ (wurde lammfromm) idiomatisch? „Ο Στέλιος Αντωνίου είμαι“ als Meldung am Telefon natürlich? „από δω και πέρα μόνο έτσι να του γράφεις“ -->
+
+<!-- EXERCISE: Hörverstehen: direkt nach dem Block, mit ▶ hören, ohne den Text aufzuklappen, höchstens zweimal; sechs bis sieben Inhaltsfragen (Multiple Choice, Antwort im Chat „1a, 2b …“) zu: was gestern in die Spüle fiel, warum Aris auf Lautsprecher drängt bzw. was er hören will, warum der Vermieter sich verspätet hat, wann der Installateur kommen soll, warum Dafni nicht kann und welche Uhrzeit sie vorschlägt, wer die Rechnung bezahlt, womit Dafni die Wendung des Vermieters erklärt; nur Inhaltsfragen, keine Formfragen; Schwierigkeit 2 -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Aris:** Und? Hat dir Herr Sehr-geehrt geantwortet?
+
+**Dafni:** Nee. Kein Wort. Frag nicht, Aris. Gestern ist auch noch ein Stück Putz in die Spüle
+gefallen.
+
+**Aris:** Nein! Und was hast du gemacht?
+
+**Dafni:** Was soll ich machen? Aufgesammelt und … Moment, er ruft an. Das ist er!
+
+**Aris:** Mach den Lautsprecher an!
+
+**Dafni:** Ja, bitte?
+
+**Vermieter:** Frau Dafni? Hier ist Stelios Antoniou. Entschuldigen Sie die Störung um diese Zeit.
+Ich habe Ihre Nachricht bekommen.
+
+**Dafni:** Guten Abend, Herr Stelios. Sie stören überhaupt nicht.
+
+**Vermieter:** Schauen Sie, Sie haben recht, ich war spät dran. Ich hatte etwas mit meiner Mutter
+im Krankenhaus.
+
+**Dafni:** Das tut mir sehr leid. Ich hoffe, es geht ihr besser.
+
+**Vermieter:** Besser, danke. Morgen um neun kommt der Installateur. Könnten Sie vielleicht zu Hause
+sein?
+
+**Dafni:** Um neun arbeite ich leider. Wenn es Ihnen keine Mühe macht, ginge es vielleicht etwas
+später? Um sechs, sagen wir?
+
+**Vermieter:** Ich frage ihn und schicke Ihnen eine Nachricht. Und wegen der Rechnung machen Sie
+sich keine Sorgen, die bezahle ich.
+
+**Dafni:** Vielen Dank. Einen schönen Abend.
+
+**Vermieter:** Schönen Abend. Und noch mal Entschuldigung.
+
+**Dafni:** Hast du das gehört? „Entschuldigen Sie die Störung“! Eine Mail mit „Sehr geehrter“, und
+er ist lammfromm.
+
+**Aris:** Ich sag dir, ab jetzt schreibst du ihm nur noch so. Also dann, auf den Installateur!
+
+**Dafni:** Auf ihn! Und auf Herrn Sehr-geehrt.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [Ούτε λέξη.]{lang="el"} | Kein Wort. |
+| [Στάσου.]{lang="el"} | Warte mal. Moment. |
+| [με παίρνει]{lang="el"} | er ruft mich an |
+| [Ναι, παρακαλώ;]{lang="el"} | Ja, bitte? (am Telefon, bei unbekannter Nummer) |
+| [τέτοια ώρα]{lang="el"} | um diese Zeit |
+| [Δεν ενοχλείτε καθόλου.]{lang="el"} | Sie stören überhaupt nicht. |
+| [και πάλι]{lang="el"} | noch einmal |
+| [γίνομαι αρνάκι]{lang="el"} | lammfromm werden (umg.) |
+| [από δω και πέρα]{lang="el"} | von jetzt an |
+:::
+
+### Register hören {#sec-register-hoeren}
+
+Im Gespräch verrät sich das Register zuerst an den Endungen: [sas] und [-ete] gegen [su] und
+[-is], und an der Anrede, die meist vorn oder hinten im Satz steht ([ˈcirie ˈstelʝo],
+[re ˈari]). Achte in echten Aufnahmen außerdem auf den Rest: Wer förmlich wird, spricht oft
+langsamer und in ganzen Sätzen, lässt weniger [ρε, μωρέ, άσ’ τα]{lang="el"} fallen und
+unterbricht seltener.
+
+Filme und Serien leben von solchen Wechseln: Eine Figur redet mit dem Chef und dreht sich zur
+Kollegin um, ein Polizist wird vom [εσείς]{lang="el"} zum [εσύ]{lang="el"}, sobald es ernst
+wird. Auf [ERTflix](https://www.ertflix.gr) findest du griechische Serien, viele mit griechischen
+Untertiteln für Hörgeschädigte.
+
+<!-- EXERCISE: Hör-Auftrag mit ERTflix (https://www.ertflix.gr): zehn Minuten einer griechischen Serie oder eines Films mit Szenen in Büro, Amt, Laden oder Arztpraxis; (1) ohne Untertitel eine Strichliste: jede Anrede notieren (κύριε/κυρία + Name, Vorname, ρε) und ob die Figur siezt oder duzt; (2) eine Bitte oder Beschwerde heraushören und ihre Weichmacher notieren (μήπως, λίγο, Συγγνώμη που…, θα μπορούσατε); (3) mit griechischen Untertiteln prüfen; Zusatz: Gibt es einen Wechsel vom εσείς zum εσύ oder umgekehrt, und was bedeutet er in der Szene?; Auswertung ohne feste Lösung, Hinweis auf Signale aus @sec-register-stufen; Schwierigkeit 2 -->
+
+## Das Wichtigste {#sec-register-wichtigste}
+
+- **Register** ([το ύφος]{lang="el"}) in drei Stufen: **formell** (vor allem schriftlich,
+  gelehrte Wörter, [εσείς]{lang="el"}, Nachname), **neutral** (höflich, Alltagswörter), **vertraut**
+  ([εσύ]{lang="el"}, Vorname, umg. Wörter). Zwei Regler: Nähe und Wortwahl. Ein Wechsel der Stufe
+  ist selbst eine Botschaft.
+- **Bitten** auf der Leiter: Imperativ → [Μου … ;]{lang="el"} → [Μπορείς/Μπορείτε να …;]{lang="el"}
+  → [Θα μπορούσατε να …;]{lang="el"} → [Θα σας παρακαλούσα να …]{lang="el"} (schriftlich).
+- **Weichmacher:** [μήπως, λίγο]{lang="el"}, Verkleinerung, [αν γίνεται, αν δε σας κάνει
+  κόπο]{lang="el"}, [Συγγνώμη που σας ενοχλώ]{lang="el"}; höchstens zwei auf einmal. Unter Freunden
+  [Μου κάνεις μια χάρη;]{lang="el"}
+- **Beschwerde** in vier Schritten: Anlass ([Σας γράφω σχετικά με …]{lang="el"}), Vorgeschichte
+  ([Όπως σας ενημέρωσα …]{lang="el"}), Bitte mit Frist, Folge ([Διαφορετικά …]{lang="el"}).
+  Kleinigkeiten mit [μήπως]{lang="el"}: [Μήπως ξεχάσατε …;]{lang="el"}
+- **E-Mail:** Anrede im Vokativ ([Αξιότιμε κύριε …]{lang="el"}, [Αγαπητή …]{lang="el"},
+  [Καλησπέρα σας]{lang="el"}), Schluss [Με εκτίμηση]{lang="el"} (formell), [Φιλικά, Καλή
+  συνέχεια]{lang="el"} (neutral), [Φιλιά]{lang="el"} (vertraut). Zum Erkennen: [Παρακαλώ όπως,
+  Σε συνέχεια …, Με τιμή]{lang="el"}.
+
+## Zum Lesen: Küsse an den Professor {#sec-register-lesetext}
+
+Aus der Ratgeber-Kolumne eines Onlinemagazins, erfunden, aber nicht ganz unwahrscheinlich. Der
+Brief der Leserin ist neutral bis vertraut, die Antwort neutral, und beide zitieren Formeln aus
+diesem Kapitel.
+
+::: {lang="el"}
+**«Έστειλα "Φιλιά" στον καθηγητή μου»**
+
+Αγαπητή Μαρίνα,
+
+είμαι φοιτήτρια στο δεύτερο έτος. Χθες έστειλα στον καθηγητή μου την εργασία μου με ένα μέιλ.
+Όλα σωστά: «Αξιότιμε κύριε καθηγητά», «Σας ευχαριστώ εκ των προτέρων», «Με εκτίμηση». Μόνο που
+από τη βιασύνη μου έγραψα από κάτω και «Φιλιά», όπως γράφω στη μαμά μου. Το είδα όταν ήταν πια
+αργά. Τι κάνω τώρα; Του ξαναγράφω; Κάνω πως δεν έγινε τίποτα;
+
+*Κατερίνα, Θεσσαλονίκη*
+
+Αγαπητή Κατερίνα,
+
+μην ανησυχείς· δεν είσαι η πρώτη. Οι καθηγητές διαβάζουν εκατοντάδες μέιλ τον μήνα και έχουν δει
+πολύ χειρότερα. Αν θέλεις να ησυχάσεις, στείλε δύο γραμμές: «Συγγνώμη για το λάθος στο
+προηγούμενο μήνυμα. Με εκτίμηση». Τίποτα άλλο. Όσο περισσότερο εξηγείς, τόσο μεγαλώνει το θέμα.
+
+Και για την επόμενη φορά, μια μικρή σκάλα. Στην κορυφή είναι το «Αξιότιμε»: για υπηρεσίες, για
+καθηγητές, για ανθρώπους που δεν ξέρεις. Ένα σκαλί πιο κάτω, το «Αγαπητέ» ή «Αγαπητή»: ευγενικό,
+αλλά πιο ζεστό. Στη μέση, το απλό «Καλησπέρα σας», που σήμερα το βλέπεις παντού. Στο τέλος
+αντίστοιχα: «Με εκτίμηση» για τους επίσημους, «Φιλικά» ή «Καλή συνέχεια» για τους συναδέλφους,
+και τα «Φιλιά» μόνο για όσους θα φιλούσες και στην πραγματικότητα.
+
+Ένας κανόνας ακόμα: ακολούθησε τον άλλον. Αν ο καθηγητής απαντήσει «Γεια σας, Κατερίνα,
+ευχαριστώ», μπορείς κι εσύ να γίνεις λίγο πιο απλή. Αν σου γράψει στον ενικό, μη βιαστείς να κάνεις
+το ίδιο. Οι μεγαλύτεροι συχνά μιλάνε στον ενικό στους νεότερους, αλλά αυτό δε σημαίνει ότι
+περιμένουν το ίδιο.
+
+Και κάτι για παρηγοριά: ο καθηγητής σου μάλλον χαμογέλασε. Ίσως μάλιστα να είναι ο μόνος στη
+σχολή που πήρε φιλιά για μια εργασία αυτή την εβδομάδα.
+
+*Μαρίνα*
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η φοιτήτρια]{lang="el"} | die Studentin |
+| [το έτος]{lang="el"} | das Jahr; hier: Studienjahr (Kapitel 28) |
+| [η εργασία]{lang="el"} | die (Haus-)Arbeit, Seminararbeit |
+| [η βιασύνη]{lang="el"} | die Eile |
+| [κάνω πως]{lang="el"} | so tun, als ob |
+| [ησυχάζω, ησύχασα]{lang="el"} | sich beruhigen, Ruhe finden |
+| [προηγούμενος, -η, -ο]{lang="el"} | vorig, vorherig |
+| [η σκάλα, το σκαλί]{lang="el"} | die Leiter, Treppe; die Stufe |
+| [η υπηρεσία]{lang="el"} | die Dienststelle, Behörde |
+| [αντίστοιχα]{lang="el"} | entsprechend |
+| [φιλάω, φίλησα]{lang="el"} | küssen |
+| [στην πραγματικότητα]{lang="el"} | in Wirklichkeit |
+| [βιάζομαι, βιάστηκα]{lang="el"} | sich beeilen; es eilig haben |
+| [η παρηγοριά]{lang="el"} | der Trost |
+| [χαμογελάω, χαμογέλασα]{lang="el"} | lächeln |
+| [η σχολή]{lang="el"} | die Fakultät (falscher Freund, Kapitel 1) |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**„Ich habe meinem Professor ‚Küsse‘ geschickt“**
+
+Liebe Marina,
+
+ich bin Studentin im zweiten Jahr. Gestern habe ich meinem Professor meine Hausarbeit per Mail
+geschickt. Alles richtig: „Sehr geehrter Herr Professor“, „Vielen Dank im Voraus“, „Mit
+freundlichen Grüßen“. Nur habe ich in der Eile darunter auch noch „Küsse“ geschrieben, wie an
+meine Mama. Gesehen habe ich es, als es schon zu spät war. Was mache ich jetzt? Schreibe ich ihm
+noch mal? Tue ich so, als wäre nichts gewesen?
+
+*Katerina, Thessaloniki*
+
+Liebe Katerina,
+
+keine Sorge, du bist nicht die Erste. Professoren lesen Hunderte Mails im Monat und haben schon
+viel Schlimmeres gesehen. Wenn du Ruhe haben willst, schick zwei Zeilen: „Entschuldigung für den
+Fehler in der vorigen Nachricht. Mit freundlichen Grüßen.“ Sonst nichts. Je mehr du erklärst, desto
+größer wird die Sache.
+
+Und fürs nächste Mal eine kleine Leiter. Ganz oben steht „Sehr geehrte(r)“: für Behörden, für
+Professoren, für Leute, die du nicht kennst. Eine Stufe tiefer „Lieber“ oder „Liebe“: höflich,
+aber wärmer. In der Mitte das einfache „Guten Abend“, das man heute überall sieht. Am Schluss
+entsprechend: „Mit freundlichen Grüßen“ für die Offiziellen, „Viele Grüße“ oder „Einen schönen Tag
+noch“ für Kollegen, und „Küsse“ nur für die, die du auch in Wirklichkeit küssen würdest.
+
+Noch eine Regel: Folge dem anderen. Antwortet der Professor „Guten Tag, Katerina, danke“, darfst
+auch du etwas einfacher werden. Duzt er dich, beeil dich nicht, es ihm gleichzutun. Ältere duzen
+Jüngere oft, aber das heißt nicht, dass sie dasselbe erwarten.
+
+Und etwas zum Trost: Dein Professor hat vermutlich gelächelt. Vielleicht ist er sogar der Einzige
+an der Fakultät, der diese Woche für eine Hausarbeit Küsse bekommen hat.
+
+*Marina*
+:::
+
+<!-- EXERCISE: Nach dem Lesen: Teil A richtig/falsch zum Inhalt (fünf Aussagen: was Katerina falsch gemacht hat, was Marina ihr rät, wie lang die Entschuldigung sein soll, wofür „Αγαπητέ“ passt, was man tut, wenn der Professor duzt); Teil B die Formeln der Kolumne den Stufen formell/neutral/vertraut zuordnen; Teil C laut die kurze Entschuldigungs-Mail an den Professor sprechen und eine Variante an eine Kollegin, mit passender Anrede und Schlussformel; Schwierigkeit 2 -->

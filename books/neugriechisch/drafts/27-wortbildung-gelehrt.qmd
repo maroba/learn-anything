@@ -103,7 +103,6 @@ wissen, **was sie heute im Griechischen bedeuten**.
 | [το κολύμπι]{lang="el"} | das Schwimmen ([κολυμπάω]{lang="el"}, Kapitel 4) |
 | [οι σταγόνες]{lang="el"} | die Tropfen |
 | [το αντιπυρετικό]{lang="el"} | das fiebersenkende Mittel |
-| [Αν δεν περάσει]{lang="el"} | Wenn es nicht vorbeigeht |
 | [ο ωτορινολαρυγγολόγος]{lang="el"} | der Hals-Nasen-Ohren-Arzt |
 | [ο ωριλά]{lang="el"} (unveränderlich), volkst. [ο ωριλάς, οι ωριλάδες]{lang="el"} | der HNO-Arzt (umg.) |
 | [ολόκληρος, -η, -ο]{lang="el"} | ganz, vollständig |
@@ -428,8 +427,7 @@ deutschen Fremdwörtern:
 | [υπερ-]{lang="el"} | über, zu sehr (Hyperbel) | [η υπέρταση]{lang="el"} Bluthochdruck, [η υπερβολή]{lang="el"} Übertreibung |
 | [υπο-]{lang="el"} | unter (Hypothese) | [η υπόθεση]{lang="el"}, [ο υπότιτλος]{lang="el"} Untertitel |
 
-[εκ-]{lang="el"} und [εισ-]{lang="el"} bilden Paare wie im Deutschen: *Ausgang – Eingang*,
-*Ausfuhr – Einfuhr*. Dazu kommt [συν-]{lang="el"} aus Kapitel 26, das sich wie [εν-]{lang="el"}
+[εκ-]{lang="el"} und [εισ-]{lang="el"} bilden Paare wie *aus* und *ein* im Deutschen. Dazu kommt [συν-]{lang="el"} aus Kapitel 26, das sich wie [εν-]{lang="el"}
 dem folgenden Laut anpasst: [εν + κεφαλή]{lang="grc"} „im Kopf“ ergibt [ο εγκέφαλος]{lang="el"}
 [eˈɟefalos].
 
@@ -557,7 +555,7 @@ Aoriste: [κατέστρεψα/κατάστρεψα, ανήγγειλα/ανάγ
 προέβλεψα/πρόβλεψα, προσέθεσα/πρόσθεσα]{lang="el"}, dazu [υπέγραψα/υπόγραψα]{lang="el"}
 (umgangssprachlich) und selten [μετάφρασα]{lang="el"}. Beim Bestellen hängt es am Präsens:
 [παραγγέλλω → παρήγγειλα]{lang="el"}, aber [παραγγέλνω → παράγγειλα]{lang="el"}. Viele schwanken;
-im Gespräch hörst du oft [υπόγραψα, κατάστρεψα, παράγγειλα]{lang="el"}. Mit den Formen der Tabelle
+umgangssprachlich hörst du auch [υπόγραψα, κατάστρεψα, παράγγειλα]{lang="el"}. Mit den Formen der Tabelle
 liegst du richtig.
 
 Am anderen Ende stehen Verben, die längst Alltagswörter sind. Sie setzen trotz gleicher Vorsilbe
@@ -760,7 +758,7 @@ Vor dem Hören:
   Schluss …“ (Gerundium, Kapitel 19).
 - Achte auf [κόβω]{lang="el"} „schneiden“ (Kapitel 6): Um das Schneiden dreht sich alles.
 
-**Worthilfen:** [τέμνω]{lang="el"} (alt) schneiden · [αδιαίρετος]{lang="el"} unteilbar ·
+**Worthilfen:** [τέμνω]{lang="el"} (alt) schneiden · [αδιαίρετος]{lang="el"} unteilbar (wie [η διαίρεση]{lang="el"}) ·
 [το σωματίδιο]{lang="el"} Teilchen · [το κεχριμπάρι]{lang="el"} Bernstein · [τρίβω]{lang="el"}
 reiben · [τραβάω]{lang="el"} anziehen, ziehen · [ο όρος]{lang="el"} Begriff, Fachausdruck.
 
@@ -882,7 +880,6 @@ Wissenschaft oft. Die Theorie ändert sich, der Begriff bleibt.
 | [αναρωτιέμαι, αναρωτήθηκα]{lang="el"} | sich fragen (Kapitel 18) |
 | [στη μέση]{lang="el"} | in der Mitte |
 | [ονομάζω, ονόμασα]{lang="el"} | nennen, benennen |
-| [αδιαίρετος, -η, -ο]{lang="el"} | unteilbar ([δια-]{lang="el"} + [αιρώ]{lang="grc"}, wie [η διαίρεση]{lang="el"}) |
 | [η σημασία]{lang="el"} | die Bedeutung |
 | [κερδίζω, κέρδισα]{lang="el"} | gewinnen |
 :::
