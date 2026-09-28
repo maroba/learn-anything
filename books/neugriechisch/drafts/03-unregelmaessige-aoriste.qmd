@@ -1,0 +1,1098 @@
+---
+title: "Die unregelmäßigen Aoriste"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+Aus Kapitel 2 wird vorausgesetzt:
+
+- Der **Aorist** erzählt eine vergangene Handlung als Ganzes (Foto, nicht Film). Er kommt aus
+  dem **perfektiven Stamm**.
+- **Endungen** für alle Aoriste: [-α, -ες, -ε, -αμε, -ατε, -αν]{lang="el"} (umg. [-ανε]{lang="el"}).
+- **Betonung** bei den regelmäßigen Verben auf der drittletzten Silbe; das **Augment**
+  [ε-]{lang="el"} steht nur, wenn es betont ist: [έγραψα]{lang="el"}, aber [γράψαμε]{lang="el"}.
+- Der regelmäßige perfektive Stamm hat [σ, ψ, ξ]{lang="el"}: [διάβασα, έγραψα, άνοιξα]{lang="el"}.
+:::
+
+## Καλώς ήρθες: zurück aus Ithaka {#sec-unreg-einstieg}
+
+Anfang September, ein Architekturbüro in Patras. Die erste Kollegin ist aus dem Urlaub zurück,
+braun gebrannt, und hat noch keine Zeit gehabt, ihren Computer einzuschalten.
+
+::: {lang="el"}
+— Καλώς ήρθες! Πώς πήγε;
+
+— Καλώς σας βρήκα. Πολύ ωραία.
+
+— Πού πήγες τελικά;
+
+— Στην Ιθάκη.
+
+— Στο νησί του Οδυσσέα! Και; Τον βρήκες;
+
+— Τον Οδυσσέα όχι. Βρήκα όμως τρία παλάτια του. Κάθε χωριό έχει το δικό του.
+
+— Σοβαρά;
+
+— Σοβαρά. Μια μέρα ανέβηκα σε έναν λόφο, στον Αετό. Εκεί έσκαψε κάποτε ο Σλήμαν. Πάνω είδα
+μόνο πέτρες κι έναν γέρο με μια κατσίκα.
+
+— Και τι σου είπε;
+
+— Ποιος; Ο γέρος ή η κατσίκα;
+
+— Ο γέρος, ρε.
+
+— «Ο Οδυσσέας; Εδώ ήταν. Αλλά έφυγε.»
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Willkommen zurück! Wie war's?
+
+— Schön, euch wiederzusehen. Sehr schön.
+
+— Wo bist du am Ende hingefahren?
+
+— Nach Ithaka.
+
+— Auf die Insel des Odysseus! Und? Hast du ihn gefunden?
+
+— Odysseus nicht. Aber drei Paläste von ihm. Jedes Dorf hat seinen eigenen.
+
+— Im Ernst?
+
+— Im Ernst. Eines Tages bin ich auf einen Hügel gestiegen, auf den Aetos. Da hat früher mal
+Schliemann gegraben. Oben habe ich nur Steine gesehen und einen alten Mann mit einer Ziege.
+
+— Und was hat er dir gesagt?
+
+— Wer? Der Alte oder die Ziege?
+
+— Der Alte, Mensch.
+
+— „Odysseus? Der war hier. Aber er ist weg.“
+:::
+
+Acht Verben stehen im Aorist, und nur eines davon sieht so aus, wie Kapitel 2 es versprochen hat:
+[έσκαψε]{lang="el"}, Schliemann gräbt wieder, mit sauberem [ψ]{lang="el"}. Die übrigen sieben:
+
+| im Text | Präsens | Deutsch |
+|---|---|---|
+| [ήρθες]{lang="el"} | [έρχομαι]{lang="el"} | du bist gekommen |
+| [πήγε, πήγες]{lang="el"} | [πάω]{lang="el"} | es ging; du bist gefahren |
+| [βρήκα, βρήκες]{lang="el"} | [βρίσκω]{lang="el"} | ich fand; du fandest |
+| [ανέβηκα]{lang="el"} | [ανεβαίνω]{lang="el"} | ich stieg hinauf |
+| [είδα]{lang="el"} | [βλέπω]{lang="el"} | ich sah |
+| [είπε]{lang="el"} | [λέω]{lang="el"} | er sagte |
+| [έφυγε]{lang="el"} | [φεύγω]{lang="el"} | er ging weg |
+
+Drei Dinge fallen auf. Kein [σ]{lang="el"}, kein [ψ]{lang="el"}, kein [ξ]{lang="el"}. Manche
+Stämme haben mit dem Präsens nichts mehr zu tun: Aus [βλέπω]{lang="el"} wird
+[είδα]{lang="el"}, und keine Lautregel der Welt führt von dem einen zum anderen. Und viele Formen
+sind kurz, zwei Silben, betont auf der ersten: [πή-γα, εί-δα, βρή-κα]{lang="el"}. Die Endungen
+dagegen sind die alten: [-α, -ες, -ε]{lang="el"}.
+
+Das Griechische begrüßt dich übrigens mit einem unregelmäßigen Aorist, bevor du ein Wort sagen
+kannst. [Καλώς ήρθες]{lang="el"} [kaˈlos ˈirθes] heißt wörtlich „gut bist du gekommen“, zu mehreren
+oder förmlich [Καλώς ήρθατε]{lang="el"}. So steht es auf Schildern an Häfen und Ortseingängen, in
+Großbuchstaben ohne Akzent: ΚΑΛΩΣ ΗΡΘΑΤΕ. Daneben gibt es das etwas feierlichere
+[Καλώς ορίσατε]{lang="el"}. Wer begrüßt wird, antwortet mit dem nächsten Aorist:
+[Καλώς σε βρήκα]{lang="el"}, „gut habe ich dich angetroffen“, oder an mehrere gerichtet
+[Καλώς σας βρήκα]{lang="el"}. Und [Πώς πήγε;]{lang="el"} ist wörtlich das englische *How did it
+go?*, nur mit einem Verb, das seinen Stamm gewechselt hat.
+
+Warum ausgerechnet die wichtigsten Verben aus der Reihe tanzen, kennst du aus jeder Sprache, die
+du gelernt hast: *sein – war*, *go – went*, [*ir – fui*]{lang="es"}, [*aller – je vais –
+j'irai*]{lang="fr"}. Eine gängige Erklärung: Was ständig benutzt wird, prägt sich als Ganzes ein
+und entgeht so dem Gleichmachen, während seltene Verben sich mit der Zeit dem Muster anpassen. Das
+Griechische ist dabei noch gnädig. Die Endungen bleiben, das Präsens bleibt, nur der perfektive
+Stamm muss gelernt werden, bei etwa sechzehn Verben, die man ab dem ersten Urlaubstag braucht.
+Dieses Kapitel ordnet sie in Gruppen, mit Eselsbrücken, und lässt dazu Odysseus erzählen, der
+wie kein anderer weiß, was man auf Reisen sieht, isst, trinkt und sagt.
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Ob die heutige Insel Ithaka das Ithaka Homers ist, ist umstritten. Die Odyssee beschreibt die
+Insel als niedrig und am weitesten nach Westen gelegen, was auf das bergige heutige Ithaka
+schlecht passt. Deshalb gibt es Gegenthesen, bekannt ist etwa die Halbinsel Paliki auf Kefalonia
+(Robert Bittlestone, *Odysseus Unbound*, 2005). Auf Ithaka selbst gelten mehrere Stellen als
+Kandidaten: der Aetos, wo Schliemann 1868 grub, und im Norden bei Stavros die sogenannte „Schule
+Homers“, wo Archäologen der Universität Ioannina Reste aus mykenischer Zeit freigelegt haben. Ein
+Palast, der sicher Odysseus gehörte, ist bisher nirgends gefunden worden.
+:::
+
+<!-- CHECK: Schliemanns Grabung am Aetos 1868; Grabungen der Universität Ioannina an der „Σχολή του Ομήρου“ bei Stavros (mykenische Funde, seit ca. 1994, Palast-Deutung um 2010); Paliki-These Bittlestone 2005; Od. 9.25–26 (χθαμαλή, πρὸς ζόφον) korrekt wiedergegeben -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Καλώς ήρθες! Καλώς ήρθατε!]{lang="el"} | [kaˈlos ˈirθes], [kaˈlos ˈirθate] | Willkommen! (zu einer Person; zu mehreren oder förmlich) |
+| [Καλώς σε βρήκα. Καλώς σας βρήκα.]{lang="el"} | [kaˈlos se ˈvrika], [kaˈlos sas ˈvrika] | Antwort auf „Willkommen“: schön, dich/euch zu sehen |
+| [Πώς πήγε;]{lang="el"} | [pos ˈpiʝe] | Wie war's? Wie ist es gelaufen? |
+| [το νησί]{lang="el"} | [to niˈsi] | die Insel |
+| [το παλάτι]{lang="el"} | [to paˈlati] | der Palast |
+| [το χωριό]{lang="el"} | [to xoˈrʝo] | das Dorf |
+| [ο λόφος]{lang="el"} | [o ˈlofos] | der Hügel |
+| [η πέτρα]{lang="el"} | [i ˈpetra] | der Stein |
+| [ο γέρος]{lang="el"} | [o ˈʝeros] | der alte Mann (≠ [γερός]{lang="el"} kräftig) |
+| [κάποτε]{lang="el"} | [ˈkapote] | irgendwann, einmal; früher mal |
+| [μόνο]{lang="el"} | [ˈmono] | nur |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [τελικά]{lang="el"} | hier: am Ende, letztlich (Kapitel 2) |
+| [ο Οδυσσέας, του Οδυσσέα]{lang="el"} | Odysseus, des Odysseus |
+| [όμως]{lang="el"} | aber, jedoch (Kapitel 2) |
+| [κάθε]{lang="el"} | jeder, jede, jedes |
+| [το δικό του]{lang="el"} | sein eigenes |
+| [ο Αετός]{lang="el"} | der Aetos (Berg auf Ithaka; [ο αετός]{lang="el"} der Adler) |
+| [πάνω]{lang="el"} | oben |
+| [η κατσίκα]{lang="el"} | die Ziege |
+| [ποιος]{lang="el"} | wer |
+| [ρε]{lang="el"} | Mensch, na (vertraute Anrede, umg.) |
+:::
+
+## Neue Stämme, alte Endungen {#sec-unreg-endungen}
+
+Die gute Nachricht aus Kapitel 2 gilt weiter: Alle Aoriste haben dieselben Endungen. Unregelmäßig
+ist nur der Stamm, und am Stamm hängt, was im Plural mit dem Wortanfang passiert. Zwei
+Verben nebeneinander, [πάω]{lang="el"} „gehen, fahren“ und [κάνω]{lang="el"} „machen“:
+
+| Person | [πάω]{lang="el"} | [κάνω]{lang="el"} |
+|---|---|---|
+| ich | [πήγ**α**]{lang="el"} | [έκαν**α**]{lang="el"} |
+| du | [πήγ**ες**]{lang="el"} | [έκαν**ες**]{lang="el"} |
+| er, sie, es | [πήγ**ε**]{lang="el"} | [έκαν**ε**]{lang="el"} |
+| wir | [πήγ**αμε**]{lang="el"} | [κάν**αμε**]{lang="el"} |
+| ihr, Sie | [πήγ**ατε**]{lang="el"} | [κάν**ατε**]{lang="el"} |
+| sie | [πήγ**αν**]{lang="el"}, [πήγ**ανε**]{lang="el"} | [έκαν**αν**]{lang="el"}, [κάν**ανε**]{lang="el"} |
+
+Rechts steht ein Verb wie aus Kapitel 2, nur ohne [σ]{lang="el"}: Das Augment [ε-]{lang="el"}
+kommt, wenn die Betonung es braucht ([έκανα]{lang="el"}), und geht, wenn [-αμε]{lang="el"} die
+dritte Silbe mitbringt ([κάναμε]{lang="el"}). Links ändert sich außer der Endung gar nichts:
+[πήγα, πήγαμε, πήγατε]{lang="el"}. Die erste Silbe ist fest, sie ist kein Augment, das man
+weglassen könnte.
+
+Ein Blick auf die ich-Form sagt dir, welche Sorte du vor dir hast. Es gibt drei Bauformen:
+
+**1. Zwei Silben: alles bleibt.** [πήγα, ήρθα, είδα, είπα, ήπια, πήρα, βρήκα, βγήκα,
+μπήκα]{lang="el"}. Die Betonung liegt auf der ersten Silbe, in allen Personen:
+[ήρθαμε, είδατε, βρήκαν]{lang="el"}. Im Singular ist das die vorletzte Silbe, und das ist die
+Ausnahme von der Drittletzte-Regel, die Kapitel 2 angekündigt hat. Das [ή-]{lang="el"} und
+[εί-]{lang="el"} vorn in [ήρθα, είδα, είπα]{lang="el"} war ursprünglich tatsächlich ein Augment.
+Heute ist es mit dem Stamm verwachsen und bleibt immer stehen.
+
+**2. Augment wie gehabt.** [έκανα, έμαθα, έφαγα, έδωσα, έφυγα, έμεινα]{lang="el"}: Hier gilt
+Kapitel 2 unverändert, meist nur ohne [σ]{lang="el"}. Das betonte [έ-]{lang="el"} fällt im
+Plural weg: [κάναμε, μάθαμε, φάγαμε, δώσαμε, φύγαμε, μείναμε]{lang="el"}. Dazu gehört auch
+[πέθανα]{lang="el"}, das mit drei Silben ohne Augment auskommt und die Betonung im Plural nach
+hinten schiebt wie [διάβασα – διαβάσαμε]{lang="el"}: [πεθάναμε]{lang="el"}.
+
+**3. Mit Vorsilbe: die Betonung wandert.** [ανέβηκα]{lang="el"} „ich stieg hinauf“ und
+[κατέβηκα]{lang="el"} „ich stieg hinab“ sind lang genug für die drittletzte Silbe, also rückt
+die Betonung im Plural mit: [ανεβήκαμε, κατεβήκατε]{lang="el"}.
+
+Am Ende läuft alles auf eine Regel hinaus, die du schon kennst: Die Betonung liegt auf der
+drittletzten Silbe, und wo es nur zwei gibt, auf der ersten.
+
+::: {.callout-important}
+## Merke
+
+1. **Endungen** wie bei allen Aoristen: [-α, -ες, -ε, -αμε, -ατε, -αν (-ανε)]{lang="el"}.
+2. **Betonung** auf der drittletzten Silbe; zweisilbige Formen sind auf der ersten betont:
+   [πή-γα, εί-δα]{lang="el"}.
+3. **Nur ein betontes [έ-]{lang="el"} vorn fällt im Plural weg:** [έκανα → κάναμε]{lang="el"}.
+   Die zweisilbigen behalten ihren Anfang: [πήγα → πήγαμε, είδα → είδαμε]{lang="el"}.
+:::
+
+::: {.callout-warning}
+## Achtung
+
+- \*[ρθαμε]{lang="el"}, \*[δαμε]{lang="el"}: Wer die Augment-Regel aus Kapitel 2 mechanisch
+  anwendet, amputiert die kurzen Formen. Richtig: [ήρθαμε, είδαμε]{lang="el"}.
+- \*[έκαναμε]{lang="el"}: umgekehrt, das Augment ist unbetont und muss weg.
+- \*[ανέβηκαμε]{lang="el"}: Betonung auf der viertletzten Silbe gibt es nicht.
+:::
+
+Die umgangssprachlichen Formen der dritten Person Plural auf [-ανε]{lang="el"} hörst du hier
+besonders oft: [πήγανε, ήρθανε, είδανε, κάνανε]{lang="el"}.
+
+<!-- EXERCISE: Übung 3.1 – Lernziel: Bauform der unregelmäßigen Aoriste erkennen und wir-/ihr-/sie-Formen richtig bilden (Augment bleibt bei zweisilbigen, fällt bei έ-, Betonung wandert bei ανέβηκα); Art: Teil A Formen laut bilden (ich → wir/sie), Teil B Fehler finden in einer Liste (u.a. *δαμε, *έκαναμε, *ανέβηκαμε, richtige Formen dazwischen), Antwort mit Nummern möglich; nur Verben aus diesem Abschnitt und dem Einstieg (πάω, κάνω, έρχομαι, βλέπω, λέω, βρίσκω, ανεβαίνω, φεύγω), Präsens vorgeben; Schwierigkeit 2 -->
+
+## Gehen, kommen, weg: [πήγα, ήρθα, έφυγα]{lang="el"} {#sec-unreg-unterwegs}
+
+In der Odyssee erzählt Odysseus seine Irrfahrten zum großen Teil selbst, in der ersten Person, an
+einem Abend am Hof des Phaiakenkönigs Alkinoos: vier Gesänge lang, vom neunten bis zum zwölften,
+zwischen Essen und Wein. Ein Reisebericht bei Tisch, vielleicht der berühmteste Diaabend der
+Literatur, und das Publikum ist bis zum Ende geblieben. Die kurzen Texte in diesem Kapitel lassen
+ihn so erzählen, wie er es heute am Tisch täte: in Alltagsgriechisch. Zuerst der Aufbruch.
+
+::: {lang="el"}
+Φύγαμε από την Τροία με δώδεκα καράβια. Πρώτα πήγαμε στη Θράκη. Μετά ήρθε μια μεγάλη θύελλα.
+Εννιά μέρες δεν είδαμε στεριά. Τη δέκατη μέρα φτάσαμε σε μια άγνωστη χώρα. Έστειλα τρεις
+συντρόφους στο χωριό. Οι ντόπιοι τους έδωσαν λωτό. Έφαγαν και ξέχασαν τα πάντα: το καράβι, την
+Ιθάκη, τον δρόμο για το σπίτι. Δεν ήρθαν πίσω. Πήγα εγώ, τους βρήκα, τους έφερα στο καράβι με
+το ζόρι, και φύγαμε αμέσως.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+Wir brachen mit zwölf Schiffen von Troja auf. Zuerst fuhren wir nach Thrakien. Dann kam ein
+großer Sturm. Neun Tage sahen wir kein Land. Am zehnten Tag erreichten wir ein unbekanntes Land.
+Ich schickte drei Gefährten ins Dorf. Die Einheimischen gaben ihnen Lotos. Sie aßen und vergaßen
+alles: das Schiff, Ithaka, den Weg nach Hause. Sie kamen nicht zurück. Ich ging selbst hin, fand
+sie, brachte sie mit Gewalt aufs Schiff, und wir fuhren sofort ab.
+:::
+
+Drei Verben tragen diese Geschichte, und sie tragen jede Reise.
+
+**[πάω, πήγα]{lang="el"}: gehen, fahren, fliegen.** Wie spanisch [*ir*]{lang="es"} fragt
+[πάω]{lang="el"} nicht nach dem Verkehrsmittel: [Πήγα στην Ιθάκη]{lang="el"} kann mit der Fähre,
+dem Flugzeug oder zu Fuß über Wasser gewesen sein. Das Präsens hat zwei Formen: kurz
+[πάω]{lang="el"}, die übliche im Alltag, und lang [πηγαίνω]{lang="el"} [piˈʝeno], neutral bis
+etwas sorgfältiger. Der Aorist steckt sichtbar in der langen Form: [πηγ-αίνω → πήγ-α]{lang="el"}.
+Wer bei [πήγα]{lang="el"} stockt, denkt an [πηγαίνω]{lang="el"}. Die kurze Form hat ein eigenes
+Präsens, das du fürs Hören brauchst: [πάω, πας, πάει, πάμε, πάτε, πάνε]{lang="el"}.
+
+**[έρχομαι, ήρθα]{lang="el"}: kommen.** Ein Verb auf [-μαι]{lang="el"} (mehr davon in Kapitel 10),
+aber mit einem Aorist ganz ohne Besonderheiten: [ήρθα, ήρθες, ήρθε, ήρθαμε, ήρθατε,
+ήρθαν]{lang="el"}. Das [ρ]{lang="el"} aus [έρ-χομαι]{lang="el"} bleibt, vorn wird aus
+[ε]{lang="el"} ein [ή]{lang="el"}. In Nachrichten und in der Kirche hörst du die ältere Form
+[ήλθα]{lang="el"}; beide sind richtig, [ήρθα]{lang="el"} ist die Alltagsform. Beim Richtungssinn
+geht das Griechische mit dem Englischen, nicht mit dem Spanischen: Wer gerufen wird, antwortet
+[Έρχομαι!]{lang="el"} wie *I'm coming*, nicht „ich gehe“ wie [*¡Voy!*]{lang="es"}.
+
+**[φεύγω, έφυγα]{lang="el"}: weggehen, abfahren, abreisen.** Aus [ευ]{lang="el"} wird
+[υ]{lang="el"}, der Rest ist Bauform 2: [έφυγα, φύγαμε]{lang="el"}. Die Eselsbrücke liefert das
+Lateinische: [*fugere*]{lang="la"} „fliehen“ ist mit [φεύγω]{lang="el"} verwandt, daher die
+*Fuge* in der Musik, in der eine Stimme vor der anderen davonläuft, und spanisch
+[*fugarse*]{lang="es"}. [Φεύγω!]{lang="el"} sagt, wer aufsteht und geht; [Έφυγε.]{lang="el"}
+heißt „er ist schon weg“. In Nachrichten ist [έφυγε από τη ζωή]{lang="el"}, „er ist aus dem Leben
+gegangen“, die höfliche Art zu sagen, dass jemand gestorben ist.
+
+<!-- CHECK: lat. fugere und griech. φεύγω gleiche idg. Wurzel (*bʰewg-); "Fuge" < ital. fuga < lat. fuga -->
+
+::: {.callout-tip}
+## Tipp
+
+[πήγα]{lang="el"} und [ήρθα]{lang="el"} bilden ein Paar wie *go* und *come*. Lern sie zusammen,
+und sag dir beide in der wir-Form vor: [πήγαμε, ήρθαμε]{lang="el"}. Das sind die zwei Aoriste, die
+in jeder Urlaubserzählung vorkommen.
+:::
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [πάω / πηγαίνω, πήγα]{lang="el"} | [ˈpao], [piˈʝeno], [ˈpiɣa] | gehen, fahren (irgendwohin) |
+| [έρχομαι, ήρθα]{lang="el"} | [ˈerxome], [ˈirθa] | kommen |
+| [φεύγω, έφυγα]{lang="el"} | [ˈfevɣo], [ˈefiʝa] | weggehen, abfahren, abreisen |
+| [το καράβι]{lang="el"} | [to kaˈravi] | das Schiff |
+| [πίσω]{lang="el"} | [ˈpiso] | zurück; hinten |
+| [αμέσως]{lang="el"} | [aˈmesos] | sofort |
+| [τα πάντα]{lang="el"} | [ta ˈpada] | alles |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η Τροία]{lang="el"} | Troja |
+| [η Θράκη]{lang="el"} | Thrakien |
+| [η θύελλα]{lang="el"} | der Sturm |
+| [η στεριά]{lang="el"} | das Festland, Land (vom Meer aus) |
+| [δέκατος, -η, -ο]{lang="el"} | zehnter |
+| [άγνωστος, -η, -ο]{lang="el"} | unbekannt |
+| [η χώρα]{lang="el"} | das Land |
+| [στέλνω, έστειλα]{lang="el"} | schicken (Kapitel 2) |
+| [ο σύντροφος]{lang="el"} | der Gefährte |
+| [οι ντόπιοι]{lang="el"} | die Einheimischen |
+| [τους]{lang="el"} | vor dem Verb: sie, ihnen (Kapitel 8) |
+| [ο λωτός]{lang="el"} | der Lotos |
+| [ξεχνάω, ξέχασα]{lang="el"} | vergessen (Kapitel 2) |
+| [ο δρόμος]{lang="el"} | der Weg, die Straße |
+| [φέρνω, έφερα]{lang="el"} | bringen |
+| [με το ζόρι]{lang="el"} | mit Gewalt, notgedrungen (umg.) |
+:::
+
+## Rein, raus, rauf, runter: [-αίνω → -ηκα]{lang="el"} {#sec-unreg-vaino}
+
+Dreitausend Jahre später fährt man mit der Fähre in dieselben Gewässer. Eine Sprachnachricht
+an einen Freund, abgeschickt am Hafen von Kefalonia:
+
+::: {lang="el"}
+Λοιπόν, φτάσαμε. Στην Κυλλήνη μπήκαμε στο πλοίο με το αυτοκίνητο και ανεβήκαμε αμέσως στο
+κατάστρωμα. Βρήκαμε δύο θέσεις στον ήλιο και κοιτάξαμε τη θάλασσα όλο το ταξίδι. Πριν από τον
+Πόρο κατεβήκαμε στο γκαράζ, μπήκαμε στο αυτοκίνητο και βγήκαμε από το πλοίο πρώτοι. Το βράδυ
+βγήκαμε για φαγητό στο λιμάνι. Αύριο, Ιθάκη.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+Also, wir sind da. In Kyllini sind wir mit dem Auto aufs Schiff gefahren und gleich aufs Deck
+hinaufgegangen. Wir haben zwei Plätze in der Sonne gefunden und die ganze Fahrt aufs Meer
+geschaut. Vor Poros sind wir runter in die Garage, ins Auto gestiegen und als Erste vom Schiff
+gefahren. Abends waren wir am Hafen essen. Morgen: Ithaka.
+:::
+
+<!-- CHECK: Fährverbindung Kyllini–Poros (Kefalonia) besteht; Deck und Garage als übliche Abfolge plausibel -->
+
+Vier Bewegungen, vier Verben mit derselben Endung: [μπήκαμε, ανεβήκαμε, κατεβήκαμε,
+βγήκαμε]{lang="el"}. Das ist kein Zufall. In allen vier steckt das alte Verb [βαίνω]{lang="el"}
+„gehen, schreiten“, jeweils mit einer Richtung davor:
+
+| Präsens | Aorist | Herkunft | Richtung |
+|---|---|---|---|
+| [μπαίνω]{lang="el"} | [μπήκα]{lang="el"} | [εμ-βαίνω]{lang="el"} | hinein |
+| [βγαίνω]{lang="el"} | [βγήκα]{lang="el"} | [εκ-βαίνω]{lang="el"} | hinaus |
+| [ανεβαίνω]{lang="el"} | [ανέβηκα]{lang="el"} | [ανα-βαίνω]{lang="el"} | hinauf |
+| [κατεβαίνω]{lang="el"} | [κατέβηκα]{lang="el"} | [κατα-βαίνω]{lang="el"} | hinab |
+
+Bei [μπαίνω]{lang="el"} und [βγαίνω]{lang="el"} hat die Aussprache der Jahrhunderte die
+Vorsilbe fast verschluckt, bei den beiden anderen ist sie noch da. Das ergibt den Aufzug des
+Griechischen: rein, raus, rauf, runter, und im Aorist viermal [-ήκα]{lang="el"}. Die zweisilbigen
+[μπήκα, βγήκα]{lang="el"} gehören zu Bauform 1, [ανέβηκα, κατέβηκα]{lang="el"} zu Bauform 3.
+
+<!-- CHECK: Etymologie μπαίνω < (ε)μβαίνω < ἐμβαίνω, βγαίνω < (ε)βγαίνω < ἐκβαίνω -->
+
+Eselsbrücken liefert das Deutsche gleich mehrere. Xenophons *Anabasis* ist der „Marsch hinauf“
+ins Innere Persiens, die *Katabasis* der Abstieg, in der Literatur gern in die Unterwelt. Die
+*Basis* ist das, worauf man tritt, der *Akrobat* einer, der auf den Zehenspitzen geht. Und der
+*Diabetes* hat seinen Namen von [διαβαίνω]{lang="el"} „hindurchgehen“, weil antike Ärzte
+beobachteten, wie das Getrunkene ungebremst durch den Körper läuft.
+
+<!-- CHECK: Diabetes < διαβήτης „Heber, Durchgänger“ zu διαβαίνω (Aretaios); Akrobat < ἀκροβάτης zu ἄκρος + βαίνω -->
+
+Im Alltag ist der Aufzug vor allem ein Verkehrsmittel. In Bus, Zug und Schiff steigt man
+„hinauf“ und „hinab“: [ανέβηκα στο λεωφορείο]{lang="el"} „ich bin in den Bus gestiegen“,
+[κατέβηκα στο Σύνταγμα]{lang="el"} „ich bin am Syntagma ausgestiegen“. Wer sich in einem vollen
+Bus zur Tür durchkämpft, fragt den Vordermann [Κατεβαίνετε στην επόμενη;]{lang="el"} „Steigen Sie
+an der nächsten aus?“, was übersetzt heißt: Bitte lass mich vorbei. Ins Auto dagegen
+„geht man hinein“, wie ins Haus: [μπήκα στο αυτοκίνητο]{lang="el"}. [βγαίνω]{lang="el"} hat
+außerdem die Bedeutung „ausgehen“: [Χθες βγήκαμε]{lang="el"} heißt „gestern waren wir aus“, und
+der Abend endete vermutlich nicht vor eins.
+
+::: {.callout-tip}
+## Tipp: Heureka
+
+[βρίσκω, βρήκα]{lang="el"} „finden“ hat mit [βαίνω]{lang="el"} nichts zu tun, schließt sich
+aber der Endung an. Für diese Form gibt es die beste Eselsbrücke des Kapitels. Archimedes soll
+nackt durch Syrakus gelaufen sein und [εύρηκα]{lang="el"} gerufen haben, „ich hab's gefunden“.
+[βρήκα]{lang="el"} geht auf genau diese alte Form zurück: *Heureka* mit verschlucktem Anfang.
+:::
+
+<!-- CHECK: neugr. βρήκα < mittelgr. ηύρηκα < altgr. ηὕρηκα (Perfekt von εὑρίσκω); Archimedes-Anekdote bei Vitruv -->
+
+Im Alltag ist [βρήκα]{lang="el"} das Wort für alles, was wieder auftaucht. In Übung 2.4 standen
+die Schlüssel im Kühlschrank, und dort passte [ανακάλυψα]{lang="el"} nur mit einem Augenzwinkern.
+Normal gesagt heißt es: [Τελικά βρήκα τα κλειδιά στο ψυγείο.]{lang="el"} Dieselbe Form steckt in
+der Antwort auf das Willkommen, [Καλώς σε βρήκα]{lang="el"}, und im Satz, den jeder Mensch
+irgendwann einmal ruft: [Το βρήκα!]{lang="el"} „Ich hab's!“
+
+<!-- EXERCISE: Übung 3.2 – Lernziel: Aoriste von πάω, έρχομαι, φεύγω, μπαίνω, βγαίνω, ανεβαίνω, κατεβαίνω, βρίσκω abrufen und im Satz verwenden, inkl. Gebrauch bei Verkehrsmitteln (ανεβαίνω/κατεβαίνω στο λεωφορείο, μπαίνω στο αυτοκίνητο) und βγαίνω = ausgehen; Art: Teil A Gegenteil nennen (μπήκα ↔ βγήκα, ανέβηκα ↔ κατέβηκα, πήγα ↔ ήρθα) in verschiedenen Personen, Teil B kurze Sätze einer Reise mündlich übersetzen (Deutsch → Griechisch, wir-Formen mit Betonung); Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [μπαίνω, μπήκα]{lang="el"} | [ˈbeno], [ˈbika] | hineingehen; einsteigen (ins Auto) |
+| [βγαίνω, βγήκα]{lang="el"} | [ˈvʝeno], [ˈvʝika] | hinausgehen, aussteigen; ausgehen |
+| [ανεβαίνω, ανέβηκα]{lang="el"} | [aneˈveno], [aˈnevika] | hinaufgehen; einsteigen (in Bus, Zug, Schiff) |
+| [κατεβαίνω, κατέβηκα]{lang="el"} | [kateˈveno], [kaˈtevika] | hinuntergehen; aussteigen |
+| [βρίσκω, βρήκα]{lang="el"} | [ˈvrisko], [ˈvrika] | finden |
+| [το πλοίο]{lang="el"} | [to ˈplio] | das Schiff, die Fähre |
+| [το λιμάνι]{lang="el"} | [to liˈmani] | der Hafen |
+| [η θέση]{lang="el"} | [i ˈθesi] | der Platz, Sitzplatz |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η Κυλλήνη]{lang="el"} | Kyllini (Hafen auf der Peloponnes) |
+| [το κατάστρωμα]{lang="el"} | das Deck |
+| [ο ήλιος]{lang="el"} | die Sonne |
+| [κοιτάζω, κοίταξα]{lang="el"} | anschauen (Kapitel 2) |
+| [όλο το ταξίδι]{lang="el"} | die ganze Fahrt |
+| [ο Πόρος]{lang="el"} | Poros (Hafen auf Kefalonia) |
+| [το γκαράζ]{lang="el"} | die Garage, das Autodeck |
+| [πρώτος, -η, -ο]{lang="el"} | erster |
+| [για φαγητό]{lang="el"} | zum Essen |
+| [το λεωφορείο]{lang="el"} | der Bus |
+| [Κατεβαίνετε στην επόμενη;]{lang="el"} | Steigen Sie an der nächsten (Haltestelle) aus? |
+| [τα κλειδιά]{lang="el"} | die Schlüssel |
+:::
+
+## Am Tisch des Kyklopen: essen, trinken, geben, nehmen {#sec-unreg-tisch}
+
+Zurück zu Odysseus. Die bekannteste Station seiner Reise ist ein Abendessen, bei dem die Gäste
+auf der Speisekarte stehen.
+
+::: {lang="el"}
+Μπήκαμε σε μια μεγάλη σπηλιά. Μέσα βρήκαμε τυριά και γάλα, και φάγαμε. Το βράδυ ήρθε ο
+Κύκλωπας, ο Πολύφημος. Έκλεισε την είσοδο με μια τεράστια πέτρα, πήρε δύο συντρόφους μου και
+τους έφαγε. Εγώ του έδωσα κρασί, δυνατό κρασί. Ήπιε ένα ποτήρι, μετά δεύτερο, μετά τρίτο.
+«Πώς σε λένε;» με ρώτησε. «Κανένα», του είπα. Όταν κοιμήθηκε, πήραμε ένα μεγάλο ξύλο, πυρωμένο
+στη φωτιά, και τον τυφλώσαμε. Οι άλλοι Κύκλωπες φώναξαν απ’ έξω: «Τι έγινε, Πολύφημε; Ποιος σου
+το έκανε;» «Ο Κανένας!» Και οι άλλοι έφυγαν. Το πρωί βγήκαμε από τη σπηλιά, κάτω από τα κριάρια.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+Wir gingen in eine große Höhle. Drinnen fanden wir Käse und Milch und aßen. Am Abend kam der
+Kyklop, Polyphem. Er verschloss den Eingang mit einem riesigen Stein, packte zwei meiner Gefährten
+und fraß sie. Ich gab ihm Wein, starken Wein. Er trank einen Becher, dann einen zweiten, dann
+einen dritten. „Wie heißt du?“, fragte er mich. „Niemand“, sagte ich ihm. Als er eingeschlafen
+war, nahmen wir einen großen Pfahl, im Feuer glühend gemacht, und blendeten ihn. Die anderen
+Kyklopen riefen von draußen: „Was ist los, Polyphem? Wer hat dir das angetan?“ „Niemand!“ Und die
+anderen gingen weg. Am Morgen kamen wir aus der Höhle, unter den Widdern.
+:::
+
+Im Original nennt sich Odysseus [Ούτις]{lang="el"} „Niemand“, und Homer spielt dabei mit dem
+Anklang an [μήτις]{lang="el"} „List“; heutige Nacherzählungen sagen einfach
+[Κανένας]{lang="el"}. Das Wort kennst du aus Kapitel 2: [κανείς]{lang="el"}, mit
+[δεν]{lang="el"} „niemand“. Die vier Verben dieser Szene brauchst du an jedem griechischen Tisch.
+
+<!-- CHECK: Wortspiel Οὖτις / μή τις / μῆτις in Od. 9.405–414 korrekt als "Anklang an List" dargestellt -->
+
+**[τρώω, έφαγα]{lang="el"}: essen.** Ein ganz anderer Stamm, und das schon im Altgriechischen.
+Die Eselsbrücke steht in jedem Museum: Der *Sarkophag* ist wörtlich der „Fleischfresser“, weil man
+glaubte, sein Kalkstein zehre den Leichnam auf. Im heutigen Griechisch steckt der perfektive Stamm in
+einem Wort, das du ohnehin kennst: [το φαγητό]{lang="el"} [faʝiˈto] „das Essen“. Wer ein
+[φαγητό]{lang="el"} bestellt, hat [έφαγα]{lang="el"} schon im Mund. Bauform 2:
+[έφαγα, φάγαμε]{lang="el"}.
+
+**[πίνω, ήπια]{lang="el"}: trinken.** Das [ν]{lang="el"} ist eine Präsens-Zutat, wie in
+[ψάχνω → έψαξα]{lang="el"}, vorn kommt ein [ή]{lang="el"} dazu, und zwischen
+[π]{lang="el"} und [α]{lang="el"} gleitet das [ι]{lang="el"} zu einem *ch* wie in *ich*:
+[ˈipça]. Zwei Silben, also Bauform 1: [ήπιαμε]{lang="el"} [ˈipçame]. Die Eselsbrücke ist das
+*Symposion*, wörtlich das „Zusammentrinken“; der Wortteil *-pos-* ist dieselbe Wurzel wie in
+[πίνω]{lang="el"}.
+
+**[δίνω, έδωσα]{lang="el"}: geben.** Der einzige in diesem Kapitel mit [σ]{lang="el"}, aber aus
+[ι]{lang="el"} wird [ω]{lang="el"}. Eselsbrücken gibt es reichlich: Die *Dosis* ist die „Gabe“,
+das *Antidot* das „dagegen Gegebene“, und die *Anekdote* ist wörtlich das „nicht
+Herausgegebene“, eine Geschichte, die nicht zur Veröffentlichung bestimmt war. Bauform 2:
+[έδωσα, δώσαμε]{lang="el"}.
+
+**[παίρνω, πήρα]{lang="el"}: nehmen, bekommen.** Wieder ist das [ν]{lang="el"} eine
+Präsens-Zutat, und aus [αι]{lang="el"} wird [η]{lang="el"}: [παίρ-νω → πήρ-α]{lang="el"}.
+Zwei Silben, Bauform 1: [πήραμε]{lang="el"}. [πήρα]{lang="el"} ist eins der fleißigsten Verben
+der Sprache: [Πήρα το πλοίο.]{lang="el"} „Ich habe die Fähre genommen.“ [Πήρα ένα μήνυμα.]{lang="el"}
+„Ich habe eine Nachricht bekommen.“ Und aus Kapitel 2 [πήρα τηλέφωνο τη μητέρα μου]{lang="el"}
+„ich habe meine Mutter angerufen“.
+
+::: {.callout-important}
+## Merke
+
+| Präsens | Aorist | Eselsbrücke |
+|---|---|---|
+| [τρώω]{lang="el"} | [έφαγα]{lang="el"} | Sarkophag, [φαγητό]{lang="el"} |
+| [πίνω]{lang="el"} | [ήπια]{lang="el"} | Symposion; [ν]{lang="el"} fällt weg |
+| [δίνω]{lang="el"} | [έδωσα]{lang="el"} | Dosis, Anekdote |
+| [παίρνω]{lang="el"} | [πήρα]{lang="el"} | [ν]{lang="el"} fällt weg, [αι → η]{lang="el"} |
+:::
+
+<!-- CHECK: συμπόσιον zur Wurzel von πίνω (πο-/πι-); ἀνέκδοτος "nicht herausgegeben" zu ἐκδίδωμι/δίδωμι; Sarkophag-Deutung (Plinius) -->
+
+<!-- EXERCISE: Übung 3.3 – Lernziel: έφαγα, ήπια, έδωσα, πήρα (und Wiederholung μπήκα/βγήκα/βρήκα/ήρθα) in allen Personen abrufen; Art: mündlich übersetzen Deutsch → Griechisch, kurze Sätze vom griechischen Tisch und aus der Kyklopen-Szene aus Sicht der Gefährten (wir-Formen, sie-Formen: „Wir haben Käse gefunden und gegessen“, „Er hat drei Gläser getrunken“, „Hast du die Fähre genommen?“, „Was hast du ihm gegeben?“); Lösung mit Varianten (Pronomen vor dem Verb nur als Hilfe vorgeben); Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [τρώω, έφαγα]{lang="el"} | [ˈtroo], [ˈefaɣa] | essen |
+| [πίνω, ήπια]{lang="el"} | [ˈpino], [ˈipça] | trinken |
+| [δίνω, έδωσα]{lang="el"} | [ˈðino], [ˈeðosa] | geben |
+| [παίρνω, πήρα]{lang="el"} | [ˈperno], [ˈpira] | nehmen; bekommen |
+| [φωνάζω, φώναξα]{lang="el"} | [foˈnazo], [ˈfonaksa] | rufen, schreien |
+| [η σπηλιά]{lang="el"} | [i spiˈʎa] | die Höhle |
+| [το φαγητό]{lang="el"} | [to faʝiˈto] | das Essen, das Gericht |
+| [το ποτήρι]{lang="el"} | [to poˈtiri] | das Glas, der Becher |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [μέσα]{lang="el"} | drinnen |
+| [τα τυριά]{lang="el"} | Käse (Plural: Käsesorten, Käselaibe) |
+| [το γάλα]{lang="el"} | die Milch |
+| [ο Κύκλωπας]{lang="el"} | der Kyklop |
+| [η είσοδος]{lang="el"} | der Eingang (feminin) |
+| [τεράστιος, -α, -ο]{lang="el"} | riesig (Kapitel 2) |
+| [του]{lang="el"} | vor dem Verb: ihm (Kapitel 8) |
+| [δυνατός, -ή, -ό]{lang="el"} | stark |
+| [δεύτερος, τρίτος]{lang="el"} | zweiter, dritter |
+| [Πώς σε λένε;]{lang="el"} | Wie heißt du? |
+| [με]{lang="el"} | vor dem Verb: mich |
+| [κοιμήθηκε]{lang="el"} | er schlief ein (Kapitel 10) |
+| [το ξύλο]{lang="el"} | das Holz; hier: der Pfahl |
+| [πυρωμένος, -η, -ο]{lang="el"} | glühend (gemacht) |
+| [η φωτιά]{lang="el"} | das Feuer |
+| [τυφλώνω, τύφλωσα]{lang="el"} | blenden, blind machen |
+| [απ’ έξω]{lang="el"} | von draußen |
+| [Πολύφημε]{lang="el"} | Polyphem! (Anredeform, Kapitel 7) |
+| [κάτω από]{lang="el"} | unter |
+| [το κριάρι]{lang="el"} | der Widder |
+| [το μήνυμα]{lang="el"} | die Nachricht |
+:::
+
+## Sehen, sagen, lernen: [είδα, είπα, έμαθα]{lang="el"} {#sec-unreg-sinne}
+
+Die Sirenen singen in der Odyssee nicht von Liebe. Sie versprechen etwas viel Gefährlicheres.
+
+::: {lang="el"}
+Είδαμε το νησί των Σειρήνων από μακριά. Έκλεισα τα αυτιά των συντρόφων μου με κερί, όπως μου
+είπε η Κίρκη. Εμένα με έδεσαν στο κατάρτι, με τα αυτιά ανοιχτά· ήμουν περίεργος. Και τι έμαθα;
+Οι Σειρήνες δεν τραγούδησαν για αγάπη. Τραγούδησαν για γνώση: «Έλα, Οδυσσέα. Εμείς ξέρουμε τα
+πάντα, για την Τροία και για όλο τον κόσμο.» Έκανα νόημα στους συντρόφους μου: «Λύστε με!» Αυτοί
+δεν άκουσαν τίποτα. Κι έτσι πέρασα, άκουσα, έμαθα, και έμεινα ζωντανός.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+Wir sahen die Insel der Sirenen von Weitem. Ich verschloss meinen Gefährten die Ohren mit Wachs,
+wie Kirke es mir gesagt hatte. Mich banden sie an den Mast, mit offenen Ohren; ich war neugierig.
+Und was habe ich erfahren? Die Sirenen sangen nicht von Liebe. Sie sangen von Wissen: „Komm,
+Odysseus. Wir wissen alles, über Troja und über die ganze Welt.“ Ich gab meinen Gefährten ein
+Zeichen: „Bindet mich los!“ Sie hörten nichts. Und so fuhr ich vorbei, hörte, erfuhr, und blieb
+am Leben.
+:::
+
+Für einen Mann, dessen Beiname „der Listenreiche“ ist, ist das die perfekte Falle. Die drei
+Verben der Szene haben jeweils eine Eselsbrücke, die man kaum wieder vergisst.
+
+**[βλέπω, είδα]{lang="el"}: sehen.** Zwischen den beiden Formen gibt es keine Brücke, sie stammen
+aus zwei verschiedenen Wurzeln. [είδα]{lang="el"} gehört zu einer alten Wurzel für „sehen“, die
+auch im lateinischen [*video*]{lang="la"} „ich sehe“ steckt, und im Deutschen im Wort *wissen*:
+Wer gesehen hat, der weiß. Das Altgriechische hat den Gedanken wörtlich genommen, dort heißt
+[οίδα]{lang="el"}, eigentlich „ich habe gesehen“, einfach „ich weiß“. Näher liegt die
+[ιδέα]{lang="el"}, ursprünglich das, was man sieht, eine Gestalt. [Καμία ιδέα.]{lang="el"}
+heißt „Keine Ahnung“. Also: Video, Idee, [είδα]{lang="el"}. Zwei Silben, Bauform 1:
+[είδαμε]{lang="el"}.
+
+**[λέω, είπα]{lang="el"}: sagen.** Auch hier zwei Wurzeln. [είπα]{lang="el"} ist mit dem *Epos*
+verwandt, dem „Gesagten“, und entfernt mit dem lateinischen [*vox*]{lang="la"}. Bauform 1:
+[είπαμε]{lang="el"}. Eine Überraschung zum Schluss: Du hast den perfektiven Stamm von
+[είπα]{lang="el"} und [είδα]{lang="el"} in Kapitel 2 schon benutzt, ohne es zu merken. In
+[Μη μου πεις]{lang="el"} „Sag bloß“ steckt [πεις]{lang="el"}, in [άκου να δεις]{lang="el"}
+„jetzt pass auf“ steckt [δεις]{lang="el"}. Nach [να]{lang="el"}, [μη]{lang="el"} und
+[θα]{lang="el"} verlieren diese Stämme ihren Anfang: [θα δω]{lang="el"} „ich werde sehen“,
+[θα πω]{lang="el"} „ich werde sagen“. Das ist Stoff für Kapitel 5; hier reicht es, die Formen
+wiederzuerkennen.
+
+<!-- CHECK: είδα ~ lat. video ~ dt. wissen (idg. *weid-); οἶδα "ich weiß" als altes Perfekt; είπα ~ έπος ~ lat. vox (idg. *wekʷ-) -->
+
+**[μαθαίνω, έμαθα]{lang="el"}: lernen, erfahren.** Die Eselsbrücke ist die *Mathematik*, deren
+Name von [μάθημα]{lang="el"} kommt, „das Gelernte“; [το μάθημα]{lang="el"} ist heute die
+Unterrichtsstunde. Das [-αιν-]{lang="el"} ist eine Präsens-Zutat wie bei
+[πηγαίνω → πήγα]{lang="el"}: [μαθ-αίνω → έ-μαθ-α]{lang="el"}, Bauform 2, [μάθαμε]{lang="el"}.
+Die zweite Bedeutung ist die wichtigere im Gespräch. [Έμαθα ότι …]{lang="el"} heißt „ich habe
+gehört, dass …“, „ich habe erfahren“. Französisch macht es genauso: [*J'ai appris
+que …*]{lang="fr"} ist Lernen und Erfahren in einem Wort.
+
+::: {.callout-note collapse="true"}
+## Exkurs: Was die Sirenen versprachen
+
+Bei Homer locken die Sirenen Odysseus mit dem Versprechen, wer ihnen zuhöre, fahre weiter und
+wisse mehr als zuvor; sie kennten alles, was die Griechen und Trojaner vor Troja erlitten hätten,
+und alles, was auf der Erde geschehe (Od. 12, 184–191). Von Liebe ist keine Rede. Die Wiesen um
+sie herum sind allerdings voller Knochen. Dass Sirenen singende Meerjungfrauen sind, ist eine
+spätere Vorstellung; Homer sagt über ihr Aussehen nichts, und die frühe Kunst zeigt sie als Vögel
+mit Frauenköpfen.
+:::
+
+<!-- CHECK: Od. 12.184–191 Inhalt; Knochenhaufen Od. 12.45–46; Homer beschreibt das Aussehen nicht, frühe Darstellungen als Vogel-Frauen -->
+
+<!-- EXERCISE: Übung 3.4 – Lernziel: είδα, είπα, έμαθα sicher dem Präsens zuordnen und von Präsensformen unterscheiden (βλέπω/είδα, λέω/είπα, μαθαίνω/έμαθα), μαθαίνω in der Bedeutung „erfahren“; Art: Auswählen mit Begründung (Multiple Choice mit Nummern): kurze Alltagssätze mit Lücke, je drei Optionen (Präsens, Aorist, falsch gebildete Form wie *έβλεψα, *έλεξα, *μαθαίναμε); dazu zwei Sätze „ich habe erfahren, dass …“ zum laut Übersetzen; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [βλέπω, είδα]{lang="el"} | [ˈvlepo], [ˈiða] | sehen |
+| [λέω, είπα]{lang="el"} | [ˈleo], [ˈipa] | sagen |
+| [μαθαίνω, έμαθα]{lang="el"} | [maˈθeno], [ˈemaθa] | lernen; erfahren |
+| [το τραγούδι]{lang="el"} | [to traˈɣuði] | das Lied |
+| [ζωντανός, -ή, -ό]{lang="el"} | [zodaˈnos] | lebendig, am Leben |
+| [Καμία ιδέα.]{lang="el"} | [kaˈmia iˈðea] | Keine Ahnung. |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [οι Σειρήνες, των Σειρήνων]{lang="el"} | die Sirenen, der Sirenen |
+| [από μακριά]{lang="el"} | von Weitem |
+| [το αυτί, τα αυτιά]{lang="el"} | das Ohr |
+| [των συντρόφων μου]{lang="el"} | meiner Gefährten (Genitiv Plural, Kapitel 7) |
+| [το κερί]{lang="el"} | das Wachs; die Kerze |
+| [όπως]{lang="el"} | wie |
+| [η Κίρκη]{lang="el"} | Kirke |
+| [εμένα με]{lang="el"} | mich (betont, Kapitel 20) |
+| [δένω, έδεσα]{lang="el"} | binden, festbinden |
+| [το κατάρτι]{lang="el"} | der Mast |
+| [ανοιχτός, -ή, -ό]{lang="el"} | offen |
+| [περίεργος, -η, -ο]{lang="el"} | neugierig; seltsam |
+| [τραγουδάω, τραγούδησα]{lang="el"} | singen |
+| [για]{lang="el"} | hier: über, von |
+| [η αγάπη]{lang="el"} | die Liebe |
+| [η γνώση]{lang="el"} | das Wissen |
+| [ο κόσμος]{lang="el"} | die Welt |
+| [κάνω νόημα]{lang="el"} | ein Zeichen geben |
+| [Λύστε με!]{lang="el"} | Bindet mich los! (Kapitel 9) |
+| [ακούω, άκουσα]{lang="el"} | hören |
+| [έτσι]{lang="el"} | so |
+| [το μάθημα]{lang="el"} | die Unterrichtsstunde, Lektion |
+:::
+
+## Machen, bleiben, sterben: ohne [σ]{lang="el"}, sonst wie gehabt {#sec-unreg-rest}
+
+Die längste Station der Reise ist die stillste. Sieben Jahre verbringt Odysseus auf der Insel der
+Nymphe Kalypso, und sie macht ihm ein Angebot, das man schwer ablehnen kann.
+
+::: {lang="el"}
+Εφτά χρόνια έμεινα στο νησί της Καλυψώς. Εκείνη μου έδωσε τα πάντα: σπίτι, φαγητό, αγάπη. Και
+μια μέρα, μου έκανε μια πρόταση: «Μείνε μαζί μου, και δεν θα πεθάνεις ποτέ.» Αθάνατος, σαν θεός.
+Και τι έκανα εγώ; Κάθισα στην ακρογιαλιά και κοίταξα τη θάλασσα, προς την Ιθάκη. Και είπα όχι.
+Πολλοί σύντροφοί μου πέθαναν σε αυτό το ταξίδι. Εγώ διάλεξα μια ζωή που κάποτε τελειώνει, αλλά
+στο σπίτι μου.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+Sieben Jahre blieb ich auf der Insel der Kalypso. Sie gab mir alles: ein Haus, Essen, Liebe. Und
+eines Tages machte sie mir ein Angebot: „Bleib bei mir, und du wirst niemals sterben.“ Unsterblich,
+wie ein Gott. Und was tat ich? Ich setzte mich an den Strand und blickte aufs Meer, Richtung
+Ithaka. Und ich sagte nein. Viele meiner Gefährten sind auf dieser Reise gestorben. Ich wählte
+ein Leben, das irgendwann endet, aber bei mir zu Hause.
+:::
+
+<!-- CHECK: Kalypso bietet Unsterblichkeit und ewige Jugend an (Od. 5.135–136, 7.256–257); Odysseus weint am Strand (Od. 5.151–158); „είπα όχι“ als zulässige Vereinfachung -->
+
+Die letzte Gruppe ist die bequemste. Diese Verben verhalten sich wie die regelmäßigen aus
+Kapitel 2, nur ohne [σ]{lang="el"} (Bauform 2):
+
+**[κάνω, έκανα]{lang="el"}: machen, tun.** Das Präsens ohne Änderung, nur Augment und Endung:
+[έκανα, κάναμε]{lang="el"}. Das Verb, das du am häufigsten brauchen wirst: [Τι έκανες στις
+διακοπές;]{lang="el"} „Was hast du im Urlaub gemacht?“
+
+**[μένω, έμεινα]{lang="el"}: bleiben, wohnen.** Aus [ε]{lang="el"} wird [ει]{lang="el"}, gesprochen
+[i]: [έμεινα]{lang="el"} [ˈemina], [μείναμε]{lang="el"}. [Πού έμεινες;]{lang="el"} „Wo hast du
+gewohnt?“ ist die dritte Urlaubsfrage nach [Πού πήγες;]{lang="el"} und [Τι είδες;]{lang="el"}.
+
+**[πεθαίνω, πέθανα]{lang="el"}: sterben.** Der Stamm ist [θαν-]{lang="el"}, und den kennst du:
+*Thanatos*, der Tod in Person, und die *Euthanasie*, der „gute Tod“. Das Angebot der Kalypso
+heißt auf Griechisch [αθάνατος]{lang="el"}, „un-sterblich“, und so heißen bis heute viele
+Griechen: [Αθανάσιος]{lang="el"}, kurz [Θανάσης]{lang="el"}, ist ein Unsterblicher, mindestens dem
+Namen nach. [πέθανα]{lang="el"} hat drei Silben und kein Augment, im Plural wandert die Betonung:
+[πεθάναμε]{lang="el"}. Aus Kapitel 2 kennst du schon [Ο Σλήμαν πέθανε στη Νάπολη.]{lang="el"}
+
+Nach demselben Muster gehen einige Verben, die du bald triffst: [στέλνω → έστειλα]{lang="el"}
+(schicken, Kapitel 2), [φέρνω → έφερα]{lang="el"} (bringen), [βάζω → έβαλα]{lang="el"} (legen,
+stellen). Wer diese Gruppe beim Hören erkennen will, achtet auf das betonte [έ-]{lang="el"} vorn
+und das fehlende [s].
+
+::: {.callout-tip}
+## Tipp
+
+Beim Nachschlagen hilft ein Trick: Zu den Aoristen auf [-ηκα]{lang="el"} in diesem Kapitel gehört ein
+Präsens auf [-αίνω]{lang="el"} ([μπήκα ← μπαίνω]{lang="el"}), mit einer Ausnahme,
+[βρήκα ← βρίσκω]{lang="el"}. (Das Mediopassiv hat eigene Formen auf [-ηκα]{lang="el"}, etwa
+[χάρηκα]{lang="el"} „freut mich“; Kapitel 13.) Zu [έμαθα, πέθανα, πήγα]{lang="el"} ebenfalls: [μαθαίνω, πεθαίνω,
+πηγαίνω]{lang="el"}. Wer im Text einen unbekannten Aorist ohne [σ]{lang="el"} findet, probiert es
+auch mit [-αίνω]{lang="el"}.
+:::
+
+<!-- EXERCISE: Übung 3.5 – Lernziel: alle sechzehn Aoriste des Kapitels (plus έφυγα, έμεινα) aus dem Präsens bilden und in einer Erzählung verwenden, Bauform und Betonung beachten; Art: Sätze laut umformen – ein kurzer Urlaubsbericht im Präsens (πάω, μένω, βλέπω, τρώω, πίνω, κάνω, μαθαίνω …) soll als Erzählung von gestern bzw. letztem Sommer im Aorist erzählt werden, teils ich-, teils wir-Form; Lösung mit typischen Fehlern (*δαμε, *έκαναμε, *πεθανα ohne Betonung, *έβλεψα, *έπινα statt ήπια); Schwierigkeit 3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [κάνω, έκανα]{lang="el"} | [ˈkano], [ˈekana] | machen, tun |
+| [μένω, έμεινα]{lang="el"} | [ˈmeno], [ˈemina] | bleiben; wohnen |
+| [πεθαίνω, πέθανα]{lang="el"} | [peˈθeno], [ˈpeθana] | sterben |
+| [αθάνατος, -η, -ο]{lang="el"} | [aˈθanatos] | unsterblich |
+| [η ζωή]{lang="el"} | [i zoˈi] | das Leben |
+| [οι διακοπές]{lang="el"} | [i ðiakoˈpes] | der Urlaub, die Ferien |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [εφτά]{lang="el"} | sieben (auch [επτά]{lang="el"}) |
+| [η Καλυψώ, της Καλυψώς]{lang="el"} | Kalypso, der Kalypso |
+| [εκείνη]{lang="el"} | sie (jene) |
+| [η πρόταση]{lang="el"} | das Angebot, der Vorschlag |
+| [Μείνε μαζί μου.]{lang="el"} | Bleib bei mir. (Kapitel 9) |
+| [δεν θα πεθάνεις]{lang="el"} | du wirst nicht sterben (Kapitel 5) |
+| [σαν]{lang="el"} | wie |
+| [ο θεός]{lang="el"} | der Gott |
+| [κάθισα]{lang="el"} | ich setzte mich (von [κάθομαι]{lang="el"}, Kapitel 10) |
+| [η ακρογιαλιά]{lang="el"} | der Strand, das Ufer |
+| [προς]{lang="el"} | in Richtung |
+| [διαλέγω, διάλεξα]{lang="el"} | wählen, aussuchen |
+| [που]{lang="el"} | das, die, der (Relativwort, Kapitel 15) |
+| [φέρνω, έφερα]{lang="el"} | bringen |
+| [βάζω, έβαλα]{lang="el"} | legen, stellen, setzen |
+:::
+
+## Hörspur: Aoriste in schneller Rede {#sec-unreg-hoerspur}
+
+Zu den griechischen Texten und den Vokabeln in diesem Buch gibt es ▶-Knöpfe. Die Aufnahmen sind
+synthetische Stimmen, eine weibliche und eine männliche, die sich in Dialogen abwechseln. Sie
+sprechen deutlich und im Lesetempo; das ist gut zum Nachsprechen, aber so redet niemand am
+Küchentisch. Dort verschwinden Silben, und es trifft ausgerechnet die Aoriste dieses Kapitels.
+
+Sonntagmorgen in einer Athener Wohnung. Das Blech mit dem Baklava, den die Großmutter für das
+Mittagessen gebacken hat, ist auffällig leer.
+
+::: {lang="el"}
+— Ποιος έφαγε τον μπακλαβά;
+
+— Εγώ; Τίποτα δεν ξέρω, τίποτα δεν είδα.
+
+— Έλα, ρε. Σε είδα. Στις δύο τη νύχτα μπήκες στην κουζίνα.
+
+— Καλά, μπήκα. Ήπια ένα νερό και βγήκα.
+
+— Και τα ψίχουλα στο κρεβάτι σου;
+
+— Εντάξει, έφαγα ένα κομμάτι. Ένα.
+
+— Ένα; Η γιαγιά έκανε ένα ταψί, δώδεκα κομμάτια. Τώρα έχει τρία.
+
+— Ε, δεν τα ’φαγα εγώ όλα. Ρώτα τον μπαμπά.
+
+— Τον ρώτησα. Μου ’πε ότι δεν ξέρει τίποτα.
+
+— Κι είδες το μουστάκι του σήμερα το πρωί; Γεμάτο σιρόπι. Σ’ το ’πα.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Wer hat den Baklava gegessen?
+
+— Ich? Ich weiß von nichts, ich hab nichts gesehen.
+
+— Ach, komm. Ich hab dich gesehen. Um zwei Uhr nachts bist du in die Küche.
+
+— Ja gut, bin ich. Ich hab ein Glas Wasser getrunken und bin wieder raus.
+
+— Und die Krümel in deinem Bett?
+
+— Okay, ich hab ein Stück gegessen. Eins.
+
+— Eins? Oma hat ein Blech gemacht, zwölf Stücke. Jetzt sind noch drei da.
+
+— Na, dann hab ich sie nicht alle gegessen. Frag Papa.
+
+— Hab ich. Er hat gesagt, er weiß von nichts.
+
+— Und hast du heute Morgen seinen Schnurrbart gesehen? Voller Sirup. Hab ich dir doch gesagt.
+:::
+
+Drei Formen sehen im Text ungewohnt aus: [τα ’φαγα]{lang="el"}, [μου ’πε]{lang="el"},
+[σ’ το ’πα]{lang="el"}. So schreibt man, was man hört. Steht vor dem Verb ein kurzes Wort, das
+auf einen Vokal endet ([το, τα, μου, σου, θα, να]{lang="el"}), verschluckt die schnelle Rede oft den
+Anfangsvokal des Verbs, und war er betont, rutscht die Betonung auf die nächste Silbe. Bei den Aoristen trifft
+es genau die Silbe, die dort am meisten auffällt: das Augment und das [ει-]{lang="el"} oder
+[ή-]{lang="el"} der kurzen Formen.
+
+| geschrieben | gesprochen | Deutsch |
+|---|---|---|
+| [τα έφαγα]{lang="el"} | [τα ’φαγα]{lang="el"} [ta ˈfaɣa] | ich hab sie gegessen |
+| [το έκανα]{lang="el"} | [το ’κανα]{lang="el"} [to ˈkana] | ich hab's gemacht |
+| [το είδα]{lang="el"} | [το ’δα]{lang="el"} [to ˈða] | ich hab's gesehen |
+| [μου είπε]{lang="el"} | [μου ’πε]{lang="el"} [mu ˈpe] | er/sie hat mir gesagt |
+| [σου το είπα]{lang="el"} | [σ’ το ’πα]{lang="el"} [sto ˈpa] | ich hab's dir (doch) gesagt |
+| [μου ήρθε]{lang="el"} | [μου ’ρθε]{lang="el"} [mu ˈrθe] | mir kam (eine Idee) |
+
+Beim Hören heißt das: Wo [ˈpa], [ˈða] oder [ˈpe] allein zu stehen scheinen, steckt oft
+[είπα, είδα, είπε]{lang="el"} dahinter. In Liedtexten, Untertiteln und Chatnachrichten siehst du
+dieselben Formen auch geschrieben.
+
+<!-- CHECK: Schreibung „σ’ το ’πα“ (neben „στο ’πα“) und Betonung der elidierten Formen ([to ˈkana], [sto ˈpa]) bestätigen -->
+
+Die zweite Hörfalle sind Präsens und Aorist desselben Verbs, die nichts miteinander gemein haben.
+Das Ohr muss lernen, dass [ˈiðame] und [ˈvlepume] dasselbe Verb sind, und es muss die Paare
+auseinanderhalten, die sich ähnlich anfangen:
+
+- [πάμε]{lang="el"} [ˈpame] „wir gehen; lass uns gehen“ – [πήγαμε]{lang="el"} [ˈpiɣame] „wir
+  gingen“
+- [τρώμε]{lang="el"} [ˈtrome] „wir essen“ – [φάγαμε]{lang="el"} [ˈfaɣame] „wir aßen“
+- [λέμε]{lang="el"} [ˈleme] „wir sagen“ – [είπαμε]{lang="el"} [ˈipame] „wir sagten“
+
+Die Aoristform ist fast immer eine Silbe länger. Deshalb gehören auf die Anki-Karte beide Formen,
+wie in den Vokabeltabellen.
+
+Einige dieser Aoriste leben ein Zweitleben als Diskursmarker, und die hörst du ständig:
+
+- [Είδες;]{lang="el"}, wörtlich „Hast du gesehen?“, heißt „Siehst du? Na bitte.“ Das sagt, wer
+  recht behalten hat.
+- [Σ’ το ’πα.]{lang="el"} „Hab ich dir doch gesagt.“ Die kleine Schwester des
+  [Είδες;]{lang="el"}, oft direkt danach.
+- [Είπαμε!]{lang="el"}, wörtlich „Wir haben (es) gesagt“, heißt je nach Ton „Wie besprochen!“
+  oder „Ist ja gut, hab's verstanden.“
+- [Το ’μαθες;]{lang="el"} „Hast du schon gehört?“ Danach kommt Klatsch.
+
+<!-- EXERCISE: Übung 3.6 – Lernziel: elidierte Aoristformen beim Hören und Lesen auflösen (το ’δα, μου ’πε, σ’ το ’πα, τα ’φαγα, το ’κανα, μου ’ρθε) und Präsens/Aorist-Paare am Klang unterscheiden (πάμε/πήγαμε, τρώμε/φάγαμε, λέμε/είπαμε, βλέπουμε/είδαμε); Art: Hörbild entschlüsseln – Schnellsprech-Sätze in Standardform zurückführen und dem Präsens zuordnen, dazu Zuordnen „Präsens oder Aorist?“ nach IPA-Umschrift; Schwierigkeit 2 -->
+
+<!-- EXERCISE: Übung 3.7 – Hör-Auftrag – Lernziel: unregelmäßige Aoriste in echter, schneller Rede erkennen; Art: Hör-Auftrag mit Easy Greek (https://www.youtube.com/@EasyGreekVideos), Straßeninterview über Urlaub/Ferien (auf dem Kanal nach „διακοπές“ suchen; Anschluss an Übung 2.6, die zur Wiederholung nach Kapitel 3 auffordert): erst den Baklava-Dialog oben zweimal mit ▶ ohne mitzulesen hören und die Aoriste zählen (Lösung: exakte Zahl), dann die ersten drei Minuten des Interviews ohne Untertitel mit Strichliste für πήγα/πήγαμε, ήρθα, είδα, έφαγα, ήπια, έκανα, έμεινα, danach mit griechischen Untertiteln prüfen; Auswertungshinweise statt fester Lösung für das Interview; keine erfundenen Video-URLs; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Είδες;]{lang="el"} | [ˈiðes] | Siehst du? Na bitte. (umg.) |
+| [Σ’ το ’πα.]{lang="el"} | [sto ˈpa] | Hab ich dir doch gesagt. (umg.) |
+| [Είπαμε!]{lang="el"} | [ˈipame] | Wie besprochen! Ist ja gut. (umg.) |
+| [Το ’μαθες;]{lang="el"} | [to ˈmaθes] | Hast du schon gehört? (umg.) |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [ο μπακλαβάς]{lang="el"} | der Baklava |
+| [τίποτα]{lang="el"} | nichts (mit [δεν]{lang="el"}) |
+| [η νύχτα]{lang="el"} | die Nacht |
+| [η κουζίνα]{lang="el"} | die Küche |
+| [καλά]{lang="el"} | hier: ja gut, schon gut (umg.) |
+| [τα ψίχουλα]{lang="el"} | die Krümel |
+| [το κρεβάτι]{lang="el"} | das Bett |
+| [εντάξει]{lang="el"} | okay, in Ordnung |
+| [το κομμάτι]{lang="el"} | das Stück |
+| [η γιαγιά]{lang="el"} | die Oma |
+| [το ταψί]{lang="el"} | das Backblech |
+| [ε]{lang="el"} | na, tja (umg.) |
+| [όλα]{lang="el"} | alle, alles |
+| [Ρώτα …]{lang="el"} | Frag … (Kapitel 9) |
+| [ο μπαμπάς]{lang="el"} | der Papa |
+| [ότι]{lang="el"} | dass |
+| [το μουστάκι]{lang="el"} | der Schnurrbart |
+| [γεμάτος, -η, -ο]{lang="el"} | voll |
+| [το σιρόπι]{lang="el"} | der Sirup |
+:::
+
+## Das Wichtigste {#sec-unreg-wichtigste}
+
+- Die häufigsten Verben haben einen **unregelmäßigen perfektiven Stamm**, meist ohne
+  [σ]{lang="el"}. Die **Endungen** sind dieselben wie in Kapitel 2.
+- **Bauform 1, zwei Silben:** Der Anfang bleibt in allen Personen: [πήγα – πήγαμε]{lang="el"},
+  [είδα – είδαμε]{lang="el"}.
+- **Bauform 2, Augment wie gehabt:** [έκανα – κάναμε]{lang="el"}, [έφαγα – φάγαμε]{lang="el"};
+  ohne Augment [πέθανα – πεθάναμε]{lang="el"}.
+- **Bauform 3, mit Vorsilbe:** [ανέβηκα – ανεβήκαμε]{lang="el"}.
+- **Gruppen mit Eselsbrücken:** der Aufzug [μπήκα, βγήκα, ανέβηκα, κατέβηκα]{lang="el"}
+  ([-βαίνω → -βηκα]{lang="el"}) plus Heureka [βρήκα]{lang="el"}; am Tisch [έφαγα]{lang="el"}
+  (Sarkophag), [ήπια]{lang="el"} (Symposion), [έδωσα]{lang="el"} (Dosis), [πήρα]{lang="el"};
+  sehen und sagen [είδα]{lang="el"} (Video, Idee), [είπα]{lang="el"} (Epos), [έμαθα]{lang="el"}
+  (Mathematik); [πέθανα]{lang="el"} (Thanatos).
+- **Schnelle Rede** verschluckt den Anfangsvokal nach [το, τα, μου, σου]{lang="el"}:
+  [το ’πα, μου ’πε, τα ’φαγα]{lang="el"}.
+
+| Präsens | Aorist | wir |
+|---|---|---|
+| [πάω / πηγαίνω]{lang="el"} | [πήγα]{lang="el"} | [πήγαμε]{lang="el"} |
+| [έρχομαι]{lang="el"} | [ήρθα]{lang="el"} | [ήρθαμε]{lang="el"} |
+| [φεύγω]{lang="el"} | [έφυγα]{lang="el"} | [φύγαμε]{lang="el"} |
+| [μπαίνω]{lang="el"} | [μπήκα]{lang="el"} | [μπήκαμε]{lang="el"} |
+| [βγαίνω]{lang="el"} | [βγήκα]{lang="el"} | [βγήκαμε]{lang="el"} |
+| [ανεβαίνω]{lang="el"} | [ανέβηκα]{lang="el"} | [ανεβήκαμε]{lang="el"} |
+| [κατεβαίνω]{lang="el"} | [κατέβηκα]{lang="el"} | [κατεβήκαμε]{lang="el"} |
+| [βρίσκω]{lang="el"} | [βρήκα]{lang="el"} | [βρήκαμε]{lang="el"} |
+| [τρώω]{lang="el"} | [έφαγα]{lang="el"} | [φάγαμε]{lang="el"} |
+| [πίνω]{lang="el"} | [ήπια]{lang="el"} | [ήπιαμε]{lang="el"} |
+| [δίνω]{lang="el"} | [έδωσα]{lang="el"} | [δώσαμε]{lang="el"} |
+| [παίρνω]{lang="el"} | [πήρα]{lang="el"} | [πήραμε]{lang="el"} |
+| [βλέπω]{lang="el"} | [είδα]{lang="el"} | [είδαμε]{lang="el"} |
+| [λέω]{lang="el"} | [είπα]{lang="el"} | [είπαμε]{lang="el"} |
+| [μαθαίνω]{lang="el"} | [έμαθα]{lang="el"} | [μάθαμε]{lang="el"} |
+| [κάνω]{lang="el"} | [έκανα]{lang="el"} | [κάναμε]{lang="el"} |
+| [μένω]{lang="el"} | [έμεινα]{lang="el"} | [μείναμε]{lang="el"} |
+| [πεθαίνω]{lang="el"} | [πέθανα]{lang="el"} | [πεθάναμε]{lang="el"} |
+
+## Zum Lesen: zwanzig Jahre danach {#sec-unreg-heimkehr}
+
+Die Irrfahrten erzählt Odysseus selbst; die Heimkehr erzählt Homer, in der dritten Person. Hier
+in Alltagsgriechisch, mit fast allen Aoristen des Kapitels. Lies den Text einmal ganz, ohne
+nachzuschlagen, und hör ihn dir danach mit ▶ an.
+
+::: {lang="el"}
+**Είκοσι χρόνια μετά**
+
+Οι Φαίακες πήραν τον Οδυσσέα στο καράβι τους και τον πήγαν στην Ιθάκη. Σε όλο το ταξίδι δεν
+ξύπνησε. Τον άφησαν στην ακρογιαλιά, μαζί με τα δώρα του, και έφυγαν. Όταν ξύπνησε, δεν
+αναγνώρισε το νησί του. Είκοσι χρόνια ήταν μακριά.
+
+Τότε ήρθε η θεά Αθηνά και του είπε την αλήθεια: «Είσαι στην Ιθάκη. Αλλά πρόσεχε: στο παλάτι σου
+κάθονται πάνω από εκατό άντρες. Τρώνε το φαγητό σου, πίνουν το κρασί σου και θέλουν τη γυναίκα
+σου.» Μετά τον έκανε γέρο ζητιάνο, με παλιά ρούχα.
+
+Ο ζητιάνος ανέβηκε στο βουνό, στην καλύβα του χοιροβοσκού Εύμαιου. Ο Εύμαιος δεν τον αναγνώρισε,
+αλλά του έδωσε φαγητό και κρασί. Ο Οδυσσέας έφαγε, ήπιε και δεν είπε τίποτα. Εκεί βρήκε και τον
+γιο του, τον Τηλέμαχο, και του είπε ποιος ήταν.
+
+Την άλλη μέρα κατέβηκε στην πόλη. Έξω από το παλάτι, πάνω στην κοπριά, ήταν ένας γέρικος σκύλος:
+ο Άργος, ο σκύλος του Οδυσσέα. Ο Άργος είδε τον ζητιάνο και τον αναγνώρισε αμέσως. Κούνησε την
+ουρά του, αλλά δεν μπόρεσε να σηκωθεί. Και πέθανε. Είκοσι χρόνια περίμενε αυτή τη στιγμή.
+
+Ο ζητιάνος μπήκε στο παλάτι. Οι μνηστήρες τον κορόιδεψαν, και ένας του πέταξε ένα σκαμνί. Ο
+Οδυσσέας δεν είπε τίποτα.
+
+Την επόμενη μέρα η Πηνελόπη έφερε το παλιό τόξο του Οδυσσέα. Ο νικητής, είπε, θα γίνει ο νέος
+της άντρας. Οι μνηστήρες πήραν το τόξο ένας ένας, αλλά κανένας δεν μπόρεσε ούτε να το τεντώσει.
+Στο τέλος το πήρε ο ζητιάνος. Το τέντωσε χωρίς κόπο και έριξε ένα βέλος μέσα από δώδεκα
+τσεκούρια. Μετά, μαζί με τον Τηλέμαχο, σκότωσε τους μνηστήρες.
+
+Η Πηνελόπη όμως δεν τον πίστεψε αμέσως. Είπε στην παραμάνα: «Βγάλε το κρεβάτι του έξω από την
+κάμαρα.» Ο Οδυσσέας θύμωσε: «Το κρεβάτι μας δεν βγαίνει από την κάμαρα. Εγώ το έφτιαξα, πάνω σε
+μια ζωντανή ελιά.» Τότε η Πηνελόπη τον αναγνώρισε. Αυτό το μυστικό ήταν μόνο δικό τους.
+
+Είκοσι χρόνια μετά, ο Οδυσσέας ήταν επιτέλους σπίτι του.
+:::
+
+<!-- CHECK: Handlung gegen Od. 13–23 prüfen: schlafend von den Phaiaken abgesetzt (13), Verwandlung in Bettler (13), Eumaios' Hütte oberhalb (14), Telemachos dort (16), Argos auf dem Mist (17.290–327), Schemelwurf des Antinoos (17.462), Bogenprobe durch zwölf Äxte (21), Bettprobe mit Ölbaum (23.177–204); Zahl der Freier („πάνω από εκατό“, Od. 16.245–253 ergibt 108) -->
+
+Drei Muster helfen beim Lesen:
+
+- **[του, τους]{lang="el"} vor dem Verb** heißen „ihm“, „ihnen“, nach einem Nomen „sein“,
+  „ihr“: [του έδωσε φαγητό]{lang="el"} „er gab ihm Essen“, aber [τα δώρα του]{lang="el"} „seine
+  Geschenke“ (Kapitel 8).
+- **[βγαίνω]{lang="el"} und [βγάζω]{lang="el"}** sehen sich ähnlich, sind aber zwei Verben:
+  [βγαίνω]{lang="el"} „hinausgehen“ (das Bett geht nicht hinaus), [βγάζω, έβγαλα]{lang="el"}
+  „hinausbringen, herausnehmen“. Penelopes [Βγάλε!]{lang="el"} ist die Befehlsform von
+  [βγάζω]{lang="el"} (Kapitel 9).
+- **[περίμενε]{lang="el"}** sieht aus wie eine Form aus Kapitel 4, ist aber der Aorist von
+  [περιμένω]{lang="el"} „warten“: [περίμενα]{lang="el"} „ich wartete“, ganz ohne
+  [σ]{lang="el"}, wie [έμεινα]{lang="el"}.
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [οι Φαίακες]{lang="el"} | die Phaiaken |
+| [ξυπνάω, ξύπνησα]{lang="el"} | aufwachen (Kapitel 2) |
+| [αφήνω, άφησα]{lang="el"} | lassen, zurücklassen |
+| [το δώρο]{lang="el"} | das Geschenk |
+| [μακριά]{lang="el"} | weit weg |
+| [η θεά]{lang="el"} | die Göttin |
+| [Πρόσεχε!]{lang="el"} | Pass auf! (Kapitel 9) |
+| [κάθονται]{lang="el"} | sie sitzen (von [κάθομαι]{lang="el"}, Kapitel 10) |
+| [πάνω από]{lang="el"} | mehr als (Kapitel 2) |
+| [τα ρούχα]{lang="el"} | die Kleider |
+| [το βουνό]{lang="el"} | der Berg |
+| [η καλύβα]{lang="el"} | die Hütte |
+| [ο χοιροβοσκός]{lang="el"} | der Schweinehirt |
+| [ο γιος]{lang="el"} | der Sohn |
+| [ποιος ήταν]{lang="el"} | wer er war |
+| [η κοπριά]{lang="el"} | der Mist |
+| [γέρικος, -η, -ο]{lang="el"} | alt (bei Tieren, Bäumen) |
+| [κουνάω, κούνησα]{lang="el"} | bewegen, wedeln |
+| [η ουρά]{lang="el"} | der Schwanz |
+| [δεν μπόρεσε να σηκωθεί]{lang="el"} | er konnte nicht aufstehen (Kapitel 5, 10) |
+| [η στιγμή]{lang="el"} | der Augenblick |
+| [ο μνηστήρας]{lang="el"} | der Freier |
+| [κοροϊδεύω, κορόιδεψα]{lang="el"} | verspotten |
+| [πετάω, πέταξα]{lang="el"} | werfen |
+| [το σκαμνί]{lang="el"} | der Schemel |
+| [την επόμενη μέρα]{lang="el"} | am nächsten Tag |
+| [το τόξο]{lang="el"} | der Bogen |
+| [ο νικητής]{lang="el"} | der Sieger |
+| [θα γίνει]{lang="el"} | wird werden (Kapitel 5) |
+| [ένας ένας]{lang="el"} | einer nach dem anderen |
+| [ούτε να το τεντώσει]{lang="el"} | ihn nicht einmal zu spannen |
+| [τεντώνω, τέντωσα]{lang="el"} | spannen |
+| [χωρίς κόπο]{lang="el"} | mühelos |
+| [ρίχνω, έριξα]{lang="el"} | werfen; (Pfeil) abschießen |
+| [το βέλος]{lang="el"} | der Pfeil |
+| [το τσεκούρι]{lang="el"} | die Axt |
+| [σκοτώνω, σκότωσα]{lang="el"} | töten |
+| [πιστεύω, πίστεψα]{lang="el"} | glauben (Kapitel 2) |
+| [η παραμάνα]{lang="el"} | die Amme |
+| [η κάμαρα]{lang="el"} | die Kammer, das Schlafzimmer |
+| [θυμώνω, θύμωσα]{lang="el"} | wütend werden |
+| [φτιάχνω, έφτιαξα]{lang="el"} | machen, bauen |
+| [η ελιά]{lang="el"} | der Olivenbaum; die Olive |
+| [το μυστικό]{lang="el"} | das Geheimnis |
+| [δικό τους]{lang="el"} | ihr eigenes |
+| [επιτέλους]{lang="el"} | endlich |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Zwanzig Jahre danach**
+
+Die Phaiaken nahmen Odysseus auf ihr Schiff und brachten ihn nach Ithaka. Während der ganzen
+Fahrt wachte er nicht auf. Sie ließen ihn am Strand zurück, zusammen mit seinen Geschenken, und
+fuhren davon. Als er aufwachte, erkannte er seine Insel nicht. Zwanzig Jahre war er fort gewesen.
+
+Da kam die Göttin Athene und sagte ihm die Wahrheit: „Du bist auf Ithaka. Aber pass auf: In
+deinem Palast sitzen mehr als hundert Männer. Sie essen dein Essen, trinken deinen Wein und wollen
+deine Frau.“ Dann machte sie ihn zu einem alten Bettler in alten Kleidern.
+
+Der Bettler stieg auf den Berg, zur Hütte des Schweinehirten Eumaios. Eumaios erkannte ihn nicht,
+gab ihm aber zu essen und Wein. Odysseus aß, trank und sagte nichts. Dort traf er auch seinen
+Sohn Telemachos und sagte ihm, wer er war.
+
+Am nächsten Tag ging er hinunter in die Stadt. Vor dem Palast, auf dem Misthaufen, lag ein alter
+Hund: Argos, der Hund des Odysseus. Argos sah den Bettler und erkannte ihn sofort. Er wedelte mit
+dem Schwanz, konnte aber nicht aufstehen. Und er starb. Zwanzig Jahre hatte er auf diesen
+Augenblick gewartet.
+
+Der Bettler ging in den Palast. Die Freier verspotteten ihn, und einer warf einen Schemel nach
+ihm. Odysseus sagte nichts.
+
+Am nächsten Tag holte Penelope den alten Bogen des Odysseus. Der Sieger, sagte sie, werde ihr
+neuer Mann. Die Freier nahmen den Bogen einer nach dem anderen, aber keiner schaffte es auch nur,
+ihn zu spannen. Zum Schluss nahm ihn der Bettler. Er spannte ihn mühelos und schoss einen Pfeil
+durch zwölf Äxte. Dann tötete er mit Telemachos die Freier.
+
+Penelope aber glaubte ihm nicht sofort. Sie sagte zur Amme: „Trag sein Bett aus der Kammer.“
+Odysseus wurde wütend: „Unser Bett geht nicht aus der Kammer. Ich habe es selbst gebaut, auf einem
+lebenden Olivenbaum.“ Da erkannte Penelope ihn. Dieses Geheimnis gehörte nur den beiden.
+
+Zwanzig Jahre danach war Odysseus endlich zu Hause.
+:::
+
+Konstantinos Kavafis hat aus der ganzen Geschichte 1911 eine Pointe gemacht: Ithaka ist nicht das
+Ziel, sondern der Grund für die Reise, und man soll sich wünschen, dass der Weg lang ist. Sein
+Gedicht [Ιθάκη]{lang="el"} beginnt mit [Σα βγεις στον πηγαιμό για την Ιθάκη]{lang="el"}, „Wenn du
+aufbrichst zur Fahrt nach Ithaka“. Zwei Wörter darin kennst du jetzt von innen:
+[βγεις]{lang="el"} ist die Form von [βγήκα]{lang="el"}, die nach [σα(ν)]{lang="el"} „wenn“ steht
+(wie [δεις, πεις]{lang="el"}, Kapitel 5), und
+[ο πηγαιμός]{lang="el"}, „das Hingehen“, ist aus [πηγαίνω]{lang="el"} gebaut.
+
+<!-- CHECK: Kavafis, „Ιθάκη“, veröffentlicht 1911; erste Zeile wörtlich „Σα βγεις στον πηγαιμό για την Ιθάκη,“ -->
+
+<!-- EXERCISE: Übung 3.8 – Lernziel: den Lesetext verstehen und die Aoriste darin dem Präsens zuordnen (alle Bauformen); Art: Teil A richtig/falsch zum Text (nummeriert, u.a. Eumaios erkennt ihn / Argos erkennt ihn / die Freier spannen den Bogen / Penelope glaubt sofort), Teil B Aoriste jagen in zwei Absätzen (Absatz „Ο ζητιάνος ανέβηκε …“ und „Την άλλη μέρα …“) und zu jedem laut das Präsens nennen, Hinweis auf Fallen (αναγνώρισε regelmäßig, περίμενε, ήταν nicht mitzählen), Teil C die Geschichte in fünf Sätzen laut nacherzählen aus Sicht des Odysseus (ich-Form), Musterlösung zum Vergleich; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [αναγνωρίζω, αναγνώρισα]{lang="el"} | [anaɣnoˈrizo], [anaɣˈnorisa] | (wieder)erkennen |
+| [περιμένω, περίμενα]{lang="el"} | [periˈmeno], [peˈrimena] | warten |
+| [ο σκύλος]{lang="el"} | [o ˈskilos] | der Hund |
+| [ο ζητιάνος]{lang="el"} | [o ziˈtçanos] | der Bettler |
+| [η αλήθεια]{lang="el"} | [i aˈliθça] | die Wahrheit |
+:::

@@ -1,5 +1,8 @@
 ---
 title: "Der zweite Stamm: der Aorist"
+changes:
+  - date: 2026-09-28
+    note: "Aufnahmen (▶) für alle griechischen Texte und Vokabeln ergänzt; Hinweis in der Hörspur (Abschnitt 2.6) angepasst"
 ---
 
 ::: {.callout-note .review}
@@ -770,9 +773,10 @@ Kühlschrank genau der richtige Ton.
 
 ## Hörspur: wie man eine Anekdote erzählt {#sec-aorist-hoerspur}
 
-Ton gibt es im Buch (noch) nicht. Einzelne Wörter kannst du bei
-[Wiktionary](https://en.wiktionary.org/) oder [Forvo](https://forvo.com/languages/el/) anhören,
-echte Gespräche bringt der Hör-Auftrag am Ende des Abschnitts.
+Die griechischen Texte, Dialoge und Vokabeln dieses Buchs kannst du mit ▶ anhören. Es sind
+synthetische Stimmen: sauber ausgesprochen, aber gleichmäßiger als echte Menschen. Einzelne Wörter
+von Muttersprachlern gibt es bei [Forvo](https://forvo.com/languages/el/), echte Gespräche bringt
+der Hör-Auftrag am Ende des Abschnitts.
 
 Auf Griechisch erzählt man nicht einfach, man inszeniert. Eine Geschichte, wie sie an jedem
 Tisch in Athen erzählt werden könnte; wer dort baut, hat ein Risiko, das es in Wanne-Eickel
