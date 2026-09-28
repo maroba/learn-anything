@@ -11,13 +11,20 @@ title: "Er muss gegangen sein: Vermutungen über die Vergangenheit"
   [να]{lang="el"}-Form.
 - Nach Vermutungswörtern: Aorist für ein Ereignis, Imperfekt für Hintergrund, Perfekt, wenn das
   Ergebnis jetzt zählt: [πρέπει να έφυγε / να κοιμόταν / να έχει φύγει]{lang="el"}. Auch
-  [θα]{lang="el"} + Präsens vermutet: [Θα είναι σπίτι.]{lang="el"} (Kapitel 22)
+  [θα]{lang="el"} + Präsens oder Perfekt vermutet: [Θα είναι σπίτι. Θα έχει φύγει.]{lang="el"}
+  (Kapitel 22)
+- **Die Skala** (Kapitel 22): [σίγουρα]{lang="el"} ja · [πρέπει να]{lang="el"} fast sicher ·
+  [μάλλον, θα]{lang="el"} eher ja · [ίσως, μπορεί να]{lang="el"} offen · [δεν αποκλείεται
+  να]{lang="el"} möglich, vorsichtig · [μάλλον όχι]{lang="el"} eher nein ·
+  [αποκλείεται]{lang="el"} nein.
 - **Plusquamperfekt** (Kapitel 14): [είχα]{lang="el"} + Form auf [-ει]{lang="el"}, Rückblick
   von einem Punkt in der Vergangenheit. [ξέρω]{lang="el"} und [είμαι]{lang="el"} haben keins
   (Kapitel 24).
 - **[θα]{lang="el"} + Imperfekt** (Kapitel 24): Futur der Vergangenheit, Irrealis, Höflichkeit.
   [θα]{lang="el"} + Plusquamperfekt: Irrealis der Vergangenheit, [θα είχα φύγει]{lang="el"}
   „ich wäre gegangen“.
+- **[θα]{lang="el"} + Aorist** (Kapitel 24): kein Irrealis, sondern eine Vermutung,
+  [Θα το ξέχασε.]{lang="el"} „Er hat es wohl vergessen.“
 :::
 
 ## Eine Stadt ohne Menschen {#sec-vermutungen-einstieg}
@@ -32,7 +39,7 @@ einer Infotafel stehen.
 
 — Και οι άνθρωποι; Στην Πομπηία βρήκαν σκελετούς παντού. Εδώ δε βλέπω πουθενά.
 
-— Γιατί δε βρέθηκε κανένας. Ούτε χρυσάφι, ούτε κοσμήματα. Το γράφει η πινακίδα.
+— Γιατί δε βρέθηκε κανένας. Σχεδόν ούτε χρυσάφι, ούτε κοσμήματα. Το γράφει η πινακίδα.
 
 — Άρα πρέπει να είχαν φύγει πριν από την έκρηξη. Και θα πήραν μαζί τους ό,τι είχε αξία.
 
@@ -63,7 +70,7 @@ dreieinhalbtausend Jahren.
 
 — Und die Menschen? In Pompeji hat man überall Skelette gefunden. Hier sehe ich nirgends welche.
 
-— Weil keins gefunden wurde. Kein Gold, kein Schmuck. Steht auf der Tafel.
+— Weil keins gefunden wurde. Kaum Gold, kaum Schmuck. Steht auf der Tafel.
 
 — Dann müssen sie vor dem Ausbruch schon weg gewesen sein. Und alles, was Wert hatte, haben sie
 wohl mitgenommen.
@@ -87,11 +94,6 @@ nicht an der richtigen Stelle gesucht; ausgegraben ist erst ein kleiner Teil der
 — Nicht wie ein Detektiv. Wie ein Archäologe: mit vielen „wahrscheinlich“ und keinem „sicher“.
 :::
 
-<!-- CHECK: Akrotiri – (1) bisher keine Skelette von Opfern gefunden; (2) kaum Gold/Schmuck/
-Wertsachen; (3) Spuren eines Erdbebens vor dem Ausbruch mit begonnenen Aufräum- und
-Reparaturarbeiten; (4) Häuser mit bis zu drei Stockwerken; (5) nur ein kleiner Teil der Stadt
-ausgegraben. Alles gängige Darstellung, bitte gegen eine Fachquelle (z.B. Doumas) prüfen. -->
-
 Die beiden haben die Stadt nicht untergehen sehen, und trotzdem reden sie ziemlich genau darüber.
 Sortiert nach dem, was sie meinen:
 
@@ -99,13 +101,14 @@ Sortiert nach dem, was sie meinen:
 |---|---|
 | [πρέπει να είχαν φύγει]{lang="el"} | sie waren (vor dem Ausbruch) wohl schon weg |
 | [θα πήραν]{lang="el"}, [θα έγιναν]{lang="el"} | haben wohl mitgenommen; es gab wohl |
-| [μπορεί να πήγαν]{lang="el"} | vielleicht sind sie gefahren |
+| [μπορεί να πήγαν]{lang="el"} | vielleicht sind sie (nach Kreta) gefahren |
 | [θα γινόταν]{lang="el"} | passieren würde (Futur der Vergangenheit) |
 | [θα είχα φύγει]{lang="el"} | ich wäre gegangen (Irrealis) |
 
-Drei Dinge sind neu. Nach [πρέπει να]{lang="el"} steht ein Plusquamperfekt. [θα]{lang="el"} mit
-Aorist beschreibt nichts Unwirkliches, sondern vermutet. Und [θα είχα φύγει]{lang="el"} ist hier
-zwar ein Irrealis, dieselbe Form kann aber auch vermuten. Der letzte
+Drei Dinge fallen auf. Nach [πρέπει να]{lang="el"} steht ein Plusquamperfekt; das ist neu.
+[θα]{lang="el"} mit Aorist beschreibt nichts Unwirkliches, sondern vermutet; das kennst du aus
+Kapitel 24, hier kommt es ausführlich. Und [θα είχα φύγει]{lang="el"} ist hier zwar ein
+Irrealis, dieselbe Form kann aber auch vermuten. Der letzte
 Satz des Dialogs ist das Programm des Kapitels: Wer über Vergangenes spricht, das niemand
 gesehen hat, braucht viele [μάλλον]{lang="el"}.
 
@@ -161,33 +164,44 @@ schon fort.
 - [Πρέπει να είχαν φύγει πριν από την έκρηξη.]{lang="el"} – Sie waren vor dem Ausbruch wohl schon
   weg. (Rückblick vom Ausbruch aus)
 
-Das Deutsche sagt in beiden Fällen gern „Sie müssen gegangen sein“ und überlässt den Rest dem
-Zusammenhang. Das Griechische wählt, sobald ein zweiter Zeitpunkt im Spiel ist: ein
-[πριν από]{lang="el"}, ein [όταν]{lang="el"}-Satz mit Aorist, ein [ήδη]{lang="el"}. Fehlt er,
-genügt meist der Aorist.
+Welche Vergangenheit nach dem Vermutungswort steht, entscheidet eine Frage mit drei Ausgängen:
+
+1. Gibt es einen **Punkt damals**, und war es da **schon vorbei**? → [είχε]{lang="el"} + Form
+   auf [-ει]{lang="el"}.
+2. **Lief es damals gerade**, als Zustand oder Hintergrund? → Imperfekt.
+3. Sonst → Aorist.
+
+Die Probe auf Deutsch: Passt „damals schon … gewesen“ oder „hatte schon“, passt auch das
+Plusquamperfekt. Den Punkt damals liefert meist ein [όταν]{lang="el"}-Satz mit Aorist oder ein
+[ήδη]{lang="el"}; dann nimmt man in der Regel das Plusquamperfekt. Nach [πριν (από)]{lang="el"}
+geht beides: [Πρέπει να έφυγαν πριν από την έκρηξη.]{lang="el"} ist richtig, das
+Plusquamperfekt betont den Rückblick, das „schon“. Und zählt das Ergebnis jetzt, bleibt es beim
+Perfekt aus Kapitel 22: [Πρέπει να έχει φύγει.]{lang="el"}
 
 Das geht mit allen Wörtern, die sagen, wie sicher etwas ist:
 
 - [Όταν τον ρώτησαν για το ραντεβού, δεν ήξερε τίποτα. Μπορεί να το είχε ξεχάσει.]{lang="el"} –
   Als man ihn nach dem Termin fragte, wusste er von nichts. Vielleicht hatte er ihn vergessen.
-- [Όταν έφτασαν οι Μυκηναίοι, η Κρήτη μάλλον είχε ήδη αδυναμώσει.]{lang="el"} – Als die Mykener
-  kamen, war Kreta wahrscheinlich schon geschwächt.
+- [Όταν έφτασαν οι Μυκηναίοι, η Κρήτη μάλλον είχε ήδη αποδυναμωθεί.]{lang="el"} – Als die
+  Mykener kamen, war Kreta wahrscheinlich schon geschwächt.
 
 Das Wort, das den Unterschied macht, steht übrigens ganz vorn. Vergleiche mit Kapitel 24:
 
 - [Πρέπει να είχαν φύγει.]{lang="el"} – Sie waren wohl schon weg. (Vermutung)
 - [Έπρεπε να είχαν φύγει.]{lang="el"} – Sie hätten gehen sollen. (Bedauern)
 
-Ein Buchstabe Augment, und aus der Vermutung wird ein Vorwurf. Nach dem Vermutungswort bleibt die
+Ein Augment (und eine kürzere Endung), und aus der Vermutung wird ein Vorwurf. Nach dem Vermutungswort bleibt die
 Vergangenheit echte Vergangenheit; nach [έπρεπε]{lang="el"} zeigt sie den Abstand zur Wirklichkeit.
 
 ::: {.callout-important}
 ## Merke
 
 - Nach [πρέπει να]{lang="el"} (Vermutung), [μπορεί να, ίσως (να)]{lang="el"} und nach
-  [μάλλον]{lang="el"} steht das **Plusquamperfekt**, wenn etwas **vor einem anderen Punkt in der
-  Vergangenheit** schon geschehen war: [πρέπει να είχαν φύγει πριν από την έκρηξη]{lang="el"}.
-- Ohne solchen Punkt reicht der Aorist: [πρέπει να έφυγαν]{lang="el"}.
+  [μάλλον]{lang="el"}: Gibt es einen Punkt damals, und war es da schon vorbei? →
+  **Plusquamperfekt**. Lief es damals gerade? → Imperfekt. Sonst → Aorist.
+- Bei [όταν]{lang="el"} + Aorist und bei [ήδη]{lang="el"} nimmt man in der Regel das
+  Plusquamperfekt: [μάλλον είχε ήδη φύγει]{lang="el"}. Nach [πριν (από)]{lang="el"} geht beides;
+  das Plusquamperfekt betont das „schon“.
 :::
 
 ::: {.callout-warning}
@@ -230,8 +244,8 @@ etwas schon geschehen war?
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-[όταν]{lang="el"} + Aorist oder [ήδη]{lang="el"} → Plusquamperfekt. Ein Zustand über einen
-Zeitraum → Imperfekt. [ξέρω]{lang="el"} und [είμαι]{lang="el"} haben kein Plusquamperfekt.
+Punkt damals und schon vorbei ([όταν]{lang="el"} + Aorist, [ήδη]{lang="el"}) → Plusquamperfekt.
+Lief es damals gerade, über einen Zeitraum → Imperfekt. Sonst → Aorist. [ξέρω]{lang="el"} und [είμαι]{lang="el"} haben kein Plusquamperfekt.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -239,12 +253,16 @@ Zeitraum → Imperfekt. [ξέρω]{lang="el"} und [είμαι]{lang="el"} haben 
 
 **1a, 2b, 3c, 4a, 5a, 6a, 7b.**
 
-- **1** Bezugspunkt ist jetzt: Das Auto fehlt. [είχε φύγει]{lang="el"} bräuchte einen Punkt in
-  der Vergangenheit. [έφευγε]{lang="el"} hieße „war gerade dabei zu gehen“.
+- **1** Bezugspunkt ist jetzt: Das Auto fehlt. Am genauesten wäre [πρέπει να έχει
+  φύγει]{lang="el"} (Ergebnis jetzt); von den drei Angeboten passt (a). [είχε φύγει]{lang="el"}
+  bräuchte einen Punkt in der Vergangenheit. [έφευγε]{lang="el"} hieße „war gerade dabei zu
+  gehen“.
 - **2** Zweiter Zeitpunkt „um neun“ plus [ήδη]{lang="el"}: Das Schiff war da schon weg.
   [έφευγε ήδη]{lang="el"} ginge nur, wenn es gerade ablegte.
-- **3** Hintergrund über den ganzen Nachmittag → Imperfekt. [δούλεψε]{lang="el"} ist nicht
-  falsch, aber weniger naheliegend.
+- **3** Lief damals gerade, über den ganzen Nachmittag → Imperfekt. [είχε δουλέψει]{lang="el"}
+  passt nicht: Es gibt keinen Punkt damals, an dem die Arbeit schon vorbei gewesen wäre; „hatte
+  schon gearbeitet“ erklärt kein ausgeschaltetes Handy. [δούλεψε]{lang="el"} ist nicht falsch,
+  aber weniger naheliegend.
 - **4, 5** \*[είχε ξέρει]{lang="el"} und \*[είχε είναι]{lang="el"} gibt es nicht; auch vor einem
   zweiten Zeitpunkt bleibt nur das Imperfekt.
 - **6, 7** [Πρέπει να]{lang="el"}: Vermutung, „waren wohl schon weg“. [Έπρεπε να]{lang="el"}:
@@ -257,7 +275,7 @@ Zeitraum → Imperfekt. [ξέρω]{lang="el"} und [είμαι]{lang="el"} haben 
 | [πρέπει να είχε φύγει]{lang="el"} | [ˈprepi na ˈiçe ˈfiʝi] | er/sie war wohl (da) schon weg |
 | [μπορεί να το είχε ξεχάσει]{lang="el"} | [boˈri na to ˈiçe kseˈxasi] | vielleicht hatte er/sie es vergessen |
 | [από πριν]{lang="el"} | [aˈpo prin] | (schon) vorher, im Voraus |
-| [αδυναμώνω, αδυνάμωσα]{lang="el"} | [aðinaˈmono], [aðiˈnamosa] | schwach werden, schwächen; abnehmen |
+| [αποδυναμώνω, αποδυνάμωσα, αποδυναμώθηκα]{lang="el"} | [apoðinaˈmono], [apoðiˈnamosa], [apoðinaˈmoθika] | schwächen; (Mediopassiv) geschwächt werden |
 :::
 
 ## Wird wohl gewesen sein: [θα]{lang="el"} vermutet auch Vergangenes {#sec-vermutungen-tha}
@@ -275,7 +293,7 @@ Präsens vermuten kann wie das deutsche „wird wohl“: [Θα είναι σπί
 | Perfekt | [Θα έχει φύγει.]{lang="el"} | Er wird wohl schon weg sein. |
 | Plusquamperfekt | [Θα είχε φύγει.]{lang="el"} | Er wird (da) wohl schon weg gewesen sein. |
 
-Die letzten beiden Zeilen hat Kapitel 14 versprochen. Deutsch macht es mit „wird … haben“ fast
+Die Perfekt-Zeile kennst du aus Kapitel 22, die letzte hat Kapitel 24 angekündigt. Deutsch macht es mit „wird … haben“ fast
 genauso. Noch näher ist das Spanische mit seinem Futur und Konditional der Wahrscheinlichkeit:
 [*Estará en casa. Habrá salido. Serían las diez. Habría salido ya.*]{lang="es"}
 
@@ -294,6 +312,11 @@ Verneint steht [δε(ν)]{lang="el"} wie immer vor [θα]{lang="el"}: [Δε θα
 hat es wohl nicht gesehen.“ Auf der Skala aus Kapitel 22 liegt [θα]{lang="el"} als Vermutung bei
 „eher ja“, etwa wie [μάλλον]{lang="el"}.
 
+Zum **Sprechen** reichen drei Muster: [θα]{lang="el"} + Aorist ([Θα το ξέχασε.]{lang="el"}),
+[θα ήταν γύρω στις …]{lang="el"} für Schätzungen und [θα έχει φύγει]{lang="el"}. Der sichere
+Standard bleibt [μάλλον]{lang="el"} + Vergangenheit; der passt überall. Zum **Erkennen** genügt
+vorerst [θα είχε φύγει]{lang="el"} als Vermutung, dazu das Futur II weiter unten.
+
 ::: {.callout-caution .uncertain}
 ## Vorsicht
 
@@ -303,9 +326,6 @@ Nachrichten liest du für Vermutungen über Vergangenes eher [πρέπει να,
 πιθανότατα]{lang="el"}.
 :::
 
-<!-- CHECK: θα + Aorist als Vermutung (Θα το ξέχασε): Gebrauch und Register (gesprochen üblich,
-in Sachtexten seltener?) gegen Holton/Mackridge/Philippaki-Warburton prüfen. -->
-
 ::: {.callout-note .exercise}
 ## Übung 25.2: Wird wohl gewesen sein
 
@@ -314,7 +334,8 @@ Sag die Antworten laut auf Griechisch, jeweils mit [θα]{lang="el"}.
 1. Wo ist mein Handy? – Du hast es wohl im Taxi vergessen.
 2. Wann kam der Brief? – Das wird so gegen Mittag gewesen sein.
 3. Die Tür ist zu, das Licht aus. – Sie werden wohl schon gegangen sein.
-4. Als die Asche fiel, werden die Bewohner ihre Häuser wohl schon verlassen haben.
+4. (für Ehrgeizige) Als die Asche fiel, werden die Bewohner ihre Häuser wohl schon verlassen
+   haben.
 5. Er war nicht überrascht. – Er wird es wohl schon gewusst haben.
 6. Sie hat die Nachricht wohl nicht gesehen.
 :::
@@ -338,7 +359,8 @@ Verneint: [δε θα]{lang="el"}.
 ## Lösung
 
 1. [Θα το ξέχασες στο ταξί.]{lang="el"} Auch [Θα το άφησες …]{lang="el"}
-2. [Θα ήταν γύρω στο μεσημέρι.]{lang="el"}
+2. [Θα ήταν γύρω στο μεσημέρι.]{lang="el"} Ebenso richtig: [Θα ήρθε γύρω στο
+   μεσημέρι.]{lang="el"}, mit dem Ankommen als Ereignis.
 3. [Θα έχουν ήδη φύγει.]{lang="el"} Das Ergebnis zählt jetzt. [Θα έφυγαν.]{lang="el"} geht auch.
 4. [Όταν έπεσε η στάχτη, οι κάτοικοι θα είχαν ήδη αφήσει τα σπίτια τους.]{lang="el"}
 5. [Θα το ήξερε ήδη.]{lang="el"} (oder [από πριν]{lang="el"})
@@ -362,15 +384,26 @@ Die Umgebung entscheidet:
 
 - [αν]{lang="el"}, [αλλά]{lang="el"} danach, [στη θέση σου]{lang="el"} oder etwas offensichtlich
   Unwirkliches → Irrealis.
-- [είπε ότι, ήξερα ότι]{lang="el"} davor → Futur der Vergangenheit.
+- [είπε ότι, ήξερα ότι]{lang="el"} davor → meist Futur der Vergangenheit.
 - eine Bitte → Höflichkeit.
 - eine Antwort auf die Frage, was damals war, oft mit Indiz, [ήδη]{lang="el"} oder
   [γύρω στις]{lang="el"} → Vermutung. Hier passt die „wohl“-Probe aus Kapitel 22.
 
 [θα]{lang="el"} + Aorist ist einfacher: Es ist kein Irrealis, und du kannst es in aller Regel als
-Vermutung lesen. [θα]{lang="el"} + Perfekt dagegen hat noch eine zweite, ganz nüchterne
-Bedeutung, das Futur II: [Αύριο τέτοια ώρα θα έχουμε φτάσει.]{lang="el"} „Morgen um diese Zeit
-werden wir angekommen sein.“ Ob es um Morgen oder um Gestern geht, zeigt der Zusammenhang.
+Vermutung lesen. Nur wo Aorist und Imperfekt gleich aussehen, hilft der Zusammenhang:
+[θα περίμενα]{lang="el"} ist meist „ich würde warten“.
+
+[θα]{lang="el"} + Perfekt dagegen hat noch eine zweite, ganz nüchterne Bedeutung, und die ist
+neu: das **Futur II** ([ο συντελεσμένος μέλλοντας]{lang="el"} [o sidelezˈmenos ˈmelodas]), „wird
+… haben“ über die Zukunft. Vorerst genügt es, es zu erkennen:
+
+- [Αύριο τέτοια ώρα θα έχουμε φτάσει.]{lang="el"} – Morgen um diese Zeit werden wir angekommen
+  sein.
+- [Μέχρι την Παρασκευή θα έχω διαβάσει το βιβλίο.]{lang="el"} – Bis Freitag werde ich das Buch
+  gelesen haben.
+
+Das Signal ist ein Zukunftsausdruck: [αύριο, μέχρι]{lang="el"} + ein Zeitpunkt, der noch kommt.
+Fehlt er und geht es um jetzt, ist [θα έχει φύγει]{lang="el"} eine Vermutung.
 
 ::: {.callout-important}
 ## Merke
@@ -380,6 +413,8 @@ werden wir angekommen sein.“ Ob es um Morgen oder um Gestern geht, zeigt der Z
 - [θα]{lang="el"} + Imperfekt und + Plusquamperfekt können auch **Irrealis** sein,
   [θα]{lang="el"} + Imperfekt zudem Futur der Vergangenheit oder Höflichkeit. Passt „wohl“, ist
   es eine Vermutung.
+- [θα]{lang="el"} + Perfekt mit Zukunftsausdruck ist **Futur II** (neu, nur zum Erkennen):
+  [Αύριο τέτοια ώρα θα έχουμε φτάσει.]{lang="el"}
 :::
 
 ::: {.callout-note .exercise}
@@ -393,7 +428,7 @@ Ordne zu: **(a)** Vermutung · **(b)** Irrealis · **(c)** Futur der Vergangenhe
 2. Αν τον είχες πάρει τηλέφωνο, δε θα είχε φύγει.
 3. — Πόσο χρονών ήταν ο παππούς σου στον πόλεμο; — Θα ήταν γύρω στα είκοσι.
 4. Το δωμάτιο είναι ωραίο. Αν είχε και μπαλκόνι, θα ήταν τέλειο.
-5. Μου είπε ότι το ταξίδι θα ήταν δύσκολο.
+5. Μου είπε ότι το ταξίδι θα ήταν δύσκολο, και είχε δίκιο.
 6. Θα ήθελα ένα δωμάτιο με θέα, παρακαλώ.
 7. Μην ανησυχείς· μέχρι τις οχτώ θα έχουμε τελειώσει.
 8. — Ο Νίκος δεν είναι στο γραφείο. — Θα έχει πάει για φαγητό.
@@ -428,7 +463,8 @@ Bleibt kein Signal übrig, mach die „wohl“-Probe: Lässt sich der Satz mit �
   vorn (Futur II), in 8 geht es um jetzt, und „wohl“ passt.
 
 **Typischer Fehler:** 5 als Vermutung lesen. Nach [είπε ότι]{lang="el"} gibt [θα ήταν]{lang="el"}
-wieder, was jemand damals vorhersagte.
+wieder, was jemand damals vorhersagte; [και είχε δίκιο]{lang="el"} bestätigt, dass es eine
+Vorhersage war.
 :::
 
 ::: {.vocab}
@@ -472,7 +508,8 @@ Die Verbindungswörter:
 | [όλα δείχνουν ότι]{lang="el"} | alles deutet darauf hin, dass | vor dem Schluss |
 
 [Δε βρέθηκαν σκελετοί, οπότε πρέπει να είχαν φύγει.]{lang="el"} „Man fand keine Skelette, also
-waren sie wohl schon weg.“
+waren sie wohl schon weg.“ Nicht verwechseln mit [όποτε]{lang="el"} [ˈopote] „wann immer“
+(Kapitel 17): Nur die Betonung trennt „also“ von „wann immer“.
 
 Und das Gegenstück, das in keiner Diskussion fehlen darf: [Αυτό δεν αποδεικνύει ότι …]{lang="el"}
 „Das beweist nicht, dass …“. [η απόδειξη]{lang="el"}, der Beweis, ist übrigens auch der
@@ -487,31 +524,38 @@ Schritt vorsichtiger. Die Skala aus Kapitel 22 gilt unverändert; nur steht jetz
 bald hundert Jahren beschäftigt: Hat der Ausbruch auf Thera die minoische Kultur zerstört?
 
 ::: {lang="el"}
-- Η έκρηξη κατέστρεψε τους Μινωίτες.
-- Η έκρηξη πρέπει να τους αδυνάμωσε.
-- Το πιθανότερο είναι ότι τους έκανε μεγάλη ζημιά.
-- Μπορεί να τους είχε αδυναμώσει πριν έρθουν οι Μυκηναίοι.
-- Δεν αποκλείεται να έπαιξε κάποιον ρόλο.
-- Είναι απίθανο να τους κατέστρεψε μόνη της.
-- Αποκλείεται να τους κατέστρεψε μέσα σε μία μέρα.
+1. Η έκρηξη κατέστρεψε τους Μινωίτες.
+2. Η έκρηξη πρέπει να τους αποδυνάμωσε.
+3. Το πιθανότερο είναι ότι τους έκανε μεγάλη ζημιά.
+4. Μπορεί να τους είχε αποδυναμώσει πριν έρθουν οι Μυκηναίοι.
+5. Δεν αποκλείεται να έπαιξε κάποιον ρόλο.
+6. Είναι απίθανο να τους κατέστρεψε μόνη της.
+7. Αποκλείεται να τους κατέστρεψε μέσα σε μία μέρα.
 :::
+
+Die Stufen aus Kapitel 22: **1** ja · **2** fast sicher · **3** eher ja · **4** offen ·
+**5** möglich, vorsichtig · **6** eher nein · **7** nein.
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
 
-- Der Ausbruch hat die Minoer zerstört.
-- Der Ausbruch muss sie geschwächt haben.
-- Am wahrscheinlichsten ist, dass er ihnen großen Schaden zugefügt hat.
-- Vielleicht hatte er sie geschwächt, bevor die Mykener kamen.
-- Es ist nicht ausgeschlossen, dass er eine gewisse Rolle gespielt hat.
-- Es ist unwahrscheinlich, dass er sie allein zerstört hat.
-- Es ist ausgeschlossen, dass er sie an einem einzigen Tag zerstört hat.
+1. Der Ausbruch hat die Minoer zerstört.
+2. Der Ausbruch muss sie geschwächt haben.
+3. Am wahrscheinlichsten ist, dass er ihnen großen Schaden zugefügt hat.
+4. Vielleicht hatte er sie geschwächt, bevor die Mykener kamen.
+5. Es ist nicht ausgeschlossen, dass er eine gewisse Rolle gespielt hat.
+6. Es ist unwahrscheinlich, dass er sie allein zerstört hat.
+7. Es ist ausgeschlossen, dass er sie an einem einzigen Tag zerstört hat.
 :::
 
 Der erste Satz klingt wie ein Beleg, ist aber ein Schluss: So kühn hat es Spyridon Marinatos
 1939 behauptet (mehr im Lesetext). Heute hörst du von Fachleuten eher die mittleren Sätze.
-[αδυναμώνω]{lang="el"} steht hier im Aorist, weil es um ein Ereignis geht, im Plusquamperfekt,
-weil es vor der Ankunft der Mykener geschehen war.
+[αποδυναμώνω]{lang="el"} „schwächen“ steht in 2 im Aorist, weil es um ein Ereignis geht, in 4 im
+Plusquamperfekt, weil es vor der Ankunft der Mykener schon geschehen war.
+
+Achte auf das Bindewort: [το πιθανότερο είναι ότι]{lang="el"} + normaler Satz, wie nach
+[λέει ότι]{lang="el"}; [είναι (α)πίθανο να]{lang="el"} + Vergangenheit, wie nach
+[μπορεί να]{lang="el"}.
 
 [απίθανος]{lang="el"} heißt wörtlich „unwahrscheinlich“, [α-]{lang="el"} wie in *a-typisch*. Im
 Gespräch bedeutet es aber auch „unglaublich, toll“: [Ήταν απίθανο!]{lang="el"} „Es war
@@ -528,9 +572,6 @@ großartig!“ Nach [είναι απίθανο να]{lang="el"} ist es die Wahrs
   [θα]{lang="el"}, dazu [το πιθανότερο είναι ότι]{lang="el"} und [είναι απίθανο να]{lang="el"}.
 - Je länger die Kette, desto vorsichtiger der letzte Schluss.
 :::
-
-<!-- CHECK: "Είναι απίθανο να τους κατέστρεψε" und "Δεν αποκλείεται να έπαιξε": Aorist nach
-είναι απίθανο να / δεν αποκλείεται να als Vermutung über Vergangenes idiomatisch? -->
 
 ::: {.callout-note .exercise}
 ## Übung 25.4: Vom Fund zum Schluss
@@ -559,6 +600,9 @@ Bau daraus laut eine Kette, Glied für Glied in der angegebenen Sicherheit:
 4. Offen, mit Plusquamperfekt: Vielleicht waren viele schon auf die Berge gestiegen, bevor die
    Welle kam.
 5. Eher nein: Dass die Welle allein die Minoer zerstört hat, ist unwahrscheinlich.
+
+**Teil C.** Sag Schluss 2 aus Teil B noch zweimal laut, jedes Mal eine Stufe vorsichtiger: erst
+mit [μάλλον]{lang="el"}, dann mit [μπορεί να]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -573,7 +617,7 @@ oder [οπότε]{lang="el"}.
 
 Teil B, 4: [μπορεί να είχαν ανέβει]{lang="el"} … [πριν έρθει]{lang="el"} (Kapitel 16). 5:
 [είναι απίθανο να]{lang="el"} + Aorist; [το κύμα]{lang="el"} ist sächlich, also [μόνο
-του]{lang="el"}.
+του]{lang="el"}. Teil C: Das Vermutungswort wechselt, die Zeitform bleibt.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -594,7 +638,19 @@ geschlossen wird.
 :::
 
 Varianten: in 2 [οπότε]{lang="el"}, in 3 [Μάλλον κατέστρεψε …]{lang="el"}, in 4
-[ίσως]{lang="el"}.
+[ίσως]{lang="el"} oder, gleichwertig, die Wortstellung aus Hinweis 2: [Μπορεί να είχαν ήδη
+ανέβει πολλοί στα βουνά, …]{lang="el"}
+
+**Teil C:**
+
+::: {lang="el"}
+- Άρα πρέπει να ήρθε ένα μεγάλο κύμα.
+- Άρα μάλλον ήρθε ένα μεγάλο κύμα.
+- Μπορεί να ήρθε ένα μεγάλο κύμα.
+:::
+
+Die Zeit bleibt in allen drei Sätzen der Aorist; nur die Sicherheit sinkt. Das
+[άρα]{lang="el"} kann auch im dritten Satz stehen.
 
 **Typische Fehler:** in 4 der Aorist [ανέβηκαν]{lang="el"}: nicht falsch („stiegen hinauf,
 bevor …“), aber es fehlt der Rückblick, den [ήδη]{lang="el"} und das Plusquamperfekt geben; in 5 [μόνη της]{lang="el"} wie im Buchtext, wo es um die
@@ -611,11 +667,11 @@ bevor …“), aber es fehlt der Rückblick, den [ήδη]{lang="el"} und das Plu
 | [η απόδειξη]{lang="el"} | [i aˈpoðiksi] | der Beweis; der Kassenzettel, die Quittung |
 | [το πιθανότερο (είναι ότι)]{lang="el"} | [to piθaˈnotero] | am wahrscheinlichsten (ist, dass) |
 | [απίθανος, -η, -ο]{lang="el"} | [aˈpiθanos] | unwahrscheinlich; (umg.) unglaublich, toll |
-| [καταστρέφω, κατέστρεψα, καταστράφηκα]{lang="el"} | [kataˈstrefo], [kaˈtestrepsa], [katasˈtrafika] | zerstören |
+| [καταστρέφω, κατέστρεψα, καταστράφηκα]{lang="el"} | [kataˈstrefo], [kaˈtestrepsa], [kataˈstrafika] | zerstören |
 | [η καταστροφή]{lang="el"} | [i katastroˈfi] | die Zerstörung, die Katastrophe |
 | [ο πολιτισμός]{lang="el"} | [o politizˈmos] | die Kultur, die Zivilisation |
 | [οι Μινωίτες]{lang="el"} | [i minoˈites] | die Minoer |
-| [παίζω ρόλο]{lang="el"} | [ˈpezo ˈrolo] | eine Rolle spielen |
+| [παίζω ρόλο]{lang="el"} | [ˈpezo ˈrolo] | eine Rolle spielen (feste Wendung, oft [κάποιον ρόλο]{lang="el"}; [ο ρόλος]{lang="el"} Kapitel 15) |
 :::
 
 ## Hörspur: eine Dokumentation {#sec-vermutungen-hoerspur}
@@ -630,8 +686,8 @@ Thera, mit einer Sprecherin und einem Archäologen.
 
 Vor dem Hören:
 
-- **Zahlen** kommen als Wörter: [ˈçiʎa eksaˈkosça], [ˈçiʎa pedaˈkosça]. Achte darauf, wer welche
-  Jahreszahl nennt.
+- **Zahlen** kommen als Wörter: [ˈçiʎa eksaˈkosça], [ˈçiʎa pedaˈkosça]. Achte darauf, welche
+  Jahreszahl wofür steht.
 - **Vermutungen** erkennst du an [ˈprepi na], [ˈmalon] und an [θa] mit einer
   Vergangenheitsform dahinter.
 - **Worthilfen:** [η ελαφρόπετρα]{lang="el"} der Bimsstein · [το κλαδί]{lang="el"} der Zweig ·
@@ -647,8 +703,8 @@ Vor dem Hören:
 ήταν ζωντανή όταν τη σκέπασε η έκρηξη. Μέτρησαν τον άνθρακα δεκατέσσερα στο ξύλο, και βγήκε μια
 χρονολογία γύρω στο χίλια εξακόσια προ Χριστού, ίσως και λίγο νωρίτερα.
 
-— Πολλοί αρχαιολόγοι όμως δεν πείστηκαν. Αιγυπτιακά αντικείμενα και κεραμικά από τα ίδια
-στρώματα έδειχναν κάτι άλλο: γύρω στο χίλια πεντακόσια.
+— Πολλοί αρχαιολόγοι όμως δεν πείστηκαν. Τα κεραμικά και οι συνδέσεις τους με την Αίγυπτο
+έδειχναν κάτι άλλο: γύρω στο χίλια πεντακόσια.
 
 — Εκατό χρόνια διαφορά δεν είναι λίγα. Νεότερες μετρήσεις έχουν μικρύνει την απόσταση, αλλά δεν
 την έχουν κλείσει. Η σωστή χρονολογία θα είναι μάλλον κάπου ανάμεσα. Εγώ πάντως στοίχημα δε βάζω.
@@ -668,8 +724,8 @@ Hör den Ausschnitt mit ▶, ohne den Text aufzuklappen, höchstens zweimal. Im 
    schließt man · (c) nein
 4. Welches Datum ergab die Messung am Holz? (a) um 1600 v. Chr., vielleicht etwas früher ·
    (b) um 1500 v. Chr. · (c) um 1450 v. Chr.
-5. Worauf stützen viele Archäologen ein anderes Datum? (a) auf Baumringe · (b) auf ägyptische
-   Gegenstände und Keramik · (c) auf Tafeln in Linear B
+5. Worauf stützen viele Archäologen ein anderes Datum? (a) auf Baumringe · (b) auf Keramik und
+   Verbindungen mit Ägypten · (c) auf Tafeln in Linear B
 6. Ist der Streit gelöst? (a) ja · (b) nein, der Abstand ist kleiner geworden, aber geblieben ·
    (c) nein, der Abstand ist gewachsen
 7. Was gilt als sicher? (a) wohin die Bewohner gingen · (b) dass die Bewohner vor der Asche fort
@@ -679,13 +735,13 @@ Hör den Ausschnitt mit ▶, ohne den Text aufzuklappen, höchstens zweimal. Im 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Frage 3: [ˈprepi na] vor [ˈitan zondaˈni]. Frage 6: [ðen tin ˈexun ˈklisi].
+Frage 3: [ˈprepi na] vor [ˈitan zodaˈni]. Frage 6: [ðen tin ˈexun ˈklisi].
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Frage 5: [eʝiptiaˈka adiˈcimena]. Frage 7: der Satz nach [ˈfenete ˈsiɣuro].
+Frage 5: [me tin eˈʝipto]. Frage 7: der Satz nach [ˈfenete ˈsiɣuro].
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -712,8 +768,8 @@ Kleinasien. Wann genau geschah er? Hier beginnt das Rätsel.
 noch gelebt haben, als der Ausbruch ihn begrub. Man hat den Kohlenstoff-14 im Holz gemessen,
 und heraus kam ein Datum um 1600 v. Chr., vielleicht auch etwas früher.
 
-— Viele Archäologen überzeugte das aber nicht. Ägyptische Gegenstände und Keramik aus denselben
-Schichten deuteten auf etwas anderes: um 1500.
+— Viele Archäologen überzeugte das aber nicht. Die Keramik und ihre Verbindungen mit Ägypten
+deuteten auf etwas anderes: um 1500.
 
 — Hundert Jahre Unterschied sind nicht wenig. Neuere Messungen haben den Abstand verkleinert, aber
 nicht geschlossen. Das richtige Datum wird wohl irgendwo dazwischen liegen. Ich jedenfalls wette
@@ -735,6 +791,7 @@ Wohin sie gingen, erfahren wir vielleicht eines Tages. Vielleicht auch nie.
 | [σκεπάζω, σκέπασα]{lang="el"} | bedecken, zudecken |
 | [πείθομαι, πείστηκα]{lang="el"} | sich überzeugen lassen ([πείθω]{lang="el"}, Kapitel 20) |
 | [τα κεραμικά]{lang="el"} | die Keramik |
+| [η σύνδεση, οι συνδέσεις]{lang="el"} | die Verbindung |
 | [μικραίνω, μίκρυνα]{lang="el"} | verkleinern, kleiner werden |
 | [βάζω στοίχημα]{lang="el"} | wetten |
 :::
@@ -743,24 +800,20 @@ Wohin sie gingen, erfahren wir vielleicht eines Tages. Vielleicht auch nie.
 ## Vorsicht
 
 Die Datierung des Ausbruchs ist wirklich umstritten. Radiokarbondaten, darunter der Olivenzweig
-(veröffentlicht 2006), sprechen für das späte 17. Jahrhundert v. Chr.; die herkömmliche
-archäologische Datierung über Funde, die mit Ägypten verknüpft sind, lag eher um 1500 v. Chr.
-Neuere Kalibrierungen und Baumring-Studien haben den Abstand verringert, aber keine Einigung
-gebracht. Wer „um 1600 v. Chr.“ liest, sollte sich ein „plus minus einige Jahrzehnte, vielleicht
+(veröffentlicht 2006), sprachen nach der damaligen Kalibrierung für das späte 17. Jahrhundert
+v. Chr.; die herkömmliche archäologische Datierung über Funde, die mit Ägypten verknüpft sind,
+lag eher um 1500 v. Chr. Mit der neuen Kalibrierkurve (IntCal20) passen dieselben Messungen auch
+ins 16. Jahrhundert, und ein zweiter Olivenfund (Therasia, 2023) spricht sogar für dessen Mitte.
+Der Abstand ist kleiner geworden, geklärt ist nichts. Wer „um 1600 v. Chr.“ liest, sollte sich ein „plus minus einige Jahrzehnte, vielleicht
 mehr“ dazudenken. Einen Überblick über den Stand bieten neuere Übersichtsartikel zur „Minoan
 eruption“, etwa in der englischen Wikipedia mit ihren Literaturangaben.
 :::
 
-<!-- CHECK: Datierung – Friedrich et al. 2006 (Olivenzweig, ca. 1627–1600 v. Chr.; Fund 2002 =
-"Anfang dieses Jahrhunderts"); ältere archäologische Datierung ca. 1530–1500 v. Chr.; Stand
-nach IntCal20 und Baumring-Studien (Pearson et al. 2018 u.a.) korrekt als "Abstand verringert,
-nicht aufgelöst" beschrieben? Außerdem: "eine der größten Eruptionen in der Geschichte der
-Menschheit" und Asche bis Kreta und Kleinasien (Westanatolien) prüfen. -->
-
 ### Dokumentationen hören {#sec-vermutungen-hoeren}
 
 Echte griechische Dokumentationen findest du auf [ERTflix](https://www.ertflix.gr), dem
-Streamingangebot des staatlichen Rundfunks. Viele haben griechische Untertitel. Für den Anfang
+Streamingangebot des öffentlichen Rundfunks. Manche haben griechische Untertitel (CC, Rubrik
+[«Προσβασιμότητα για Όλους»]{lang="el"}, Kapitel 21). Für den Anfang
 eignen sich Filme über Geschichte, Archäologie oder Natur: Der Sprechertext ist langsam und
 deutlich, die Interviews sind schneller und voller Einschränkungen.
 
@@ -799,8 +852,9 @@ Jede Dokumentation ist anders; so wertest du aus:
 
 - **Verteilung:** Der Sprecher erzählt, die Fachleute vermuten; bei ihnen sammeln sich die
   Striche.
-- **Falsche Striche:** [πρέπει να]{lang="el"} mit Foto ([πρέπει να προστατέψουμε]{lang="el"}) ist
-  eine Pflicht, keine Vermutung; [θa] mit Foto ([θa ˈvrume]) ist Zukunft.
+- **Falsche Striche:** [πρέπει να]{lang="el"} mit zeitloser Form, ohne Augment und
+  Vergangenheitsendung ([πρέπει να προστατέψουμε]{lang="el"}), ist eine Pflicht, keine Vermutung;
+  [θa] mit zeitloser Form ([θa ˈvrume]) ist Futur.
 - **Schritt 4**, zum Beispiel: Beleg [Βρέθηκαν σπασμένα κεραμικά.]{lang="el"} Schluss im Film
   [Πρέπει να έγινε σεισμός.]{lang="el"} Deine Stufe: [Μάλλον έγινε σεισμός.]{lang="el"}
 
@@ -821,8 +875,9 @@ hieße „Wahrscheinlich ist gerade ein Erdbeben“.
 ## Das Wichtigste {#sec-vermutungen-wichtigste}
 
 - **Plusquamperfekt nach Vermutungswörtern:** [πρέπει να είχαν φύγει, μπορεί να το είχε
-  ξεχάσει, μάλλον είχε αδυναμώσει]{lang="el"}, wenn etwas vor einem anderen Punkt in der
-  Vergangenheit schon geschehen war. Ohne diesen Punkt reicht der Aorist. [ξέρω, είμαι]{lang="el"}:
+  ξεχάσει, μάλλον είχε αποδυναμωθεί]{lang="el"}: Punkt damals und schon vorbei →
+  Plusquamperfekt; lief es damals gerade → Imperfekt; sonst Aorist. Nach [πριν (από)]{lang="el"}
+  geht beides. [ξέρω, είμαι]{lang="el"}:
   nur Imperfekt ([πρέπει να το ήξερε]{lang="el"}).
 - **Vermutung oder Bedauern:** [πρέπει να είχαν φύγει]{lang="el"} „waren wohl schon weg“,
   [έπρεπε να είχαν φύγει]{lang="el"} „hätten gehen sollen“.
@@ -831,8 +886,8 @@ hieße „Wahrscheinlich ist gerade ein Erdbeben“.
   diez*]{lang="es"}.
 - **Welche Lesart?** [θα]{lang="el"} + Imperfekt und + Plusquamperfekt können auch Irrealis sein
   (bei [αν, αλλά, στη θέση σου]{lang="el"}), [θα]{lang="el"} + Imperfekt zudem Futur der
-  Vergangenheit und Höflichkeit, [θα]{lang="el"} + Perfekt auch Futur II. Passt „wohl“, ist es
-  eine Vermutung.
+  Vergangenheit und Höflichkeit, [θα]{lang="el"} + Perfekt mit Zukunftsausdruck Futur II (nur erkennen). Passt „wohl“,
+  ist es eine Vermutung.
 - **Indizienkette:** Beleg (normaler Satz) → Verbindungswort ([άρα, οπότε, αυτό σημαίνει ότι,
   όλα δείχνουν ότι]{lang="el"}) → Schluss mit Vermutungsform. [Αυτό δεν αποδεικνύει ότι
   …]{lang="el"}
@@ -849,7 +904,7 @@ könnte.
 
 Όταν ο Άγγλος αρχαιολόγος Άρθουρ Έβανς άρχισε να σκάβει στην Κνωσό το 1900, βρήκε ένα τεράστιο
 ανάκτορο. Ονόμασε τον πολιτισμό «μινωικό», από τον μυθικό βασιλιά Μίνωα. Πώς έλεγαν οι ίδιοι
-τον εαυτό τους, δεν το ξέρουμε. Η γραφή τους, η Γραμμική Α, δεν έχει διαβαστεί ακόμα. Ό,τι
+τον εαυτό τους, δεν το ξέρουμε. Η γραφή τους, η Γραμμική Α, δεν έχει αποκρυπτογραφηθεί ακόμα. Ό,τι
 ξέρουμε, μας το λένε τα ερείπια.
 
 Και τα ερείπια λένε ότι γύρω στο 1450 π.Χ. τα περισσότερα ανάκτορα της Κρήτης καταστράφηκαν,
@@ -866,7 +921,7 @@ könnte.
 
 Αυτό δε σημαίνει ότι δεν έπαιξε κανέναν ρόλο. Σε ακτές της Κρήτης βρέθηκαν ίχνη τσουνάμι. Αν
 χάθηκαν λιμάνια και πλοία, το εμπόριο πρέπει να υπέφερε. Μπορεί λοιπόν η Κρήτη να είχε ήδη
-αδυναμώσει, όταν ήρθε το τέλος.
+αποδυναμωθεί, όταν ήρθε το τέλος.
 
 Και ποιος έφερε το τέλος; Στην Κνωσό βρέθηκαν πινακίδες σε Γραμμική Β, και αυτές είναι γραμμένες
 στα ελληνικά. Οπότε μετά το 1450 π.Χ. στην Κνωσό πρέπει να κυβερνούσαν Μυκηναίοι από την
@@ -888,6 +943,7 @@ könnte.
 | [ο Μίνωας]{lang="el"} | Minos |
 | [ο εαυτός τους]{lang="el"} | sich selbst |
 | [η Γραμμική Α / Β]{lang="el"} | Linear A / B (Schriften) |
+| [αποκρυπτογραφώ]{lang="el"} | entziffern |
 | [τα ερείπια]{lang="el"} | die Ruinen |
 | [συμβαίνει, συνέβη]{lang="el"} | geschehen, passieren (gehoben) |
 | [προτείνω, πρότεινα]{lang="el"} | vorschlagen |
@@ -942,7 +998,9 @@ Und Minos? Falls es ihn je gab, hat er keinen Zettel hinterlassen.
 ## Vorsicht
 
 Der Text vereinfacht. Wie viel Zeit zwischen dem Ausbruch und den Zerstörungen um 1450 v. Chr.
-lag, hängt an der umstrittenen Datierung des Ausbruchs. Was die Paläste zerstörte, ist ebenfalls
+lag, hängt an der umstrittenen Datierung des Ausbruchs. Unstrittig ist, dass eine ganze
+archäologische Phase dazwischen liegt: Der Ausbruch fällt ans Ende der Phase „Spätminoisch IA“,
+die Zerstörungen in die folgende, „Spätminoisch IB“. Was die Paläste zerstörte, ist ebenfalls
 offen: Erdbeben, Unruhen auf Kreta selbst, eine Eroberung vom Festland oder mehreres davon werden
 diskutiert. Dass Knossos danach mykenisch verwaltet wurde, zeigen die Linear-B-Tafeln; wann genau
 sie entstanden, ist wiederum umstritten. Die These „Thera zerstörte die Minoer“ vertritt in dieser
@@ -950,21 +1008,13 @@ einfachen Form heute kaum jemand, dass der Ausbruch Kreta geschwächt hat, halte
 möglich.
 :::
 
-<!-- CHECK: (1) Evans beginnt 1900 in Knossos, Name "minoisch" nach Minos; (2) Linear A nicht
-entziffert, Linear B = Griechisch (Ventris 1952); (3) Zerstörung der meisten Paläste um 1450 v.
-Chr. (SM IB), viele durch Feuer, Knossos danach mykenisch; (4) Marinatos-These 1939 in
-"Antiquity"; Grabungsbeginn Akrotiri 1967; Tod 1974 an der Grabungsstätte; (5) Tsunami-
-Ablagerungen an Kretas Küsten (z.B. Palaikastro, Bruins et al. 2008); (6) "über hundert Jahre"
-bei Datierung 1600 und "einige Jahrzehnte" bei archäologischer Datierung; (7) Einschätzung
-"kaum jemand vertritt die These in einfacher Form" – Forschungsstand. -->
-
 ::: {.callout-note .exercise}
 ## Übung 25.7: Nach dem Lesen
 
 **Teil A.** Richtig oder falsch? Im Chat: „1r, 2f …“.
 
 1. Den Namen „Minoer“ haben sich die Bewohner Kretas selbst gegeben.
-2. Linear A kann man bis heute nicht lesen.
+2. Linear A ist bis heute nicht entziffert.
 3. Um 1450 v. Chr. wurden die meisten Paläste Kretas zerstört.
 4. Marinatos meinte, der Ausbruch habe die minoische Welt in wenigen Tagen beendet.
 5. In Akrotiri hat Marinatos seine Theorie bewiesen.
@@ -979,15 +1029,15 @@ bei Datierung 1600 und "einige Jahrzehnte" bei archäologischer Datierung; (7) E
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Teil A, 5 und 6: der dritte Absatz. Teil B: Such [πρέπει να]{lang="el"}, [μπορεί]{lang="el"}
+Teil A, 5: der zweite und dritte Absatz; 6: der dritte Absatz. Teil B: Such [πρέπει να]{lang="el"}, [μπορεί]{lang="el"}
 und die Verbindungswörter [άρα, οπότε]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Teil B: Es sind vier Schlüsse mit Vermutungsform. Einer stützt sich nicht auf einen Fund, sondern
-auf den Schluss davor.
+Teil B: Es sind fünf Schlüsse. Einer hat keinen einzelnen Beleg, einer stützt sich auf den
+Schluss davor.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -1002,12 +1052,12 @@ die Datierung spricht aber gegen die These. 8: wohl mehrere Ursachen.
   nach dem Ausbruch noch in Betrieb (Verbindungswort [άρα]{lang="el"}).
 - [το εμπόριο πρέπει να υπέφερε]{lang="el"} ← Tsunami-Spuren an Kretas Küsten; dazwischen
   steht ein [αν]{lang="el"}: Die Kette hat eine unsichere Stelle.
-- [Μπορεί … η Κρήτη να είχε ήδη αδυναμώσει]{lang="el"} ← der Schluss davor, nicht ein Fund.
+- [Μπορεί … η Κρήτη να είχε ήδη αποδυναμωθεί]{lang="el"} ← der Schluss davor, nicht ein Fund.
   Deshalb die Stufe tiefer, von [πρέπει]{lang="el"} zu [μπορεί]{lang="el"}.
 - [στην Κνωσό πρέπει να κυβερνούσαν Μυκηναίοι]{lang="el"} ← Tafeln in Linear B, auf Griechisch
   ([οπότε]{lang="el"}).
-
-Dazu kommt [το πιθανότερο είναι ότι έπαιξαν όλα κάποιον ρόλο]{lang="el"}, ohne einzelnen Beleg.
+- [το πιθανότερο είναι ότι έπαιξαν όλα κάποιον ρόλο]{lang="el"} ← kein einzelner Beleg, sondern
+  die Summe: viele Zerstörungen, offene Fragen ([όλα δείχνουν ότι]{lang="el"}).
 
 **Falle:** [Κατά τη γνώμη του …]{lang="el"} ist kein Beleg. Die Verben stehen im Aorist, als sei
 es geschehen, aber es ist Marinatos’ Meinung.
