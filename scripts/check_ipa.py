@@ -25,8 +25,12 @@ LETTERS = {
 }
 
 
-def g2p(word: str) -> str:
-    """Rule-based broad IPA for one Modern Greek word; stress marked with ˈ before the vowel."""
+def g2p(word: str, synizesis: bool = False) -> str:
+    """Rule-based broad IPA for one Modern Greek word; stress marked with ˈ before the vowel.
+
+    With synizesis=True, an unstressed [i] between a consonant and a vowel becomes a glide
+    (διαβάζω [ðʝaˈvazo], μάτια [ˈmatça], χωριό [xoˈrʝo], σπηλιά [spiˈʎa]).
+    """
     letters = []
     for ch in word.lower().replace("ς", "σ"):
         d = unicodedata.normalize("NFD", ch)
@@ -70,10 +74,28 @@ def g2p(word: str) -> str:
             sound = "z"
         out.append((sound, stressed if sound in "aeiou" else False)); i += 1
 
+    if synizesis:
+        glided = []
+        for k, (sound, stressed) in enumerate(out):
+            prev = glided[-1][0] if glided else ""
+            nxt = out[k + 1][0][:1] if k + 1 < len(out) else ""
+            if sound == "i" and not stressed and prev and prev[-1] not in "aeiou" and nxt in "aeiou" and nxt:
+                if prev in ("l", "n"):
+                    glided[-1] = ({"l": "ʎ", "n": "ɲ"}[prev], False)
+                elif prev in ("k", "ɣ", "x", "G"):
+                    glided.append(("J", False))  # palatalizes the consonant, then disappears
+                elif prev[-1] in "ptfθs" or prev in ("ts", "ks", "ps"):
+                    glided.append(("ç", False))
+                else:
+                    glided.append(("ʝ", False))
+                continue
+            glided.append((sound, stressed))
+        out = glided
+
     ipa = ""
     for k, (sound, stressed) in enumerate(out):
         following = out[k + 1][0][:1] if k + 1 < len(out) else ""
-        front = following in FRONT
+        front = following in FRONT or following == "J"
         if sound == "k" and front:
             sound = "c"
         elif sound == "ɣ" and front:
@@ -82,6 +104,10 @@ def g2p(word: str) -> str:
             sound = "ç"
         elif sound == "G":
             sound = "ɟ" if front else "g"
+        if following == "J":
+            sound = {"k": "c", "ɣ": "ʝ", "x": "ç", "G": "ɟ"}.get(sound, sound)
+        if sound == "J":
+            continue
         ipa += ("ˈ" + sound) if stressed else sound
     return ipa
 
@@ -105,6 +131,27 @@ def skeleton(ipa: str):
     return flat, stress
 
 
+def matches(greek: str, ipa: str) -> bool:
+    """True if the book's IPA fits the rules, word by word (as many words as the IPA gives)."""
+    words = [w for w in re.split(r"\s+", greek.replace("’", "").replace("'", "")) if w]
+    ipa_words = [w for w in ipa.split() if w]
+    if len(ipa_words) == 1 and len(words) > 1:
+        # IPA for a single word of a phrase: accept if it fits any of the words
+        return any(matches(w, ipa) for w in words)
+    if len(ipa_words) < len(words):
+        words = words[: len(ipa_words)]
+    auto_variants = [" ".join(g2p(w, syn) for w in words) for syn in (False, True)]
+    book_flat, book_stress = skeleton(ipa)
+    for auto in auto_variants:
+        auto_flat, auto_stress = skeleton(auto)
+        if auto_flat != book_flat:
+            continue
+        accented = any(unicodedata.normalize("NFD", c)[1:2] == "\u0301" for c in greek)
+        if auto_stress == book_stress or not accented or len(words) > 1:
+            return True
+    return False
+
+
 PAIR = re.compile(r'\[([^\]]+)\]\{lang="el"\}\s*\|?\s*\[([^\]\{]+)\](?!\{)')
 
 
@@ -120,9 +167,9 @@ def check(path: str) -> int:
         first_ipa = ipa.split("],")[0].split(",")[0]
         if not first_greek or not re.search(r"[α-ωά-ώ]", first_greek.lower()):
             continue
-        auto = " ".join(g2p(w) for w in first_greek.split())
-        if skeleton(auto) != skeleton(first_ipa):
+        if not matches(first_greek, first_ipa):
             hits += 1
+            auto = " ".join(g2p(w) for w in first_greek.split())
             print(f"{path}: {first_greek}  book=[{first_ipa}]  rule=[{auto}]")
     return hits
 

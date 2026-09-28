@@ -8,7 +8,7 @@
 |---|---|---|
 | 01 Auffrischung: Klang und Präsens-Gerüst | im Review | Welle 1; Übungen fertig |
 | 02 Der zweite Stamm: der Aorist | veröffentlicht | Probekapitel; Reviews abgeschlossen; Audio vollständig |
-| 03 Die unregelmäßigen Aoriste | im Review | Welle 1; Übungen fertig |
+| 03 Die unregelmäßigen Aoriste | Konsistenz | Welle 1; Reviews eingearbeitet |
 
 ## Plan für /write all (Wellen nach Voraussetzungen)
 
