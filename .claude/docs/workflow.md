@@ -34,6 +34,12 @@ Dateien selbst; nicht den Inhalt in den Prompt kopieren.
 
 ## C. Kapitel-Pipeline
 
+Entwürfe liegen bis zur Veröffentlichung unter `books/<slug>/drafts/NN-name.qmd`. Quarto rendert
+nur `chapters/`, deshalb können Entwürfe jederzeit committet werden, ohne dass die CI sie baut oder
+veröffentlicht. Beim Veröffentlichen wird die Datei nach `chapters/` verschoben (`git mv`) und in
+`_quarto.yml` eingetragen. Entwürfe verweisen auf andere Kapitel nur als Text („Kapitel 5“), nicht
+mit `@sec-…`-Querverweisen auf noch unveröffentlichte Kapitel.
+
 Für jedes zu schreibende Kapitel:
 
 1. **Entwurf:** `author` schreibt `books/<slug>/chapters/NN-name.qmd` nach `STYLE.md`,

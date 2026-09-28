@@ -6,6 +6,14 @@
 
 | Kapitel | Status | Notizen |
 |---|---|---|
+| 01 Auffrischung: Klang und Präsens-Gerüst | Entwurf | Welle 1; bisher Platzhalter |
 | 02 Der zweite Stamm: der Aorist | veröffentlicht | Probekapitel; Reviews abgeschlossen; Audio vollständig |
+| 03 Die unregelmäßigen Aoriste | Entwurf | Welle 1 |
+
+## Plan für /write all (Wellen nach Voraussetzungen)
+
+1: 01, 03 · 2: 04, 06 · 3: 05, 07, 11 · 4: 08, 10 · 5: 09 · 6: 12 · 7: 13, 14, 15 · 8: 16, 19 ·
+9: 17, 18, 20, 22 · 10: 21, 24 · 11: 23, 25, 29, 32 · 12: 26, 30 · 13: 27 · 14: 28 · 15: 31 ·
+16: 33 · 17: 34 (höchstens drei Kapitel gleichzeitig)
 
 ## Offene TODOs
