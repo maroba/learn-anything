@@ -149,7 +149,7 @@ Satzglied:
 
 Englisch [*however*]{lang="en"}, französisch [*cependant*]{lang="fr"}, spanisch [*sin embargo*]{lang="es"} wandern genauso. Im Gespräch
 sagt man meist [όμως]{lang="el"}, und zwar lieber an zweiter Stelle: [Το πρωτότυπο όμως δε
-βρέθηκε.]{lang="el"} **[παρ’ όλα αυτά]{lang="el"}** [parˈola afˈta], wörtlich „trotz all dem“, ist
+βρέθηκε.]{lang="el"} **[παρ’ όλα αυτά]{lang="el"}** [paˈrola afˈta], wörtlich „trotz all dem“, ist
 das deutsche „trotzdem“, neutral und in Gespräch wie Zeitung zu Hause. Viele schreiben es auch
 [παρόλα αυτά]{lang="el"}.
 
@@ -168,7 +168,7 @@ auch wenn [*bien que*]{lang="fr"} + Subjonctif im Hinterkopf etwas anderes flüs
 ## Achtung
 
 [παρόλο που]{lang="el"} [paˈrolo pu] „obwohl“ leitet einen Nebensatz ein; [παρ’ όλα αυτά]{lang="el"}
-[parˈola afˈta] „trotzdem“ steht im Hauptsatz. Derselbe Gedanke, zwei Bauweisen:
+[paˈrola afˈta] „trotzdem“ steht im Hauptsatz. Derselbe Gedanke, zwei Bauweisen:
 
 - [Παρόλο που το μουσείο δεν μπορεί να τα δώσει, οι συζητήσεις συνεχίζονται.]{lang="el"}
 - [Το μουσείο δεν μπορεί να τα δώσει. Παρ’ όλα αυτά, οι συζητήσεις συνεχίζονται.]{lang="el"}
@@ -250,7 +250,7 @@ Auch [Ακόμα κι αν …]{lang="el"}.
 
 **Typische Fehler**
 
-- *[Παρόλο που ο νόμος να απαγορεύει …]{lang="el"}: nie [να]{lang="el"}, wie nach
+- \*[Παρόλο που ο νόμος να απαγορεύει …]{lang="el"}: nie [να]{lang="el"}, wie nach
   [αν και]{lang="el"}.
 - [Παρ’ όλα αυτά ο νόμος απαγορεύει …, …]{lang="el"} heißt „Trotzdem verbietet das Gesetz …“ und
   bezieht sich auf einen Satz davor: [παρ’ όλα αυτά]{lang="el"} blickt zurück.
@@ -260,7 +260,7 @@ Auch [Ακόμα κι αν …]{lang="el"}.
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [ωστόσο]{lang="el"} | [osˈtoso] | jedoch, dennoch (eher geschrieben, milder als [όμως]{lang="el"}) |
-| [παρ’ όλα αυτά]{lang="el"} | [parˈola afˈta] | trotzdem (neutral) |
+| [παρ’ όλα αυτά]{lang="el"} | [paˈrola afˈta] | trotzdem (neutral) |
 | [παρόλο που]{lang="el"} | [paˈrolo pu] | obwohl (nachdrücklich, etwas schriftlicher) |
 | [ναι μεν …, αλλά …]{lang="el"} | [ne men … aˈla] | zwar …, aber … |
 | [ακόμα κι αν]{lang="el"} | [aˈkoma ci an] | selbst wenn |
@@ -338,8 +338,8 @@ Handlung, in 3 und 7 ein Schluss. In 8 gibt jemand etwas zu und bleibt dabei.
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [επομένως]{lang="el"} | [epoˈmenos] | folglich (förmlich) |
-| [συνεπώς]{lang="el"} | [sineˈpos] | demnach, folglich (sehr förmlich) |
+| [επομένως]{lang="el"} | [epoˈmenos] | folglich (formell) |
+| [συνεπώς]{lang="el"} | [sineˈpos] | demnach, folglich (sehr formell) |
 | [το κοινοβούλιο]{lang="el"} | [to cinoˈvulio] | das Parlament (allgemein; das griechische heißt [η Βουλή]{lang="el"}) |
 | [η απόφαση]{lang="el"} | [i aˈpofasi] | die Entscheidung; [παίρνω απόφαση]{lang="el"} entscheiden |
 :::
@@ -362,7 +362,7 @@ im Standard kein [θα]{lang="el"}.
 - [Εφόσον από το 2009 η Αθήνα έχει μουσείο, το παλιό επιχείρημα δεν ισχύει.]{lang="el"}
 - [Εφόσον ο Έλγιν πλήρωσε για τα γλυπτά, τα θεωρούσε δικά του.]{lang="el"}
 
-Welche Bedeutung gemeint ist, zeigt die „falls“-Probe (vgl. „ob oder falls“ in Kapitel 17): Passt
+Welche Bedeutung gemeint ist, zeigt die „falls“-Probe (wie bei [αν]{lang="el"} oder [όταν]{lang="el"}, Kapitel 17): Passt
 „falls“, ist es eine Bedingung; passt nur „da ja“, ein Grund. Die Form hilft mit. Folgt die
 perfektive Form wie nach [θα]{lang="el"} (Foto: [αναγνωρίσει, υποχωρήσουν]{lang="el"}), ist es fast
 immer eine Bedingung, folgt eine Vergangenheit, fast immer ein Grund; beim Präsens entscheidet der
@@ -450,7 +450,7 @@ der Bedingung [θα]{lang="el"} einschieben: Standard ist [εφόσον βρεθ
 |---|---|---|
 | [εφόσον]{lang="el"} | [eˈfoson] | sofern (+ Formen wie nach [αν]{lang="el"}); da ja (gehoben) |
 | [η προϋπόθεση]{lang="el"} | [i proiˈpoθesi] | die Voraussetzung, Bedingung |
-| [με την προϋπόθεση ότι]{lang="el"} | [me tim broiˈpoθesi ˈoti] | unter der Voraussetzung, dass (förmlich) |
+| [με την προϋπόθεση ότι]{lang="el"} | [me tim broiˈpoθesi ˈoti] | unter der Voraussetzung, dass (formell) |
 | [ο δανεισμός]{lang="el"} | [o ðanizˈmos] | die Leihgabe, das Leihen ([δανείζω]{lang="el"}, Kapitel 8) |
 :::
 
@@ -713,7 +713,7 @@ In 1 kannst du ebenso gut für London kontern: [Ναι μεν την άδεια 
 | [όχι μόνο … αλλά και …]{lang="el"} | [ˈoçi ˈmono … aˈla ce] | nicht nur …, sondern auch … |
 | [νομικός, -ή, -ό]{lang="el"} | [nomiˈkos] | juristisch; [ο/η νομικός]{lang="el"} der Jurist, die Juristin |
 | [πολιτικός, -ή, -ό]{lang="el"} | [politiˈkos] | politisch; [ο/η πολιτικός]{lang="el"} der Politiker, die Politikerin |
-| [Να σας διακόψω.]{lang="el"} | [na sas ðʝaˈkopso] | Darf ich Sie unterbrechen? (höflich-förmlich) |
+| [Να σας διακόψω.]{lang="el"} | [na sas ðʝaˈkopso] | Darf ich Sie unterbrechen? (höflich, formell) |
 | [Αφήστε με να τελειώσω.]{lang="el"} | [aˈfiste me na teˈlioso] | Lassen Sie mich ausreden. |
 :::
 
@@ -729,7 +729,7 @@ anspricht. Antwortet die Frauenstimme auf sich selbst, spricht jetzt die Juristi
 
 Vor dem Hören:
 
-- **Namen und Anrede:** [ˈcirie markaˈci] „Herr Markakis“, [ciˈria staθoˈpulu] „Frau
+- **Namen und Anrede:** [ˈcirie marˈkaci] „Herr Markakis“, [ciˈria staθoˈpulu] „Frau
   Stathopoulou“ (Vokativ, Kapitel 7).
 - **Wer das Wort will:** [Να σας διακόψω.]{lang="el"} und [Αφήστε με να τελειώσω.]{lang="el"}
   kennst du aus @sec-argument-abwaegen.

@@ -28,7 +28,7 @@
 | 22 Vielleicht, wahrscheinlich, sicher: Modalität | veröffentlicht | Welle 9; Audio vollständig |
 | 23 Thessaloniki und Zwischenbilanz | veröffentlicht | Welle 11; Audio vollständig |
 | 24 Was wäre, wenn: Irrealis und Wünsche | veröffentlicht | Welle 10; Audio vollständig |
-| 25 Er muss gegangen sein: Vermutungen über die Vergangenheit | veröffentlicht | Welle 11; Audio läuft |
+| 25 Er muss gegangen sein: Vermutungen über die Vergangenheit | veröffentlicht | Welle 11; Audio vollständig |
 | 26 Wortbildung I: Präfixe und Verkleinerungen | im Review | Welle 12; Übungen fertig |
 | 29 Argumentieren | Konsistenz | Welle 11; überarbeitet |
 | 30 Redewendungen | Entwurf | Welle 12 |
