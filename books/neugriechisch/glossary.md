@@ -118,3 +118,13 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 | verschluckter Anfangsvokal | schnelle Rede nach [το, τα, μου, σου]{lang="el"}: [το ’πα, μου ’πε, τα ’φαγα, σ’ το ’πα]{lang="el"} mit Apostroph `’`; IPA [to ˈpa], [sto ˈpa]. Fachbegriffe (Elision, Aphärese) erst Kapitel 21 | 03 |
 | Diskursmarker (Aoriste) | [Είδες;]{lang="el"} (Siehst du? Na bitte.), [Σ’ το ’πα.]{lang="el"} (Hab ich dir doch gesagt.), [Είπαμε!]{lang="el"} (Wie besprochen! / Ist ja gut.), [Το ’μαθες;]{lang="el"} (Hast du schon gehört?) | 03 |
 | Namen aus der Odyssee | deutsche Formen: Odysseus, Penelope, Telemachos, Eumaios, Argos, Kirke, Kalypso, Polyphem, der Kyklop (Pl. Kyklopen), die Phaiaken, die Sirenen; Orte Ithaka, Troja, Thrakien | 03 |
+| Imperfekt (Bildung) | Standarderklärung: „Vergangenheit im imperfektiven Aspekt“ (Film); imperfektiver Stamm + Aoristendungen, Augment-Regel wie beim Aorist ([έγραφα – γράφαμε]{lang="el"}); [η-]{lang="el"} bei [ήθελα, ήξερα]{lang="el"} | 04 |
+| [-ούσα]{lang="el"}-Imperfekt | Verben auf [-άω]{lang="el"} und [-ώ]{lang="el"}: [μιλούσα, μπορούσα]{lang="el"}, immer auf [-ού-]{lang="el"} betont, nie Augment; umg. Variante [-αγα]{lang="el"} ([ξύπναγα]{lang="el"}) nur zum Wiedererkennen | 04 |
+| kurze Verben (Imperfekt) | [λέω, τρώω, ακούω, καίω]{lang="el"} holen ein [γ]{lang="el"} heraus: [έλεγα, έτρωγα, άκουγα, έκαιγα]{lang="el"}; [πάω]{lang="el"} nimmt [πήγαινα]{lang="el"} (von [πηγαίνω]{lang="el"}) | 04 |
+| Imperfekt = Aorist | [έκανα, περίμενα]{lang="el"}: eine Form für beides, „der Zusammenhang entscheidet“ | 04 |
+| „und dann?“-Test | Probe für Foto oder Film: Bringt der Satz die Geschichte weiter, ist er ein Foto (Aorist). Zusatzprobe „gerade“/„immer“ für Film. Schreibweise: „und dann?“ in deutschen Anführungszeichen | 04 |
+| Signalwörter | Wörter, die eher Film ([κάθε μέρα, πάντα, συνήθως, ενώ, εκεί που]{lang="el"}) oder eher Foto ([ξαφνικά, μια μέρα, δύο φορές]{lang="el"}) nach sich ziehen; „gezählt ist Foto, regelmäßig ist Film“ | 04 |
+| erzählendes Präsens | [ιστορικός ενεστώτας]{lang="el"}: Präsens am Höhepunkt einer Erzählung über Vergangenes | 04 |
+| Diskursmarker (Erinnern) | [Θυμάστε/Θυμάσαι τότε που…;]{lang="el"} (Wisst ihr/Weißt du noch, als …?), [Άλλες εποχές.]{lang="el"} (Andere Zeiten.), [Σ’ το ’λεγα.]{lang="el"} (Hab ich dir ja immer gesagt.), [Τι να κάνω;]{lang="el"} (Was soll(te) ich machen?, als Ganzes gelernt, να-Form erst 05) | 04 |
+| Vorname [Γιάννης]{lang="el"} | nach ELOT 743 *Giannis* (nicht „Jannis“); Vornamen in Übersetzungen generell nach ELOT | 04 |
+| eingedeutschte Sachwörter | *Tavli* ([το τάβλι]{lang="el"}), *Kaiki* ([το καΐκι]{lang="el"}), *Chora* ([η Χώρα]{lang="el"}, Hauptort einer Kykladeninsel), *Meltemi*, *Raki* (der), *Taverne* | 04 |

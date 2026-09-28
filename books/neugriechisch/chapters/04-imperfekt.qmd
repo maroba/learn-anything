@@ -342,7 +342,7 @@ hast du damals so gemacht?“; das entscheidet der Zusammenhang.
 
 ### Die kurzen Verben: ein [γ]{lang="el"} taucht auf {#sec-imperfekt-kurze}
 
-Die Verben mit Vokalstamm aus Kapitel 1 holen im Imperfekt ein [γ]{lang="el"} heraus:
+Die kurzen Verben aus Kapitel 1 holen im Imperfekt ein [γ]{lang="el"} heraus:
 
 | Präsens | Imperfekt | wir |
 |---|---|---|
@@ -654,16 +654,16 @@ sieht die andere schon eine Weile an.
 
 — War ich. Du … du warst die Deutsche mit dem roten Fahrrad!
 
-— Die Deutsche war ich. Das Fahrrad aber gehörte Jannis.
+— Die Deutsche war ich. Das Fahrrad aber gehörte Giannis.
 
-— Jannis! Ihr wart damals zusammen, oder?
+— Giannis! Ihr wart damals zusammen, oder?
 
 — Waren wir. Den ganzen Sommer. Aber wir hatten keine gemeinsame Sprache. Ich konnte zehn Wörter
 Griechisch, er zehn Deutsch. Wir redeten mit den Händen und mit einem Wörterbuch.
 
 — Und jetzt?
 
-— Jetzt kann ich Griechisch, und Jannis ist mein Mann. Das Wörterbuch haben wir noch.
+— Jetzt kann ich Griechisch, und Giannis ist mein Mann. Das Wörterbuch haben wir noch.
 :::
 
 Kapitel 2 hat [ήμουν, ήταν, είχα, είχε]{lang="el"} geliefert, hier sind alle Personen:
@@ -792,7 +792,7 @@ bleiben überall, das [ή-]{lang="el"} von [ήξερα]{lang="el"} nicht.
 | [η Γερμανίδα]{lang="el"} | die Deutsche |
 | [κόκκινος, -η, -ο]{lang="el"} | rot |
 | [το ποδήλατο]{lang="el"} | das Fahrrad |
-| [του Γιάννη]{lang="el"} | Jannis’ (Genitiv, mehr in Kapitel 7) |
+| [του Γιάννη]{lang="el"} | Giannis’ (Genitiv, mehr in Kapitel 7) |
 | [κοινός, -ή, -ό]{lang="el"} | gemeinsam |
 | [ελληνικά, γερμανικά]{lang="el"} | Griechisch, Deutsch (die Sprache) |
 | [εκείνος]{lang="el"} | er (jener) |
@@ -1056,7 +1056,7 @@ Achte auf [κάθε, ενώ, κάθε φορά που]{lang="el"} und auf gezäh
   Plural.
 - **5:** [ήξερε]{lang="el"}: keine Wahl.
 - **6:** [έφερε]{lang="el"}: nächster Schritt der Handlung. [έφερνε]{lang="el"} ist möglich,
-  aber dann ein Bild („war dabei, Kerzen zu bringen“) statt einer Handlung.
+  aber dann Film („war dabei, Kerzen zu bringen“) statt Foto.
 - **7 und 8:** [γελούσαν, τραγουδούσαν]{lang="el"}: Stimmung im Hintergrund. Der Aorist ([γέλασαν]{lang="el"}) ginge auch, dann
   lachten alle einmal kurz auf.
 - **9:** [μείναμε]{lang="el"}: Die Zeit bis zwei Uhr als Ganzes, Foto. Vergleiche 1: dasselbe Verb,
@@ -1387,7 +1387,7 @@ Zwei Stellen zum Lesen:
 | [η βρύση]{lang="el"} | der Wasserhahn |
 | [Δε μας πείραζε.]{lang="el"} | Es störte uns nicht. ([Δεν πειράζει]{lang="el"}: Kapitel 1) |
 | [ό,τι]{lang="el"} | was (auch immer) |
-| [η κυρία Ρηνιώ]{lang="el"} | Frau Rinio (Koseform von Ειρήνη) |
+| [η κυρία Ρηνιώ]{lang="el"} | Frau Rinio (Koseform von [Ειρήνη]{lang="el"}) |
 | [η Χώρα]{lang="el"} | die Chora, der Hauptort einer Kykladeninsel |
 | [η ρακή]{lang="el"} | der Raki (Tresterschnaps) |
 | [το κινητό]{lang="el"} | das Handy |
