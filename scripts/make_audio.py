@@ -32,6 +32,7 @@ import base64
 import hashlib
 import json
 import os
+import random
 import re
 import subprocess
 import sys
@@ -49,6 +50,7 @@ LUVVOICE_URL = "https://luvvoice.com/api/v1/text-to-speech"
 LUVVOICE_MIN_INTERVAL = 6.5  # seconds; the API allows 10 requests per minute
 OPENAI_URL = "https://api.openai.com/v1/audio/speech"
 OPENAI_MODEL = "gpt-4o-mini-tts"
+USER_AGENT = "learn-anything/1.0 (+https://github.com/maroba/learn-anything)"
 
 SAMPLE_TEXTS = {
     "el": [
@@ -167,7 +169,9 @@ def texts_of_chapter(path: Path, lang: str) -> list[str]:
 
 def http_json(url, payload=None, headers=None, method=None):
     data = json.dumps(payload).encode() if payload is not None else None
-    req = urllib.request.Request(url, data=data, headers=headers or {}, method=method)
+    # Cloudflare in front of some APIs rejects Python's default user agent (error 1010).
+    headers = {"User-Agent": USER_AGENT, "Accept": "application/json", **(headers or {})}
+    req = urllib.request.Request(url, data=data, headers=headers, method=method)
     try:
         with urllib.request.urlopen(req, timeout=120) as resp:
             return resp.status, resp.read()
@@ -205,7 +209,8 @@ def tts_luvvoice(text, voice, **_):
     if result.get("audio_data"):
         return base64.b64decode(result["audio_data"])
     if result.get("audio_url"):
-        with urllib.request.urlopen(result["audio_url"], timeout=120) as resp:
+        req = urllib.request.Request(result["audio_url"], headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(req, timeout=120) as resp:
             return resp.read()
     raise RuntimeError(f"LuvVoice returned no audio: {result}")
 
@@ -308,7 +313,8 @@ def voice_samples(args):
     if not candidates:
         sys.exit("Neither LUVVOICE_API_KEY nor OPENAI_API_KEY is set.")
 
-    # Anonymous labels, so the listener does not know which provider is which.
+    # Anonymous, shuffled labels, so the listener cannot tell which provider is which.
+    random.shuffle(candidates)
     key_lines = []
     for n, (provider, voice, instructions) in enumerate(candidates, 1):
         label = f"stimme-{n}"
