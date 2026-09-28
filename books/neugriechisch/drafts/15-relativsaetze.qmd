@@ -181,9 +181,112 @@ als das Spanische.
 - [που λες]{lang="el"} (Kapitel 2) ist kein Relativsatz, sondern ein Erzählfüller.
 :::
 
-<!-- EXERCISE: Relativsätze mit που bilden (Subjekt und Objekt), Art: zwei Sätze zu einem verbinden, mündlich (8 Satzpaare zu Filmen, Kino, Schauspielern; einige mit Subjekt hinter dem Verb, einer mit Artikel-Falle Nominativ/Akkusativ wie ξέρει η Μαρία/τη Μαρία), Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 15.1: Aus zwei mach eins
 
-<!-- EXERCISE: Relativsätze mit που frei bilden, Art: im «Κυνόδοντας»-Spiel falsche Definitionen laut formulieren („X ist ein Y, das/der …“: «Θάλασσα είναι μια πολυθρόνα που …»), 6 vorgegebene Wörter mit Worthilfen, Musterlösungen mit Subjekt- und Objekt-που, Schwierigkeit 2 -->
+Verbinde laut: Der zweite Satz wird zum Relativsatz über das Nomen, das in beiden vorkommt.
+
+::: {lang="el" .no-audio}
+1. Αυτή είναι η ταινία. Είδαμε την ταινία χθες.
+2. Ξέρεις τον ηθοποιό; Ο ηθοποιός παίζει τον πατέρα.
+3. Μου άρεσε η μουσική. Έγραψε τη μουσική ο Χατζιδάκις.
+4. Η κωμωδία ήταν πολύ καλή. Μου πρότεινες την κωμωδία.
+5. Ο σκηνοθέτης μένει στο Παρίσι. Ο σκηνοθέτης ξέρει τη Μαρία.
+6. Ο σκηνοθέτης μένει στο Παρίσι. Η Μαρία ξέρει τον σκηνοθέτη.
+7. Οι θεατές δε βλέπουν καλά. Οι θεατές κάθονται μπροστά.
+8. Ο ρόλος ήταν δύσκολος. Έπαιξε τον ρόλο η Μερκούρη.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Das Nomen im zweiten Satz fällt weg, [που]{lang="el"} tritt direkt hinter das Bezugswort. Bei
+4, 7 und 8 landet der Relativsatz mitten im Hauptsatz.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Bei 5 und 6 zeigt nur der Artikel von Maria, wer wen kennt. Lass ihn, wie er ist.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+::: {lang="el"}
+1. Αυτή είναι η ταινία που είδαμε χθες.
+2. Ξέρεις τον ηθοποιό που παίζει τον πατέρα;
+3. Μου άρεσε η μουσική που έγραψε ο Χατζιδάκις.
+4. Η κωμωδία που μου πρότεινες ήταν πολύ καλή.
+5. Ο σκηνοθέτης που ξέρει τη Μαρία μένει στο Παρίσι.
+6. Ο σκηνοθέτης που ξέρει η Μαρία μένει στο Παρίσι.
+7. Οι θεατές που κάθονται μπροστά δε βλέπουν καλά.
+8. Ο ρόλος που έπαιξε η Μερκούρη ήταν δύσκολος.
+:::
+
+- 1, 3, 4, 6, 8: Objekt, trotzdem [που]{lang="el"}. In 3, 6 und 8 steht das Subjekt hinter dem
+  Verb; [που η Μαρία ξέρει]{lang="el"} ginge auch, ist aber seltener.
+- 5 gegen 6: [τη Μαρία]{lang="el"} ist Objekt (der Regisseur kennt sie), [η Μαρία]{lang="el"}
+  Subjekt (sie kennt ihn).
+
+**Typische Fehler:** [που]{lang="el"} weglassen wie im Englischen (\*[η ταινία είδαμε
+χθες]{lang="el"}); das Nomen im Relativsatz wiederholen (\*[που είδαμε την ταινία]{lang="el"});
+ein Komma vor [που]{lang="el"} setzen.
+:::
+
+::: {.callout-note .exercise}
+## Übung 15.2: Ein Wörterbuch wie im *Dogtooth*
+
+Spiel den Vater aus dem Film und erfinde falsche Bedeutungen. Bilde laut Definitionen nach dem
+Muster [Θάλασσα είναι μια πολυθρόνα που …]{lang="el"} aus den Bausteinen hinter dem Pfeil.
+
+1. [η θάλασσα]{lang="el"} → [η πολυθρόνα · αγόρασε ο πατέρας]{lang="el"}
+2. [ο αυτοκινητόδρομος]{lang="el"} → [ο αέρας · ανοίγει τα παράθυρα]{lang="el"}
+3. [το αεροπλάνο]{lang="el"} → [το παιχνίδι · πέφτει από τον ουρανό]{lang="el"}
+4. [η γάτα]{lang="el"} → [το ζώο · δεν έχει δει κανείς]{lang="el"}
+5. [το τηλέφωνο]{lang="el"} → [η αλατιέρα · βάζουμε στο τραπέζι]{lang="el"}
+6. [η ταινία]{lang="el"} → [το όνειρο · βλέπουμε όλοι μαζί]{lang="el"}
+
+[το παιχνίδι]{lang="el"} Spielzeug · [η αλατιέρα]{lang="el"} Salzstreuer ·
+[το όνειρο]{lang="el"} Traum.
+
+**Zugabe:** Erfinde zwei eigene falsche Definitionen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Vorn ohne Artikel, hinter [είναι]{lang="el"} [ένας, μια, ένα]{lang="el"} passend zum neuen
+Nomen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Bei 1, 4, 5 und 6 ist das Nomen im Relativsatz Objekt, bei 2 und 3 Subjekt. Bei 1 und 4 steht
+das Subjekt ([ο πατέρας, κανείς]{lang="el"}) hinter dem Verb.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+::: {lang="el"}
+1. Θάλασσα είναι μια πολυθρόνα που αγόρασε ο πατέρας.
+2. Αυτοκινητόδρομος είναι ένας αέρας που ανοίγει τα παράθυρα.
+3. Αεροπλάνο είναι ένα παιχνίδι που πέφτει από τον ουρανό.
+4. Γάτα είναι ένα ζώο που δεν έχει δει κανείς.
+5. Τηλέφωνο είναι μια αλατιέρα που βάζουμε στο τραπέζι.
+6. Ταινία είναι ένα όνειρο που βλέπουμε όλοι μαζί.
+:::
+
+Auch richtig: mit Artikel vorn ([Η θάλασσα είναι …]{lang="el"}).
+
+**Typische Fehler:** den Artikel nach dem Wort vorn richten (\*[μια ζώο]{lang="el"} wegen [η γάτα]{lang="el"}; richtig
+[ένα ζώο]{lang="el"}). In 4 geht auch
+[που κανείς δεν έχει δει]{lang="el"}. Bei der Zugabe prüfen: [που]{lang="el"} direkt hinter dem
+Nomen, nichts wiederholt?
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -267,7 +370,64 @@ Die neutrale Lösung für Präpositionen ist [ο οποίος]{lang="el"}, der n
 | Ort, Zeit | [η πόλη που γεννήθηκα, τη μέρα που …]{lang="el"} | nein |
 :::
 
-<!-- EXERCISE: Rückverweis-Pronomen im που-Satz richtig setzen (wem/wessen) und weglassen (Subjekt/Objekt/Ort/Zeit), Art: mündliche Übersetzung Deutsch→Griechisch von 8 kurzen Sätzen über Kino und Filmleute, dazu 2 Fehlersätze erkennen (*που έδωσαν το βραβείο ohne της; *με που), Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 15.3: Mit Rückverweis oder ohne?
+
+**Teil A.** Sag laut auf Griechisch:
+
+1. Die Schauspielerin, der sie den Preis gaben, ist aus Kreta.
+2. Das ist der Regisseur, dessen Filme drei Stunden dauern.
+3. Der Freund, dem ich den Film empfohlen habe, hat ihn nicht gesehen.
+4. Die Stadt, in der Angelopoulos geboren wurde, ist Athen.
+5. An dem Tag, als der Film herauskam, waren wir in Paris.
+6. Eine Schauspielerin, deren Namen ich vergessen habe.
+7. Der Zuschauer, der den Film nicht mochte, ist gegangen.
+8. Die Filme, die du mir empfohlen hast, waren alle gut.
+
+**Teil B.** Was ist falsch?
+
+9. [Η ηθοποιός που έδωσαν το βραβείο είναι η Μερκούρη.]{lang="el"}
+10. [Ο φίλος με που πήγα σινεμά είναι από τη Σεβίλλη.]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Nur „wem“ und „wessen“ brauchen [του, της …]{lang="el"}. Maßgeblich ist die Rolle im
+**griechischen** Satz; bei 7 ist das nicht dieselbe wie im deutschen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+„Mir gefällt“ heißt [μου αρέσει]{lang="el"}: Wer den Film nicht mag, dem gefällt er nicht. Das
+Besitzwort steht hinter seinem Nomen: [που το όνομά της]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+::: {lang="el"}
+1. Η ηθοποιός που της έδωσαν το βραβείο είναι από την Κρήτη.
+2. Αυτός είναι ο σκηνοθέτης που οι ταινίες του κρατάνε τρεις ώρες.
+3. Ο φίλος που του πρότεινα την ταινία δεν την έχει δει.
+4. Η πόλη που γεννήθηκε ο Αγγελόπουλος είναι η Αθήνα.
+5. Τη μέρα που βγήκε η ταινία ήμασταν στο Παρίσι.
+6. Μια ηθοποιός που ξέχασα το όνομά της.
+7. Ο θεατής που δεν του άρεσε η ταινία έφυγε.
+8. Οι ταινίες που μου πρότεινες ήταν όλες καλές.
+:::
+
+- 1, 2, 3, 6: Rückverweis nötig. In 3 auch [δεν την είδε]{lang="el"}.
+- 4, 5: Ort und Zeit ohne alles. In 4 auch [όπου γεννήθηκε]{lang="el"}. Nicht \*[που
+  γεννήθηκε εκεί]{lang="el"}, nicht \*[στην που]{lang="el"}.
+- 7: Im Deutschen Subjekt, im Griechischen „wem“, wie bei spanisch *gustar*. Nicht
+  \*[που δεν άρεσε την ταινία]{lang="el"}.
+- 8: [μου]{lang="el"} ist „mir“, kein Rückverweis; das Bezugswort ist Objekt.
+- 9: Es fehlt [της]{lang="el"}; so klingt es, als hätte man die Schauspielerin verliehen.
+- 10: Keine Präposition vor [που]{lang="el"}. Umgangssprachlich [που πήγα μαζί του
+  σινεμά]{lang="el"}, neutral [με τον οποίο πήγα]{lang="el"} (nächster Abschnitt).
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -349,7 +509,59 @@ Drei Fälle, in allen anderen ist [που]{lang="el"} das normale Wort:
 
 <!-- CHECK: „που μιλάμε γι’ αυτήν“ als umgangssprachliche Variante von „για την οποία μιλάμε“ natürlich? Alternativ „που λέμε“. Bitte prüfen. -->
 
-<!-- EXERCISE: ο οποίος in der richtigen Form wählen (Genus/Zahl vom Bezugswort, Fall aus Präposition/Rolle), Art: Multiple Choice mit nummerierten Optionen, 8 Sätze im Stil einer Filmkritik bzw. Festivalmeldung, davon 2 mit σε-Verschmelzung und 1 Mehrdeutigkeitsfall (κόρη του σκηνοθέτη), Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 15.4: Die richtige Form
+
+Sätze aus Festivalmeldungen. Welche Form passt? Einmal passen zwei. Im Chat reicht „1b, 2a …“.
+
+1. [Η Μερκούρη, … έγινε υπουργός, ήταν ηθοποιός.]{lang="el"}\
+   a [ο οποίος]{lang="el"} · b [η οποία]{lang="el"} · c [την οποία]{lang="el"}
+2. [Ο σκηνοθέτης με … δούλεψε ήταν ο Κακογιάννης.]{lang="el"}\
+   a [ο οποίος]{lang="el"} · b [τον οποίο]{lang="el"} · c [του οποίου]{lang="el"}
+3. [Οι ταινίες για … μιλάμε είναι του 1960.]{lang="el"}\
+   a [τις οποίες]{lang="el"} · b [οι οποίες]{lang="el"} · c [τα οποία]{lang="el"}
+4. [Το φεστιβάλ … πήγαμε ήταν στη Θεσσαλονίκη.]{lang="el"}\
+   a [στο οποίο]{lang="el"} · b [σε το οποίο]{lang="el"} · c [στον οποίο]{lang="el"}
+5. [Η Αθήνα είναι η πόλη … έζησε η Μερκούρη.]{lang="el"}\
+   a [στην οποία]{lang="el"} · b [στον οποίο]{lang="el"} · c [η οποία]{lang="el"}
+6. [Ο Αγγελόπουλος, … οι ταινίες είναι πολύ αργές, κέρδισε στις Κάννες.]{lang="el"}\
+   a [ο οποίος]{lang="el"} · b [τον οποίο]{lang="el"} · c [του οποίου]{lang="el"}
+7. [Η κόρη του σκηνοθέτη, … ζει στο Παρίσι, είναι ηθοποιός.]{lang="el"} Gemeint: Der
+   Regisseur lebt in Paris.\
+   a [που]{lang="el"} · b [η οποία]{lang="el"} · c [ο οποίος]{lang="el"}
+8. [Οι ηθοποιοί … πήραν βραβείο είναι όλοι νέοι.]{lang="el"}\
+   a [οι οποίοι]{lang="el"} · b [τους οποίους]{lang="el"} · c [που]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Genus und Zahl vom Bezugswort, der Fall von der Rolle im Relativsatz.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Nach Präposition immer Akkusativ, [σε]{lang="el"} verschmilzt. „Dessen“ ist Genitiv. Wo
+weder Präposition noch Mehrdeutigkeit ist, geht auch [που]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1b, 2b, 3a, 4a, 5a, 6c, 7c, 8a und 8c.**
+
+- 1: weiblich, Subjekt. 2, 3: nach Präposition Akkusativ.
+- 4: [σε + το = στο]{lang="el"}; b gibt es nicht, c ist männlich. Ohne Präposition ginge als
+  Ortsangabe auch [το φεστιβάλ που πήγαμε]{lang="el"}.
+- 5: [η πόλη]{lang="el"} ist weiblich. 6: „dessen“, Genitiv, männlich.
+- 7: [που]{lang="el"} wäre grammatisch, aber mehrdeutig; [η οποία]{lang="el"} meinte die Tochter.
+- 8: Subjekt ohne Präposition: [οι οποίοι]{lang="el"} (Meldungsstil) oder [που]{lang="el"}
+  (normal).
+
+**Typische Fehler:** das Genus vom Subjekt des Hauptsatzes nehmen statt vom Bezugswort (7); nach
+Präposition Nominativ (3b); \*[σε το]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -414,7 +626,67 @@ Vier Wörter, zwei Klangpaare:
 
 <!-- CHECK: IPA für όποιος [ˈopços] (Synizese, stimmloses [ç] nach π wie bei ποιος [pços]) bestätigen. -->
 
-<!-- EXERCISE: freie Relativsätze: όποιος/όποιον, ό,τι, αυτό/αυτός που oder ότι einsetzen, Art: Lückentext (::: {lang="el" .no-audio}) mit 8 Lücken in einem kurzen Gespräch nach dem Kino, Auswahl aus nummerierter Liste; Lösung erklärt ό,τι/ότι-Unterscheidung, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 15.5: Nach dem Kino
+
+Welches Wort gehört in die Lücke? Jedes kann mehrmals vorkommen. Im Chat reicht „1C, 2A …“.
+
+A [όποιος]{lang="el"} · B [όποιον]{lang="el"} · C [ό,τι]{lang="el"} · D [ότι]{lang="el"} ·
+E [αυτό που]{lang="el"} · F [αυτός που]{lang="el"}
+
+::: {lang="el" .no-audio}
+— Λοιπόν; Σου άρεσε;
+
+— Πολύ! (1) … μου άρεσε πιο πολύ ήταν η μουσική.
+
+— Εμένα όχι τόσο. Ο Νίκος λέει (2) … είναι η καλύτερη ταινία της χρονιάς, αλλά ο
+Νίκος λέει (3) … διαβάζει στο ίντερνετ.
+
+— Πάντως (4) … παίζει τον πατέρα ήταν πολύ καλός.
+
+— Αυτό ναι. (5) … τον έχει δει, δεν τον ξεχνάει.
+
+— Πάμε για ένα ποτό;
+
+— (6) … πεις. Ρώτα και (7) … θέλεις από την παρέα.
+
+— Νομίζω (8) … η Άννα είναι ακόμα εδώ.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Übersetz jede Lücke: „alles, was“, „dass“, „das, was“, „der, der“ oder „wer (auch immer)“?
+Bei „wer“: Subjekt oder Objekt?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zweimal steht [λέει]{lang="el"} davor, aber nur einmal heißt es „dass“: Nach „er sagt …“ folgt
+einmal ein ganzer Satz, einmal das, was er sagt.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1E, 2D, 3C, 4F, 5A, 6C, 7B, 8D.**
+
+1. Genau das eine, was gefiel: [Αυτό που]{lang="el"}. [Ό,τι]{lang="el"} klänge nach „alles, was“.
+2. [λέει ότι]{lang="el"} + ganzer Satz: „dass“.
+3. „Er sagt alles, was er im Internet liest“: [ό,τι]{lang="el"} ist Objekt von
+   [λέει]{lang="el"} und von [διαβάζει]{lang="el"}. Das Verb davor ist nur eine Faustregel.
+4. Eine bestimmte Person: [αυτός που]{lang="el"}. [Όποιος]{lang="el"} hieße „wer auch immer
+   den Vater spielt“.
+5. „Wer ihn gesehen hat“: Subjekt, [Όποιος]{lang="el"}, wie im Café.
+6. Die feste Wendung [Ό,τι πεις]{lang="el"}.
+7. „Frag, wen du willst“: Objekt von [ρώτα]{lang="el"}, also [όποιον]{lang="el"}.
+8. [νομίζω ότι]{lang="el"}: „dass“.
+
+**Typische Fehler:** 3 als „dass“ lesen, weil [λέει]{lang="el"} davorsteht; 7 im Nominativ
+lassen.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -451,7 +723,45 @@ Sonntagabend, erfunden, aber im Ton echt. Erst hören, dann lesen.
 Κυριακή». Αλλά ό,τι καλύτερο, και ξανατηλεφωνήστε μας!
 :::
 
-<!-- EXERCISE: Hörverstehen mit .listen: die drei beschriebenen Szenen den Filmen aus einer Liste zuordnen (A «Στέλλα», B «Ζορμπάς», C «Ποτέ την Κυριακή», D «Κυνόδοντας», E «Μια αιωνιότητα και μια μέρα») und angeben, welche Antwort der Anruferin falsch war; Auftrag „mit ▶, ohne den Text aufzuklappen“, Hinweise auf Hörsignale (που, ο οποίος, όποιος), Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 15.6: Drei Szenen, drei Filme
+
+Hör das Quiz mit ▶, ohne Text und Übersetzung aufzuklappen, gern zweimal.
+
+1. Welcher Film gehört zu welcher Szene? A «[Στέλλα]{lang="el"}»,
+   B «[Ζορμπάς]{lang="el"}», C «[Ποτέ την Κυριακή]{lang="el"}», D «[Κυνόδοντας]{lang="el"}»,
+   E «[Μια αιωνιότητα και μια μέρα]{lang="el"}»
+2. Welche Antwort der Anruferin war falsch?
+
+Im Chat reicht etwa „A, D, B; falsch: 1“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Jede Szene beginnt mit einem Ort: [ˈkriti], [pireˈas], [θesaloˈnici]. Danach beschreibt ein
+Relativsatz die Hauptfigur; hör auf [pu] und einmal [o oˈpios].
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Szene 2: eine Frau, die sonntags nie arbeitet. Das steht im Titel eines der Filme.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**B, C, E; falsch war die zweite Antwort.**
+
+- Szene 1: Kreta, Tanz am Strand, [ένας άντρας που ξέρει να ζει]{lang="el"}: Sorbas.
+- Szene 2: [μια γυναίκα που όλο το λιμάνι την αγαπάει]{lang="el"}, mit umgangssprachlichem
+  Rückverweis beim Objekt; [την Κυριακή δε δουλεύει ποτέ]{lang="el"} verrät den Titel. Die
+  Anruferin sagte *Stella* (A).
+- Szene 3: [ένας ποιητής, ο οποίος είναι άρρωστος]{lang="el"}.
+
+Ein betontes [ˈpu] kommt nicht vor: Jedes [pu] im Quiz leitet einen Relativsatz ein.
+:::
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -523,7 +833,44 @@ mit griechischen und englischen Untertiteln. Griechische Filme gibt es auf
 
 <!-- CHECK: Bietet ERTflix derzeit griechische Spielfilme (auch ältere Klassiker) mit griechischen Untertiteln an? Formulierung ggf. abschwächen. -->
 
-<!-- EXERCISE: Hör-Auftrag Easy Greek: ein Straßeninterview über Filme/Kino/Serien suchen (Suchwörter ταινία, σινεμά, σειρά; Ausweichlösung: irgendein Interview), Durchgang 1 ohne Untertitel: jedes [pu] zählen und notieren, ob Relativsatz, Frage πού oder Füller που λες; Durchgang 2 mit griechischen Untertiteln prüfen, drei Relativsätze mit Bezugswort aufschreiben (im Kopf merken) und laut nachsprechen; offene Lösung mit Auswertungskriterien, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 15.7: Hör-Auftrag
+
+Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) ein Straßeninterview über Filme,
+Kino oder Serien (Suchwörter [ταινία, σινεμά, σειρά]{lang="el"}); findest du keins, nimm
+irgendeins.
+
+1. Hör drei Minuten **ohne Untertitel** und zähl jedes [pu]. Ordne es beim Hören ein:
+   Relativsatz, Frage [πού;]{lang="el"} oder Füller [που λες]{lang="el"}?
+2. Hör dieselben drei Minuten **mit griechischen Untertiteln** und prüf deine Striche.
+3. Merk dir drei Relativsätze samt Bezugswort und sprich sie laut nach.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Relativ-[pu] ist unbetont und klebt am Nomen davor: [i teˈnia pu]. Das Frage-[ˈpu] ist betont
+und steht am Satzanfang.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[που λες]{lang="el"} steht mitten in einer Erzählung, oft mit Pause danach, und bezieht sich
+auf kein Nomen. Achte auch auf [pu] nach [ˈkaθe ˈfora], [ti ˈmera], [ˈtote]: das Zeit-[που]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Jedes Interview ist anders; so wertest du aus:
+
+- **Zählung:** Relativ-[που]{lang="el"} ist fast immer die klare Mehrheit;
+  [πού;]{lang="el"} fragt eher die Interviewerin.
+- **Häufigster Fehlgriff:** ein [pu] überhört, weil es zwischen Nomen und Verb verschluckt wird.
+- **Nachsprechen:** Bezugswort und [που]{lang="el"} ohne Pause, als eine Einheit:
+  [ˈmia teˈnia pu ˈiða].
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -675,4 +1022,77 @@ unterhalb der Akropolis.
 
 <!-- CHECK: Lesetext-Fakten: Cacoyannis geb. 1922 in Limassol (Zypriot); Stella 1955 mit Mercouri; Mercouri Kulturministerin 1981–89 und 1993–94; Zorba 1964 mit Anthony Quinn; Sirtaki für den Film choreografiert; Finos Film (gegr. 1943) produzierte in den 1950er/60er-Jahren jährlich Dutzende Filme; Angelopoulos: Goldene Palme 1998 für «Μια αιωνιότητα και μια μέρα», sehr lange Einstellungen; Dogtooth 2009 (Cannes, Un Certain Regard), niedriges Budget; Begriff „Weird Wave“ (Steve Rose, Guardian, 2011); Poor Things: Oscar für Emma Stone. Griechischer Filmtitel in Akkusativ nach „με τη«…»“: «με τη "Μια αιωνιότητα και μια μέρα"» idiomatisch oder besser «με την ταινία "…"»? -->
 
-<!-- EXERCISE: Leseverstehen und Relativsätze im Lesetext, Art: Teil A richtig/falsch (7 Aussagen, u.a. Sirtaki antik?, Mercouri Ministerin?, Angelopoulos kurze Einstellungen?); Teil B alle Relativwörter (που, ο οποίος-Formen, όποιος, ό,τι, αυτό που) finden und jeweils Bezugswort und Rolle nennen; Teil C drei ο οποίος-Sätze laut in umgangssprachliche που-Sätze umformen und umgekehrt, Schwierigkeit 3 -->
+::: {.callout-note .exercise}
+## Übung 15.8: Filme, die man nicht vergisst
+
+**Teil A: richtig oder falsch?** Aus dem griechischen Text heraus.
+
+1. Im Freiluftkino laufen ausländische Filme synchronisiert.
+2. Cacoyannis stammte aus Zypern.
+3. Melina Mercouri wurde später Ministerin.
+4. Der Sirtaki ist ein antiker Tanz.
+5. Die Griechen kennen Sätze aus den alten Komödien auswendig.
+6. Angelopoulos’ Filme haben kurze Einstellungen.
+7. Lanthimos dreht heute Filme auf Englisch.
+
+**Teil B: Relativwörter jagen.** Der Text hat 18 Relativsätze, die Überschrift mitgezählt. Finde
+sie und nenn jeweils Bezugswort und Rolle (Subjekt, Objekt, „wessen“, nach Präposition). Ein
+[ότι]{lang="el"} gehört nicht dazu.
+
+**Teil C: umformen.** Sag laut:
+
+1. umgangssprachlich mit [που]{lang="el"}: [Το συρτάκι, το οποίο πολλοί τουρίστες θεωρούν αρχαίο
+   χορό, …]{lang="el"}
+2. ebenso: [μια μικρή ελληνική ταινία, την οποία γύρισε με πολύ λίγα χρήματα]{lang="el"}
+3. gehoben mit [ο οποίος]{lang="el"}: [ένας σκηνοθέτης που οι ταινίες του έχουν πλάνα]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Achte auf Verneinungen und darauf, wer etwas behauptet.
+
+Teil B: Neben [που]{lang="el"} such [όποιος]{lang="el"} (dreimal), [ό,τι]{lang="el"},
+[αυτό που]{lang="el"} und drei Formen von [ο οποίος]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil A, 4: [πολλοί τουρίστες θεωρούν]{lang="el"} ist nicht der Text selbst.
+
+Teil B: Dreimal steht das Subjekt des Relativsatzes hinter dem Verb, das Bezugswort ist dann
+Objekt: [που ξέρει όλος ο κόσμος]{lang="el"} ist das erste.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1F, 2R, 3R, 4F, 5R, 6F, 7R.** 1 [όχι μεταγλωττισμένες]{lang="el"}; 2
+[ένας Κύπριος σκηνοθέτης]{lang="el"}; 4 [δημιουργήθηκε για την ταινία]{lang="el"}; 5 [το ξέρουν … απ’ έξω]{lang="el"}; 6 [πλάνα που κρατάνε πολλά
+λεπτά]{lang="el"}.
+
+**Teil B** (S = Subjekt, O = Objekt):
+
+- Überschrift: [ταινίες που]{lang="el"} O. Absatz 1: [Όποιος]{lang="el"} S;
+  [ο θεατής που]{lang="el"} S. [λένε ότι]{lang="el"} ist „dass“.
+- Absatz 2: [κεφάλαιο … που ξέρει όλος ο κόσμος]{lang="el"} O; [σκηνοθέτης που
+  γύρισε]{lang="el"} S; [η ταινία που έκανε]{lang="el"} S; [Το συρτάκι, το οποίο … θεωρούν]{lang="el"}
+  O (Akkusativ, gleich wie Nominativ)
+- Absatz 3: [ταινίες» που παίζει … η τηλεόραση]{lang="el"} O; [ό,τι λένε οι ήρωές
+  τους]{lang="el"} O
+- Absatz 4: [σκηνοθέτης που οι ταινίες του]{lang="el"} „wessen“; [πλάνα που κρατάνε]{lang="el"}
+  S; zweimal [Όποιος]{lang="el"} S
+- Absatz 5: [οικογένεια που ζει]{lang="el"} S; [κύμα, στο οποίο]{lang="el"} nach Präposition;
+  [ηθοποιούς που κερδίζουν]{lang="el"} S; [αυτό που τον έκανε γνωστό]{lang="el"} S;
+  [ταινία, την οποία γύρισε]{lang="el"} O
+
+**Teil C**
+
+1. [Το συρτάκι, που πολλοί τουρίστες το θεωρούν αρχαίο χορό, …]{lang="el"}; ohne
+   [το]{lang="el"} ebenfalls richtig.
+2. [μια μικρή ελληνική ταινία, που τη γύρισε με πολύ λίγα χρήματα]{lang="el"}, oder ohne
+   [τη]{lang="el"}.
+3. [ένας σκηνοθέτης του οποίου οι ταινίες έχουν πλάνα]{lang="el"}. Nicht \*[ο οποίος οι ταινίες
+   του]{lang="el"}: Der Genitiv ersetzt das Besitzwort.
+:::

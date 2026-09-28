@@ -15,9 +15,9 @@
 | 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | veröffentlicht | Welle 3; Audio vollständig |
 | 11 Zeit: Uhrzeit, Datum, Jahreszahlen | veröffentlicht | Welle 3; Audio vollständig |
 | 10 Verben auf -μαι im Alltag | veröffentlicht | Welle 4; Audio vollständig |
-| 12 Vergleichen und Zwischenbilanz | veröffentlicht | Welle 6; Audio läuft |
-| 13 Es wurde gefunden: das Mediopassiv | veröffentlicht | Welle 7; Audio ausstehend |
-| 14 Hast du schon …? Perfekt und Plusquamperfekt | veröffentlicht | Welle 7; Audio ausstehend |
+| 12 Vergleichen und Zwischenbilanz | veröffentlicht | Welle 6; Audio vollständig |
+| 13 Es wurde gefunden: das Mediopassiv | veröffentlicht | Welle 7; Audio läuft |
+| 14 Hast du schon …? Perfekt und Plusquamperfekt | veröffentlicht | Welle 7; Audio läuft |
 | 15 Der Film, den ich gesehen habe: Relativsätze | Übungen | Welle 7; Entwurf fertig |
 | 16 Weil, obwohl, damit: Nebensätze | Entwurf | Welle 8 |
 | 19 Partizip und Gerundium | Entwurf | Welle 8 |
