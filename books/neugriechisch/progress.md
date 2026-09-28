@@ -22,7 +22,7 @@
 | 16 Weil, obwohl, damit: Nebensätze | Konsistenz | Welle 8; überarbeitet |
 | 17 Wenn … dann: realer Konditional und Zeitsätze | Übungen | Welle 9; Entwurf fertig |
 | 18 Er sagt, dass: indirekte Rede und indirekte Fragen | Entwurf | Welle 9 |
-| 19 Partizip und Gerundium | Überarbeitung | Welle 8; beide Reviews da; erscheint nach 17, 18 |
+| 19 Müde, aber glücklich: Partizip und Gerundium | überarbeitet | Welle 8; Konsistenz nach 17, 18 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 

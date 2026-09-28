@@ -484,7 +484,7 @@ Kein Augment, keine Endung für Person, Zahl oder Genus: [περπατώντας
 „sie“ und „die ganze Gruppe“. Auch Verben ohne perfektiven Stamm haben eins:
 [ξέροντας, έχοντας]{lang="el"}, gehoben sogar [όντας]{lang="el"} „seiend“ von [είμαι]{lang="el"}.
 Verben auf [-μαι]{lang="el"} haben in der Standardsprache keins (umgangssprachlich und in
-Liedern vereinzelt [καθώντας]{lang="el"} oder [κάθοντας]{lang="el"} von [κάθομαι]{lang="el"}). Dort hilft ein Satz mit
+Liedern vereinzelt [κάθοντας]{lang="el"} von [κάθομαι]{lang="el"}). Dort hilft ein Satz mit
 [ενώ]{lang="el"} „während“ (Kapitel 4): [Ενώ κατέβαινα, φοβόμουν συνέχεια.]{lang="el"}
 
 ### Was es bedeutet {#sec-partizip-gerundium-bedeutung}
@@ -555,7 +555,7 @@ klingt etwas gehoben; im Gespräch sagt man es mit einem Nebensatz (Kapitel 16).
 - **Bildung:** imperfektiver Stamm + [-οντας]{lang="el"} (Betonung bleibt) oder, bei
   [-άω/-ώ]{lang="el"}, [-ώντας]{lang="el"}. [λέγοντας, τρώγοντας, πηγαίνοντας]{lang="el"}.
   Unveränderlich; Verben auf [-μαι]{lang="el"} haben in aller Regel keins (im Gespräch vereinzelt
-  [καθώντας]{lang="el"}).
+  [κάθοντας]{lang="el"}).
 - **Bedeutung:** wie, während, wodurch, weil; gleichzeitig mit dem Hauptverb, gleiches Subjekt.
 - **Pronomen dahinter**, bei [-οντας]{lang="el"} mit zweitem Akzent: [λέγοντάς το]{lang="el"}.
   Verneinung mit [μη(ν)]{lang="el"}.
@@ -949,7 +949,7 @@ Fehlen dir viele Partizipien, hör auf die Betonung: [ˈme] ist die lauteste Sil
   bedeutet wie, während, wodurch, weil: [-οντας]{lang="el"} ([γράφοντας, λέγοντας,
   πηγαίνοντας]{lang="el"}) oder [-ώντας]{lang="el"} ([περπατώντας]{lang="el"}). Keine
   Verlaufsform, kein Nomen. Verben auf [-μαι]{lang="el"} haben in aller Regel keins (im Gespräch
-  vereinzelt [καθώντας]{lang="el"}).
+  vereinzelt [κάθοντας]{lang="el"}).
 - **Pronomen dahinter**, bei [-οντας]{lang="el"} mit zweitem Akzent: [λέγοντάς το]{lang="el"};
   Verneinung [μην ξέροντας]{lang="el"}.
 
