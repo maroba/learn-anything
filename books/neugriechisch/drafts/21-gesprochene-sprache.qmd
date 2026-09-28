@@ -119,7 +119,7 @@ Diskursmarker nach ihrer Aufgabe; dann, wie man Hören gezielt übt.
 | [ο άντρας μου]{lang="el"} | mein Mann |
 :::
 
-## Vokale, die verschwinden: Elision und Aphärese {#sec-gesprochen-elision}
+## Vokale, die verschwinden: Elision, Aphärese, Apokope {#sec-gesprochen-elision}
 
 Treffen zwei Vokale an einer Wortgrenze aufeinander, sagt man im Gespräch meist nur einen. Das
 Griechische kennt zwei Richtungen, und die Schulgrammatik hat für beide einen Namen:
@@ -130,30 +130,38 @@ Griechische kennt zwei Richtungen, und die Schulgrammatik hat für beide einen N
   der „verschluckte Anfangsvokal“ aus Kapitel 3: [το έχω → το ’χω]{lang="el"},
   [μου είπε → μου ’πε]{lang="el"}.
 
-Im Buch bleibt „Verschleifung“ der Oberbegriff für alles, was die schnelle Rede an Wortgrenzen
-verändert. Hier sind die beiden Richtungen nebeneinander:
+Dazu kommt ein dritter Fall ohne Vokalzusammenstoß: Auch **vor Konsonant** kann ein Vokal fallen,
+[Πάρ’ το]{lang="el"} (Kapitel 9), [σ’ το ’πα]{lang="el"} für [σου το είπα]{lang="el"} (Kapitel 3,
+8). Das heißt **Apokope** ([η αποκοπή]{lang="el"}) und trifft vor allem kurze Wörter vor einem
+Pronomen.
+
+Im Buch bleibt **Verschleifung** der Oberbegriff für alles, was die schnelle Rede an Wortgrenzen
+verändert; man sagt auch, zwei Wörter „verschleifen sich“. Hier Elision und Aphärese
+nebeneinander:
 
 | geschrieben | gesprochen | was fällt |
 |---|---|---|
-| [σε αγαπώ]{lang="el"} | [σ’ αγαπώ]{lang="el"} [saɣaˈpo] | Ende von [σε]{lang="el"} |
-| [θα ανέβω]{lang="el"} | [θ’ ανέβω]{lang="el"} [θaˈnevo] | Ende von [θα]{lang="el"} |
+| [σε αγαπώ]{lang="el"} | [σ’ αγαπώ]{lang="el"} [saɣaˈpo] (8) | Ende von [σε]{lang="el"} |
+| [θα ανέβω]{lang="el"} | [θ’ ανέβω]{lang="el"} [θaˈnevo] (5) | Ende von [θα]{lang="el"} |
 | [το άκουσα]{lang="el"} | [τ’ άκουσα]{lang="el"} [ˈtakusa] | Ende von [το]{lang="el"} |
-| [για αυτό]{lang="el"} | [γι’ αυτό]{lang="el"} [ʝafˈto] | Ende von [για]{lang="el"} |
-| [το έχω]{lang="el"} | [το ’χω]{lang="el"} [ˈtoxo] | Anfang von [έχω]{lang="el"} |
-| [μου έχει πει]{lang="el"} | [μου ’χει πει]{lang="el"} [ˈmuçi ˈpi] | Anfang von [έχει]{lang="el"} |
+| [για αυτό]{lang="el"} | [γι’ αυτό]{lang="el"} [ʝafˈto] (1) | Ende von [για]{lang="el"} |
+| [το έχω]{lang="el"} | [το ’χω]{lang="el"} [ˈtoxo] (3) | Anfang von [έχω]{lang="el"} |
+| [μου έχει πει]{lang="el"} | [μου ’χει πει]{lang="el"} [ˈmuçi ˈpi] (14) | Anfang von [έχει]{lang="el"} |
 | [πού είσαι;]{lang="el"} | [πού ’σαι;]{lang="el"} [ˈpuse] | Anfang von [είσαι]{lang="el"} |
 | [τι είναι;]{lang="el"} | [τι ’ναι;]{lang="el"} [ˈtine] | Anfang von [είναι]{lang="el"} |
 
-Welcher Vokal geht? Dafür gibt es eine **Faustregel, eine Rangfolge**: [α]{lang="el"} ist am
-stärksten, dann [ο]{lang="el"} und [ου]{lang="el"}, dann [ε]{lang="el"}, am schwächsten der Laut
-[i]. Der stärkere bleibt stehen, egal auf welcher Seite. In [σ’ αγαπώ]{lang="el"} schlägt
+Welcher Vokal geht? Für die kleinen Wörter vor dem Verb, also Pronomen und Partikeln wie
+[σε, το, μου, θα, να]{lang="el"} und die Fragewörter [πού, τι]{lang="el"}, gibt es eine **Faustregel, eine Rangfolge**: [α]{lang="el"} ist
+am stärksten, dann [ο]{lang="el"} und [ου]{lang="el"}, dann [ε]{lang="el"}, am schwächsten der
+Laut [i]. Der stärkere bleibt stehen, egal auf welcher Seite. In [σ’ αγαπώ]{lang="el"} schlägt
 [α]{lang="el"} das [ε]{lang="el"} links, in [το ’χω]{lang="el"} schlägt [ο]{lang="el"} das
 [ε]{lang="el"} rechts, in [τ’ άκουσα]{lang="el"} verliert das [ο]{lang="el"} gegen
-[α]{lang="el"}. Bei zwei gleichen Vokalen fällt meist der erste ([ν’ ακούσεις]{lang="el"}), bei
-[τι ’ναι]{lang="el"} der zweite. Das ist eine Tendenz, kein Gesetz: Wer langsam und deutlich
-spricht, sagt [σε αγαπώ]{lang="el"} ganz.
-
-<!-- CHECK: Rangfolge α > ο/ου > ε > ι als Faustregel für Elision/Aphärese an Klitika und Partikeln (vgl. Triantafyllidis-Grammatik, Abschnitt zu έκθλιψη/αφαίρεση; Holton/Mackridge/Philippaki). Beispiele τ’ άκουσα [ˈtakusa] (Betonung wandert auf die Verbindung, wie bei το ’χω?) und τι ’ναι [ˈtine] prüfen. -->
+[α]{lang="el"}. Bei zwei gleichen Vokalen fällt meist der erste ([ν’ ακούσεις]{lang="el"}). Bei
+[τι ’ναι]{lang="el"} fällt der zweite, weil die Formen von [είμαι]{lang="el"} ihr [ει-]{lang="el"}
+besonders leicht hergeben ([πού ’σαι, θα ’μαι]{lang="el"}). Und [από]{lang="el"} geht eigene Wege:
+Hier fällt meist das eigene [ο]{lang="el"}, auch vor schwächeren Vokalen, [απ’ έξω, απ’ εδώ]{lang="el"}.
+Das alles ist eine Tendenz, kein Gesetz: Wer langsam und deutlich spricht, sagt
+[σε αγαπώ]{lang="el"} ganz.
 
 Für die Betonung gilt, was du schon kennst: Fällt ein **betonter** Vokal, wandert die Betonung
 auf das kleine Wort ([ˈtoxo], [ˈpuse]). Fällt der unbetonte Vokal des kleinen Wortes, bleibt sie,
@@ -169,29 +177,32 @@ sachlicher Prosa selten. Einige Kurzformen sind aber auch im neutralen Schriftbi
 
 - **Elision:** Das erste Wort verliert seinen Endvokal ([σ’ αγαπώ]{lang="el"}).
   **Aphärese:** Das zweite verliert seinen Anfangsvokal ([το ’χω]{lang="el"}).
-- Faustregel: Der stärkere Vokal bleibt, [α > ο, ου > ε > ι]{lang="el"}.
+  **Apokope:** Ein Vokal fällt vor Konsonant ([Πάρ’ το]{lang="el"}).
+- Faustregel bei Pronomen und Partikeln vor dem Verb: Der stärkere Vokal bleibt,
+  [α > ο, ου > ε > ι]{lang="el"}. Bei [από]{lang="el"} fällt meist das eigene [ο]{lang="el"}.
 - Fällt der betonte Vokal, wandert die Betonung aufs kleine Wort.
 - Alles hängt vom Tempo ab: je schneller und vertrauter, desto mehr fällt.
 :::
 
-### Wörter, die schrumpfen {#sec-gesprochen-kurzformen}
+### Besonders häufige Kurzformen {#sec-gesprochen-kurzformen}
 
-Einige häufige Wörter verlieren ihren Anfang auch ohne Nachbarn. Das klingt nicht nachlässig,
-sondern normal:
+Einige Kurzformen sind so häufig, dass man sie am besten wie eigene Wörter lernt. Sie klingen nicht
+nachlässig, sondern normal:
 
-- [εντάξει → ντάξει]{lang="el"} [ˈdaksi] „okay“.
-- [εδώ → ’δω]{lang="el"}: [Έλα ’δω!]{lang="el"} [ˈela ˈðo] „Komm her!“
+- [εντάξει → ντάξει]{lang="el"} [ˈdaksi] „okay“. Hier fällt der Anfang sogar ohne Vokal davor.
+- [εδώ → ’δω]{lang="el"}: [Έλα ’δω!]{lang="el"} [ˈela ˈðo] „Komm her!“, eine Aphärese nach der
+  Rangfolge.
 - [ξέρω εγώ → ξέρω ’γω]{lang="el"} [ˈksero ˈɣo] „was weiß ich“, fast wie ein Wort gesprochen (mehr in
   @sec-gesprochen-diskursmarker).
-- [απ’ έξω]{lang="el"} [aˈpekso] „von außen“; [το ξέρω απ’ έξω]{lang="el"} „ich kann es
-  auswendig“.
+- [απ’ έξω]{lang="el"} [aˈpekso] „von außen“, Elision nach der Sonderregel für
+  [από]{lang="el"}; [το ξέρω απ’ έξω]{lang="el"} „ich kann es auswendig“.
 
 ::: {.callout-note .exercise}
 ## Übung 21.1: Zurück zur Vollform
 
-Hör die neun Sätze mit ▶, ohne den Text aufzuklappen, und übersetz sie im Kopf. Dann lies mit:
-Wie lautet jede Kurzform voll, und ist es **Elision** (E), **Aphärese** (A) oder keins von beiden
-(X)? Im Chat: „1A, 2…“.
+Hör die neun Sätze mit ▶, ohne den Text aufzuklappen, und übersetz sie im Kopf. Dann klapp auf:
+Wie lautet jede Kurzform voll, und ist es **Elision** (E), **Aphärese** (A) oder **Apokope** (Ap)?
+Im Chat: „1A, 2…“.
 
 ::: {lang="el" .listen}
 1. Πού ’σαι, ρε; Τι γίνεται;
@@ -201,7 +212,7 @@ Wie lautet jede Kurzform voll, und ist es **Elision** (E), **Aphärese** (A) ode
 5. Αύριο θ’ ανέβω στην Ακρόπολη.
 6. Πρέπει ν’ ακούσεις αυτό το τραγούδι.
 7. Σ’ το ’χω πει χίλιες φορές!
-8. Ντάξει, ντάξει, τα ξέρω απ’ έξω.
+8. Έλα ’δω, τα ξέρω απ’ έξω.
 9. Γι’ αυτό δεν ήρθα.
 :::
 :::
@@ -215,7 +226,8 @@ Apostroph vor dem Wort: Ihm fehlt der Anfang. Apostroph danach: Ihm fehlt das En
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-In 7 folgt auf das erste Apostroph ein Konsonant. [Ντάξει]{lang="el"} hat keinen Nachbarn.
+In 7 folgt auf den ersten Apostroph ein Konsonant. Für [απ’ έξω]{lang="el"} gilt die Sonderregel
+für [από]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -227,17 +239,15 @@ In 7 folgt auf das erste Apostroph ein Konsonant. [Ντάξει]{lang="el"} hat 
 4. [μου έχει πει]{lang="el"}, [θα έρθει]{lang="el"}: zweimal A.
 5. [θα ανέβω]{lang="el"}: E.
 6. [να ακούσεις]{lang="el"}: E; gleiche Vokale, der erste fällt.
-7. [σου το έχω πει]{lang="el"}: [το ’χω]{lang="el"} ist A, [σ’]{lang="el"} ist X: Hier fällt
-   ein Vokal vor Konsonant, ohne Vokalzusammenstoß. „Hab ich dir tausendmal gesagt!“
-8. [εντάξει]{lang="el"}: X, das Wort schrumpft allein; [από έξω]{lang="el"}: E. „Ich kann’s
-   auswendig.“
+7. [σου το έχω πει]{lang="el"}: [σ’]{lang="el"} ist Ap, [το ’χω]{lang="el"} ist A. „Hab ich dir
+   tausendmal gesagt!“
+8. [έλα εδώ]{lang="el"}: A; [από έξω]{lang="el"}: E. „Komm her, ich kann’s auswendig.“
 9. [για αυτό]{lang="el"}: E.
 
-**Typischer Fehler:** [σ’]{lang="el"} in 7 für [σε]{lang="el"} halten. Vor [το]{lang="el"} steht
-das Pronomen im Genitiv: [σου]{lang="el"}, „dir“.
+Die Aufnahme spricht die Kurzformen so, wie sie dastehen; die Lösung hängt an der Schreibung, nicht
+daran, wie deutlich du sie hörst. **Typischer Fehler:** [σ’]{lang="el"} in 7 für [σε]{lang="el"}
+halten. Vor [το]{lang="el"} steht das Pronomen im Genitiv: [σου]{lang="el"}, „dir“.
 :::
-
-<!-- CHECK: Übung 21.1: Spricht die Aufnahme die Kurzformen (’σαι, ’ναι, τ’ άκουσα, ντάξει) tatsächlich verkürzt? Einordnung von σ’ in σ’ το ’χω als Vokalschwund vor Konsonant (weder Elision noch Aphärese) fachlich so vertretbar? -->
 
 ::: {.callout-note .exercise}
 ## Übung 21.2: Schnell gesagt
@@ -249,8 +259,8 @@ reichen die Nummern, bei denen das zweite Wort seinen Vokal verliert.
 ::: {lang="el" .no-audio}
 1. το έφαγα
 2. σε ακούω
-3. να έρθεις
-4. θα είμαι
+3. μου έδωσε
+4. να έχεις
 5. πού είναι
 6. με αγαπάει
 7. το αυτοκίνητο
@@ -279,8 +289,8 @@ War der Vokal, der fällt, betont? Dann springt die Betonung aufs kleine Wort.
 |---|---|
 | [το έφαγα]{lang="el"} | [το ’φαγα]{lang="el"} [ˈtofaɣa] |
 | [σε ακούω]{lang="el"} | [σ’ ακούω]{lang="el"} [saˈkuo] |
-| [να έρθεις]{lang="el"} | [να ’ρθεις]{lang="el"} [ˈnarθis] |
-| [θα είμαι]{lang="el"} | [θα ’μαι]{lang="el"} [ˈθame] |
+| [μου έδωσε]{lang="el"} | [μου ’δωσε]{lang="el"} [ˈmuðose] |
+| [να έχεις]{lang="el"} | [να ’χεις]{lang="el"} [ˈnaçis] |
 | [πού είναι]{lang="el"} | [πού ’ναι]{lang="el"} [ˈpune] |
 | [με αγαπάει]{lang="el"} | [μ’ αγαπάει]{lang="el"} [maɣaˈpai] |
 | [το αυτοκίνητο]{lang="el"} | [τ’ αυτοκίνητο]{lang="el"} [taftoˈcinito] |
@@ -288,11 +298,8 @@ War der Vokal, der fällt, betont? Dann springt die Betonung aufs kleine Wort.
 
 In 1, 3, 4, 8 fällt ein betonter Vokal, die Betonung wandert. **Typische Fehler:** sie stehen
 lassen ([ta ˈxasa] statt [ˈtaxasa]) oder in 2 und 6 das [α]{lang="el"} opfern. Die Vollformen
-sind genauso richtig, [το αυτοκίνητο]{lang="el"} hört man sogar meist ganz.
+sind genauso richtig, [το αυτοκίνητο]{lang="el"} hört man sogar oft ganz.
 :::
-
-<!-- CHECK: Übung 21.2: τ’ αυτοκίνητο und θα ’μαι als verbreitete Kurzformen; Aussage „το αυτοκίνητο meist ganz gesprochen“ prüfen. -->
-
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -331,22 +338,20 @@ beiden:
 Für das Ohr heißt das: Ein [b], [d] oder [g] nach [ti], [to], [ðe] oder [a] kann ein
 [π, τ, κ]{lang="el"} sein. Wer [tom baˈtera] hört und im Kopf ein Wort mit [μπ]{lang="el"}
 sucht, sucht vergeblich. In sorgfältiger Aussprache, etwa in den Nachrichten, bleibt das
-[ν]{lang="el"} oft deutlicher hörbar; ganz verschwindet die Angleichung aber selten.
-
-<!-- CHECK: Sandhi-Umschriften [ðeŋ ˈgzero], [tom ˈbzaxno], [ðeŋ ˈgani] (Stimmhaftwerden auch bei ξ, ψ nach ν über die Wortgrenze; vgl. Arvaniti 1999/2007, Holton et al.) und die Aussage, dass die Angleichung auch in sorgfältiger Aussprache meist bleibt. -->
+[ν]{lang="el"} oft deutlicher hörbar. Vor [π, τ, κ]{lang="el"} verschwindet die Angleichung auch
+dann selten; vor [ξ, ψ]{lang="el"} fehlt sie in sorgfältiger Rede öfter.
 
 ::: {.callout-note collapse="true"}
 ## Exkurs: Istanbul, İznik und ein [ν]{lang="el"}
 
 Griechen nennen Konstantinopel bis heute oft einfach [η Πόλη]{lang="el"}, „die Stadt“. Die
-gängigste Herleitung von *Istanbul* führt auf eine gelehrte Form davon zurück:
-[εις την Πόλιν]{lang="el"} „in die Stadt“, gesprochen [is tim ˈbolin]. Das [b] von *Istanbul*
-wäre dann ein griechisches Sandhi-[b], das ein türkisches Ohr aus dem Gespräch mitgenommen hat.
-Nach demselben Muster wird *İznik* auf [εις Νίκαιαν]{lang="el"} „nach Nikaia“ zurückgeführt. Ganz
-unumstritten ist die Istanbul-Herleitung nicht, aber sie ist die verbreitetste.
+gängigste Herleitung von *Istanbul* führt auf eine mittelalterliche Alltagswendung zurück:
+[(ει)ς την Πόλιν]{lang="el"} „in die Stadt“, gesprochen etwa [is tim ˈbolin] oder [s tim ˈboli].
+Das [b] von *Istanbul* wäre dann ein griechisches Sandhi-[b], das ein türkisches Ohr aus dem
+Gespräch mitgenommen hat. Nach demselben Muster wird *İznik* auf [εις Νίκαιαν]{lang="el"} „nach
+Nikaia“ zurückgeführt. Ganz unumstritten ist die Istanbul-Herleitung nicht, aber sie ist die
+verbreitetste.
 :::
-
-<!-- CHECK: Herleitung İstanbul < εις την Πόλιν und İznik < εις Νίκαιαν; Formulierung „gängigste Herleitung, nicht unumstritten“ angemessen? -->
 
 ### Laute, die leiser werden {#sec-gesprochen-vokalschwund}
 
@@ -355,11 +360,10 @@ Zwei weitere Veränderungen hörst du ständig, auch wenn sie nie geschrieben we
 - **[σ]{lang="el"} wird über die Wortgrenze stimmhaft**, wenn ein stimmhafter Konsonant folgt, wie
   in [ο κόσμος]{lang="el"} [o ˈkozmos] (Kapitel 1): [τις μέρες]{lang="el"} [tiz ˈmeres],
   [τους λέω]{lang="el"} [tuz ˈleo].
-- **Unbetontes [i] und [u]** zwischen stimmlosen Konsonanten wird im schnellen Sprechen oft nur
-  noch gehaucht: [ευχαριστώ]{lang="el"} klingt dann eher [efxarˈsto], [πιστεύω]{lang="el"} eher
-  [pˈstevo]. Im Norden geht das noch viel weiter (Kapitel 23).
-
-<!-- CHECK: Stimmhaftwerden von σ über Wortgrenzen ([tiz ˈmeres], [tuz ˈleo]) und Beispiele für Vokalschwächung [efxarˈsto], [pˈstevo] in Athener Standardaussprache (Arvaniti 2007; Dauer/Kaimaki zu Entstimmung unbetonter /i u/). -->
+- **Unbetontes [i] und [u]** zwischen Konsonanten, besonders zwischen stimmlosen, wird im
+  schnellen Sprechen schwach, oft nur noch gehaucht, manchmal fällt es ganz aus:
+  [πιστεύω]{lang="el"} klingt dann eher [ˈpstevo], [ευχαριστώ]{lang="el"} eher [efxarˈsto]. Im
+  Norden geht das noch viel weiter (Kapitel 23).
 
 Für das Nachsprechen musst du nichts davon übernehmen. Für das Verstehen hilft eine Frage: Welche
 Silbe ist betont? Sie bleibt fast immer erhalten, und an ihr hängt das Wort.
@@ -377,26 +381,29 @@ Geschrieben: (1) [αν πας]{lang="el"} · (2) [δεν ξέρω]{lang="el"} ·
 (7) [τις μέρες]{lang="el"} · (8) [τον μπαμπά]{lang="el"} · (9) [τον πατέρα]{lang="el"} ·
 (10) [την μπίρα]{lang="el"}
 
-**Teil B.** Hör mit ▶, ohne aufzuklappen: Wie viele [b], [d], [g] hörst du pro Satz? Dann lies
-mit: Welche davon sind als [π, τ, κ, ξ]{lang="el"} geschrieben?
+**Teil B, sprich selbst.** Lies die drei Sätze laut und schnell, wie im Gespräch. Wo entsteht ein
+[b], [d] oder [g], und welcher Buchstabe steht dahinter? Vergleiche dann mit der Umschrift in der
+Lösung. Im Chat pro Satz Zahl und Buchstaben, etwa „1: 2 (τ, κ)“.
 
-::: {lang="el" .listen}
+::: {lang="el" .no-audio}
 1. Την Τρίτη πάμε στην Κρήτη.
 2. Δεν ξέρω τον πατέρα της.
-3. Αν πας στην πόλη, πάρε και μπίρες.
+3. Αν πας στην πόλη, πάρε γάλα και μπίρες.
 :::
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-[m] oder [ŋ] vor [b], [g] verrät ein geschriebenes [ν]{lang="el"}.
+[m] oder [ŋ] vor [b], [g] verrät ein geschriebenes [ν]{lang="el"}. In Teil B: Nur wo ein
+[ν]{lang="el"} vor [π, τ, κ, ξ]{lang="el"} steht, entsteht ein neues [b, d, g].
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Bei a) und e) entscheidet die Betonung. Wie schreibt man *Bier*?
+Bei a) und e) hilft der Anfang nicht, erst der Rest des Wortes entscheidet. Wie schreibt man
+*Bier*? Und in Teil B: Wie klingen [δ]{lang="el"} und [γ]{lang="el"}?
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -405,36 +412,42 @@ Bei a) und e) entscheidet die Betonung. Wie schreibt man *Bier*?
 **Teil A: a9, b6, c2, d4, e8, f5, g7, h1, i3, j10.**
 
 Die Fallen: Nach [tom] verrät das [b] nichts, [πατέρα]{lang="el"} bekommt es vom
-[ν]{lang="el"}, [μπαμπά]{lang="el"} hat es selbst; erst [baˈtera] gegen [baˈba] entscheidet.
-Ebenso sind [ti ˈboli] und [ti ˈbira] gleich gebaut, aber verschieden geschrieben. g) und i) sind
-kein [ν]{lang="el"}-Sandhi, sondern stimmhaftes [σ]{lang="el"} und gehauchtes [i].
+[ν]{lang="el"}, [μπαμπά]{lang="el"} hat es selbst; erst der Rest, [-ˈtera] gegen [-ˈba],
+entscheidet. Ebenso sind [ti ˈboli] und [ti ˈbira] gleich gebaut, aber verschieden geschrieben.
+g) und i) sind kein [ν]{lang="el"}-Sandhi, sondern stimmhaftes [σ]{lang="el"} und ausgefallenes
+[i].
 
-**Teil B:** 1: zwei, [ˈdriti] und [ˈgriti] ([τ, κ]{lang="el"}). 2: zwei, [ˈgzero] und [baˈtera]
-([ξ, π]{lang="el"}). 3: drei, [bas], [ˈboli] und [ˈbires]; nur [μπίρες]{lang="el"} hat
-[μπ]{lang="el"}. Hörst du irgendwo ein klares [p] oder [t], spricht die Aufnahme sorgfältig; auch
-das kommt vor.
+**Teil B**, schnell gesprochen:
+
+1. [tin ˈdriti ˈpame stiŋ ˈgriti]: zwei, aus [τ]{lang="el"} und [κ]{lang="el"}.
+2. [ðeŋ ˈgzero tom baˈtera tis]: zwei, aus [ξ]{lang="el"} und [π]{lang="el"}.
+3. [am bas stim ˈboli ˈpare ˈɣala ce ˈbires]: drei [b], zwei davon aus [π]{lang="el"}; nur
+   [μπίρες]{lang="el"} ist mit [μπ]{lang="el"} geschrieben.
+
+Wer schneller spricht, lässt das [ν]{lang="el"} ganz fallen ([ti ˈdriti], [sti ˈboli]); wer
+sorgfältig spricht, sagt vielleicht noch [p] oder [t]. Beides ist richtig, die Regel beschreibt
+eine Tendenz. **Typischer Fehler:** das [Δ]{lang="el"} von [Δεν]{lang="el"} oder das
+[γ]{lang="el"} von [γάλα]{lang="el"} mitzählen. [δ]{lang="el"} ist [ð], [γ]{lang="el"} ist [ɣ];
+beide zählen nicht.
 :::
-
-<!-- CHECK: Übung 21.3 Teil B hängt davon ab, dass die Aufnahme (TTS) die Sandhi-Stimmhaftigkeit spricht; nach dem Vertonen anhören. Umschrift [ti ˈbira] für την μπίρα (schnell, ν fällt) ok? -->
-
 
 ## Diskursmarker: nach Aufgabe geordnet {#sec-gesprochen-diskursmarker}
 
 Seit Kapitel 1 sammelt das Buch Wörter wie [λοιπόν, έλα, που λες]{lang="el"}: **Diskursmarker**,
 die nicht den Inhalt, sondern das Gespräch steuern. Man lernt sie am besten nach ihrer Aufgabe,
 nicht nach einer Übersetzung, denn dasselbe Wort kann je nach Stelle und Melodie Verschiedenes
-tun. Hier der Bestand, mit den Kapiteln, in denen sie zuerst vorkamen, und den neuen dieses
-Kapitels:
+tun. Hier der Bestand; die Zahl nennt das Kapitel, in dem ein Marker zuerst vorkam, **fett** sind
+die neuen:
 
 | Aufgabe | Marker |
 |---|---|
-| das Wort nehmen, eröffnen | [λοιπόν]{lang="el"} (1), [άκου (να δεις)]{lang="el"} (2, 5), [κοίτα]{lang="el"} (9), [να σου πω]{lang="el"} (5), [βασικά]{lang="el"} |
-| Zeit gewinnen, suchen | [ε…]{lang="el"}, [πώς το λένε]{lang="el"}, [ας πούμε]{lang="el"}, [δηλαδή]{lang="el"} |
-| erklären, abschwächen | [δηλαδή]{lang="el"} (11), [ας πούμε]{lang="el"}, [ξέρω ’γω]{lang="el"} |
-| den Faden halten | [που λες]{lang="el"} (2), [ξέρεις]{lang="el"} |
-| reagieren | [έλα]{lang="el"} (1), [σοβαρά]{lang="el"}, [μη μου πεις]{lang="el"} (2), [σιγά]{lang="el"} (20), [πλάκα κάνεις]{lang="el"}, [αμέ]{lang="el"}, [μπα]{lang="el"}, [καλά]{lang="el"} |
-| abschließen, abwinken | [τέλος πάντων]{lang="el"} (9), [άσ’ το]{lang="el"} (8), [άσε]{lang="el"}, [ντάξει]{lang="el"} |
-| Nähe zeigen | [ρε, βρε]{lang="el"} (7), [μωρέ]{lang="el"} |
+| das Wort nehmen, eröffnen | [λοιπόν]{lang="el"} (1), [άκου (να δεις)]{lang="el"} (2, 5), [να σου πω]{lang="el"} (5), [κοίτα]{lang="el"} (9), **[βασικά]{lang="el"}** |
+| Zeit gewinnen, suchen | **[εεε…]{lang="el"}**, **[πώς το λένε]{lang="el"}**, **[ας πούμε]{lang="el"}**, [δηλαδή]{lang="el"} (11) |
+| erklären, abschwächen | [δηλαδή]{lang="el"} (11), [αυτό που λέμε]{lang="el"} (15), **[ας πούμε]{lang="el"}**, **[ξέρω ’γω]{lang="el"}** |
+| den Faden halten | [που λες]{lang="el"} (2), **[ξέρεις]{lang="el"}** |
+| reagieren | [έλα]{lang="el"} (1), [ναι, αλλά]{lang="el"} (1), [σοβαρά]{lang="el"} (2), [μη μου πεις]{lang="el"} (2), [άντε]{lang="el"} (9), [δηλαδή;]{lang="el"} (20), [σιγά μην]{lang="el"} (20), **[πλάκα κάνεις]{lang="el"}**, **[αμέ]{lang="el"}**, **[μπα]{lang="el"}**, **[καλά]{lang="el"}** |
+| abschließen, abwinken | [άσ’ το]{lang="el"} (8), [τι να σου πω]{lang="el"} (8), [τέλος πάντων]{lang="el"} (9), **[άσε]{lang="el"}**, **[ντάξει]{lang="el"}** |
+| Nähe zeigen | [ρε, βρε]{lang="el"} (7), **[μωρέ]{lang="el"}** |
 
 Die neuen im Einzelnen:
 
@@ -442,14 +455,18 @@ Die neuen im Einzelnen:
   „also“. Es gilt als Lieblingswort der Jüngeren, die Älteren machen sich gern darüber lustig.
 - **[ας πούμε]{lang="el"}** „sagen wir“ leitet ein Beispiel ein („zum Beispiel“), entschuldigt
   ein ungenaues Wort („sozusagen“) oder füllt einfach die Pause.
-- **[ε…]{lang="el"}**, gedehnt [eː], ist das griechische „äh“. Wer beim Suchen „ähm“ sagt, klingt
-  sofort deutsch; wer [ε…]{lang="el"} oder [πώς το λένε…]{lang="el"} „wie heißt das …“ sagt, nicht.
+- **[εεε…]{lang="el"}**, ein gedehntes [eː], ist das griechische „äh“. Wer beim Suchen „ähm“ sagt,
+  klingt sofort deutsch; wer [εεε…]{lang="el"} oder [πώς το λένε…]{lang="el"} „wie heißt das …“
+  sagt, nicht.
 - **[ξέρω ’γω]{lang="el"}** „was weiß ich“ steht am Ende einer Aufzählung für „oder so“:
   [Πάμε για καφέ, για φαγητό, ξέρω ’γω.]{lang="el"}
-- **[ξέρεις]{lang="el"}** „weißt du“ hält den Zuhörer fest, wie [που λες]{lang="el"}.
+- **[ξέρεις]{lang="el"}** „weißt du“ hält den Zuhörer fest, wie [που λες]{lang="el"}. Wen du
+  siezt, dem sagst du [ξέρετε]{lang="el"}.
 - **[Πλάκα κάνεις;]{lang="el"}** „Machst du Witze?“, ungläubig wie [Σοβαρά;]{lang="el"}.
-- **[Αμέ!]{lang="el"}** „Na klar!“ und **[Μπα.]{lang="el"}** „Ach wo, nee“ sind die
-  umgangssprachlichen Pole von Ja und Nein: [Θα ’ρθεις; — Αμέ!]{lang="el"},
+- **[Αμέ!]{lang="el"}** „Na klar!“ ist das umgangssprachliche Ja unter Vertrauten:
+  [Θα ’ρθεις; — Αμέ!]{lang="el"}
+- **[Μπα]{lang="el"}** hat zwei Gesichter. Als Frage staunt es: [Μπα; Πότε γύρισες;]{lang="el"}
+  „Nanu? Wann bist du denn zurückgekommen?“ Als Antwort heißt es „ach wo, nee“:
   [Βρέχει; — Μπα.]{lang="el"}
 - **[καλά]{lang="el"}** mit fallender Stimme heißt „okay“, am Satzanfang kündigt es Staunen an:
   [Καλά, πλάκα μου κάνεις;]{lang="el"} „Jetzt mal ehrlich, du machst Witze?“ Verdoppelt,
@@ -459,19 +476,23 @@ Die neuen im Einzelnen:
   heute vor allem aus dem Englischen bekannt). Gemeint ist das so wenig wie „Mensch!“ im
   Deutschen einen Menschen meint.
 
-<!-- CHECK: Schreibung der Kurzformen ohne Akzent (ξέρω ’γω, Έλα ’δω) und Πού ’σαι; als lockere Begrüßung. Etymologie βρε < μωρέ < Vokativ von μωρός (LKN/Babiniotis); Bedeutungsangaben zu μπα, αμέ, καλά (fallend „okay“, „Καλά, καλά“ genervt) und Registermarken (umg.) mit LKN abgleichen. -->
-
 Wichtig ist die **Stelle**. [Δηλαδή]{lang="el"} mitten im Satz erklärt („das heißt“), allein mit
 steigender Stimme fordert es heraus („Worauf willst du hinaus?“, Kapitel 20), und bei der Frau mit
 dem Hund ist es nur noch Suchgeräusch. [Κοίτα]{lang="el"} am Anfang einer Antwort heißt nicht
 „schau“, sondern kündigt eine Erklärung oder einen sanften Widerspruch an: [Κοίτα, δεν είναι τόσο
-απλό.]{lang="el"}
+απλό.]{lang="el"} Wen du siezt, dem sagst du [Κοιτάξτε, …]{lang="el"}
 
 ::: {.callout-tip}
 ## Tipp
 
-Selbst verwenden kannst du ohne Risiko [λοιπόν, δηλαδή, ας πούμε, κοίτα, τέλος πάντων]{lang="el"}
-und [ε…]{lang="el"}: Sie passen fast überall. [ρε, μωρέ, άσε]{lang="el"} nur unter Freunden.
+Drei Stufen für den eigenen Gebrauch:
+
+- **Überall:** [λοιπόν, δηλαδή, ας πούμε, τέλος πάντων, εεε…, πώς το λένε]{lang="el"}, dazu
+  [κοίτα, ξέρεις]{lang="el"} beim Duzen, [κοιτάξτε, ξέρετε]{lang="el"} beim Siezen.
+- **Nur unter Freunden:** [ρε, μωρέ, άσε, αμέ]{lang="el"}.
+- **Vor allem erkennen:** [μπα, Καλά, καλά, βρε, ξέρω ’γω]{lang="el"}. Sie sind nicht verboten, aber
+  im falschen Ton klingen sie schnell schnippisch oder gewollt.
+
 [βασικά]{lang="el"} ist harmlos, aber beim dritten Mal im selben Satz hört man es, wie das
 Interview zeigt.
 :::
@@ -479,8 +500,11 @@ Interview zeigt.
 ::: {.callout-note .exercise}
 ## Übung 21.4: Wozu das Wort?
 
-Hör die drei Szenen (Telefon, Café, Familie) mit ▶, ohne aufzuklappen; achte auf Stelle und
-Melodie. Dann lies mit und ordne jedem Marker seine Aufgabe zu. Im Chat: „1a, 2…“.
+Hör die drei Szenen mit ▶, ohne aufzuklappen; achte darauf, wo die kleinen Wörter stehen. Die
+Melodie verrät dir Hinweis 2. Dann lies mit und ordne jedem Marker seine Aufgabe zu. Im Chat:
+„1a, 2…“.
+
+**Telefon**
 
 ::: {lang="el" .listen}
 [— Έλα, πού ’σαι;]{.v1}
@@ -492,11 +516,19 @@ Melodie. Dann lies mit und ordne jedem Marker seine Aufgabe zu. Im Chat: „1a, 
 [— Δηλαδή έχω δουλειά μέχρι τις δέκα.]{.v2}
 
 [— Έλα τώρα!]{.v1}
+:::
 
+**Café**
+
+::: {lang="el" .listen}
 [— Τι θα πάρεις;]{.v2}
 
-[— Ε… έναν καφέ, ένα τσάι, ξέρω ’γω.]{.v1}
+[— Εεε… έναν καφέ, ένα τσάι, ξέρω ’γω.]{.v1}
+:::
 
+**Familie**
+
+::: {lang="el" .listen}
 [— Πήγα, που λες, στον γιατρό, και μου λέει…]{.v2}
 
 [— Καλά, καλά. Το ’χεις πει τρεις φορές.]{.v1}
@@ -505,9 +537,9 @@ Melodie. Dann lies mit und ordne jedem Marker seine Aufgabe zu. Im Chat: „1a, 
 :::
 
 Marker: (1) [Έλα]{lang="el"} · (2) [Κοίτα]{lang="el"} · (3) [Δηλαδή;]{lang="el"} · (4)
-[Δηλαδή]{lang="el"} · (5) [Έλα τώρα]{lang="el"} · (6) [Ε…]{lang="el"} · (7) [ξέρω ’γω]{lang="el"}
-· (8) [που λες]{lang="el"} · (9) [Καλά, καλά]{lang="el"} · (10) [μωρέ]{lang="el"} · (11)
-[Τέλος πάντων]{lang="el"}
+[Δηλαδή]{lang="el"} · (5) [Έλα τώρα]{lang="el"} · (6) [Εεε…]{lang="el"} · (7)
+[ξέρω ’γω]{lang="el"} · (8) [που λες]{lang="el"} · (9) [Καλά, καλά]{lang="el"} · (10)
+[μωρέ]{lang="el"} · (11) [Τέλος πάντων]{lang="el"}
 
 Aufgaben: **a** eröffnen · **b** Zeit gewinnen · **c** erklären, abschwächen · **d** Faden halten
 · **e** reagieren · **f** abschließen, abwinken · **g** Nähe zeigen
@@ -516,14 +548,15 @@ Aufgaben: **a** eröffnen · **b** Zeit gewinnen · **c** erklären, abschwäche
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Marker 1 und 5, 3 und 4 sind jeweils dasselbe Wort mit anderer Aufgabe: Steht es allein, am Anfang oder
-mitten im Satz?
+Marker 1 und 5, 3 und 4 sind jeweils dasselbe Wort mit anderer Aufgabe. 3 steht allein, 4 am
+Anfang einer Antwort, die weitergeht.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Marker 3 steht allein und steigt: So hakt man nach. Verdoppeltes [καλά]{lang="el"} heißt nicht „gut“.
+Marker 3 wird mit steigender Stimme gesprochen: So hakt man nach. Verdoppeltes [καλά]{lang="el"}
+heißt nicht „gut“.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -538,11 +571,8 @@ Marker 3 steht allein und steigt: So hakt man nach. Verdoppeltes [καλά]{lang
 - **9** heißt „Ja, ja, schon gut“, **10** ist vertraut und winkt hier mit ab. Für beide ist auch **f**
   richtig.
 
-**Typischer Fehler:** 3 und 4 gleich einordnen, weil man aufs Wort achtet statt auf Stelle und
-Melodie.
+**Typischer Fehler:** 3 und 4 gleich einordnen, weil man aufs Wort achtet statt auf die Stelle.
 :::
-
-<!-- CHECK: Übung 21.4: Spricht die TTS-Aufnahme „Ε…“ als gedehntes [eː] und „Δηλαδή;“ mit steigender Melodie? Sonst ist Hinweis 2 nur beim Mitlesen nachvollziehbar. -->
 
 ::: {.callout-note .exercise}
 ## Übung 21.5: Selbst gesagt
@@ -553,7 +583,8 @@ Reagier laut auf Griechisch, jeweils mit einem passenden Marker.
 2. Ein Freund erzählt, er habe im Lotto gewonnen.
 3. Eine Freundin fragt nach deiner Wohnungssuche. Sie läuft furchtbar; du willst nicht darüber
    reden.
-4. Jemand sagt: „Griechisch lernt man in drei Monaten.“ Widersprich freundlich.
+4. Ein älterer Herr, den du siezt, sagt: „Griechisch lernt man in drei Monaten.“ Widersprich
+   freundlich.
 5. Was macht ihr heute Abend? Kino, essen gehen oder so.
 6. Deine Nachbarin, mit der du dich duzt, fragt: [Την Κυριακή τρώμε μαζί. Θα ’ρθεις;]{lang="el"}
 :::
@@ -567,7 +598,8 @@ Die Aufgaben: 1 Zeit gewinnen, 2 reagieren, 3 abwinken, 4 eröffnen, 5 abschwäc
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Für 1 beschreib das Ding ([για το κρασί]{lang="el"}). Für 4 steht der Mustersatz im Kapitel.
+Für 1 beschreib das Ding ([για το κρασί]{lang="el"}). Für 4 steht der Mustersatz im Kapitel,
+aber du siezt.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -575,32 +607,30 @@ Für 1 beschreib das Ding ([για το κρασί]{lang="el"}). Für 4 steht de
 
 Mehrere Varianten sind richtig, zum Beispiel:
 
-1. [Ε… πώς το λένε… αυτό για το κρασί, για να ανοίξω το μπουκάλι.]{lang="el"} (Das Wort ist
+1. [Εεε… πώς το λένε… αυτό για το κρασί, για να ανοίξω το μπουκάλι.]{lang="el"} (Das Wort ist
    [το τιρμπουσόν]{lang="el"}.)
 2. [Πλάκα κάνεις;]{lang="el"} · [Σοβαρά;]{lang="el"} · [Μη μου πεις!]{lang="el"}
 3. [Άσε…]{lang="el"} · [Άσ’ το.]{lang="el"} · [Άσε, μωρέ.]{lang="el"}
-4. [Κοίτα, δεν είναι τόσο απλό.]{lang="el"} Oder: [Ναι, αλλά…]{lang="el"}
+4. [Κοιτάξτε, δεν είναι τόσο απλό.]{lang="el"} Oder: [Ναι, αλλά…]{lang="el"}
 5. [Σινεμά, για φαγητό, ξέρω ’γω.]{lang="el"}
 6. [Αμέ!]{lang="el"} Neutraler: [Ναι, βέβαια!]{lang="el"}
 
-[Μωρέ]{lang="el"}, [ρε]{lang="el"} und [αμέ]{lang="el"} nur, wo man sich duzt. **Typische
-Fehler:** in 1 ein deutsches „ähm“; in 4 mit [Όχι!]{lang="el"} beginnen, das klingt schroffer als
-gemeint.
+[Μωρέ]{lang="el"}, [ρε]{lang="el"} und [αμέ]{lang="el"} sind umgangssprachlich und gehören
+unter Vertraute. **Typische Fehler:** in 1 ein deutsches „ähm“; in 4 [Κοίτα]{lang="el"} zu einem
+Herrn, den man siezt, oder mit [Όχι!]{lang="el"} beginnen, das klingt schroffer als gemeint.
 :::
-
-<!-- CHECK: Übung 21.5: το τιρμπουσόν als gängiges Wort für Korkenzieher; Registerbewertung von αμέ. -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [πώς το λένε]{lang="el"} | [ˈpos to ˈlene] | wie heißt das noch |
 | [ξέρω ’γω]{lang="el"} | [ˈksero ˈɣo] | was weiß ich; oder so (umg.) |
-| [ξέρεις]{lang="el"} | [ˈkseris] | weißt du (Füller) |
+| [ξέρεις, ξέρετε]{lang="el"} | [ˈkseris], [ˈkserete] | weißt du, wissen Sie (Füller) |
 | [Πλάκα κάνεις;]{lang="el"} | [ˈplaka ˈkanis] | Machst du Witze? (umg.) |
 | [αμέ]{lang="el"} | [aˈme] | na klar (umg.) |
-| [μπα]{lang="el"} | [ba] | ach wo, nee (umg.) |
+| [μπα]{lang="el"} | [ba] | Nanu? (erstaunt); ach wo, nee (umg.) |
 | [καλά]{lang="el"} | [kaˈla] | gut; okay; [Καλά, καλά.]{lang="el"} ja, ja, schon gut |
-| [σιγά]{lang="el"} | [siˈɣa] | langsam, leise; ironisch: von wegen |
+| [κοιτάξτε]{lang="el"} | [ciˈtakste] | schauen Sie; hören Sie (Marker beim Siezen) |
 | [απλός, -ή, -ό]{lang="el"} | [aˈplos] | einfach |
 :::
 
@@ -610,13 +640,18 @@ Hörverstehen wächst mit jeder Stunde Hören, aber deutlich schneller, wenn man
 Hörens trennt und beide übt.
 
 **Intensives Hören** heißt: eine kurze Stelle, 30 bis 90 Sekunden, fünf- bis zehnmal, bis jedes
-Wort sitzt. Das Ziel ist, Hörbild und Schriftbild zusammenzubringen: Wo war das
-[ðeŋ ˈgzero]? Welches Verb steckte in [ˈmuçi]? Das ist anstrengend und nach zehn Minuten vorbei.
+Wort sitzt. „Sitzt“ ist überprüfbar: Du kannst die Stelle laut mitsprechen, und wenn du danach
+griechische Untertitel einschaltest, steht da nichts, was du nicht gehört hast. Das Ziel ist,
+Hörbild und Schriftbild zusammenzubringen: Wo war das [ðeŋ ˈgzero]? Welches Verb steckte in
+[ˈmuçi]? Das ist anstrengend und nach zehn Minuten vorbei.
 
 **Extensives Hören** heißt: lange, ohne Anhalten, ohne Wörterbuch, mit Lücken. Das Ziel ist Tempo
 und Ausdauer. Als Faustregel ist das Material richtig, wenn du danach sagen kannst, worum es ging,
 und dranbleiben willst. Eine Serie, die dich interessiert, schlägt ein Lehrvideo, das dich
 langweilt.
+
+Eine Woche könnte so aussehen: zweimal zehn Minuten intensiv mit einem Clip von Easy Greek,
+zweimal eine halbe Stunde extensiv mit einer Serie auf ERTflix und griechischen Untertiteln.
 
 Die **Untertitel-Leiter** verbindet beides. Drei Stufen:
 
@@ -627,30 +662,35 @@ Die **Untertitel-Leiter** verbindet beides. Drei Stufen:
 3. **Keine Untertitel.**
 
 Man steigt nicht einmal im Leben auf, sondern bei jeder Szene neu: dieselbe Stelle erst auf
-Stufe 2, dann auf Stufe 3. Für Stufe 2 spricht auch ein bekanntes Experiment: Niederländische
-Versuchspersonen sahen Filmszenen mit ungewohntem schottischem oder australischem Englisch.
-Englische Untertitel halfen ihnen danach, neue Sätze mit diesem Akzent zu verstehen;
-niederländische Untertitel schadeten eher (Mitterer & McQueen 2009, *PLoS ONE*).
+Stufe 2, dann auf Stufe 3. Wer wissen will, ob es etwas gebracht hat, hört die Stelle vorher
+einmal ohne Untertitel, als **Vorher-Messung**; so ist der Hör-Auftrag am Ende gebaut.
+
+Für Stufe 2 spricht auch ein bekanntes Experiment (Mitterer & McQueen 2009, *PLoS ONE*).
+Niederländische Versuchspersonen, die schon gut Englisch konnten, sahen Szenen aus
+*Trainspotting* mit schottischem und aus *Kath & Kim* mit australischem Englisch. Mit englischen
+Untertiteln verstanden sie danach auch neue Sätze mit diesem Akzent besser. Niederländische
+Untertitel halfen nur bei den schon gesehenen Stellen; bei neuen Sätzen schadeten sie eher.
 
 Ein Haken: Untertitel sind **nicht wörtlich**. Sie kürzen, lassen Füller weg und schreiben oft
 die Vollform, wo gesprochen gekürzt wird. Wo Ohr und Auge sich widersprechen, liegt nicht dein
 Fehler, sondern genau der Stoff dieses Kapitels. Der Lesetext am Ende erzählt, warum.
 
 **Shadowing** heißt „beschatten“: Du sprichst eine Aufnahme mit einer halben Sekunde Verzögerung
-halblaut mit, wie ein Schatten. Die Technik stammt aus der Ausbildung von Dolmetschern. Sie
-trainiert Melodie, Tempo und die Verschleifungen, und sie zeigt dir sofort, wo du nicht
-mitkommst: Das ist die Stelle, die du intensiv hören solltest. Am besten erst mit Text (die
-Dialoge im Buch mit ▶), dann mit kurzen echten Clips.
-
-<!-- CHECK: Mitterer & McQueen (2009), „Foreign subtitles help but native-language subtitles harm foreign speech perception“, PLoS ONE 4(11): e7785 – Zusammenfassung (niederländische Hörer, schottisches/australisches Englisch, Test mit neuen Äußerungen) korrekt? Herkunft des Shadowing aus der Dolmetscherausbildung. -->
+halblaut mit, wie ein Schatten. Die Technik wird seit Langem in der Dolmetscherausbildung geübt.
+Sie zeigt dir sofort, wo du nicht mitkommst: Das ist die Stelle, die du intensiv hören solltest.
+Die Dialoge im Buch mit ▶ taugen dafür als Einstieg, aber nur für Melodie und Tempo, denn die
+Synthesestimme verschleift kaum. Für die Verschleifungen nimm echte Clips, etwa von Easy Greek,
+mit griechischen Untertiteln und auf YouTube mit Tempo 0,75.
 
 ::: {.callout-important}
 ## Merke
 
-- **Intensiv:** kurz, oft, jedes Wort. **Extensiv:** lang, am Stück, Lücken erlaubt.
-- **Untertitel-Leiter** pro Szene: griechische Untertitel, dann keine.
+- **Intensiv:** kurz, oft, bis du die Stelle mitsprechen kannst. **Extensiv:** lang, am Stück,
+  Lücken erlaubt.
+- **Untertitel-Leiter** pro Szene: griechische Untertitel, dann keine; davor ein Durchgang ohne,
+  wenn du den Fortschritt messen willst.
 - Untertitel kürzen; Unterschiede zum Ton sind Lernstoff, keine Hörfehler.
-- **Shadowing:** mit halber Sekunde Abstand mitsprechen, erst mit Text.
+- **Shadowing:** mit halber Sekunde Abstand mitsprechen; Verschleifungen mit echten Clips.
 :::
 
 ::: {.vocab}
@@ -663,8 +703,12 @@ Dialoge im Buch mit ▶), dann mit kurzen echten Clips.
 ## Hörspur: Rat für Fremde {#sec-gesprochen-hoerspur}
 
 Noch ein Straßeninterview, diesmal mit der Frage, die Griechen am liebsten beantworten: Was soll
-ein Ausländer tun, um Griechisch zu lernen? Die Aufnahme hat zwei Stimmen; der Reporter und der
-ältere Herr teilen sich die männliche. Erst hören, dann lesen.
+ein Ausländer tun, um Griechisch zu lernen? Es antworten drei Passanten: eine Frau, ein älterer
+Herr und eine zweite Frau. Die Aufnahme hat zwei Stimmen; die weibliche spricht beide Frauen, die
+männliche den Reporter und den Herrn. Erst hören, dann lesen.
+
+**Vor dem Hören:** [ντρέπομαι]{lang="el"} sich schämen, [ο ξένος]{lang="el"} der Ausländer;
+[ο Βέγγος]{lang="el"} und [η Βουγιουκλάκη]{lang="el"} sind zwei Filmstars der 1960er.
 
 ::: {lang="el" .listen}
 [— Γεια σας! Μια ερώτηση: τι πρέπει να κάνει ένας ξένος για να μάθει ελληνικά;]{.v2}
@@ -681,7 +725,7 @@ ein Ausländer tun, um Griechisch zu lernen? Die Aufnahme hat zwei Stimmen; der 
 
 [— Έλα!]{.v2}
 
-[— Είδες; Κι αυτό ήταν άλλο «έλα».]{.v1}
+[— Είδες; Να κι ένα «έλα»!]{.v1}
 :::
 
 ::: {.callout-note .exercise}
@@ -721,8 +765,8 @@ Kapitel 3.
 ## Lösung
 
 **1b, 2b, 3b, 4b, 5c.** Zu 4: [Τις ξέρω απ’ έξω. Δηλαδή… τέλος πάντων, τις έχω δει πολλές
-φορές.]{lang="el"} Zu 5: Die Passantin zählt gerade das ungläubige „έλα“ auf, der Reporter liefert
-es prompt, daher ihr [Είδες;]{lang="el"}
+φορές.]{lang="el"} Zu 5: Die zweite Passantin zählt gerade das ungläubige „έλα“ auf, der Reporter
+liefert es prompt, daher ihr [Είδες;]{lang="el"}
 
 **Kurzformen:** [απ’ έξω]{lang="el"} = [από έξω]{lang="el"} (Elision), [τα ’χει]{lang="el"} =
 [τα έχει]{lang="el"} [ˈtaçi], [να ’ρθεις]{lang="el"} = [να έρθεις]{lang="el"} (beide Aphärese).
@@ -749,7 +793,7 @@ am Telefon, „έλα“, damit du kommst, „έλα“, wenn du’s nicht glaub
 
 — Ach was!
 
-— Siehst du? Das war schon wieder ein anderes „έλα“.
+— Siehst du? Da hast du gleich noch ein „έλα“!
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -758,7 +802,7 @@ am Telefon, „έλα“, damit du kommst, „έλα“, wenn du’s nicht glaub
 | Griechisch | Deutsch |
 |---|---|
 | [χαίρομαι]{lang="el"} | sich freuen (Kapitel 16) |
-| [με τον Βέγγο, με τη Βουγιουκλάκη]{lang="el"} | mit (Thanasis) Vengos, mit (Aliki) Vougiouklaki: Filmstars der 1960er |
+| [με τον Βέγγο, με τη Βουγιουκλάκη]{lang="el"} | mit (Thanasis) Vengos, mit (Aliki) Vougiouklaki |
 :::
 
 Thanasis Vengos und Aliki Vougiouklaki waren Stars der Filmkomödien, die in den 1950er- und
@@ -766,31 +810,32 @@ Thanasis Vengos und Aliki Vougiouklaki waren Stars der Filmkomödien, die in den
 Kapitel 33). Der Rat ist nicht schlecht: Die alten Komödien sprechen schnell, aber deutlich, und
 sie sind voller Wendungen, die noch heute zitiert werden.
 
-<!-- CHECK: Vengos und Vougiouklaki als Stars der Finos-Film-Komödien der 1950er/60er; „laufen im Fernsehen bis heute“ zutreffend? Schreibweisen Vengos/Vougiouklaki nach ELOT bzw. üblicher Form. -->
-
 Auf dem YouTube-Kanal [Easy Greek](https://www.youtube.com/@EasyGreekVideos) findest du genau diese
 Art von Interview, echt und in echtem Tempo, mit griechischen und englischen Untertiteln im Bild.
 Der Kanal gehört zu einem Netz von Kanälen für viele Sprachen, das mit *Easy German* begann. Für
 Filme und Serien ist [ERTflix](https://www.ertflix.gr) die Quelle, die Plattform des öffentlichen
-Rundfunks, kostenlos nach Anmeldung; manche Titel haben griechische Untertitel (Kennzeichen CC).
-
-<!-- CHECK: Easy Greek als Teil des Easy-Languages-Netzwerks, das mit Easy German begann. -->
+Rundfunks, kostenlos nach Anmeldung. Titel mit griechischen Untertiteln sammelt die Rubrik
+[«Προσβασιμότητα για Όλους»]{lang="el"} („Barrierefreiheit für alle“); das Kennzeichen CC steht für
+Untertitel für Gehörlose, die auch Geräusche angeben, etwa Lachen oder Musik. Diese Angaben
+überliest du einfach.
 
 ::: {.callout-note .exercise}
 ## Übung 21.7: Hör-Auftrag
 
 **Teil A, intensiv.** Wähl auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) ein
-Straßeninterview und daraus 60 bis 90 Sekunden.
+Straßeninterview und daraus 60 bis 90 Sekunden. Pro Durchgang nur ein Ziel:
 
-1. **Ohne Untertitel** hören, Diskursmarker zählen.
-2. **Mit griechischen Untertiteln** hören, jede Kurzform und jedes Sandhi-[b, d, g] suchen.
-3. Wieder **ohne Untertitel** hören.
-4. Zwei Sätze im **Shadowing** mitsprechen, bis du Schritt hältst.
+1. **Ohne Untertitel** (Vorher-Messung): Zähl die Diskursmarker.
+2. **Mit griechischen Untertiteln:** Achte nur auf [δεν, την, τον]{lang="el"} vor
+   [π, τ, κ, ξ]{lang="el"}. Hörst du dort [b, d, g]? Zähl die Stellen, an denen du es hörst.
+3. **Ohne Untertitel:** Zähl die Marker noch einmal.
+4. **Shadowing** mit Tempo 0,75: zwei Sätze, bis du Schritt hältst.
 
 **Teil B, Untertitel gegen Ton.** Wähl auf [ERTflix](https://www.ertflix.gr) einen Film oder eine
-Serie mit griechischen Untertiteln (CC), darin zwei Minuten Dialog. Finde drei Stellen, an denen
-Untertitel und Ton sich unterscheiden, und ordne jedes [έλα, λοιπόν, δηλαδή, ρε, μωρέ]{lang="el"}
-einer Aufgabe zu.
+Serie mit griechischen Untertiteln, darin zwei Minuten Dialog. Zähl die Stellen, an denen
+Untertitel und Ton sich unterscheiden.
+
+Im Chat: deine Zahlen, etwa „A: 6 → 9 Marker, 3 Sandhi; B: 4“.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -811,12 +856,12 @@ Streit und Küchengespräche sind ergiebiger als ruhige Szenen.
 Jede Szene ist anders; so wertest du aus:
 
 - **Teil A:** Beim ersten Hören verpasst man meist viele Marker, vor allem am Antwortbeginn. Ist
-  Schritt 3 merklich leichter als Schritt 1, hat die Leiter gewirkt. Wo du beim Shadowing hängen
-  bleibst, steckt meist eine Verschleifung: dein Material fürs nächste intensive Hören.
+  die Zahl in Schritt 3 merklich höher als in Schritt 1, hat die Leiter gewirkt. Sandhi hört man
+  am leichtesten bei [δεν]{lang="el"} vor [κ, ξ]{lang="el"} ([ðeŋ ˈgzero]); wer sorgfältig
+  spricht, lässt es manchmal aus, auch das zählt als Befund. Wo du beim Shadowing hängen bleibst,
+  steckt meist eine Verschleifung: dein Material fürs nächste intensive Hören.
 - **Teil B:** Typisch sind fehlende Füller und [θα έρθω]{lang="el"} im Untertitel, wo
   [θα ’ρθω]{lang="el"} zu hören ist. Drei Funde in zwei Minuten sind gut.
-- **Marker:** Passt deine Zuordnung zu Stelle und Melodie, ist sie richtig, auch wenn sie von der
-  Tabelle abweicht.
 :::
 
 ::: {.vocab}
@@ -831,17 +876,20 @@ Jede Szene ist anders; so wertest du aus:
 ## Das Wichtigste {#sec-gesprochen-wichtigste}
 
 - **Elision** ([σ’ αγαπώ]{lang="el"}): Das erste Wort verliert seinen Endvokal. **Aphärese**
-  ([το ’χω]{lang="el"}): Das zweite verliert seinen Anfangsvokal. Faustregel: Der stärkere Vokal
-  bleibt, [α > ο, ου > ε > ι]{lang="el"}; fällt ein betonter, wandert die Betonung aufs kleine
-  Wort.
+  ([το ’χω]{lang="el"}): Das zweite verliert seinen Anfangsvokal. **Apokope**
+  ([Πάρ’ το]{lang="el"}): Ein Vokal fällt vor Konsonant.
+- Faustregel bei Pronomen und Partikeln vor dem Verb: Der stärkere Vokal bleibt,
+  [α > ο, ου > ε > ι]{lang="el"}; bei [από]{lang="el"} fällt meist das eigene [ο]{lang="el"}.
+  Fällt ein betonter Vokal, wandert die Betonung aufs kleine Wort.
 - **Sandhi:** [ν]{lang="el"} + [π, τ, κ, ξ, ψ, τσ]{lang="el"} wird zu [mb, nd, ŋg, ŋgz, mbz,
   ndz], das [ν]{lang="el"} fällt schnell gesprochen oft weg: [τον πατέρα]{lang="el"}
   [tom baˈtera].
 - Alle Verschleifungen sind **Tendenzen**: je schneller und vertrauter, desto mehr. Die betonte
   Silbe bleibt fast immer.
 - **Diskursmarker** nach Aufgabe lernen: eröffnen, Zeit gewinnen, erklären, Faden halten,
-  reagieren, abschließen, Nähe. Stelle und Melodie entscheiden.
-- **Hören üben:** intensiv und extensiv trennen, Untertitel-Leiter pro Szene, Shadowing.
+  reagieren, abschließen, Nähe. Die Stelle entscheidet mit, oft auch die Melodie.
+- **Hören üben:** intensiv und extensiv trennen, Untertitel-Leiter pro Szene, Shadowing mit
+  echten Clips.
 
 ## Zum Lesen: Was der Untertitel verschweigt {#sec-gesprochen-lesetext}
 
@@ -865,7 +913,7 @@ danach helfen Wortschatz und Übersetzung.
 «δεγκζέρω» όχι.
 
 Το πιο δύσκολο όμως είναι ο χρόνος. Ένας υπότιτλος έχει δύο γραμμές, περίπου σαράντα χαρακτήρες
-η καθεμία, και μένει στην οθόνη δύο, τρία δευτερόλεπτα. Οι Έλληνες μιλάνε πιο γρήγορα απ’ ό,τι
+η καθεμία, και μένει στην οθόνη τρία, τέσσερα δευτερόλεπτα, το πολύ εφτά. Οι Έλληνες μιλάνε πιο γρήγορα απ’ ό,τι
 διαβάζει κανείς. Γι’ αυτό κόβουμε. Τα «εεε» τα κόβουμε πάντα. Τα «βασικά» όχι πάντα· αν τα
 κόψεις όλα, ο άνθρωπος δεν ακούγεται πια σαν τον εαυτό του. Καμιά φορά γράφουμε σε πέντε λέξεις
 αυτό που είπε σε δεκαπέντε.
@@ -874,10 +922,8 @@ danach helfen Wortschatz und Übersetzung.
 περίληψη της φωνής. Αν ακούς κάτι άλλο από αυτό που διαβάζεις, δε φταις εσύ. Εκεί, στη διαφορά,
 είναι η γλώσσα του δρόμου.
 
-Και η πιο συχνή λέξη στις συνεντεύξεις μας; Όχι το «βασικά». Το «ε».
+Και η πιο συχνή λέξη στις συνεντεύξεις μας; Όχι το «βασικά». Το «εεε».
 :::
-
-<!-- CHECK: Faustregel für Untertitel (zwei Zeilen, etwa 40 Zeichen pro Zeile, Standzeit einige Sekunden) als Aussage einer Untertitlerin plausibel? -->
 
 ::: {.callout-note collapse="true" .vocab-text}
 ## Wortschatz zum Text
@@ -897,7 +943,7 @@ danach helfen Wortschatz und Übersetzung.
 | [το δευτερόλεπτο]{lang="el"} | die Sekunde |
 | [ο εαυτός]{lang="el"} | das Selbst; [σαν τον εαυτό του]{lang="el"} wie er selbst |
 | [η περίληψη]{lang="el"} | die Zusammenfassung |
-| [φταίω]{lang="el"} | schuld sein (Kapitel 20) |
+| [φταίω]{lang="el"} | schuld sein (Kapitel 4) |
 | [η διαφορά]{lang="el"} | der Unterschied |
 :::
 
@@ -920,7 +966,7 @@ Regel ist einfach: Wir schreiben, wie der Mensch spricht, aber es muss sich leic
 Also „θα ’ρθω“ ja, „dengsero“ nein.
 
 Am schwierigsten ist aber die Zeit. Ein Untertitel hat zwei Zeilen mit je etwa vierzig Zeichen
-und bleibt zwei, drei Sekunden auf dem Bildschirm. Griechen sprechen schneller, als man liest.
+und bleibt drei, vier Sekunden auf dem Bildschirm, höchstens sieben. Griechen sprechen schneller, als man liest.
 Deshalb kürzen wir. Die „äh“ streichen wir immer. Die „also“ nicht immer; wenn du alle streichst,
 klingt der Mensch nicht mehr wie er selbst. Manchmal schreiben wir in fünf Wörtern, was er in
 fünfzehn gesagt hat.
@@ -941,7 +987,7 @@ Richtig oder falsch? Im Chat: „1r, 2f, …“.
 2. Am Anfang sprechen sie wie Nachrichtensprecher.
 3. Die Untertitlerin schreibt alles wörtlich auf.
 4. «βασικά» streicht sie immer.
-5. Ein Untertitel bleibt zwei, drei Sekunden stehen.
+5. Ein Untertitel bleibt höchstens sieben Sekunden stehen.
 6. Das häufigste Wort ist «βασικά».
 
 **Dann:** Nenn zu jeder Form mit Apostroph die Vollform. Welche Aussprache steckt hinter
@@ -965,7 +1011,7 @@ Buchstaben.
 ## Lösung
 
 **1f, 2r, 3f, 4f, 5r, 6f.** Die Hälfte geht ([οι μισοί … φεύγουν]{lang="el"}); sie kürzt; immer
-gestrichen wird «εεε», nicht «βασικά»; das häufigste Wort ist «ε».
+gestrichen wird «εεε», nicht «βασικά»; das häufigste Wort ist «εεε».
 
 **Apostroph:** [θα ’ρθω]{lang="el"} = [θα έρθω]{lang="el"} (Aphärese); [απ’ ό,τι]{lang="el"} und
 zweimal [γι’ αυτό]{lang="el"} (Elision). **«δεγκζέρω»** ist [ðeŋ ˈgzero], [δεν ξέρω]{lang="el"}.
