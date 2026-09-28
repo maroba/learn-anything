@@ -48,6 +48,13 @@ einen Punkt bewusst nicht umsetzt, begründe es in deiner Antwort. Bei Überarbe
 veröffentlichten Kapitels einen `changes`-Eintrag im Front Matter ergänzen (siehe book-format.md),
 aber nicht während der Probekapitel-Runde.
 
+## Länge
+
+Der Umfang aus STYLE.md ist eine **Obergrenze**, kein Richtwert. Erfahrungsgemäß werden Entwürfe
+20–40 % zu lang. Miss am Ende mit `wc -w` und kürze selbst, bevor du abgibst: keine Exkurse ohne
+Nutzen für die Lernziele, jede Regel nur an einer Stelle erklären, Wiederholungen früherer Kapitel
+knapp halten, lieber ein gutes Beispiel als drei.
+
 ## Nach dem Schreiben
 
 - `python3 scripts/build.py --book <slug>` ausführen; Fehler und Warnungen beheben.
