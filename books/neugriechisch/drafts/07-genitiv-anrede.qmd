@@ -309,14 +309,14 @@ häufigsten hörst du ihn an Namen, und dafür reicht eine Faustregel.
 
 Der Artikel ist [του]{lang="el"} für männliche, [της]{lang="el"} für weibliche Namen. Der
 Genitiv steht **hinter** dem, was jemandem gehört: [το σπίτι του Γιάννη]{lang="el"}
-„Giannis' Haus“, [η γιορτή της Μαρίας]{lang="el"} „Marias Namenstag“, [ο Γιώργος της
-Ελένης]{lang="el"}. Deutsch „Giannis' Haus“ dreht die Reihenfolge um, Spanisch [*la casa de
+„Giannis’ Haus“, [η γιορτή της Μαρίας]{lang="el"} „Marias Namenstag“, [ο Γιώργος της
+Ελένης]{lang="el"}. Deutsch „Giannis’ Haus“ dreht die Reihenfolge um, Spanisch [*la casa de
 Giannis*]{lang="es"} nicht.
 
 Bei [ο Γιάννης]{lang="el"} unterscheiden sich Akkusativ und Genitiv nur im Artikel: [τον
 Γιάννη]{lang="el"} [ton ˈʝani] oder [του Γιάννη]{lang="el"} [tu ˈʝani]. Hör auf das
 [n]: [Ξέρω τον Γιάννη.]{lang="el"} Ich kenne Giannis. [Ξέρω τη μητέρα του Γιάννη.]{lang="el"}
-Ich kenne Giannis' Mutter.
+Ich kenne Giannis’ Mutter.
 
 ### Straßen und Plätze {#sec-genitiv-strassen}
 
@@ -369,9 +369,9 @@ kommen überall vor.
 
 **Teil A.** Sag laut auf Griechisch.
 
-1. Kostas' Auto
+1. Kostas’ Auto
 2. Marias Bruder
-3. Giorgos' Tochter
+3. Giorgos’ Tochter
 4. Elenis Namenstag
 5. Ich suche Elenis Sohn.
 
@@ -804,7 +804,7 @@ französisch [*vous*]{lang="fr"}. Spanisch [*usted*]{lang="es"} mit der 3. Perso
 | vertraut ([εσύ]{lang="el"}) | höflich ([εσείς]{lang="el"}) | Deutsch |
 |---|---|---|
 | [Γεια σου.]{lang="el"} | [Γεια σας.]{lang="el"} | Hallo. / Tschüs. |
-| [Τι κάνεις;]{lang="el"} | [Τι κάνετε;]{lang="el"} | Wie geht's? |
+| [Τι κάνεις;]{lang="el"} | [Τι κάνετε;]{lang="el"} | Wie geht’s? |
 | [Πώς σε λένε;]{lang="el"} | [Πώς σας λένε;]{lang="el"} | Wie heißt du / heißen Sie? |
 | [Θέλεις καφέ;]{lang="el"} | [Θέλετε καφέ;]{lang="el"} | Willst du / Wollen Sie Kaffee? |
 | [το όνομά σου]{lang="el"} | [το όνομά σας]{lang="el"} | dein / Ihr Name |
@@ -1209,7 +1209,7 @@ der Großmutter. Der zweite Junge und das zweite Mädchen bekommen die Namen der
 Mutter. So kehren die Namen alle zwei Generationen wieder, und an einem Tisch sitzen leicht drei
 Giorgos und zwei Elenis.
 
-Wie hält man sie auseinander? Mit dem Genitiv natürlich: Elenis Giorgos, Kostas' Giorgos. Oder
+Wie hält man sie auseinander? Mit dem Genitiv natürlich: Elenis Giorgos, Kostas’ Giorgos. Oder
 mit einem anderen Namen: Der Kleine ist der Giorgakis, der Große der Giorgos.
 
 Im Ausweis dagegen sind alle förmlicher: Giorgos ist „Georgios“, Giannis „Ioannis“. Aber an

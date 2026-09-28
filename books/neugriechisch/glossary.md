@@ -63,6 +63,7 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 | Futur | μέλλοντας | „Futur mit θα“, in beiden Aspekten | 05 |
 | να-Form (Konjunktiv) | υποτακτική | „να-Form“ als Arbeitsbegriff | 05 |
 | Imperativ | προστακτική | | 09 |
+| Genitiv | γενική | | 07 |
 | Vokativ (Anredeform) | κλητική | beim ersten Auftreten „Vokativ (Anredeform)“ | 07 |
 | Augment | αύξηση | | 02 |
 | Mediopassiv | παθητική φωνή | nicht „Passiv“ | 13 |
@@ -153,3 +154,15 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 | Diskursmarker (Pläne) | [Άκου, …]{lang="el"} (Hör mal), [Να σου πω]{lang="el"} (weißt du was), [λέω να]{lang="el"} (ich überlege, ob ich …, umg.), [Θα δούμε.]{lang="el"} (Mal sehen.), [Θα σε πάρω (τηλέφωνο).]{lang="el"}, [Τα λέμε.]{lang="el"} (Bis dann.), [Να ’σαι/’στε καλά.]{lang="el"} (Danke, das ist lieb) | 05 |
 | verschluckter Anfangsvokal nach [θα, να]{lang="el"} | [θα ’ρθω, θα ’μαι, θα ’χω, να ’σαι, να ’στε]{lang="el"}; seltener fällt das [α]{lang="el"} der Partikel: [θ’ ανέβω, ν’ ακούσεις]{lang="el"}; IPA [ˈθarθo], [ˈθame], [ˈnase], aber [θaˈnevo] | 05 |
 | Orte und Sachwörter (Kapitel 5) | *Piräus* (eingebürgert), *Serifos, Sifnos, Milos, Amorgos, Naxos* (ELOT); Inselnamen auf [-ος]{lang="el"} weiblich; *Beaufort* (Windstärke, [το μποφόρ]{lang="el"}); *Etesien*; [η ΠΝΟ]{lang="el"} griechisch geschrieben | 05 |
+| Besitzwörter | [μου, σου, του, της, μας, σας, τους]{lang="el"} hinter dem Nomen, das seinen Artikel behält ([ο γιος μου]{lang="el"}); im Buch „Besitzwort“, nicht „Possessivpronomen“. Betont: [δικός μου, δική μου, δικό μου]{lang="el"} (richtet sich nach dem Besessenen). Merkregel: „Folgt ein Nomen, ist [του/της/τους]{lang="el"} der Artikel“ | 07 |
+| Genitiv Singular (Faustregel) | männlich [-ς]{lang="el"} weg ([του πατέρα, του Γιάννη]{lang="el"}), [-ος → -ου]{lang="el"}; weiblich [+ ς]{lang="el"}; sächlich [-ου, -ιού, -ματος]{lang="el"}; Artikel [του, της, του]{lang="el"}. Plural „immer [-ων]{lang="el"}“, Artikel [των]{lang="el"}. Der Genitiv steht **hinter** dem Nomen, zu dem er gehört | 07 |
+| Betonung im Genitiv | „[-ιού]{lang="el"} ist immer betont“; „[-ου]{lang="el"} zieht wie [-ους]{lang="el"}“ (drittletzte → vorletzte Silbe: [του ανθρώπου, Παπαδοπούλου]{lang="el"}); [-ματος]{lang="el"}: die Betonung wandert mit | 07 |
+| Vokativregel | nur männliche Nomen im Singular haben eine eigene Form, alles andere wie der Nominativ. [-ας, -ης, -ούς]{lang="el"}: das [-ς]{lang="el"} fällt. [-ος]{lang="el"} bei Vornamen nach der Betonung: vorletzte Silbe betont → meist [-ο]{lang="el"} ([Γιώργο]{lang="el"}), drittletzte → [-ε]{lang="el"} ([Αλέξανδρε]{lang="el"}); gelehrte Namen auf [-ιος → -ιε]{lang="el"}; gewöhnliche Wörter und Nachnamen auf [-όπουλος]{lang="el"} meist [-ε]{lang="el"} ([φίλε, κύριε Παπαδόπουλε]{lang="el"}) | 07 |
+| Höflichkeitsform | 2. Person Plural ([εσείς]{lang="el"}), Vergleich frz. *vous*; im Fließtext „du“/„Sie“, „duzen/siezen“; [κύριε/κυρία]{lang="el"} + Vorname mit [εσείς]{lang="el"} als Zwischenstufe; Adjektiv bei [εσείς]{lang="el"} im Singular für eine Person ([Είστε σίγουρος;]{lang="el"}) | 07 |
+| Anredewörter | [ρε, βρε]{lang="el"} + Vokativ (vertraut, umg.), [Παιδιά!]{lang="el"} (an eine Runde, „Leute!“), [μου]{lang="el"} hinter der Anrede zärtlich ([Γιώργο μου, κορίτσι μου]{lang="el"}); volkstümlich [κυρ]{lang="el"} | 07 |
+| Namenstag | [η γιορτή]{lang="el"}; Glückwunsch [Χρόνια πολλά!]{lang="el"}, an Angehörige [Να σας ζήσει!]{lang="el"}. Der Heilige heißt deutsch „der heilige Georg“, die Namensträger nach ELOT (*Giorgos*) | 07 |
+| amtlicher Name / Alltagsname | [Γεώργιος – Γιώργος, Ιωάννης – Γιάννης, Κωνσταντίνος – Κώστας, Νικόλαος – Νίκος, Αικατερίνη – Κατερίνα]{lang="el"}; Lateinschrift nach ELOT (*Georgios, Ioannis, Nikolaos*) | 07 |
+| Nachnamen im Genitiv | Frauen tragen den Nachnamen im Genitiv ([Παπαδοπούλου, Βλάχου, Σφακιανάκη]{lang="el"}); Männernamen wie [Γεωργίου, Νικολάου]{lang="el"} sind selbst Genitive. ELOT-Schreibweise *Papadopoulos*. Herkunft aus der Endung nur als Tendenz (Vorsicht-Box) | 07 |
+| deutscher Genitiv von Namen auf *-s* | mit typografischem Apostroph `’`: *Giannis’ Haus, Kostas’ Auto* | 04 |
+| Namen und Orte (Kapitel 7) | *Giorgos, Eleni, Angeliki, Kostas, Nikos, Manolis, Stelios* (ELOT); Straßen *Athinas, Aiolou, Ermou, Panepistimiou*, *Syntagma-Platz*; Berg *Kallidromo*; Mythologie deutsch: *Aiolos, Hermes, Athena, Homer*; *König Otto* | 07 |
+| KEP | [το ΚΕΠ]{lang="el"} [cep] ([Κέντρο Εξυπηρέτησης Πολιτών]{lang="el"}), im Text griechisch geschrieben, erklärt als „Bürgeramt“ | 07 |
