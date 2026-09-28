@@ -104,7 +104,7 @@ wissen, **was sie heute im Griechischen bedeuten**.
 | [οι σταγόνες]{lang="el"} | die Tropfen |
 | [το αντιπυρετικό]{lang="el"} | das fiebersenkende Mittel |
 | [ο ωτορινολαρυγγολόγος]{lang="el"} | der Hals-Nasen-Ohren-Arzt |
-| [ο ωριλά]{lang="el"} (unveränderlich), volkst. [ο ωριλάς, οι ωριλάδες]{lang="el"} | der HNO-Arzt (umg.) |
+| [ο ωριλά]{lang="el"} (unveränderlich), umg. [ο ωριλάς, οι ωριλάδες]{lang="el"} | der HNO-Arzt (umg.) |
 | [ολόκληρος, -η, -ο]{lang="el"} | ganz, vollständig |
 :::
 
@@ -363,8 +363,8 @@ hat kein [σ]{lang="el"}, sein Nomen trotzdem.
 - [θερμόμετρο]{lang="el"} [θerˈmometro], [χιλιόμετρο]{lang="el"} [çiˈʎometro], [άτομο]{lang="el"}
   [ˈatomo], [ανάλυση]{lang="el"} [aˈnalisi], [μέθοδος]{lang="el"} [ˈmeθoðos],
   [υπόθεση]{lang="el"} [iˈpoθesi]: weiter vorn als im Deutschen, genau wie im Spanischen.
-- [φυσική]{lang="el"} [fisiˈci], [μαθηματικά]{lang="el"} [maθimatiˈka]: ganz hinten, gegen
-  Deutsch und Spanisch.
+- [φυσική]{lang="el"} [fisiˈci], [μαθηματικά]{lang="el"} [maθimatiˈka]: ganz hinten, wie im
+  Deutschen (*Physik*, *Mathematik*), gegen das Spanische.
 - [ψυχολόγος]{lang="el"} [psixoˈloɣos], [ψυχολογία]{lang="el"} [psixoloˈʝia],
   [μικροσκόπιο]{lang="el"} [mikroˈskopio], [αρθρίτιδα]{lang="el"} [arˈθritiða]: auf demselben
   Baustein wie im Deutschen.
@@ -546,7 +546,8 @@ Drei Dinge passieren dabei:
   [περιέγραψα]{lang="el"}, [προέβλεπε]{lang="el"} (Kapitel 13).
 - **Angepasste Vorsilben nehmen wieder ihre Grundform an:** [συμ-βαίνει]{lang="el"}, aber
   [συν-έ-βη]{lang="el"}, denn vor Vokal heißt es [συν-]{lang="el"} (Kapitel 26).
-- **Beginnt der Stamm mit einem Vokal, wird daraus ein [η]{lang="el"}:** [αγγέλλω →
+- **Beginnt der Stamm mit [α]{lang="el"}, verschmilzt das Augment mit ihm zu [η]{lang="el"}**
+  ([ε]{lang="el"} + [α]{lang="el"} → [η]{lang="el"}): [αγγέλλω →
   ήγγειλα]{lang="grc"}, also [παρήγγειλα]{lang="el"} [paˈriŋɟila]. Dasselbe hörst du in den
   Nachrichten bei [ανήγγειλε]{lang="el"} „kündigte an“.
 
@@ -554,9 +555,8 @@ Ganz fest ist das innere Augment nicht. Das Wörterbuch der Standardsprache füh
 zwei Aoriste, **Doppelformen**:[κατέστρεψα/κατάστρεψα, ανήγγειλα/ανάγγειλα, απέδειξα/απόδειξα, συνέκρινα/σύγκρινα,
 προέβλεψα/πρόβλεψα, προσέθεσα/πρόσθεσα]{lang="el"}, dazu [υπέγραψα/υπόγραψα]{lang="el"}
 (umgangssprachlich) und selten [μετάφρασα]{lang="el"}. Beim Bestellen hängt es am Präsens:
-[παραγγέλλω → παρήγγειλα]{lang="el"}, aber [παραγγέλνω → παράγγειλα]{lang="el"}. Viele schwanken;
-umgangssprachlich hörst du auch [υπόγραψα, κατάστρεψα]{lang="el"}. Mit den Formen der Tabelle
-liegst du richtig.
+[παραγγέλλω → παρήγγειλα]{lang="el"}, aber [παραγγέλνω → παράγγειλα]{lang="el"}. Viele schwanken
+zwischen beiden Formen. Mit den Formen der Tabelle liegst du immer richtig.
 
 Am anderen Ende stehen Verben, die längst Alltagswörter sind. Sie setzen trotz gleicher Vorsilbe
 gar kein inneres Augment: [αποφάσισα, υποστήριξα, ανακάλυψα]{lang="el"}. Den schönsten Beweis
@@ -633,7 +633,7 @@ Verben sind Alltagsverben.
 
 In der wir-Form fällt das [ε]{lang="el"} weg, und die Vorsilbe bekommt ihren Vokal zurück:
 [αντ- → αντι-]{lang="el"}. Wer [υπόγραψα]{lang="el"} oder [κατάστρεψα]{lang="el"} gesagt hat,
-liegt umgangssprachlich auch richtig. **Typische Fehler:** das Augment in die wir-Form mitnehmen,
+liegt auch richtig (Doppelformen). **Typische Fehler:** das Augment in die wir-Form mitnehmen,
 im normalen Sprechen \*[μετεφράσαμε]{lang="el"}; oder es den Alltagsverben geben.
 [κατέλαβα]{lang="el"} heißt „ich habe eingenommen“.
 :::
@@ -951,7 +951,7 @@ Jede Sendung ist anders; so wertest du aus:
   -ισμός]{lang="el"}; vorletzte bei Fächern auf [-λογία, -γραφία]{lang="el"} und Personen auf
   [-λόγος, -γράφος]{lang="el"}; drittletzte, so weit vorn wie möglich, bei [-μετρο, -φωνο,
   -σκόπιο, -ίτιδα, -ίατρος]{lang="el"}. Spanisch führt öfter richtig als Deutsch; beide irren
-  bei [-ική]{lang="el"} und [ενέργεια]{lang="el"}, Spanisch auch bei [-λόγος]{lang="el"}.
+  bei [ενέργεια]{lang="el"}, Spanisch auch bei [-ική]{lang="el"} und [-λόγος]{lang="el"}.
 - **Gelehrte Vorsilben** kennst du aus Fremdwörtern (*Anti-*, *Dia-*, *Hypo-* …); vor Vokal ohne
   Endvokal, teils mit [φ, θ]{lang="el"} ([εφαρμογή, καθηγητής]{lang="el"}). Gelehrtes
   [παρα-]{lang="el"} heißt „neben, entlang“.

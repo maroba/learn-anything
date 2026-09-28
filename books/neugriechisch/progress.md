@@ -30,7 +30,7 @@
 | 24 Was wäre, wenn: Irrealis und Wünsche | veröffentlicht | Welle 10; Audio vollständig |
 | 25 Er muss gegangen sein: Vermutungen über die Vergangenheit | veröffentlicht | Welle 11; Audio vollständig |
 | 26 Wortbildung I: Präfixe und Verkleinerungen | veröffentlicht | Welle 12; Audio vollständig |
-| 27 Wortbildung II: die Sprache der Wissenschaft | Konsistenz | Welle 13; überarbeitet |
+| 27 Wortbildung II: die Sprache der Wissenschaft | veröffentlicht | Welle 13; Audio läuft |
 | 28 Nachrichtensprache | Überarbeitung | Welle 13; beide Reviews da |
 | 29 Argumentieren | fertig | Welle 11; wartet auf 26–28 |
 | 30 Redewendungen | fertig | Welle 12; wartet auf 27–29 |
