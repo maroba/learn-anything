@@ -87,8 +87,8 @@ Zwei Sorten Formen fallen auf. Die einen sehen aus wie Adjektive und passen sich
 [-οντας]{lang="el"} oder [-ώντας]{lang="el"}, egal wer spricht: [κατεβαίνοντας, πηδώντας,
 ανεβαίνοντας, τρώγοντας]{lang="el"}.
 
-Die erste Sorte ist das **Partizip** ([η μετοχή]{lang="el"}), das deutsche „nass gemacht,
-müde gemacht, angezogen“. Die zweite ist das **Gerundium**, am ehesten französisch
+Die erste Sorte ist das **Partizip** ([η μετοχή]{lang="el"}), wie das deutsche Partizip II
+„geschrieben, angezogen“. Die zweite ist das **Gerundium**, am ehesten französisch
 [*en descendant*]{lang="fr"} „beim Hinuntergehen“. Beide brauchst du ständig, wenn du erzählst,
 wie etwas war und wie es geschah.
 
@@ -134,7 +134,7 @@ aus Kapitel 5 lautete [Δεμένα τα πλοία]{lang="el"}, „die Schiffe 
 Kapitel 2 sagst du [την περασμένη εβδομάδα]{lang="el"}, „die vergangene Woche“.
 
 Das Partizip auf **[-μένος]{lang="el"}** beschreibt, was mit etwas geschehen ist, als Zustand
-danach: Wer [γράφτηκε]{lang="el"}, ist jetzt [γραμμένος]{lang="el"}. Deshalb wohnt es beim
+danach: Was [γράφτηκε]{lang="el"}, ist jetzt [γραμμένο]{lang="el"}. Deshalb wohnt es beim
 Mediopassiv-Aorist, und die Tabelle aus Kapitel 13 bekommt eine dritte Spalte:
 
 | Aktiv-Aorist | Mediopassiv-Aorist | Partizip |
@@ -169,15 +169,16 @@ und [πεθαμένος]{lang="el"} „tot“.
 
 ### Wie ein Adjektiv {#sec-partizip-adjektiv}
 
-Das Partizip dekliniert wie [καλός]{lang="el"}, mit [-η]{lang="el"} im Femininum:
+Das Partizip dekliniert wie [καλός]{lang="el"}, weiblich immer auf [-η]{lang="el"}:
 [ένας κουρασμένος πεζοπόρος, μια κουρασμένη πεζοπόρος]{lang="el"}. Es kann an denselben Stellen
 stehen wie jedes Adjektiv:
 
 - vor dem Nomen: [η αγαπημένη μου ταινία]{lang="el"} „mein Lieblingsfilm“
-- hinter dem Nomen, oft mit Zusatz: [ένα εγχειρίδιο γραμμένο στα ελληνικά]{lang="el"}
+- hinter dem Nomen, oft mit Zusatz: [ένα εγχειρίδιο γραμμένο στα ελληνικά]{lang="el"} „eine
+  Anleitung, auf Griechisch geschrieben“
 - nach [είμαι]{lang="el"}: [Τα παπούτσια μου είναι βρεγμένα.]{lang="el"}
 - in Schlagzeilen ohne Verb: [Δεμένα τα πλοία.]{lang="el"} [Κλειστό το φαράγγι λόγω
-  βροχής.]{lang="el"}
+  βροχής.]{lang="el"} „Schlucht wegen Regen gesperrt.“ ([λόγω]{lang="el"} + Genitiv „wegen“)
 
 Viele Gefühle und Zustände sind im Griechischen Partizipien, genau wie im Deutschen
 („verliebt, begeistert, enttäuscht“) und im Spanischen
@@ -188,12 +189,16 @@ Viele Gefühle und Zustände sind im Griechischen Partizipien, genau wie im Deut
 | [κουρασμένος]{lang="el"} | müde | [κουράζομαι]{lang="el"} ermüden |
 | [θυμωμένος]{lang="el"} | wütend, sauer | [θυμώνω]{lang="el"} wütend werden |
 | [ερωτευμένος]{lang="el"} | verliebt | [ερωτεύομαι]{lang="el"} sich verlieben |
-| [ενθουσιασμένος]{lang="el"} | begeistert | [ενθουσιάζομαι]{lang="el"} |
+| [ενθουσιασμένος]{lang="el"} | begeistert | [ενθουσιάζομαι]{lang="el"} sich begeistern |
 | [λυπημένος]{lang="el"} | traurig | [λυπάμαι]{lang="el"} (Kapitel 10) |
 | [ευτυχισμένος]{lang="el"} | glücklich | – |
 
-[ερωτευμένος]{lang="el"} zeigt die Regel mit [ευ]{lang="el"}: [ερωτεύ-τηκα →
-ερωτευμένος]{lang="el"}; das [ευ]{lang="el"} bleibt wie im Aorist.
+Bei Verben auf [-εύω]{lang="el"} schwankt es: [ερωτεύ-τηκα → ερωτευμένος]{lang="el"} behält das
+[ευ]{lang="el"} wie der Aorist, viele Alltagsverben verlieren das [υ]{lang="el"}:
+[μπερδεύω → μπερδεμένος]{lang="el"} „verwirrt“, [σημαδεύω → σημαδεμένος]{lang="el"} „markiert“.
+Diese Partizipien lernst du am besten einzeln.
+
+<!-- CHECK: -εύω-Partizipien: ερωτευμένος, aber μπερδεμένος, σημαδεμένος (so im LKN?); Faustregel „alltäglich -εμένος, gelehrt -ευμένος“ vertretbar? -->
 
 ::: {.callout-important}
 ## Merke
@@ -239,10 +244,9 @@ geschlossen“ ein Zustand. Spanisch trennt genauso, [*fue cerrada*]{lang="es"} 
 [*está cerrada*]{lang="es"}. Im Griechischen erzählt das Mediopassiv das Ereignis, [είμαι]{lang="el"}
 mit Partizip beschreibt den Zustand danach:
 
-- [Το φαράγγι κλείστηκε το πρωί λόγω βροχής.]{lang="el"} Die Schlucht wurde am Morgen wegen
-  Regen gesperrt. (Ereignis, Aorist)
-- [Το φαράγγι είναι κλεισμένο από το πρωί.]{lang="el"} Die Schlucht ist seit dem Morgen
-  gesperrt. (Zustand)
+- [Η πόρτα του καταφυγίου κλειδώθηκε στις δέκα.]{lang="el"} Die Tür der Hütte wurde um zehn
+  abgeschlossen. (Ereignis, Aorist)
+- [Η πόρτα είναι κλειδωμένη.]{lang="el"} Die Tür ist abgeschlossen. (Zustand)
 
 Mit dem Perfekt aus Kapitel 14 wird daraus ein Dreiklang, am Beispiel eines Wanderführers:
 
@@ -282,14 +286,14 @@ aufgeschrieben.“
 ::: {.callout-important}
 ## Merke
 
-- **Ereignis:** Mediopassiv, [κλείστηκε, γράφτηκε]{lang="el"}.
-- **Zustand:** [είμαι]{lang="el"} + Partizip, [είναι κλεισμένο, είναι γραμμένος]{lang="el"}; bei
+- **Ereignis:** Mediopassiv, [κλειδώθηκε, γράφτηκε]{lang="el"}.
+- **Zustand:** [είμαι]{lang="el"} + Partizip, [είναι κλειδωμένη, είναι γραμμένος]{lang="el"}; bei
   „offen, zu“ meist [ανοιχτός, κλειστός]{lang="el"}.
 - **Zustand, über den man verfügt:** [έχω]{lang="el"} + Partizip, das sich nach dem Objekt
   richtet: [Έχω κλεισμένα εισιτήρια.]{lang="el"}
 :::
 
-<!-- EXERCISE: Zustand oder Ereignis unterscheiden, Art: Auswahl mit nummerierten Optionen (1 Mediopassiv-Aorist, 2 είμαι + Partizip, 3 κλειστός/ανοιχτός, 4 έχω + Partizip), 8 deutsche Sätze rund um eine Wanderung (Schlucht wegen Regen gesperrt / seit gestern gesperrt; Hütte ist zu; Bett in der Hütte gebucht; Karte ist auf Griechisch geschrieben; Weg wurde 2010 markiert; Rucksack ist gepackt; ich habe die Tickets gebucht), Lösung mit griechischem Satz und Begründung, typischer Fehler *είναι κλείσει, Schwierigkeit 2 -->
+<!-- EXERCISE: Zustand oder Ereignis unterscheiden, Art: Auswahl mit nummerierten Optionen (1 Mediopassiv-Aorist, 2 είμαι + Partizip, 3 κλειστός/ανοιχτός, 4 έχω + Partizip), 8 deutsche Sätze rund um eine Wanderung (Hüttentür wurde um zehn abgeschlossen / ist abgeschlossen; Schlucht ist wegen Regen zu; Bett in der Hütte gebucht; Karte ist auf Griechisch geschrieben; Weg wurde 2010 markiert; Rucksack ist gepackt; ich habe die Tickets gebucht), Lösung mit griechischem Satz und Begründung, typischer Fehler *είναι κλείσει, Schwierigkeit 2 -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -353,8 +357,8 @@ Das Subjekt des Gerundiums ist fast immer das Subjekt des Satzes: Wer [ανεβ�
 etwas sieht, ist auch der, der hinaufsteigt.
 
 Einige Gerundien sind feste Wendungen, die du in jedem Gespräch hörst: [τρέχοντας]{lang="el"}
-„in aller Eile“, [πηγαίνοντας]{lang="el"} „auf dem Hinweg“, [γυρίζοντας]{lang="el"} „auf dem
-Rückweg“, [κάνοντας]{lang="el"} + Zeitangabe wie [κάνοντας διακοπές]{lang="el"} „im Urlaub“.
+„in aller Eile“, [πηγαίνοντας]{lang="el"} „auf dem Hinweg“ und [γυρίζοντας]{lang="el"} „auf dem
+Rückweg“.
 
 ::: {.callout-warning}
 ## Achtung
@@ -380,9 +384,9 @@ das schwache Pronomen **hinter** dem Verb steht, wie im Spanischen
 Und weil Gerundien auf [-οντας]{lang="el"} auf der drittletzten Silbe betont sind, kommt mit dem
 Pronomen der zweite Akzent aus Kapitel 9 dazu:
 
-- [λέγοντας + το → λέγοντάς το]{lang="el"} [ˈleɣonˈdas to] indem er es sagt
-- [βλέποντας + τον → βλέποντάς τον]{lang="el"} [ˈvleponˈdas ton] als sie ihn sah
-- [ρωτώντας + τον → ρωτώντας τον]{lang="el"} [roˈtondas ton] indem ich ihn fragte; kein zweiter
+- [λέγοντας + το → λέγοντάς το]{lang="el"} [ˈleɣoˈdas to] indem er es sagt
+- [βλέποντας + τον → βλέποντάς τον]{lang="el"} [ˈvlepoˈdas ton] als sie ihn sah
+- [ρωτώντας + τον → ρωτώντας τον]{lang="el"} [roˈtodas ton] indem ich ihn fragte; kein zweiter
   Akzent, die Betonung liegt schon auf der vorletzten Silbe
 
 Verneint wird das Gerundium mit [μη(ν)]{lang="el"}, nicht mit [δεν]{lang="el"}:
@@ -412,18 +416,18 @@ klingt etwas gehoben; im Gespräch sagt man es mit einem Nebensatz (Kapitel 16).
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [περπατώντας]{lang="el"} | [perpaˈtondas] | zu Fuß, gehend; beim Gehen |
-| [τρέχοντας]{lang="el"} | [ˈtrexondas] | rennend; in aller Eile |
-| [πηγαίνοντας]{lang="el"} | [piˈʝenondas] | auf dem Hinweg |
-| [γυρίζοντας]{lang="el"} | [ʝiˈrizondas] | auf dem Rückweg |
-| [λέγοντας]{lang="el"} | [ˈleɣondas] | sagend, indem man sagt |
-| [κλαίω, έκλαψα; κλαίγοντας]{lang="el"} | [ˈkleo], [ˈeklapsa]; [ˈkleɣondas] | weinen; weinend |
-| [γελώντας]{lang="el"} | [ʝeˈlondas] | lachend |
-| [ανεβαίνοντας, κατεβαίνοντας]{lang="el"} | [aneˈvenondas], [kateˈvenondas] | beim Aufstieg, beim Abstieg |
-| [Τρώγοντας έρχεται η όρεξη.]{lang="el"} | [ˈtroɣondas ˈerxete i ˈoreksi] | Der Appetit kommt beim Essen. |
+| [περπατώντας]{lang="el"} | [perpaˈtodas] | zu Fuß, gehend; beim Gehen |
+| [τρέχοντας]{lang="el"} | [ˈtrexodas] | rennend; in aller Eile |
+| [πηγαίνοντας]{lang="el"} | [piˈʝenodas] | auf dem Hinweg |
+| [γυρίζοντας]{lang="el"} | [ʝiˈrizodas] | auf dem Rückweg |
+| [λέγοντας]{lang="el"} | [ˈleɣodas] | sagend, indem man sagt |
+| [κλαίω, έκλαψα; κλαίγοντας]{lang="el"} | [ˈkleo], [ˈeklapsa]; [ˈkleɣodas] | weinen; weinend |
+| [γελώντας]{lang="el"} | [ʝeˈlodas] | lachend |
+| [ανεβαίνοντας, κατεβαίνοντας]{lang="el"} | [aneˈvenodas], [kateˈvenodas] | beim Aufstieg, beim Abstieg |
+| [Τρώγοντας έρχεται η όρεξη.]{lang="el"} | [ˈtroɣodas ˈerçete i ˈoreksi] | Der Appetit kommt beim Essen. |
 | [η όρεξη]{lang="el"} | [i ˈoreksi] | der Appetit; die Lust |
 | [τρέχω, έτρεξα]{lang="el"} | [ˈtrexo], [ˈetreksa] | rennen, laufen |
-| [μην ξέροντας]{lang="el"} | [min ˈkserondas] | ohne zu wissen, weil man nicht weiß |
+| [μην ξέροντας]{lang="el"} | [min ˈkserodas] | ohne zu wissen, weil man nicht weiß |
 :::
 
 ::: {.callout-note collapse="true"}
@@ -479,7 +483,7 @@ das Schild, [το λιβάδι]{lang="el"} die Wiese, [ο τρίτωνας]{lang
 — Τότε, καλή ανάβαση!
 :::
 
-<!-- EXERCISE: Hörverstehen mit .listen zur Wegbeschreibung, Auftrag „mit ▶, ohne den Text aufzuklappen“; Teil A: Weg in die richtige Reihenfolge bringen (Schild am Dorfausgang, Hütte/Quelle, Wiese, See) und Zeiten nennen (3 h bis zur Hütte, 1 h weiter); Teil B richtig/falsch (Weg schlecht markiert? Molche = kleine Drachen? Bett noch nicht gebucht? bei Wolken weitergehen?); Teil C beim zweiten Hören alle Gerundien (βγαίνοντας, ανεβαίνοντας, λέγοντας, τραγουδώντας, πετώντας) und Partizipien (σημαδεμένο, κλεισμένο) zählen; Hinweise auf Hörsignale [-ondas] und [-ˈmeno], Schwierigkeit 2 -->
+<!-- EXERCISE: Hörverstehen mit .listen zur Wegbeschreibung, Auftrag „mit ▶, ohne den Text aufzuklappen“; Teil A: Weg in die richtige Reihenfolge bringen (Schild am Dorfausgang, Hütte/Quelle, Wiese, See) und Zeiten nennen (3 h bis zur Hütte, 1 h weiter); Teil B richtig/falsch (Weg schlecht markiert? Molche = kleine Drachen? Bett noch nicht gebucht? bei Wolken weitergehen?); Teil C beim zweiten Hören alle Gerundien (βγαίνοντας, ανεβαίνοντας, λέγοντας, τραγουδώντας, πετώντας) und Partizipien (σημαδεμένο, κλεισμένο) zählen; Hinweise auf Hörsignale [-odas] und [-ˈmeno], Schwierigkeit 2 -->
 
 <!-- CHECK: Route Mikro Papingo – Astraka-Hütte (ca. 1950 m) – Drakolimni Tymfi (ca. 2050 m): Gehzeiten rund 3 h bis zur Hütte und 1 h weiter (mit Abstieg in die Lakka Tsoumani und Wiederaufstieg), Quelle am Weg bzw. bei der Hütte, Alpenmolche im See, Legende vom Drachenkampf Tymfi–Smolikas mit geworfenen Felsen. -->
 
@@ -558,13 +562,14 @@ Beide Formen haben ein Klangzeichen, das man auch in schneller Rede fängt:
 
 - **Partizip:** betontes [ˈme] vor der Endung, [-ˈmenos, -ˈmeni, -ˈmeno, -ˈmena]. Davor oft
   [z], [m] oder [ɣ]: [kurazˈmenos, ɣraˈmenos, vreɣˈmenos].
-- **Gerundium:** [-ondas] am Wortende, mit [d], nicht [nt]. Betont ist entweder die Silbe davor
-  ([ˈleɣondas, kateˈvenondas]) oder das [o] selbst ([perpaˈtondas]).
+- **Gerundium:** [-odas] am Wortende, das [ντ]{lang="el"} als [d] wie in [πέντε]{lang="el"} [ˈpede], bei manchen
+  Sprechern mit leichtem [n] davor. Betont ist entweder die Silbe davor ([ˈleɣodas,
+  kateˈvenodas]) oder das [o] selbst ([perpaˈtodas]).
 
 Vorsicht bei [ο μέλλοντας]{lang="el"} „das Futur“ und [ο κυνόδοντας]{lang="el"} „der Eckzahn“
 (Kapitel 15): Das sind Nomen, die nur so klingen. Sie haben einen Artikel davor.
 
-<!-- EXERCISE: Hör-Auftrag Easy Greek (https://www.youtube.com/@EasyGreekVideos): ein Straßeninterview über Urlaub, Reisen oder Natur suchen (Suchwörter διακοπές, βουνό, ταξίδι; Ausweichlösung: irgendein Interview); Durchgang 1 ohne Untertitel: Striche für jedes [-ondas] und jedes betonte [-ˈmenos/-ˈmeni/-ˈmeno]; Durchgang 2 mit griechischen Untertiteln prüfen und die häufigsten Formen notieren (erwartbar: κουρασμένος, αγαπημένος, ευχαριστημένος, κάνοντας, πηγαίνοντας); offene Lösung mit Auswertungskriterien, Schwierigkeit 2 -->
+<!-- EXERCISE: Hör-Auftrag Easy Greek (https://www.youtube.com/@EasyGreekVideos): ein Straßeninterview über Urlaub, Reisen oder Natur suchen (Suchwörter διακοπές, βουνό, ταξίδι; Ausweichlösung: irgendein Interview); Durchgang 1 ohne Untertitel: Striche für jedes [-odas] und jedes betonte [-ˈmenos/-ˈmeni/-ˈmeno]; Durchgang 2 mit griechischen Untertiteln prüfen und die häufigsten Formen notieren (erwartbar: κουρασμένος, αγαπημένος, ευχαριστημένος, κάνοντας, πηγαίνοντας); offene Lösung mit Auswertungskriterien, Schwierigkeit 2 -->
 
 ## Das Wichtigste {#sec-partizip-wichtigste}
 
@@ -575,7 +580,7 @@ Vorsicht bei [ο μέλλοντας]{lang="el"} „das Futur“ und [ο κυνό
 - Es ist ein **Adjektiv** ([-μένος, -μένη, -μένο]{lang="el"}): vor oder hinter dem Nomen, nach
   [είμαι]{lang="el"}, in Schlagzeilen. Viele Gefühle sind Partizipien: [κουρασμένος,
   θυμωμένος, ερωτευμένος]{lang="el"}.
-- **Zustand oder Ereignis:** [είναι κλεισμένο]{lang="el"} gegen [κλείστηκε]{lang="el"}; im
+- **Zustand oder Ereignis:** [είναι κλειδωμένη]{lang="el"} gegen [κλειδώθηκε]{lang="el"}; im
   Alltag [κλειστός, ανοιχτός]{lang="el"}. [έχω]{lang="el"} + Partizip: [Τα έχω
   κλεισμένα.]{lang="el"}
 - Das **Gerundium** ist unveränderlich, kommt vom imperfektiven Stamm und bedeutet wie, während,
