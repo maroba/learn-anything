@@ -226,7 +226,7 @@ bis zwei Wochen pro Kapitel bei 5 Stunden pro Woche.
 - **Datei:** 30-redewendungen
 - **Lernziele:** kann häufige Redewendungen und Sprichwörter verstehen und einige treffend verwenden
 - **Voraussetzungen:** 23
-- **Lesezeit:** 35 min
+- **Lesezeit:** 45 min
 - **Inhalt:** Sachthema: Alltagsweisheiten und ihre Herkunft; Hörspur: Redewendungen in Filmdialogen
 
 ### 31 Vom Amt bis zur Taverne: Register und Höflichkeit

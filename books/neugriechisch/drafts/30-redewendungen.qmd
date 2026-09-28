@@ -182,7 +182,7 @@ nahm sie in den Schädel“.
 
 Sprichwörter haben ihre eigene Grammatik, und die hilft beim Erkennen.
 
-**[Όποιος]{lang="el"} vorn, Echo-Pronomen danach.** Die häufigste Bauform beginnt mit
+**[Όποιος]{lang="el"} vorn, Echo-Pronomen danach.** Eine sehr häufige Bauform beginnt mit
 [όποιος]{lang="el"} (Kapitel 15). Braucht der zweite Teil diese Person als Objekt, steht ein
 Echo-Pronomen (Kapitel 20):
 
@@ -259,7 +259,7 @@ Verb.
   [βρήκαμε]{lang="el"} nur „wir haben gefunden“.
 - **b)** [Όταν δει τον λογαριασμό, θα τα πάρει.]{lang="el"} Meinst du „jedes Mal“: [Όταν
   βλέπει τον λογαριασμό, τα παίρνει.]{lang="el"} Beides ist richtig.
-- **c)** [Συγγνώμη, τα ’κανα θάλασσα.]{lang="el"} [ˈtakana]. Die Vollform [τα
+- **c)** [Συγγνώμη, τα ’κανα θάλασσα.]{lang="el"}, gesprochen [ˈtakana]. Die Vollform [τα
   έκανα]{lang="el"} ist genauso richtig, nur etwas sorgfältiger gesprochen.
 - **d)** [Αυτή τη φορά δε θα τα πάρω.]{lang="el"} Reihenfolge: [δε θα τα]{lang="el"} + Verb;
   \*[δεν τα θα πάρω]{lang="el"} ist ungrammatisch.
@@ -290,8 +290,6 @@ macht das Bild?**
 - **Ein Loch ins Wasser:** Es schließt sich sofort, keine Spur bleibt. Also: umsonst.
 - **Kleie und Hühner:** Kleie ist Hühnerfutter. Wer sich dazwischen mischt, wird mitgefressen:
   Wer sich in zwielichtige Sachen einmischt, trägt den Schaden.
-- **Die Fliege:** Wer eine auf sich sitzen hat, zuckt. Wer sich bei einer allgemeinen Bemerkung
-  aufregt, verrät, dass sie ihn trifft.
 
 Der **Zusammenhang** hilft mit: [Σιγά τα λάχανα]{lang="el"} antwortet meist auf eine Aufregung,
 hinter [κόβω το κεφάλι μου]{lang="el"} steht meist [ότι]{lang="el"}. Dann der Vergleich mit
@@ -344,18 +342,16 @@ sich wie Verstehen an, auch wenn es in die Irre führt.
 ::: {.callout-note .exercise}
 ## Übung 30.2: Was macht das Bild?
 
-Welche Bedeutung passt? Fünf Wendungen sind neu; erschließ sie über das Bild. Worthilfen: [η
-πάπια]{lang="el"} die Ente, [τα χαρτιά]{lang="el"} hier die Spielkarten, [τα φύκια]{lang="el"}
-der Seetang, [μεταξωτές κορδέλες]{lang="el"} Seidenbänder.
+Welche Bedeutung passt? Vier Wendungen sind neu; erschließ sie über das Bild. Worthilfen: [η
+πάπια]{lang="el"} die Ente, [η μύγα]{lang="el"} die Fliege, [τα φύκια]{lang="el"} der Seetang, [μεταξωτές κορδέλες]{lang="el"} Seidenbänder.
 
 1. [Πνίγεται σε μια κουταλιά νερό.]{lang="el"} a) Er ist sehr sparsam. b) Er verzweifelt an Kleinigkeiten. c) Er verträgt nichts.
 2. [Έφαγα τον κόσμο να σε βρω.]{lang="el"} a) Ich habe dich überall gesucht. b) Ich habe gegessen, bis du kamst. c) Ich habe dir alles versprochen.
 3. [Όποιος έχει τη μύγα, μυγιάζεται.]{lang="el"} a) Wer Ärger sucht, findet ihn. b) Kleine Sorgen wachsen. c) Wer sich getroffen fühlt, verrät sich.
 4. [Κάνει την πάπια.]{lang="el"} a) Er stellt sich dumm. b) Kritik perlt an ihm ab. c) Er redet ununterbrochen.
-5. [Ανοίξαμε τα χαρτιά μας.]{lang="el"} a) Wir haben die Post gelesen. b) Wir haben unsere Absichten offengelegt. c) Wir haben aufgegeben.
-6. [Μετά Χριστόν προφήτης.]{lang="el"} a) Der Prophet gilt nichts im eigenen Land. b) Alles braucht seine Zeit. c) Hinterher weiß es jeder.
-7. [Ζει στον κόσμο του.]{lang="el"} a) Er ist mit den Gedanken ständig woanders. b) Er ist viel gereist. c) Er ist gern zu Hause.
-8. [Μου πουλάει φύκια για μεταξωτές κορδέλες.]{lang="el"} a) Er macht Geschäfte am Hafen. b) Er will mich für dumm verkaufen. c) Er schenkt mir Kitsch.
+5. [Μετά Χριστόν προφήτης.]{lang="el"} a) Der Prophet gilt nichts im eigenen Land. b) Alles braucht seine Zeit. c) Hinterher weiß es jeder.
+6. [Ζει στον κόσμο του.]{lang="el"} a) Er ist mit den Gedanken ständig woanders. b) Er ist viel gereist. c) Er ist gern zu Hause.
+7. [Μου πουλάει φύκια για μεταξωτές κορδέλες.]{lang="el"} a) Er macht Geschäfte am Hafen. b) Er will mich für dumm verkaufen. c) Er schenkt mir Kitsch.
 
 Im Chat: „1b, 2a, …“.
 :::
@@ -363,21 +359,21 @@ Im Chat: „1b, 2a, …“.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Wende die Faustregel aus dem Tipp an. Bei 2 ist die Übertreibung der Schlüssel, bei 8 der Wert
-der Ware.
+Wende die Faustregel aus dem Tipp an. Bei 2 ist die Übertreibung der Schlüssel, bei 7 der Wert
+der Ware. Bei 3: Wer eine Fliege auf sich sitzen hat, zuckt.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
 Bei 4 hilft das Bild kaum. Eine der Antworten stammt aus dem Englischen und meint dort etwas
-anderes. Bei 6 lockt ein Bibelwort, das auch von Propheten handelt.
+anderes. Bei 5 lockt ein Bibelwort, das auch von Propheten handelt.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**1b, 2a, 3c, 4a, 5b, 6c, 7a, 8b.**
+**1b, 2a, 3c, 4a, 5c, 6a, 7b.**
 
 - 1: Ertrinken in einem Löffel Wasser ist unmöglich, also: an Nichtigkeiten scheitern.
 - 2: „Die Welt aufessen“: alles abgrasen, jeden Winkel. Meist mit [να]{lang="el"} und dem Ziel
@@ -385,12 +381,10 @@ anderes. Bei 6 lockt ein Bibelwort, das auch von Propheten handelt.
 - 4: [κάνω την πάπια]{lang="el"} heißt, sich unwissend stellen oder absichtlich schweigen. Das
   Bild erklärt sich nicht von selbst. Antwort b ist englisch ([*like water off a duck’s
   back*]{lang="en"}): gleiches Tier, andere Bedeutung.
-- 5: Beim Kartenspiel legt man die Karten auf den Tisch: [παίζω με ανοιχτά χαρτιά]{lang="el"}
-  wie „mit offenen Karten spielen“.
-- 6: Wer nach Christus weissagt, weissagt nichts. Antwort a ist das deutsche Bibelwort vom
+- 3: Wer sich bei einer allgemeinen Bemerkung aufregt, verrät, dass sie ihn trifft.
+- 5: Wer nach Christus weissagt, weissagt nichts. Antwort a ist das deutsche Bibelwort vom
   Propheten im eigenen Land, ein ganz anderer Gedanke.
-- 7: „Er lebt in seiner eigenen Welt“, wie im Deutschen.
-- 8: Seetang ist wertlos und liegt überall am Strand; wer ihn als Seide verkauft, betrügt.
+- 7: Seetang ist wertlos und liegt überall am Strand; wer ihn als Seide verkauft, betrügt.
 :::
 
 ::: {.callout-note .exercise}
@@ -592,8 +586,7 @@ Gemeinde still zuhört. [Του έψαλα τον εξάψαλμο.]{lang="el"} 
 gesungen“ heißt: Ich habe ihm eine lange Strafpredigt gehalten. Das Deutsche nimmt dafür
 ebenfalls ein Bild aus der Kirche: „jemandem die Leviten lesen“, nach der gängigen Erklärung von
 den Vorschriften aus dem Buch Levitikus, die Geistlichen vorgelesen wurden. Aus derselben Welt
-kommen [Μετά Χριστόν προφήτης]{lang="el"} und die Kutte, die keinen Priester macht; zu ihr gibt
-es ein mittelalterlich-lateinisches Gegenstück, [*cucullus non facit monachum*]{lang="la"}.
+kommen [Μετά Χριστόν προφήτης]{lang="el"} und die Kutte, die keinen Priester macht.
 
 **Die Osmanen.** Jahrhunderte osmanischer Herrschaft haben dem Griechischen viele türkische
 Wörter hinterlassen, besonders in der Umgangssprache. Drei stecken in sehr häufigen Wendungen:
@@ -689,13 +682,11 @@ Vor dem Hören:
 
 Lies zuerst die Fragen, dann hör die Szene mit ▶ höchstens zweimal, ohne den Text aufzuklappen.
 
-1. Was hat Eleni getan? a) bei der Bank gekündigt b) ihr Studium abgebrochen c) den Laden des Vaters übernommen
-2. Mit welchem Sprichwort tröstet die Mutter? a) [Όποιος βιάζεται, σκοντάφτει.]{lang="el"} b) [Κάθε εμπόδιο για καλό.]{lang="el"} c) [Κάθε πράγμα στον καιρό του.]{lang="el"}
-3. Wusste die Mutter davon? a) ja b) nein c) sie ahnte es
-4. Womit kontert die Mutter das halbe Sprichwort des Vaters? a) Sein Vater sagte dasselbe, als er 1988 seinen Laden aufmachte. b) Sie selbst hat 1988 gekündigt. c) Der Großvater war auch Bäcker.
-5. Wie reagiert der Vater auf den Esel-Satz, und was verrät das? a) Er lacht: Er gibt sich geschlagen. b) Er fragt [Τι είπες;]{lang="el"}: Die Spitze ist angekommen. c) Er antwortet mit einem eigenen Sprichwort: Er will das letzte Wort.
-6. Woher kommt das Brot, das der Vater seit drei Monaten lobt? a) vom Bäcker an der Ecke b) aus der eigenen Küche c) von Frau Rini
-7. Was verlangt der Vater am Ende? a) dass sie zur Bank zurückgeht b) einen Anteil am Gewinn c) die Sonntagskringel umsonst
+1. Mit welchem Sprichwort tröstet die Mutter? a) [Όποιος βιάζεται, σκοντάφτει.]{lang="el"} b) [Κάθε εμπόδιο για καλό.]{lang="el"} c) [Κάθε πράγμα στον καιρό του.]{lang="el"}
+2. Womit kontert die Mutter das halbe Sprichwort des Vaters? a) Sein Vater sagte dasselbe, als er 1988 seinen Laden aufmachte. b) Sie selbst hat 1988 gekündigt. c) Der Großvater war auch Bäcker.
+3. Wie reagiert der Vater auf den Esel-Satz, und was verrät das? a) Er lacht: Er gibt sich geschlagen. b) Er fragt [Τι είπες;]{lang="el"}: Die Spitze ist angekommen. c) Er antwortet mit einem eigenen Sprichwort: Er will das letzte Wort.
+4. Woher kommt das Brot, das der Vater seit drei Monaten lobt? a) vom Bäcker an der Ecke b) aus der eigenen Küche c) von Frau Rini
+5. Was verlangt der Vater am Ende? a) dass sie zur Bank zurückgeht b) einen Anteil am Gewinn c) die Sonntagskringel umsonst
 
 Im Chat: „1a, 2c, …“.
 :::
@@ -710,27 +701,24 @@ Halte beim zweiten Hören nach Namen, Zahlen und Anreden Ausschau: [Θανάση
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Frage 5 entscheidet sich in der Zeile direkt nach dem Esel, Fragen 6 und 7 in den letzten drei
+Frage 3 entscheidet sich in der Zeile direkt nach dem Esel, Fragen 4 und 5 in den letzten drei
 Zeilen: [δικό μας]{lang="el"} und [τζάμπα]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**1a, 2b, 3a, 4a, 5b, 6b, 7c.**
+**1b, 2a, 3b, 4b, 5c.**
 
-1. [Παραιτήθηκα από την τράπεζα.]{lang="el"}
-2. [Κάθε εμπόδιο για καλό.]{lang="el"}, das Sprichwort aus der Liste zum Selbstsagen.
-3. [Το ήξερα.]{lang="el"} Der Vater wirft ihr vor, sie habe [τα στραβά μάτια]{lang="el"}
-   gemacht, sich also blind gestellt.
-4. Der Vater beginnt [Όποιος ανακατεύεται με τα πίτουρα…]{lang="el"}, die Mutter ergänzt
+1. [Κάθε εμπόδιο για καλό.]{lang="el"}, das Sprichwort aus der Liste zum Selbstsagen.
+2. Der Vater beginnt [Όποιος ανακατεύεται με τα πίτουρα…]{lang="el"}, die Mutter ergänzt
    [τον τρώνε οι κότες]{lang="el"} und erinnert an [το μαγαζί το ’88]{lang="el"}.
-5. [Τι είπες;]{lang="el"} ist keine echte Frage: Er hat verstanden, dass er der Esel ist. Die
+3. [Τι είπες;]{lang="el"} ist keine echte Frage: Er hat verstanden, dass er der Esel ist. Die
    Tochter rudert mit [Τίποτα, μπαμπά]{lang="el"} zurück. So wirkt eine Spitze, darum gehört
    der Satz zu den gemiedenen.
-6. [Από τον δικό μας φούρνο … Της κουζίνας.]{lang="el"} Eleni hat es zu Hause gebacken. Der
+4. [Από τον δικό μας φούρνο … Της κουζίνας.]{lang="el"} Eleni hat es zu Hause gebacken. Der
    Bäcker an der Ecke (a) ist die falsche Vermutung des Vaters.
-7. [τα κουλούρια της Κυριακής θα μου τα φέρνεις τζάμπα]{lang="el"}, nach einem gnädigen
+5. [τα κουλούρια της Κυριακής θα μου τα φέρνεις τζάμπα]{lang="el"}, nach einem gnädigen
    [Χαλάλι σου]{lang="el"}. Das Echo-Pronomen [τα]{lang="el"} greift die vorangestellten
    Kringel auf.
 :::
@@ -841,9 +829,7 @@ auf das Stichwort, unter dem die Wendung erklärt ist. Das Portal hat auch die O
 Eine feste Lösung gibt es nicht. Zur Einordnung:
 
 - **Zahl der Striche:** kein Sollwert. Interessant ist, ob sie beim nächsten Film sinkt.
-- **Einordnen:** Lässt sich das Verb in eine andere Person oder Zeit setzen, ist es eine
-  Redewendung; ein unveränderlicher ganzer Satz mit Lebensweisheit ist ein Sprichwort; eine
-  fertige Reaktion ohne Bild eine Formel. Grenzfälle sind normal.
+- **Einordnen:** mit der Verb-Probe aus Übung 30.1. Grenzfälle sind normal.
 - **Häufige Kandidaten** aus diesem Kapitel: [Άσ’ τα, Σιγά τα λάχανα, τα ’κανες θάλασσα, τα
   πήρε, Σ’ το ’πα]{lang="el"}.
 :::
@@ -861,8 +847,7 @@ Eine feste Lösung gibt es nicht. Zur Einordnung:
 - **Drei Sorten:** Formeln ([Σ’ το ’πα]{lang="el"}) als Ganzes; **Redewendungen** mit Bild, Verb
   beugt sich in Person, Zeit und Aspekt ([κάνει / έκανε τα στραβά μάτια]{lang="el"}), Nomen und
   Artikel meist fest; **Sprichwörter** als unveränderliche Sätze, oft mit [όποιος]{lang="el"}
-  und Echo-Pronomen, im Präsens oder ohne Verb, mit alten Formen ([Μετά Χριστόν]{lang="el"}).
-  Grenzfälle sind normal.
+  und Echo-Pronomen, im Präsens oder ohne Verb, mit alten Formen. Grenzfälle sind normal.
 - **Das kleine [τα]{lang="el"}** zeigt auf nichts Bestimmtes und gehört fest dazu: [τα κάνω
   θάλασσα, τα βρίσκω, τα παίρνω, τα μαζεύω]{lang="el"}.
 - **Verstehen:** Was ist am Bild übertrieben, unmöglich oder wertlos? Genau das ist gemeint.
@@ -889,8 +874,7 @@ Eine Kolumne, wie sie in einer Wochenendbeilage stehen könnte.
 «Φάγαμε μαζί ψωμί κι αλάτι», λέμε για έναν φίλο που ξέρουμε χρόνια. Κάτι παρόμοιο γράφει ήδη ο
 Αριστοτέλης: δύο άνθρωποι δε γνωρίζονται πραγματικά πριν φάνε μαζί «το αλάτι που λένε», δηλαδή
 πολλά γεύματα. Και το γράφει ως παροιμία· άρα κάτι τέτοιο λεγόταν ήδη τότε. Ο Κικέρωνας το
-ξαναλέει στα λατινικά. Αν η δική μας φράση έρχεται κατευθείαν από εκεί, δεν το ξέρουμε· ψωμί κι
-αλάτι μοιράζονται και οι Τούρκοι και οι Σλάβοι.
+ξαναλέει στα λατινικά.
 
 Ακόμα πιο διάσημη είναι μια φράση από τη Σπάρτη. Ο Πλούταρχος διηγείται ότι μια Σπαρτιάτισσα
 έδωσε στον γιο της την ασπίδα πριν από τη μάχη και του είπε: «Ή ταν ή επί τας», δηλαδή «ή με
@@ -917,8 +901,6 @@ Eine Kolumne, wie sie in einer Wochenendbeilage stehen könnte.
 | [η περίσταση]{lang="el"} | die Gelegenheit, der Anlass |
 | [το γεύμα, τα γεύματα]{lang="el"} | die Mahlzeit |
 | [ο Κικέρωνας]{lang="el"} | Cicero |
-| [κατευθείαν]{lang="el"} | direkt |
-| [μοιράζομαι]{lang="el"} | teilen, gemeinsam haben |
 | [διηγούμαι]{lang="el"} | erzählen |
 | [η Σπαρτιάτισσα]{lang="el"} | die Spartanerin |
 | [η ασπίδα]{lang="el"} | der Schild |
@@ -946,9 +928,7 @@ Manche sind viel älter, als wir denken.
 „Wir haben zusammen Brot und Salz gegessen“, sagen wir über einen Freund, den wir seit Jahren
 kennen. Etwas Ähnliches schreibt schon Aristoteles: Zwei Menschen kennen sich erst wirklich, wenn
 sie „das sprichwörtliche Salz“ zusammen gegessen haben, also viele Mahlzeiten. Und er schreibt es
-als Sprichwort; so etwas sagte man also schon damals. Cicero wiederholt es auf Latein. Ob unsere
-Wendung direkt von dort kommt, wissen wir nicht; Brot und Salz teilen auch die Türken und die
-Slawen.
+als Sprichwort; so etwas sagte man also schon damals. Cicero wiederholt es auf Latein.
 
 Noch berühmter ist ein Satz aus Sparta. Plutarch erzählt, eine Spartanerin habe ihrem Sohn vor
 der Schlacht den Schild gereicht und gesagt: „Mit ihm oder auf ihm.“ Komm als Sieger zurück oder
@@ -971,13 +951,12 @@ wir die alle glauben würden.
 ## Vorsicht
 
 - **Salz:** Aristoteles, *Nikomachische Ethik*, Buch 8 (1156b), zitiert das Sprichwort; Cicero,
-  *Laelius* 67, sagt, man müsse „viele Scheffel Salz“ zusammen gegessen haben. Ein antiker
-  Vorläufer ist damit gesichert, die direkte Abstammung der heutigen Wendung nicht: Brot und Salz
-  als Zeichen der Verbundenheit kennen auch das Türkische ([*tuz ekmek hakkı*]{lang="tr"}) und
-  die slawischen Sprachen.
+  *Laelius* 67, spricht von „vielen Scheffeln Salz“. Ein antiker Vorläufer ist damit gesichert,
+  die direkte Abstammung der heutigen Wendung nicht: Brot und Salz als Zeichen der Verbundenheit
+  kennen auch das Türkische ([*tuz ekmek hakkı*]{lang="tr"}) und die slawischen Sprachen.
 - **Schild:** Plutarch überliefert den Satz in seiner Sammlung von Aussprüchen spartanischer
   Frauen, Jahrhunderte nach der Blütezeit Spartas. Ob ihn je eine Mutter so gesagt hat, weiß
-  niemand; er zeigt, wie man sich Sparta später vorstellte.
+  niemand.
 - **Galeere:** Dass [κατεργάρης]{lang="el"} von [κάτεργο]{lang="el"} kommt, steht in den
   Wörterbüchern. Das Bild der Ruderbank für die Wendung ist die übliche, naheliegende Erklärung,
   aber keine Quelle belegt, wie genau sie entstand.
@@ -1033,9 +1012,8 @@ Vorsicht-Kasten unter der Kolumne.
 
 **Teil B:**
 
-- **a)** **Antike**, halb und halb: Ein Vorläufer ist gesichert (Aristoteles zitiert ein
-  Sprichwort, Cicero greift es auf), die direkte Abstammung nicht, denn Brot und Salz teilen
-  auch Türkisch und Slawisch.
+- **a)** **Antike**, halb und halb: Ein Vorläufer ist gesichert (Aristoteles, Cicero), die
+  direkte Abstammung nicht; Brot und Salz kennen auch Türkisch und Slawisch.
 - **b)** **Kirche**, gesichert: der Hexapsalm aus dem Morgengottesdienst.
 - **c)** **Seefahrt**, halb und halb: Dass [κατεργάρης]{lang="el"} von [κάτεργο]{lang="el"}
   kommt, steht in den Wörterbüchern. Dass die Wendung von der Rückkehr auf die Ruderbank stammt,
