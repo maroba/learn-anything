@@ -6,6 +6,6 @@
 
 | Kapitel | Status | Notizen |
 |---|---|---|
-| 02 Der zweite Stamm: der Aorist | veröffentlicht (Stilrunde) | Probekapitel; Reviews abgeschlossen |
+| 02 Der zweite Stamm: der Aorist | veröffentlicht | Probekapitel; Reviews abgeschlossen |
 
 ## Offene TODOs

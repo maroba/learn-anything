@@ -1,6 +1,7 @@
 # Stilvereinbarung
 
-**Vorläufig, wird mit dem Probekapitel abgestimmt.**
+**Abgestimmt am 2026-09-28 anhand des Probekapitels.** Kapitel 2 („Der zweite Stamm: der Aorist“) ist
+die verbindliche Stilreferenz für alle weiteren Kapitel.
 
 ## Tonfall und Anrede
 
@@ -56,3 +57,17 @@
 ## Vereinbarungen im Verlauf
 <!-- Datum – Vereinbarung – Anlass -->
 - 2026-09-28 – erste Fassung aus dem Interview
+- 2026-09-28 – Stil bestätigt: Kapitel 2 ist die Referenz für Ton, Aufbau, Tiefe und Übungen –
+  Probekapitel-Runde
+- 2026-09-28 – Umfang pro Kapitel etwa wie Kapitel 2: rund 5 000–5 500 Wörter Lesetext, dazu
+  Tabellen und eingeklappte Übersetzungen; sechs bis acht Übungen mit je zwei gestuften Hinweisen –
+  Probekapitel-Runde
+- 2026-09-28 – Kernwortschatz (`.vocab`) höchstens etwa 55 Einträge pro Kapitel, Rest als
+  eingeklappter „Wortschatz zum Text“ – Didaktik-Review des Probekapitels
+- 2026-09-28 – Deutsche Ausspracheannäherung bei der Einführung eines neuen oder schwierigen Lauts,
+  nicht in jeder Tabellenzeile – Didaktik-Review des Probekapitels
+- 2026-09-28 – Hörspur: erst ehrlich sagen, was es an Ton gibt (▶-Aufnahmen im Buch, externe Quellen);
+  jeder Hör-Auftrag konkret und überprüfbar, nur verifizierte Links – Didaktik-Review
+- 2026-09-28 – Regeln nie absoluter formulieren als sie sind (z.B. „bei den regelmäßigen Verben“);
+  Ausnahmen, die später kommen, kurz ankündigen – Fachreview des Probekapitels
+
