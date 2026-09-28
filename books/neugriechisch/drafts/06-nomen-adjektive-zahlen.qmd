@@ -153,7 +153,6 @@ Griechisch.
 | [κυρία μου]{lang="el"} | meine Dame (Anrede, Kapitel 7) |
 | [η ζάχαρη]{lang="el"} | der Zucker; auf dem Markt: zuckersüß |
 | [Κοίτα χρώμα!]{lang="el"} | Schau dir die Farbe an! (umg.) |
-| [Δοκίμασε!]{lang="el"} | Probier! |
 | [Βάλε μου …, Δώσε μου …]{lang="el"} | Gib mir … |
 | [γυαλιστερός, -ή, -ό]{lang="el"} | glänzend |
 | [Ορίστε.]{lang="el"} | Bitte sehr. (beim Überreichen) |
@@ -485,9 +484,8 @@ Subjekt (auch nach [είναι]{lang="el"}) oder Objekt?
 
 1. [φρέσκες]{lang="el"}: weiblich Plural, ohne [ι]{lang="el"}.
 2. [γλυκιά]{lang="el"}: \*[γλυκή]{lang="el"} ist der naheliegende Fehler.
-3. [καλοί]{lang="el"}: [μανάβηδες]{lang="el"} endet wie ein Femininum, ist aber männlich. Auch nach
-   [είναι]{lang="el"} passt sich das Adjektiv an; \*[καλές]{lang="el"} und das endungslose
-   deutsche „sind gut“ sind die typischen Fehler.
+3. [καλοί]{lang="el"}: [μανάβηδες]{lang="el"} endet wie ein Femininum, ist aber männlich; und auch
+   nach [είναι]{lang="el"} passt sich das Adjektiv an.
 4. [κρητικούς]{lang="el"}: männlich, Akkusativ Plural, weil Objekt.
 5. [μεγάλο]{lang="el"}: [πρόβλημα]{lang="el"} ist sächlich. Zu \*[μεγάλη]{lang="el"} verführen
    die Endung und [*el problema*]{lang="es"}.
@@ -564,16 +562,15 @@ folgt, heißt es [στον πάγκο]{lang="el"}, nie \*[στο πάγκο]{lan
 
 ### Wo, wohin, wann {#sec-markt-se-bedeutung}
 
-Französisch hat mit *au, à la, aux* fast dasselbe System und ebenfalls ein Wort für „wo“ und
-„wohin“:
+Wie französisch *au, à la, aux* steht [σε]{lang="el"} für „wo“ und „wohin“:
 
 - [Είμαι στη λαϊκή.]{lang="el"} – *Je suis au marché.* – Ich bin auf dem Markt.
 - [Πάω στη λαϊκή.]{lang="el"} – *Je vais au marché.* – Ich gehe auf den Markt.
 - [στις οχτώ]{lang="el"} – *à huit heures* – um acht (weiblich Plural: [η ώρα]{lang="el"} ist
   mitgedacht)
 
-Deutsch unterscheidet mit Dativ und Akkusativ, Spanisch mit *en* und *a*; das Griechische
-überlässt es dem Verb. **Bei Personen** heißt [σε]{lang="el"} „bei, zu“ wie *chez*:
+Deutsch unterscheidet mit dem Fall, Spanisch mit *en* und *a*, Griechisch mit dem Verb.
+**Bei Personen** heißt [σε]{lang="el"} „bei, zu“ wie *chez*:
 [στον κυρ Στέλιο]{lang="el"}. **Ohne bestimmten Artikel** bleibt [σε]{lang="el"} stehen, im
 Gespräch oft verkürzt: [σε έναν πάγκο]{lang="el"}, gesprochen [ˈsenan ˈpago].
 
@@ -603,8 +600,7 @@ Nach „neben, in, auf“ denkt man an den deutschen Dativ und greift zum nackte
 ::: {.callout-note .exercise}
 ## Übung 6.3: Die zweite Sprachnachricht
 
-Noch eine Wegbeschreibung, zu einem anderen Markt. Was gehört in die
-Lücken? Nicht jede Auswahl wird gebraucht. Im Chat reicht „1b, 2c …“.
+Noch eine Wegbeschreibung, zu einem anderen Markt. Was gehört in die Lücken? Nicht jede Auswahl wird gebraucht. Im Chat reicht „1b, 2c …“.
 
 **(a)** [στον]{lang="el"} · **(b)** [στη]{lang="el"} · **(c)** [στην]{lang="el"} ·
 **(d)** [στο]{lang="el"} · **(e)** [στους]{lang="el"} · **(f)** [στις]{lang="el"} ·
@@ -646,7 +642,8 @@ Ortsadverb nimmt [σε]{lang="el"}: [πίσω]{lang="el"} und [μακριά]{lan
 - (5) [στην κυρία]{lang="el"}: [σε]{lang="el"} bei Personen; vor [κ]{lang="el"} bleibt das
   [ν]{lang="el"}.
 - (6) [απέναντι από τον ψαρά]{lang="el"} oder [απέναντι στον ψαρά]{lang="el"}.
-- (7) [στο τέλος]{lang="el"}: sächlich wie [το λάθος]{lang="el"}. (8) [στους παραγωγούς]{lang="el"}.
+- (7) [στο τέλος]{lang="el"}: sächlich wie [το λάθος]{lang="el"}; (8) [στους
+  παραγωγούς]{lang="el"}.
 - (9), (10) [στις]{lang="el"}: Uhrzeiten sind weiblich Plural.
 
 [στα]{lang="el"} bleibt übrig: [στα Μέγαρα]{lang="el"}, denn [τα Μέγαρα]{lang="el"} ist ein
@@ -748,8 +745,8 @@ sächliche, und genau die braucht der Euro. Umgekehrt ist \*[στις τρία]{
 | 8 / 80 | [οκτώ, οχτώ]{lang="el"} | [ογδόντα]{lang="el"} |
 | 9 / 90 | [εννέα, εννιά]{lang="el"} | [ενενήντα]{lang="el"} |
 
-Dazu [έντεκα, δώδεκα]{lang="el"}, dann [δεκατρία, δεκατέσσερα]{lang="el"} … Die Doppelformen bei
-7, 8, 9 sind beide richtig, die zweite ist umgangssprachlicher. [εκατό]{lang="el"} (100) wird vor
+Dazu [έντεκα, δώδεκα]{lang="el"}, dann [δεκατρία, δεκατέσσερα]{lang="el"} … Bei 7, 8, 9 sind
+beide Formen richtig. [εκατό]{lang="el"} (100) wird vor
 weiteren Zahlen zu [εκατόν]{lang="el"}. Ab zweihundert passen sich die Hunderter an wie ein
 Adjektiv: [διακόσιοι άνθρωποι, διακόσιες σελίδες, διακόσια γραμμάρια]{lang="el"}. Auch
 „dreieinhalb“ und „viereinhalb“ haben Genus: [τριάμισι, τεσσεράμισι κιλά]{lang="el"}, aber
@@ -770,8 +767,7 @@ Formen nach Genus: [ενάμισης μήνας, μιάμιση ώρα, ενάμ
 [ˈmɲamisi].
 
 **Mengen** stehen ohne „von“, wie im Deutschen und anders als mit spanischem oder französischem
-*de*: [ένα κιλό ντομάτες, μισό κιλό φέτα]{lang="el"}. Zählbares steht im Plural, Unzählbares im
-Singular. Ist das Ganze Objekt, steht auch das Nomen im Akkusativ: [Θέλω ένα ματσάκι
+*de*: [ένα κιλό ντομάτες, μισό κιλό φέτα]{lang="el"}. Ist das Ganze Objekt, steht auch das Nomen im Akkusativ: [Θέλω ένα ματσάκι
 άνηθο]{lang="el"}, von [ο άνηθος]{lang="el"}.
 
 **Der Preis pro Einheit** steht mit bestimmtem Artikel, wie französisch *deux euros le kilo*:
@@ -911,9 +907,8 @@ Meine Großmutter hat ein Sprichwort dafür: „Alles zu seiner Zeit, und die Ma
 :::
 
 Die Hälfte der Glosse verstehst du ohne Wörterbuch: [το πρόβλημα, το θέμα, η κρίση, το
-σύστημα, το κλίμα, η ανάλυση, η μέθοδος]{lang="el"}. Diese Wörter sind aus dem Griechischen in
-alle europäischen Sprachen gewandert und kommen als **Internationalismen** zurück. Die Frage ist
-nur: Welches Genus? (Die zwei Akzente in [η ανάλυσή μου]{lang="el"} kennst du von [το μήνυμά
+σύστημα, το κλίμα, η ανάλυση, η μέθοδος]{lang="el"}. Diese **Internationalismen** sind aus dem
+Griechischen in alle europäischen Sprachen gewandert. Offen ist nur das Genus. (Die zwei Akzente in [η ανάλυσή μου]{lang="el"} kennst du von [το μήνυμά
 μου]{lang="el"} aus Kapitel 2.)
 
 **[-μα]{lang="el"} ist sächlich**, Plural [-ματα]{lang="el"}: [το πρόβλημα, το θέμα, το
@@ -1020,11 +1015,10 @@ sind sächlich. In einem Wort steckt [οδός]{lang="el"}.
 | [το άρωμα, τα αρώματα]{lang="el"} | das Aroma | [el aroma]{lang="es"} |
 | [η σύνθεση, οι συνθέσεις]{lang="el"} | die Synthese | [la síntesis]{lang="es"} |
 
-Das Deutsche trifft alle acht; das Spanische führt bei [περίοδος]{lang="el"} und
-[διάγνωση]{lang="el"} in die Irre. Die Betonung wandert bei [τα προγράμματα, τα
-αρώματα]{lang="el"}, weil sie sonst auf der viertletzten Silbe läge, und bei [οι διαγνώσεις, οι
-συνθέσεις]{lang="el"} [i sinˈθesis], weil [-εις]{lang="el"} sie auf die vorletzte zieht.
-[οι περίοδοι]{lang="el"} bleibt; erst der Akkusativ heißt [τις περιόδους]{lang="el"}.
+Das Deutsche trifft alle acht, das Spanische nicht. Die Betonung wandert bei [τα προγράμματα, τα
+αρώματα]{lang="el"} (sonst viertletzte Silbe) und bei [οι διαγνώσεις]{lang="el"} und
+[οι συνθέσεις]{lang="el"} [i sinˈθesis] (wegen [-εις]{lang="el"}). [οι περίοδοι]{lang="el"} bleibt; erst der Akkusativ
+heißt [τις περιόδους]{lang="el"}.
 
 **Teil B: 1b, 2a, 3b.**
 
@@ -1052,10 +1046,9 @@ Das Deutsche trifft alle acht; das Spanische führt bei [περίοδος]{lang=
 | Griechisch | Deutsch |
 |---|---|
 | [ο χειμώνας]{lang="el"} | der Winter |
-| [ο ίδιος, η ίδια, το ίδιο]{lang="el"} | derselbe, dieselbe, dasselbe |
+| [το ίδιο]{lang="el"} | dasselbe |
 | [καμία γεύση]{lang="el"} | kein Geschmack |
 | [Φταίει …;]{lang="el"} | Ist … schuld? |
-| [η κρίση, το κλίμα]{lang="el"} | die Krise, das Klima |
 | [ο ήλιος]{lang="el"} | die Sonne |
 | [το θερμοκήπιο]{lang="el"} | das Gewächshaus |
 | [το ράφι]{lang="el"} | das Regal |
@@ -1169,8 +1162,7 @@ Teil B: Lies langsam, Digraph für Digraph.
 ## Hinweis 2
 
 Teil A: Bei [γλυκός]{lang="el"} unterscheiden sich Singular und Plural im Femininum. Teil B:
-Jeder Digraph aus
-@sec-markt-digraphen ist ein einziger Laut, nur [γγ]{lang="el"} sind zwei.
+Jeder Digraph aus @sec-markt-digraphen ist ein einziger Laut, nur [γγ]{lang="el"} sind zwei.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -1229,9 +1221,9 @@ In Schritt 1 stehen in einem Ruf Menge und Preis direkt hintereinander. In Schri
 „drei Euro“ gehört hat, hat Menge und Preis vertauscht); [Όλα ένα ευρώ!]{lang="el"}, alles einen
 Euro. [ζάχαρη]{lang="el"} und [μέλι]{lang="el"} sind Versprechen, keine Preise.
 
-**Schritt 2:** Zwei Treffer von drei, samt Bezugswort, sind beim ersten Durchgang gut. Passt eine
-Form von drei oder vier nicht, liegt es fast immer am Bezugswort, das weiter weg steht oder ganz
-fehlt. Typischer Fehlalarm: der Anfang von [ενάμισι]{lang="el"} als „eins“ gehört.
+**Schritt 2:** Zwei Treffer von drei, samt Bezugswort, sind gut. Passt eine Form von drei oder
+vier nicht, steht das Bezugswort meist weiter weg oder fehlt. Typischer Fehlalarm: der Anfang
+von [ενάμισι]{lang="el"} als „eins“ gehört.
 :::
 
 ::: {.vocab}
@@ -1265,14 +1257,14 @@ fehlt. Typischer Fehlalarm: der Anfang von [ενάμισι]{lang="el"} als „ei
   ([προβλήματα]{lang="el"}), und wenn [-ους, -εις]{lang="el"} sie auf die vorletzte ziehen
   ([τους ανθρώπους, οι αναλύσεις]{lang="el"}).
 - **Adjektive** passen sich an, auch nach [είναι]{lang="el"}, und folgen dem Genus, nicht der
-  Endung. [πολύ]{lang="el"} heißt auch „sehr“.
+  Endung.
 - **[σε]{lang="el"} + Artikel** wird immer zusammengezogen: [στον, στη(ν), στο, στους, στις,
   στα]{lang="el"}, für „wo“, „wohin“ und Uhrzeiten.
 - **Eins, drei, vier** haben Genus. Preise sind sächlich ([τρία ευρώ]{lang="el"}), Uhrzeiten
   weiblich ([στις τρεις]{lang="el"}); Mengen ohne „von“ ([ένα κιλό ντομάτες]{lang="el"}).
 - **Internationalismen:** [-μα]{lang="el"} sächlich, [-ση, -ία]{lang="el"} weiblich,
   [-ισμός]{lang="el"} männlich; das Deutsche rät meist richtig.
-- **Marktrufe:** [Φρέσκα τα φασολάκια!]{lang="el"} ist eine Aussage.
+- **Marktrufe:** [Φρέσκα τα φασολάκια!]{lang="el"} ist ein ganzer Satz.
 
 ## Zum Lesen: die Laiki {#sec-markt-lesetext}
 
@@ -1306,9 +1298,8 @@ ohne nachzuschlagen; dann helfen Wortschatz und Übersetzung.
 Μέχρι το επόμενο Σάββατο.
 :::
 
-Zwei Muster helfen beim Lesen: [τη δική της, τα δικά τους]{lang="el"} heißt „ihre eigene, ihre
-eigenen“; [δικός]{lang="el"} passt sich an wie [καλός]{lang="el"}. [του δήμου]{lang="el"} ist ein
-Genitiv, „der Gemeinde“ (Kapitel 7). Und [η λαϊκή]{lang="el"} selbst ist ein Adjektiv, dessen
+[τη δική της, τα δικά τους]{lang="el"} heißt „ihre eigene, ihre eigenen“; [του δήμου]{lang="el"}
+„der Gemeinde“ ist ein Genitiv (Kapitel 7). Und [η λαϊκή]{lang="el"} selbst ist ein Adjektiv, dessen
 Nomen [αγορά]{lang="el"} weggefallen ist, wie in @sec-markt-adjektive-stellung.
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -1381,47 +1372,4 @@ nächsten Samstag.
   1929 auf dem Thiseio-Platz in Athen statt.
 - **Uhrzeiten:** Auf- und Abbau regeln die Gemeinden; „von sechs bis drei“ ist ein typischer,
   kein amtlicher Rahmen.
-:::
-
-::: {.callout-note .exercise}
-## Übung 6.8: Adjektive jagen
-
-Im zweiten Absatz ([Η λαϊκή δεν είναι καινούρια
-ιδέα …]{lang="el"}) stehen elf Adjektivformen. Finde sie, nenn das Nomen, zu dem sie gehören, und
-bestimm Genus, Zahl und Fall.
-:::
-
-::: {.callout-tip collapse="true" .hint}
-## Hinweis 1
-
-Nicht jedes Adjektiv steht vor seinem Nomen: Manche stehen nach [είναι, ήταν,
-μένουν]{lang="el"}, eins hat gar kein Nomen bei sich.
-:::
-
-::: {.callout-tip collapse="true" .hint}
-## Hinweis 2
-
-[κάθε]{lang="el"} zählt nicht, es ändert sich nie; [λαϊκή]{lang="el"} als Name des Marktes auch nicht.
-[πολλοί]{lang="el"} kommt zweimal vor.
-:::
-
-::: {.callout-tip collapse="true" .solution}
-## Lösung
-
-| Adjektiv | Nomen | Form |
-|---|---|---|
-| [καινούρια]{lang="el"} | [ιδέα]{lang="el"} | weibl., Sg., Nom. |
-| [πρώτες, λαϊκές]{lang="el"} | [αγορές]{lang="el"} | weibl., Pl., Nom. |
-| [απλή]{lang="el"} | [σκέψη]{lang="el"} | weibl., Sg., Nom. |
-| [χαμηλές]{lang="el"} | [τιμές]{lang="el"} | weibl., Pl., Nom. |
-| [δική]{lang="el"} | [λαϊκή]{lang="el"} | weibl., Sg., Akk. |
-| [ίδια]{lang="el"} | [μέρα]{lang="el"} | weibl., Sg., Akk. |
-| [ίδιο]{lang="el"} | [δρόμο]{lang="el"} | männl., Sg., Akk. |
-| [πολλοί]{lang="el"}, zweimal | [πωλητές]{lang="el"}, beim zweiten weggelassen | männl., Pl., Nom. |
-| [δικά]{lang="el"} | [χωράφια]{lang="el"} | sächl., Pl., Akk. |
-
-Leicht übersehen: [απλή]{lang="el"} und [χαμηλές]{lang="el"}, weit hinter ihrem Nomen nach
-[ήταν, μένουν]{lang="el"}. Die Falle ist [πολλοί πωλητές]{lang="el"}: Das Nomen endet auf
-[-ες]{lang="el"}, ist aber männlich ([ο πωλητής]{lang="el"}), also nicht \*[πολλές]{lang="el"}.
-[καινούρια]{lang="el"} hat [-α]{lang="el"} nach Vokal, wie [ωραία]{lang="el"}.
 :::
