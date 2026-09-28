@@ -10,9 +10,9 @@
 | 02 Der zweite Stamm: der Aorist | veröffentlicht | Probekapitel; Reviews abgeschlossen; Audio vollständig |
 | 03 Die unregelmäßigen Aoriste | veröffentlicht | Welle 1; Audio vollständig |
 | 04 Erzählen: Imperfekt und Aspekt | veröffentlicht | Welle 2; Audio vollständig |
-| 05 Der zweite Stamm in der Zukunft: θα und να | Konsistenz | Welle 3; überarbeitet (8 000 Wörter) |
+| 05 Der zweite Stamm in der Zukunft: θα und να | fertig | Welle 3; wartet auf Prüfung der Elisionsbetonung |
 | 06 Auf dem Markt: Nomen, Adjektive, Zahlen | fertig, wartet auf 05 | Welle 2; überarbeitet, erscheint nach Kapitel 5 |
-| 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | Übungen | Welle 3; Entwurf fertig |
+| 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | im Review | Welle 3; Übungen fertig |
 | 11 Zeit: Uhrzeit, Datum, Jahreszahlen | Entwurf | Welle 3 |
 
 ## Plan für /write all (Wellen nach Voraussetzungen)

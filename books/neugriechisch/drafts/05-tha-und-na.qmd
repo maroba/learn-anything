@@ -13,7 +13,7 @@ Aus Kapitel 1 bis 4:
 - Der **perfektive Stamm** der regelmäßigen Verben entsteht mit [σ]{lang="el"}:
   [γράφω → γραψ-]{lang="el"}, [ανοίγω → ανοιξ-]{lang="el"}, [διαβάζω → διαβασ-]{lang="el"},
   [μιλάω → μιλησ-]{lang="el"}. Die unregelmäßigen ([είδα, είπα, ήρθα, πήγα]{lang="el"} …) stehen
-  in der Tabelle am Ende von Kapitel 3.
+  in der Übersichtstabelle von Kapitel 3 („Das Wichtigste“).
 - **Präsensendungen:** [μένω, μένεις, μένει, μένουμε, μένετε, μένουν]{lang="el"} und
   [μπορώ, μπορείς, μπορεί, μπορούμε, μπορείτε, μπορούν]{lang="el"}.
 - **Verneinung:** [δεν]{lang="el"} bei Aussagen, [μη(ν)]{lang="el"} bei Verboten und nach
@@ -104,7 +104,7 @@ Augment und die Endungen des Präsens: [φύγ-ει, αργήσ-ουμε]{lang="
 zweiten kleinen Wort des Kapitels, **[να]{lang="el"}** [na]: [Θέλω να δω την Ακρόπολη]{lang="el"}
 „Ich will die Akropolis sehen“, [να του πω]{lang="el"} „um ihm zu sagen“.
 
-Zur Aussprache: [μποφόρ]{lang="el"} [boˈfor] ist das französische *Beaufort* in griechischer
+Zur Aussprache: [μποφόρ]{lang="el"} [boˈfor] ist die Windskala *Beaufort* (nach einem britischen Admiral) in griechischer
 Schrift, und [μπ]{lang="el"} ist ein [b], wie in [μπορώ]{lang="el"} [boˈro] „ich kann“, das
 gleich eine Hauptrolle bekommt. Das [Αιγαίο]{lang="el"} [eˈʝeo] hat zweimal [αι]{lang="el"}, beide
 Male ein [e]; das [γ]{lang="el"} dazwischen klingt vor [e] wie *j* in *ja*.
@@ -133,7 +133,7 @@ Male ein [e]; das [γ]{lang="el"} dazwischen klingt vor [e] wie *j* in *ja*.
 | [το Αιγαίο]{lang="el"} | die Ägäis |
 | [κλείνω δωμάτιο, θέση]{lang="el"} | ein Zimmer, einen Platz buchen ([κλείνω]{lang="el"} Kapitel 2) |
 | [ο υπάλληλος]{lang="el"} | der Angestellte; hier: der Mann am Schalter |
-| [η Μήλος]{lang="el"} | Milos (feminin wie fast alle Inselnamen auf [-ος]{lang="el"}) |
+| [η Μήλος]{lang="el"} | Milos (weiblich wie fast alle Inselnamen auf [-ος]{lang="el"}) |
 | [ο κύριος]{lang="el"} | der Herr; [τον κύριο Σταύρο]{lang="el"} Herrn Stavros |
 | [του]{lang="el"} | ihm (vor dem Verb; Kapitel 8) |
 | [θα κάτσουμε]{lang="el"} | wir werden (herum)sitzen (von [κάθομαι]{lang="el"}, Kapitel 10) |
@@ -150,7 +150,7 @@ Male ein [e]; das [γ]{lang="el"} dazwischen klingt vor [e] wie *j* in *ja*.
 Kapitel 2 hat versprochen: einmal lernen, dreimal benutzen. Hier ist die Einlösung. Der
 perfektive Stamm, den du vom Aorist kennst, arbeitet an drei Stellen:
 
-| | Aorist | Futur | να-Form |
+| | Aorist | Futur | [να]{lang="el"}-Form |
 |---|---|---|---|
 | abfahren | [έφυγα]{lang="el"} | [θα φύγω]{lang="el"} | [να φύγω]{lang="el"} |
 | schreiben | [έγραψα]{lang="el"} | [θα γράψω]{lang="el"} | [να γράψω]{lang="el"} |
@@ -169,7 +169,7 @@ und 17.)
 
 Das Futur ([ο μέλλοντας]{lang="el"}) heißt in diesem Buch schlicht **Futur mit [θα]{lang="el"}**,
 und es gibt es in beiden Aspekten. Die Form nach [να]{lang="el"} heißt in Grammatiken
-**Konjunktiv** ([η υποτακτική]{lang="el"}), in diesem Buch meist **να-Form**, denn mit dem
+**Konjunktiv** ([η υποτακτική]{lang="el"}), in diesem Buch meist **[να]{lang="el"}-Form**, denn mit dem
 deutschen Konjunktiv („ich käme“) hat sie nichts zu tun. Näher liegt der spanische *subjuntivo*
 nach [*quiero que*]{lang="es"}: eine Form für Gewolltes, Mögliches und Nötiges, nicht für das,
 was passiert.
@@ -206,9 +206,9 @@ Die perfektive Form nach [θα]{lang="el"} und [να]{lang="el"}:
    die Endung.
 :::
 
-### Vom Aorist zur θα-Form in drei Handgriffen {#sec-thana-handgriffe}
+### Vom Aorist zur [θα]{lang="el"}-Form in drei Handgriffen {#sec-thana-handgriffe}
 
-Wer den Aorist eines Verbs kennt, kommt so zur θα-Form: Augment weg, Betonung auf die letzte
+Wer den Aorist eines Verbs kennt, kommt so zur [θα]{lang="el"}-Form: Augment weg, Betonung auf die letzte
 Stammsilbe, Endung [-ω]{lang="el"}.
 
 | Aorist | was passiert | Futur |
@@ -228,9 +228,9 @@ Betonung des Präsens.
 :::
 
 ::: {.callout-note .exercise}
-## Übung 5.1: Vom Aorist zur θα-Form
+## Übung 5.1: Vom Aorist zur [θα]{lang="el"}-Form
 
-**Teil A.** Sag die θα-Form in der angegebenen Person laut: [διάβασα]{lang="el"} → wir,
+**Teil A.** Sag die [θα]{lang="el"}-Form in der angegebenen Person laut: [διάβασα]{lang="el"} → wir,
 [άνοιξα]{lang="el"} → du, [τηλεφώνησα]{lang="el"} → ich, [έκλεισα]{lang="el"} → sie (Plural),
 [ξέχασα]{lang="el"} → ihr, [αγόρασα]{lang="el"} → er, [ταξίδεψα]{lang="el"} → wir,
 [πλήρωσα]{lang="el"} → du.
@@ -365,7 +365,7 @@ Kavafis’ [Σα βγεις]{lang="el"} heißt „wenn du aufbrichst“.
 ::: {.callout-note .exercise}
 ## Übung 5.2: Stamm ohne Anfang
 
-**Teil A.** Sag die θα-Form laut: [είδα]{lang="el"} → wir, [είπα]{lang="el"} → du,
+**Teil A.** Sag die [θα]{lang="el"}-Form laut: [είδα]{lang="el"} → wir, [είπα]{lang="el"} → du,
 [ήπια]{lang="el"} → ich, [βγήκα]{lang="el"} → ihr, [μπήκα]{lang="el"} → sie (Plural),
 [έφαγα]{lang="el"} → wir, [ήρθα]{lang="el"} → du, [πήρα]{lang="el"} → ich,
 [ανέβηκα]{lang="el"} → wir.
@@ -471,7 +471,7 @@ Faustregel nicht, denn Erzählungen brauchen den Film für jeden Hintergrund. Di
 Kapitel 4 funktioniert dagegen auch hier: Passt „gerade“ oder „immer“ hinein, ist es Film.
 
 Englisch bestätigt das, denn es hat, anders als Französisch, eine Verlaufsform auch in der
-Zukunft: *I'll write to you* ist [θα σου γράψω]{lang="el"}, *I'll be writing to you every day*
+Zukunft: [*I'll write to you*]{lang="en"} ist [θα σου γράψω]{lang="el"}, [*I'll be writing to you every day*]{lang="en"}
 [θα σου γράφω κάθε μέρα]{lang="el"}. Spanisch hat mit [*estaré escribiendo*]{lang="es"} ebenfalls
 eine, nimmt für Gewohnheiten aber das einfache Futur: [*te escribiré todos los días*]{lang="es"}.
 Bei Gewohnheit und Wiederholung stellt sich im Griechischen also eine Frage, die das Spanische
@@ -487,7 +487,7 @@ würdest du morgen den ganzen Tag lang oder immer wieder Fahrkarten kaufen. Geme
 :::
 
 [θα]{lang="el"} ist übrigens aus [θέλει να]{lang="el"} „er will, dass“ geschliffen, so wie
-engl. *will* einmal „wollen“ hieß.
+engl. [*will*]{lang="en"} einmal „wollen“ hieß.
 
 ### Wann, was, wie sicher: Zeitangaben und Verneinung {#sec-thana-zeitangaben}
 
@@ -532,7 +532,7 @@ Im Chat: „1b, 2 …“.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Die englische Probe: Passt *will be -ing* oder *will keep -ing*, ist es Film.
+Die englische Probe: Passt [*will be -ing*]{lang="en"} oder [*will keep -ing*]{lang="en"}, ist es Film.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -554,7 +554,7 @@ Dauer allein macht keinen Film: Eine Woche als Block ist ein Foto. Keine Wahl gi
 4. [θα σε πάρω]{lang="el"}: ein Anruf.
 5. [θα μείνουμε]{lang="el"}: die häufigste Falle. Die Woche ist ein Block;
    [θα μένουμε]{lang="el"} wäre der Rahmen („wir werden … wohnen“).
-6. [θα διαβάζουμε]{lang="el"}: gerade im Gang, *we'll be reading*.
+6. [θα διαβάζουμε]{lang="el"}: gerade im Gang, [*we'll be reading*]{lang="en"}.
 7. [θα σε περιμένω]{lang="el"}: ein einzelnes Warten, also Foto; die Formen sind gleich.
 8. [θα φάμε]{lang="el"}; [θα τρώμε]{lang="el"} hieße „da sind wir gerade beim Essen“.
 9. [θα πάμε]{lang="el"}: eine Reise, Foto; die Formen sind gleich. Film wäre
@@ -670,7 +670,7 @@ Muster, wo die romanischen Sprachen zwei haben.
 
 ### [θέλω, μπορώ, πρέπει, πάω]{lang="el"} {#sec-thana-vier-verben}
 
-Vier Verben tragen den größten Teil der να-Sätze im Alltag.
+Vier Verben tragen den größten Teil der [να]{lang="el"}-Sätze im Alltag.
 
 **[θέλω να]{lang="el"}: wollen.** Das bekannte Verb aus Kapitel 4. Neu ist eine feste Wendung
 für Bitten: **[θα ήθελα]{lang="el"}** „ich hätte gern, ich würde gern“, [θα]{lang="el"} mit dem
@@ -687,14 +687,14 @@ Kapitel 3 ([δεν μπόρεσε να σηκωθεί]{lang="el"}), [μπορο�
 **[πρέπει να]{lang="el"}: müssen.** [πρέπει]{lang="el"} [ˈprepi] ändert sich nie. Es heißt „es ist
 nötig“, und die Person steht nur nach [να]{lang="el"}: [πρέπει να φύγω, πρέπει να φύγεις, πρέπει
 να φύγουμε]{lang="el"}. Das ist französisch [*il faut que je parte*]{lang="fr"}, nur ohne
-*il*. Die Vergangenheit ist ebenfalls unpersönlich: [έπρεπε]{lang="el"}. Verneint heißt es
+[*il*]{lang="fr"}. Die Vergangenheit ist ebenfalls unpersönlich: [έπρεπε]{lang="el"}. Verneint heißt es
 „nicht dürfen“: [Δεν πρέπει να χάσουμε το πλοίο.]{lang="el"} „Wir dürfen das Schiff nicht
 verpassen.“ [Πρέπει να μη χάσουμε …]{lang="el"} geht auch, mit mehr Nachdruck. „Nicht müssen“
 ist etwas anderes: [Δε χρειάζεται να πληρώσετε.]{lang="el"} „Sie müssen nicht bezahlen.“
 
 **[πάω να]{lang="el"}: hingehen, um zu.** [Πάω να αγοράσω εισιτήρια.]{lang="el"} „Ich geh
 Fahrkarten kaufen.“ [Πάμε να φάμε;]{lang="el"} „Gehen wir was essen?“ [πάω]{lang="el"} verbindet
-Bewegung und Zweck, wie englisch *go and buy*.
+Bewegung und Zweck, wie englisch [*go and buy*]{lang="en"}.
 
 Nach demselben Muster gehen viele andere Verben: [προσπαθώ να]{lang="el"} (versuchen zu),
 [ελπίζω να]{lang="el"} (hoffen), [ξεχνάω να]{lang="el"} (vergessen zu), [αρχίζω να]{lang="el"}
@@ -762,7 +762,7 @@ Kaufen ([να αγοράζεις]{lang="el"} klingt nach Dauerauftrag).
 ### Foto und Film nach [να]{lang="el"} {#sec-thana-na-aspekt}
 
 Nach [να]{lang="el"} wählst du den Aspekt nach denselben Regeln wie nach [θα]{lang="el"}. Die
-meisten να-Sätze meinen eine einzelne Handlung und nehmen die perfektive Form. Film ist es, wenn
+meisten [να]{lang="el"}-Sätze meinen eine einzelne Handlung und nehmen die perfektive Form. Film ist es, wenn
 eine Gewohnheit, eine Wiederholung oder ein laufender Vorgang gemeint ist:
 
 - [Θέλω να πιω ένα νερό.]{lang="el"} Ich will ein Glas Wasser trinken (jetzt, eins).
@@ -794,7 +794,7 @@ Kapitel 1: [Ελπίζω να μην έχει απεργία.]{lang="el"} „Hof
 :::
 
 ::: {.callout-note .exercise}
-## Übung 5.5: Welche Form nach να?
+## Übung 5.5: Welche Form nach [να]{lang="el"}?
 
 **Teil A.** Die erste (**a**) oder die zweite Form (**b**)?
 
@@ -854,7 +854,7 @@ Sonnenuntergang (mit [κάθε βράδυ]{lang="el"} wäre es [να βλέπω]
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [να]{lang="el"} | [na] | dass; vor der να-Form (statt Infinitiv); um zu |
+| [να]{lang="el"} | [na] | dass; vor der [να]{lang="el"}-Form (statt Infinitiv); um zu |
 | [θα ήθελα]{lang="el"} | [θa ˈiθela] | ich hätte gern, ich würde gern (höflich) |
 | [μπορώ, μπόρεσα]{lang="el"} | [boˈro], [ˈboresa] | können, dürfen; Imperfekt [μπορούσα]{lang="el"} |
 | [πρέπει]{lang="el"} | [ˈprepi] | man muss, es ist nötig; Vergangenheit [έπρεπε]{lang="el"} |
@@ -880,7 +880,7 @@ Sonnenuntergang (mit [κάθε βράδυ]{lang="el"} wäre es [να βλέπω]
 | [πληρώνω, πλήρωσα]{lang="el"} | bezahlen (Kapitel 4) |
 | [μισή ώρα]{lang="el"} | eine halbe Stunde |
 | [πριν από]{lang="el"} | vor (zeitlich; Kapitel 2) |
-| [σας]{lang="el"} | Ihnen, euch (vor dem Verb) |
+| [σας]{lang="el"} | Ihnen, euch (vor dem Verb; Kapitel 8) |
 | [ανησυχώ]{lang="el"} | sich Sorgen machen; [Μην ανησυχείτε.]{lang="el"} Keine Sorge. (Kapitel 1) |
 | [που λένε]{lang="el"} | von dem man spricht, wörtlich „den sie sagen“ |
 | [η Πέμπτη]{lang="el"} | der Donnerstag (Kapitel 11) |
@@ -959,7 +959,7 @@ Tisch frei.
 — Bis dann. Gute Reise, wie auch immer du kommst.
 :::
 
-Die ΠΝΟ ist der Dachverband der Seeleutegewerkschaften, und wenn sie streikt, melden die
+Die [ΠΝΟ]{lang="el"} ist der Dachverband der Seeleutegewerkschaften, und wenn sie streikt, melden die
 Nachrichten: [Δεμένα τα πλοία]{lang="el"}, „die Schiffe sind festgemacht“.
 
 Zwischen den Formen mit [θα]{lang="el"} und [να]{lang="el"} stehen die Wörter, mit denen Griechen
@@ -1084,7 +1084,7 @@ und ordne sie ein. Dann mit griechischen Untertiteln prüfen.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Vor Vokal verschmilzt [θα]{lang="el"} mit dem Verb: [θa ˈrθo], [θaˈnevo].
+Vor Vokal wird nach [θα]{lang="el"} ein Vokal verschluckt: [θa ˈrθo], [θaˈnevo].
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -1151,11 +1151,11 @@ wiederfindet, ist gut dabei.
 ## Das Wichtigste {#sec-thana-wichtigste}
 
 - Der **perfektive Stamm** hat drei Einsätze: [έγραψα, θα γράψω, να γράψω]{lang="el"}. Die
-  να-Form heißt in Grammatiken **Konjunktiv**.
+  [να]{lang="el"}-Form heißt in Grammatiken **Konjunktiv**.
 - **Bildung:** perfektiver Stamm ohne Augment + Präsensendungen; bei den regelmäßigen Verben
   betont auf der letzten Stammsilbe: [διαβάσω, μιλήσω]{lang="el"}. Die imperfektive Seite sind
   Präsensformen: [θα γράφω, να γράφω]{lang="el"}.
-- **Unregelmäßige:** Der Anfang gehört zur Vergangenheit. Bauform A: Kern mit μπορώ-Endungen
+- **Unregelmäßige:** Der Anfang gehört zur Vergangenheit. Bauform A: Kern mit [μπορώ]{lang="el"}-Endungen
   [δω, πω, βρω, βγω, μπω, πιω]{lang="el"}, Einzelgänger [πάω, έρθω]{lang="el"} (umg.
   [’ρθω]{lang="el"}), [πάρω]{lang="el"}. Bauform B: die drei Handgriffe
   ([φύγω, μάθω, ανέβω, κάνω]{lang="el"}), Ausnahme [φάω]{lang="el"}. Keine perfektive Form haben
@@ -1169,7 +1169,7 @@ wiederfindet, ist gut dabei.
 - **Am Telefon:** [Άκου, Να σου πω, λέω να, Θα δούμε, Θα σε πάρω, Τα λέμε, Να ’σαι
   καλά]{lang="el"}; beim Hören [θα ’ρθω, να ’σαι, θα ’χω]{lang="el"}.
 
-| Präsens | Aorist | Futur, να-Form |
+| Präsens | Aorist | Futur, [να]{lang="el"}-Form |
 |---|---|---|
 | [γράφω]{lang="el"} | [έγραψα]{lang="el"} | [γράψω]{lang="el"} |
 | [διαβάζω]{lang="el"} | [διάβασα]{lang="el"} | [διαβάσω]{lang="el"} |
@@ -1227,8 +1227,8 @@ dann mit Wortschatz, dann mit ▶.
 
 Drei Muster helfen beim Lesen:
 
-- **[Πώς να…]{lang="el"}** „wie man …“: Auch in Fragen und Überschriften ersetzt die να-Form den
-  Infinitiv. Die du-Form ist hier allgemein gemeint, wie englisch *you* für „man“.
+- **[Πώς να…]{lang="el"}** „wie man …“: Auch in Fragen und Überschriften ersetzt die [να]{lang="el"}-Form den
+  Infinitiv. Die du-Form ist hier allgemein gemeint, wie englisch [*you*]{lang="en"} für „man“.
 - **[Πριν κλείσεις]{lang="el"}** „bevor du buchst“: Nach [πριν]{lang="el"} steht meist die
   perfektive Form, mit oder ohne [να]{lang="el"} (Kapitel 16).
 - **[Καλύτερα να…]{lang="el"}** „besser, du …“: ein Rat, höflicher als ein Befehl.
@@ -1355,7 +1355,7 @@ Zwei Stunden Diskussion sind lang, aber als Ganzes erzählt. Teil C: Achte auf
 
 **Teil A: 1F, 2R, 3F, 4F, 5F, 6F, 7R.** 1 [ο ουρανός είναι καθαρός]{lang="el"}; 3 er frischt
 nachmittags auf und lässt nachts nach; 4 [κανείς δεν μπορεί να σου πει από πριν]{lang="el"};
-5 die ΠΝΟ kündigt ihn an; 6 [μην κλείσεις …]{lang="el"}; 7 [να πάρεις πίσω τα λεφτά
+5 die [ΠΝΟ]{lang="el"} kündigt ihn an; 6 [μην κλείσεις …]{lang="el"}; 7 [να πάρεις πίσω τα λεφτά
 σου]{lang="el"}.
 
 **Teil B**
