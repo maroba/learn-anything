@@ -6,6 +6,24 @@
 Kürzel in eckigen Klammern verweisen auf `sources.md`. „(eE)“ = eigene Einschätzung, nicht durch
 eine Quelle belegt. Stand: 2026-09-28 (Vollrecherche).
 
+## Entscheidungen für dieses Buch
+
+Nach der Recherche festgelegt (2026-09-28). Sie haben Vorrang vor den Vorschlägen weiter unten.
+
+- **Kein eigenes Thema zu Slang und Kraftausdrücken.** Neutrale Umgangssprache (Diskursmarker wie
+  [έλα, ρε, λοιπόν]{lang="el"}, Verschleifungen, salopp-freundschaftlicher Ton) bleibt wichtig und
+  zieht sich durchs Buch; Slang, Jugendsprache und Vulgäres werden nicht eigens behandelt
+  (Punkt 8 unter „Gesprochene Umgangssprache“ und Kapitel 32 der Grobstruktur entfallen).
+- **Regionale Varietäten** (Nordgriechisch, Kreta, Zypern) kommen als kurze Exkurse zum
+  Verstehen hinein.
+- **Am Ende ein B2-Selbsttest** im Format der ΚΕΓ-Prüfung.
+- **Externe Hörquellen** (ERTflix, Easy Greek, Podcasts) werden aktiv eingebunden: konkrete
+  Hör-Aufträge mit Links, wo es passt.
+- **Vokabeltabellen werden zu Anki-Karten** verarbeitet; Tabellen deshalb sauber nach
+  `archetype-languages` und dem Abschnitt „Vokabeltabellen“ unten.
+- **Terminologie:** „Aorist“ (erklärt als Vergangenheit im perfektiven Aspekt) und „perfektiver
+  Stamm“, wie unten unter „Terminologie“ empfohlen.
+
 ## Abgrenzung und Varianten
 
 ### Was gelehrt wird
