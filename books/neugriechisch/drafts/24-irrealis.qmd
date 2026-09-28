@@ -508,14 +508,28 @@ Eindeutig wird das Bedauern mit Imperfekt oder Plusquamperfekt nach [να]{lang=
 - [Έπρεπε να είχαμε έρθει το πρωί.]{lang="el"} – Wir hätten am Morgen kommen sollen.
 - [Έπρεπε να μου το είχες πει.]{lang="el"} – Das hättest du mir sagen sollen.
 
-Im Gespräch hörst du auch das Imperfekt anderer Verben, etwa [έπρεπε να μου το
-έλεγες]{lang="el"}. <!-- CHECK: έπρεπε να + Imperfekt bei Verben mit perfektivem Stamm (έπρεπε να μου το έλεγες, έπρεπε να ερχόσουν) – umgangssprachlich üblich oder eher nicht Standard? Ggf. Registerangabe ergänzen. -->
+Genauso geht das Imperfekt jedes anderen Verbs: [Έπρεπε να μου το έλεγες.]{lang="el"} „Das
+hättest du mir sagen sollen.“ Mit einem einzigen Verb nebeneinander:
 
-Das widerspricht nicht der Regel aus Kapitel 22 („Wo steht die Zeit?“): Nach Müssen, Können und
-Wollen steht für Wirkliches die zeitlose [να]{lang="el"}-Form. Das Imperfekt und das
-Plusquamperfekt hier sind dieselben wie in [αν είχα]{lang="el"}: Sie zeigen nicht die Zeit,
-sondern das Unwirkliche. Der Aorist kann das nicht, deshalb bleibt \*[έπρεπε να
-έφυγε]{lang="el"} falsch.
+| [έπρεπε να]{lang="el"} … | Form nach [να]{lang="el"} | Deutsch |
+|---|---|---|
+| [να φύγεις]{lang="el"} | zeitlos, Foto | du musstest gehen / hättest gehen sollen |
+| [να φεύγεις]{lang="el"} | zeitlos, Film | du musstest (jedes Mal) gehen / hättest gehen sollen |
+| [να έφευγες]{lang="el"} | Imperfekt: unwirklich | du hättest gehen sollen |
+| [να είχες φύγει]{lang="el"} | Plusquamperfekt: unwirklich | du hättest (schon) gehen sollen |
+
+Das Erkennungszeichen ist das Augment oder die Vergangenheitsendung ([έ-φευγ-ες]{lang="el"}) oder
+[είχες]{lang="el"}, nicht der Aspekt: [φεύγεις]{lang="el"} ist Film und trotzdem zeitlos.
+
+Das widerspricht nicht der Regel aus Kapitel 22 („Wo steht die Zeit?“): Sagt der Ausdruck vor
+[να]{lang="el"}, was jemand will, kann oder muss, folgt die zeitlose [να]{lang="el"}-Form, solange
+es um Wirkliches geht. Das Imperfekt und das Plusquamperfekt hier sind dieselben wie in [αν
+είχα]{lang="el"}: Sie zeigen nicht die Zeit, sondern das Unwirkliche. Der Aorist kann das nicht,
+deshalb bleibt \*[έπρεπε να έφυγε]{lang="el"} falsch. Das Unwirkliche nach [να]{lang="el"}
+begegnet dir vor allem nach [έπρεπε]{lang="el"} und [μακάρι]{lang="el"}, dazu nach
+[ας]{lang="el"}, das selbst an der Stelle von [να]{lang="el"} steht (beide gleich im Anschluss). Bei
+[μπορώ]{lang="el"} steckt es in [θα μπορούσα]{lang="el"}, danach bleibt die zeitlose Form.
+<!-- CHECK: „vor allem“ statt „nur“, weil Wendungen wie „θα ήθελα να ήμουν …“ und „σαν να ήταν“ vorkommen dürften; ist die Einschränkung so richtig, oder gilt „nur“ in der Standardsprache? -->
 
 Mit [θα]{lang="el"} davor wird der Satz weicher, wie [θα πρέπει να]{lang="el"} in Kapitel 22:
 
@@ -527,16 +541,16 @@ Mit [θα]{lang="el"} davor wird der Satz weicher, wie [θα πρέπει να]{
 
 Ob [θα μπορούσες να μου το πεις]{lang="el"} ein Vorwurf („hättest können“) oder eine Bitte
 („könntest du“) ist, entscheidet der Zusammenhang. Und wer nur bedauern will, ohne jemandem die
-Schuld zu geben: [Κρίμα!]{lang="el"} „Schade!“, [Κρίμα που δεν ήρθες.]{lang="el"} „Schade, dass
-du nicht gekommen bist“, mit dem normalen Aorist nach [που]{lang="el"} wie bei
-[λυπάμαι που]{lang="el"} (Kapitel 16).
+Schuld zu geben, nimmt [κρίμα]{lang="el"} „schade“ aus Kapitel 15: [Κρίμα που δεν
+ήρθες.]{lang="el"} „Schade, dass du nicht gekommen bist“, mit dem normalen Aorist nach
+[που]{lang="el"} wie bei [λυπάμαι που]{lang="el"} (Kapitel 16).
 
 ::: {.callout-important}
 ## Merke
 
 - [έπρεπε να]{lang="el"} + Imperfekt oder Plusquamperfekt = „hätte … sollen“:
-  [Έπρεπε να ήσουν εκεί.]{lang="el"} [Έπρεπε να το είχες πει.]{lang="el"} Mit zeitloser Form
-  doppeldeutig; mit Aorist falsch.
+  [Έπρεπε να ήσουν εκεί.]{lang="el"} [Έπρεπε να μου το έλεγες.]{lang="el"} [Έπρεπε να το είχες
+  πει.]{lang="el"} Mit zeitloser Form (Foto oder Film) doppeldeutig; mit Aorist falsch.
 - [θα έπρεπε να]{lang="el"} „sollte, hätte sollen“, [θα μπορούσα να]{lang="el"} „könnte, hätte
   können“.
 :::
@@ -592,8 +606,8 @@ Teil B: Der Aorist zeigt nach [να]{lang="el"} nichts Unwirkliches; nach [να]
 
 **Teil B**
 
-1. [Έπρεπε να είχες φύγει νωρίτερα.]{lang="el"} Im Gespräch auch [έπρεπε να
-   έφευγες]{lang="el"}. [να φύγεις]{lang="el"} ist grammatisch, aber doppeldeutig. <!-- CHECK: Registerangabe zu έπρεπε να έφευγες an die Klärung im Abschnitt „Bedauern“ angleichen. -->
+1. [Έπρεπε να είχες φύγει νωρίτερα.]{lang="el"} Ebenso richtig: [έπρεπε να
+   έφευγες]{lang="el"}. [να φύγεις]{lang="el"} ist grammatisch, aber doppeldeutig.
 2. Das zweite [θα]{lang="el"} muss weg: [Θα έπρεπε να είχαμε έρθει το πρωί.]{lang="el"}
 3. [Κρίμα που δεν ήρθες.]{lang="el"} Nach [που]{lang="el"} steht keine zeitlose Form.
 :::
@@ -606,7 +620,7 @@ Teil B: Der Aorist zeigt nach [να]{lang="el"} nichts Unwirkliches; nach [να]
 | [θα έπρεπε να]{lang="el"} | [θa ˈeprepe na] | sollte; hätte … sollen |
 | [θα μπορούσα να]{lang="el"} | [θa boˈrusa na] | ich könnte; ich hätte … können |
 | [Θα μπορούσε να είναι και χειρότερα.]{lang="el"} | [θa boˈruse na ˈine ce çiˈrotera] | Es könnte schlimmer sein. |
-| [Κρίμα (που …)!]{lang="el"} | [ˈkrima (pu)] | Schade (, dass …)! |
+| [Κρίμα που …]{lang="el"} | [ˈkrima pu] | Schade, dass … ([κρίμα]{lang="el"}: Kapitel 15) |
 :::
 
 ## [Μακάρι]{lang="el"}: Wünsche {#sec-irrealis-makari}
@@ -617,7 +631,7 @@ Spanische mit [*ojalá*]{lang="es"} ist ein fast perfekter Spiegel:
 | Wunsch | Griechisch | Spanisch |
 |---|---|---|
 | offen | [Μακάρι να έρθει.]{lang="el"} | [*Ojalá venga.*]{lang="es"} |
-| unerfüllbar, jetzt | [Μακάρι να ήξερα τουρκικά.]{lang="el"} | [*Ojalá supiera turco.*]{lang="es"} |
+| (fast) unerfüllbar, jetzt | [Μακάρι να ήξερα τουρκικά.]{lang="el"} | [*Ojalá supiera turco.*]{lang="es"} |
 | unerfüllbar, vorbei | [Μακάρι να είχα φέρει καπέλο.]{lang="el"} | [*Ojalá hubiera traído un sombrero.*]{lang="es"} |
 
 Im Deutschen: „Hoffentlich kommt er“, „Wenn ich doch Türkisch könnte“, „Hätte ich bloß einen Hut
@@ -626,26 +640,34 @@ mitgenommen“.
 - **Offener Wunsch:** [μακάρι να]{lang="el"} + zeitlose Form, Foto oder Film wie sonst nach
   [να]{lang="el"}: [Μακάρι να μη βρέξει αύριο.]{lang="el"} [Μακάρι να είσαι πάντα τόσο
   τυχερός.]{lang="el"}
-- **Unerfüllbar jetzt:** + Imperfekt: [Μακάρι να είχα μια χρονομηχανή.]{lang="el"}
+- **Unerfüllbar jetzt:** + Imperfekt: [Μακάρι να είχα μια χρονομηχανή.]{lang="el"} Das gilt auch
+  für Künftiges, das man für sehr unwahrscheinlich hält: [Μακάρι να ερχόταν αύριο.]{lang="el"}
 - **Unerfüllbar vorbei:** + Plusquamperfekt, im Gespräch auch hier oft Imperfekt: [Μακάρι να
   μην το είχα πει.]{lang="el"} „Hätte ich es bloß nicht gesagt.“
 
 Allein steht [Μακάρι!]{lang="el"} als Antwort: [— Θα βρούμε θέση στο πλοίο; — Μακάρι!]{lang="el"} Je nach
 Ton „Hoffentlich!“ oder „Schön wär’s!“. Und wie bei [Να ’σαι καλά]{lang="el"} (Kapitel 5)
 kann auch ein bloßes [να]{lang="el"} wünschen; [μακάρι]{lang="el"} macht den Wunsch nur
-ausdrücklich.
+ausdrücklich. Alle drei Stufen lohnt es sich, selbst zu bilden; sie kommen im Gespräch ständig vor.
 
-Beide Wörter kommen übrigens aus der Religion: [μακάρι]{lang="el"} aus [μακάριος]{lang="el"}
-„selig“, dem Wort der Seligpreisungen ([Μακάριοι οι …]{lang="el"}), und [*ojalá*]{lang="es"}
-aus dem Arabischen, etwa „wenn Gott will“. Fromm klingt heute keins von beiden.
+Die Herkunft ist fromm: [μακάριος]{lang="el"} hieß schon im Altgriechischen „glücklich“ und wurde
+später zum „selig“ der Seligpreisungen ([Μακάριοι οι …]{lang="el"}); [μακάρι]{lang="el"} geht
+wohl auf eine Wendung wie [μακάριόν εστι]{lang="el"} „es ist gesegnet“ zurück. [*Ojalá*]{lang="es"}
+kommt aus dem Arabischen, etwa „wenn Gott will“. Fromm klingt heute keins von beiden.
+
+Wie bei [έπρεπε να]{lang="el"} entscheidet die Vergangenheitsendung, nicht der Aspekt: [Μακάρι να
+έρχεται.]{lang="el"} „Hoffentlich kommt er“ ist Film und trotzdem offen; [Μακάρι να
+ερχόταν.]{lang="el"} „Wenn er doch käme“.
 
 ::: {.callout-important}
 ## Merke
 
-[μακάρι να]{lang="el"} + zeitlose Form: offener Wunsch. + Imperfekt: unerfüllbar jetzt.
-+ Plusquamperfekt: unerfüllbar vorbei. Verneint mit [μη(ν)]{lang="el"}. Genau wie nach
-[έπρεπε να]{lang="el"}: Nach [να]{lang="el"} zeigen Imperfekt und Plusquamperfekt das
-Unwirkliche.
+[μακάρι να]{lang="el"} + zeitlose Form: offener Wunsch. + Imperfekt: unerfüllbar oder sehr
+unwahrscheinlich. + Plusquamperfekt: unerfüllbar vorbei. Verneint mit [μη(ν)]{lang="el"}.
+
+Nach [μακάρι να]{lang="el"} und [έπρεπε να]{lang="el"}, ebenso nach [ας]{lang="el"}, zeigen
+Imperfekt und Plusquamperfekt das Unwirkliche; nach Vermutungswörtern (Kapitel 22) bleiben sie
+echte Vergangenheit.
 :::
 
 ::: {.vocab}
@@ -656,10 +678,12 @@ Unwirkliche.
 
 ## [Ας]{lang="el"}: lass uns, soll er doch, hätte ich doch {#sec-irrealis-as}
 
-[ας]{lang="el"} ist ein Rest von [άσε]{lang="el"} „lass“ (Kapitel 8, [αφήνω]{lang="el"}), und es
-funktioniert wie das deutsche „lass uns“ und das englische [*let's*]{lang="en"}. Dahinter steht die
+[ας]{lang="el"} ist der abgeschliffene alte Imperativ [άφες]{lang="el"} „lass!“, verwandt mit
+[άσε]{lang="el"} (Kapitel 9; [Άσ’ το]{lang="el"}, Kapitel 8) und [αφήνω]{lang="el"} (Kapitel 8).
+Es funktioniert wie das deutsche „lass uns“ und das englische [*let's*]{lang="en"}. Dahinter steht die
 zeitlose Form, ohne [να]{lang="el"}. Vor stimmhaftem Konsonanten klingt es [az]: [ας δούμε]{lang="el"}
-[az ˈðume], [ας μην]{lang="el"} [az min]. Es hat drei Gebrauchsweisen.
+[az ˈðume], [ας μην]{lang="el"} [az min]. Es hat drei Gebrauchsweisen; zum selbst Sprechen
+brauchst du vor allem die erste.
 
 **Vorschlag, mit „wir“ oder „ich“:** [Ας πάμε να φάμε κάτι.]{lang="el"} „Lass uns was essen
 gehen.“ [Ας δούμε.]{lang="el"} „Mal sehen.“ [Ας μην το συζητάμε.]{lang="el"} „Lass uns nicht
@@ -669,12 +693,14 @@ darüber reden.“ Foto oder Film wählst du wie nach [να]{lang="el"}. Ein Sat
 
 **Soll er doch, mit „er, sie, sie“:** Erlaubnis oder Achselzucken. [Ας έρθει, αν
 θέλει.]{lang="el"} „Soll er doch kommen, wenn er will.“ [Ας λένε ό,τι θέλουν.]{lang="el"}
-„Sollen sie doch reden.“ Als feste Wendung: [Ας είναι.]{lang="el"} „Sei’s drum.“
+„Sollen sie doch reden.“ Das solltest du erkennen; selbst sagen wirst du vor allem die feste
+Wendung [Ας είναι.]{lang="el"} „Sei’s drum.“
 
-**Mit Imperfekt oder Plusquamperfekt:** Bedauern, wie [μακάρι]{lang="el"}, nur schärfer und oft
+**Mit Imperfekt oder Plusquamperfekt, zum Erkennen:** Bedauern wie mit [μακάρι]{lang="el"}, oft
 als Vorwurf. [Ας το ήξερα!]{lang="el"} „Hätte ich das bloß gewusst!“ [Ας πρόσεχες!]{lang="el"}
 „Hättest du halt aufgepasst!“ Wer das zu jemandem sagt, dem gerade das Handy ins Meer gefallen
-ist, hat vermutlich keine Freunde mehr.
+ist, hat vermutlich keine Freunde mehr. Für eigene Wünsche und Selbstvorwürfe reichen
+[μακάρι]{lang="el"} und [έπρεπε να]{lang="el"}.
 
 ::: {.callout-warning}
 ## Achtung
@@ -709,7 +735,7 @@ doch, 4 hoffentlich, 5 wäre ich doch, 6 hätte ich doch, 7 hoffentlich.
 6. Ας είναι.
 :::
 
-**Teil C.** Antworte laut mit [μακάρι]{lang="el"} oder [ας]{lang="el"}.
+**Teil C.** Antworte laut mit [μακάρι]{lang="el"}, [έπρεπε να]{lang="el"} oder [ας]{lang="el"}.
 
 1. Jemand fragt: [Θα βρούμε εισιτήρια για τη συναυλία;]{lang="el"}
 2. Dein Handy ist dir gerade ins Meer gefallen. Was sagst du zu dir selbst?
@@ -739,16 +765,17 @@ Vorbei: [είχα]{lang="el"} + Form auf [-ει]{lang="el"}. Teil B: Person und 
 [έλεγα]{lang="el"}), 7 [πάρει]{lang="el"}.
 
 In 1 und 7 wäre das Imperfekt ([να βρίσκαμε, να με έπαιρνε]{lang="el"}) nicht falsch, machte aber
-aus „hoffentlich“ ein hoffnungsloses „wenn doch“. Ebenso 4: [Μακάρι να ήταν ανοιχτό]{lang="el"}
-sagt, du weißt schon, dass es zu ist.
+aus „hoffentlich“ ein fast hoffnungsloses „wenn doch“. Ebenso 4: [Μακάρι να ήταν ανοιχτό
+αύριο]{lang="el"} sagt, du rechnest kaum damit.
 
 **Teil B:** 1V, 2S, 3B, 4V, 5B, 6S. [Ας είναι]{lang="el"} ist das Achselzucken, „sei’s drum“.
 
 **Teil C**, zum Beispiel:
 
 1. [Μακάρι!]{lang="el"} oder [Μακάρι να βρούμε.]{lang="el"}
-2. [Μακάρι να το είχα αφήσει στο ξενοδοχείο!]{lang="el"} Schärfer: [Ας το είχα αφήσει στο
-   ξενοδοχείο!]{lang="el"} <!-- CHECK: ας + Plusquamperfekt in der 1. Person Singular als Selbstvorwurf natürlich? -->
+2. [Μακάρι να το είχα αφήσει στο ξενοδοχείο!]{lang="el"} Als Selbstvorwurf: [Έπρεπε να το είχα
+   αφήσει στο ξενοδοχείο.]{lang="el"} Auch zu hören, als Wunsch: [Ας το είχα αφήσει στο
+   ξενοδοχείο!]{lang="el"}
 3. [Ας έρθουμε αύριο πιο νωρίς.]{lang="el"} Oder: [Ας πάμε πρώτα να φάμε κάτι.]{lang="el"}
 
 **Typischer Fehler:** \*[ας να έρθουμε]{lang="el"}; [ας]{lang="el"} ersetzt das [να]{lang="el"}.
@@ -775,7 +802,7 @@ Mitleid, sondern gern eine genaue Beschreibung dessen, was er verpasst hat.
 Vor dem Hören: Achte auf die Formen dieses Kapitels.
 
 - **[θα]{lang="el"} + Imperfekt** hat nach dem [θα]{lang="el"} ein Verb mit Vergangenheitsendung:
-  [θa erˈxomun], [θa ˈpsaxna]. Oft ist das Augment weg: [θaˈleɣa].
+  [θa erˈxomun], [θa ˈepsaxna]. Oft ist das Augment weg: [θaˈleɣa].
 - **Plusquamperfekt:** [ˈixa]/[ˈiçe] und dahinter eine Form auf [-i]: [ˈixa aˈfisi],
   [ˈixa traˈviksi].
 - **[maˈkari na]** und **[as]** stehen am Satzanfang; danach entscheidet die Form, ob es ein
@@ -862,7 +889,7 @@ Zweiter Durchgang: fünfmal [θα]{lang="el"} + Imperfekt, zweimal [μακάρι
   ερχόσουν]{lang="el"}. Der ganze Satz [Αν ήξερα …, θα είχα αφήσει …]{lang="el"} ist trotzdem ein
   Irrealis der Vergangenheit, mit [ήξερα]{lang="el"}, weil [ξέρω]{lang="el"} kein
   Plusquamperfekt hat.
-- Irrealis: [θα ερχόμουν, αλλά]{lang="el"} (der geplatzte Plan), [θα μπορούσες να του
+- Irrealis: [θα ερχόμουν, αλλά]{lang="el"} (mitgedachte Bedingung: wenn der Chef nicht angerufen hätte), [θα μπορούσες να του
   πεις]{lang="el"} (Vorwurf), [Αν έλεγα όχι, τώρα θα έψαχνα]{lang="el"}: gemischt, die Bedingung
   vergangen (Imperfekt im Gesprächsstil), die Folge jetzt.
 - Bedauern: [Μακάρι να είχα τραβήξει]{lang="el"}. Offen: [Μακάρι να ξαναπαίξουν]{lang="el"},
@@ -888,7 +915,7 @@ aufgestanden.
 
 — Ich hab’s dir am Donnerstag gesagt! Und du hast gesagt, du würdest kommen.
 
-— Ja, ich wollte ja kommen, aber um sieben hat mich der Chef angerufen. Was soll ich machen?
+— Ja, ich wär ja gekommen, aber um sieben hat mich der Chef angerufen. Was soll ich machen?
 
 — Du hättest ihm nein sagen können.
 
@@ -963,12 +990,12 @@ Jedes Interview ist anders; so wertest du aus:
 
 - **Zählung:** [θα ήθελα]{lang="el"} ist meist der häufigste Treffer, [μακάρι]{lang="el"} steht
   oft allein als Antwort. Die Bedingung fehlt häufig, weil die Frage sie schon gestellt hat.
-- **Falsche Striche:** [θα]{lang="el"} + Aorist oder Präsens ([θa ˈpao], [θa ˈkano]) ist Zukunft,
-  kein Irrealis.
+- **Falsche Striche:** [θα]{lang="el"} + zeitlose Form oder Präsens (Futur: [θa ˈpao],
+  [θa ˈkano]) ist Zukunft, kein Irrealis.
 - **Schritt 4**, zum Beispiel: [Αν κέρδιζα το λαχείο, θα ταξίδευα έναν χρόνο. Μετά θα ζούσα
   κοντά στη θάλασσα.]{lang="el"}
 
-**Typische Fehler:** \*[αν θα κέρδιζα]{lang="el"}; die Folge mit [θα]{lang="el"} + Aorist
+**Typische Fehler:** [αν θα κέρδιζα]{lang="el"} (nicht Standard); die Folge mit dem Futur
 ([θα ταξιδέψω]{lang="el"}).
 :::
 
