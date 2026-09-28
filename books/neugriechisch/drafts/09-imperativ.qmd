@@ -124,7 +124,6 @@ Rezepten tatsächlich da, meist beim Salz. Beim Öl sind Mütter großzügiger.
 | [το αλάτι]{lang="el"} | [to aˈlati] | das Salz |
 | [όσο πάρει]{lang="el"} | [ˈoso ˈpari] | so viel es braucht; nach Geschmack |
 | [νόστιμος, -η, -ο]{lang="el"} | [ˈnostimos] | lecker |
-| [έτοιμος, -η, -ο]{lang="el"} | [ˈetimos] | fertig, bereit |
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -169,10 +168,10 @@ aus dem perfektiven Stamm, und du kennst ihn aus Aorist und [να]{lang="el"}-Fo
 
 **Die du-Form ist die er-Form des Aorists ohne Augment.** [έκοψε → κόψε]{lang="el"}. Wo es kein
 Augment gibt, ist sie einfach dieselbe Form: [δοκίμασε]{lang="el"} heißt „er probierte“ und
-„probier!“, weshalb Kapitel 6 davor gewarnt hat. Die Betonung bleibt also, wo sie im Aorist steht,
+„probier!“, wie Kapitel 6 bemerkt hat. Die Betonung bleibt also, wo sie im Aorist steht,
 auf der drittletzten Silbe, und bei Zweisilbern auf der ersten.
 
-**Die ihr-Form kommt aus der [να]{lang="el"}-Form:** [να κόψετε → κόψτε]{lang="el"],
+**Die ihr-Form kommt aus der [να]{lang="el"}-Form:** [να κόψετε → κόψτε]{lang="el"},
 [να δοκιμάσετε → δοκιμάστε]{lang="el"}. Das [να]{lang="el"} fällt weg und das [ε]{lang="el"} vor
 [-τε]{lang="el"} auch. Die Betonung bleibt, wo sie in der [να]{lang="el"}-Form war, auf der
 letzten Stammsilbe: [δοκι**μά**στε, ρω**τή**στε, υπο**γρά**ψτε]{lang="el"}.
@@ -327,7 +326,7 @@ Diese Imperative stehen seit Kapitel 1 als feste Stücke im Buch:
   (Kapitel 8)
 - **Foto, ihr/Sie:** [Πάρτε κόσμε! Ελάτε, δοκιμάστε, διαλέξτε!]{lang="el"} (Kapitel 6),
   [Λύστε με!]{lang="el"} (Kapitel 3), [Υπογράψτε!]{lang="el"} (Kapitel 7)
-- **Film:** [Κοίτα! Άκου … Ρώτα … Πρόσεχε!]{lang="el"} (Kapitel 2, 3, 5), [Πήγαινε …]{lang="el"}
+- **Film:** [Κοίτα! Άκου … Ρώτα … Πρόσεχε!]{lang="el"} (Kapitel 2 bis 6), [Πήγαινε …]{lang="el"}
   (Kapitel 6)
 - **Verbote:** [Μη μου πεις. Μη ρωτάς. Μην ανησυχείς. Μην πας …]{lang="el"}: siehe
   @sec-imperativ-verbot
@@ -338,7 +337,7 @@ Diese Imperative stehen seit Kapitel 1 als feste Stücke im Buch:
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [προσέχω, πρόσεξα; πρόσεχε!]{lang="el"} | [proˈsexo], [ˈproseksa]; [ˈprosexe] | aufpassen, achten auf; pass auf! |
+| [προσέχω, πρόσεξα; πρόσεχε!]{lang="el"} | [proˈsexo], [ˈproseksa]; [ˈproseçe] | aufpassen, achten auf; pass auf! |
 | [Κοίτα! Κοιτάξτε!]{lang="el"} | [ˈcita], [ciˈtakste] | Schau! Schaut! Sehen Sie! ([κοιτάω/κοιτάζω]{lang="el"}) |
 | [Περίμενε! Περιμένετε!]{lang="el"} | [peˈrimene], [periˈmenete] | Warte! Wartet! Warten Sie! |
 | [Σταμάτα!]{lang="el"} | [staˈmata] | Hör auf! Halt an! |
@@ -382,14 +381,14 @@ sind **beide Reihenfolgen** richtig und im Alltag zu hören.
 | [Δώσε μου το.]{lang="el"} | [Δώσ’ το μου.]{lang="el"} | Gib es mir. |
 | [Πες μου το.]{lang="el"} | [Πες το μου.]{lang="el"} | Sag es mir. |
 | [Φέρε μου τα.]{lang="el"} | [Φέρ’ τα μου.]{lang="el"} | Bring sie mir. |
-| [Δώστε μας το.]{lang="el"} | [Δώστε το μας.]{lang="el"} | Geben Sie es uns. |
+| [Πείτε μου το.]{lang="el"} | [Πείτε το μου.]{lang="el"} | Sagen Sie es mir. |
 
 Links steht die Reihenfolge, die du vom Verb her kennst, wie spanisch [*dámelo*]{lang="es"}.
 Rechts die, die im schnellen Sprechen sehr beliebt ist, vielleicht weil sich das
 [ε]{lang="el"} vor [το]{lang="el"} so bequem verschlucken lässt. Zum Sprechen reicht dir die
 linke; hören wirst du beide. Vor dem Verb gibt es diese Freiheit nicht: [Μου το δίνεις;]{lang="el"},
 nie \*[Το μου δίνεις;]{lang="el"}
-<!-- CHECK: Reihenfolge zweier Klitika nach dem Imperativ (Rückfrage aus Kapitel 8): Sind Gen.–Akk. (δώσε μου το, πες μου το) und Akk.–Gen. (δώσ’ το μου, πες το μου) beide standardsprachlich und üblich? Ist Akk.–Gen. in gesprochener Sprache tatsächlich sehr häufig, und ist „Δώστε το μας“ natürlich? (HMP-CG, Abschnitt zu nachgestellten Klitika) -->
+<!-- CHECK: Reihenfolge zweier Klitika nach dem Imperativ (Rückfrage aus Kapitel 8): Sind Gen.–Akk. (δώσε μου το, πες μου το) und Akk.–Gen. (δώσ’ το μου, πες το μου) beide standardsprachlich und üblich? Ist Akk.–Gen. in gesprochener Sprache tatsächlich sehr häufig, und ist „Πείτε το μου“ natürlich? (HMP-CG, Abschnitt zu nachgestellten Klitika) -->
 
 Ein Klassiker aus der Taverne, zum Schluss des Abends:
 [Φέρτε μας τον λογαριασμό, παρακαλώ.]{lang="el"} „Bringen Sie uns bitte die Rechnung.“
@@ -469,8 +468,8 @@ Regel ist es nicht.
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [Μην το ξεχάσεις!]{lang="el"} | [min do kseˈxasis] | Vergiss es nicht! |
-| [Μην τρέχεις!]{lang="el"} | [min ˈdrexis] | Renn nicht so! Fahr nicht so schnell! |
-| [Να προσέχεις!]{lang="el"} | [na proˈsexis] | Pass auf dich auf! |
+| [Μην τρέχεις!]{lang="el"} | [min ˈdreçis] | Renn nicht so! Fahr nicht so schnell! |
+| [Να προσέχεις!]{lang="el"} | [na proˈseçis] | Pass auf dich auf! |
 :::
 
 ## Wegbeschreibung: [στρίψτε δεξιά]{lang="el"} {#sec-imperativ-weg}
@@ -657,9 +656,7 @@ Die Szene: Eine Familie fährt an einem Samstagmorgen ans Meer.
   Kapitel 7) oder [παιδιά]{lang="el"}. Achte beim Hören auf die Betonung: Gerufene Imperative
   tragen den Satzakzent vorn, [**Άν**τε, παιδιά!]{lang="el"}
 
-<!-- EXERCISE: Hörübung zur .listen-Szene in @sec-imperativ-hoerspur: Schritt 1 zweimal hören ohne Text, alle Befehle und Verbote zählen (Lösung: Άντε, πάμε, Μπείτε, άσε, βάλε, Κάνε, πρόσεχε, Μη φωνάζεις, μην τρέχεις, σταμάτα, Κράτα; Φτάνει als Nicht-Imperativ); Schritt 2 einordnen: Foto du / Foto ihr / Film / Verbot Film / kein Imperativ; Schritt 3: Wer sagt es zu wem (Mutter→Kinder, Mutter→Vater, Kind→Vater)? Hörverstehen, Schwierigkeit 2 -->
-
-<!-- EXERCISE: Hör-Auftrag: Auf YouTube nach „γεμιστά συνταγή“ suchen und ein Kochvideo auf Griechisch wählen (oder Easy Greek, https://www.youtube.com/@EasyGreekVideos, Suchwort „φαγητό“ für Straßeninterviews übers Essen). Drei Minuten ohne Untertitel: Striche machen für Imperative (κόψτε, βάλτε, ρίξτε …) und für wir-Formen im Präsens (κόβουμε, βάζουμε), denn viele griechische Rezepte erklären in der wir-Form; notieren, welche Form die Köchin/der Koch benutzt und ob du, ihr oder wir. Dann mit Untertiteln/Beschreibung prüfen. Lösung ohne feste Zahl, mit Auswertungshilfe und dem Hinweis auf die wir-Form. Keine erfundenen Video-URLs. Hörverstehen, Schwierigkeit 2 -->
+<!-- EXERCISE: Hör-Auftrag. Schritt 1: die .listen-Szene in @sec-imperativ-hoerspur zweimal ohne Text hören, alle Befehle und Verbote zählen und einordnen (Foto du / Foto ihr / Film / Verbot Film / kein Imperativ; Lösung: Άντε, πάμε, Μπείτε, άσε, βάλε, Κάνε, πρόσεχε, Μη φωνάζεις, μην τρέχεις, σταμάτα, Κράτα; Φτάνει und Πάμε keine Imperative im engeren Sinn), dazu: wer zu wem? Schritt 2: auf YouTube nach „γεμιστά συνταγή“ ein griechisches Kochvideo suchen (oder Easy Greek, https://www.youtube.com/@EasyGreekVideos, Suchwort „φαγητό“); drei Minuten ohne Untertitel Striche für Imperative (κόψτε, βάλτε, ρίξτε) und für wir-Formen im Präsens (κόβουμε, βάζουμε), da viele griechische Rezepte in der wir-Form erklären; dann mit Untertiteln prüfen. Lösung Schritt 2 ohne feste Zahl, mit Auswertungshilfe. Keine erfundenen Video-URLs. Hörverstehen, Schwierigkeit 2 -->
 <!-- CHECK: „Viele griechische Rezepte (Kochbücher, Kochvideos) erklären in der 1. Person Plural Präsens (κόβουμε, βάζουμε)“ – als Tendenz zutreffend? -->
 
 ::: {.vocab}
@@ -738,12 +735,9 @@ Wohnung und kümmert sich um die Katze. Am Kühlschrank hängt ein Zettel.
 | [το κουτάκι]{lang="el"} | die kleine Dose |
 | [λυπημένος, -η, -ο]{lang="el"} | traurig |
 | [η μπαλκονόπορτα]{lang="el"} | die Balkontür |
-| [πετάω]{lang="el"} | hier: fliegen |
-| [ποτίζω, πότισα]{lang="el"} | gießen |
 | [η γλάστρα]{lang="el"} | der Blumentopf |
 | [διψάω, δίψασα]{lang="el"} | Durst haben; [διψάνε]{lang="el"} umg. für [διψούν]{lang="el"} |
 | [σαν εμάς]{lang="el"} | wie wir (starke Form, Kapitel 20) |
-| [ζεσταίνω, ζέστανα]{lang="el"} | aufwärmen, heiß machen |
 | [τα μικροκύματα]{lang="el"} | die Mikrowelle (umg.) |
 | [η φέτα]{lang="el"} | der Feta; die Scheibe |
 | [κάποια στιγμή]{lang="el"} | irgendwann |
