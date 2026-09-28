@@ -12,6 +12,7 @@
 | 04 Erzählen: Imperfekt und Aspekt | veröffentlicht | Welle 2; Audio läuft |
 | 05 Der zweite Stamm in der Zukunft: θα und να | im Review | Welle 3; Übungen fertig, Reviews laufen |
 | 06 Auf dem Markt: Nomen, Adjektive, Zahlen | Überarbeitung | Welle 2 |
+| 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | Entwurf | Welle 3 |
 
 ## Plan für /write all (Wellen nach Voraussetzungen)
 
