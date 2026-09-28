@@ -300,7 +300,7 @@ drei. Grob gesagt: Es blickt von **jetzt** auf die Vergangenheit, der Aorist ste
 
 ### Mit Zeitstempel kein Perfekt {#sec-perfekt-zeitstempel}
 
-Nennt der Satz einen Zeitpunkt in der Vergangenheit, steht der Aorist:
+Nennt der Satz einen abgeschlossenen Zeitpunkt in der Vergangenheit, steht der Aorist:
 
 - [Χθες **είδα** την ταινία.]{lang="el"} Gestern habe ich den Film gesehen. Nicht \*[Χθες έχω δει…]{lang="el"}
 - [Το 2021 η φωτιά **έκαψε** μεγάλο μέρος της Εύβοιας.]{lang="el"} 2021 hat das Feuer einen großen Teil Euböas verbrannt.
@@ -312,7 +312,7 @@ und die Frage [πότε;]{lang="el"}, wenn sie wirklich den Zeitpunkt wissen wil
 έφυγες;]{lang="el"}, nicht \*[Πότε έχεις φύγει;]{lang="el"} (Rhetorisch geht es: [Πότε σου έχω
 πει ψέματα;]{lang="el"} „Wann hab ich dich je angelogen?“) Kein Zeitstempel sind Zeiträume, die
 bis jetzt reichen: [σήμερα, φέτος, αυτή την εβδομάδα, τα τελευταία χρόνια]{lang="el"}. Da ist
-das Perfekt zu Hause: [Σήμερα έχω πιει τρεις καφέδες.]{lang="el"} Dasselbe gilt für das Erzählen. Eine Kette von Ereignissen, bei
+das Perfekt zu Hause: [Σήμερα έχω πιει τρεις καφέδες.]{lang="el"} Auch beim Erzählen kein Perfekt: Eine Kette von Ereignissen, bei
 der man „und dann?“ fragen kann, läuft im Aorist (Kapitel 4).
 
 Englisch hilft hier mehr als Deutsch, Französisch oder Spanisch: *I saw it yesterday*, nicht
