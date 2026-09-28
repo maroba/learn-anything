@@ -252,7 +252,7 @@ Anrede, Frage 2 der erste Imperativ oder die erste Frage. Wer beide hat, weiß, 
 ::: {.callout-note .exercise}
 ## Übung 33.2: Der Wasserhahn
 
-Hör die Szene zweimal mit ▶, ohne aufzuklappen, und beantworte dann die fünf Fragen des
+Hör die Szene zweimal mit ▶, ohne den Text aufzuklappen, und beantworte dann die fünf Fragen des
 Leitfadens, jeweils mit Signal. Im Chat: „1b, 2…“.
 
 ::: {lang="el" .listen}
@@ -565,8 +565,8 @@ Regisseurinnen und Regisseure arbeiten sehr unterschiedlich (Kapitel 15).
 ## Übung 33.5: Ohne Melodie
 
 Vater und Tochter, im Stil des neuen Kinos; die Tochter fängt an. Die Synthesestimme spricht
-ohnehin fast ohne Ausdruck; hier passt das ausnahmsweise. Hör zweimal, dann entscheide nur über
-Wörter und Zusammenhang. Im Chat: „1a, 2…“.
+ohnehin fast ohne Ausdruck; hier passt das ausnahmsweise. Hör zweimal mit ▶, ohne den Text
+aufzuklappen, dann entscheide nur über Wörter und Zusammenhang. Im Chat: „1a, 2…“.
 
 ::: {lang="el" .listen}
 [— Μπαμπά, βάζεις τρία πιάτα. Ποιος θα έρθει απόψε;]{.v1}
@@ -732,7 +732,7 @@ Makler · [τα κοινόχρηστα]{lang="el"} die Nebenkosten (im Mehrfamil
 ::: {.callout-note .exercise}
 ## Übung 33.6: Die Kassetten des Großvaters
 
-Hör die Szene oben höchstens zweimal, ohne aufzuklappen. Im Chat: „1b, 2…“.
+Hör die Szene oben mit ▶, ohne den Text aufzuklappen, höchstens zweimal. Im Chat: „1b, 2…“.
 
 1. **Was will wer?** a) Beide wollen die Kassetten behalten · b) Nikos will bald verkaufen,
    Marina warten. Was meint Nikos mit [Σιγά τα λάχανα]{lang="el"}, und was verrät Marinas
@@ -1069,7 +1069,7 @@ Für A such das Verb, das die Aussage stützt oder widerlegt, etwa [βαριότ
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-C: Gewohnheit oder Ereignis (Kapitel 4), Vorvergangenheit (14), [αν]{lang="el"} + Imperfekt
+C: Gewohnheit oder Ereignis (Kapitel 4), Plusquamperfekt (14), [αν]{lang="el"} + Imperfekt
 (24).
 :::
 

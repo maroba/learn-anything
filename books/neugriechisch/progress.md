@@ -37,7 +37,7 @@
 | 31 Vom Amt bis zur Taverne: Register und Höflichkeit | veröffentlicht | Welle 14; Audio ausstehend |
 | 32 Kreta und Zypern hören | veröffentlicht | Welle 12; Audio ausstehend |
 | 33 Filme verstehen | Konsistenz | Welle 15; überarbeitet |
-| 34 Abschluss und B2-Selbsttest | Entwurf | Welle 15 |
+| 34 Abschluss und B2-Selbsttest | im Review | Welle 15; Entwurf mit Übungen fertig |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 
