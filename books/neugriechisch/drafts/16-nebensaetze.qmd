@@ -1,0 +1,736 @@
+---
+title: "Weil, obwohl, damit: Nebensätze"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+Aus Kapitel 5: Die [να]{lang="el"}-Form hat keine eigene Zeit, nur einen Aspekt.
+
+- Foto: perfektiver Stamm ohne Augment + Präsensendungen: [να γράψω, να πάρει, να φύγουμε]{lang="el"};
+  Stamm ohne Anfang: [να δω, να πει, να βρει, να έρθει]{lang="el"}
+- Film: einfach das Präsens: [να γράφω, να παίρνει]{lang="el"}
+- verneint mit [μη(ν)]{lang="el"}: [να μην το ξεχάσεις]{lang="el"}
+
+Aus Kapitel 4: [όταν]{lang="el"} „als, wenn“ und [ενώ]{lang="el"} „während“ mit Foto oder Film.
+:::
+
+## Die Schlange am Automaten {#sec-nebensatz-einstieg}
+
+Athen, Anfang Juli 2015. Die Banken sind seit Tagen geschlossen, an jedem Automaten gibt es
+höchstens 60 Euro pro Karte und Tag. Kurz nach sieben Uhr morgens, eine Schlange auf dem
+Bürgersteig.
+
+::: {lang="el"}
+— Συγγνώμη, εσείς είστε ο τελευταίος;
+
+— Εγώ. Αλλά μην ελπίζετε πολλά. Λένε ότι το μηχάνημα αδειάζει πριν έρθει το μεσημέρι.
+
+— Και γιατί περιμένετε;
+
+— Επειδή είμαι αισιόδοξος. Και γιατί το ψυγείο μου είναι άδειο.
+
+— Εγώ ήρθα για να βγάλω λεφτά για τη μητέρα μου. Δεν μπορεί να σταθεί τόση ώρα στον ήλιο.
+
+— Καλά κάνετε. Εγώ, όταν έκλεισαν οι τράπεζες, είπα στη γυναίκα μου ότι θα ανοίξουν σε δύο
+μέρες.
+
+— Κι εκείνη;
+
+— Εκείνη μου έλεγε από τον Μάιο να βγάλω μετρητά. Αν και την ακούω πάντα, αυτή τη φορά δεν την
+άκουσα.
+
+— Και τώρα πού είναι;
+
+— Στο σπίτι, με το κλιματιστικό. Χαίρεται που είχε δίκιο.
+
+— Λυπάμαι που σας το λέω, αλλά το μηχάνημα μόλις άδειασε.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Entschuldigung, sind Sie der Letzte?
+
+— Ja. Aber machen Sie sich nicht zu viele Hoffnungen. Es heißt, der Automat ist leer, bevor es
+Mittag wird.
+
+— Und warum warten Sie dann?
+
+— Weil ich Optimist bin. Und weil mein Kühlschrank leer ist.
+
+— Ich bin gekommen, um Geld für meine Mutter abzuheben. Sie kann nicht so lange in der Sonne
+stehen.
+
+— Recht so. Ich habe meiner Frau, als die Banken zumachten, gesagt, dass sie in zwei Tagen wieder
+aufmachen.
+
+— Und sie?
+
+— Sie hat mir seit Mai gesagt, ich soll Bargeld abheben. Obwohl ich immer auf sie höre, habe ich
+diesmal nicht auf sie gehört.
+
+— Und wo ist sie jetzt?
+
+— Zu Hause, bei der Klimaanlage. Sie freut sich, dass sie recht hatte.
+
+— Tut mir leid, dass ich es Ihnen sagen muss, aber der Automat ist gerade leer geworden.
+:::
+
+Der letzte Satz kommt von weiter vorn in der Schlange. Szenen wie diese gab es im Sommer 2015
+tausendfach; mehr dazu im Lesetext am Ende des Kapitels.
+
+Grammatisch ist das Gespräch eine Sammlung kleiner Wörter, die Sätze verbinden:
+[ότι]{lang="el"} „dass“, [πριν]{lang="el"} „bevor“, [επειδή]{lang="el"} und [γιατί]{lang="el"}
+„weil“ (einmal auch „warum“), [για να]{lang="el"} „um zu“, [όταν]{lang="el"} „als“,
+[αν και]{lang="el"} „obwohl“ und zweimal [που]{lang="el"} nach einem Gefühl: [χαίρεται
+που]{lang="el"}, [λυπάμαι που]{lang="el"}. Solche Wörter heißen **Konjunktionen**
+([οι σύνδεσμοι]{lang="el"}); der Satz, den sie einleiten, ist ein **Nebensatz**
+([η δευτερεύουσα πρόταση]{lang="el"}), der andere der **Hauptsatz** ([η κύρια πρόταση]{lang="el"}).
+
+Das [μόλις]{lang="el"} im letzten Satz ist das „gerade eben“ aus Kapitel 7. Es kann auch „sobald“
+heißen; dazu unten mehr.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η τράπεζα]{lang="el"} | [i ˈtrapeza] | die Bank (Geldinstitut) |
+| [τα μετρητά]{lang="el"} | [ta metriˈta] | das Bargeld |
+| [βγάζω λεφτά]{lang="el"} | [ˈvɣazo lefˈta] | Geld abheben |
+| [το μηχάνημα]{lang="el"} | [to miˈxanima] | die Maschine; der (Geld-)Automat |
+| [η ουρά]{lang="el"} | [i uˈra] | die Schlange (Warteschlange); der Schwanz |
+| [άδειος, -α, -ο]{lang="el"} | [ˈaðʝos] | leer |
+| [αδειάζω, άδειασα]{lang="el"} | [aˈðʝazo], [ˈaðʝasa] | leer werden; leeren |
+| [αισιόδοξος, -η, -ο]{lang="el"} | [esiˈoðoksos] | optimistisch |
+| [έχω δίκιο]{lang="el"} | [ˈexo ˈðico] | recht haben |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [ελπίζω]{lang="el"} | hoffen (Kapitel 5); [μην ελπίζετε πολλά]{lang="el"} machen Sie sich keine großen Hoffnungen |
+| [να σταθεί]{lang="el"} | stehen ([στέκομαι, στάθηκα]{lang="el"}) |
+| [τόση ώρα]{lang="el"} | so lange |
+| [Καλά κάνετε.]{lang="el"} | Recht so. Da tun Sie gut daran. |
+| [εκείνη]{lang="el"} | sie (jene) |
+| [αυτή τη φορά]{lang="el"} | diesmal |
+| [το κλιματιστικό]{lang="el"} | die Klimaanlage |
+:::
+
+## Der Bauplan: das Verb bleibt vorn {#sec-nebensatz-bauplan}
+
+Die erste gute Nachricht: Der griechische Nebensatz ist gebaut wie ein Hauptsatz. Das Verb
+wandert nicht ans Ende, wie im Deutschen:
+
+- weil ich kein Geld **habe** – [επειδή δεν **έχω** λεφτά]{lang="el"}
+- dass sie in zwei Tagen **aufmachen** – [ότι **θα ανοίξουν** σε δύο μέρες]{lang="el"}
+
+Wer Spanisch oder Französisch spricht, macht das ohnehin so: [*porque no tengo dinero*]{lang="es"},
+[*parce que je n’ai pas d’argent*]{lang="fr"}. Schwache Pronomen und [δεν]{lang="el"} stehen wie
+immer direkt vor dem Verb, hinter der Konjunktion: [γιατί δεν τον είδα]{lang="el"}, [για να το
+πάρει]{lang="el"}.
+
+Die zweite Nachricht ist die eigentliche Regel dieses Kapitels. Es gibt zwei Sorten
+Konjunktionen:
+
+| mit normalem Verb | mit [να]{lang="el"}-Form |
+|---|---|
+| [ότι/πως]{lang="el"} dass | [για να]{lang="el"} um zu, damit |
+| [επειδή, γιατί, αφού]{lang="el"} weil, da | [πριν (να)]{lang="el"} bevor |
+| [όταν, μόλις, αφού]{lang="el"} als, sobald, nachdem | [μέχρι να]{lang="el"} bis |
+| [ενώ, αν και]{lang="el"} während, obwohl | [χωρίς να]{lang="el"} ohne dass, ohne zu |
+
+Links folgt ein Verb in jeder beliebigen Zeit, wie im Hauptsatz: [ότι θα ανοίξουν, όταν
+έκλεισαν, επειδή είμαι]{lang="el"}. Rechts folgt die [να]{lang="el"}-Form, die keine Zeit hat. In
+der linken Spalte sagt man, was ist oder war; in der rechten, was sein soll oder noch nicht ist.
+Das kennst du aus dem Spanischen: [*porque viene*]{lang="es"} mit Indikativ, aber
+[*para que venga, antes de que venga, sin que venga*]{lang="es"} mit Subjuntivo, im Französischen
+ebenso [*pour que, avant que, sans que*]{lang="fr"} + Subjonctif. Die rechte Spalte ist fast
+Wort für Wort dieselbe Liste.
+
+::: {.callout-important}
+## Merke
+
+- Im Nebensatz steht das Verb **nicht am Ende**. Pronomen und [δεν/μην]{lang="el"} direkt davor.
+- [για να, πριν, μέχρι να, χωρίς να]{lang="el"} verlangen die **[να]{lang="el"}-Form**, alle
+  anderen Konjunktionen dieses Kapitels ein **normales Verb** in der Zeit, die der Sinn verlangt.
+:::
+
+## Dass: [ότι, πως]{lang="el"} und [που]{lang="el"} {#sec-nebensatz-oti}
+
+Nach Verben des Sagens, Denkens und Wissens steht [ότι]{lang="el"} [ˈoti] oder [πως]{lang="el"}
+[pos]. Beide heißen „dass“; [ότι]{lang="el"} ist neutral und in der Schrift häufiger,
+[πως]{lang="el"} klingt eine Spur mündlicher:
+
+- [Λένε ότι το μηχάνημα αδειάζει.]{lang="el"} – Es heißt, dass der Automat leer wird.
+- [Νομίζω πως έχεις δίκιο.]{lang="el"} – Ich glaube, du hast recht.
+- [Ξέρεις ότι οι τράπεζες είναι κλειστές;]{lang="el"} – Weißt du, dass die Banken zu sind?
+
+Anders als im Deutschen steht **kein Komma** vor [ότι]{lang="el"}. Und das Verb behält die Zeit,
+die der Sprecher damals gedacht hat: [είπα ότι θα ανοίξουν]{lang="el"}, wörtlich „ich sagte, dass
+sie aufmachen werden“. Dazu mehr in Kapitel 18. [πως]{lang="el"} ohne Akzent ist „dass“,
+[πώς;]{lang="el"} mit Akzent „wie?“ (Kapitel 1); [ότι]{lang="el"} ohne Komma „dass“,
+[ό,τι]{lang="el"} mit Komma „alles, was“ (Kapitel 15).
+
+### [ότι]{lang="el"} oder [να]{lang="el"}? {#sec-nebensatz-oti-na}
+
+Dasselbe Verb kann beides nach sich ziehen, mit verschiedener Bedeutung. Aus dem Dialog:
+
+- [είπα ότι θα ανοίξουν]{lang="el"} – ich sagte, **dass** sie aufmachen (Aussage)
+- [μου έλεγε να βγάλω μετρητά]{lang="el"} – sie sagte mir, **ich solle** Bargeld abheben (Aufforderung)
+
+Spanisch unterscheidet genauso: [*me dice que viene*]{lang="es"} (Indikativ, Aussage) gegen
+[*me dice que venga*]{lang="es"} (Subjuntivo, Aufforderung). Französisch nimmt für die
+Aufforderung den Infinitiv: [*il me dit de venir*]{lang="fr"}. Das Griechische hat für beide
+Fälle ein eigenes Wort: [ότι]{lang="el"} für das, was ist, [να]{lang="el"} für das, was sein soll.
+
+### Nach Gefühlen: [που]{lang="el"} {#sec-nebensatz-pou-gefuehl}
+
+[Χαίρεται που είχε δίκιο.]{lang="el"} „Sie freut sich, dass sie recht hatte.“ Nach Verben und
+Ausdrücken des Gefühls steht [που]{lang="el"}, wenn der Nebensatz eine **Tatsache** nennt, über
+die man froh, traurig oder erleichtert ist:
+
+- [Χαίρομαι που ήρθες.]{lang="el"} – Ich freue mich, dass du gekommen bist.
+- [Λυπάμαι που σας το λέω.]{lang="el"} – Es tut mir leid, dass ich es Ihnen sage.
+- [Ευτυχώς που είχα μετρητά.]{lang="el"} – Zum Glück hatte ich Bargeld.
+- [Καλά που το είπες.]{lang="el"} – Gut, dass du es gesagt hast.
+
+Das ist dasselbe unveränderliche [που]{lang="el"} wie im Relativsatz (Kapitel 15), nur ohne
+Bezugswort.
+
+::: {.callout-warning}
+## Achtung
+
+- **Romanische Falle:** Spanisch [*me alegro de que hayas venido*]{lang="es"} und französisch
+  [*je suis content que tu sois venu*]{lang="fr"} nehmen nach Gefühlen den Subjunktiv. Griechisch
+  nimmt ein normales Verb, weil das Gekommensein eine Tatsache ist: [Χαίρομαι που
+  ήρθες.]{lang="el"}, nicht \*[χαίρομαι να ήρθες]{lang="el"}.
+- **Deutsche Falle:** „Ich freue mich, dass …“ lädt zu [ότι]{lang="el"} ein. \*[Χαίρομαι ότι
+  ήρθες]{lang="el"} hört man zwar gelegentlich, üblich ist aber [που]{lang="el"}.
+- [Χαίρομαι να σε βλέπω]{lang="el"} gibt es, aber es heißt etwas anderes: „Ich sehe dich gern“,
+  allgemein, nicht über ein bestimmtes Ereignis.
+:::
+
+<!-- CHECK: „Χαίρομαι ότι ήρθες“ – gelegentlich/akzeptabel, aber που klar üblicher? Formulierung der Achtung-Box prüfen. „Χαίρομαι να σε βλέπω“ als allgemeine Aussage idiomatisch? -->
+
+<!-- EXERCISE: ότι/πως, να oder που nach dem Hauptverb wählen (Aussage, Aufforderung, Gefühl), Art: Multiple Choice mit nummerierten Optionen, 8 Sätze aus einem Familienchat über eine Rückkehr aus dem Ausland (λέω ότι/λέω να, χαίρομαι που, λυπάμαι που, ξέρω ότι, θέλω να, καλά που, νομίζω πως); Lösung erklärt die spanische Parallele und die Gefühls-Falle, Schwierigkeit 1 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ότι]{lang="el"} | [ˈoti] | dass (neutral) |
+| [του λέω να …]{lang="el"} | [tu ˈleo na] | ich sage ihm, er soll … |
+| [χαίρομαι, χάρηκα]{lang="el"} | [ˈçerome], [ˈxarika] | sich freuen; [χαίρομαι που …]{lang="el"} ich freue mich, dass … |
+| [λυπάμαι που …]{lang="el"} | [liˈpame pu] | es tut mir leid, dass … |
+| [ευτυχώς (που)]{lang="el"} | [eftiˈxos pu] | zum Glück; zum Glück, dass … |
+| [καλά που …]{lang="el"} | [kaˈla pu] | gut, dass … |
+| [Καλά κάνεις.]{lang="el"} | [kaˈla ˈkanis] | Recht so. Da tust du gut daran. |
+:::
+
+## Weil: [επειδή, γιατί, αφού]{lang="el"} {#sec-nebensatz-grund}
+
+Drei Wörter für den Grund, jedes mit einer eigenen Vorliebe.
+
+**[επειδή]{lang="el"}** [epiˈði] ist das neutrale „weil“ und passt überall, auch an den
+Satzanfang:
+
+- [Επειδή οι τράπεζες ήταν κλειστές, ο κόσμος περίμενε στα μηχανήματα.]{lang="el"} – Weil die
+  Banken zu waren, wartete man an den Automaten.
+
+**[γιατί]{lang="el"}** [ʝaˈti] heißt „warum?“ und „weil“, wie italienisch
+[*perché*]{lang="it"}. Als „weil“ steht es fast immer **hinter** dem Hauptsatz, ähnlich dem
+deutschen „denn“, und in Antworten:
+
+- [Περιμένω γιατί το ψυγείο μου είναι άδειο.]{lang="el"} – Ich warte, weil mein Kühlschrank leer ist.
+- [— Γιατί περιμένετε; — Γιατί είμαι αισιόδοξος.]{lang="el"} – Warum …? – Weil …
+
+Einen Satz mit [Γιατί]{lang="el"} am Anfang versteht jeder als Frage. Das Ohr hilft: Die Frage
+steigt am Ende, das „weil“ läuft einfach weiter.
+
+**[αφού]{lang="el"}** [aˈfu] kennst du als „nachdem“ (Kapitel 14). Es heißt auch „da ja, wo
+doch“: ein Grund, den beide schon kennen, oft mit einem Vorwurf darin. Spanisch
+[*ya que*]{lang="es"}, französisch [*puisque*]{lang="fr"}:
+
+- [Αφού δεν έχεις λεφτά, γιατί αγόρασες καινούριο κινητό;]{lang="el"} – Wo du doch kein Geld
+  hast, warum hast du ein neues Handy gekauft?
+- [Αφού το ξέρεις, γιατί ρωτάς;]{lang="el"} – Wenn du’s doch weißt, warum fragst du?
+
+Welche Bedeutung gemeint ist, zeigt der Zusammenhang: „nachdem“ ordnet zwei Ereignisse, „da ja“
+begründet.
+
+In Nachrichten und Behördentexten liest du noch **[διότι]{lang="el"}** [ðiˈoti], ein gehobenes
+„weil“. Und die Gegenrichtung, „deshalb“, kennst du seit Kapitel 1: [γι’ αυτό]{lang="el"}.
+
+::: {.callout-warning}
+## Achtung
+
+- \*[Γιατί έβρεχε, μείναμε σπίτι.]{lang="el"} klingt wie eine abgebrochene Frage. Steht der
+  Grund vorn, nimm [επειδή]{lang="el"}: [Επειδή έβρεχε, μείναμε σπίτι.]{lang="el"} Das Spanische
+  kennt dieselbe Arbeitsteilung: [*como llovía*]{lang="es"} vorn, [*porque*]{lang="es"} hinten.
+- [γιατί]{lang="el"} [ʝaˈti] ist zweisilbig: kein [i-a], sondern ein *j* wie in *ja*.
+:::
+
+<!-- EXERCISE: Grund ausdrücken mit επειδή, γιατί, αφού, Art: zwei Sätze laut zu einem verbinden (6 Paare aus dem Krisenalltag, zwei davon mit Grund vorn → επειδή, zwei mit vorwurfsvollem „da ja“ → αφού), dazu 2 Mini-Dialoge Frage/Antwort mit γιατί; Lösung mit Varianten, Schwierigkeit 1 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [επειδή]{lang="el"} | [epiˈði] | weil (neutral, auch am Satzanfang) |
+| [γιατί]{lang="el"} | [ʝaˈti] | warum?; weil (meist hinter dem Hauptsatz) |
+| [αφού]{lang="el"} | [aˈfu] | nachdem; da ja, wo doch |
+| [διότι]{lang="el"} | [ðiˈoti] | weil (gehoben, schriftlich) |
+:::
+
+## Wann: [όταν, μόλις, πριν, μέχρι να]{lang="el"} {#sec-nebensatz-zeit}
+
+Zeitsätze ordnen Ereignisse. Hier trennen sich die beiden Spalten aus @sec-nebensatz-bauplan am
+deutlichsten.
+
+### [όταν]{lang="el"} und [μόλις]{lang="el"}: Foto oder Film wie immer {#sec-nebensatz-otan}
+
+Nach [όταν]{lang="el"} „als, wenn“ wählst du Zeit und Aspekt nach den Regeln aus Kapitel 4:
+
+- [Όταν έκλεισαν οι τράπεζες, …]{lang="el"} – Als die Banken schlossen, … (ein Ereignis: Foto)
+- [Όταν ήμουν φοιτητής, …]{lang="el"} – Als ich Student war, … (Zustand: Film)
+- [Όταν βρέχει, δεν έχει κόσμο.]{lang="el"} – Wenn es regnet, ist nichts los. (immer wieder)
+
+**[μόλις]{lang="el"}** heißt vor einem Nebensatz „sobald, kaum dass“, fast immer mit dem Foto:
+
+- [Μόλις άνοιξαν οι τράπεζες, οι ουρές μπήκαν μέσα.]{lang="el"} – Kaum hatten die Banken
+  aufgemacht, zogen die Schlangen nach drinnen um.
+
+Den Unterschied zum „gerade eben“ aus Kapitel 7 zeigt der Satz: Folgt ein zweiter Satz, ist es
+„sobald“.
+
+- [Μόλις έφτασα.]{lang="el"} – Ich bin gerade angekommen.
+- [Μόλις έφτασα, σε πήρα τηλέφωνο.]{lang="el"} – Sobald ich angekommen war, habe ich dich angerufen.
+
+Geht es um die Zukunft, steht nach [όταν]{lang="el"} und [μόλις]{lang="el"} die perfektive Form
+**ohne [θα]{lang="el"}**, wie in [Γράψε μου όταν φτάσεις.]{lang="el"} aus Kapitel 9:
+[Μόλις φτάσω, θα σε πάρω.]{lang="el"} „Sobald ich ankomme, rufe ich dich an.“ Spanisch sagt
+ebenso [*cuando llegues*]{lang="es"}, nicht [*cuando llegarás*]{lang="es"}. Mehr dazu in Kapitel 17.
+
+### [πριν]{lang="el"} und [μέχρι να]{lang="el"}: immer die [να]{lang="el"}-Form {#sec-nebensatz-prin}
+
+Aus dem Dialog: [το μηχάνημα αδειάζει πριν έρθει το μεσημέρι]{lang="el"}. Nach [πριν]{lang="el"}
+„bevor“ steht die [να]{lang="el"}-Form, mit oder ohne [να]{lang="el"}: [πριν (να) έρθει]{lang="el"}.
+Das gilt auch, wenn alles in der Vergangenheit liegt:
+
+- [Πριν κλείσουν οι τράπεζες, δεν είχα ποτέ μετρητά.]{lang="el"} – Bevor die Banken schlossen,
+  hatte ich nie Bargeld.
+- [Έφυγε πριν (να) τελειώσει η κρίση.]{lang="el"} – Er ging weg, bevor die Krise zu Ende war.
+
+Kein Aorist also, obwohl es um Vergangenes geht: [κλείσουν]{lang="el"}, nicht
+\*[έκλεισαν]{lang="el"}. Das Spanische macht es fast genauso: [*antes de que cerraran*]{lang="es"}
+mit Subjuntivo. Der Aspekt ist nach [πριν]{lang="el"} praktisch immer das Foto. Und die
+Unterscheidung zu Kapitel 2: [πριν από]{lang="el"} + Nomen ([πριν από την κρίση]{lang="el"}),
+[πριν]{lang="el"} + Verb ([πριν έρθει]{lang="el"}).
+
+**[μέχρι να]{lang="el"}** „bis“ funktioniert genauso: [Περίμενε μέχρι να ανοίξει η
+τράπεζα.]{lang="el"} „Warte, bis die Bank aufmacht.“ In Erzählungen über die Vergangenheit hörst
+du daneben auch [μέχρι που]{lang="el"} mit dem Aorist.
+
+<!-- CHECK: μέχρι να in Vergangenheitskontext („Περιμέναμε μέχρι να ανοίξει“) üblich neben „μέχρι που άνοιξε“? Formulierung „hörst du daneben auch μέχρι που mit dem Aorist“ prüfen. -->
+
+::: {.callout-important}
+## Merke
+
+| Konjunktion | danach | Aspekt |
+|---|---|---|
+| [όταν, αφού]{lang="el"} | normales Verb, jede Zeit | Foto oder Film nach Sinn |
+| [μόλις]{lang="el"} (sobald) | normales Verb | fast immer Foto |
+| [πριν (να), μέχρι να]{lang="el"} | [να]{lang="el"}-Form, auch für Vergangenes | fast immer Foto |
+
+Bei Zukunftsbezug nach [όταν, μόλις, αφού]{lang="el"}: perfektive Form ohne [θα]{lang="el"}.
+:::
+
+::: {.callout-warning}
+## Achtung
+
+- \*[πριν έφυγα]{lang="el"}: Nach [πριν]{lang="el"} nie der Aorist. Richtig: [πριν φύγω]{lang="el"}.
+- \*[όταν θα φτάσω, θα σε πάρω]{lang="el"}: Das doppelte [θα]{lang="el"} ist deutsch gedacht
+  („wenn ich ankommen werde“). Standard ist [όταν φτάσω]{lang="el"}.
+:::
+
+<!-- CHECK: „όταν θα φτάσω“ kommt umgangssprachlich vor; als „nicht Standard“ markieren statt als Fehler? Ggf. Achtung-Box abschwächen und auf Kapitel 17 verweisen. -->
+
+<!-- EXERCISE: Zeitsätze mit όταν, μόλις, αφού, πριν, μέχρι να und richtiger Form (Aorist/Imperfekt/να-Form, ohne θα bei Zukunft), Art: Lückentext (::: {lang="el" .no-audio}) mit 8 Lücken, Verb in Klammern vorgegeben, eine Erinnerung an den Juli 2015 und ein Plan für morgen; Lösung erklärt *πριν έκλεισαν und *όταν θα, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [μόλις φτάσω, …]{lang="el"} | [ˈmolis ˈftaso] | sobald ich ankomme, … ([μόλις]{lang="el"} vor Nebensatz) |
+| [πριν (να)]{lang="el"} + [να]{lang="el"}-Form | [prin na] | bevor |
+| [μέχρι να]{lang="el"} | [ˈmexri na] | bis (+ [να]{lang="el"}-Form) |
+| [η κρίση]{lang="el"} | [i ˈkrisi] | die Krise |
+:::
+
+## Wozu: [για να, χωρίς να]{lang="el"} {#sec-nebensatz-gia-na}
+
+[Ήρθα για να βγάλω λεφτά.]{lang="el"} „Ich bin gekommen, um Geld abzuheben.“ **[για να]{lang="el"}**
+[ʝa na] ist das griechische [*para que*]{lang="es"} und [*pour que*]{lang="fr"}, mit der
+[να]{lang="el"}-Form statt Subjonctif. Einen Unterschied zwischen „um zu“ und „damit“ gibt es
+nicht, weil es keinen Infinitiv gibt. Die Person steckt immer im Verb:
+
+- [Ήρθα για να βγάλω λεφτά.]{lang="el"} – um (selbst) Geld abzuheben
+- [Της έδωσα την κάρτα μου για να βγάλει λεφτά.]{lang="el"} – damit sie Geld abhebt
+
+Spanisch braucht dafür zwei Konstruktionen, [*para sacar*]{lang="es"} und [*para que
+saque*]{lang="es"}, Griechisch eine. Im Gespräch fällt das [για]{lang="el"} oft weg, besonders nach
+Verben der Bewegung: [Ήρθα να σε δω.]{lang="el"} „Ich bin gekommen, um dich zu sehen.“ Das ist das
+„um zu“, das Kapitel 5 versprochen hat.
+
+**Verneint:** [για να μη(ν)]{lang="el"} „damit nicht“: [Ήρθα στις επτά για να μην περιμένω.]{lang="el"}
+
+**[χωρίς να]{lang="el"}** „ohne dass, ohne zu“, wie [*sans que*]{lang="fr"}: [Έφυγε χωρίς να πει
+τίποτα.]{lang="el"} „Er ging, ohne etwas zu sagen.“ Das [τίποτα]{lang="el"} braucht hier kein
+[δεν]{lang="el"}; das [χωρίς]{lang="el"} verneint schon.
+
+### Die [να]{lang="el"}-Form kennt keine Vergangenheit {#sec-nebensatz-na-aspekt}
+
+Auch in einer Erzählung bleibt es bei der [να]{lang="el"}-Form, wie nach [πριν]{lang="el"}:
+
+- [Πέρσι πήγε στη Γερμανία για να βρει δουλειά.]{lang="el"} – Letztes Jahr ging er nach
+  Deutschland, um Arbeit zu finden.
+
+Nicht \*[για να βρήκε]{lang="el"}. Spanisch verschiebt hier ins Imperfekt des Subjuntivo
+([*para que encontrara*]{lang="es"}), Griechisch verschiebt nichts.
+
+Die Wahl bleibt der Aspekt. **Foto** ist der Normalfall: ein Ziel, das erreicht werden soll.
+**Film** nimmst du, wenn der Zweck selbst eine Gewohnheit oder ein Dauerzustand ist:
+
+- [Έμαθε γερμανικά για να βρει δουλειά.]{lang="el"} – um eine Stelle zu finden (Foto)
+- [Κάνει δύο δουλειές για να πληρώνει το νοίκι.]{lang="el"} – um (jeden Monat) die Miete zu
+  zahlen (Film)
+- [Μιλάω αργά για να με καταλαβαίνουν.]{lang="el"} – damit man mich (laufend) versteht (Film)
+
+Die Probe: Könnte „jedes Mal, laufend“ davorstehen? Dann Film. Sonst Foto.
+
+::: {.callout-important}
+## Merke
+
+- [για να]{lang="el"} + [να]{lang="el"}-Form = „um zu“ und „damit“; verneint [για να μη(ν)]{lang="el"}.
+- Auch in der Vergangenheit kein Aorist: [πήγε για να βρει]{lang="el"}.
+- Foto für ein Ziel, Film für einen Zweck, der sich wiederholt oder andauert.
+:::
+
+<!-- EXERCISE: για να / για να μη(ν) / χωρίς να mit richtigem Aspekt, Art: mündlich übersetzen Deutsch→Griechisch (8 Sätze über Auswandern, Sparen, Nebenjobs; davon 3 in der Vergangenheit, 2 mit Film-Zweck), dazu Teil B Fehler finden (4 Sätze: *για να βρήκε, *πριν έφυγα, Verb am Satzende, *χαίρομαι ότι); Lösung mit typischen Fehlern, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [για να]{lang="el"} | [ʝa na] | um zu; damit (+ [να]{lang="el"}-Form) |
+| [για να μη(ν)]{lang="el"} | [ʝa na mi(n)] | damit nicht; um nicht zu |
+| [χωρίς να]{lang="el"} | [xoˈris na] | ohne dass; ohne zu |
+| [η δουλειά]{lang="el"} | [i ðuˈʎa] | die Arbeit, die Stelle |
+| [το νοίκι]{lang="el"} | [to ˈnici] | die Miete (umg.) |
+| [ο μισθός]{lang="el"} | [o misˈθos] | das Gehalt, der Lohn |
+:::
+
+## Obwohl und während: [αν και, ενώ]{lang="el"} {#sec-nebensatz-gegensatz}
+
+**[αν και]{lang="el"}** [an ce] „obwohl“ nimmt ein normales Verb:
+
+- [Αν και την ακούω πάντα, αυτή τη φορά δεν την άκουσα.]{lang="el"} – Obwohl ich immer auf sie
+  höre, habe ich diesmal nicht auf sie gehört.
+
+Hier wird Französisch zur Falle: [*bien que*]{lang="fr"} verlangt den Subjonctif. Spanisch
+[*aunque*]{lang="es"} liegt näher; für eine Tatsache nimmt es wie das Griechische den Indikativ.
+Nach [αν και]{lang="el"} also nie [να]{lang="el"}. Etwas nachdrücklicher und etwas schriftlicher
+ist [παρόλο που]{lang="el"} „obwohl, trotz der Tatsache, dass“ (Kapitel 29).
+
+**[ενώ]{lang="el"}** kennst du als „während“ mit dem Film: [Ενώ κολυμπούσαμε, ήρθε ένα
+δελφίνι.]{lang="el"} (Kapitel 4). Genau wie das deutsche „während“ und das englische
+[*while*]{lang="en"} hat es noch eine zweite Bedeutung, den Gegensatz, und dann ist jede Zeit und
+jeder Aspekt möglich:
+
+- [Οι μισθοί έπεσαν, ενώ οι τιμές ανέβηκαν.]{lang="el"} – Die Löhne fielen, während (dagegen) die
+  Preise stiegen.
+- [Ενώ ήξερε ότι δεν έχει λεφτά, αγόρασε αυτοκίνητο.]{lang="el"} – Obwohl er wusste, dass er kein
+  Geld hat, kaufte er ein Auto.
+
+Das zweite [ενώ]{lang="el"} ist schon fast „obwohl“. Ob „während“ oder „dagegen“, entscheidet der
+Sinn, wie im Deutschen.
+
+<!-- EXERCISE: Gegensatz und Zeit unterscheiden: ενώ (während/dagegen), αν και, και όμως; Art: Zuordnen/Auswählen, 6 griechische Sätze über Vorher/Nachher der Krise, jeweils entscheiden „während (zeitlich)“, „dagegen“ oder „obwohl“ und laut ins Deutsche übersetzen; dann 3 deutsche obwohl-Sätze laut mit αν και bilden, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [αν και]{lang="el"} | [an ce] | obwohl |
+| [παρόλο που]{lang="el"} | [paˈrolo pu] | obwohl, obgleich |
+| [η τιμή, οι τιμές]{lang="el"} | [i tiˈmi], [i tiˈmes] | der Preis; die Ehre |
+| [πέφτω, έπεσα]{lang="el"} | [ˈpefto], [ˈepesa] | fallen, sinken |
+:::
+
+## Hörspur: Was hat die Krise verändert? {#sec-nebensatz-hoerspur}
+
+Die ▶-Aufnahmen im Buch sind synthetische Stimmen. Echte Menschen auf der Straße bringt der
+Hör-Auftrag am Ende dieses Abschnitts.
+
+Wer Griechen nach den Krisenjahren fragt, bekommt Begründungen: weil, obwohl, um zu. Ein
+Straßeninterview für einen Online-Kanal, erfunden, aber im Ton echt. Drei Leute antworten auf
+dieselbe Frage. Erst hören, dann lesen.
+
+::: {lang="el" .listen}
+— Καλημέρα σας! Μια ερώτηση για το κανάλι μας: τι άλλαξε στη ζωή σας με την κρίση;
+
+— Τα πάντα. Το 2012 τελείωσα τη σχολή, αλλά δουλειά δεν υπήρχε. Έφυγα στη Στουτγάρδη για να
+δουλέψω ως μηχανικός. Έμεινα έξι χρόνια. Γύρισα πέρσι, επειδή μου έλειπε η θάλασσα. Και η μαμά
+μου.
+
+— Και δεν το μετανιώσατε;
+
+— Όχι ακόμα. Ρωτήστε με του χρόνου.
+
+— Εμένα μου έκοψαν τη σύνταξη τρεις φορές. Αλλά δεν παραπονιέμαι, γιατί έχω τρία εγγόνια και τα
+βοήθησα όλα. Τι να κάνουμε; Αφού δεν είχαν οι γονείς τους, είχε ο παππούς.
+
+— Εγώ έχω καφενείο εδώ και τριάντα χρόνια. Πριν από την κρίση ο κόσμος έπινε δύο καφέδες, ενώ
+στην κρίση έπινε έναν και καθόταν τέσσερις ώρες. Κι εγώ χαιρόμουν που ερχόταν. Μόλις άρχισε να
+μπαίνει πάλι λίγο χρήμα, ξαναήρθε και ο δεύτερος καφές.
+:::
+
+<!-- EXERCISE: Hörverstehen mit .listen: Auftrag „mit ▶, ohne den Text aufzuklappen“; 5 Multiple-Choice-Fragen (Wohin ging die junge Frau und wozu? Warum kam sie zurück? Wie oft wurde die Rente gekürzt? Warum beklagt sich der Großvater nicht? Was änderte sich im Kafenion?), dann zweiter Durchgang: jede Konjunktion zählen (επειδή, γιατί, για να, αφού, ενώ, που, μόλις) und bei αφού entscheiden „nachdem“ oder „da ja“; Schwierigkeit 2 -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Guten Morgen! Eine Frage für unseren Kanal: Was hat sich in Ihrem Leben durch die Krise
+verändert?
+
+— Alles. 2012 bin ich mit dem Studium fertig geworden, aber Arbeit gab es keine. Ich bin nach
+Stuttgart gegangen, um als Ingenieurin zu arbeiten. Ich bin sechs Jahre geblieben. Letztes Jahr
+bin ich zurückgekommen, weil mir das Meer gefehlt hat. Und meine Mama.
+
+— Und Sie haben es nicht bereut?
+
+— Noch nicht. Fragen Sie mich nächstes Jahr.
+
+— Mir haben sie die Rente dreimal gekürzt. Aber ich beschwere mich nicht, denn ich habe drei
+Enkel und habe allen geholfen. Was soll man machen? Wenn die Eltern nichts hatten, hatte eben der
+Opa.
+
+— Ich habe hier seit dreißig Jahren ein Kafenion. Vor der Krise haben die Leute zwei Kaffee
+getrunken, in der Krise dagegen einen, und sind vier Stunden sitzen geblieben. Und ich? Ich habe
+mich gefreut, dass sie kamen. Sobald wieder ein bisschen Geld hereinkam, kam auch der zweite
+Kaffee zurück.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [το κανάλι]{lang="el"} | der Kanal (Fernsehen, Internet) |
+| [η Στουτγάρδη]{lang="el"} | Stuttgart |
+| [ως]{lang="el"} | als (in der Rolle von) |
+| [ο/η μηχανικός]{lang="el"} | der Ingenieur, die Ingenieurin |
+| [μου έλειπε]{lang="el"} | mir fehlte (Kapitel 8) |
+| [κόβω]{lang="el"} | schneiden; hier: kürzen |
+| [ο παππούς]{lang="el"} | der Großvater, der Opa |
+| [εδώ και]{lang="el"} | seit (Kapitel 11) |
+| [το χρήμα]{lang="el"} | das Geld (etwas gehobener als [τα λεφτά]{lang="el"}) |
+| [ξαναήρθε]{lang="el"} | kam wieder ([ξανα-]{lang="el"}, Kapitel 14) |
+:::
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η σχολή]{lang="el"} | [i sxoˈli] | die Fakultät, die Hochschule; [τελειώνω τη σχολή]{lang="el"} das Studium abschließen |
+| [η σύνταξη]{lang="el"} | [i ˈsindaksi] | die Rente |
+| [ο/η συνταξιούχος]{lang="el"} | [sindaˈksʝuxos] | der Rentner, die Rentnerin |
+| [το εγγόνι, τα εγγόνια]{lang="el"} | [to eŋˈgoni], [ta eŋˈgoɲa] | das Enkelkind |
+| [παραπονιέμαι, παραπονέθηκα]{lang="el"} | [parapoˈɲeme], [parapoˈneθika] | sich beschweren, klagen |
+| [μετανιώνω, μετάνιωσα]{lang="el"} | [metaˈɲono], [meˈtaɲosa] | bereuen |
+| [ο κόσμος]{lang="el"} (+ Verb im Singular) | [o ˈkozmos] | die Leute ([ο κόσμος έπινε]{lang="el"} die Leute tranken) |
+:::
+
+### Nebensätze hören {#sec-nebensatz-hoeren}
+
+Konjunktionen sind kurz und unbetont; im Tempo verschmelzen sie mit dem nächsten Wort.
+
+- **[ʝana]**: [για να]{lang="el"} klingt wie ein Wort. Danach kommt fast immer ein Verb im Foto.
+- **[ʝaˈti]** mit steigender Stimme ist „warum?“, ohne Anstieg, mitten im Satz, „weil“.
+- **[pu]** direkt nach [χαίρομαι, λυπάμαι, ευτυχώς]{lang="el"} heißt „dass“, nicht „der, die, das“.
+- **[epiˈði]** und **[aˈfu]** tragen ihren Ton hinten; [aˈfu] hörst du im Gespräch oft mit
+  vorwurfsvoller Melodie: „wo doch …“.
+
+Der Hörtest für die Straße: Auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) werden
+Leute spontan befragt, mit griechischen und englischen Untertiteln. Fragen nach dem Warum lösen
+dort die meisten Nebensätze aus.
+
+<!-- EXERCISE: Hör-Auftrag Easy Greek: ein Straßeninterview mit Meinungs- oder Warum-Fragen suchen (Suchwörter: κρίση, οικονομία, γιατί; Ausweichlösung: jedes Interview), Durchgang 1 ohne Untertitel: επειδή/γιατί/για να zählen und je ein Beispiel im Kopf behalten; Durchgang 2 mit griechischen Untertiteln prüfen und bei zwei για να-Sätzen Foto oder Film bestimmen; offene Lösung mit Auswertungskriterien, Schwierigkeit 2 -->
+
+## Das Wichtigste {#sec-nebensatz-wichtigste}
+
+- Im griechischen Nebensatz bleibt das **Verb vorn**, Pronomen und [δεν/μην]{lang="el"} davor.
+- **Normales Verb** in jeder Zeit nach [ότι/πως, επειδή, γιατί, αφού, όταν, μόλις, ενώ, αν
+  και]{lang="el"}; **[να]{lang="el"}-Form** nach [για να, πριν (να), μέχρι να, χωρίς να]{lang="el"},
+  auch in Erzählungen über Vergangenes: [πήγε για να βρει, πριν φύγει]{lang="el"}.
+- **„Dass“:** [ότι/πως]{lang="el"} für Aussagen, [να]{lang="el"} für Aufforderungen
+  ([μου είπε ότι έρχεται / να έρθω]{lang="el"}), [που]{lang="el"} nach Gefühlen
+  ([χαίρομαι που ήρθες]{lang="el"}).
+- **„Weil“:** [επειδή]{lang="el"} überall, [γιατί]{lang="el"} meist hinten und in Antworten,
+  [αφού]{lang="el"} für bekannte Gründe („da ja“) und „nachdem“.
+- **Aspekt:** nach [όταν]{lang="el"} wie in Kapitel 4; nach [για να]{lang="el"} Foto für ein Ziel,
+  Film für einen dauernden Zweck; nach [πριν, μόλις]{lang="el"} fast immer Foto. Mit
+  Zukunftsbezug nach [όταν, μόλις]{lang="el"} kein [θα]{lang="el"}.
+- **[ενώ]{lang="el"}** wie deutsches „während“: zeitlich oder als Gegensatz. [αν και]{lang="el"}
+  „obwohl“ nie mit [να]{lang="el"}.
+
+## Zum Lesen: Zehn schwere Jahre {#sec-nebensatz-lesetext}
+
+::: {lang="el"}
+**Δέκα δύσκολα χρόνια**
+
+Όταν οι Έλληνες λένε «η κρίση», δεν εννοούν μια κακή εβδομάδα. Εννοούν τα χρόνια από το 2010
+μέχρι το 2018. Η χώρα χρωστούσε τόσα πολλά, ώστε δεν μπορούσε πια να δανειστεί από τις αγορές.
+Δανείστηκε λοιπόν από τις χώρες της ευρωζώνης και το ΔΝΤ. Για να πάρει τα δάνεια, υπέγραψε τρία
+«μνημόνια», συμφωνίες με σκληρούς όρους.
+
+Οι μισθοί και οι συντάξεις μειώθηκαν, ενώ οι φόροι ανέβηκαν. Μέσα σε λίγα χρόνια η οικονομία
+έχασε περίπου το ένα τέταρτο. Το 2013 ένας στους τέσσερις ήταν άνεργος, και από τους νέους
+περισσότεροι από τους μισούς.
+
+Εκατοντάδες χιλιάδες άνθρωποι, κυρίως νέοι, έφυγαν στο εξωτερικό για να βρουν δουλειά. Πολλοί
+έφυγαν χωρίς να το θέλουν. Όσοι έμειναν, συχνά γύρισαν στο σπίτι των γονιών τους, επειδή δεν
+μπορούσαν να πληρώνουν νοίκι. Σε πολλές οικογένειες η σύνταξη της γιαγιάς έγινε ο μισθός όλου του
+σπιτιού.
+
+Η κρίση άλλαξε και μικρά πράγματα. Επειδή το πετρέλαιο θέρμανσης έγινε πολύ ακριβό, πολλοί
+άναψαν ξανά τα τζάκια τους. Τους χειμώνες ένα γκρίζο σύννεφο έμενε πάνω από την Αθήνα, και οι
+γιατροί έλεγαν στους ηλικιωμένους να μη βγαίνουν το βράδυ.
+
+Υπήρχε όμως και κάτι άλλο: η αλληλεγγύη. Γιατροί άνοιξαν κοινωνικά ιατρεία, όπου εξέταζαν
+δωρεάν όσους δεν είχαν ασφάλιση. Γειτονιές μάζευαν τρόφιμα για οικογένειες που δεν είχαν τίποτα.
+
+Το καλοκαίρι του 2015 οι τράπεζες έκλεισαν για τρεις εβδομάδες. Μέχρι να ανοίξουν ξανά, κάθε
+κάρτα έδινε εξήντα ευρώ την ημέρα. Πολλοί θυμούνται ακόμα τις ουρές, αν και θα ήθελαν να τις
+ξεχάσουν.
+
+Τον Αύγουστο του 2018 τελείωσε το τελευταίο μνημόνιο. Η οικονομία μεγαλώνει ξανά, και αρκετοί από
+αυτούς που έφυγαν έχουν γυρίσει. Αλλά όταν ρωτάς κάποιον για εκείνα τα χρόνια, συνήθως σωπαίνει
+λίγο πριν απαντήσει. Και μετά λέει: «Χαίρομαι που τελείωσαν. Αλλά δεν τα ξεχνάω.»
+:::
+
+Drei Stellen zum Lesen:
+
+- **[τόσα πολλά, ώστε …]{lang="el"}** „so viel, dass …“: [ώστε]{lang="el"} leitet eine Folge ein,
+  mit normalem Verb. Zum Erkennen reicht es.
+- **[να μην μπορούσαν να πληρώνουν]{lang="el"}** steht nicht da, aber [δεν μπορούσαν να
+  πληρώνουν νοίκι]{lang="el"}: Film nach [να]{lang="el"}, weil die Miete jeden Monat fällig ist.
+- **[έλεγαν στους ηλικιωμένους να μη βγαίνουν]{lang="el"}**: [λέω να]{lang="el"} als
+  Aufforderung, verneint mit [μη]{lang="el"}, Film für ein Verhalten.
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [εννοώ]{lang="el"} | meinen |
+| [χρωστάω]{lang="el"} | schulden |
+| [ώστε]{lang="el"} | sodass |
+| [οι αγορές]{lang="el"} | hier: die Finanzmärkte |
+| [η ευρωζώνη]{lang="el"} | die Eurozone |
+| [το ΔΝΤ]{lang="el"} | der IWF (Internationaler Währungsfonds) |
+| [το μνημόνιο]{lang="el"} | das Memorandum (Kreditvereinbarung mit Auflagen) |
+| [η συμφωνία]{lang="el"} | die Vereinbarung |
+| [σκληρός, -ή, -ό]{lang="el"} | hart |
+| [ο όρος]{lang="el"} | die Bedingung |
+| [το τέταρτο]{lang="el"} | das Viertel (Kapitel 11) |
+| [εκατοντάδες χιλιάδες]{lang="el"} | Hunderttausende |
+| [κυρίως]{lang="el"} | vor allem |
+| [όσοι]{lang="el"} | alle, die (Kapitel 15) |
+| [το πετρέλαιο θέρμανσης]{lang="el"} | das Heizöl |
+| [γκρίζος, -α, -ο]{lang="el"} | grau |
+| [ο ηλικιωμένος]{lang="el"} | der ältere Mensch |
+| [το κοινωνικό ιατρείο]{lang="el"} | die Sozialpraxis, kostenlose Praxis |
+| [εξετάζω]{lang="el"} | untersuchen |
+| [η ασφάλιση]{lang="el"} | die (Kranken-)Versicherung |
+| [τα τρόφιμα]{lang="el"} | die Lebensmittel |
+| [μεγαλώνω]{lang="el"} | wachsen |
+| [αρκετοί, -ές, -ά]{lang="el"} | ziemlich viele |
+| [σωπαίνω]{lang="el"} | schweigen |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Zehn schwere Jahre**
+
+Wenn Griechen „die Krise“ sagen, meinen sie keine schlechte Woche. Sie meinen die Jahre von 2010
+bis 2018. Das Land schuldete so viel, dass es sich an den Märkten kein Geld mehr leihen konnte.
+Also lieh es sich Geld bei den Ländern der Eurozone und beim IWF. Um die Kredite zu bekommen,
+unterschrieb es drei „Memoranden“, Vereinbarungen mit harten Bedingungen.
+
+Löhne und Renten wurden gekürzt, während die Steuern stiegen. Innerhalb weniger Jahre verlor die
+Wirtschaft etwa ein Viertel. 2013 war jeder Vierte arbeitslos, unter den Jungen mehr als die Hälfte.
+
+Hunderttausende Menschen, vor allem junge, gingen ins Ausland, um Arbeit zu finden. Viele gingen,
+ohne es zu wollen. Wer blieb, zog oft zurück zu den Eltern, weil er keine Miete zahlen konnte. In
+vielen Familien wurde die Rente der Großmutter zum Gehalt des ganzen Haushalts.
+
+Die Krise veränderte auch kleine Dinge. Weil Heizöl sehr teuer wurde, zündeten viele wieder ihre
+Kamine an. In den Wintern hing eine graue Wolke über Athen, und die Ärzte sagten älteren
+Menschen, sie sollten abends nicht hinausgehen.
+
+Es gab aber auch etwas anderes: Solidarität. Ärzte eröffneten Sozialpraxen, in denen sie
+kostenlos alle untersuchten, die keine Versicherung hatten. Nachbarschaften sammelten Lebensmittel
+für Familien, die nichts hatten.
+
+Im Sommer 2015 schlossen die Banken für drei Wochen. Bis sie wieder aufmachten, gab jede Karte
+sechzig Euro am Tag. Viele erinnern sich noch an die Schlangen, obwohl sie sie gern vergessen
+würden.
+
+Im August 2018 endete das letzte Memorandum. Die Wirtschaft wächst wieder, und einige von denen,
+die gegangen waren, sind zurückgekommen. Aber wenn man jemanden nach diesen Jahren fragt, schweigt
+er meistens einen Moment, bevor er antwortet. Und dann sagt er: „Ich bin froh, dass sie vorbei
+sind. Aber ich vergesse sie nicht.“
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Die Zahlen im Text sind gerundet, und über die Krise wird in Griechenland bis heute politisch
+gestritten.
+
+- **Wirtschaftsleistung:** Der Rückgang um rund ein Viertel bezieht sich auf die Jahre 2008 bis
+  2013; die Krise begann also schon vor dem ersten Memorandum.
+- **Arbeitslosigkeit:** Der Höchststand lag 2013 bei etwa 27 %, bei den unter 25-Jährigen bei
+  knapp 60 %.
+- **Auswanderung:** Schätzungen für die Jahre ab 2010 schwanken je nach Quelle und Zeitraum
+  zwischen etwa 400 000 und über 500 000 Menschen.
+- **Smog:** Nach der Erhöhung der Heizölsteuer 2012 wurde in Athen und Thessaloniki in mehreren
+  Wintern Feinstaubsmog aus Kaminen und Holzöfen gemessen.
+
+Zum Nachlesen: die Zeitreihen von ELSTAT und Eurostat; eine gut lesbare Gesamtdarstellung ist
+Kevin Featherstone und Dimitri A. Sotiropoulos (Hg.), *The Oxford Handbook of Modern Greek
+Politics* (2020).
+:::
+
+<!-- CHECK: Fakten Lesetext/Einstieg/Vorsicht-Box: Bankfeiertag 29.6.–20.7.2015 (rund drei Wochen), Limit 60 € pro Karte und Tag; drei Memoranden 2010, 2012, 2015; Ende des dritten Programms 20.8.2018; BIP-Rückgang ca. 25 % 2008–2013; Arbeitslosigkeit 2013 ca. 27–28 %, Jugend (15–24) ca. 58–60 %; Auswanderung 400 000–500 000+ (Schätzungen, z.B. Lambrianidis/ICAP; Bank of Greece); Heizölsteuer-Erhöhung Okt. 2012 und Smog (αιθαλομίχλη) in Athen/Thessaloniki; κοινωνικά ιατρεία. Literaturangabe (Oxford Handbook of Modern Greek Politics, 2020, Hg. Featherstone/Sotiropoulos) verifizieren. -->
+
+<!-- CHECK: Lesetext sprachlich: „χρωστούσε τόσα πολλά, ώστε δεν μπορούσε πια να δανειστεί από τις αγορές“ idiomatisch? „ένα γκρίζο σύννεφο έμενε πάνω από την Αθήνα“ oder besser „σκέπαζε την Αθήνα“? „σωπαίνει λίγο πριν απαντήσει“ natürlich? -->
+
+<!-- EXERCISE: Leseverstehen und Nebensätze im Lesetext, Art: Teil A richtig/falsch (7 Aussagen, u.a. Krise nur 2015?, Löhne stiegen?, Kamine wegen Kälte oder wegen Preis?, Banken drei Monate zu?); Teil B alle Konjunktionen suchen, einordnen (normales Verb / να-Form) und bei den να-Formen Foto oder Film begründen (βρουν, πληρώνουν, βγαίνουν, ανοίξουν, απαντήσει); Teil C drei Sätze des Textes laut umformen (επειδή → γιατί hinten; ενώ → αν και; για να mit anderem Subjekt), Schwierigkeit 3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το χρέος, τα χρέη]{lang="el"} | [to ˈxreos], [ta ˈxrei] | die Schuld (Geld) |
+| [το δάνειο]{lang="el"} | [to ˈðanio] | der Kredit, das Darlehen |
+| [δανείζομαι, δανείστηκα]{lang="el"} | [ðaˈnizome], [ðaˈnistika] | sich (Geld) leihen |
+| [ο φόρος]{lang="el"} | [o ˈforos] | die Steuer |
+| [μειώνω, μείωσα; μειώνομαι, μειώθηκα]{lang="el"} | [miˈono], [ˈmiosa]; [miˈonome], [miˈoθika] | kürzen, senken; sinken, gekürzt werden |
+| [άνεργος, -η, -ο]{lang="el"} | [ˈanerɣos] | arbeitslos |
+| [η ανεργία]{lang="el"} | [i anerˈʝia] | die Arbeitslosigkeit |
+| [νέος, -α, -ο; οι νέοι]{lang="el"} | [ˈneos], [i ˈnei] | jung; neu; die jungen Leute |
+| [το εξωτερικό]{lang="el"} | [to eksoteriˈko] | das Ausland; [στο εξωτερικό]{lang="el"} ins/im Ausland |
+| [η θέρμανση]{lang="el"} | [i ˈθermansi] | die Heizung |
+| [το τζάκι]{lang="el"} | [to ˈdzaci] | der Kamin |
+| [η αλληλεγγύη]{lang="el"} | [i alileˈŋɟii] | die Solidarität |
+| [δωρεάν]{lang="el"} | [ðoreˈan] | kostenlos, gratis |
+:::
