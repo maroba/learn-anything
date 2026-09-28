@@ -143,7 +143,7 @@ bis zwei Wochen pro Kapitel bei 5 Stunden pro Woche.
 - **Lesezeit:** 40 min
 - **Inhalt:** Sachthema: Wissenschaftsnachrichten („Forscher sagen, dass …“); Hörspur: Nachrichtenzitate
 
-### 19 Partizip und Gerundium
+### 19 Müde, aber glücklich: Partizip und Gerundium
 - **Datei:** 19-partizip-gerundium
 - **Lernziele:** kann Partizipien auf -μένος als Adjektive verwenden; kann Gerundien auf -οντας bilden und verstehen
 - **Voraussetzungen:** 13

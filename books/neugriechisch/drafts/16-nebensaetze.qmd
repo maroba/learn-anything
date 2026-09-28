@@ -213,13 +213,12 @@ Bezugswort.
   [*je suis content que tu sois venu*]{lang="fr"} nehmen nach Gefühlen den Subjunktiv. Griechisch
   nimmt ein normales Verb, weil das Gekommensein eine Tatsache ist: [Χαίρομαι που
   ήρθες.]{lang="el"}, nicht \*[χαίρομαι να ήρθες]{lang="el"}.
-- **Deutsche Falle:** „Ich freue mich, dass …“ lädt zu [ότι]{lang="el"} ein. \*[Χαίρομαι ότι
-  ήρθες]{lang="el"} hört man zwar gelegentlich, üblich ist aber [που]{lang="el"}.
-- [Χαίρομαι να σε βλέπω]{lang="el"} gibt es, aber es heißt etwas anderes: „Ich sehe dich gern“,
-  allgemein, nicht über ein bestimmtes Ereignis.
+- **Deutsche Falle:** „Ich freue mich, dass …“ lädt zu [ότι]{lang="el"} ein. [Χαίρομαι ότι
+  ήρθες]{lang="el"} kommt vor, vor allem geschrieben; üblicher und idiomatischer ist
+  [που]{lang="el"}.
+- „Schön, dich zu sehen“ heißt ebenfalls mit [που]{lang="el"}: [Χαίρομαι που σε
+  βλέπω.]{lang="el"} Für „Ich sehe dich gern“ sagt man [Μου αρέσει να σε βλέπω.]{lang="el"}
 :::
-
-<!-- CHECK: „Χαίρομαι ότι ήρθες“ – gelegentlich/akzeptabel, aber που klar üblicher? Formulierung der Achtung-Box prüfen. „Χαίρομαι να σε βλέπω“ als allgemeine Aussage idiomatisch? -->
 
 ::: {.callout-note .exercise}
 ## Übung 16.1: Die Tochter kommt zurück
@@ -232,7 +231,7 @@ Chat: „1a, 2c, …“.
 1. Η Ελένη λέει \_\_\_ γυρίζει τον Σεπτέμβριο.
 2. Χαίρομαι πολύ \_\_\_ γυρίζεις, κορίτσι μου!
 3. Η μαμά λέει στον Νίκο \_\_\_ την πάρει από το αεροδρόμιο.
-4. Λυπάμαι \_\_\_ δεν θα είμαι εκεί την Κυριακή.
+4. Λυπάμαι \_\_\_ δε θα είμαι εκεί την Κυριακή.
 5. Ξέρετε \_\_\_ ο Νίκος πούλησε το αυτοκίνητό του;
 6. Θέλω \_\_\_ φάμε όλοι μαζί το Σάββατο.
 7. Καλά \_\_\_ μας το είπες νωρίς.
@@ -265,7 +264,7 @@ wenn das Spanische hier den Subjuntivo will.
   [να]{lang="el"}.
 - 2, 4, 7: Gefühl über eine Tatsache, also [που]{lang="el"}. Die Falle: *me alegro de que
   vuelvas* verführt zu \*[χαίρομαι να γυρίζεις]{lang="el"}; „ich freue mich, dass“ zu
-  [ότι]{lang="el"}, das man gelegentlich hört, aber weniger üblich ist. In 4 steht sogar
+  [ότι]{lang="el"}, das vorkommt, aber weniger idiomatisch ist. In 4 steht sogar
   [θα]{lang="el"}: Das Fehlen am Sonntag steht fest, also ist es eine Tatsache.
 - 5, 8: Wissen und Meinen, also [ότι]{lang="el"} oder [πως]{lang="el"}, beide richtig
   (*creo que* + Indikativ).
@@ -294,22 +293,23 @@ Satzanfang:
 - [Επειδή οι τράπεζες ήταν κλειστές, ο κόσμος περίμενε στα μηχανήματα.]{lang="el"} – Weil die
   Banken zu waren, wartete man an den Automaten.
 
-**[γιατί]{lang="el"}** [ʝaˈti] heißt „warum?“ und „weil“, wie italienisch
-[*perché*]{lang="it"}. Als „weil“ steht es fast immer **hinter** dem Hauptsatz, ähnlich dem
+**[γιατί]{lang="el"}** [ʝaˈti] heißt „warum?“ und „weil“, wie spanisch
+[*¿por qué?*]{lang="es"} und [*porque*]{lang="es"}, nur ohne Unterschied in der Schrift. Als „weil“ steht es fast immer **hinter** dem Hauptsatz, ähnlich dem
 deutschen „denn“, und in Antworten:
 
 - [Περιμένω γιατί το ψυγείο μου είναι άδειο.]{lang="el"} – Ich warte, weil mein Kühlschrank leer ist.
 - [— Γιατί περιμένετε; — Γιατί είμαι αισιόδοξος.]{lang="el"} – Warum …? – Weil …
 
-Einen Satz mit [Γιατί]{lang="el"} am Anfang versteht jeder als Frage. Das Ohr hilft: Die Frage
-steigt am Ende, das „weil“ läuft einfach weiter.
+Steht ein [γιατί]{lang="el"}-Satz vor dem Hauptsatz, hört man eine Frage. Als Antwort allein
+ist [Γιατί …]{lang="el"} dagegen ganz normal. Das Ohr hilft: Die Frage hebt die Stimme auf
+[γιατί]{lang="el"}, das „weil“ geht unbetont durch.
 
 **[αφού]{lang="el"}** [aˈfu] kennst du als „nachdem“ (Kapitel 14). Es heißt auch „da ja, wo
 doch“: ein Grund, den beide schon kennen, oft mit einem Vorwurf darin. Spanisch
 [*ya que*]{lang="es"}, französisch [*puisque*]{lang="fr"}:
 
-- [Αφού δεν έχεις λεφτά, γιατί αγόρασες καινούριο κινητό;]{lang="el"} – Wo du doch kein Geld
-  hast, warum hast du ein neues Handy gekauft?
+- [Αφού σου αρέσει τόσο η Ελλάδα, γιατί δε μένεις εδώ;]{lang="el"} – Wo dir Griechenland doch
+  so gefällt, warum bleibst du nicht hier?
 - [Αφού το ξέρεις, γιατί ρωτάς;]{lang="el"} – Wenn du’s doch weißt, warum fragst du?
 
 Welche Bedeutung gemeint ist, zeigt der Zusammenhang: „nachdem“ ordnet zwei Ereignisse, „da ja“
@@ -321,8 +321,8 @@ In Nachrichten und Behördentexten liest du noch **[διότι]{lang="el"}** [ð
 ::: {.callout-warning}
 ## Achtung
 
-- [Γιατί έβρεχε, μείναμε σπίτι.]{lang="el"} klingt wie eine abgebrochene Frage. Steht der
-  Grund vorn, nimm [επειδή]{lang="el"}: [Επειδή έβρεχε, μείναμε σπίτι.]{lang="el"} Das Spanische
+- [Γιατί έβρεχε, μείναμε σπίτι.]{lang="el"} klingt wie eine abgebrochene Frage; als Antwort
+  allein wäre [Γιατί έβρεχε.]{lang="el"} ganz normal. Steht der Grund vorn, nimm [επειδή]{lang="el"}: [Επειδή έβρεχε, μείναμε σπίτι.]{lang="el"} Das Spanische
   kennt dieselbe Arbeitsteilung: [*como llovía*]{lang="es"} vorn, [*porque*]{lang="es"} hinten.
 - [γιατί]{lang="el"} [ʝaˈti] ist zweisilbig: kein [i-a], sondern ein *j* wie in *ja*.
 :::
@@ -335,9 +335,9 @@ Satz mit dem Grund. Welches „weil“ passt?
 
 1. A [Δεν πήγαμε διακοπές.]{lang="el"} B [Δεν είχαμε λεφτά.]{lang="el"}
 2. (vorn) A [Πληρώναμε μόνο με μετρητά.]{lang="el"} B [Οι τράπεζες ήταν κλειστές.]{lang="el"}
-3. A [Γιατί αγοράζεις καινούριο αυτοκίνητο;]{lang="el"} B [Δεν έχεις δουλειά.]{lang="el"}
+3. (vorn) A [Γιατί αγοράζεις καινούριο αυτοκίνητο;]{lang="el"} B [Δεν έχεις δουλειά.]{lang="el"}
 4. (vorn) A [Ο γιος μου γύρισε στο σπίτι.]{lang="el"} B [Το νοίκι ανέβηκε.]{lang="el"}
-5. A [Γιατί περιμένεις;]{lang="el"} B [Ξέρεις ότι το μηχάνημα είναι άδειο.]{lang="el"}
+5. (vorn) A [Γιατί περιμένεις;]{lang="el"} B [Ξέρεις ότι το μηχάνημα είναι άδειο.]{lang="el"}
 6. A [Ο Κώστας έφυγε στη Γερμανία.]{lang="el"} B [Εδώ δεν έβρισκε δουλειά.]{lang="el"}
 
 **Teil B.** Frage und Antwort laut, beide mit [γιατί]{lang="el"}, und achte auf die Melodie:
@@ -366,13 +366,15 @@ In 3 und 5 kommt der Grund vor die Frage, mit [αφού]{lang="el"}. Für 7: [μ
 1. [Δεν πήγαμε διακοπές, γιατί (επειδή) δεν είχαμε λεφτά.]{lang="el"}
 2. [Επειδή οι τράπεζες ήταν κλειστές, πληρώναμε μόνο με μετρητά.]{lang="el"}
    [Γιατί]{lang="el"} am Anfang klänge wie eine Frage.
-3. [Αφού δεν έχεις δουλειά, γιατί αγοράζεις καινούριο αυτοκίνητο;]{lang="el"}
+3. [Αφού δεν έχεις δουλειά, γιατί αγοράζεις καινούριο αυτοκίνητο;]{lang="el"} Nachgestellt
+   geht es auch: [Γιατί αγοράζεις καινούριο αυτοκίνητο, αφού δεν έχεις δουλειά;]{lang="el"}
 4. [Επειδή το νοίκι ανέβηκε, ο γιος μου γύρισε στο σπίτι.]{lang="el"}
 5. [Αφού ξέρεις ότι το μηχάνημα είναι άδειο, γιατί περιμένεις;]{lang="el"} [Επειδή]{lang="el"}
    ginge grammatisch, nähme aber den Vorwurf heraus.
 6. [Ο Κώστας έφυγε στη Γερμανία, γιατί (επειδή) εδώ δεν έβρισκε δουλειά.]{lang="el"}
 7. [— Γιατί γύρισες; — Γιατί μου έλειπε η οικογένειά μου.]{lang="el"} Auch [μου
-   έλειψε]{lang="el"} ist richtig. Die Frage steigt am Ende, die Antwort nicht.
+   έλειψε]{lang="el"} ist richtig. In der Frage trägt [γιατί]{lang="el"} den Ton, in der
+   Antwort geht es unbetont durch.
 8. [— Γιατί περιμένετε εδώ; — Γιατί θέλουμε να βγάλουμε λεφτά.]{lang="el"} In der Antwort
    geht auch [Επειδή …]{lang="el"}.
 
@@ -405,8 +407,8 @@ Nach [όταν]{lang="el"} „als, wenn“ wählst du Zeit und Aspekt nach den R
 
 **[μόλις]{lang="el"}** heißt vor einem Nebensatz „sobald, kaum dass“, fast immer mit dem Foto:
 
-- [Μόλις άνοιξαν οι τράπεζες, οι ουρές μπήκαν μέσα.]{lang="el"} – Kaum hatten die Banken
-  aufgemacht, zogen die Schlangen nach drinnen um.
+- [Μόλις άνοιξαν οι τράπεζες, οι ουρές πέρασαν μέσα στις τράπεζες.]{lang="el"} – Kaum hatten
+  die Banken aufgemacht, zogen die Schlangen nach drinnen um.
 
 Den Unterschied zum „gerade eben“ aus Kapitel 7 zeigt der Satz: Folgt ein zweiter Satz, ist es in
 der Regel „sobald“.
@@ -416,13 +418,15 @@ der Regel „sobald“.
 
 Geht es um die Zukunft, steht nach [όταν]{lang="el"} und [μόλις]{lang="el"} die perfektive Form
 **ohne [θα]{lang="el"}**, wie in [Γράψε μου όταν φτάσεις.]{lang="el"} aus Kapitel 9:
-[Μόλις φτάσω, θα σε πάρω.]{lang="el"} „Sobald ich ankomme, rufe ich dich an.“ Spanisch sagt
-ebenso [*cuando llegues*]{lang="es"}, nicht [*cuando llegarás*]{lang="es"}. Mehr dazu in Kapitel 17.
+[Μόλις φτάσω, θα σε πάρω.]{lang="el"} „Sobald ich ankomme, rufe ich dich an.“ Ebenso nach
+[αφού]{lang="el"} „nachdem“: [Αφού φάμε, θα βγούμε.]{lang="el"} Spanisch sagt
+[*cuando llegues*]{lang="es"}, nicht [*cuando llegarás*]{lang="es"}. Mehr dazu in Kapitel 17.
 
 ### [πριν]{lang="el"} und [μέχρι να]{lang="el"}: immer die [να]{lang="el"}-Form {#sec-nebensatz-prin}
 
 Aus dem Dialog: [το μηχάνημα αδειάζει πριν έρθει το μεσημέρι]{lang="el"}. Nach [πριν]{lang="el"}
-„bevor“ steht die [να]{lang="el"}-Form, mit oder ohne [να]{lang="el"}: [πριν (να) έρθει]{lang="el"}.
+„bevor“ steht die [να]{lang="el"}-Form, mit oder ohne [να]{lang="el"}: [πριν (να) έρθει]{lang="el"},
+wie in [Πριν κλείσεις]{lang="el"} aus Kapitel 5.
 Das gilt auch, wenn alles in der Vergangenheit liegt:
 
 - [Πριν κλείσουν οι τράπεζες, δεν είχα ποτέ μετρητά.]{lang="el"} – Bevor die Banken schlossen,
@@ -436,10 +440,10 @@ Unterscheidung zu Kapitel 2: [πριν από]{lang="el"} + Nomen ([πριν α�
 [πριν]{lang="el"} + Verb ([πριν έρθει]{lang="el"}).
 
 **[μέχρι να]{lang="el"}** „bis“ funktioniert genauso: [Περίμενε μέχρι να ανοίξει η
-τράπεζα.]{lang="el"} „Warte, bis die Bank aufmacht.“ In Erzählungen über die Vergangenheit hörst
-du daneben auch [μέχρι που]{lang="el"} mit dem Aorist.
-
-<!-- CHECK: μέχρι να in Vergangenheitskontext („Περιμέναμε μέχρι να ανοίξει“) üblich neben „μέχρι που άνοιξε“? Formulierung „hörst du daneben auch μέχρι που mit dem Aorist“ prüfen. -->
+τράπεζα.]{lang="el"} „Warte, bis die Bank aufmacht.“ In der Vergangenheit nimmt das Spanische
+hier den Indikativ ([*esperamos hasta que vino*]{lang="es"}); Griechisch bleibt meist bei
+[να]{lang="el"}: [Περιμέναμε μέχρι να έρθει.]{lang="el"} Daneben gibt es [μέχρι που]{lang="el"}
+mit dem Aorist.
 
 ::: {.callout-important}
 ## Merke
@@ -450,19 +454,20 @@ du daneben auch [μέχρι που]{lang="el"} mit dem Aorist.
 | [μόλις]{lang="el"} (sobald) | normales Verb | fast immer Foto |
 | [πριν (να), μέχρι να]{lang="el"} | [να]{lang="el"}-Form, auch für Vergangenes | fast immer Foto |
 
-Bei Zukunftsbezug nach [όταν, μόλις, αφού]{lang="el"}: perfektive Form ohne [θα]{lang="el"}.
+Ausnahme: Liegt das Ereignis in der Zukunft, steht nach
+[όταν, μόλις, αφού]{lang="el"} die Form ohne [θα]{lang="el"}, dieselbe wie nach [να]{lang="el"},
+nur ohne [να]{lang="el"}. Genau wie [*cuando llegues*]{lang="es"} im Subjuntivo: Was noch nicht
+Tatsache ist, rutscht in die zeitlose Form.
 :::
 
 ::: {.callout-warning}
 ## Achtung
 
 - \*[πριν έφυγα]{lang="el"}: Nach [πριν]{lang="el"} nie der Aorist. Richtig: [πριν φύγω]{lang="el"}.
-- [όταν θα φτάσω, θα σε πάρω]{lang="el"} ist deutsch gedacht („wenn ich ankommen werde“).
-  Standard ist [όταν φτάσω]{lang="el"}; die Variante mit [θα]{lang="el"} hörst du im Gespräch
-  gelegentlich, nachahmen musst du sie nicht (Kapitel 17).
+- [όταν θα φτάσω, θα σε πάρω]{lang="el"} liegt für Deutschsprachige nahe („wenn ich ankommen
+  werde“). Standard ist [όταν φτάσω]{lang="el"}; die Variante mit [θα]{lang="el"} sagen auch
+  Griechen umgangssprachlich, nachahmen musst du sie nicht (Kapitel 17).
 :::
-
-<!-- CHECK: „όταν θα φτάσω“ kommt umgangssprachlich vor; als „nicht Standard“ markieren statt als Fehler? Ggf. Achtung-Box abschwächen und auf Kapitel 17 verweisen. -->
 
 ::: {.callout-note .exercise}
 ## Übung 16.3: Juli 2015
@@ -473,7 +478,7 @@ oder [να]{lang="el"}-Form? Zuerst eine Erinnerung, dann ein Plan aus derselben
 ::: {lang="el" .no-audio}
 Τον Ιούλιο του 2015, όταν (1: κλείνω) \_\_\_ οι τράπεζες, ήμουν στην Αθήνα. Κάθε μέρα πήγαινα
 στο μηχάνημα πριν (2: ανοίγω) \_\_\_ τα μαγαζιά. Όταν (3: βλέπω, εμείς) \_\_\_ κάποια γιαγιά, την
-αφήναμε να περάσει μπροστά. Μια μέρα, μόλις (4: φτάνω) \_\_\_ στο μηχάνημα, άδειασε. Περιμέναμε
+αφήναμε να περάσει μπροστά. Μια μέρα, μόλις (4: φτάνω, εγώ) \_\_\_ στο μηχάνημα, άδειασε. Περιμέναμε
 μία ώρα μέχρι να (5: έρχομαι) \_\_\_ κάποιος από την τράπεζα.
 
 Αύριο θα ξυπνήσω στις έξι. Πριν (6: φεύγω) \_\_\_ από το σπίτι, θα πάρω την κάρτα της μητέρας μου.
@@ -510,8 +515,8 @@ In 6 bis 8 steht kein [θα]{lang="el"} im Nebensatz.
 6. [φύγω]{lang="el"}: Foto ohne [θα]{lang="el"}.
 7. [βγάλω]{lang="el"}: nach [αφού]{lang="el"} mit Zukunftsbezug perfektive Form ohne
    [θα]{lang="el"}.
-8. [γυρίσω]{lang="el"}: [όταν θα γυρίσω]{lang="el"} ist deutsch gedacht; man hört es
-   gelegentlich, Standard ist [όταν γυρίσω]{lang="el"}.
+8. [γυρίσω]{lang="el"}: [όταν θα γυρίσω]{lang="el"} liegt für Deutschsprachige nahe und ist
+   umgangssprachlich zu hören, Standard ist [όταν γυρίσω]{lang="el"}.
 
 :::
 
@@ -552,8 +557,10 @@ Auch in einer Erzählung bleibt es bei der [να]{lang="el"}-Form, wie nach [π�
 - [Πέρσι πήγε στη Γερμανία για να βρει δουλειά.]{lang="el"} – Letztes Jahr ging er nach
   Deutschland, um Arbeit zu finden.
 
-Nicht \*[για να βρήκε]{lang="el"}. Spanisch verschiebt hier ins Imperfekt des Subjuntivo
-([*para que encontrara*]{lang="es"}), Griechisch verschiebt nichts.
+Nicht \*[για να βρήκε]{lang="el"}. Bei gleichem Subjekt nimmt das Spanische den Infinitiv
+([*para encontrar*]{lang="es"}); bei anderem Subjekt verschiebt es ins Imperfekt des Subjuntivo
+([*le di dinero para que encontrara casa*]{lang="es"}). Griechisch bleibt bei
+[για να βρει]{lang="el"}.
 
 Die Wahl bleibt der Aspekt. **Foto** ist der Normalfall: ein Ziel, das erreicht werden soll.
 **Film** nimmst du, wenn der Zweck selbst eine Gewohnheit oder ein Dauerzustand ist:
@@ -578,7 +585,7 @@ Die Probe: Könnte „jedes Mal, laufend“ davorstehen? Dann Film. Sonst Foto.
 
 **Teil A.** Sag laut auf Griechisch. Achte auf Foto oder Film nach [για να]{lang="el"}.
 
-1. Ich spare, um in Berlin zu arbeiten.
+1. Ich spare, um nach Berlin zu ziehen.
 2. Ich gebe dir meine Karte, damit du Bargeld abhebst.
 3. 2012 ging sie nach Deutschland, um Arbeit zu finden.
 4. Wir sind um sechs gekommen, um nicht in der Schlange zu warten.
@@ -593,14 +600,14 @@ Die Probe: Könnte „jedes Mal, laufend“ davorstehen? Dann Film. Sonst Foto.
 1. Πέρσι πήγε στη Γερμανία για να βρήκε δουλειά.
 2. Πριν έφυγα από την Αθήνα, πούλησα το αυτοκίνητο.
 3. Έμεινα στο σπίτι, επειδή η τράπεζα κλειστή ήταν.
-4. Χαίρομαι ότι γύρισες.
+4. Χαίρομαι να γύρισες.
 :::
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-„Sparen“: [μαζεύω λεφτά]{lang="el"}. Wer handelt im Nebensatz? Die Person steckt im Verb nach
+„Sparen“: [μαζεύω λεφτά]{lang="el"}, „umziehen“: [μετακομίζω, μετακόμισα]{lang="el"}. Wer handelt im Nebensatz? Die Person steckt im Verb nach
 [να]{lang="el"}, bei „um zu“ wie bei „damit“.
 :::
 
@@ -608,7 +615,7 @@ Die Probe: Könnte „jedes Mal, laufend“ davorstehen? Dann Film. Sonst Foto.
 ## Hinweis 2
 
 Die Probe „jedes Mal, laufend“ trifft auf 6 und 7 zu. In 8 hat [ξέρω]{lang="el"} keinen
-perfektiven Stamm. In Teil B sind 1 und 2 klar falsch, 3 und 4 eher unüblich.
+perfektiven Stamm. In Teil B sind 1, 2 und 4 falsch, 3 klingt unnatürlich.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -616,7 +623,8 @@ perfektiven Stamm. In Teil B sind 1 und 2 klar falsch, 3 und 4 eher unüblich.
 
 **Teil A**
 
-1. [Μαζεύω λεφτά για να δουλέψω στο Βερολίνο.]{lang="el"}
+1. [Μαζεύω λεφτά (Κάνω οικονομία) για να μετακομίσω στο Βερολίνο.]{lang="el"} Foto: ein
+   einmaliges Ziel.
 2. [Σου δίνω την κάρτα μου για να βγάλεις μετρητά (λεφτά).]{lang="el"}
 3. [Το 2012 πήγε (έφυγε) στη Γερμανία για να βρει δουλειά.]{lang="el"} Nicht
    \*[για να βρήκε]{lang="el"}.
@@ -626,17 +634,18 @@ perfektiven Stamm. In Teil B sind 1 und 2 klar falsch, 3 und 4 eher unüblich.
    Film, das Schicken wiederholt sich; [να στείλω]{lang="el"} wäre eine einzelne Überweisung.
 7. [Της τηλεφωνώ κάθε Κυριακή για να μην ανησυχεί.]{lang="el"} Film für den Dauerzustand;
    [να μην ανησυχήσει]{lang="el"} ist nicht falsch, klingt aber nach einem einzelnen Anlass.
-8. [Πουλήσαμε το αυτοκίνητο χωρίς να το ξέρουν τα παιδιά.]{lang="el"} Kein [δεν]{lang="el"}:
-   [χωρίς]{lang="el"} verneint schon.
+8. [Πουλήσαμε το αυτοκίνητο χωρίς να το ξέρουν τα παιδιά.]{lang="el"} Auch [χωρίς να το
+   μάθουν]{lang="el"} („ohne dass sie es erfuhren“). Kein [δεν]{lang="el"}: [χωρίς]{lang="el"}
+   verneint schon.
 
 **Teil B**
 
-1. [… για να βρει δουλειά.]{lang="el"} Kein Wechsel wie spanisch *encontrara*.
+1. [… για να βρει δουλειά.]{lang="el"} Die [να]{lang="el"}-Form kennt keine Vergangenheit.
 2. [Πριν φύγω από την Αθήνα, …]{lang="el"} Nach [πριν]{lang="el"} nie der Aorist.
-3. [… επειδή η τράπεζα ήταν κλειστή.]{lang="el"} Deutsche Wortstellung; mit Nachdruck auf
-   [κλειστή]{lang="el"} ginge sie, neutral steht das Verb vorn.
-4. [Χαίρομαι που γύρισες.]{lang="el"} [ότι]{lang="el"} hört man gelegentlich, üblich ist
-   [που]{lang="el"}.
+3. [… επειδή η τράπεζα ήταν κλειστή.]{lang="el"} Deutsche Wortstellung; neutral steht das Verb
+   vorn. Mit Nachdruck klingt [επειδή ΚΛΕΙΣΤΗ ήταν η τράπεζα]{lang="el"} natürlicher.
+4. [Χαίρομαι που γύρισες.]{lang="el"} Das Zurückkommen ist Tatsache, also kein
+   [να]{lang="el"}, auch wenn *me alegro de que hayas vuelto* dazu verführt.
 :::
 
 ::: {.vocab}
@@ -690,11 +699,12 @@ den Satz dann laut auf Deutsch. Im Chat: „1 zeitlich, 2 dagegen, …“.
 6. Ο αδερφός μου έμεινε στην Ελλάδα, ενώ εγώ έφυγα.
 :::
 
-**Teil B.** Sag laut mit [αν και]{lang="el"}:
+**Teil B.** Sag laut, 7 bis 9 mit [αν και]{lang="el"}, 10 mit [ενώ]{lang="el"}:
 
 7. Obwohl die Banken zu waren, habe ich mir keine Sorgen gemacht.
 8. Obwohl sein Gehalt klein ist, hilft er seinen Eltern.
 9. Wir sind geblieben, obwohl wir gehen wollten.
+10. Ich zahle viel Miete, während mein Bruder bei unseren Eltern wohnt.
 :::
 
 ::: {.callout-tip collapse="true" .hint}

@@ -1,5 +1,5 @@
 ---
-title: "Partizip und Gerundium"
+title: "Müde, aber glücklich: Partizip und Gerundium"
 ---
 
 ::: {.callout-note .review}
@@ -24,7 +24,7 @@ Stunde. Die Freundin kommt eben erst an.
 ::: {lang="el"}
 — Ζωντανή είσαι;
 
-— Μόλις. Δεκαέξι χιλιόμετρα κατεβαίνοντας. Είμαι πτώμα.
+— Μετά βίας. Δεκαέξι χιλιόμετρα κατεβαίνοντας. Είμαι πτώμα.
 
 — Κάτσε. Σου πήρα μια μπίρα, παγωμένη.
 
@@ -113,7 +113,7 @@ wie etwas war und wie es geschah.
 | Griechisch | Deutsch |
 |---|---|
 | [Ζωντανός/Ζωντανή είσαι;]{lang="el"} | Lebst du noch? (scherzhaft; [ζωντανός]{lang="el"} Kapitel 3) |
-| [μόλις]{lang="el"} | gerade so, kaum (Kapitel 7: gerade eben) |
+| [μετά βίας]{lang="el"} | gerade so, mit Mühe ([η βία]{lang="el"} die Gewalt) |
 | [αφού]{lang="el"} | wo doch, da ja (Kapitel 16) |
 | [οι Πόρτες]{lang="el"} | die Portes, „die Tore“, die engste Stelle der Schlucht |
 | [πλατς]{lang="el"} | platsch |
@@ -128,8 +128,8 @@ wie etwas war und wie es geschah.
 ## Das Partizip: [γραμμένος, κουρασμένος]{lang="el"} {#sec-partizip-bildung}
 
 Ein paar Partizipien sind dir schon begegnet. Im Lesetext von Kapitel 13 fand der Tomograf
-[γρανάζια κρυμμένα μέσα στον χαλκό]{lang="el"} und ein [εγχειρίδιο γραμμένο πάνω στη
-μηχανή]{lang="el"}, „versteckte“ Zahnräder und eine „geschriebene“ Anleitung. Die Streikmeldung
+[γρανάζια που ήταν κρυμμένα μέσα στον χαλκό]{lang="el"} und [ένα ολόκληρο εγχειρίδιο, γραμμένο
+πάνω στη μηχανή]{lang="el"}, „versteckte“ Zahnräder und eine „geschriebene“ Anleitung. Die Streikmeldung
 aus Kapitel 5 lautete [Δεμένα τα πλοία]{lang="el"}, „die Schiffe (sind) festgemacht“. Und seit
 Kapitel 2 sagst du [την περασμένη εβδομάδα]{lang="el"}, „die vergangene Woche“.
 
@@ -160,12 +160,24 @@ Was stehen bleibt, gleicht sich dem [μ]{lang="el"} an:
 Die Betonung liegt immer auf [-μέ-]{lang="el"}, in jeder Form: [κουρασμένος, κουρασμένη,
 κουρασμένοι]{lang="el"}. Das Augment ist ohnehin weg, weil der Mediopassiv-Aorist keins hat.
 
-Wo der Mediopassiv-Aorist krumm ist, hilft die linke Spalte: [βρέχω]{lang="el"} hat den
-unregelmäßigen Aorist [βράχηκα]{lang="el"}, aber [έβρεξα]{lang="el"} führt nach der Tabelle zu
-[βρεγμένος]{lang="el"}. Ebenso gehören [πάγωσα → παγωμένος]{lang="el"} und
-[πέρασα → περασμένος]{lang="el"} zur Tabelle, obwohl man den Mediopassiv-Aorist dieser Verben
-selten hört. Eigene Wege gehen [καμένος]{lang="el"} „verbrannt“ (von [καίω]{lang="el"}, Kapitel 14)
-und [πεθαμένος]{lang="el"} „tot“.
+Die Tabelle lässt sich auch direkt von links nach rechts lesen, und das ist die Abkürzung, wenn
+du den Mediopassiv-Aorist nicht kennst oder er krumm ist. Als Faustregel:
+
+| Aktiv-Aorist | Partizip | Beispiel |
+|---|---|---|
+| [-σα]{lang="el"} | [-σμένος]{lang="el"} | [πέρασα → περασμένος]{lang="el"} |
+| [-ψα]{lang="el"} | [-μμένος]{lang="el"} | [έκρυψα → κρυμμένος]{lang="el"} |
+| [-ξα]{lang="el"} | [-γμένος]{lang="el"} | [έβρεξα → βρεγμένος]{lang="el"} |
+| [-ησα]{lang="el"} | [-ημένος]{lang="el"} | [αγάπησα → αγαπημένος]{lang="el"} |
+| [-ωσα]{lang="el"} | [-ωμένος]{lang="el"} | [πάγωσα → παγωμένος]{lang="el"} |
+
+Der Weg über den Aktiv-Aorist rettet dich bei [βρέχω]{lang="el"}: Der Mediopassiv-Aorist
+[βράχηκα]{lang="el"} ist unregelmäßig, [έβρεξα]{lang="el"} führt glatt zu [βρεγμένος]{lang="el"}.
+Vorsicht aber bei Verben auf [-νω]{lang="el"}: [ντύνω, δένω, λύνω]{lang="el"} haben
+[ντύθηκα, δέθηκα, λύθηκα]{lang="el"}, also [ντυμένος, δεμένος, λυμένος]{lang="el"} ohne
+[σ]{lang="el"}, obwohl der Aktiv-Aorist [έντυσα, έδεσα, έλυσα]{lang="el"} lautet. Eigene Wege gehen
+[καμένος]{lang="el"} „verbrannt“ (von [καίω]{lang="el"}, Kapitel 14) und [πεθαμένος]{lang="el"}
+„tot“.
 
 ### Wie ein Adjektiv {#sec-partizip-adjektiv}
 
@@ -193,18 +205,20 @@ Viele Gefühle und Zustände sind im Griechischen Partizipien, genau wie im Deut
 | [λυπημένος]{lang="el"} | traurig | [λυπάμαι]{lang="el"} (Kapitel 10) |
 | [ευτυχισμένος]{lang="el"} | glücklich | – |
 
-Bei Verben auf [-εύω]{lang="el"} schwankt es: [ερωτεύ-τηκα → ερωτευμένος]{lang="el"} behält das
-[ευ]{lang="el"} wie der Aorist, viele Alltagsverben verlieren das [υ]{lang="el"}:
-[μπερδεύω → μπερδεμένος]{lang="el"} „verwirrt“, [σημαδεύω → σημαδεμένος]{lang="el"} „markiert“.
-Diese Partizipien lernst du am besten einzeln.
-
-<!-- CHECK: -εύω-Partizipien: ερωτευμένος, aber μπερδεμένος, σημαδεμένος (so im LKN?); Faustregel „alltäglich -εμένος, gelehrt -ευμένος“ vertretbar? -->
+Bei Verben auf [-εύω]{lang="el"} verlieren viele Alltagsverben im Partizip das [υ]{lang="el"}:
+[παντρεύομαι → παντρεμένος]{lang="el"} „verheiratet“, [μπερδεύω → μπερδεμένος]{lang="el"}
+„verwirrt“, [σημαδεύω → σημαδεμένος]{lang="el"} „markiert“. Andere behalten es, etwa
+[ερωτευμένος]{lang="el"} von [ερωτεύομαι]{lang="el"}. Diese Partizipien lernst du am besten
+einzeln.
 
 ::: {.callout-important}
 ## Merke
 
 - **Bildung:** Mediopassiv-Aorist ohne [-θηκα/-τηκα]{lang="el"}, dann [-μένος]{lang="el"}; davor
   [φ → μ]{lang="el"}, [χ → γ]{lang="el"}. Betonung immer auf [-μέ-]{lang="el"}.
+- **Abkürzung** vom Aktiv-Aorist (Faustregel): [-σα → -σμένος, -ψα → -μμένος, -ξα → -γμένος,
+  -ησα → -ημένος, -ωσα → -ωμένος]{lang="el"}. Vorsicht bei [-νω]{lang="el"}:
+  [ντυμένος, δεμένος]{lang="el"} ohne [σ]{lang="el"}.
 - **Formen** wie [καλός]{lang="el"}: [-μένος, -μένη, -μένο]{lang="el"}.
 - **Bedeutung:** Zustand nach einer Handlung, „gemacht, geworden“, wie das deutsche Partizip II.
 :::
@@ -213,9 +227,11 @@ Diese Partizipien lernst du am besten einzeln.
 ## Achtung
 
 Das Partizip ist nicht die Form auf [-ει]{lang="el"} aus Kapitel 14. „Ich habe geschrieben“ ist
-[έχω γράψει]{lang="el"}, nie \*[έχω γραμμένος]{lang="el"}. Das deutsche „geschrieben“ steckt in
-beiden, das Griechische trennt: [γράψει]{lang="el"} ist Teil einer Zeitform und ändert sich nie,
-[γραμμένος]{lang="el"} ist ein Adjektiv.
+[έχω γράψει]{lang="el"}; \*[έχω γραμμένος]{lang="el"} im Sinne von „ich habe geschrieben“ ist
+falsch. Das deutsche „geschrieben“ steckt in beiden, das Griechische trennt: [γράψει]{lang="el"}
+ist Teil einer Zeitform und ändert sich nie, [γραμμένος]{lang="el"} ist ein Adjektiv. Es gibt
+zwar [έχω]{lang="el"} + Partizip, aber dann richtet sich das Partizip nach dem Objekt:
+[το έχω γραμμένο]{lang="el"}, mehr in @sec-partizip-echo.
 :::
 
 ::: {.callout-note .exercise}
@@ -224,7 +240,8 @@ beiden, das Griechische trennt: [γράψει]{lang="el"} ist Teil einer Zeitfor
 **Teil A.** Bilde laut das Partizip (männlich). Geh über den Mediopassiv-Aorist, wo du ihn
 kennst, sonst über den Aktiv-Aorist.
 
-[κρύβω · φτιάχνω · πληρώνω · ντύνω · χάνω · κουράζω · σπάω (έσπασα) · βρέχω]{lang="el"}
+[κρύβω · φτιάχνω · πληρώνω · ντύνω · χάνω · κουράζω · σπάω (έσπασα) · βρέχω ·
+τρομάζω (τρόμαξα)]{lang="el"}
 
 **Teil B.** Jetzt mit Nomen, Partizip in der passenden Form:
 
@@ -239,6 +256,7 @@ kennst, sonst über den Aktiv-Aorist.
 
 Erst [-θηκα/-τηκα]{lang="el"} abschneiden, dann schauen, was übrig ist: [σ]{lang="el"} bleibt,
 [φ]{lang="el"} wird [μ]{lang="el"}, [χ]{lang="el"} wird [γ]{lang="el"}, ein Vokal bleibt stehen.
+Vom Aktiv-Aorist aus: [-σα → -σμένος, -ψα → -μμένος, -ξα → -γμένος]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -262,6 +280,7 @@ Erst [-θηκα/-τηκα]{lang="el"} abschneiden, dann schauen, was übrig ist:
 - [κουράστηκα → κουρασμένος]{lang="el"}
 - [έσπασα → σπασμένος]{lang="el"}
 - [έβρεξα → βρεγμένος]{lang="el"} (nicht über [βράχηκα]{lang="el"})
+- [τρόμαξα → τρομαγμένος]{lang="el"} „verängstigt“, das Wort aus dem Lesetext von Kapitel 13
 
 **Teil B:** [τα χαμένα κλειδιά, ένα σπασμένο πόδι, μια κρυμμένη εκκλησία, ο πληρωμένος
 λογαριασμός]{lang="el"}. Hinter dem Nomen geht auch: [ο λογαριασμός είναι
@@ -324,8 +343,9 @@ im Alltag die Normalform:
 
 - [Το φαρμακείο είναι κλειστό.]{lang="el"} Die Apotheke ist zu. [Το καφενείο είναι
   ανοιχτό.]{lang="el"} Das Kafenion hat auf. (Kapitel 1)
-- [κλεισμένος]{lang="el"} heißt „eingeschlossen“ oder „gebucht“: [ζει κλεισμένη στο
-  σπίτι]{lang="el"} (Kapitel 15), [ένα κλεισμένο δωμάτιο]{lang="el"}.
+- [κλεισμένος]{lang="el"} heißt meist „gebucht“ oder „eingeschlossen“: [ένα κλεισμένο
+  δωμάτιο]{lang="el"}, [ζει κλεισμένη σε ένα σπίτι]{lang="el"} (Kapitel 15). Seltener heißt es
+  „geschlossen (worden)“: [με τα μάτια κλεισμένα]{lang="el"} „mit geschlossenen Augen“.
 - [ανοιγμένος]{lang="el"} heißt „geöffnet, angebrochen“: [ένα ανοιγμένο μπουκάλι
   κρασί]{lang="el"} „eine angebrochene Flasche Wein“.
 
@@ -348,7 +368,8 @@ aufgeschrieben.“
 - **Zustand:** [είμαι]{lang="el"} + Partizip, [είναι κλειδωμένη, είναι γραμμένος]{lang="el"}; bei
   „offen, zu“ meist [ανοιχτός, κλειστός]{lang="el"}.
 - **Zustand, über den man verfügt:** [έχω]{lang="el"} + Partizip, das sich nach dem Objekt
-  richtet: [Έχω κλεισμένα εισιτήρια.]{lang="el"}
+  richtet, nicht nach dem Sprecher: [Έχω κλεισμένα εισιτήρια.]{lang="el"}, nicht
+  \*[έχω κλεισμένος]{lang="el"}.
 :::
 
 ::: {.callout-note .exercise}

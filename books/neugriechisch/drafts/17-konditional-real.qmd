@@ -177,11 +177,9 @@ ebenso fast immer [αν θέλεις, αν μπορείς]{lang="el"}.
 
 **Foto** nimmst du, wenn die Bedingung ein Ereignis ist, das erst eintreten muss, bevor die Folge
 kommt: [αν βρέξει, αν βρεις, αν σε ρωτήσουν]{lang="el"}. Das gilt meist für die Zukunft, aber
-auch für allgemeine Regeln. In Kapitel 7 stand über den Namenstag: [Αν το πει, γελάνε
-όλοι.]{lang="el"} „Wenn einer das sagt, lachen alle.“ Jedes Mal ein einzelnes Ereignis, danach
-die Folge.
-
-<!-- CHECK: Kapitel 7 Originalsatz lautet „Αν το πει, γελάει …“ – Zitat an den tatsächlichen Wortlaut anpassen. -->
+auch für allgemeine Regeln. In Kapitel 7 stand über den Namenstag: [Αν το πει, γελάει όλο το
+σπίτι.]{lang="el"} „Wenn einer das sagt, lacht das ganze Haus.“ Jedes Mal ein einzelnes
+Ereignis, danach die Folge.
 
 ::: {.callout-important}
 ## Merke
@@ -201,11 +199,13 @@ zu erkennen.
 
 <!-- EXERCISE: Aspekt nach αν wählen (Präsens oder perfektive Form), kurze Alltagssituationen rund um Umzug und Amt, Auswahl mit Begründung (1/2), inkl. Verben ohne Wahl (έχω, είμαι, ξέρω), Schwierigkeit 2 -->
 
-::: {.vocab}
-| Griechisch | Aussprache | Deutsch |
-|---|---|---|
-| [η ομπρέλα]{lang="el"} | [i omˈbrela] | der Regenschirm |
-| [κουρασμένος, -η, -ο]{lang="el"} | [kurazˈmenos] | müde |
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η ομπρέλα]{lang="el"} | der Regenschirm |
+| [κουρασμένος, -η, -ο]{lang="el"} | müde |
 :::
 
 ### Kein [θα]{lang="el"} nach [αν]{lang="el"} {#sec-bedingung-kein-tha}
@@ -435,7 +435,7 @@ ständig hörst:
 | [σε περίπτωση που]{lang="el"} | [se peˈriptosi pu] | falls, im Fall, dass (formell) |
 | [αν χρειαστεί]{lang="el"} | [an xriaˈsti] | falls nötig |
 | [αν θέλει ο Θεός]{lang="el"} | [an ˈθeli o θeˈos] | so Gott will |
-| [εξυπηρετώ, εξυπηρέτησα]{lang="el"} | [eksipiriˈto], [eksipiˈretisa] | bedienen, (Kunden) betreuen; helfen |
+| [εξυπηρετώ, εξυπηρέτησα]{lang="el"} | [eksipireˈto], [eksipiˈretisa] | bedienen, (Kunden) betreuen; helfen |
 :::
 
 ## Hörspur: Anruf beim Finanzamt {#sec-bedingung-hoerspur}
@@ -452,7 +452,7 @@ mit etwas Glück, einen Menschen. Erst hören, dann lesen.
 
 [— Εφορία, καλημέρα σας.]{.v2}
 
-— Καλημέρα. Θέλω να βγάλω ΑΦΜ. Είμαι Γερμανίδα, μένω εδώ δύο εβδομάδες.
+— Καλημέρα. Θέλω να βγάλω ΑΦΜ. Είμαι Γερμανίδα, ήρθα πριν από δύο εβδομάδες.
 
 — Μάλιστα. Αφού είστε πολίτης της Ευρωπαϊκής Ένωσης, είναι απλό. Θα χρειαστείτε διαβατήριο ή
 ταυτότητα και ένα αποδεικτικό διεύθυνσης.
@@ -495,8 +495,8 @@ Anliegen bleiben Sie bitte in der Leitung.
 
 — Finanzamt, guten Morgen.
 
-— Guten Morgen. Ich möchte eine Steuernummer beantragen. Ich bin Deutsche und wohne seit zwei
-Wochen hier.
+— Guten Morgen. Ich möchte eine Steuernummer beantragen. Ich bin Deutsche und vor zwei Wochen
+hergezogen.
 
 — Gut. Da Sie Bürgerin der Europäischen Union sind, ist es einfach. Sie brauchen Pass oder
 Personalausweis und einen Adressnachweis.

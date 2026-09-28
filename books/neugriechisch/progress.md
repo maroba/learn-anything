@@ -20,7 +20,8 @@
 | 14 Hast du schon …? Perfekt und Plusquamperfekt | veröffentlicht | Welle 7; Audio vollständig |
 | 15 Der Film, den ich gesehen habe: Relativsätze | veröffentlicht | Welle 7; Audio läuft |
 | 16 Weil, obwohl, damit: Nebensätze | Überarbeitung | Welle 8; beide Reviews da |
-| 17 Wenn … dann: realer Konditional und Zeitsätze | Entwurf | Welle 9 |
+| 17 Wenn … dann: realer Konditional und Zeitsätze | Übungen | Welle 9; Entwurf fertig |
+| 18 Er sagt, dass: indirekte Rede und indirekte Fragen | Entwurf | Welle 9 |
 | 19 Partizip und Gerundium | Überarbeitung | Welle 8; beide Reviews da; erscheint nach 17, 18 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
