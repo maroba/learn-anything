@@ -13,14 +13,14 @@
 | 05 Der zweite Stamm in der Zukunft: θα und να | veröffentlicht | Welle 3; Audio vollständig |
 | 06 Auf dem Markt: Nomen, Adjektive, Zahlen | veröffentlicht | Welle 2; Audio vollständig |
 | 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | veröffentlicht | Welle 3; Audio vollständig |
-| 11 Zeit: Uhrzeit, Datum, Jahreszahlen | veröffentlicht | Welle 3; Audio ausstehend |
-| 10 Verben auf -μαι im Alltag | veröffentlicht | Welle 4; Audio ausstehend |
-| 12 Vergleichen und Zwischenbilanz | veröffentlicht | Welle 6; Audio ausstehend |
+| 11 Zeit: Uhrzeit, Datum, Jahreszahlen | veröffentlicht | Welle 3; Audio vollständig |
+| 10 Verben auf -μαι im Alltag | veröffentlicht | Welle 4; Audio vollständig |
+| 12 Vergleichen und Zwischenbilanz | veröffentlicht | Welle 6; Audio läuft |
 | 13 Es wurde gefunden: das Mediopassiv | Überarbeitung | Welle 7; beide Reviews da |
 | 14 Hast du schon …? Perfekt und Plusquamperfekt | Konsistenz | Welle 7; überarbeitet |
 | 15 Der Film, den ich gesehen habe: Relativsätze | Entwurf | Welle 7 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
-| 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio läuft |
+| 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 
 ## Plan für /write all (Wellen nach Voraussetzungen)
 

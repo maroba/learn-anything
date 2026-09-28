@@ -27,15 +27,13 @@ etwas, das man beim Umzug hinter dem Schrank findet. Neben der Vitrine hängt ei
 ::: {lang="el"}
 **Ο Μηχανισμός των Αντικυθήρων**
 
-Χάλκινος, 2ος–1ος αιώνας π.Χ.
+Χάλκινος, 2ος αιώνας π.Χ.
 
 Βρέθηκε το 1901 στο ναυάγιο των Αντικυθήρων, μαζί με χάλκινα και μαρμάρινα αγάλματα. Σώζεται σε
 82 κομμάτια. Στην αρχαιότητα χρησιμοποιούνταν για τον υπολογισμό της θέσης του ήλιου και της
 σελήνης και για την πρόβλεψη των εκλείψεων. Θεωρείται ο αρχαιότερος γνωστός αναλογικός
 υπολογιστής.
 :::
-
-<!-- CHECK: Datierung „2.–1. Jh. v. Chr.“ als Museumsangabe vertretbar? Fragmente 1901 geborgen, erkannt 1902; Zahl 82 Fragmente -->
 
 Davor eine Mutter und ihr Sohn, etwa fünfzehn:
 
@@ -58,7 +56,7 @@ Davor eine Mutter und ihr Sohn, etwa fünfzehn:
 
 **Der Mechanismus von Antikythera**
 
-Bronze, 2.–1. Jahrhundert v. Chr.
+Bronze, 2. Jahrhundert v. Chr.
 
 Gefunden 1901 im Wrack von Antikythera, zusammen mit Bronze- und Marmorstatuen. Erhalten in
 82 Fragmenten. In der Antike diente er zur Berechnung der Stellung von Sonne und Mond und zur
@@ -90,8 +88,10 @@ Museumsschilder lieben eine bestimmte Sorte Verb. Die aus dem Text:
 | [να βρεθεί]{lang="el"} | [βρίσκω]{lang="el"} | gefunden werden |
 
 Die Endungen kennst du aus Kapitel 10: [-ται]{lang="el"} im Präsens, [-θηκε]{lang="el"} im
-Aorist, [-νταν]{lang="el"} im Imperfekt, [-θεί]{lang="el"} in der [να]{lang="el"}-Form. Neu ist,
-dass diese Verben ein aktives Gegenstück haben. [βρίσκω]{lang="el"} heißt „ich finde“,
+Aorist, [-νταν]{lang="el"} im Imperfekt, [-θεί]{lang="el"} in der [να]{lang="el"}-Form. Anders als
+die Deponentien haben die meisten dieser Verben ein aktives Gegenstück; Kapitel 10 hat das mit
+[γράφεται]{lang="el"} und [ντύνομαι]{lang="el"} schon angedeutet. Nur [φαίνεται]{lang="el"} hat
+keins, du kennst es aus [μου φαίνεται]{lang="el"} „es scheint mir“ (Kapitel 8). [βρίσκω]{lang="el"} heißt „ich finde“,
 [βρέθηκε]{lang="el"} „er wurde gefunden“: dieselbe Handlung, von der anderen Seite gesehen. Diese
 Formen heißen **Mediopassiv** ([η παθητική φωνή]{lang="el"}), das Gegenstück **Aktiv**
 ([η ενεργητική φωνή]{lang="el"}). Warum nicht einfach „Passiv“, zeigt @sec-passiv-bedeutungen.
@@ -104,7 +104,6 @@ Formen heißen **Mediopassiv** ([η παθητική φωνή]{lang="el"}), das 
 | [το άγαλμα, τα αγάλματα]{lang="el"} | [to ˈaɣalma], [ta aˈɣalmata] | die Statue |
 | [ο υπολογιστής]{lang="el"} | [o ipoloʝiˈstis] | der Computer, Rechner |
 | [η σελήνη]{lang="el"} | [i seˈlini] | der Mond (Fachsprache; Alltag [το φεγγάρι]{lang="el"}) |
-| [το φεγγάρι]{lang="el"} | [to feŋˈgari] | der Mond |
 | [ο τροχός]{lang="el"} | [o troˈxos] | das Rad |
 | [το δόντι, τα δόντια]{lang="el"} | [to ˈðodi], [ta ˈðodʝa] | der Zahn |
 | [αρχαίος, -α, -ο]{lang="el"} | [arˈçeos] | antik, alt |
@@ -147,7 +146,8 @@ Die meisten Verben, die ein Objekt haben können, haben eine zweite Reihe von Fo
 | [σηκώνω]{lang="el"} ich hebe hoch | [σηκώνομαι]{lang="el"} ich stehe auf |
 | [ζεσταίνω]{lang="el"} ich wärme | [ζεσταίνομαι]{lang="el"} mir wird warm |
 
-[Σήμερα βρίσκεται στη Μόσχα]{lang="el"} stand in Kapitel 2 über Schliemanns Schatz,
+[Σήμερα βρίσκεται στο Μουσείο Πούσκιν]{lang="el"} stand in Kapitel 2 über Schliemanns Schatz,
+[Δε χάνεται]{lang="el"} „nicht zu verfehlen“ in Kapitel 9 unter einer Wegbeschreibung,
 [ζεσταίνεται]{lang="el"} in Kapitel 12 über das Mittelmeer. Die meisten Verben bilden das
 Mediopassiv wie [κάθομαι]{lang="el"} aus Kapitel 10: Endung weg, [-ομαι]{lang="el"} dran. Nur
 die endbetonten Verben brauchen eigene Muster, und dafür gibt es zwei neue:
@@ -155,7 +155,9 @@ die endbetonten Verben brauchen eigene Muster, und dafür gibt es zwei neue:
 - Verben auf [-άω]{lang="el"} bilden meist [-ιέμαι]{lang="el"}: [κουνάω → κουνιέμαι]{lang="el"}
   „wackeln, sich bewegen“, [αγαπάω → αγαπιέμαι]{lang="el"} „geliebt werden“,
   [γεννάω → γεννιέμαι]{lang="el"} „geboren werden“. Den Kaffee aus Kapitel 1 kennst du:
-  [Έτσι γεννιέται ο φραπές.]{lang="el"}
+  [Έτσι γεννιέται ο φραπές.]{lang="el"} [-άμαι]{lang="el"} bleibt der kleinen Gruppe aus
+  Kapitel 10 ([φοβάμαι, κοιμάμαι, θυμάμαι, λυπάμαι]{lang="el"}); neue Verben von
+  [-άω]{lang="el"} gehen auf [-ιέμαι]{lang="el"}.
 - Verben auf [-ώ]{lang="el"} bilden meist [-ούμαι]{lang="el"}: [θεωρώ → θεωρούμαι]{lang="el"},
   [χρησιμοποιώ → χρησιμοποιούμαι]{lang="el"}. Diese Gruppe klingt eher schriftlich und
   begegnet dir fast nur in der er- und sie-Form: [θεωρείται, χρησιμοποιούνται]{lang="el"}.
@@ -172,13 +174,14 @@ die endbetonten Verben brauchen eigene Muster, und dafür gibt es zwei neue:
 Die [-ιέμαι]{lang="el"}-Formen sind durchgehend endbetont, und das [ι]{lang="el"} ist keine
 eigene Silbe, sondern der kurze *j*-Laut aus Kapitel 1. Nach [ν]{lang="el"} verschmilzt er zu
 [ɲ] wie span. *ñ*: [κουνιέμαι]{lang="el"} [kuˈɲeme]; nach [π]{lang="el"} wird er zu [ç] wie in
-*ich*: [αγαπιέμαι]{lang="el"} [aɣaˈpçeme].
+*ich*: [αγαπιέμαι]{lang="el"} [aɣaˈpçeme]; nach [λ]{lang="el"} zu [ʎ], einem
+weichen *lj*: [φιλιέμαι]{lang="el"} [fiˈʎeme].
 
 ::: {.callout-tip}
 ## Tipp
 
-[Πού βρίσκεται …;]{lang="el"} „Wo ist …?“ ist die Frage nach dem Weg, höflicher als
-[Πού είναι …;]{lang="el"}: [Συγγνώμη, πού βρίσκεται το Εθνικό Αρχαιολογικό
+[Πού βρίσκεται …;]{lang="el"} „Wo ist …?“ ist die Frage nach dem Weg, etwas förmlicher als
+[Πού είναι …;]{lang="el"}, aber neutral: [Συγγνώμη, πού βρίσκεται το Εθνικό Αρχαιολογικό
 Μουσείο;]{lang="el"} Die Antwort beginnt oft mit [Κοίτα …]{lang="el"} (Kapitel 9).
 :::
 
@@ -272,7 +275,8 @@ gehört alles, was „von selbst“ geschieht und im Deutschen ebenfalls ein „
 **3. Reziprok:** Mehrere tun es einander. [Βλεπόμαστε αύριο!]{lang="el"} ist genau
 [*Nos vemos mañana*]{lang="es"}. [Γνωριστήκαμε στη Σύμη.]{lang="el"} „Wir haben uns auf Symi
 kennengelernt.“ [Φιλιούνται.]{lang="el"} „Sie küssen sich“, zur Begrüßung unter Freunden mit
-zwei Wangenküssen. Reziprok geht nur im Plural; zur Verdeutlichung kommt [ο ένας τον
+zwei Wangenküssen. Reziprok geht meist im Plural (im Singular mit
+[με]{lang="el"}: [φιλιέται με τη γιαγιά]{lang="el"}); zur Verdeutlichung kommt [ο ένας τον
 άλλο]{lang="el"} „einander“ dazu.
 
 **4. Deponens:** Es gibt gar kein Aktiv, die Form ist aktiv gemeint: [έρχομαι, θυμάμαι]{lang="el"}
@@ -300,6 +304,8 @@ Manchmal entscheidet erst der Zusammenhang: [Ο Νίκος πλένεται]{lan
 
 - Nicht jedes deutsche „sich“ wird [-μαι]{lang="el"}. „Ich wasche mir die Hände“ ist aktiv mit
   Objekt: [Πλένω τα χέρια μου.]{lang="el"} Und „sich hinlegen“ bleibt [ξαπλώνω]{lang="el"}.
+  Auch spanisches *se* ist kein sicherer Wegweiser: [*me lavo las manos*, *me voy*]{lang="es"} →
+  [πλένω τα χέρια μου, φεύγω]{lang="el"}.
 - Ein Passiv mit Täter klingt im Gespräch steif. Wo Deutsch sagt „Er wurde von Tauchern
   gefunden“, sagt man lieber aktiv, mit der 3. Person Plural für „man“ wie in
   [λένε]{lang="el"} (Kapitel 10): [Τον βρήκαν κάτι σφουγγαράδες.]{lang="el"} „Ein paar
@@ -329,7 +335,7 @@ a) [Βλεπόμαστε αύριο στο μουσείο.]{lang="el"}
 b) [Ο μηχανισμός βρέθηκε από σφουγγαράδες.]{lang="el"}
 c) [Η Ελένη κρύβεται πίσω από την πόρτα.]{lang="el"}
 d) [Γνωριστήκαμε το 2019 στη Θεσσαλονίκη.]{lang="el"}
-e) [Δεν θυμάμαι το όνομά του.]{lang="el"}
+e) [Δε θυμάμαι το όνομά του.]{lang="el"}
 f) [Το αυτοκίνητο πλένεται κάθε Σάββατο.]{lang="el"}
 g) [Στο αεροδρόμιο φιλιούνται.]{lang="el"}
 h) [Χάθηκα στην Πλάκα.]{lang="el"}
@@ -368,17 +374,18 @@ wäscht sich nicht selbst. In B wird aus dem Akkusativ ein Nominativ: [έναν 
 **B:**
 
 1. [Το έγραψε ένας Γερμανός.]{lang="el"} oder [Ένας Γερμανός έγραψε το βιβλίο.]{lang="el"}
-2. [Τα βρήκαν σφουγγαράδες από τη Σύμη.]{lang="el"} Ohne [τα]{lang="el"} wird es
+2. [Τα βρήκαν σφουγγαράδες από τη Σύμη.]{lang="el"} oder [Σφουγγαράδες από τη Σύμη βρήκαν τα
+   αγάλματα.]{lang="el"} Ohne [τα]{lang="el"} wird es
    zweideutig: [Τα αγάλματα βρήκαν …]{lang="el"} kann auch heißen „Die Statuen fanden …“, denn
    Nominativ und Akkusativ Plural sind im Neutrum gleich. Mit Nomen und Pronomen: [Τα αγάλματα
-   τα βρήκαν σφουγγαράδες.]{lang="el"}
+   τα βρήκαν σφουγγαράδες.]{lang="el"} (Doppelung, Kapitel 20)
 
 :::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [από]{lang="el"} + Akk. (beim Passiv) | [aˈpo] | von (Täter): [από τον …]{lang="el"} von dem … |
+| [από]{lang="el"} (Täter beim Passiv) | [aˈpo] | von + Akk.: [βρέθηκε από σφουγγαράδες]{lang="el"} wurde von Schwammtauchern gefunden (vgl. „als“, Kapitel 12) |
 | [κρύβομαι, κρύφτηκα]{lang="el"} | [ˈkrivome], [ˈkriftika] | sich verstecken |
 | [πλένομαι, πλύθηκα]{lang="el"} | [ˈplenome], [ˈpliθika] | sich waschen; gewaschen werden |
 | [Βλεπόμαστε!]{lang="el"} | [vleˈpomaste] | Wir sehen uns! Bis bald! |
@@ -397,22 +404,28 @@ Kapitel 10 [κουνήθηκε όλο το σπίτι]{lang="el"}. Endungen und 
 kein Augment.
 
 Neu ist nur die Frage, was vor dem [-θηκα]{lang="el"} steht. Bei Verben mit Aktiv hilft der
-aktive Aorist, den du ohnehin mitlernst. Sein letzter Laut vor dem [-α]{lang="el"} verrät den
-Rest:
+aktive Aorist, den du ohnehin mitlernst. Sein letzter Laut vor dem [-α]{lang="el"} verrät meist
+den Rest:
 
 | Aktiv-Aorist | Mediopassiv-Aorist | Beispiel |
 |---|---|---|
 | [-σα]{lang="el"} | [-στηκα]{lang="el"} | [κατασκεύασα → κατασκευάστηκα]{lang="el"} |
 | [-ψα]{lang="el"} | [-φτηκα]{lang="el"} | [έγραψα → γράφτηκα]{lang="el"}, [έκρυψα → κρύφτηκα]{lang="el"} |
-| [-ξα]{lang="el"} | [-χτηκα]{lang="el"} | [άνοιξα → ανοίχτηκα]{lang="el"}, [έφτιαξα → φτιάχτηκα]{lang="el"} |
+| [-ξα]{lang="el"} | [-χτηκα]{lang="el"} | [άνοιξα → ανοίχτηκε]{lang="el"} „wurde geöffnet“, [έφτιαξα → φτιάχτηκα]{lang="el"} |
 | [-ησα]{lang="el"} | [-ήθηκα]{lang="el"} | [αγάπησα → αγαπήθηκα]{lang="el"}, [μελέτησα → μελετήθηκα]{lang="el"} |
-| [-ωσα]{lang="el"} | [-ώθηκα]{lang="el"} | [σήκωσα → σηκώθηκα]{lang="el"}, [πλήρωσα → πληρώθηκα]{lang="el"} |
+| [-ωσα]{lang="el"} | [-ώθηκα]{lang="el"} | [σήκωσα → σηκώθηκα]{lang="el"}, [έσωσα → σώθηκα]{lang="el"} |
 
 Die Logik ist dieselbe wie in Kapitel 2, rückwärts: [ψ]{lang="el"} war Lippenlaut +
 [σ]{lang="el"}, also kehrt der Lippenlaut als [φ]{lang="el"} zurück; [ξ]{lang="el"} war Kehllaut +
 [σ]{lang="el"}, also kommt [χ]{lang="el"}. Vor dem [θ]{lang="el"} wird aus [σθ, φθ, χθ]{lang="el"}
 im heutigen Griechisch meist [στ, φτ, χτ]{lang="el"}. In @sec-passiv-doku kommt das
 [θ]{lang="el"} zurück.
+
+Zwei Gruppen passen nicht in die Tabelle. Bei [-εύω]{lang="el"} kehrt das [ευ]{lang="el"}
+zurück: [πίστεψα → πιστεύτηκε, μάζεψα → μαζεύτηκα]{lang="el"}, nicht \*[πιστέφτηκε]{lang="el"}.
+Und Aoriste auf [-να]{lang="el"} nehmen [-θηκα]{lang="el"} ohne [ν]{lang="el"}:
+[ζέστανα → ζεστάθηκα]{lang="el"}; [έπλυνα → πλύθηκα]{lang="el"} gehört dazu, wechselt aber
+zusätzlich den Vokal.
 
 Das Augment verschwindet, weil es nichts mehr zu tragen hat: [έγραψα]{lang="el"}, aber
 [γράφτηκα]{lang="el"}, [γρά-φτη-κα]{lang="el"} hat schon drei Silben.
@@ -425,7 +438,6 @@ Das Augment verschwindet, weil es nichts mehr zu tragen hat: [έγραψα]{lang
 | [χάνω]{lang="el"} | [έχασα]{lang="el"} | [χάθηκα]{lang="el"} |
 | [πλένω]{lang="el"} | [έπλυνα]{lang="el"} | [πλύθηκα]{lang="el"} |
 | [ντύνω]{lang="el"} | [έντυσα]{lang="el"} | [ντύθηκα]{lang="el"} |
-| [σώζω]{lang="el"} | [έσωσα]{lang="el"} | [σώθηκα]{lang="el"} |
 | [δίνω]{lang="el"} | [έδωσα]{lang="el"} | [δόθηκε]{lang="el"} |
 | [λέω]{lang="el"} | [είπα]{lang="el"} | [ειπώθηκε]{lang="el"} |
 
@@ -442,11 +454,12 @@ Neues?“, eine der häufigsten Begrüßungen unter Freunden.
 ::: {.callout-important}
 ## Merke
 
-- Mediopassiv-Aorist: vom Aktiv-Aorist aus, [-σα → -στηκα, -ψα → -φτηκα, -ξα → -χτηκα,
-  -ησα → -ήθηκα, -ωσα → -ώθηκα]{lang="el"}.
+- Mediopassiv-Aorist: meist vom Aktiv-Aorist aus, [-σα → -στηκα, -ψα → -φτηκα, -ξα → -χτηκα,
+  -ησα → -ήθηκα, -ωσα → -ώθηκα]{lang="el"}. Bei [-εύω]{lang="el"} kehrt [ευ]{lang="el"} zurück
+  ([πιστεύτηκε]{lang="el"}), [-να]{lang="el"} wird [-θηκα]{lang="el"} ([ζεστάθηκα]{lang="el"}).
 - Endungen [-ηκα, -ηκες, -ηκε, -ήκαμε, -ήκατε, -ηκαν]{lang="el"}, Betonung auf der drittletzten
   Silbe, kein Augment.
-- Ausreißer: [βρέθηκα, χάθηκα, πλύθηκα, ντύθηκα, σώθηκα]{lang="el"}; das Mediopassiv von
+- Ausreißer: [βρέθηκα, χάθηκα, πλύθηκα, ντύθηκα, δόθηκε]{lang="el"}; das Mediopassiv von
   [κάνω]{lang="el"} ist [γίνομαι]{lang="el"}.
 :::
 
@@ -565,7 +578,7 @@ Foto oder Film folgt den Regeln aus Kapitel 5:
 
 Aus dem Alltag drei Imperative des Mediopassivs, die du als feste Wendungen lernst:
 [Σήκω!]{lang="el"} „Steh auf!“, [Ντύσου!]{lang="el"} „Zieh dich an!“, [Ετοιμάσου!]{lang="el"}
-„Mach dich fertig!“. Für mehrere Personen: [Σηκωθείτε! Ντυθείτε!]{lang="el"}, also die
+„Mach dich fertig!“. Den mittleren kennst du aus [Ντύσου ζεστά!]{lang="el"} (Kapitel 12). Für mehrere Personen: [Σηκωθείτε! Ντυθείτε!]{lang="el"}, also die
 [να]{lang="el"}-Form ohne [να]{lang="el"}, wie beim Foto-Imperativ in Kapitel 9.
 :::
 
@@ -601,16 +614,16 @@ Die Foto-Stämme: [βρεθ-, σηκωθ-, χαθ-, μεταφραστ-]{lang="e
 ## Lösung
 
 - a) [Θα βρεθούμε αύριο στις οκτώ.]{lang="el"} Für eine feste Verabredung geht auch das
-  Präsens: [Βλεπόμαστε αύριο στις οκτώ.]{lang="el"}
+  Präsens: [Βλεπόμαστε αύριο στις οκτώ.]{lang="el"} oder [Βρισκόμαστε αύριο στις οκτώ.]{lang="el"}
 - b) [Το βιβλίο θα μεταφραστεί στα γερμανικά.]{lang="el"} Nicht \*[θα μετεφραστεί]{lang="el"};
   [θα μεταφράζεται]{lang="el"} hieße „wird (immer wieder) übersetzt werden“.
 - c) [Πρέπει να σηκώνομαι κάθε μέρα στις επτά.]{lang="el"} Gewohnheit → Film.
 - d) [Αύριο πρέπει να σηκωθώ στις επτά.]{lang="el"} Einmal → Foto. Zwischen c) und d)
   entscheidet nur die Zeitangabe.
-- e) [Ίσως δεν θα βρεθεί ποτέ η απάντηση.]{lang="el"} Natürlicher klingt [Μπορεί να μη βρεθεί
+- e) [Ίσως δε θα βρεθεί ποτέ η απάντηση.]{lang="el"} Natürlicher klingt [Μπορεί να μη βρεθεί
   ποτέ η απάντηση.]{lang="el"} wie im Dialog am Kapitelanfang, mit [μη]{lang="el"} nach
   [να]{lang="el"}.
-- f) [Δεν θέλω να χαθώ.]{lang="el"}
+- f) [Δε θέλω να χαθώ.]{lang="el"}
 - g) [Ντύσου, φεύγουμε!]{lang="el"} [ˈdisu], mit [d] wie in [ντύνομαι]{lang="el"}. Zu mehreren:
   [Ντυθείτε!]{lang="el"}
 
@@ -630,7 +643,8 @@ Die Foto-Stämme: [βρεθ-, σηκωθ-, χαθ-, μεταφραστ-]{lang="e
 ## Das Imperfekt: [βρισκόταν, κινούνταν]{lang="el"} {#sec-passiv-imperfekt}
 
 In Kapitel 10 genügte es, [καθόμουν]{lang="el"} und [κοιμόταν]{lang="el"} zu erkennen. Jetzt
-bildest du das Imperfekt selbst, und zwar für jedes Verb auf [-μαι]{lang="el"}. Drei Handgriffe:
+bildest du das Imperfekt selbst. Für die [-ομαι]{lang="el"}- und [-ιέμαι]{lang="el"}-Verben
+genügen drei Handgriffe:
 
 1. Präsens-Endung weg: [βρίσκ-ομαι]{lang="el"}, [κουν-ιέμαι]{lang="el"}.
 2. Betontes [-ό-]{lang="el"} anhängen, bei der [-ιέμαι]{lang="el"}-Gruppe [-ιό-]{lang="el"}.
@@ -645,25 +659,22 @@ bildest du das Imperfekt selbst, und zwar für jedes Verb auf [-μαι]{lang="el
 | ihr, Sie | [βρισκ**όσασταν**]{lang="el"} | [κουν**ιόσασταν**]{lang="el"} |
 | sie | [βρίσκ**ονταν**]{lang="el"} | [κουν**ιόνταν**]{lang="el"} |
 
-<!-- CHECK: sie-Form Imperfekt der -ιέμαι-Gruppe: κουνιόνταν als Standard, κουνιούνταν als Variante? (LKN / Triantafyllidis-Grammatik) -->
-
 Die sie-Form tanzt wie in Kapitel 10 aus der Reihe. Bei der [-ομαι]{lang="el"}-Gruppe hilft ein
 Trick: Nimm das Präsens und tausch den letzten Buchstaben, [βρίσκονται → βρίσκονταν]{lang="el"},
 [κάθονται → κάθονταν]{lang="el"}; die Betonung bleibt stehen. Die [-ούμαι]{lang="el"}-Gruppe
-braucht praktisch nur eine Form, und die gilt für er und sie: [ο μηχανισμός
+weicht ab: Sie braucht praktisch nur eine Form, und er und sie enden beide auf
+[-ούνταν]{lang="el"}: [ο μηχανισμός
 χρησιμοποιούνταν]{lang="el"} „wurde benutzt“, [τα γρανάζια κινούνταν]{lang="el"} „die Zahnräder
 bewegten sich“.
 
 Und wie immer: Imperfekt ist Film, Aorist ist Foto. Beim Mediopassiv gibt das hübsche Paare:
 
-- [Το ναυάγιο βρισκόταν σε βάθος πενήντα μέτρων.]{lang="el"} Das Wrack lag in fünfzig Metern
-  Tiefe. (Zustand, Kulisse)
+- [Το ναυάγιο βρισκόταν σε βάθος περίπου πενήντα μέτρων.]{lang="el"} Das Wrack lag in etwa
+  fünfzig Metern Tiefe. (Zustand, Kulisse)
 - [Το ναυάγιο βρέθηκε το 1900.]{lang="el"} Das Wrack wurde 1900 gefunden. (Ereignis)
 - [Όταν ήμουν παιδί, χανόμουν συνέχεια στην Πλάκα.]{lang="el"} Als Kind habe ich mich ständig
   in der Plaka verlaufen.
 - [Βλεπόμασταν κάθε καλοκαίρι στη Σύμη.]{lang="el"} Wir haben uns jeden Sommer auf Symi gesehen.
-
-<!-- CHECK: Tiefe des Wracks von Antikythera: ca. 45–55 m, „fünfzig Meter“ als Rundung vertretbar? -->
 
 ::: {.callout-note collapse="true"}
 ## Exkurs: Im Gespräch, in der Zeitung
@@ -671,14 +682,19 @@ Und wie immer: Imperfekt ist Film, Aorist ist Foto. Beim Mediopassiv gibt das h�
 Wie in Kapitel 10 gibt es längere Formen im Gespräch: [βρισκόμουνα, βρισκότανε]{lang="el"}, in der
 sie-Form [βρισκόντουσαν]{lang="el"}. In Zeitungen dagegen steht für die er-Form der
 [-ούμαι]{lang="el"}-Gruppe manchmal eine alte Form auf [-είτο]{lang="el"}:
-[θεωρείτο]{lang="el"} „galt als“. Beides genügt zum Wiedererkennen.
+[θεωρείτο]{lang="el"} „galt als“, während im Gespräch auch [θεωρούνταν]{lang="el"} und
+[χρησιμοποιόταν]{lang="el"} üblich sind. Bei der [-ιέμαι]{lang="el"}-Gruppe hörst du in der
+sie-Form neben [κουνιόνταν]{lang="el"} auch [κουνιούνταν]{lang="el"}, nach dem Muster von
+[κοιμούνταν]{lang="el"} aus Kapitel 10. Das alles genügt zum Wiedererkennen.
 :::
 
 ::: {.callout-note .exercise}
 ## Übung 13.5: Ein Kind im Museum
 
-**A.** Jemand erzählt. Wähl die passende Form ([ο φύλακας]{lang="el"} der Wärter,
-[ζωγραφίζω]{lang="el"} zeichnen, [ο μηχανικός]{lang="el"} der Ingenieur).
+**A.** Jemand erzählt. Wähl die passende Form ([ολόκληρος]{lang="el"} ganz,
+[ο φύλακας]{lang="el"} der Wärter, [η βιτρίνα]{lang="el"} die Vitrine, [εξήγησε]{lang="el"}
+erklärte, [ζωγραφίζω]{lang="el"} zeichnen, [να ξαναπάμε]{lang="el"} dass wir wieder hingehen,
+[ο μηχανικός]{lang="el"} der Ingenieur).
 
 ::: {lang="el" .no-audio}
 Όταν ήμουν παιδί, πηγαίναμε κάθε Κυριακή στο Αρχαιολογικό Μουσείο. Εγώ (1) *χανόμουν /
@@ -720,7 +736,8 @@ Die Falle ist (5): „in jener Nacht“ klingt nach Foto, aber [κάθε μισ�
 zur Wiederholung. (6) bis (8) sind eine Kette mit Ergebnis.
 
 **B:** [σηκωνόμουν, ντυνόσουν, κουνιόταν, γνωρίζονταν, χρησιμοποιούνταν,
-βρισκόμασταν]{lang="el"}.
+βρισκόμασταν]{lang="el"}. Statt [χρησιμοποιούνταν]{lang="el"} ist im Gespräch auch
+[χρησιμοποιόταν]{lang="el"} üblich.
 
 **Typische Fehler:** \*[σηκώνομουν]{lang="el"} (Betonung nicht auf [-ό-]{lang="el"}),
 \*[κουνόταν]{lang="el"} ([ι]{lang="el"} vergessen), \*[γνωριζόνταν]{lang="el"} (in der sie-Form
@@ -740,22 +757,24 @@ Die ▶-Aufnahmen im Buch sind synthetische Stimmen, gleichmäßig und deutlich.
 gut, denn Sprecher von Dokumentarfilmen klingen ähnlich: ruhig, feierlich, ein bisschen zu
 deutlich. Wie echte griechische Dokumentationen klingen, bringt Übung 13.7.
 
-So könnte der Anfang eines Dokumentarfilms über das Wrack klingen. Erst hören, dann lesen:
+So könnte der Anfang eines Dokumentarfilms über das Wrack klingen. Vier Wörter vorab:
+[η καταιγίδα]{lang="el"} der Sturm, [ο δύτης]{lang="el"} der Taucher, [ο βυθός]{lang="el"} der
+Meeresgrund, [το Πολεμικό Ναυτικό]{lang="el"} die Kriegsmarine. Erst hören, dann lesen:
 
 ::: {lang="el" .listen}
-Άνοιξη του 1900. Ένα καΐκι με σφουγγαράδες από τη Σύμη γυρίζει από τις ακτές της Αφρικής.
+Το 1900. Ένα καΐκι με σφουγγαράδες από τη Σύμη ταξιδεύει νότια της Πελοποννήσου.
 Ξαφνικά πιάνει καταιγίδα, και το καΐκι σταματάει στα Αντικύθηρα, ένα μικρό νησί ανάμεσα στα
 Κύθηρα και την Κρήτη. Όταν ο καιρός καλυτερεύει, ένας δύτης, ο Ηλίας Σταδιάτης, βουτάει στον
 βυθό. Λέγεται ότι ανέβηκε τρομαγμένος και μιλούσε για νεκρούς και για άλογα. Ήταν αγάλματα.
 
-Το ναυάγιο εντοπίστηκε σε βάθος πενήντα μέτρων. Τον Νοέμβριο του 1900 άρχισε η ανέλκυση, με τη
+Το ναυάγιο εντοπίστηκε σε βάθος περίπου πενήντα μέτρων. Τον Νοέμβριο του 1900 άρχισε η ανέλκυση, με τη
 βοήθεια του Πολεμικού Ναυτικού. Θεωρείται η πρώτη μεγάλη υποβρύχια ανασκαφή στον κόσμο. Ως το
 1901 ανασύρθηκαν χάλκινα και μαρμάρινα αγάλματα, αμφορείς, γυάλινα αγγεία. Η δουλειά ήταν
 επικίνδυνη: ένας δύτης πέθανε, δύο έμειναν παράλυτοι.
 
 Ανάμεσα στα ευρήματα μεταφέρθηκαν στην Αθήνα και μερικά κομμάτια σκουριασμένου χαλκού. Κανείς
-δεν τα πρόσεξε. Πιστεύεται ότι κάποτε ήταν ένα ξύλινο κουτί με κάτι μέσα. Αυτό το κάτι
-ανακαλύφθηκε το 1902.
+δεν τα πρόσεξε. Κάποτε βρίσκονταν σε ένα ξύλινο κουτί. Το μυστικό τους ανακαλύφθηκε το
+1902.
 :::
 
 ::: {.callout-note .exercise}
@@ -766,29 +785,29 @@ Hör den Text zweimal mit ▶, ohne ihn aufzuklappen.
 **A.** Richtig oder falsch? Im Chat reicht „a R, b F, …“.
 
 a) Die Schwammtaucher kamen von Symi.
-b) Sie waren auf dem Weg nach Afrika.
+b) Antikythera ist eine große Insel.
 c) Wegen eines Sturms hielten sie bei Antikythera.
 d) Der Taucher soll von Toten und Pferden erzählt haben.
 e) Die Taucher bargen die Funde allein.
 f) Bei der Bergung wurde niemand verletzt.
 g) Die Bronzestücke fielen sofort auf.
 
-**B.** Beim zweiten Hören: Wie viele Mediopassiv-Formen hörst du, und sind sie Präsens oder
-Aorist?
+**B.** Beim zweiten Hören: Wie viele Mediopassiv-Formen hörst du, und in welcher Zeit stehen
+sie?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Aufs Wortende achten: [-ete] ist Präsens, [-θice], [-stice], [-θikan] ist Aorist. Die Betonung
-liegt beim Aorist weit vorn.
+Aufs Wortende achten: [-ete] ist Präsens, [-θice], [-stice], [-θikan] ist Aorist, [-ondan] ist
+Imperfekt. Die Betonung liegt beim Aorist weit vorn.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-B: sieben Formen; die drei im Präsens stehen jeweils am Satzanfang. Ein Wort klingt nach
-[-ice], ist aber aktiv.
+B: sieben Formen; die zwei im Präsens stehen jeweils am Satzanfang, eine steht im Imperfekt. Ein
+Wort klingt nach [-ice], ist aber aktiv.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -796,37 +815,43 @@ B: sieben Formen; die drei im Präsens stehen jeweils am Satzanfang. Ein Wort kl
 
 **A: a R, b F, c R, d R, e F, f F, g F.**
 
-Sie kamen aus Afrika zurück (b); die Anekdote ist mit [λέγεται]{lang="el"} „es heißt“ markiert
+Antikythera ist ein [μικρό νησί]{lang="el"} (b); die Anekdote ist mit [λέγεται]{lang="el"} „es heißt“ markiert
 (d); die Kriegsmarine half (e); ein Taucher starb, zwei blieben gelähmt (f); [κανείς δεν τα
 πρόσεξε]{lang="el"} (g).
 
-**B:** Präsens: [λέγεται, θεωρείται, πιστεύεται]{lang="el"}. Aorist: [εντοπίστηκε, ανασύρθηκαν,
-μεταφέρθηκαν, ανακαλύφθηκε]{lang="el"}. Alle passiv.
+**B:** Präsens: [λέγεται, θεωρείται]{lang="el"}. Aorist: [εντοπίστηκε, ανασύρθηκαν,
+μεταφέρθηκαν, ανακαλύφθηκε]{lang="el"}. Imperfekt: [βρίσκονταν]{lang="el"} „befanden sich“. Alle
+passiv außer [βρίσκονταν]{lang="el"}.
 
 Die Falle ist [ανέβηκε]{lang="el"}, der aktive Aorist von [ανεβαίνω]{lang="el"} (Kapitel 3): vor
 [-ηκε]{lang="el"} kein [θ]{lang="el"} oder [τ]{lang="el"}. Das [fθ] in [ανακαλύφθηκε]{lang="el"}
 erklärt der nächste Abschnitt.
 :::
 
-<!-- CHECK: Hörtext: Heimweg von Nordafrika, Sturm, Taucher Ilias Stadiatis und die „Leichen/Pferde“-Anekdote (als „λέγεται“ markiert), Bergung ab Nov. 1900 mit der Marine bis 1901, ein toter und zwei gelähmte Taucher; Mechanismus 1902 erkannt; „ξύλινο κουτί“ als Vermutung -->
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Jahreszeit und Route der Schwammtaucher im Jahr 1900 werden unterschiedlich überliefert
+(Frühjahr oder Herbst, auf dem Hin- oder dem Rückweg von Nordafrika). Der Text lässt beides
+offen. Die Anekdote von den Toten und Pferden ist Überlieferung, daher [λέγεται]{lang="el"}.
+:::
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
 
-Frühjahr 1900. Ein Kaiki mit Schwammtauchern aus Symi kehrt von der afrikanischen Küste zurück.
+Im Jahr 1900. Ein Kaiki mit Schwammtauchern aus Symi ist südlich der Peloponnes unterwegs.
 Plötzlich zieht ein Sturm auf, und das Kaiki macht Halt auf Antikythera, einer kleinen Insel
 zwischen Kythira und Kreta. Als das Wetter besser wird, taucht einer der Taucher, Ilias
 Stadiatis, auf den Meeresgrund. Es heißt, er sei verängstigt heraufgekommen und habe von Toten und
 Pferden gesprochen. Es waren Statuen.
 
-Das Wrack wurde in fünfzig Metern Tiefe geortet. Im November 1900 begann die Bergung, mit Hilfe
+Das Wrack wurde in etwa fünfzig Metern Tiefe geortet. Im November 1900 begann die Bergung, mit Hilfe
 der Kriegsmarine. Sie gilt als die erste große Unterwassergrabung der Welt. Bis 1901 wurden
 Bronze- und Marmorstatuen, Amphoren und Glasgefäße geborgen. Die Arbeit war gefährlich: Ein
 Taucher starb, zwei blieben gelähmt.
 
 Unter den Funden wurden auch einige Stücke korrodierter Bronze nach Athen gebracht. Niemand
-beachtete sie. Man nimmt an, dass sie einmal ein Holzkasten mit etwas darin waren. Dieses Etwas wurde
-1902 entdeckt.
+beachtete sie. Einst hatten sie in einem Holzkasten gelegen. Ihr Geheimnis wurde 1902 entdeckt.
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -834,9 +859,9 @@ beachtete sie. Man nimmt an, dass sie einmal ein Holzkasten mit etwas darin ware
 
 | Griechisch | Deutsch |
 |---|---|
-| [η άνοιξη]{lang="el"} | der Frühling |
 | [το καΐκι]{lang="el"} | das Kaiki (Kapitel 4) |
-| [η ακτή]{lang="el"} | die Küste |
+| [ταξιδεύω]{lang="el"} | reisen, (mit dem Schiff) fahren (Kapitel 2) |
+| [νότια της Πελοποννήσου]{lang="el"} | südlich der Peloponnes |
 | [πιάνει καταιγίδα]{lang="el"} | ein Sturm zieht auf |
 | [καλυτερεύω]{lang="el"} | besser werden |
 | [βουτάω]{lang="el"} | tauchen (Kapitel 4) |
@@ -860,6 +885,7 @@ beachtete sie. Man nimmt an, dass sie einmal ein Holzkasten mit etwas darin ware
 | [προσέχω, πρόσεξα]{lang="el"} | beachten, bemerken (Kapitel 9) |
 | [ξύλινος, -η, -ο]{lang="el"} | aus Holz |
 | [το κουτί]{lang="el"} | die Schachtel, der Kasten |
+| [το μυστικό]{lang="el"} | das Geheimnis (Kapitel 3) |
 :::
 
 ### Wie Dokumentationen klingen {#sec-passiv-doku}
@@ -867,12 +893,15 @@ beachtete sie. Man nimmt an, dass sie einmal ein Holzkasten mit etwas darin ware
 Wer Nachrichten und Dokumentarfilme verstehen will, muss vier Gewohnheiten kennen, und alle vier
 stehen im Text.
 
-**Erzählendes Präsens** am Anfang: [γυρίζει, σταματάει, βουτάει]{lang="el"}. Das kennst du aus
+**Erzählendes Präsens** am Anfang: [ταξιδεύει, σταματάει, βουτάει]{lang="el"}. Das kennst du aus
 Kapitel 4; im Dokumentarfilm setzt es die Szene, dann geht es im Aorist weiter.
 
 **Passiv ohne Täter.** Wer hat das Wrack geortet, wer die Statuen geborgen? Egal.
 [Εντοπίστηκε, ανασύρθηκαν, μεταφέρθηκαν]{lang="el"}. Im Gespräch hieße es [το βρήκαν, τα
-έβγαλαν]{lang="el"}, „man hat es gefunden, sie rausgeholt“.
+έβγαλαν]{lang="el"}, „man hat es gefunden, sie rausgeholt“. Das Passiv an sich ist dabei nicht
+das Merkmal: Alltägliche Passive wie [γεννήθηκα, χάθηκε, πληρώθηκα]{lang="el"} sind auch im
+Gespräch normal. Typisch für Dokumentationen sind gehobene Verben wie [εντοπίστηκε,
+ανασύρθηκαν]{lang="el"}.
 
 **„Man sagt“ als Mediopassiv.** Wo das Gespräch [λένε ότι]{lang="el"} sagt, sagt die
 Dokumentation [λέγεται ότι]{lang="el"}, genau wie spanisch [*se dice que*]{lang="es"}.
@@ -883,7 +912,8 @@ Für dich als Hörer ist das eine Warnlampe: Hier wird etwas behauptet, das niem
 erhalten: [ανακαλύφθηκε]{lang="el"} [anakaˈlifθice] statt [ανακαλύφτηκε]{lang="el"}
 [anakaˈliftice], [αποδείχθηκε]{lang="el"} „es erwies sich“ statt [αποδείχτηκε]{lang="el"}.
 Beides ist richtig. Im Gespräch verwendest du die Form mit [τ]{lang="el"}; im Fernsehen hörst du
-oft die mit [θ]{lang="el"}.
+oft die mit [θ]{lang="el"}. Nach [ρ]{lang="el"} und [λ]{lang="el"} bleibt das [θ]{lang="el"}
+ohnehin immer: [μεταφέρθηκε, ανασύρθηκαν]{lang="el"}.
 
 | Dokumentation | Gespräch | Deutsch |
 |---|---|---|
@@ -947,15 +977,17 @@ Nachprüfen wiederzufinden ist ein guter Wert.
 - **Präsens** in drei Mustern: [βρίσκομαι]{lang="el"}, [κουνιέμαι]{lang="el"} (von
   [-άω]{lang="el"}), [θεωρούμαι]{lang="el"} (von [-ώ]{lang="el"}, meist [θεωρείται]{lang="el"}).
 - **Aorist** vom Aktiv-Aorist aus: [-σα → -στηκα, -ψα → -φτηκα, -ξα → -χτηκα, -ησα → -ήθηκα,
-  -ωσα → -ώθηκα]{lang="el"}; drittletzte Silbe, kein Augment. Ausreißer:
-  [βρέθηκα, χάθηκα, πλύθηκα, ντύθηκα, σώθηκα]{lang="el"}; zu [κάνω]{lang="el"} gehört
-  [γίνομαι]{lang="el"}.
+  -ωσα → -ώθηκα]{lang="el"}, meist; [-εύω]{lang="el"} behält [ευ]{lang="el"}
+  ([πιστεύτηκε]{lang="el"}), [-να → -θηκα]{lang="el"} ([ζεστάθηκα]{lang="el"}). Drittletzte
+  Silbe, kein Augment. Ausreißer: [βρέθηκα, χάθηκα, πλύθηκα, ντύθηκα, δόθηκε]{lang="el"}; zu
+  [κάνω]{lang="el"} gehört [γίνομαι]{lang="el"}.
 - **Futur, [να]{lang="el"}-Form:** [θα βρεθώ, να γραφτεί]{lang="el"}, betont auf der Endung;
   Film [θα βρίσκομαι]{lang="el"}.
 - **Imperfekt:** betontes [-ό-]{lang="el"} + Endungen von [ήμουν]{lang="el"}:
-  [βρισκόμουν, κουνιόταν]{lang="el"}; sie-Form [βρίσκονταν, κουνιόνταν, χρησιμοποιούνταν]{lang="el"}.
+  [βρισκόμουν, κουνιόταν]{lang="el"}; sie-Form [βρίσκονταν, κουνιόνταν]{lang="el"};
+  [-ούμαι]{lang="el"}: er und sie [χρησιμοποιούνταν]{lang="el"}.
 - **Dokumentationston:** Passiv ohne Täter, [λέγεται/πιστεύεται ότι]{lang="el"}, gehobene
-  Formen mit [θ]{lang="el"} ([ανακαλύφθηκε]{lang="el"}). Im Gespräch lieber aktiv:
+  Formen mit [θ]{lang="el"} ([ανακαλύφθηκε]{lang="el"}). Mit Täter im Gespräch lieber aktiv:
   [τον βρήκαν]{lang="el"}.
 
 | Aktiv | Aorist | Mediopassiv | Aorist |
@@ -986,7 +1018,7 @@ mit ▶.
 χιλιάδες γράμματα: ένα ολόκληρο εγχειρίδιο, γραμμένο πάνω στη μηχανή.
 
 Πώς λειτουργούσε; Ο χρήστης γύριζε μια μανιβέλα στο πλάι. Μπροστά κινούνταν δείκτες για τον
-ήλιο και τη σελήνη, και μια μικρή μπάλα, μισή ασημένια και μισή μαύρη, έδειχνε τις φάσεις της
+ήλιο και τη σελήνη, και μια μικρή μπάλα, μισή άσπρη και μισή μαύρη, έδειχνε τις φάσεις της
 σελήνης. Πίσω υπήρχαν δύο μεγάλες σπείρες: η μία ήταν ημερολόγιο, η άλλη προέβλεπε εκλείψεις.
 Ένας μικρός δείκτης έδειχνε ακόμα και πότε γίνονταν οι Ολυμπιακοί Αγώνες.
 
@@ -1008,7 +1040,7 @@ mit ▶.
   3. bis ins 1. Jahrhundert v. Chr. Korinthische Monatsnamen gelten als gesichert, Syrakus und
   Rhodos sind Hypothesen.
 - **Was die Vorderseite zeigte**, ist teils rekonstruiert. Sonne, Mond und Mondphase gelten als
-  gesichert; die Planetenanzeige stützt sich auf Inschriften und Rekonstruktionen, nicht auf
+  gesichert, die Farben der Mondkugel sind rekonstruiert; die Planetenanzeige stützt sich auf Inschriften und Rekonstruktionen, nicht auf
   erhaltene Zahnräder. Auch die Kurbel ist erschlossen, nicht gefunden.
 - **„Tausend Jahre nichts“** gilt für erhaltene Geräte. Schriftquellen erwähnen Himmelsgloben
   (Cicero schreibt sie Archimedes zu), und aus Byzanz und der islamischen Welt sind einfachere
@@ -1019,8 +1051,6 @@ mit ▶.
 Zum Nachlesen: Jo Marchant, *Decoding the Heavens* (2008), und die Veröffentlichungen des
 Antikythera Mechanism Research Project.
 :::
-
-<!-- CHECK: Lesetext – Stais Mai 1902 und „Stück zerbrochen, Zahnrad sichtbar“; Röntgenaufnahmen 1970er (Price/Karakalos), Buch Price 1974; CT 2005 mit ca. 8-t-Gerät (X-Tek „Bladerunner“); Mondphasenkugel halb silbern/halb schwarz; Olympiaden-Anzeige; Monatsnamen korinthisch; Hipparchos auf Rhodos; mittelalterliche astronomische Uhren (14. Jh.) als nächste vergleichbare Getriebe; Suche vor Antikythera läuft weiter („Return to Antikythera“ seit 2012/2014) -->
 
 ::: {.callout-note collapse="true" .vocab-text}
 ## Wortschatz zum Text
@@ -1035,7 +1065,7 @@ Antikythera Mechanism Research Project.
 | [η δεκαετία]{lang="el"} | das Jahrzehnt |
 | [εξετάζω, εξετάστηκε]{lang="el"} | untersuchen |
 | [οι ακτίνες Χ]{lang="el"} | die Röntgenstrahlen |
-| [μετράω, μετρήθηκε]{lang="el"} | messen (Kapitel 2) |
+| [μετράω, μετρήθηκε]{lang="el"} | zählen, messen (Kapitel 2) |
 | [η ομάδα]{lang="el"} | die Gruppe, das Team |
 | [ο επιστήμονας]{lang="el"} | der Wissenschaftler |
 | [ο τομογράφος]{lang="el"} | der Computertomograf |
@@ -1048,7 +1078,6 @@ Antikythera Mechanism Research Project.
 | [στο πλάι]{lang="el"} | an der Seite |
 | [ο δείκτης]{lang="el"} | der Zeiger |
 | [η μπάλα]{lang="el"} | die Kugel, der Ball |
-| [ασημένιος, -α, -ο]{lang="el"} | silbern (Kapitel 2) |
 | [η φάση]{lang="el"} | die Phase |
 | [η σπείρα]{lang="el"} | die Spirale |
 | [το ημερολόγιο]{lang="el"} | der Kalender; das Tagebuch |
@@ -1080,7 +1109,7 @@ Zahnräder sichtbar, die im Metall verborgen waren, und Tausende Buchstaben wurd
 ganze Gebrauchsanleitung, auf das Gerät selbst geschrieben.
 
 Wie funktionierte er? Der Benutzer drehte eine Kurbel an der Seite. Vorn bewegten sich Zeiger
-für Sonne und Mond, und eine kleine Kugel, halb silbern, halb schwarz, zeigte die Mondphasen.
+für Sonne und Mond, und eine kleine Kugel, halb weiß, halb schwarz, zeigte die Mondphasen.
 Hinten gab es zwei große Spiralen: Die eine war ein Kalender, die andere sagte Finsternisse
 voraus. Ein kleiner Zeiger zeigte sogar an, wann die Olympischen Spiele stattfanden.
 
@@ -1103,7 +1132,7 @@ a) Stais sah in einem zerbrochenen Stück ein kleines Zahnrad.
 b) Alle glaubten ihm sofort.
 c) In den 1970er-Jahren wurden die Stücke geröntgt.
 d) 2005 brachte man die Stücke zu einem Tomografen ins Ausland.
-e) Der Kalender war auf der Vorderseite.
+e) Die zwei Spiralen waren auf der Vorderseite.
 f) Heute weiß man, wer den Mechanismus gebaut hat.
 g) Aus den tausend Jahren danach ist nichts Ähnliches erhalten.
 
@@ -1129,15 +1158,15 @@ dazu.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-B: erst die Endung, dann die Frage „Wer handelt?“. C: Vier Wörter klingen anders, als sie
-geschrieben sind.
+B: erst die Endung, dann die Frage „Wer handelt?“. C: Jedes Wort hat eine Tücke.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
 B: [φαίνομαι]{lang="el"} und [σκέφτομαι]{lang="el"} haben kein gebräuchliches Aktiv. Die Form,
-die nicht dazugehört, hat vor der Endung kein [θ]{lang="el"}. C: [μπ, ντ]{lang="el"} klingen
+die nicht dazugehört, hat eine Aktivendung: Sie endet wie ein aktiver Aorist auf
+[-σε]{lang="el"}; vergleiche sie mit 7. C: [μπ, ντ]{lang="el"} klingen
 [b, d]; [γχ]{lang="el"} ist [ŋx], vor [e, i] [ŋç]; [σ]{lang="el"} vor [μ]{lang="el"} wird
 stimmhaft.
 :::
@@ -1145,15 +1174,15 @@ stimmhaft.
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**A: a R, b F, c R, d F, e F, f F, g R.** Der Tomograf kam ins Museum, der Kalender
-war hinten ([πίσω]{lang="el"}).
+**A: a R, b F, c R, d F, e F, f F, g R.** Der Tomograf kam ins Museum, die Spiralen
+waren hinten ([πίσω]{lang="el"}).
 
 **B:**
 
 1. Imperfekt, Deponens („war zu sehen“)
 2. Aorist, passiv
 3. Aorist, Deponens („wurden sichtbar“)
-4. Imperfekt, reflexiv („bewegten sich“)
+4. Imperfekt, reflexiv („bewegten sich“); passiv („wurden bewegt“) ist auch vertretbar.
 5. Imperfekt, Deponens („stattfanden“); passiv zu [κάνω]{lang="el"} ist auch vertretbar.
 6. Gehört nicht dazu: aktiver Aorist, „hat gebaut“; Mediopassiv wäre [κατασκευάστηκε]{lang="el"}.
 7. Aorist, passiv
