@@ -254,7 +254,7 @@ Grob gerundet:
 | [η Κέρκυρα]{lang="el"} | 600 km² | 900 m | ca. 1 100 mm |
 | [η Νάξος]{lang="el"} | 430 km² | 1 000 m | ca. 400 mm |
 
-<!-- CHECK: Werte gerundet (Kreta 8336 km², Heraklion ~500 mm; Korfu ~600 km², Pantokrator ~906 m; Naxos ~430 km², Zas ~1000 m, ~400 mm); Satz 7 hängt daran. -->
+<!-- CHECK: Werte gerundet (Kreta 8336 km², Heraklion ~500 mm; Korfu ~600 km², Pantokrator ~906 m; Naxos ~430 km², Zas ~1000 m, ~400 mm); Satz 6 hängt daran. -->
 
 **Teil A.** Sag laut auf Griechisch:
 
@@ -304,9 +304,8 @@ im Superlativ gehört zum Nomen dahinter.
 6. [Η Νάξος είναι το πιο ξερό από τα τρία νησιά.]{lang="el"} Auch: [Από τα τρία νησιά, το
    πιο ξερό είναι η Νάξος.]{lang="el"}
 
-**Typische Fehler:** \*[πιο ξερός]{lang="el"} (Endung statt Genus); \*[όσο την
-Κέρκυρα]{lang="el"}; \*[ο πιο ψηλό βουνό]{lang="el"}: Der Artikel gehört zu [βουνό]{lang="el"},
-nicht zum Psiloritis.
+**Typische Fehler:** \*[πιο ξερός]{lang="el"}; \*[όσο την Κέρκυρα]{lang="el"}; \*[ο πιο ψηλό
+βουνό]{lang="el"}.
 
 **Teil B: 7f, 8r, 9f.** In 7 fehlt der Artikel: [το πιο μεγάλο νησί]{lang="el"}. 8 heißt „das
 trockenere von beiden“. In 9 muss der Akkusativ stehen: [από τη Νάξο]{lang="el"}.
@@ -826,9 +825,8 @@ lesen:
 ::: {.callout-note .exercise}
 ## Übung 12.6: Erst hören
 
-Hör die Umfrage zweimal mit ▶, ohne den Text aufzuklappen. Merk dir zu jeder der vier Antworten:
-welche Insel oder welches Ziel, und warum. Dann: Wer erzählt von einer Gewohnheit in der
-Vergangenheit, und an welcher Form hörst du das? Erst danach Text und Übersetzung aufklappen.
+Hör die Umfrage zweimal mit ▶, ohne mitzulesen. Merk dir zu jeder der vier Antworten: welches
+Ziel, und warum? Wer erzählt von einer früheren Gewohnheit, an welcher Form hörst du das?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -858,9 +856,8 @@ Die vierte nennt keine Insel.
 4. **Keine Insel:** Es ist zu heiß ([κάνει πολλή ζέστη]{lang="el"}), deshalb Pilion,
    [θα πάω]{lang="el"}.
 
-Oft überhört: [πήγαινα]{lang="el"} mit drei Silben gegen [πήγα]{lang="el"} mit zwei. Und
-[ποιο]{lang="el"} in der ersten Frage klingt wie [πιο]{lang="el"}, steht aber vor
-[είναι]{lang="el"}, nicht vor einem Adjektiv.
+Oft überhört: [πήγαινα]{lang="el"} hat drei Silben, [πήγα]{lang="el"} zwei. Das
+[ποιο]{lang="el"} der Frage steht vor [είναι]{lang="el"}, nicht vor einem Adjektiv.
 :::
 
 ::: {.callout-note collapse="true" .translation}
@@ -927,8 +924,8 @@ und daneben V, wenn jemand von früher erzählt, oder Z, wenn es um Pläne geht.
 ([πιο …]{lang="el"}, [-τερος]{lang="el"}, [καλύτερα]{lang="el"}, [περισσότερο]{lang="el"}) und
 jeweils, womit verglichen wird.
 
-**Durchgang 3:** Nimm eine Antwort von höchstens einer Minute und sprich sie Satz für Satz nach:
-anhalten, nachsprechen, weiter. Zum Schluss die ganze Antwort mitsprechen.
+**Durchgang 3:** Sprich eine Antwort von höchstens einer Minute Satz für Satz nach, zum Schluss
+ganz mit.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -949,11 +946,9 @@ entscheidet.
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-Keine feste Lösung. Gut gelaufen ist es, wenn in Durchgang 2 mindestens drei deiner Ortsnamen
-bestätigt werden und V/Z meist stimmt, wenn du fünf Vergleiche samt Vergleichsgröße hast
-(etwa [πιο ήσυχο από τη Μύκονο]{lang="el"}) und in Durchgang 3 beim letzten Mal das Tempo hältst.
-Hast du in Durchgang 1 kaum etwas erkannt, ist das bei spontaner Straßensprache normal; dann
-Durchgang 2 zweimal hören.
+Keine feste Lösung. Gut ist: drei Ortsnamen bestätigt und V/Z meist richtig; fünf Vergleiche
+samt Vergleichsgröße (etwa [πιο ήσυχο από τη Μύκονο]{lang="el"}); in Durchgang 3 zuletzt das
+Tempo gehalten. Wenig verstanden in Durchgang 1 ist bei Straßensprache normal.
 :::
 
 ## Das Wichtigste {#sec-vergleich-wichtigste}
@@ -1127,57 +1122,46 @@ beim nächsten Mal sehen wirst.
    warum?
 9. Im letzten Absatz: Welche Imperative, welches Verbot, welche [θα]{lang="el"}- und
    [να]{lang="el"}-Formen?
-10. Im ganzen Text stehen zwölf Vergleiche. Welche sind Superlative, welche Komparative?
+10. Im ganzen Text stehen sechs Superlative. Welche?
 
-**Teil C.** Lies den Text laut und prüf mit ▶: [Ποιο νησί]{lang="el"} [pço niˈsi],
-[Ψηλορείτης]{lang="el"} [psiloˈritis], [Κυκλάδες]{lang="el"} [ciˈklaðes],
-[αφαλάτωση]{lang="el"} [afaˈlatosi], [κυπαρίσσια]{lang="el"} [cipaˈrisça].
+**Teil C.** Lies den Text laut und prüf mit ▶, besonders [Ψηλορείτης]{lang="el"}
+[psiloˈritis], [αφαλάτωση]{lang="el"} [afaˈlatosi], [κυπαρίσσια]{lang="el"} [cipaˈrisça].
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Teil A: Genau auf [μόνο]{lang="el"}, [λίγα]{lang="el"} und [πάνω από]{lang="el"} achten.
-Teil B: Signalwörter wie [κάθε καλοκαίρι, κάθε μέρα]{lang="el"}.
+Achte auf [μόνο, λίγα, πάνω από]{lang="el"} und auf [κάθε καλοκαίρι, κάθε μέρα]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-[ήμουν]{lang="el"} und [είχαμε]{lang="el"} haben keine Foto-Form. Bei den Vergleichen: Artikel
-davor heißt Superlativ, [από]{lang="el"} oder [απ’ ό,τι]{lang="el"} dahinter meist Komparativ;
-auch [όλο και πιο]{lang="el"} und ein Adverb ohne „als“ zählen mit.
+[ήμουν, είχαμε]{lang="el"} haben keine Foto-Form. Superlativ heißt: Artikel davor.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**Teil A: 1f, 2r, 3f, 4r, 5r, 6f, 7f.** 1: Bewohnt sind nur etwas über hundert. 3: [λίγα
-δέντρα]{lang="el"}. 6: [πάνω από δύο εβδομάδες]{lang="el"}, also länger. 7: Für sie empfiehlt der
-Text das Ionische Meer; auf die Kykladen nur mit Hut.
+**Teil A: 1f, 2r, 3f, 4r, 5r, 6f, 7f.** 1: bewohnt nur gut hundert. 6: [πάνω από]{lang="el"},
+länger. 7: das Ionische Meer.
 
 **Teil B**
 
-8. [ήμουν]{lang="el"} und [είχαμε]{lang="el"}: nur eine Vergangenheit, Zustand.
-   [περνούσαμε]{lang="el"} (jeden Sommer) und [φώναζε]{lang="el"} (jeden Tag): Film, Gewohnheit.
-   Kein Aorist: Der Absatz erzählt keine Handlung, er beschreibt, wie es war.
-9. Imperative: [διάλεξε]{lang="el"} (Foto), [πήγαινε]{lang="el"} (fester Film-Imperativ). Verbot:
-   [μην ξεχάσεις]{lang="el"} (Foto, dieses eine Mal). [να θυμάσαι]{lang="el"}: [να]{lang="el"}-Form
-   als Rat, Film, „denk immer daran“. [θα δεις]{lang="el"}: Foto. Bei [θα σου αρέσει]{lang="el"}
-   sehen Foto und Film gleich aus.
-10. **Superlative (6):** [το πιο ωραίο ελληνικό νησί; το μεγαλύτερο νησί της χώρας; τα
-    ψηλότερα βουνά; η μεγαλύτερη και η πιο εύφορη από τις Κυκλάδες; το καλύτερο
-    νησί]{lang="el"}. **Komparative (6):** [περισσότερο απ’ ό,τι στην Αθήνα; τρεις φορές
-    περισσότερη βροχή από τη Σαντορίνη; πιο «άδεια»; όλο και πιο μεγάλα; πιο γρήγορα από τον
-    μέσο όρο; θα σου αρέσει περισσότερο]{lang="el"}.
+8. [ήμουν, είχαμε]{lang="el"}: nur eine Vergangenheit, Zustand. [περνούσαμε]{lang="el"} (jeden
+   Sommer), [φώναζε]{lang="el"} (jeden Tag): Film, Gewohnheit. Kein Aorist: Der Absatz beschreibt,
+   wie es war.
+9. [διάλεξε]{lang="el"} (Foto), [πήγαινε]{lang="el"} (fester Film-Imperativ); Verbot [μην
+   ξεχάσεις]{lang="el"} (Foto, dieses eine Mal); [να θυμάσαι]{lang="el"} (Rat, Film);
+   [θα δεις]{lang="el"} (Foto). Bei [θα σου αρέσει]{lang="el"} sehen Foto und Film gleich aus.
+10. [το πιο ωραίο ελληνικό νησί; το μεγαλύτερο νησί της χώρας; τα ψηλότερα βουνά; η
+    μεγαλύτερη και η πιο εύφορη από τις Κυκλάδες; το καλύτερο νησί]{lang="el"}. Falle:
+    [τα ψηλότερα βουνά]{lang="el"} ist wegen des Artikels Superlativ, obwohl
+    [-τερος]{lang="el"} darin steckt. Die übrigen Vergleiche, etwa [πιο γρήγορα από τον μέσο
+    όρο]{lang="el"}, sind Komparative.
 
-Typische Falle: [τα ψηλότερα βουνά]{lang="el"} als Komparativ lesen, weil [-τερος]{lang="el"}
-darin steckt; der Artikel macht ihn zum Superlativ. Wer [παραπάνω]{lang="el"} („und mehr“)
-mitgezählt hat, liegt nicht falsch.
-
-**Teil C.** [Ψηλορείτης]{lang="el"} betont das [-ει-]{lang="el"}, [αφαλάτωση]{lang="el"} die
-drittletzte Silbe. In [κυπαρίσσια]{lang="el"} wird das [ι]{lang="el"} vor [α]{lang="el"} zum
-Gleitlaut: vier Silben, nicht fünf.
+**Teil C.** In [κυπαρίσσια]{lang="el"} wird das [ι]{lang="el"} vor [α]{lang="el"} zum Gleitlaut:
+vier Silben, nicht fünf.
 :::
 
 ::: {.vocab}
