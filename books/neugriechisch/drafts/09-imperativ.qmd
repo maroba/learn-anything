@@ -5,14 +5,12 @@ title: "Sag's direkt: der Imperativ"
 ::: {.callout-note .review}
 ## Zur Wiederholung
 
-Aus Kapitel 3, 5 und 8:
+Aus Kapitel 3 und 5:
 
 - **Die [να]{lang="el"}-Form** ist perfektiver Stamm plus Präsensendungen, ohne Augment:
   [να κόψω, να κόψεις … να κόψετε]{lang="el"}. Bei Bauform A bleibt nur ein Kern:
   [να πεις, να δεις, να βρεις]{lang="el"}.
 - **Verneint** wird sie mit [μη(ν)]{lang="el"}: [να μην το ξεχάσεις]{lang="el"}.
-- **Schwache Pronomen** stehen vor dem Verb, nur nach dem bejahten Imperativ dahinter:
-  [Πες μου.]{lang="el"}, aber [Μη μου πεις.]{lang="el"}
 :::
 
 ## Gemista am Telefon {#sec-imperativ-einstieg}
@@ -95,18 +93,16 @@ Das Rezept besteht fast nur aus Befehlen, und die meisten sehen vertraut aus:
 | [μην ανοίγεις]{lang="el"} | [ανοίγω]{lang="el"} | mach nicht (dauernd) auf! |
 
 [κόψε, γέμισε, ανακάτεψε]{lang="el"} klingen wie der Aorist „er schnitt, er füllte, er
-mischte“, nur ohne Augment. Das ist der **Imperativ** ([η προστακτική]{lang="el"}), die
-Befehlsform. Du benutzt ihn seit Kapitel 1 als festes Stück ([Έλα! Κοίτα! Δώσε μου …]{lang="el"}),
+mischte“, nur ohne Augment. Das ist der **Imperativ** ([η προστακτική]{lang="el"}). Du benutzt ihn seit Kapitel 1 als festes Stück ([Έλα! Κοίτα! Δώσε μου …]{lang="el"}),
 hier kommt das System dahinter: zwei Aspekte, Pronomen dahinter, Verbote ganz ohne Imperativ.
 
 **[Τα γεμιστά]{lang="el"}**, wörtlich „die Gefüllten“, von [γεμίζω]{lang="el"} „füllen“ (verwandt
 mit [γεμάτος]{lang="el"} „voll“, Kapitel 3), sind das Sommergericht schlechthin: im August, wenn
 die Tomaten am reifsten sind, steht in vielen Küchen ein Blech davon, und am zweiten Tag, lauwarm
-mit Feta, schmecken sie tatsächlich besser. Früher trugen viele das Blech zum Bäcker an der Ecke,
-weil nicht jede Wohnung einen Backofen hatte; daher heißt [ο φούρνος]{lang="el"} bis heute Ofen
-und Bäckerei (Kapitel 1). Und [όσο πάρει]{lang="el"}, „so viel es nimmt“, steht in griechischen
-Rezepten tatsächlich da, meist beim Salz. Beim Öl sind Mütter großzügiger.
-<!-- CHECK: Gemista-Rezept (Reis roh mit Tomatenpulpe, Zwiebel, Petersilie, Minze, Kartoffeln dazwischen, ca. 1 Std. im Ofen) als typische λαδερό-Variante plausibel; Brauch, das ταψί zum Bäcker der Nachbarschaft zu bringen („früher“), korrekt dargestellt? -->
+mit Feta, schmecken sie tatsächlich besser. Früher trugen viele das Blech zum Bäcker an der Ecke;
+[ο φούρνος]{lang="el"} ist bis heute beides, Ofen und Bäckerei (Kapitel 1). Und
+[όσο πάρει]{lang="el"}, „so viel es nimmt“, steht in griechischen Rezepten tatsächlich da, oft
+beim Mehl oder Salz. Beim Öl sind Mütter großzügiger.
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -168,8 +164,8 @@ aus dem perfektiven Stamm, und du kennst ihn aus Aorist und [να]{lang="el"}-Fo
 
 **Die du-Form ist die er-Form des Aorists ohne Augment.** [έκοψε → κόψε]{lang="el"}. Wo es kein
 Augment gibt, ist sie einfach dieselbe Form: [δοκίμασε]{lang="el"} heißt „er probierte“ und
-„probier!“, wie Kapitel 6 bemerkt hat. Die Betonung bleibt also, wo sie im Aorist steht,
-auf der drittletzten Silbe, und bei Zweisilbern auf der ersten.
+„probier!“, wie Kapitel 6 bemerkt hat. Die Betonung steht wie im Aorist auf der
+drittletzten Silbe, bei Zweisilbern auf der ersten.
 
 **Die ihr-Form kommt aus der [να]{lang="el"}-Form:** [να κόψετε → κόψτε]{lang="el"},
 [να δοκιμάσετε → δοκιμάστε]{lang="el"}. Das [να]{lang="el"} fällt weg und das [ε]{lang="el"} vor
@@ -227,7 +223,7 @@ Vermieterin (Sie).
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-du: er-Form des Aorists, Augment weg. ihr: erst die [θα]{lang="el"}-Form bilden
+du: er-Form des Aorists, Augment weg. ihr: erst die [να]{lang="el"}-Form bilden
 ([θα κλείσετε]{lang="el"}), dann [-ετε → -τε]{lang="el"}.
 :::
 
@@ -254,7 +250,7 @@ direkt vor [-στε, -ψτε, -ξτε]{lang="el"} betont.
 | g) | [ψήσε]{lang="el"} | [ψήστε]{lang="el"} |
 | h) | [ανακάτεψε]{lang="el"} | [ανακατέψτε]{lang="el"} |
 
-Bei d) und g) fällt die Präsens-Zutat [ν]{lang="el"}, bei h) wird [ευ]{lang="el"} wie im Aorist
+Bei a), d) und g) fällt die Präsens-Zutat [ν]{lang="el"}, bei h) wird [ευ]{lang="el"} wie im Aorist
 zu [ψ]{lang="el"}.
 
 **Teil B:** [Κλείσε / Κλείστε την πόρτα! Ρίξε / Ρίξτε λίγο αλάτι! Αγόρασε / Αγοράστε ψωμί!]{lang="el"}
@@ -276,7 +272,6 @@ Die Bauformen aus Kapitel 3 und 5 sortieren auch hier.
 [έφερε → φέρε]{lang="el"}, [έκανε → κάνε]{lang="el"}. Im Plural fällt das [ε]{lang="el"} meist
 ([δώστε, βάλτε, φέρτε, κάντε]{lang="el"}), bei einigen bleibt es: [φύγετε, μείνετε, μάθετε,
 πλύνετε]{lang="el"}. Die musst du dir merken.
-<!-- CHECK: Standardformen des Imperativs Plural: φύγετε, μείνετε, μάθετε, πλύνετε (umg. auch φύγτε, μείντε?) gegenüber δώστε, βάλτε, φέρτε, κάντε, βγάλτε -->
 
 **Bauform A** hat nur den kleinen Kern. Aus [-εις]{lang="el"} der [να]{lang="el"}-Form wird
 [-ες]{lang="el"}, und die Form ist einsilbig; der Plural ist die [να]{lang="el"}-Form selbst:
@@ -334,8 +329,8 @@ Bauform A: [να]{lang="el"}-Form, [-εις → -ες]{lang="el"}, der Plural is
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Drei Formen haben mit dem Aorist nichts zu tun. Bei einem Verb bleibt im Plural das
-[ε]{lang="el"} vor [-τε]{lang="el"}.
+Vier Zurufe brauchen die Einzelgänger. Bei einem der übrigen Foto-Imperative bleibt im Plural
+das [ε]{lang="el"} vor [-τε]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -403,11 +398,12 @@ Der Film-Imperativ kommt aus dem **imperfektiven Stamm**, also dem Präsens:
 
 Die ihr-Form ist schlicht das Präsens ([γράφετε, μιλάτε]{lang="el"}), der Satz macht daraus einen
 Befehl. Im Singular bekommen die stammbetonten Verben [-ε]{lang="el"}, die auf [-άω]{lang="el"} ein
-[-α]{lang="el"}, und die Betonung rückt so weit nach vorn wie möglich:
+[-α]{lang="el"}, und die Betonung rückt nach vorn, bis auf die drittletzte Silbe:
 [δια**βά**ζω → **διά**βαζε]{lang="el"}, [μι**λά**ω → **μί**λα]{lang="el"}. [λέω]{lang="el"} und
 [τρώω]{lang="el"} holen ihr [γ]{lang="el"} aus dem Imperfekt (Kapitel 4): [λέγε, τρώγε]{lang="el"}.
-Verben wie [μπορώ, τηλεφωνώ]{lang="el"} haben praktisch nur den Foto-Imperativ.
-<!-- CHECK: Film-Imperativ der Verben auf -ώ (Klasse 2b, τηλεφωνώ, οδηγώ): im Standard praktisch nicht gebräuchlich, umg. „τηλεφώνα μου“? Formulierung „praktisch nur Foto“ vertretbar? -->
+Verben auf [-ώ]{lang="el"} wie [οδηγώ, τηλεφωνώ]{lang="el"} haben im Singular keinen eigenen
+Film-Imperativ; dafür steht [να τηλεφωνείς]{lang="el"}. Im Plural geht das Präsens:
+[Οδηγείτε προσεκτικά.]{lang="el"}
 
 Gewählt wird nach dem Bild aus Kapitel 2:
 
@@ -422,10 +418,11 @@ Gewählt wird nach dem Bild aus Kapitel 2:
 
 Und dann gibt es eine Handvoll häufiger Verben, bei denen der Film die normale Form ist, auch
 für einmal: [Κοίτα! Άκου! Ρώτα! Περίμενε! Κράτα! Σταμάτα! Πρόσεχε!]{lang="el"} Schauen,
-hören, warten, festhalten, aufpassen: Das sind Zustände, die eine Weile dauern sollen. Die
-Foto-Formen gibt es auch ([κοίταξε, άκουσε, ρώτησε]{lang="el"}), sie klingen aber nachdrücklicher.
-Im Plural nimmt man dagegen oft das Foto: [Κοιτάξτε! Ακούστε!]{lang="el"}
-<!-- CHECK: Verteilung Film/Foto bei κοιτάω/κοιτάζω, ακούω, ρωτάω, κρατάω, σταματάω: Singular überwiegend Film (κοίτα, άκου, ρώτα, κράτα, σταμάτα), Plural häufig Foto (κοιτάξτε, ακούστε); „κοίταξε, άκουσε“ nachdrücklicher – so vertretbar? -->
+hören, festhalten, aufpassen: Das sind Zustände, die eine Weile dauern sollen. Bei
+[ρώτα, σταμάτα]{lang="el"} ist es schlicht Gewohnheit der Sprache, und [περίμενε]{lang="el"} ist
+eine Form für beides, weil [περιμένω]{lang="el"} keinen eigenen perfektiven Stamm hat. Die
+Foto-Formen gibt es auch, vor allem mit Objekt: [Άκουσέ με! Κοίταξέ το!]{lang="el"} Im Plural
+nimmt man oft das Foto: [Κοιτάξτε! Ακούστε!]{lang="el"}
 
 ::: {.callout-important}
 ## Merke
@@ -495,15 +492,16 @@ das Wie.
 - b) [Γράφε μου συχνά!]{lang="el"} „Öfter“ ist Wiederholung.
 - c) [Διάβασε αυτό το μήνυμα!]{lang="el"}
 - d) [Διάβαζε μια σελίδα κάθε βράδυ!]{lang="el"} [κάθε βράδυ]{lang="el"} zieht den Film.
-- e) [Τρώγε σιγά!]{lang="el"} Das Essen läuft, gemeint ist die Art.
+- e) [Τρώγε σιγά!]{lang="el"} Das Essen läuft, gemeint ist die Art. [Φάε σιγά!]{lang="el"}
+  ist auch richtig.
 - f) [Δοκίμασε αυτό!]{lang="el"} oder [Δοκίμασέ το!]{lang="el"} (@sec-imperativ-pronomen)
-- g) [Πρόσεχε, ο δρόμος γλιστράει!]{lang="el"} Fester Film-Imperativ.
+- g) [Πρόσεχε, ο δρόμος γλιστράει!]{lang="el"} Fester Film-Imperativ. Als Warnung vor
+  akuter Gefahr geht auch [Πρόσεξε!]{lang="el"}
 - h) [Πλένετε πάντα τα χέρια σας πριν από το φαγητό.]{lang="el"} Regel, dazu
   [πάντα]{lang="el"}; der Plural ist das Präsens.
 - i) [Άνοιξε το παράθυρο, κάνει ζέστη.]{lang="el"}
 
-**Typische Fehler:** a) und b) gleich behandeln, weil das Deutsche beide Male „schreib“ sagt;
-g) als Foto, weil die Warnung nur einmal fällt.
+**Typischer Fehler:** a) und b) gleich behandeln, weil das Deutsche beide Male „schreib“ sagt.
 :::
 
 ::: {.vocab}
@@ -522,16 +520,15 @@ Kapitel 8 hat die Regel gebracht: Nach dem bejahten Imperativ steht das schwache
 dahinter, [Δώσε μου, Πες μου, Κοίτα τον]{lang="el"}. Drei Dinge kommen dazu.
 
 **Das [ε]{lang="el"} fällt.** Vor [το, τα, τον, την, τους, τες]{lang="el"} verschluckt die
-gesprochene Sprache das [-ε]{lang="el"} des Imperativs, und oft steht das auch so geschrieben:
+gesprochene Sprache oft das [-ε]{lang="el"} des Imperativs, und oft steht das auch so geschrieben:
 [Πάρ’ το]{lang="el"} [ˈparto], [Φέρ’ το]{lang="el"}, [Βάλ’ τες]{lang="el"}, [Δώσ’ το]{lang="el"},
 [Άσ’ το]{lang="el"} (von [άσε]{lang="el"}, der Kurzform von [άφησε]{lang="el"}). Die Betonung
 bleibt, wo sie war. Vor [μου, μας]{lang="el"} bleibt das [ε]{lang="el"} meist: [Δώσε
 μου]{lang="el"}.
 
-Im Rezept stand [βάλ’ τες]{lang="el"}, nicht [τις]{lang="el"}: Hinter dem Imperativ hat das
-weibliche „sie“ (Plural) oft die Form [τες]{lang="el"}. Vor dem Verb bleibt es bei
-[τις]{lang="el"}.
-<!-- CHECK: τες als nachgestellte Form von τις nach Imperativ (βάλ’ τες, φέρ’ τες) standardsprachlich üblich/zulässig (Triantafyllidis-Grammatik)? -->
+Im Rezept stand [βάλ’ τες]{lang="el"}, nicht [τις]{lang="el"}: Hinter dem Imperativ Singular hat
+das weibliche „sie“ (Plural) oft die Form [τες]{lang="el"} ([βάλ’ τες, φέρ’ τες]{lang="el"}); nach
+dem Plural bleibt [τις]{lang="el"} ([κόψτε τις]{lang="el"}), vor dem Verb ohnehin.
 
 **Der zweite Akzent.** Ist der Imperativ auf der drittletzten Silbe betont, rutscht die Betonung
 mit dem Pronomen auf die viertletzte, und das erlaubt das Griechische nicht. Wie bei
@@ -541,26 +538,29 @@ mit dem Pronomen auf die viertletzte, und das erlaubt das Griechische nicht. Wie
 - [άφησε + τα → Άφησέ τα.]{lang="el"} [ˈafiˈse ta] Lass sie (stehen).
 - [πίστεψε + με → Πίστεψέ με.]{lang="el"} [ˈpisteˈpse me] Glaub mir.
 
-Der Plural braucht das nicht: [Δοκιμάστε το]{lang="el"}, die Betonung ist schon auf der
-vorletzten Silbe. Und aufpassen: [Πίστεψέ με]{lang="el"} heißt „glaub **mir**“, mit Akkusativ, wie
-[Τον πίστεψε]{lang="el"} in Kapitel 8.
+Der Foto-Plural braucht das nicht: [Δοκιμάστε το]{lang="el"}, die Betonung ist schon auf der
+vorletzten Silbe. Film-Plurale wie [ταΐζετε]{lang="el"} können ihn brauchen. Und aufpassen:
+[Πίστεψέ με]{lang="el"} heißt „glaub **mir**“, mit Akkusativ, wie [Ο Σλήμαν τον
+πίστεψε]{lang="el"} (Kapitel 8).
 
-**Zwei Pronomen.** Kapitel 8 hat die Frage offengelassen, jetzt die Antwort: Nach dem Imperativ
-sind **beide Reihenfolgen** richtig und im Alltag zu hören.
+**Zwei Pronomen.** Wie Kapitel 8 gesagt hat, sind nach dem Imperativ **beide Reihenfolgen**
+richtig; hier kommt dazu, wo die Akzente stehen.
 
 | wem – was | was – wem | Deutsch |
 |---|---|---|
-| [Δώσε μου το.]{lang="el"} | [Δώσ’ το μου.]{lang="el"} | Gib es mir. |
+| [Δώσε μού το.]{lang="el"} | [Δώσ’ το μου.]{lang="el"} | Gib es mir. |
 | [Πες μου το.]{lang="el"} | [Πες το μου.]{lang="el"} | Sag es mir. |
-| [Φέρε μου τα.]{lang="el"} | [Φέρ’ τα μου.]{lang="el"} | Bring sie mir. |
-| [Πείτε μου το.]{lang="el"} | [Πείτε το μου.]{lang="el"} | Sagen Sie es mir. |
+| [Φέρε μού τα.]{lang="el"} | [Φέρ’ τα μου.]{lang="el"} | Bring sie mir. |
+| [Πείτε μού το.]{lang="el"} | [Πείτε τό μου.]{lang="el"} | Sagen Sie es mir. |
 
-Links steht die Reihenfolge, die du vom Verb her kennst, wie spanisch [*dámelo*]{lang="es"}.
-Rechts die, die im schnellen Sprechen sehr beliebt ist, vielleicht weil sich das
-[ε]{lang="el"} vor [το]{lang="el"} so bequem verschlucken lässt. Zum Sprechen reicht dir die
-linke; hören wirst du beide. Vor dem Verb gibt es diese Freiheit nicht: [Μου το δίνεις;]{lang="el"},
+Das erste Pronomen bekommt einen Akzent, wenn sonst drei Silben hinter der Betonung stünden
+(Kapitel 8), in beiden Reihenfolgen: [Δώσε μού το, Πείτε τό μου]{lang="el"}. [Πες μου
+το]{lang="el"} und [Δώσ’ το μου]{lang="el"} brauchen keinen.
+
+Links steht die Reihenfolge, die du vom Verb her kennst, wie spanisch [*dámelo*]{lang="es"};
+rechts die von französisch [*Dis-le-moi*]{lang="fr"}, erst was, dann wem. Zum Sprechen reicht dir
+die linke; hören wirst du beide. Vor dem Verb gibt es diese Freiheit nicht: [Μου το δίνεις;]{lang="el"},
 nie \*[Το μου δίνεις;]{lang="el"}
-<!-- CHECK: Reihenfolge zweier Klitika nach dem Imperativ (Rückfrage aus Kapitel 8): Sind Gen.–Akk. (δώσε μου το, πες μου το) und Akk.–Gen. (δώσ’ το μου, πες το μου) beide standardsprachlich und üblich? Ist Akk.–Gen. in gesprochener Sprache tatsächlich sehr häufig, und ist „Πείτε το μου“ natürlich? (HMP-CG, Abschnitt zu nachgestellten Klitika) -->
 
 Ein Klassiker aus der Taverne, zum Schluss des Abends:
 [Φέρτε μας τον λογαριασμό, παρακαλώ.]{lang="el"} „Bringen Sie uns bitte die Rechnung.“
@@ -575,9 +575,7 @@ Ein Klassiker aus der Taverne, zum Schluss des Abends:
 2. [Δοκίμασε τη σάλτσα.]{lang="el"} ([η σάλτσα]{lang="el"} die Soße)
 3. [Άφησε τα γεμιστά για αύριο.]{lang="el"}
 4. [Φέρε τις πατάτες.]{lang="el"}
-5. [Διάβασε το μήνυμα.]{lang="el"}
-6. [Ρώτησε τη Μαρία.]{lang="el"}
-7. [Κόψτε τις ντομάτες.]{lang="el"}
+5. [Κόψτε τις ντομάτες.]{lang="el"}
 
 **Teil B.** Jetzt beide Objekte als Pronomen, in beiden Reihenfolgen.
 
@@ -611,9 +609,8 @@ Akzent aus, mit zweien nicht. Kurzformen ([πες, δώσ’]{lang="el"}) brauch
 2. [Δοκίμασέ τη.]{lang="el"} [ðoˈcimaˈse ti]
 3. [Άφησέ τα για αύριο.]{lang="el"} [ˈafiˈse ta]
 4. [Φέρ’ τες.]{lang="el"} [ˈfertes]; [Φέρε τις]{lang="el"} ist auch zu hören.
-5. [Διάβασέ το.]{lang="el"} [ˈðʝavaˈse to]
-6. [Ρώτησέ τη.]{lang="el"} [ˈrotiˈse ti]
-7. [Κόψτε τις.]{lang="el"} oder [Κόψτε τες.]{lang="el"} Ohne zweiten Akzent.
+5. [Κόψτε τις.]{lang="el"} Ohne zweiten Akzent, und nach dem Plural [τις]{lang="el"}, nicht
+   [τες]{lang="el"}.
 
 **Teil B** (beide Reihenfolgen sind richtig)
 
@@ -651,7 +648,7 @@ Auch hier gibt es beide Aspekte:
 | [Μην το ξεχάσεις!]{lang="el"} Vergiss es nicht! | [Μην ξεχνάς!]{lang="el"} Vergiss nie! |
 | [Μην τρέξεις!]{lang="el"} Lauf (jetzt) nicht los! | [Μην τρέχεις!]{lang="el"} Renn nicht so! Fahr nicht so schnell! |
 | [Μην το πετάξεις.]{lang="el"} Wirf ihn nicht weg. | [Μην ανοίγεις συνέχεια τον φούρνο.]{lang="el"} Mach nicht dauernd auf. |
-| [Μην πας στις δέκα.]{lang="el"} Geh nicht um zehn. | [Μην ανησυχείς.]{lang="el"} Mach dir keine Sorgen. |
+| [Μην πας στις δέκα.]{lang="el"} Geh nicht um zehn. ([πας]{lang="el"} ist Foto und Film zugleich, Kapitel 5; hier ist ein einzelner Gang gemeint.) | [Μην ανησυχείς.]{lang="el"} Mach dir keine Sorgen. |
 
 Foto warnt vor einer bestimmten Handlung, die noch nicht passiert ist. Film verbietet ein
 Verhalten, oft eins, das gerade läuft: [Μη ρωτάς]{lang="el"} (Kapitel 2) heißt „hör auf zu fragen“.
@@ -660,7 +657,9 @@ Beim Beruhigen steht fast immer der Film: [Μην ανησυχείς, μη φο�
 
 Die Pronomen stehen wie nach [να]{lang="el"} **vor** dem Verb: [Μην το πεις.]{lang="el"},
 [Μη μου το δώσεις.]{lang="el"} Im Plural genauso: [Μην ανησυχείτε.]{lang="el"}
-[Μην το πείτε σε κανέναν.]{lang="el"}
+[Μην το πείτε σε κανέναν.]{lang="el"} Spanisch macht es genauso: [*¡Dímelo!*]{lang="es"} –
+[*¡No me lo digas!*]{lang="es"} ist [Πες μου το! – Μη μου το πεις!]{lang="el"}, das Verbot ohne
+Imperativ, das Pronomen nach vorn.
 
 ::: {.callout-important}
 ## Merke
@@ -682,7 +681,7 @@ Das klingt weniger nach Befehl als nach Auftrag oder gutem Rat, wie [Να ’σ�
 Kapitel 5. Verneint heißt es [να μη(ν)]{lang="el"}.
 
 Und wie direkt darf man sein? Einen guten Freund auf Griechisch mit [Δώσε μου το
-αλάτι]{lang="el"} um das Salz zu bitten, klingt nicht so knapp wie „Gib mir das Salz“ im Deutschen.
+αλάτι]{lang="el"} um das Salz zu bitten, klingt oft nicht so knapp wie „Gib mir das Salz“ im Deutschen.
 Wer weicher will, nimmt die Frage im Präsens aus Kapitel 8, [Μου δίνεις το αλάτι;]{lang="el"},
 oder hängt [σε παρακαλώ]{lang="el"} an. Bei Fremden sorgt der Plural für den Abstand:
 [Περιμένετε λίγο, παρακαλώ.]{lang="el"}
@@ -690,12 +689,10 @@ oder hängt [σε παρακαλώ]{lang="el"} an. Bei Fremden sorgt der Plural 
 ::: {.callout-caution .uncertain}
 ## Vorsicht
 
-Wie höflich oder schroff ein Imperativ wirkt, hängt stark von Tonfall, Beziehung und Region ab.
 Dass direkte Imperative unter Bekannten im Griechischen üblicher sind als im Deutschen, ist ein
-verbreiteter Eindruck, den auch die Forschung zur griechischen Höflichkeit stützt; eine feste
-Regel ist es nicht.
+verbreiteter Eindruck, keine feste Regel; Sifianou (1992) beschreibt ihn im Vergleich mit dem
+Englischen.
 :::
-<!-- CHECK: Aussage zur Höflichkeit des Imperativs belegen (z.B. Sifianou, „Politeness Phenomena in England and Greece“, 1992) oder abschwächen -->
 
 ::: {.callout-note .exercise}
 ## Übung 9.5: Lieber nicht
@@ -829,8 +826,8 @@ die es nicht mehr gibt, und fast immer die Auskunft „zwei Minuten zu Fuß“.
 ## Übung 9.6: Nicht zu verfehlen
 
 **Teil A.** Du stehst auf dem Platz am Kiosk. Geradeaus führt eine Straße zu einer Ampel. Biegt
-man dort rechts ab, liegt zwei Seitenstraßen weiter das **Museum** (a). Links um die Ecke ist
-gleich die **Bäckerei** (b). Geradeaus über die Ampel hinaus steht auf der anderen Straßenseite
+man dort rechts ab, liegt zwei Seitenstraßen weiter das **Museum** (a). An der Ampel links um
+die Ecke ist gleich die **Bäckerei** (b). Geradeaus über die Ampel hinaus steht auf der anderen Straßenseite
 eine Kirche, davor die **Bushaltestelle** (c). Wohin führt welche Beschreibung? Im Chat reicht
 „1a, …“.
 
@@ -903,9 +900,8 @@ einem einzelnen Abbiegen.
 | [η εκκλησία]{lang="el"} | die Kirche |
 | [περνάω απέναντι]{lang="el"} | auf die andere Straßenseite gehen |
 | [Δε χάνεται.]{lang="el"} | Nicht zu verfehlen. |
-| [εφημερεύον]{lang="el"} | diensthabend (gelehrte Form, Kapitel 29) |
+| [εφημερεύον]{lang="el"} | diensthabend (gelehrte Form, Kapitel 28) |
 :::
-<!-- CHECK: „Δε χάνεται“ als idiomatisches „nicht zu verfehlen“ in Wegbeschreibungen; „Συγγνώμη, για το …;“ als übliche Kurzfrage nach dem Weg -->
 
 ## Hörspur: Rufe und Zurechtweisungen {#sec-imperativ-hoerspur}
 
@@ -914,7 +910,8 @@ Treppenhaus, vom Fahrersitz nach hinten. Die Szene unten gibt es nur als Aufnahm
 zweimal an, bevor du den Text aufklappst. Es sind synthetische Stimmen, deutlicher und ruhiger als
 eine echte Familie im August.
 
-Die Szene: Eine Familie fährt an einem Samstagmorgen ans Meer.
+Die Szene: Eine Familie fährt an einem Samstagmorgen ans Meer. Worthilfe: [η ζώνη]{lang="el"}
+der Gurt, [η ησυχία]{lang="el"} die Ruhe, [το βενζινάδικο]{lang="el"} die Tankstelle.
 
 ::: {lang="el" .listen}
 — Άντε, παιδιά, πάμε! Μπείτε στο αυτοκίνητο!
@@ -964,7 +961,7 @@ aber keine Imperativformen.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Es sind sieben Imperative und zwei Verbote. Nur einer der Imperative ist Plural.
+Nur einer der Imperative ist Plural; zwei Befehle beginnen mit [μη(ν)]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -986,7 +983,6 @@ endet auf [-στε, -ψτε, -ξτε]{lang="el"} mit Betonung direkt davor, die 
 [-ουμε]{lang="el"}. Film-Plurale wie [ανακατεύετε]{lang="el"} klingen wie das
 Präsens; ob Anweisung oder Feststellung, zeigt der Zusammenhang.
 :::
-<!-- CHECK: „Viele griechische Rezepte (Kochbücher, Kochvideos) erklären in der 1. Person Plural Präsens (κόβουμε, βάζουμε)“ – als Tendenz zutreffend? -->
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -1043,9 +1039,8 @@ Präsens; ob Anweisung oder Feststellung, zeigt der Zusammenhang.
   ganze Schreien.
 - **[Κράτα λίγο.]{lang="el"}** „Halt noch ein bisschen durch“: der Film-Imperativ für einen
   Zustand, der andauern soll.
-- **Anrede vorn:** Der Imperativ kommt fast immer mit Vokativ ([Νίκο, Γιώργο]{lang="el"},
-  Kapitel 7) oder [παιδιά]{lang="el"}. Achte beim Hören auf die Betonung: Gerufene Imperative
-  tragen den Satzakzent vorn, [**Άν**τε, παιδιά!]{lang="el"}
+- **Satzakzent vorn:** Gerufene Imperative tragen ihn am Anfang:
+  [**Μπεί**τε στο αυτοκίνητο!]{lang="el"}
 
 
 ::: {.vocab}
@@ -1066,12 +1061,12 @@ Präsens; ob Anweisung oder Feststellung, zeigt der Zusammenhang.
   ([να κόψετε → κόψτε]{lang="el"}). Bauform A: [πες, δες, βρες, πιες, βγες, μπες]{lang="el"},
   Plural [πείτε, δείτε …]{lang="el"}. Einzelgänger: [έλα/ελάτε, πάρε/πάρτε, φάε/φάτε,
   πήγαινε/πηγαίνετε]{lang="el"}.
-- **Film-Imperativ** (Präsensstamm): [γράφε, διάβαζε, μίλα]{lang="el"}, Plural = Präsens. Für
+- **Film-Imperativ** (imperfektiver Stamm): [γράφε, διάβαζε, μίλα]{lang="el"}, Plural = Präsens. Für
   Gewohnheit, Regel, „mach weiter“ und bei [κοίτα, άκου, ρώτα, περίμενε, κράτα, σταμάτα,
   πρόσεχε]{lang="el"}. Sonst im Zweifel Foto.
 - **Pronomen** hinter dem Imperativ: [Πάρ’ το]{lang="el"} (das [ε]{lang="el"} fällt),
   [Δοκίμασέ το]{lang="el"} (zweiter Akzent). Zwei Pronomen in beiden Reihenfolgen:
-  [Δώσε μου το / Δώσ’ το μου]{lang="el"}.
+  [Δώσε μού το / Δώσ’ το μου]{lang="el"}.
 - **Verbot** ohne Imperativ: [μη(ν)]{lang="el"} + [να]{lang="el"}-Form, Pronomen davor. Foto für
   eine Handlung ([Μην το πετάξεις]{lang="el"}), Film für ein Verhalten ([Μην τρέχεις]{lang="el"}).
 - **[να]{lang="el"} + Form** als Auftrag oder Rat: [Να προσέχεις!]{lang="el"}
@@ -1173,13 +1168,6 @@ Anna
 P.S. Lola hat um sieben gegessen. Wenn sie dir sagt, dass sie Hunger hat, glaub ihr nicht.
 :::
 
-Der Zettel sortiert, wie es die Grammatik verlangt: Was jeden Tag passieren soll, steht im Film
-([Τάιζέ τη, Άλλαζε, Πότιζε]{lang="el"}), was einmal zu tun ist, im Foto ([Ζέστανέ τα, κλείσε,
-βγάλε, άφησε]{lang="el"}). Bei den Verboten ebenso: [Μην της δίνεις]{lang="el"} ist eine Regel für
-zehn Tage, [μην την πιστέψεις]{lang="el"} eine Warnung vor dem einen Blick. [Τάιζέ τη]{lang="el"}
-und [Ζέστανέ τα]{lang="el"} zeigen den zweiten Akzent, [Πάρ’ το]{lang="el"} das verschluckte
-[ε]{lang="el"}.
-<!-- CHECK: „Τάιζέ τη“: Imperativ τάιζε (ταΐζω) + τη – Akzent/Trema korrekt? (τά-ι-ζε drei Silben, daher zweiter Akzent); „φάε τα“ (oder „φά’ τα“) übliche Schreibung? „διψάνε“ als umg. 3. Pl. von διψάω -->
 
 ::: {.callout-note .exercise}
 ## Übung 9.8: Was der Text wirklich sagt
@@ -1237,7 +1225,9 @@ Zu 7: Das [Υ.Γ.]{lang="el"} sagt [μην την πιστέψεις]{lang="el"}
 
 **Teil B: a2, b2, c4, d3, e4, f1, g3, h1, i2.** a und b sind Gewohnheit, c und e Regeln für die
 ganzen zehn Tage. d warnt vor dem einen Blick, g vor dem einen Versuch. f und h sind einmalige
-Handlungen. i ist Film nur, weil [πάω]{lang="el"} kein Foto hat. Typischer Fehler: a als Foto,
+Handlungen. i ist Film nur, weil [πάω]{lang="el"} kein Foto hat. Nebenbei zeigen
+[Τάιζέ τη]{lang="el"} und [Ζέστανέ τα]{lang="el"} den zweiten Akzent, [Πάρ’ το]{lang="el"} das
+verschluckte [ε]{lang="el"}. Typischer Fehler: a als Foto,
 weil „zweimal“ gezählt klingt. Aber zweimal am Tag, jeden Tag: Regelmäßig ist Film.
 
 **Teil C**
