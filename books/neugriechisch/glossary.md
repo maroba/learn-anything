@@ -33,7 +33,7 @@
 | χ vor a, o, u | wie *ach* |
 | χ vor e, i | wie *ich* |
 | ζ | stimmhaft wie *s* in *Rose* |
-| σ | immer stimmlos wie *ss* in *Tasse* |
+| σ | stimmlos wie *ss* in *Tasse*; vor stimmhaftem Konsonanten [z] ([ˈkozmos]) |
 | ρ | getippt wie span. *pero* |
 | [c] (κ vor e/i) | wie *k* in *Kiel* mit einem Hauch *j* |
 | [ɟ] (γκ/γγ vor e/i) | wie *g* in *Gier* mit einem Hauch *j* |

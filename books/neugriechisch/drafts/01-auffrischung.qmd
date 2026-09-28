@@ -2,15 +2,13 @@
 title: "Auffrischung: Klang und Präsens-Gerüst"
 ---
 
-Ein zügiger Durchgang durch das, was ein Anfängerkurs hinterlässt: Klang, Präsens, Artikel.
-Nichts davon wird von null erklärt; es soll beim Sprechen sitzen, nicht nur beim Wiedererkennen.
-Neu dazu kommen die Lautschrift dieses Buchs und die ersten Wörter, mit denen Griechen ein
-Gespräch steuern. Wer die Digraphen sicher kann, springt direkt zu Übung 1.1.
+Ein zügiger Durchgang durch das, was ein Anfängerkurs hinterlässt: Klang, Präsens, Artikel,
+nicht von null erklärt, sondern so, dass es beim Sprechen sitzt. Neu sind die Lautschrift des
+Buchs und die ersten Wörter, mit denen Griechen ein Gespräch steuern. Wer die Digraphen sicher kann, springt direkt zu Übung 1.1.
 
 ## Ankunft in Piräus {#sec-auffrischung-einstieg}
 
-Sieben Uhr morgens im [λιμάνι]{lang="el"} von Piräus, dem Hafen Athens. Wer auf eine Fähre will,
-liest zuerst die Anzeigetafel.
+Sieben Uhr morgens im [λιμάνι]{lang="el"} von Piräus, dem Hafen Athens, vor der Anzeigetafel:
 
 **[ΑΝΑΧΩΡΗΣΕΙΣ]{lang="el"}**
 
@@ -21,8 +19,8 @@ liest zuerst die Anzeigetafel.
 | [07:40]{lang="el"} | [ΣΥΡΟΣ – ΤΗΝΟΣ – ΜΥΚΟΝΟΣ]{lang="el"} | [Ε7]{lang="el"} | [ΚΑΘΥΣΤΕΡΗΣΗ]{lang="el"} |
 | [08:00]{lang="el"} | [ΣΕΡΙΦΟΣ – ΣΙΦΝΟΣ – ΜΗΛΟΣ]{lang="el"} | [Ε6]{lang="el"} | [ΑΚΥΡΩΣΗ]{lang="el"} |
 
-Daneben hängen Schilder: [ΕΙΣΙΤΗΡΙΑ]{lang="el"}, [ΑΙΘΟΥΣΑ ΑΝΑΜΟΝΗΣ]{lang="el"},
-[ΕΞΟΔΟΣ]{lang="el"}, und am Kiosk, zum Glück, [ΑΝΟΙΧΤΟ]{lang="el"}.
+Daneben: [ΕΙΣΙΤΗΡΙΑ]{lang="el"}, [ΑΙΘΟΥΣΑ ΑΝΑΜΟΝΗΣ]{lang="el"}, [ΕΞΟΔΟΣ]{lang="el"}, und am
+Kiosk, zum Glück, [ΑΝΟΙΧΤΟ]{lang="el"}.
 
 Großbuchstaben tragen im Griechischen **keinen Akzent**; wo die Betonung sitzt, muss man
 wissen: [η καθυστέρηση]{lang="el"} [i kaθiˈsterisi], „die Verspätung“, und
@@ -79,10 +77,10 @@ in einfacher Form: [to liˈmani]. Die meisten Zeichen haben ihren gewohnten Wert
 
 - Der **Strich ˈ** steht **vor** der betonten Silbe: [liˈmani] ist li-MA-ni. Betont ist immer
   eine der letzten drei Silben (@sec-auffrischung-akzent-regeln).
-- **Vokale** gibt es nur fünf: [a e i o u]. Alle sind kurz und klar, keiner wird verschluckt.
-  Ein unbetontes [e] am Wortende ist ein volles [e], kein gemurmeltes wie in deutsch *Tasse*.
-- [p t k] werden **ohne Hauch** gesprochen, wie im Französischen und Spanischen. Deutsch *Tee*
-  hat nach dem [t] einen kleinen Luftstoß; griechisch [η ταβέρνα]{lang="el"} [i taˈverna] nicht.
+- **Fünf Vokale** [a e i o u], alle kurz und klar. Ein [e] am Wortende ist ein volles [e], kein
+  gemurmeltes wie in deutsch *Tasse*.
+- [p t k] **ohne Hauch**, wie im Französischen: Deutsch *Tee* hat nach dem [t] einen
+  Luftstoß, [η ταβέρνα]{lang="el"} [i taˈverna] nicht.
 
 Die Sonderzeichen stehen für Laute, die das Deutsche nicht hat oder anders schreibt:
 
@@ -338,8 +336,7 @@ Typische Fehler: „Oiböa“ und „Tauros“ wie im Deutschen. Der *Minotaurus
 
 ## Ä, Ö und Eu: griechische Buchstaben im Deutschen {#sec-auffrischung-lehnwoerter}
 
-Die Digraphen stecken auch in unseren Wörtern, genau dort, wo das Deutsche seltsame Buchstaben
-hat. Die Römer schrieben [αι]{lang="el"} als *ae* und [οι]{lang="el"} als *oe*; daraus wurden Ä
+Die Digraphen stecken auch in deutschen Wörtern. Die Römer schrieben [αι]{lang="el"} als *ae* und [οι]{lang="el"} als *oe*; daraus wurden Ä
 und Ö. Die *Ökonomie* ist [η οικονομία]{lang="el"} [i ikonoˈmia], die Verwaltung des Hauses
 ([ο οίκος]{lang="el"}), die *Ästhetik* [η αισθητική]{lang="el"} [i esθitiˈci]. Damals waren
 [αι, οι]{lang="el"} noch Doppellaute; das Deutsche hat einen älteren Stand festgehalten. Ebenso:
@@ -350,8 +347,7 @@ und Ö. Die *Ökonomie* ist [η οικονομία]{lang="el"} [i ikonoˈmia], d
 ## Tipp
 
 *Ö* → [οι]{lang="el"} [i], *Ä* → [αι]{lang="el"} [e], *y* → [υ]{lang="el"} [i],
-*Eu-* → [ευ]{lang="el"} [ev/ef], *Au-* → [αυ]{lang="el"} [av/af]. Die Betonung dagegen musst du
-neu lernen, und zwar fast immer.
+*Eu-, Au-* → [ευ, αυ]{lang="el"}. Die Betonung dagegen musst du fast immer neu lernen.
 :::
 
 ::: {.vocab}
@@ -563,10 +559,9 @@ du-Form.
 
 ### Die kurzen: [λέω, τρώω, πάω, ακούω]{lang="el"} {#sec-auffrischung-praesens-kurz}
 
-Einige der häufigsten Verben haben einen Stamm auf Vokal und gehen wie [μιλάω]{lang="el"}, nur
-ohne [α]{lang="el"}: [λέω, λες, λέει, λέμε, λέτε, λένε]{lang="el"} (sagen); ebenso
-[τρώω]{lang="el"} (essen), [πάω]{lang="el"} (gehen), [ακούω]{lang="el"} (hören).
-[Πάμε!]{lang="el"} ist zugleich „Los, gehen wir!“, eines der meistgehörten Wörter überhaupt.
+Einige häufige Verben mit Vokalstamm gehen wie [μιλάω]{lang="el"}, nur ohne [α]{lang="el"}:
+[λέω, λες, λέει, λέμε, λέτε, λένε]{lang="el"} (sagen); ebenso [τρώω]{lang="el"} (essen),
+[πάω]{lang="el"} (gehen), [ακούω]{lang="el"} (hören). [Πάμε!]{lang="el"} heißt auch „Los!“.
 
 ### Die Verben auf [-μαι]{lang="el"}: ein erster Überblick {#sec-auffrischung-praesens-mai}
 
@@ -671,11 +666,9 @@ Verben stehen in den Vokabeltabellen mit zwei Formen; die zweite ist der Aorist 
 | Griechisch | Deutsch |
 |---|---|
 | [Καλώς ήρθατε!]{lang="el"} | Herzlich willkommen! (zu mehreren) |
-| [το πράγμα, τα πράγματα]{lang="el"} | die Sache, das Ding |
 | [η γωνία]{lang="el"} | die Ecke |
 | [το πρωί]{lang="el"} | der Morgen; morgens |
 | [μισός, -ή, -ό]{lang="el"} | halb; [δύο και μισή]{lang="el"} halb drei |
-| [Σας παρακαλώ.]{lang="el"} | Ich bitte Sie/euch. |
 | [η φασαρία]{lang="el"} | der Lärm, der Trubel |
 | [αν]{lang="el"} | wenn, falls |
 | [νωρίτερα]{lang="el"} | früher |
@@ -916,11 +909,10 @@ Akkusativ. Ohne [δεν]{lang="el"} stehen [τίποτα, ποτέ, κανείς
 Sag auf Griechisch, laut. Pronomen nur, wo sie nötig sind.
 
 a) Er kommt nicht.
-b) Mach dir keine Sorgen.
-c) Ich trinke Tee, du trinkst Kaffee.
-d) Um zehn isst niemand.
-e) „Habt ihr Hunger?“ – „Nein, wir haben keinen Hunger.“
-f) Wartet nicht auf mich, ich arbeite bis neun.
+b) Ich trinke Tee, du trinkst Kaffee.
+c) Um zehn isst niemand.
+d) „Habt ihr Hunger?“ – „Nein, wir haben keinen Hunger.“
+e) Wartet nicht auf mich, ich arbeite bis neun.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -941,19 +933,18 @@ Gegensatz zwischen zwei Personen.
 ## Lösung
 
 - a) [Δεν έρχεται.]{lang="el"}
-- b) [Μην ανησυχείς.]{lang="el"} Verbot, also [μην]{lang="el"}; \*[Δεν ανησυχείς]{lang="el"}
-  hieße „Du machst dir keine Sorgen“.
-- c) [Εγώ πίνω τσάι, εσύ πίνεις καφέ.]{lang="el"} Hier gehören die Pronomen hin: Sie stellen zwei
+- b) [Εγώ πίνω τσάι, εσύ πίνεις καφέ.]{lang="el"} Hier gehören die Pronomen hin: Sie stellen zwei
   Personen gegenüber.
-- d) [Στις δέκα δεν τρώει κανείς.]{lang="el"} Auch [Κανείς δεν τρώει στις δέκα.]{lang="el"}
+- c) [Στις δέκα δεν τρώει κανείς.]{lang="el"} Auch [Κανείς δεν τρώει στις δέκα.]{lang="el"}
   [κανείς]{lang="el"}, nicht [κανέναν]{lang="el"}: „niemand“ ist hier Subjekt (wer isst?). Ohne
   [δεν]{lang="el"} kippt die Bedeutung: [Στις δέκα τρώει κανείς]{lang="el"} heißt eher „Um zehn
   isst man“.
-- e) [— Πεινάτε; — Όχι, δεν πεινάμε.]{lang="el"} \*[Όχι πεινάμε]{lang="el"} geht nicht:
+- d) [— Πεινάτε; — Όχι, δεν πεινάμε.]{lang="el"} \*[Όχι πεινάμε]{lang="el"} geht nicht:
   [όχι]{lang="el"} antwortet, [δεν]{lang="el"} verneint das Verb.
-- f) [Μη με περιμένετε, δουλεύω μέχρι τις εννιά.]{lang="el"}
+- e) [Μη με περιμένετε, δουλεύω μέχρι τις εννιά.]{lang="el"} Bitte, also [μη]{lang="el"}, und
+  vor [μ]{lang="el"} ohne [ν]{lang="el"}.
 
-Häufigster Fehler: ein [εγώ]{lang="el"} in a) oder f), wo niemandem widersprochen wird.
+Häufigster Fehler: ein [εγώ]{lang="el"} in a) oder e), wo niemandem widersprochen wird.
 :::
 
 ::: {.vocab}
@@ -1067,9 +1058,9 @@ mit dem Herzen.
 — Na komm, dein Kaffee wird kalt.
 :::
 
-Die Studie gibt es: Eine griechische Untersuchung fand 2007, dass Erwachsene mit regelmäßigem
-Mittagsschlaf seltener an Herzkrankheiten starben. Ob der Schlaf die Ursache ist, lässt sie
-offen; im Kafeneío ist die Frage entschieden.
+Die Studie gibt es: Griechische Erwachsene mit regelmäßigem Mittagsschlaf starben seltener an
+Herzkrankheiten (2007). Ob der Schlaf die Ursache ist, lässt sie offen; im Kafeneío ist die Frage
+entschieden.
 
 ### Drei Wörter, die das Gespräch steuern {#sec-auffrischung-diskursmarker}
 
@@ -1184,23 +1175,20 @@ komm“; gedehnt ist es Staunen. In 4 legt [τώρα]{lang="el"} es fest.
 
 ## Das Wichtigste {#sec-auffrischung-wichtigste}
 
-- **Digraphen** sind ein Laut: [αι]{lang="el"} [e]; [ει, οι]{lang="el"} [i]; [ου]{lang="el"}
-  [u]; [μπ, ντ, γκ]{lang="el"} [b, d, g]; [γγ]{lang="el"} [ŋg]; [τσ, τζ]{lang="el"} [ts, dz].
-  [αυ, ευ]{lang="el"}: [av, ev] vor Vokal und stimmhaftem Laut, [af, ef] vor
-  [θ κ ξ π σ τ φ χ ψ]{lang="el"}. Akzent auf dem ersten Vokal oder Trema trennt.
-- **Betonung**: Akzent auf jedem mehrsilbigen Wort (nicht in Großbuchstaben), immer auf einer
-  der letzten drei Silben; sie unterscheidet Wörter ([πότε/ποτέ]{lang="el"}).
+- **Digraphen** sind ein Laut: [αι]{lang="el"} [e], [ει, οι]{lang="el"} [i], [ου]{lang="el"}
+  [u], [μπ, ντ, γκ]{lang="el"} [b, d, g], [τσ, τζ]{lang="el"} [ts, dz]. [αυ, ευ]{lang="el"} ist
+  [av, ev] oder vor stimmlosem Konsonanten [af, ef]. Akzent vorn oder Trema trennt.
+- **Betonung**: immer auf einer der letzten drei Silben; sie unterscheidet Wörter
+  ([πότε/ποτέ]{lang="el"}).
 - **Präsens**: [μένω]{lang="el"} stammbetont, [μιλάω]{lang="el"} und [μπορώ]{lang="el"}
-  endbetont, Endungen nicht mischen; dazu [λέω]{lang="el"} und die Verben auf [-μαι]{lang="el"}.
-- **Artikel**: [ο/τον, η/τη(ν), το/το]{lang="el"}; männliche Nomen verlieren im Akkusativ ihr
-  [-ς]{lang="el"}; nach Präpositionen Akkusativ, [σε]{lang="el"} + Artikel = [στο, στη(ν),
-  στον]{lang="el"}. Das [ν]{lang="el"} von [την, δεν, μην]{lang="el"} bleibt vor Vokal und
-  Verschlusslaut; [τον, έναν]{lang="el"} behalten es immer.
-- **Pro-Drop**: Subjektpronomen nur zur Betonung oder für einen Gegensatz.
-- **Verneinung**: [δεν]{lang="el"} für Aussagen, [μην]{lang="el"} für Verbote, Bitten und nach
-  [να]{lang="el"}; doppelte Verneinung wie im Spanischen.
-- **Diskursmarker**: [λοιπόν]{lang="el"} eröffnet und folgert, [έλα]{lang="el"} begrüßt,
-  treibt an, staunt, widerspricht; [ναι, αλλά]{lang="el"} widerspricht höflich.
+  endbetont; Endungen nicht mischen.
+- **Artikel**: [ο/τον, η/τη(ν), το/το]{lang="el"}; Akkusativ auch nach Präpositionen,
+  [σε]{lang="el"} + Artikel = [στο, στη(ν), στον]{lang="el"}. Schluss-[ν]{lang="el"} nur vor
+  Vokal und Verschlusslaut; [τον, έναν]{lang="el"} immer.
+- **Pro-Drop, Verneinung**: Pronomen nur für Betonung oder Gegensatz; [δεν]{lang="el"} für
+  Aussagen, [μην]{lang="el"} für Verbote und Bitten; doppelte Verneinung wie im Spanischen.
+- **Diskursmarker**: [λοιπόν]{lang="el"} eröffnet und folgert, [έλα]{lang="el"} begrüßt, treibt
+  an, staunt, widerspricht; [ναι, αλλά]{lang="el"} widerspricht höflich.
 
 ## Zum Lesen: Ein Tag nach griechischer Uhr {#sec-auffrischung-lesetext}
 
@@ -1302,7 +1290,7 @@ in Kapitel 2 erzählst du so etwas im Aorist.
 ::: {.callout-note .exercise}
 ## Übung 1.8: Nach griechischer Uhr
 
-**Teil A: richtig oder falsch?**
+Richtig oder falsch?
 
 1. Viele Griechen frühstücken ausgiebig.
 2. Der Mittag beginnt in Griechenland um zwölf.
@@ -1310,38 +1298,32 @@ in Kapitel 2 erzählst du so etwas im Aorist.
 4. Der Frappé entstand, weil kein heißes Wasser da war.
 5. Um sieben ist die Taverne voll.
 
-**Teil B: laut lesen**, dann mit ▶ im Text vergleichen:
-
-[οικογένειες · σκέφτονται · επείγον · σέικερ]{lang="el"}
-
-Im Chat reicht „A: 1f, 2r …“.
+Im Chat reicht „1f, 2r …“.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-B: Erst die Digraphen markieren, dann den Akzent suchen.
+Die Aussagen folgen der Reihenfolge des Textes.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-B: [κ]{lang="el"} vor [e] ist [c]. In [σέικερ]{lang="el"} steht der Akzent auf dem ersten der
-beiden Vokale.
+Achte auf die Verneinungen: [δεν τρώνε]{lang="el"}, [δεν είναι στις δώδεκα]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**A: 1f** ([δεν τρώνε πρωινό]{lang="el"}), **2f** (etwa um zwei), **3r**, **4r**, **5f** (leer).
+**1f** ([δεν τρώνε πρωινό]{lang="el"}), **2f** (etwa um zwei), **3r**, **4r**, **5f** (leer).
+Wer bei 2 „richtig“ gewählt hat, hat das [δεν]{lang="el"} überhört: [Το μεσημέρι … δεν είναι
+στις δώδεκα.]{lang="el"}
 
-**B:**
-
-- [οικογένειες]{lang="el"} [ikoˈʝeɲes]: [οι]{lang="el"} = [i], [νει]{lang="el"} vor Vokal = [ɲ].
-- [σκέφτονται]{lang="el"} [ˈsceftode], auch [ˈsceftonde]: [κ]{lang="el"} vor [e] ist [c].
-- [επείγον]{lang="el"} [eˈpiɣon]: [ει]{lang="el"} = [i], nicht „ai“.
-- [σέικερ]{lang="el"} [ˈseicer]: Der Akzent auf [ε]{lang="el"} trennt, also kein
-  [ει]{lang="el"} = [i], sondern [e] + [i], fast wie englisch [eɪ]; realistisch [ˈsejcer].
+Zum lauten Lesen: [οικογένειες]{lang="el"} [ikoˈʝeɲes], [σκέφτονται]{lang="el"} [ˈsceftode]
+(auch [ˈsceftonde]), [επείγον]{lang="el"} [eˈpiɣon], [σέικερ]{lang="el"} [ˈseicer]: Der Akzent
+auf [ε]{lang="el"} trennt, also kein [ει]{lang="el"} = [i], sondern [e] + [i], fast wie englisch
+[eɪ]; realistisch [ˈsejcer].
 :::
 
 ::: {.vocab}
