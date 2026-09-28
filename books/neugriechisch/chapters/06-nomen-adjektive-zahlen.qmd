@@ -1,5 +1,8 @@
 ---
 title: "Auf dem Markt: Nomen, Adjektive, Zahlen"
+changes:
+  - date: 2026-09-28
+    note: "μην πας als Verbot bezeichnet statt als verneinter Imperativ (passend zu Kapitel 9)"
 ---
 
 ::: {.callout-note .review}
@@ -544,7 +547,7 @@ der Ecke, gegenüber vom Kiosk: eine Frau aus Megara. Das Blattgemüse gibt es b
 Erzeugern, am Ende. Und geh nicht um zehn, geh um acht. Um zehn ist es sehr voll.
 :::
 
-([μην πας]{lang="el"} „geh nicht“ ist der verneinte Imperativ, Kapitel 9.) Aus Kapitel 1 kennst
+([μην πας]{lang="el"} „geh nicht“ ist ein Verbot, Kapitel 9.) Aus Kapitel 1 kennst
 du [στο, στη, στον]{lang="el"}; hier das ganze System:
 
 | Artikel | [σε]{lang="el"} + Artikel | Beispiel |

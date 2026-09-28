@@ -605,8 +605,7 @@ Betonung dürfen im Griechischen höchstens zwei Silben folgen, wie bei [το μ
 (Kapitel 2); [δώ-σε-μου-το]{lang="el"} hätte drei, also bekommt das erste Pronomen einen eigenen
 Akzent. Bei [Δώσε μου]{lang="el"} mit nur einem Pronomen, [Πες μου το]{lang="el"} oder
 [Δώσ’ το μου]{lang="el"} reicht die Silbenzahl, da bleibt es beim einen Akzent. Wie man Imperative
-bildet, wann dieser zweite Akzent auch bei einem Pronomen kommt und welche Reihenfolge wann
-beliebter ist, zeigt Kapitel 9.
+bildet und wann dieser zweite Akzent auch bei einem Pronomen kommt, zeigt Kapitel 9.
 
 **Verbote** sind keine Ausnahme. Mit [μη(ν)]{lang="el"} steht das Pronomen wieder vorn:
 
