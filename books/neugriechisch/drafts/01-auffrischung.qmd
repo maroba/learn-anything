@@ -1334,8 +1334,8 @@ doch ein Pronomen, ist es betont: [Εσύ τι λες;]{lang="el"} „Und was me
 
 Welche Rolle hat [έλα]{lang="el"} bzw. [λοιπόν]{lang="el"}?
 
-(A) Begrüßung am Telefon · (B) Antreiben · (C) „ach komm“ · (D) Staunen · (E) Eröffnung ·
-(F) Folgerung
+Zur Auswahl: (A) Begrüßung am Telefon · (B) Antreiben · (C) „ach komm“ · (D) Staunen ·
+(E) Eröffnung · (F) Folgerung
 
 1. Das Handy klingelt, auf dem Display steht „Nikos“: [— Έλα.]{lang="el"}
 2. [— Το πλοίο φεύγει σε δέκα λεπτά! Έλα, γρήγορα!]{lang="el"}
@@ -1345,8 +1345,8 @@ Welche Rolle hat [έλα]{lang="el"} bzw. [λοιπόν]{lang="el"}?
 5. [— Λοιπόν, τι τρώμε απόψε;]{lang="el"}
 6. [— Το φαρμακείο κλείνει στις δύο και μισή. — Πάμε λοιπόν τώρα.]{lang="el"}
 7. Jemand sagt: [Στην Αθήνα δεν κοιμάται κανείς το μεσημέρι.]{lang="el"} Welche Antwort ist
-   freundlicher, 1 oder 2? (1) [Όχι. Στα νησιά κοιμούνται.]{lang="el"}
-   (2) [Ναι, αλλά στα νησιά κοιμούνται.]{lang="el"}
+   freundlicher? (1) [Όχι. Στα νησιά κοιμούνται.]{lang="el"} oder (2) [Ναι, αλλά στα νησιά
+   κοιμούνται.]{lang="el"}
 
 Im Chat reicht „1A, 2B …, 7: 1“.
 :::

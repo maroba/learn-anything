@@ -6,7 +6,7 @@
 
 | Kapitel | Status | Notizen |
 |---|---|---|
-| 01 Auffrischung: Klang und Präsens-Gerüst | Entwurf | Welle 1; bisher Platzhalter |
+| 01 Auffrischung: Klang und Präsens-Gerüst | im Review | Welle 1; Übungen fertig |
 | 02 Der zweite Stamm: der Aorist | veröffentlicht | Probekapitel; Reviews abgeschlossen; Audio vollständig |
 | 03 Die unregelmäßigen Aoriste | im Review | Welle 1; Übungen fertig |
 
