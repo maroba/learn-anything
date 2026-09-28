@@ -280,8 +280,8 @@ aufmachen. Wie sie fragt, hängt davon ab, wen:
    Firma.
 
 [ανοίγω σε κάποιον]{lang="el"} heißt „jemandem die Tür aufmachen“. Jede Zeile ist eine Sprosse
-auf einer Leiter. Nach unten wird die Bitte länger und weiter von der Wirklichkeit weggerückt:
-erst der Imperativ (Kapitel 9), dann die Frage im Präsens, [μπορώ να]{lang="el"}, dann
+auf einer Leiter. Sprosse für Sprosse wird die Bitte länger und weiter von der Wirklichkeit
+weggerückt: erst der Imperativ (Kapitel 9), dann die Frage im Präsens, [μπορώ να]{lang="el"}, dann
 [θα]{lang="el"} + Imperfekt (Kapitel 24) und schließlich [Θα σας παρακαλούσα να …]{lang="el"}
 „Ich möchte Sie bitten, …“, wörtlich „Ich würde Sie bitten“. Die letzte Form ist eine Bitte, die
 sich nicht mehr als Frage verkleidet; sie gehört in Briefe und E-Mails und klingt am Telefon
@@ -975,7 +975,7 @@ Serien oft Komik. [εσείς → εσύ]{lang="el"} heißt Nähe oder Druck (de
   [εσείς]{lang="el"}, meist Nachname), **neutral** (höflich, Alltagswörter), **vertraut**
   ([εσύ]{lang="el"}, Vorname, umg. Wörter). Zwei Regler: Nähe und Wortwahl. Ein Wechsel des
   Registers ist selbst eine Botschaft.
-- **Bitten** auf der Leiter, Sprosse für Sprosse: Imperativ → [Μου … ;]{lang="el"} → [Μπορείς/Μπορείτε να …;]{lang="el"}
+- **Bitten** auf der Leiter, Sprosse für Sprosse: Imperativ → [Μου …;]{lang="el"} → [Μπορείς/Μπορείτε να …;]{lang="el"}
   → [Θα μπορούσατε να …;]{lang="el"} → [Θα σας παρακαλούσα να …]{lang="el"} (schriftlich).
 - **Weichmacher:** [μήπως, λίγο]{lang="el"}, Verkleinerung, [αν γίνεται, αν δε σας κάνει
   κόπο]{lang="el"}, [Συγγνώμη που σας ενοχλώ]{lang="el"}; meist ein oder zwei, bei großen Bitten drei; gestapelt

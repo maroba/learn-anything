@@ -36,7 +36,7 @@
 | 30 Redewendungen | veröffentlicht | Welle 12; Audio ausstehend |
 | 31 Vom Amt bis zur Taverne: Register und Höflichkeit | überarbeitet | Welle 14; Konsistenz nach 28 |
 | 32 Kreta und Zypern hören | fertig | Welle 12; wartet auf 27–31 |
-| 33 Filme verstehen | Übungen | Welle 15; Entwurf fertig |
+| 33 Filme verstehen | im Review | Welle 15; Übungen fertig |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 
