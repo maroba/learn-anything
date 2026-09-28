@@ -16,7 +16,7 @@
 | 11 Zeit: Uhrzeit, Datum, Jahreszahlen | veröffentlicht | Welle 3; Audio ausstehend |
 | 10 Verben auf -μαι im Alltag | veröffentlicht | Welle 4; Audio ausstehend |
 | 12 Vergleichen und Zwischenbilanz | veröffentlicht | Welle 6; Audio ausstehend |
-| 13 Es wurde gefunden: das Mediopassiv | im Review | Welle 7; Didaktik fertig, Fachreview läuft |
+| 13 Es wurde gefunden: das Mediopassiv | Überarbeitung | Welle 7; beide Reviews da |
 | 14 Hast du schon …? Perfekt und Plusquamperfekt | Überarbeitung | Welle 7; beide Reviews da |
 | 15 Der Film, den ich gesehen habe: Relativsätze | Entwurf | Welle 7 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |

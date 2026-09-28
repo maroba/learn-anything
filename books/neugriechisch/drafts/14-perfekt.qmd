@@ -306,9 +306,13 @@ Nennt der Satz einen Zeitpunkt in der Vergangenheit, steht der Aorist:
 - [Το 2021 η φωτιά **έκαψε** μεγάλο μέρος της Εύβοιας.]{lang="el"} 2021 hat das Feuer einen großen Teil Euböas verbrannt.
 - [Την **ετοίμασα** χθες το βράδυ.]{lang="el"} So antwortet der Vater im Einstieg.
 
-Zeitstempel sind [χθες, πέρσι, το 2021, πριν από δύο ώρες, τότε]{lang="el"}, ein Satz mit
-[όταν]{lang="el"} und jede Frage mit [πότε;]{lang="el"}: [Πότε έφυγες;]{lang="el"}, nie
-\*[Πότε έχεις φύγει;]{lang="el"} Dasselbe gilt für das Erzählen. Eine Kette von Ereignissen, bei
+Ein **Zeitstempel** ist ein abgeschlossener, datierter Punkt in der Vergangenheit:
+[χθες, πέρσι, το 2021, πριν από δύο ώρες, τότε]{lang="el"}, ein Satz mit [όταν]{lang="el"}
+und die Frage [πότε;]{lang="el"}, wenn sie wirklich den Zeitpunkt wissen will: [Πότε
+έφυγες;]{lang="el"}, nicht \*[Πότε έχεις φύγει;]{lang="el"} (Rhetorisch geht es: [Πότε σου έχω
+πει ψέματα;]{lang="el"} „Wann hab ich dich je angelogen?“) Kein Zeitstempel sind Zeiträume, die
+bis jetzt reichen: [σήμερα, φέτος, αυτή την εβδομάδα, τα τελευταία χρόνια]{lang="el"}. Da ist
+das Perfekt zu Hause: [Σήμερα έχω πιει τρεις καφέδες.]{lang="el"} Dasselbe gilt für das Erzählen. Eine Kette von Ereignissen, bei
 der man „und dann?“ fragen kann, läuft im Aorist (Kapitel 4).
 
 Englisch hilft hier mehr als Deutsch, Französisch oder Spanisch: *I saw it yesterday*, nicht
@@ -330,8 +334,7 @@ tragen fast alles:
 
 Jetzt die ehrliche Einschränkung. Das Perfekt ist in diesen Fällen **möglich**, aber nicht immer
 das, was man hört. Besonders im zweiten Fall sagen viele im Gespräch einfach den Aorist:
-[Έφαγες;]{lang="el"} „Hast du (schon) gegessen?“ ist mindestens so häufig wie
-[Έχεις φάει;]{lang="el"}, und der Vater hätte auch [Δεν ξέχασα τίποτα]{lang="el"} sagen können.
+[Έφαγες;]{lang="el"} „Hast du (schon) gegessen?“ ist im Gespräch sehr häufig, und der Vater hätte auch [Δεν ξέχασα τίποτα]{lang="el"} sagen können.
 Das Perfekt betont stärker, dass der Zustand jetzt gilt; der Aorist meldet einfach, dass es
 passiert ist. Bei der Erfahrung mit [ποτέ]{lang="el"} ist das Perfekt dagegen der Normalfall.
 
@@ -342,31 +345,39 @@ Zwei englische Gewohnheiten führen in die Irre:
 | *I've just arrived.* | [μόλις]{lang="el"} + Aorist | [Μόλις έφτασα.]{lang="el"} |
 | *I've lived here for ten years.* | Präsens + [εδώ και]{lang="el"} | [Ζω στην Αθήνα εδώ και δέκα χρόνια.]{lang="el"} |
 
-[μόλις]{lang="el"} „gerade eben“ holt ein Ereignis ganz nah heran, bleibt aber beim Aorist
-(Kapitel 3 und 7). Und was bis jetzt andauert, steht im Präsens, wie in Kapitel 11. Anders ist es,
-wenn etwas **nicht** passiert ist: [Δεν έχει βρέξει εδώ και τρεις μήνες.]{lang="el"} „Es hat seit
-drei Monaten nicht geregnet.“ Kein Regen ist kein Zustand, der andauert, sondern eine Bilanz.
+[μόλις]{lang="el"} „gerade eben“ holt ein Ereignis ganz nah heran, bleibt aber normalerweise
+beim Aorist (Kapitel 3 und 7). [Μόλις έχω φτάσει]{lang="el"} kommt vor, eher geschrieben; im
+Gespräch sagt man [Μόλις έφτασα.]{lang="el"} Und was bis jetzt andauert, steht im Präsens, wie in
+Kapitel 11. Ist etwas dagegen **nicht** passiert, hört man mit [εδώ και]{lang="el"} das Perfekt
+oder [έχει … να]{lang="el"} (dazu gleich mehr): [Δεν έχει βρέξει εδώ και τρεις μήνες.]{lang="el"}
+„Es hat seit drei Monaten nicht geregnet.“
 
 ::: {.callout-important}
 ## Merke
 
-- **Mit Zeitstempel kein Perfekt:** [χθες, πέρσι, το 2021, πριν από, όταν, πότε;]{lang="el"}
-  verlangen den Aorist, ebenso jede Erzählkette.
+- **Mit Zeitstempel kein Perfekt:** [χθες, πέρσι, το 2021, πριν από]{lang="el"}, ein
+  [όταν]{lang="el"}-Satz und [πότε;]{lang="el"} als echte Frage nach dem Zeitpunkt schließen das
+  Perfekt fast immer aus (dann Aorist, Imperfekt oder Plusquamperfekt), ebenso jede Erzählkette.
+  Zeiträume bis jetzt ([σήμερα, φέτος]{lang="el"}) sind kein Zeitstempel.
 - **Perfekt** für Vergangenes ohne Zeitstempel, das jetzt zählt: Erfahrung
   ([ποτέ]{lang="el"}), schon/noch nicht ([ήδη, ακόμα]{lang="el"}), Bilanz ([μέχρι
   τώρα]{lang="el"}).
 - Auch dort ist der Aorist oft möglich. **Im Zweifel Aorist:** Er ist selten falsch, das
-  Perfekt mit Zeitstempel immer.
-- „Gerade eben“: [μόλις]{lang="el"} + Aorist. „Seit“ bei Andauerndem: Präsens.
+  Perfekt mit abgeschlossenem Zeitpunkt fast immer.
+- „Gerade eben“: normalerweise [μόλις]{lang="el"} + Aorist. „Seit“ bei Andauerndem: Präsens.
 :::
+
+„Im Zweifel Aorist“ gilt nur für die Wahl zwischen Aorist und Perfekt. Zwischen Aorist und
+Imperfekt entscheidet weiter der „und dann?“-Test aus Kapitel 4. Das Perfekt ist ohnehin Foto:
+Die Form auf [-ει]{lang="el"} kommt aus dem perfektiven Stamm.
 
 ::: {.callout-tip}
 ## Tipp
 
-Frag bei jedem deutschen „habe … gemacht“: Steht ein Zeitpunkt da, oder ist einer mitgedacht?
-Dann Aorist. „Hast du gestern die Nachrichten
-gesehen?“ hat einen: [Είδες χθες τις ειδήσεις;]{lang="el"} „Hast du je so etwas gesehen?“ hat
-keinen: [Έχεις δει ποτέ κάτι τέτοιο;]{lang="el"}
+Frag bei jedem deutschen „habe … gemacht“: Passt „schon mal“ oder „bis jetzt“ hinein, ohne dass
+sich der Sinn ändert? Dann ist das Perfekt möglich. Sonst Aorist. „Hast du je so etwas gesehen?“
+besteht die Probe: [Έχεις δει ποτέ κάτι τέτοιο;]{lang="el"} „Hast du gestern die Nachrichten
+gesehen?“ nicht: [Είδες χθες τις ειδήσεις;]{lang="el"}
 :::
 
 ::: {.callout-note .exercise}
@@ -397,7 +408,7 @@ man es auf Englisch sagen, *simple past* oder *present perfect*?
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Das Englische hilft nicht bei allem: *just* verlangt dort das *present perfect*, im Griechischen
+Das Englische hilft nicht bei allem: *just* verlangt im britischen Englisch das *present perfect*, im Griechischen
 [μόλις]{lang="el"} + Aorist. Und was jetzt noch andauert, ist Präsens. Bei „schon“ im Gespräch
 denk an [Έφαγες;]{lang="el"}
 :::
@@ -405,21 +416,23 @@ denk an [Έφαγες;]{lang="el"}
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**1A, 2P, 3B, 4A, 5A, 6S, 7P, 8A, 9P.**
+**1A, 2P, 3B, 4A, 5A, 6S, 7P, 8A, 9P.** Bei 2 ist B nicht falsch.
 
 1. [χθες]{lang="el"} ist ein Zeitstempel: [Είδες χθες τις ειδήσεις;]{lang="el"}
 2. Erfahrung mit [ποτέ]{lang="el"}, hier ist das Perfekt der Normalfall: [Έχεις πάει ποτέ
-   στην Κρήτη;]{lang="el"}
+   στην Κρήτη;]{lang="el"} [Πήγες ποτέ στην Κρήτη;]{lang="el"} hört man auch.
 3. Schon oder noch nicht: [Έχεις φάει;]{lang="el"} und [Έφαγες;]{lang="el"} sind beide
-   richtig; im Alltag ist der Aorist mindestens so häufig.
+   richtig; im Alltag ist der Aorist sehr häufig.
 4. Jede Frage mit [πότε;]{lang="el"} will einen Zeitpunkt: [Πότε έφτασες;]{lang="el"}
 5. [Μόλις έφτασα.]{lang="el"} Die englische Gewohnheit zieht hier zum Perfekt.
 6. Dauert an, also Präsens, wie im Französischen und Spanischen: [Μαθαίνω ελληνικά εδώ και
    δύο χρόνια.]{lang="el"}
 7. Bilanz bis jetzt: [Μέχρι τώρα η φωτιά έχει κάψει πεντακόσια στρέμματα.]{lang="el"}
+   Umgangssprachlich hört man mit [μέχρι τώρα]{lang="el"} auch den Aorist.
 8. Jahreszahl: [Την είδα το 2019 στο σινεμά.]{lang="el"}
-9. Nicht-Geschehen bis jetzt: [Δεν έχει βρέξει εδώ και τρεις μήνες.]{lang="el"} Ebenso gut:
-   [Έχει τρεις μήνες να βρέξει.]{lang="el"}
+9. Nicht-Geschehen bis jetzt: [Δεν έχει βρέξει εδώ και τρεις μήνες.]{lang="el"} Was nicht
+   passiert ist, läuft nicht gerade ab; man zieht Bilanz. Ebenso gut: [Έχει τρεις μήνες να
+   βρέξει.]{lang="el"} (dazu gleich mehr)
 
 **Typische Fehler:** 5 und 6 als Perfekt, weil das Englische es so macht; 8 als Perfekt, weil
 „habe gesehen“ und [*je l’ai vu*]{lang="fr"} danach klingen. Nur **P** bei 3 ist nicht falsch,
@@ -473,8 +486,8 @@ sagte Kapitel 11 zu [εδώ και]{lang="el"}?
    [Έχω μείνει δέκα χρόνια στην Αθήνα.]{lang="el"} möglich, meint aber eher: irgendwann im Leben
    zehn Jahre dort gewohnt.
 
-Zu 8: Wer zu \*[Μόλις έχω φτάσει]{lang="el"} „verbessert“ hat, ist in die englische Falle
-gelaufen. Zu 1: Deutsch „gestern habe ich gesehen“ und [*hier j’ai vu*]{lang="fr"} machen den
+Zu 8: Wer zu [Μόλις έχω φτάσει]{lang="el"} „verbessert“ hat, ist der englischen Gewohnheit
+gefolgt; das kommt vor, eher geschrieben, aber im Gespräch sagt man [Μόλις έφτασα.]{lang="el"} Zu 1: Deutsch „gestern habe ich gesehen“ und [*hier j’ai vu*]{lang="fr"} machen den
 Fehler verführerisch.
 :::
 
@@ -546,10 +559,19 @@ Im ersten Satz kommt die Feuerwehr, und dann springt das Feuer über, zwei Fotos
 Im zweiten war es schon drüben, als sie ankam. Genauso sagt der Vater im Einstieg: Als die
 Löschflugzeuge kamen, [η φωτιά είχε ήδη φτάσει στην πλατεία]{lang="el"}.
 
-Hier ist das Griechische genauer als das gesprochene Deutsch. „Als die Feuerwehr kam, ist das Feuer
-schon rübergesprungen“ versteht jeder; auf Griechisch ändert der Aorist an dieser Stelle die
-Reihenfolge. Wenn sie schon anders feststeht, etwa durch [πρώτα … μετά]{lang="el"}, genügt der
-Aorist: [Πρώτα έφυγαν οι κάτοικοι, μετά ήρθε η φωτιά.]{lang="el"}
+Das gesprochene Deutsch nimmt es hier lockerer: „Als die Feuerwehr kam, ist das Feuer schon
+rübergesprungen“ versteht jeder. Nach [όταν]{lang="el"} ohne [ήδη]{lang="el"} kippt der Aorist
+dagegen die Reihenfolge. Wenn sie schon anders feststeht, etwa durch [πρώτα … μετά]{lang="el"},
+genügt der Aorist: [Πρώτα έφυγαν οι κάτοικοι, μετά ήρθε η φωτιά.]{lang="el"} Ebenso nach
+Konjunktionen, die die Reihenfolge festlegen ([αφού]{lang="el"} „nachdem“, [μόλις]{lang="el"}
+„sobald“, [πριν]{lang="el"} „bevor“): Wo das Deutsche
+„nachdem sie gegangen waren“ sagt, steht griechisch [αφού έφυγαν]{lang="el"}. Deshalb braucht
+das Griechische das Plusquamperfekt seltener als das Deutsche (Kapitel 10), und mit
+[ήδη]{lang="el"} hört man im Gespräch auch den Aorist.
+
+Die Zeitstempel-Regel betrifft nur das Perfekt mit [έχω]{lang="el"}. Das Plusquamperfekt braucht
+im Gegenteil einen Bezugspunkt in der Vergangenheit und steht deshalb gern neben einem
+[όταν]{lang="el"}-Satz oder einem Datum.
 
 Englisch *had crossed*, Spanisch [*había pasado*]{lang="es"} funktionieren wie das Griechische,
 und auch hier nur mit „haben“: [είχε φύγει]{lang="el"} „war gegangen“.
@@ -558,7 +580,8 @@ und auch hier nur mit „haben“: [είχε φύγει]{lang="el"} „war gegan
 [ξανά]{lang="el"}, Kapitel 4) macht aus Perfekt und Plusquamperfekt eine beliebte Formel:
 [Δεν το έχω ξαναδεί.]{lang="el"} „So etwas habe ich noch nie gesehen“, wörtlich „nicht wieder
 gesehen“. [Τέτοια φωτιά δεν είχαμε ξαναδεί.]{lang="el"} „So ein Feuer hatten wir noch nie
-erlebt.“ Die Betonung liegt auf der letzten Silbe: [ξαναδεί]{lang="el"} [ksanaˈði].
+erlebt.“ Die Betonung bleibt, wo sie in der Form auf [-ει]{lang="el"} war: [ξαναδεί]{lang="el"}
+[ksanaˈði], [ξανακούσει]{lang="el"} [ksanaˈkusi].
 
 ::: {.callout-warning}
 ## Achtung
@@ -568,13 +591,13 @@ das Plusquamperfekt: [Είχαμε μόνο κουβάδες.]{lang="el"} „Wir
 [Είχαμε φύγει.]{lang="el"} „Wir waren gegangen.“
 :::
 
-Dasselbe Muster gibt es auch mit [θα]{lang="el"}: [θα έχει φύγει]{lang="el"} „er wird wohl
-schon weg sein“, [θα είχα φύγει]{lang="el"} „ich wäre gegangen“. Sie kommen in Kapitel 24 und 25.
+Dasselbe Muster gibt es auch mit [θα]{lang="el"}: [θα είχα φύγει]{lang="el"} „ich wäre
+gegangen“ (Kapitel 24), [θα έχει φύγει]{lang="el"} „er wird wohl schon weg sein“ (Kapitel 25).
 
 ::: {.callout-note .exercise}
 ## Übung 14.4: Schon vorher oder danach?
 
-**Teil A.** Was ist jeweils zuerst passiert? Im Chat: „1a, 2b“ o.Ä.
+**Teil A.** Welcher Satz passt jeweils? Im Chat: „1a, 2b“ o.Ä.
 
 1. Du kommst nach Hause. In welchem Satz hat dich die Katze noch gesehen?\
    **(a)** [Όταν ήρθα στο σπίτι, η γάτα έφυγε.]{lang="el"}\
@@ -602,8 +625,9 @@ Plusquamperfekt: Das zweite Foto zeigt einen Zustand, der schon fertig war.
 ## Hinweis 2
 
 Teil B: [είχε ήδη]{lang="el"} + Form auf [-ει]{lang="el"}: [φύγει, φάει]{lang="el"}. Bei 5 und 6
-kommt [ξανα-]{lang="el"} vor die Form auf [-ει]{lang="el"}, die Betonung bleibt auf der letzten
-Silbe; 5 mit [είχα]{lang="el"}, 6 mit [έχω]{lang="el"}.
+kommt [ξανα-]{lang="el"} vor die Form auf [-ει]{lang="el"}; die Betonung bleibt, wo sie in der
+Form auf [-ει]{lang="el"} war: [ξαναδεί]{lang="el"}, [ξανακούσει]{lang="el"} [ksanaˈkusi]. 5 mit
+[είχα]{lang="el"}, 6 mit [έχω]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -623,8 +647,9 @@ Silbe; 5 mit [είχα]{lang="el"}, 6 mit [έχω]{lang="el"}.
    [ξανα-]{lang="el"}: [Δεν είχα δει ποτέ κάτι τέτοιο.]{lang="el"}
 6. [Δεν το έχω ξανακούσει.]{lang="el"} oder [Κάτι τέτοιο δεν έχω ξανακούσει.]{lang="el"}
 
-**Typische Fehler:** In 3 und 4 der Aorist ([έφυγε, έφαγε]{lang="el"}), wie im gesprochenen
-Deutsch („ist schon abgefahren“); auf Griechisch fährt der Zug dann erst los, als ihr ankommt. \*[είχε έφυγε]{lang="el"}: Aorist statt Form auf
+**Typische Fehler:** In 3 und 4 der Aorist ohne [ήδη]{lang="el"} ([έφυγε, έφαγε]{lang="el"}),
+wie im gesprochenen Deutsch („ist schon abgefahren“); auf Griechisch fährt der Zug dann erst los,
+als ihr ankommt. \*[είχε έφυγε]{lang="el"}: Aorist statt Form auf
 [-ει]{lang="el"}. In 5 [έχω]{lang="el"} statt [είχα]{lang="el"}: Das „hatte“ verlangt den
 Rückblick von einem Punkt in der Vergangenheit.
 :::
@@ -645,7 +670,7 @@ Rückblick von einem Punkt in der Vergangenheit.
 | Griechisch | Deutsch |
 |---|---|
 | [ο κουβάς, οι κουβάδες]{lang="el"} | der Eimer (Plural mit [-δ-]{lang="el"}, Kapitel 6) |
-| [ο κάτοικος]{lang="el"} | der Einwohner |
+| [αφού]{lang="el"} | nachdem |
 :::
 
 ## Hörspur: Nachrichten aus dem Brandgebiet {#sec-perfekt-hoerspur}
@@ -664,7 +689,9 @@ Abendnachrichten: die erste am Abend, die zweite am nächsten Morgen. Erst höre
 τριάντα οχήματα, ενώ από το μεσημέρι έχουν ρίξει νερό έξι αεροσκάφη και τέσσερα ελικόπτερα. Η
 Πολιτική Προστασία έχει στείλει δύο μηνύματα 112 στους κατοίκους. Μέχρι στιγμής η φωτιά έχει
 κάψει περίπου τρεις χιλιάδες στρέμματα πευκοδάσους. Τραυματίες δεν υπάρχουν.
+:::
 
+::: {lang="el" .listen}
 Καλημέρα σας. Σε ύφεση βρίσκεται η πυρκαγιά στην ορεινή Κορινθία. Τη νύχτα ο αέρας έπεσε, και οι
 πυροσβέστες κατάφεραν να σταματήσουν το μέτωπο πριν από το πρώτο χωριό. Όταν ξαναπέταξαν τα
 αεροσκάφη με το πρώτο φως, η φωτιά είχε ήδη χάσει τη δύναμή της. Πολλοί κάτοικοι είχαν μείνει όλη
@@ -676,7 +703,8 @@ Abendnachrichten: die erste am Abend, die zweite am nächsten Morgen. Erst höre
 ::: {.callout-note .exercise}
 ## Übung 14.5: Zwei Meldungen hören
 
-Hör beide Meldungen mit ▶, ohne den Text aufzuklappen. Im Chat: „1b, 2a, …“.
+Hör beide Meldungen mit ▶, ohne den Text aufzuklappen. Fragen 1–3 betreffen die erste, 4 und 5
+die zweite. Im Chat: „1b, 2a, …“.
 
 1. Wann ist das Feuer ausgebrochen? **(a)** am frühen Morgen · **(b)** kurz nach eins ·
    **(c)** am Abend
@@ -686,25 +714,23 @@ Hör beide Meldungen mit ▶, ohne den Text aufzuklappen. Im Chat: „1b, 2a, �
    Stremmata · **(c)** etwa 30 000 Stremmata
 4. Was geschah in der Nacht? **(a)** Das Feuer erreichte das erste Dorf. · **(b)** Der Wind legte
    sich, die Front wurde vor dem Dorf gestoppt. · **(c)** Das Dorf wurde geräumt.
-5. Richtig oder falsch: Die meisten Bewohner hatten das Dorf in der Nacht verlassen.
+5. Richtig oder falsch: Alle Bewohner hatten das Dorf in der Nacht verlassen.
 
-**Zweiter Durchgang:** Achte nur auf [ˈeçi], [ˈeçun], [ˈixe], [ˈixan], [ˈixame] mit einer Form
+**Zweiter Durchgang:** Achte nur auf [ˈeçi], [ˈexun], [ˈiçe], [ˈixan], [ˈixame] mit einer Form
 auf [-i] dahinter. Wie viele Perfekt- und wie viele Plusquamperfektformen hörst du?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Achte auf die Wörter nach den Zahlen: [ογδόντα]{lang="el"} und [τριάντα]{lang="el"} gehören
-nicht zu den Flugzeugen.
+Nach jeder Zahl kommt ein Nomen. Hör, welches.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Die erste Meldung zieht Bilanz, die zweite erzählt die Nacht und springt zurück. Perfekt also
-eher in der ersten, Plusquamperfekt in der zweiten. Frage 5 entscheidet sich an
-[είχαν μείνει]{lang="el"}: [μένω]{lang="el"} heißt „bleiben“.
+Achte in der zweiten Meldung auf das Verb nach [πολλοί κάτοικοι]{lang="el"}. Für den zweiten
+Durchgang: Die erste Meldung zieht Bilanz, die zweite erzählt die Nacht und springt zurück.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -715,10 +741,11 @@ eher in der ersten, Plusquamperfekt in der zweiten. Frage 5 entscheidet sich an
 1. [λίγο μετά τη μία]{lang="el"}.
 2. [έξι αεροσκάφη και τέσσερα ελικόπτερα]{lang="el"}. Die 80 sind Feuerwehrleute, die 30
    Fahrzeuge; die häufigste Verwechslung.
-3. [τρεις χιλιάδες στρέμματα]{lang="el"}, also rund 300 Hektar. (a) ist die Hektarzahl.
+3. [τρεις χιλιάδες στρέμματα]{lang="el"}, also rund 300 Hektar; die Zahl aus (a) wäre die
+   Hektarzahl.
 4. [ο αέρας έπεσε]{lang="el"}, [σταματήσουν το μέτωπο πριν από το πρώτο χωριό]{lang="el"}.
-5. Umgekehrt: [Πολλοί κάτοικοι είχαν μείνει όλη τη νύχτα στο χωριό]{lang="el"}, sie blieben und
-   halfen.
+5. Falsch: [Πολλοί κάτοικοι είχαν μείνει όλη τη νύχτα στο χωριό]{lang="el"}, sie blieben
+   ([μένω]{lang="el"} „bleiben“) und halfen.
 
 **Zweiter Durchgang: drei und drei.** Perfekt: [έχουν ρίξει, έχει στείλει, έχει
 κάψει]{lang="el"}. Plusquamperfekt: [είχε χάσει, είχαν μείνει, (δεν) είχαμε ξαναζήσει]{lang="el"}.
@@ -798,19 +825,22 @@ Oft hörst du dort auch das Perfekt des Mediopassivs: [έχουν καεί]{lang
 τραυματισμοί]{lang="el"} „Verletzungen wurden nicht gemeldet“.
 
 Echte Nachrichtensprecher hörst du auf [ERTflix](https://www.ertflix.gr), der Plattform des
-öffentlichen Rundfunks: dort laufen Nachrichtensendungen ([το δελτίο ειδήσεων]{lang="el"}), viele
-mit griechischen Untertiteln.
+öffentlichen Rundfunks, mit Nachrichtensendungen ([το δελτίο ειδήσεων]{lang="el"}), manche mit
+griechischen Untertiteln. Die Live-Nachrichten um 12, 18 und 21 Uhr auf ERTNEWS lassen sich mit
+griechischen Untertiteln schauen; ERTflix braucht eine kostenlose Anmeldung und läuft auch
+außerhalb Griechenlands.
 
 ::: {.callout-note .exercise}
 ## Übung 14.6: Echte Nachrichten
 
 Such auf ERTflix eine Nachrichtensendung ([δελτίο ειδήσεων]{lang="el"}), am besten eine mit
-einer Meldung zu Brand, Unwetter oder Erdbeben. Nimm drei bis vier Minuten.
+einer Meldung zu Brand, Unwetter oder Erdbeben, und mit Untertiteln; gibt es keine, nimm eine
+andere Sendung. Nimm drei bis vier Minuten.
 
 1. **Ohne Untertitel:** Merk dir jede Zahl mit ihrer Einheit ([στρέμματα, πυροσβέστες,
    οχήματα, βαθμοί]{lang="el"} …). Mehr als die Hälfte richtig ist ein gutes Ergebnis.
-2. **Mit griechischen Untertiteln** (falls vorhanden) oder beim zweiten Hören: Sammle fünf
-   Perfektformen ([έχει, έχουν]{lang="el"} + Form auf [-ει]{lang="el"}) und sag bei jeder, ob sie
+2. **Mit griechischen Untertiteln** (falls vorhanden): Kontrolliere zuerst deine Zahlen aus
+   Durchgang 1. Dann sammle fünf Perfektformen ([έχει, έχουν]{lang="el"} + Form auf [-ει]{lang="el"}) und sag bei jeder, ob sie
    Bilanz, Erfahrung oder schon/noch nicht ausdrückt.
 :::
 
@@ -844,7 +874,7 @@ Hälfte heißt: dieselbe Stelle noch einmal hören.
 |---|---|---|
 | [η πυρκαγιά]{lang="el"} | [i pirkaˈʝa] | der Brand (formell, Nachrichten) |
 | [καίω, έκαψα]{lang="el"} | [ˈceo], [ˈekapsa] | verbrennen (etwas); [θα κάψει]{lang="el"} |
-| [καίγομαι, κάηκα]{lang="el"} | [ˈceɣome], [ˈkaika] | brennen, verbrennen (selbst; Kapitel 13); [να καεί]{lang="el"} |
+| [καίγομαι, κάηκα]{lang="el"} | [ˈceɣome], [ˈkaika] | brennen, verbrennen (selbst; Muster aus Kapitel 13); [να καεί]{lang="el"} |
 | [ξεσπάω, ξέσπασα]{lang="el"} | [kseˈspao], [ˈksespasa] | ausbrechen (Feuer, Krieg, Streit) |
 | [ο άνεμος]{lang="el"} | [o ˈanemos] | der Wind (gehoben; Alltag [ο αέρας]{lang="el"}) |
 | [το δάσος, τα δάση]{lang="el"} | [to ˈðasos], [ta ˈðasi] | der Wald |
@@ -866,12 +896,14 @@ Hälfte heißt: dieselbe Stelle noch einmal hören.
   [Δεν το έχω δει.]{lang="el"}
 - **Plusquamperfekt** = [είχα, είχες, είχε …]{lang="el"} + dieselbe Form: [είχε ήδη
   φύγει]{lang="el"}. Es zeigt, was vor einem anderen Punkt der Vergangenheit schon geschehen war;
-  der Aorist an seiner Stelle ändert die Reihenfolge.
-- **Mit Zeitstempel kein Perfekt:** [χθες, το 2021, όταν, πότε;]{lang="el"} → Aorist.
+  nach [όταν]{lang="el"} ohne [ήδη]{lang="el"} ändert der Aorist an seiner Stelle die
+  Reihenfolge.
+- **Mit Zeitstempel kein Perfekt:** [χθες, το 2021, όταν, πότε;]{lang="el"} → fast immer
+  Aorist. Zeiträume bis jetzt ([σήμερα, φέτος]{lang="el"}) sind kein Zeitstempel.
 - **Perfekt** für Erfahrung ([ποτέ]{lang="el"}), schon/noch nicht ([ήδη, ακόμα]{lang="el"}),
   Bilanz ([μέχρι τώρα, μέχρι στιγμής]{lang="el"}). Auch da ist der Aorist oft möglich; im
   Zweifel Aorist.
-- „Gerade eben“: [μόλις]{lang="el"} + Aorist. „Seit“ bei Andauerndem: Präsens; bei Nicht-Geschehen
+- „Gerade eben“: normalerweise [μόλις]{lang="el"} + Aorist. „Seit“ bei Andauerndem: Präsens; bei Nicht-Geschehen
   Perfekt oder [Έχει τρεις μήνες να βρέξει.]{lang="el"}
 - Gesprochen: [το ’χω δει, μου ’χει πει]{lang="el"}; [Σου ’χει τύχει; Τι έχει γίνει; Έχω χρόνια
   να σε δω!]{lang="el"}
@@ -887,11 +919,11 @@ ganz, dann mit Wortschatz, dann mit ▶.
 Κάθε καλοκαίρι οι Έλληνες ανοίγουν την τηλεόραση και βλέπουν τον ίδιο χάρτη: κόκκινες τελείες σε
 όλη τη χώρα. Η αντιπυρική περίοδος αρχίζει επίσημα την πρώτη Μαΐου και τελειώνει στις τριάντα
 μία Οκτωβρίου. Οι επιστήμονες όμως λένε ότι τα τελευταία χρόνια έχει μεγαλώσει: φωτιές έχουν
-ξεσπάσει ήδη τον Μάρτιο και ακόμα τον Νοέμβριο.
+ξεσπάσει ήδη από τον Μάρτιο και μέχρι τον Νοέμβριο.
 
 Η χώρα έχει ζήσει πολλά δύσκολα καλοκαίρια. Τον Ιούλιο του 2018 η φωτιά στο Μάτι, κοντά στην
-Αθήνα, σκότωσε πάνω από εκατό ανθρώπους. Πολλοί είχαν τρέξει στη θάλασσα και περίμεναν ώρες μέσα
-στο νερό. Το 2021, μετά από έναν μεγάλο καύσωνα, κάηκε μεγάλο μέρος της βόρειας Εύβοιας. Και το
+Αθήνα, σκότωσε πάνω από εκατό ανθρώπους. Πολλοί έτρεξαν στη θάλασσα και περίμεναν ώρες μέσα
+στο νερό. Το 2021, στη διάρκεια ενός μεγάλου καύσωνα, κάηκε μεγάλο μέρος της βόρειας Εύβοιας. Και το
 2023 στον Έβρο έγινε η μεγαλύτερη πυρκαγιά που έχει καταγράψει ποτέ η Ευρωπαϊκή Ένωση.
 
 Γιατί καίγεται η Ελλάδα; Οι περισσότερες φωτιές δεν ξεκινούν μόνες τους· τις ανάβουν άνθρωποι,
@@ -901,13 +933,13 @@ ganz, dann mit Wortschatz, dann mit ▶.
 Και μετά τη φωτιά; Εδώ η φύση έχει μια έκπληξη. Το χαλέπιο πεύκο, το πεύκο της Αττικής και της
 Εύβοιας, έχει «μάθει» να ζει με τη φωτιά. Τα κουκουνάρια του ανοίγουν με τη ζέστη, και οι σπόροι
 πέφτουν στη στάχτη. Με τις πρώτες βροχές φυτρώνουν χιλιάδες μικρά πεύκα. Ένα νέο πεύκο όμως
-χρειάζεται δέκα με δεκαπέντε χρόνια μέχρι τα πρώτα του κουκουνάρια. Όταν η φωτιά ξανάρχεται
+χρειάζεται δέκα με δεκαπέντε χρόνια μέχρι να κάνει αρκετά κουκουνάρια. Όταν η φωτιά ξανάρχεται
 νωρίτερα, το δάσος δε γυρίζει πια. Σε μερικά μέρη της Αττικής αυτό έχει ήδη γίνει: εκεί που ήταν
 δάσος, σήμερα υπάρχουν μόνο θάμνοι.
 
 Γι’ αυτό σε πολλά χωριά οι κάτοικοι έχουν οργανώσει δικές τους ομάδες εθελοντών. Έχουν αγοράσει
-νερό, λάστιχα και ασυρμάτους, και το καλοκαίρι κάθονται με τη σειρά στα βουνά και κοιτάζουν για
-καπνό. «Το ’21 είχαμε μόνο κουβάδες», λέει ένας εθελοντής από την Εύβοια. «Τέτοια φωτιά δεν
+νερό, λάστιχα και ασυρμάτους, και το καλοκαίρι κάθονται με τη σειρά στα βουνά και κοιτάζουν μήπως
+δουν καπνό. «Το ’21 είχαμε μόνο κουβάδες», λέει ένας εθελοντής από την Εύβοια. «Τέτοια φωτιά δεν
 είχαμε ξαναδεί. Τώρα είμαστε έτοιμοι. Αλλά κάθε Αύγουστο κοιτάζω τον ουρανό και προσεύχομαι να
 μη φυσήξει.»
 :::
@@ -934,6 +966,7 @@ Zwei Muster helfen beim Lesen:
 | [σκοτώνω, σκότωσα]{lang="el"} | töten |
 | [τρέχω, έτρεξα]{lang="el"} | rennen, laufen |
 | [το μέρος]{lang="el"} | der Teil; der Ort |
+| [στη διάρκεια]{lang="el"} + Genitiv | während |
 | [κάηκε]{lang="el"} | verbrannte (von [καίγομαι]{lang="el"}) |
 | [καταγράφω, κατέγραψα]{lang="el"} | aufzeichnen, erfassen |
 | [η Ευρωπαϊκή Ένωση]{lang="el"} | die Europäische Union |
@@ -948,6 +981,7 @@ Zwei Muster helfen beim Lesen:
 | [φυτρώνω, φύτρωσα]{lang="el"} | keimen, sprießen |
 | [ξανάρχεται]{lang="el"} | kommt wieder (von [ξανάρχομαι]{lang="el"}) |
 | [ο θάμνος]{lang="el"} | der Strauch, das Gebüsch |
+| [κοιτάζουν μήπως δουν]{lang="el"} | sie schauen, ob sie … sehen |
 | [οργανώνω, οργάνωσα]{lang="el"} | organisieren |
 | [ο ασύρματος]{lang="el"} | das Funkgerät |
 | [με τη σειρά]{lang="el"} | abwechselnd, der Reihe nach |
@@ -964,11 +998,11 @@ Zwei Muster helfen beim Lesen:
 Jeden Sommer schalten die Griechen den Fernseher ein und sehen dieselbe Karte: rote Punkte im
 ganzen Land. Die Waldbrandsaison beginnt offiziell am 1. Mai und endet am 31. Oktober. Die
 Wissenschaftler sagen aber, dass sie in den letzten Jahren länger geworden ist: Brände sind schon
-im März und noch im November ausgebrochen.
+ab März und bis in den November ausgebrochen.
 
 Das Land hat viele schwere Sommer erlebt. Im Juli 2018 tötete das Feuer in Mati, nahe Athen, mehr
-als hundert Menschen. Viele waren ins Meer gerannt und warteten stundenlang im Wasser. 2021,
-nach einer großen Hitzewelle, brannte ein großer Teil von Nord-Euböa ab. Und 2023 ereignete sich
+als hundert Menschen. Viele rannten ins Meer und warteten stundenlang im Wasser. 2021,
+während einer großen Hitzewelle, brannte ein großer Teil von Nord-Euböa ab. Und 2023 ereignete sich
 im Evros der größte Waldbrand, den die Europäische Union je erfasst hat.
 
 Warum brennt Griechenland? Die meisten Brände entstehen nicht von selbst; Menschen legen sie,
@@ -978,7 +1012,7 @@ und trockener, und ein Wald, der vier Monate keinen Regen gesehen hat, brennt wi
 Und nach dem Feuer? Hier hält die Natur eine Überraschung bereit. Die Aleppokiefer, die Kiefer
 Attikas und Euböas, hat „gelernt“, mit dem Feuer zu leben. Ihre Zapfen öffnen sich in der Hitze,
 und die Samen fallen in die Asche. Mit den ersten Regenfällen keimen Tausende kleiner Kiefern.
-Eine junge Kiefer braucht aber zehn bis fünfzehn Jahre bis zu ihren ersten Zapfen. Wenn das Feuer
+Eine junge Kiefer braucht aber zehn bis fünfzehn Jahre, bis sie genug Zapfen trägt. Wenn das Feuer
 früher wiederkommt, kehrt der Wald nicht mehr zurück. An manchen Orten Attikas ist das schon
 geschehen: Wo Wald war, gibt es heute nur noch Gestrüpp.
 
@@ -997,8 +1031,8 @@ ausgehen, ist unstrittig; wie viele aus Fahrlässigkeit und wie viele vorsätzli
 lässt sich oft nicht klären, und die Zahlen schwanken je nach Quelle. **Klima:** Hitze und
 Trockenheit erhöhen das Brandrisiko nachweislich; wie groß der Anteil des Klimawandels an einem
 einzelnen Brand ist, ist eine eigene Forschungsfrage. **Kiefern:** Die Aleppokiefer regeneriert
-nach Feuer oft gut, aber nicht überall; Boden, Erosion und Beweidung spielen mit, und die Angaben
-zum Alter der ersten Zapfen schwanken. Zum Nachlesen: die Jahresberichte des European Forest Fire
+nach Feuer oft gut, aber nicht überall; Boden, Erosion und Beweidung spielen mit, und die Angaben,
+ab wann eine junge Kiefer genug Zapfen trägt, schwanken. Zum Nachlesen: die Jahresberichte des European Forest Fire
 Information System (EFFIS).
 :::
 
@@ -1009,17 +1043,17 @@ Information System (EFFIS).
 
 1. Die Waldbrandsaison dauert offiziell von Mai bis Ende Oktober.
 2. Laut Wissenschaftlern gibt es Brände inzwischen nur noch im Hochsommer.
-3. In Mati starben 2018 mehr als hundert Menschen.
+3. In Mati flüchteten viele Menschen ins Meer.
 4. Die meisten Brände entstehen durch Blitze.
-5. Eine junge Aleppokiefer bildet schon nach zwei, drei Jahren Zapfen.
+5. Eine junge Aleppokiefer trägt schon nach zwei, drei Jahren genug Zapfen.
 6. Die Freiwilligen auf Euböa hatten 2021 schon Funkgeräte.
 
-**Teil B.** Such alle Perfekt- und Plusquamperfektformen im Text (es sind elf) und nenn zu jeder
+**Teil B.** Such alle Perfekt- und Plusquamperfektformen im Text (es sind zehn) und nenn zu jeder
 das Grundverb.
 
 **Teil C.** Zwei Fragen zum Warum:
 
-7. [φωτιές έχουν ξεσπάσει ήδη τον Μάρτιο]{lang="el"}: Perfekt, obwohl ein Monat dasteht. Im
+7. [φωτιές έχουν ξεσπάσει ήδη από τον Μάρτιο]{lang="el"}: Perfekt, obwohl ein Monat dasteht. Im
    nächsten Absatz steht [Τον Ιούλιο του 2018 … σκότωσε]{lang="el"} im Aorist. Warum?
 8. [το 2023 … έγινε η μεγαλύτερη πυρκαγιά που έχει καταγράψει ποτέ η Ευρωπαϊκή
    Ένωση]{lang="el"}: Warum steht im selben Satz Aorist und Perfekt?
@@ -1043,11 +1077,11 @@ irgendeinem der letzten Jahre? Bei 8: Worauf bezieht sich [ποτέ]{lang="el"}?
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**Teil A: 1r, 2f, 3r, 4f, 5f, 6f.** Zu 2: Die Saison ist länger geworden, mit Bränden schon im
-März und noch im November. Zu 4: Menschen, meist aus Fahrlässigkeit. Zu 5: zehn bis fünfzehn
-Jahre. Zu 6: [Το ’21 είχαμε μόνο κουβάδες.]{lang="el"}
+**Teil A: 1r, 2f, 3r, 4f, 5f, 6f.** Zu 2: Die Saison ist länger geworden, mit Bränden schon ab
+März und bis in den November. Zu 4: Menschen, meist aus Fahrlässigkeit. Zu 5: Sie braucht zehn bis
+fünfzehn Jahre, bis sie genug Zapfen trägt. Zu 6: [Το ’21 είχαμε μόνο κουβάδες.]{lang="el"}
 
-**Teil B: neun Perfekte, zwei Plusquamperfekte.**
+**Teil B: neun Perfekte, ein Plusquamperfekt.**
 
 - Perfekt: [έχει μεγαλώσει]{lang="el"} ([μεγαλώνω]{lang="el"}), [έχουν ξεσπάσει]{lang="el"}
   ([ξεσπάω]{lang="el"}), [έχει ζήσει]{lang="el"} ([ζω]{lang="el"}), [έχει καταγράψει]{lang="el"}
@@ -1055,13 +1089,13 @@ Jahre. Zu 6: [Το ’21 είχαμε μόνο κουβάδες.]{lang="el"}
   μάθει]{lang="el"} ([μαθαίνω]{lang="el"}), [έχει γίνει]{lang="el"} ([γίνομαι]{lang="el"}),
   [έχουν οργανώσει]{lang="el"} ([οργανώνω]{lang="el"}), [έχουν αγοράσει]{lang="el"}
   ([αγοράζω]{lang="el"})
-- Plusquamperfekt: [είχαν τρέξει]{lang="el"} ([τρέχω]{lang="el"}), [δεν είχαμε
-  ξαναδεί]{lang="el"} ([βλέπω]{lang="el"} mit [ξανα-]{lang="el"})
+- Plusquamperfekt: [δεν είχαμε ξαναδεί]{lang="el"} ([βλέπω]{lang="el"} mit
+  [ξανα-]{lang="el"})
 
 **Teil C.**
 
-7. [τον Μάρτιο]{lang="el"} ist hier kein Zeitstempel für ein Ereignis, sondern gehört zur
-   Bilanz der letzten Jahre: Brände im März hat es schon gegeben, in irgendeinem Jahr. [Τον
+7. [από τον Μάρτιο]{lang="el"} ist hier kein Zeitstempel für ein Ereignis, sondern gehört zur
+   Erfahrung der letzten Jahre: Brände im März hat es schon gegeben, in irgendeinem Jahr. [Τον
    Ιούλιο του 2018]{lang="el"} ist ein datierter Moment, also Aorist. „Zeitstempel“ heißt: ein
    bestimmter Punkt in der Vergangenheit, nicht jedes Zeitwort.
 8. Die Jahreszahl gehört zum Hauptsatz: 2023 geschah der Brand, Aorist. Der Nebensatz blickt
