@@ -755,8 +755,8 @@ oder knapp darunter.
 Das ist eine Tendenz, keine Messung. Vertretbar ist auch:
 
 - **b)** eine Stufe höher (1): [πιθανότατα]{lang="el"} ist „höchstwahrscheinlich“.
-- **d)** als (3): Im Wetterbericht ist die Formel so häufig, dass sie kaum schwächer klingt als
-  [ενδέχεται]{lang="el"}.
+- **d)** (3) oder (4): „nicht ausgeschlossen“ ist eine vorsichtige Form von „möglich“. Im
+  Wetterbericht ist die Formel so häufig, dass sie kaum schwächer klingt als [ενδέχεται]{lang="el"}.
 - **h)** [πρέπει να]{lang="el"} als Vermutung liegt zwischen (1) und (2), je nach Sprecher und Indiz.
 
 **Typischer Fehler:** c) und g) verschieden einstufen. [ενδέχεται]{lang="el"} und
@@ -802,8 +802,9 @@ dankbar. Die Reihenfolge ist fast immer: Region, Himmel, Wind, Temperatur.
   Wichtig für Fähren ist das, was danach kommt: [τοπικά επτά]{lang="el"} „örtlich sieben“.
 - **Temperatur:** ein Bereich mit [από … έως]{lang="el"} (Kapitel 11), in Nachrichten gern mit
   [ο υδράργυρος]{lang="el"} „das Quecksilber“ als Subjekt: [Ο υδράργυρος θα αγγίξει τους σαράντα
-  βαθμούς.]{lang="el"} Das Wort ist wörtlich „Wassersilber“, daher das chemische Symbol Hg
-  (*Hydrargyrum*).
+  βαθμούς.]{lang="el"} „Das Quecksilber wird vierzig Grad erreichen“ ([αγγίζω]{lang="el"}
+  „berühren“). Das Wort ist wörtlich „Wassersilber“, daher das chemische Symbol Hg
+  (*Hydrargyrum*). Wo es kühler ist, heißt die Hitze [πιο ήπια]{lang="el"} „milder“.
 - **Modalität:** Achte auf die förmlichen Wörter [αναμένεται, ενδέχεται, δεν
   αποκλείονται]{lang="el"}. Alle drei sind auf der drittletzten Silbe betont, das Ende ist
   unbetont und schnell gesprochen: [anaˈmenete], [enˈðeçete], [apoˈkliode]. Die Endung
@@ -812,10 +813,9 @@ dankbar. Die Reihenfolge ist fast immer: Region, Himmel, Wind, Temperatur.
 Beaufort misst die Windstärke, und die Zahlen sind im Sommer in jeder Vorhersage: 6 Beaufort ist
 starker Wind (39 bis 49 km/h), 7 steifer Wind (50 bis 61 km/h), 8 stürmischer Wind (62 bis
 74 km/h). Ab 8 bleiben viele Fähren im Hafen (Kapitel 5).
-<!-- CHECK: Beaufort-Werte 6/7/8 in km/h und deutsche Bezeichnungen; Aussprache αποκλείονται [apoˈklionde] (ντ nach ν als [d]) -->
 
-Jetzt ein Wetterbericht am Freitagabend, erfunden, aber im Ton der Abendnachrichten: ein
-Moderator, eine Meteorologin. Lies zuerst die Fragen der Übung unter dem Text, dann hör mit ▶,
+Jetzt ein Wetterbericht am Freitagabend, erfunden, aber im Ton der Abendnachrichten: eine
+Moderatorin, ein Meteorologe. Lies zuerst die Fragen der Übung unter dem Text, dann hör mit ▶,
 ohne den Text aufzuklappen.
 
 ::: {lang="el" .listen}
