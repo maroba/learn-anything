@@ -456,7 +456,7 @@ Zwei Sätze haben gar kein Imperfekt nach [θα]{lang="el"}: [έχασε, ξέχ
 
 - 1 und 6: Blick nach vorn von einem Punkt in der Vergangenheit, nach [ήξερε ότι, είπε ότι]{lang="el"}.
 - 7: der Plan, aus dem nichts wurde, „ich wollte ja anrufen“. Er steht zwischen a und b; mit
-  [αλλά]{lang="el"} zählt er zum Irrealis, a ist vertretbar.
+  [αλλά]{lang="el"} zählt er zum Irrealis, a ist vertretbar. <!-- CHECK: Einordnung von „Θα σε έπαιρνα τηλέφωνο, αλλά …“ als b (Irrealis) mit a als Alternative – so vertretbar? -->
 - 8: eine abgefederte Meinung, keine Bedingung dahinter.
 - 10: Imperfekt für 1453, der Irrealis der Vergangenheit im Gesprächsstil.
 - 4 und 9: [θα]{lang="el"} + Aorist ist eine Vermutung, „hat wohl verpasst, wohl vergessen“.
@@ -570,7 +570,7 @@ Teil B: Der Aorist zeigt nach [να]{lang="el"} nichts Unwirkliches; nach [να]
 **Teil B**
 
 1. [Έπρεπε να είχες φύγει νωρίτερα.]{lang="el"} Im Gespräch auch [έπρεπε να
-   έφευγες]{lang="el"}. [να φύγεις]{lang="el"} ist grammatisch, aber doppeldeutig.
+   έφευγες]{lang="el"}. [να φύγεις]{lang="el"} ist grammatisch, aber doppeldeutig. <!-- CHECK: Registerangabe zu έπρεπε να έφευγες an die Klärung im Abschnitt „Bedauern“ angleichen. -->
 2. Das zweite [θα]{lang="el"} muss weg: [Θα έπρεπε να είχαμε έρθει το πρωί.]{lang="el"}
 3. [Κρίμα που δεν ήρθες.]{lang="el"} Nach [που]{lang="el"} steht keine zeitlose Form.
 :::
@@ -725,7 +725,7 @@ sagt, du weißt schon, dass es zu ist.
 
 1. [Μακάρι!]{lang="el"} oder [Μακάρι να βρούμε.]{lang="el"}
 2. [Μακάρι να το είχα αφήσει στο ξενοδοχείο!]{lang="el"} Schärfer: [Ας το είχα αφήσει στο
-   ξενοδοχείο!]{lang="el"}
+   ξενοδοχείο!]{lang="el"} <!-- CHECK: ας + Plusquamperfekt in der 1. Person Singular als Selbstvorwurf natürlich? -->
 3. [Ας έρθουμε αύριο πιο νωρίς.]{lang="el"} Oder: [Ας πάμε πρώτα να φάμε κάτι.]{lang="el"}
 
 **Typischer Fehler:** \*[ας να έρθουμε]{lang="el"}; [ας]{lang="el"} ersetzt das [να]{lang="el"}.
