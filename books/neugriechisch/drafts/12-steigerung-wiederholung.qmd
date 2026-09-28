@@ -997,6 +997,18 @@ Tempo gehalten. Wenig verstanden in Durchgang 1 ist bei Straßensprache normal.
 
 ## Zum Lesen: Welche Insel? {#sec-vergleich-lesetext}
 
+Damit ist Teil I abgeschlossen. Du kannst jetzt erzählen, was war, und dabei Foto und Film
+unterscheiden; planen mit [θα]{lang="el"} und [να]{lang="el"}; Anweisungen geben und verbieten;
+vergleichen; Uhrzeit und Datum nennen. Die Kolumne unten ist der Test: Sie braucht nichts
+anderes. Teil II bringt das Mediopassiv, das Perfekt, Relativsätze und Nebensätze. Wenn eine
+dieser Fragen hakt, hilft das Kapitel dahinter:
+
+- Kannst du „Hast du den Film gesehen?“ ohne Perfekt sagen? → Kapitel 2
+- Kannst du „jeden Sommer fuhren wir“ und „einmal fuhren wir“ trennen? → Kapitel 4
+- Kannst du „Ich will, dass du nicht gehst“ bilden? → Kapitel 5
+- Kannst du „Sag es mir!“ und „Sag es mir nicht!“ sagen? → Kapitel 8, 9
+- Kannst du „am 25. März um eins“ sagen? → Kapitel 11
+
 Eine Kolumne aus einer griechischen Reisezeitschrift. Sie enthält fast alles aus Teil I:
 Aorist und Imperfekt, [θα]{lang="el"} und [να]{lang="el"}, Imperative, Pronomen, Genitive,
 Verben auf [-μαι]{lang="el"}, Zahlen und die Vergleiche dieses Kapitels. Lies sie einmal ganz,
@@ -1006,27 +1018,28 @@ ohne nachzuschlagen, dann mit Wortschatz, dann mit ▶.
 **Ποιο νησί;**
 
 Κάθε καλοκαίρι φίλοι από τη Γερμανία με ρωτάνε το ίδιο: «Ποιο είναι το πιο ωραίο ελληνικό
-νησί;» Κι εγώ τους απαντάω πάντα: «Εξαρτάται.» Η Ελλάδα έχει περίπου έξι χιλιάδες νησιά και
+νησί;» Δύσκολη ερώτηση. Κι εγώ τους απαντάω πάντα: «Εξαρτάται.» Η Ελλάδα έχει περίπου έξι χιλιάδες νησιά και
 βραχονησίδες, αλλά άνθρωποι ζουν μόνο σε λίγο πάνω από εκατό. Και κανένα δε μοιάζει με το άλλο.
 
 Η Κρήτη είναι το μεγαλύτερο νησί της χώρας, σχεδόν μια μικρή χώρα μόνη της. Έχει και τα
-ψηλότερα βουνά: ο Ψηλορείτης φτάνει τα 2.456 μέτρα. Τον Απρίλιο μπορείς να κολυμπήσεις το πρωί
-και να δεις χιόνι στα βουνά το απόγευμα. Στη νότια ακτή, στο Λιβυκό Πέλαγος, το καλοκαίρι
+ψηλότερα βουνά από όλα τα νησιά: ο Ψηλορείτης φτάνει τα 2.456 μέτρα. Τον Απρίλιο μπορείς να κολυμπήσεις το πρωί
+και να δεις χιόνι στα βουνά το απόγευμα. Στον νότο, στο Λιβυκό Πέλαγος, το καλοκαίρι
 κρατάει περισσότερο απ’ ό,τι στην Αθήνα, και η θάλασσα είναι ζεστή μέχρι τον Νοέμβριο.
 
-Οι Κυκλάδες είναι το αντίθετο: μικρές, ξερές, με λίγα δέντρα και πολύ αέρα. Βρέχει κυρίως τον
+Οι Κυκλάδες είναι το αντίθετο: μικρές, ξερές, με λίγα δέντρα και πολύ αέρα. Το καλοκαίρι φυσάει
+από τον βορρά το μελτέμι. Βρέχει κυρίως τον
 χειμώνα, και όχι πολύ. Όταν ήμουν παιδί, περνούσαμε κάθε καλοκαίρι στη Νάξο, στο σπίτι της
 γιαγιάς μου. Νερό είχαμε λίγο, και η γιαγιά φώναζε κάθε μέρα: «Κλείσε τη βρύση!» Σήμερα πολλά
 νησιά παίρνουν νερό από τη θάλασσα, με αφαλάτωση. Η Νάξος είναι η μεγαλύτερη και η πιο εύφορη
 από τις Κυκλάδες· γι’ αυτό τις πατάτες της τις ξέρει όλη η Ελλάδα.
 
-Αν θέλεις πράσινο, πήγαινε δυτικά, στο Ιόνιο. Η Κέρκυρα παίρνει σχεδόν τρεις φορές
-περισσότερη βροχή από τη Σαντορίνη. Γιατί; Τα σύννεφα έρχονται συνήθως από τη δύση, από τη
-θάλασσα. Πρώτα συναντούν τα νησιά του Ιονίου και τα βουνά της δυτικής Ελλάδας και αφήνουν εκεί
+Αν θέλεις πράσινο και φύση, πήγαινε δυτικά, στο Ιόνιο. Η Κέρκυρα παίρνει τρεις με τέσσερις
+φορές περισσότερη βροχή από τη Σαντορίνη. Γιατί; Τα σύννεφα έρχονται συνήθως από τη δύση, από
+τη θάλασσα, και πάνε προς την ανατολή. Πρώτα συναντούν τα νησιά του Ιονίου και τα βουνά της δυτικής Ελλάδας και αφήνουν εκεί
 το νερό τους. Όταν φτάνουν στο Αιγαίο, είναι πια πιο «άδεια». Γι’ αυτό η Κέρκυρα έχει ελιές,
 κυπαρίσσια και δάση, ενώ η Σαντορίνη έχει βράχους και αμπέλια.
 
-Και ο καιρός αλλάζει. Η γιαγιά μου θυμάται καλοκαίρια με τριάντα βαθμούς, «και ήταν πολύ». Τον
+Και το κλίμα αλλάζει. Η γιαγιά μου θυμάται καλοκαίρια με τριάντα βαθμούς, «και ήταν πολύ». Τον
 Ιούλιο του 2023 ο καύσωνας κράτησε πάνω από δύο εβδομάδες, με σαράντα βαθμούς και παραπάνω. Τα
 καλοκαίρια γίνονται όλο και πιο μεγάλα, και οι επιστήμονες λένε ότι η Μεσόγειος ζεσταίνεται πιο
 γρήγορα από τον μέσο όρο του πλανήτη.
@@ -1037,13 +1050,17 @@ ohne nachzuschlagen, dann mit Wortschatz, dann mit ▶.
 την επόμενη φορά.
 :::
 
-Zwei Stellen zum Lesen:
+Vier Stellen zum Lesen:
 
 - **[τις πατάτες της τις ξέρει όλη η Ελλάδα]{lang="el"}:** Das Objekt steht vorn und wird mit
   [τις]{lang="el"} vor dem Verb wiederholt, „ihre Kartoffeln, die kennt ganz Griechenland“. Das
   ist die Doppelung aus Kapitel 20; hier reicht es, sie zu erkennen.
 - **[ζεσταίνεται]{lang="el"}** „wird wärmer, erwärmt sich“: eine Form auf [-μαι]{lang="el"} von
   [ζεσταίνω]{lang="el"} „wärmen“. Solche Paare aktiv/[-μαι]{lang="el"} bringt Kapitel 13.
+- **[τρεις με τέσσερις φορές περισσότερη βροχή από]{lang="el"}** „drei- bis viermal so viel
+  Regen wie“: [x φορές περισσότερο από]{lang="el"} ist „x-mal so viel wie“.
+- **[το καλύτερο νησί είναι … αυτό που θα δεις]{lang="el"}** „die beste Insel ist die, die du
+  sehen wirst“: [που]{lang="el"} leitet einen Relativsatz ein, „die, den, das“ (Kapitel 15).
 
 ::: {.callout-caution .uncertain}
 ## Vorsicht
@@ -1068,9 +1085,9 @@ abregnen; der Osten liegt im Regenschatten.
 | [μοιάζω με]{lang="el"} | ähneln, aussehen wie (Kapitel 2) |
 | [ο Ψηλορείτης]{lang="el"} | der Psiloritis (Ida-Gebirge), wörtlich „der Hohe“ |
 | [κολυμπάω, κολύμπησα]{lang="el"} | schwimmen (Kapitel 4) |
-| [η ακτή]{lang="el"} | die Küste |
 | [το Λιβυκό Πέλαγος]{lang="el"} | das Libysche Meer |
 | [το αντίθετο]{lang="el"} | das Gegenteil |
+| [φυσάει, το μελτέμι]{lang="el"} | es weht; der Meltemi, Nordwind im Sommer (Kapitel 4) |
 | [κυρίως]{lang="el"} | hauptsächlich |
 | [η βρύση]{lang="el"} | der Wasserhahn |
 | [η αφαλάτωση]{lang="el"} | die Meerwasserentsalzung |
@@ -1078,6 +1095,8 @@ abregnen; der Osten liegt im Regenschatten.
 | [δυτικά]{lang="el"} | im Westen, nach Westen |
 | [το Ιόνιο]{lang="el"} | das Ionische Meer; die Ionischen Inseln |
 | [συναντάω, συνάντησα]{lang="el"} | treffen, begegnen |
+| [προς]{lang="el"} | nach, in Richtung |
+| [πια]{lang="el"} | (hier) nun, schon |
 | [άδειος, -α, -ο]{lang="el"} | leer |
 | [το κυπαρίσσι]{lang="el"} | die Zypresse |
 | [ο βράχος]{lang="el"} | der Fels |
@@ -1099,27 +1118,29 @@ abregnen; der Osten liegt im Regenschatten.
 **Welche Insel?**
 
 Jeden Sommer fragen mich Freunde aus Deutschland dasselbe: „Welches ist die schönste griechische
-Insel?“ Und ich antworte ihnen immer: „Kommt drauf an.“ Griechenland hat etwa sechstausend Inseln
+Insel?“ Schwierige Frage. Und ich antworte ihnen immer: „Kommt drauf an.“ Griechenland hat etwa sechstausend Inseln
 und Felsinseln, aber Menschen leben nur auf etwas über hundert. Und keine gleicht der anderen.
 
 Kreta ist die größte Insel des Landes, fast ein kleines Land für sich. Es hat auch die höchsten
-Berge: Der Psiloritis erreicht 2456 Meter. Im April kannst du morgens schwimmen und nachmittags
-Schnee auf den Bergen sehen. An der Südküste, am Libyschen Meer, dauert der Sommer länger als in
+Berge aller Inseln: Der Psiloritis erreicht 2456 Meter. Im April kannst du morgens schwimmen und nachmittags
+Schnee auf den Bergen sehen. Im Süden, am Libyschen Meer, dauert der Sommer länger als in
 Athen, und das Meer ist bis November warm.
 
-Die Kykladen sind das Gegenteil: klein, trocken, mit wenig Bäumen und viel Wind. Es regnet vor
+Die Kykladen sind das Gegenteil: klein, trocken, mit wenig Bäumen und viel Wind. Im Sommer
+weht aus Norden der Meltemi. Es regnet vor
 allem im Winter, und nicht viel. Als ich ein Kind war, verbrachten wir jeden Sommer auf Naxos, im
 Haus meiner Großmutter. Wasser hatten wir wenig, und die Großmutter rief jeden Tag: „Dreh den
 Hahn zu!“ Heute holen sich viele Inseln ihr Wasser aus dem Meer, durch Entsalzung. Naxos ist die
 größte und fruchtbarste der Kykladen; deshalb kennt ganz Griechenland seine Kartoffeln.
 
-Wenn du Grün willst, fahr nach Westen, ins Ionische Meer. Korfu bekommt fast dreimal so viel
-Regen wie Santorin. Warum? Die Wolken kommen meist von Westen, vom Meer. Zuerst treffen sie auf
+Wenn du Grün und Natur willst, fahr nach Westen, ins Ionische Meer. Korfu bekommt drei- bis
+viermal so viel Regen wie Santorin. Warum? Die Wolken kommen meist von Westen, vom Meer, und
+ziehen nach Osten. Zuerst treffen sie auf
 die Ionischen Inseln und die Berge Westgriechenlands und lassen dort ihr Wasser. Wenn sie die
 Ägäis erreichen, sind sie schon „leerer“. Deshalb hat Korfu Olivenbäume, Zypressen und Wälder,
 während Santorin Felsen und Weinstöcke hat.
 
-Und das Wetter ändert sich. Meine Großmutter erinnert sich an Sommer mit dreißig Grad, „und das
+Und das Klima ändert sich. Meine Großmutter erinnert sich an Sommer mit dreißig Grad, „und das
 war viel“. Im Juli 2023 dauerte die Hitzewelle über zwei Wochen, mit vierzig Grad und mehr. Die
 Sommer werden immer länger, und die Wissenschaftler sagen, dass sich das Mittelmeer schneller
 erwärmt als der Durchschnitt des Planeten.
@@ -1139,7 +1160,7 @@ beim nächsten Mal sehen wirst.
 2. Auf Kreta kann man im April am selben Tag schwimmen und Schnee sehen.
 3. Die Kykladen haben viele Bäume.
 4. Im Haus der Großmutter auf Naxos war Wasser knapp.
-5. Korfu bekommt etwa dreimal so viel Regen wie Santorin.
+5. Korfu bekommt drei- bis viermal so viel Regen wie Santorin.
 6. Die Hitzewelle im Juli 2023 dauerte knapp zwei Wochen.
 7. Wer Hitze schlecht verträgt, soll auf die Kykladen fahren.
 
@@ -1152,7 +1173,8 @@ beim nächsten Mal sehen wirst.
 10. Im ganzen Text stehen sechs Superlative. Welche?
 
 **Teil C.** Lies den Text laut und prüf mit ▶, besonders [Ψηλορείτης]{lang="el"}
-[psiloˈritis], [αφαλάτωση]{lang="el"} [afaˈlatosi], [κυπαρίσσια]{lang="el"} [cipaˈrisça].
+[psiloˈritis], [αφαλάτωση]{lang="el"} [afaˈlatosi], [κυπαρίσσια]{lang="el"} [cipaˈrisça],
+[αμπέλια]{lang="el"} [aˈbeʎa], [Σαντορίνη]{lang="el"} [sadoˈrini].
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -1181,8 +1203,10 @@ länger. 7: das Ionische Meer.
 9. [διάλεξε]{lang="el"} (Foto), [πήγαινε]{lang="el"} (fester Film-Imperativ); Verbot [μην
    ξεχάσεις]{lang="el"} (Foto, dieses eine Mal); [να θυμάσαι]{lang="el"} (Rat, Film);
    [θα δεις]{lang="el"} (Foto). Bei [θα σου αρέσει]{lang="el"} sehen Foto und Film gleich aus.
-10. [το πιο ωραίο ελληνικό νησί; το μεγαλύτερο νησί της χώρας; τα ψηλότερα βουνά; η
-    μεγαλύτερη και η πιο εύφορη από τις Κυκλάδες; το καλύτερο νησί]{lang="el"}. Falle:
+10. [το πιο ωραίο ελληνικό νησί]{lang="el"}; [το μεγαλύτερο νησί της χώρας]{lang="el"};
+    [τα ψηλότερα βουνά από όλα τα νησιά]{lang="el"}; [η μεγαλύτερη]{lang="el"} und
+    [η πιο εύφορη]{lang="el"} ([από τις Κυκλάδες]{lang="el"}), zwei Superlative mit einem
+    gemeinsamen Zusatz; [το καλύτερο νησί]{lang="el"}. Falle:
     [τα ψηλότερα βουνά]{lang="el"} ist wegen des Artikels Superlativ, obwohl
     [-τερος]{lang="el"} darin steckt. Die übrigen Vergleiche, etwa [πιο γρήγορα από τον μέσο
     όρο]{lang="el"}, sind Komparative.
@@ -1194,7 +1218,7 @@ vier Silben, nicht fünf.
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [το χιόνι]{lang="el"} | [to ˈçoɲi] | der Schnee |
+| [το χιόνι]{lang="el"} | [to ˈçoni] | der Schnee |
 | [το δέντρο]{lang="el"} | [to ˈðedro] | der Baum |
 | [το σύννεφο]{lang="el"} | [to ˈsinefo] | die Wolke |
 | [ο βαθμός]{lang="el"} | [o vaθˈmos] | der Grad; die (Schul-)Note |
