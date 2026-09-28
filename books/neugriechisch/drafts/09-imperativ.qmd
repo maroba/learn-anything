@@ -202,7 +202,71 @@ Der **perfektive Imperativ** (Foto) der regelmäßigen Verben:
   Standardform.
 :::
 
-<!-- EXERCISE: Foto-Imperativ bilden: zu 8–10 regelmäßigen Verben (κλείνω, διαβάζω, αγοράζω, ψάχνω, τηλεφωνώ, βοηθάω, γεμίζω, ανακατεύω, ψήνω, ρίχνω) du- und ihr-Form laut bilden, mit Betonung; Teil B: aus einem Aorist-Satz einen Befehl machen (Έκλεισε την πόρτα. → Κλείσε την πόρτα!). Typische Fehler: Augment stehen lassen, να-Betonung im Singular (*διαβάσε), -ετε im Plural. Formen bilden, Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 9.1: Vom Aorist zum Befehl
+
+**Teil A.** Bilde du- und ihr-Form des Foto-Imperativs und sag beide laut, mit Betonung.
+
+a) [κλείνω]{lang="el"}
+b) [διαβάζω]{lang="el"}
+c) [αγοράζω]{lang="el"}
+d) [ψάχνω]{lang="el"}
+e) [τηλεφωνώ]{lang="el"}
+f) [βοηθάω]{lang="el"}
+g) [ψήνω]{lang="el"}
+h) [ανακατεύω]{lang="el"}
+
+**Teil B.** Aus dem Bericht wird ein Auftrag: Mach aus jedem Satz einen Befehl, erst an einen
+Freund, dann an deine Vermieterin (Sie).
+
+1. [Έκλεισε την πόρτα.]{lang="el"}
+2. [Έριξε λίγο αλάτι.]{lang="el"}
+3. [Αγόρασε ψωμί.]{lang="el"}
+4. [Έγραψε ένα μήνυμα.]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+du: er-Form des Aorists, Augment weg. ihr: erst die [θα]{lang="el"}-Form bilden
+([θα κλείσετε]{lang="el"}), dann [-ετε → -τε]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Hat die er-Form auch ohne Augment drei Silben, ändert sich gar nichts. Die ihr-Form ist immer
+direkt vor [-στε, -ψτε, -ξτε]{lang="el"} betont.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+| | du | ihr, Sie |
+|---|---|---|
+| a) | [κλείσε]{lang="el"} [ˈklise] | [κλείστε]{lang="el"} [ˈkliste] |
+| b) | [διάβασε]{lang="el"} [ˈðʝavase] | [διαβάστε]{lang="el"} [ðʝaˈvaste] |
+| c) | [αγόρασε]{lang="el"} [aˈɣorase] | [αγοράστε]{lang="el"} [aɣoˈraste] |
+| d) | [ψάξε]{lang="el"} [ˈpsakse] | [ψάξτε]{lang="el"} [ˈpsakste] |
+| e) | [τηλεφώνησε]{lang="el"} [tileˈfonise] | [τηλεφωνήστε]{lang="el"} [tilefoˈniste] |
+| f) | [βοήθησε]{lang="el"} [voˈiθise] | [βοηθήστε]{lang="el"} [voiˈθiste] |
+| g) | [ψήσε]{lang="el"} [ˈpsise] | [ψήστε]{lang="el"} [ˈpsiste] |
+| h) | [ανακάτεψε]{lang="el"} [anaˈkatepse] | [ανακατέψτε]{lang="el"} [anakaˈtepste] |
+
+Bei d) und g) fällt die Präsens-Zutat [ν]{lang="el"}, bei h) wird [ευ]{lang="el"} wie im Aorist
+zu [ψ]{lang="el"}.
+
+**Teil B:** [Κλείσε / Κλείστε την πόρτα! Ρίξε / Ρίξτε λίγο αλάτι! Αγόρασε / Αγοράστε ψωμί!
+Γράψε / Γράψτε ένα μήνυμα!]{lang="el"} Bei 3 klingen Bericht und Befehl gleich; nur Situation
+und Tonfall entscheiden.
+
+**Typische Fehler:** \*[Έψαξε!]{lang="el"} mit Augment heißt „er suchte“.
+\*[Διαβάσε, τηλεφωνήσε]{lang="el"}: Betonung der [να]{lang="el"}-Form im Singular.
+\*[Διαβάσετε!]{lang="el"}: Das ist die [να]{lang="el"}-Form, nicht der Imperativ.
+[Ψάχνε]{lang="el"} ist kein Fehler, aber der Film-Imperativ (@sec-imperativ-aspekt).
+:::
 
 ### Die Unregelmäßigen {#sec-imperativ-unregelmaessig}
 
@@ -242,7 +306,68 @@ Von den Aufzug-Verben aus Kapitel 3 fahren zwei eigene Wege:
   sich den Film von [πηγαίνω]{lang="el"}. Im Gespräch sagt man oft [Άντε!]{lang="el"} oder, wenn
   man mitgeht, [Πάμε!]{lang="el"} „Gehen wir!“, einfach die wir-Form des Präsens.
 
-<!-- EXERCISE: Unregelmäßige Imperative: Zuruf in der Situation laut sagen, du und Sie (Sag es! / Schau! / Trink aus! / Iss! / Komm rein! / Steig aus! / Geh hoch in den ersten Stock / Nimm! / Kommt! / Such die Schlüssel! / Bleib! / Gib mir …), mit Verb im Präsens als Hilfe. Typische Fehler: *είπε/*πέσε für πες, *έλθε, *πήγε, *φάγε, *πάρε im Plural. Formen bilden, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 9.2: Zurufe
+
+Was rufst du? Sag jeden Zuruf erst zu einem Freund (du), dann höflich (Sie). In Klammern das
+Präsens.
+
+1. Jemand macht es spannend: „Sag schon!“ ([λέω]{lang="el"}, mit „mir“)
+2. Dein Gast hustet: „Trink etwas Wasser!“ ([πίνω]{lang="el"})
+3. Am Tisch: „Iss!“ ([τρώω]{lang="el"})
+4. Es klopft: „Komm rein!“ ([μπαίνω]{lang="el"})
+5. Im Taxi, am Ziel: „Steig hier aus!“ ([κατεβαίνω]{lang="el"})
+6. Im Treppenhaus: „Geh hoch in den ersten Stock!“ ([ανεβαίνω]{lang="el"})
+7. Du hältst den Teller hin: „Nimm eine Tomate!“ ([παίρνω]{lang="el"})
+8. Vom Balkon: „Komm!“ ([έρχομαι]{lang="el"})
+9. Jemand will schon gehen: „Bleib!“ ([μένω]{lang="el"})
+10. „Gib mir das Salz!“ ([δίνω]{lang="el"})
+11. „Geh nach Hause!“ ([πάω]{lang="el"})
+
+**Worthilfe:** [ο πρώτος όροφος]{lang="el"} der erste Stock.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Bauform A: [να]{lang="el"}-Form, [-εις → -ες]{lang="el"}, der Plural ist die
+[να]{lang="el"}-Form selbst. Bauform B geht wie Übung 9.1. Dazu die vier Einzelgänger.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Drei Formen haben mit dem Aorist nichts zu tun. Bei einem Verb bleibt im Plural das
+[ε]{lang="el"} vor [-τε]{lang="el"}, bei zweien kommt der Plural von [-είτε]{lang="el"} wie bei
+Bauform A.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+| | du | Sie |
+|---|---|---|
+| 1 | [Πες μου!]{lang="el"} | [Πείτε μου!]{lang="el"} |
+| 2 | [Πιες λίγο νερό!]{lang="el"} | [Πιείτε λίγο νερό!]{lang="el"} |
+| 3 | [Φάε!]{lang="el"} | [Φάτε!]{lang="el"} |
+| 4 | [Μπες!]{lang="el"} | [Μπείτε!]{lang="el"} |
+| 5 | [Κατέβα εδώ!]{lang="el"} | [Κατεβείτε εδώ!]{lang="el"} |
+| 6 | [Ανέβα στον πρώτο όροφο!]{lang="el"} | [Ανεβείτε …]{lang="el"} |
+| 7 | [Πάρε μια ντομάτα!]{lang="el"} | [Πάρτε …]{lang="el"} |
+| 8 | [Έλα!]{lang="el"} | [Ελάτε!]{lang="el"} |
+| 9 | [Μείνε!]{lang="el"} | [Μείνετε!]{lang="el"} |
+| 10 | [Δώσε μου το αλάτι!]{lang="el"} | [Δώστε μου …]{lang="el"} |
+| 11 | [Πήγαινε σπίτι!]{lang="el"} | [Πηγαίνετε σπίτι!]{lang="el"} |
+
+Bei 5 geht auch [Βγες / Βγείτε εδώ]{lang="el"}. Bei 1 passt außerdem der Film [Λέγε!]{lang="el"}
+(@sec-imperativ-aspekt).
+
+**Typische Fehler:** \*[Είπε μου]{lang="el"} heißt „er sagte mir“, \*[Πέσε]{lang="el"} „fall
+hin!“ (von [πέφτω]{lang="el"}). \*[Πήγε]{lang="el"} ist „er ging“, \*[Ανέβηκε]{lang="el"} „er
+stieg hinauf“: Bauform-A-Aoriste taugen nicht als Imperativ. [Φάγε]{lang="el"} und
+[έλθε]{lang="el"} sind kein heutiger Standard. [Πάρε]{lang="el"} ist nur du, gesiezt
+[πάρτε]{lang="el"}; bei [μείνετε]{lang="el"} bleibt das [ε]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -332,7 +457,60 @@ Diese Imperative stehen seit Kapitel 1 als feste Stücke im Buch:
   @sec-imperativ-verbot
 :::
 
-<!-- EXERCISE: Foto oder Film? 8 Situationen mit Nummern-Auswahl (1 Foto, 2 Film), z.B. Schreib mir, wenn du angekommen bist / Schreib mir öfter! / Lies diesen Artikel! / Lies jeden Abend eine Seite! / Iss langsam! (Mahnung beim Essen) / Probier das! / Pass auf, die Straße ist glatt! / Wascht euch immer die Hände vor dem Essen. Mit Begründung und Signalwörtern; Lösung nennt beide Formen. Auswählen mit Begründung, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 9.3: Einmal oder immer wieder?
+
+Foto (1) oder Film (2)? Entscheide und sag den Befehl laut auf Griechisch. Im Chat reicht
+„a1, b2, …“.
+
+a) Schreib mir, wenn du angekommen bist.
+b) Schreib mir öfter!
+c) Lies diese Nachricht!
+d) Lies jeden Abend eine Seite!
+e) Ein Kind schlingt: „Iss langsam!“
+f) Probier das!
+g) Pass auf, die Straße ist glatt!
+h) Wascht euch vor dem Essen immer die Hände.
+i) Mach das Fenster auf, es ist heiß.
+
+**Worthilfen:** [σιγά]{lang="el"} langsam · [γλιστράει]{lang="el"} es ist glatt ·
+[κάνει ζέστη]{lang="el"} es ist heiß.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Frag wie in Kapitel 4: eine bestimmte Handlung? Oder Gewohnheit, Regel, ein Verhalten, das
+gerade läuft? Die Signalwörter helfen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Ein Verb steht in der Liste der festen Film-Imperative. Bei e) isst das Kind schon; es geht um
+das Wie.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**a1, b2, c1, d2, e2, f1, g2, h2, i1.**
+
+- a) [Γράψε μου όταν φτάσεις.]{lang="el"} Eine Nachricht, einmal.
+- b) [Γράφε μου συχνά!]{lang="el"} „Öfter“ ist Wiederholung.
+- c) [Διάβασε αυτό το μήνυμα!]{lang="el"}
+- d) [Διάβαζε μια σελίδα κάθε βράδυ!]{lang="el"} [κάθε βράδυ]{lang="el"} zieht den Film.
+- e) [Τρώγε σιγά!]{lang="el"} Das Essen läuft, gemeint ist die Art.
+- f) [Δοκίμασε αυτό!]{lang="el"} oder [Δοκίμασέ το!]{lang="el"} (@sec-imperativ-pronomen)
+- g) [Πρόσεχε, ο δρόμος γλιστράει!]{lang="el"} Fester Film-Imperativ, auch wenn es um diese
+  eine Stelle geht.
+- h) [Πλένετε πάντα τα χέρια σας πριν από το φαγητό.]{lang="el"} Regel, dazu
+  [πάντα]{lang="el"}; der Plural ist das Präsens.
+- i) [Άνοιξε το παράθυρο, κάνει ζέστη.]{lang="el"}
+
+**Typische Fehler:** a) und b) gleich behandeln, weil das Deutsche beide Male „schreib“ sagt;
+g) als Foto, weil die Warnung nur einmal fällt.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -393,7 +571,73 @@ nie \*[Το μου δίνεις;]{lang="el"}
 Ein Klassiker aus der Taverne, zum Schluss des Abends:
 [Φέρτε μας τον λογαριασμό, παρακαλώ.]{lang="el"} „Bringen Sie uns bitte die Rechnung.“
 
-<!-- EXERCISE: Pronomen anhängen: Teil A Nomen durch Pronomen ersetzen und laut sagen, mit Elision und zweitem Akzent (Πάρε το ψωμί → Πάρ’ το / Δοκίμασε τη σάλτσα → Δοκίμασέ τη / Άφησε τα γεμιστά για αύριο → Άφησέ τα / Φέρε τις πατάτες → Φέρ’ τες / Διάβασε το μήνυμα → Διάβασέ το / Κόψτε τις ντομάτες → Κόψτε τις/τες). Teil B zwei Pronomen, beide Reihenfolgen sagen (Δώσε το κλειδί στη Μαρία → Δώσε της το / Δώσ’ το της; Πες το στον παππού; Φέρτε μας τα πιάτα). Typische Fehler: zweiter Akzent vergessen, Pronomen vor dem Imperativ, *μου το δώσε. Umformen, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 9.4: Kürzer mit Pronomen
+
+**Teil A.** Ersetze das Nomen durch ein Pronomen und sag den Satz laut, mit verschlucktem
+[ε]{lang="el"} und zweitem Akzent, wo sie hingehören.
+
+1. [Πάρε το ψωμί.]{lang="el"}
+2. [Δοκίμασε τη σάλτσα.]{lang="el"} ([η σάλτσα]{lang="el"} die Soße)
+3. [Άφησε τα γεμιστά για αύριο.]{lang="el"}
+4. [Φέρε τις πατάτες.]{lang="el"}
+5. [Διάβασε το μήνυμα.]{lang="el"}
+6. [Ρώτησε τη Μαρία.]{lang="el"}
+7. [Κόψτε τις ντομάτες.]{lang="el"}
+
+**Teil B.** Jetzt beide Objekte als Pronomen, in beiden Reihenfolgen.
+
+1. [Δώσε το κλειδί στη Μαρία.]{lang="el"}
+2. [Πες το νέο στον παππού.]{lang="el"} ([το νέο]{lang="el"} die Neuigkeit)
+3. [Φέρτε μας τα πιάτα.]{lang="el"}
+4. [Διάβασε το παραμύθι στα παιδιά.]{lang="el"} ([το παραμύθι]{lang="el"} das Märchen)
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Erst Genus und Zahl: [το, τη(ν), τα, τες]{lang="el"}. Dann Silben zählen: Die Betonung darf
+nicht weiter als bis zur drittletzten Silbe der ganzen Gruppe rutschen. Der Empfänger
+([στη Μαρία]{lang="el"}) wird zum Genitiv.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zweisilbige Imperative wie [δώσε, φέρτε]{lang="el"} kommen mit einem Pronomen ohne zweiten
+Akzent aus, mit zweien nicht. Kurzformen ([πες, δώσ’]{lang="el"}) brauchen nie einen.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+1. [Πάρ’ το.]{lang="el"} [ˈparto]
+2. [Δοκίμασέ τη.]{lang="el"} [ðoˈcimaˈse ti]
+3. [Άφησέ τα για αύριο.]{lang="el"} [ˈafiˈse ta]
+4. [Φέρ’ τες.]{lang="el"} [ˈfertes]; [Φέρε τις]{lang="el"} ist auch zu hören.
+5. [Διάβασέ το.]{lang="el"} [ˈðʝavaˈse to]
+6. [Ρώτησέ τη.]{lang="el"} [ˈrotiˈse ti]
+7. [Κόψτε τις.]{lang="el"} oder [Κόψτε τες.]{lang="el"} Kein zweiter Akzent: [κόψτε]{lang="el"}
+   hat zwei Silben.
+
+**Teil B** (beide Reihenfolgen sind richtig)
+
+1. [Δώσε τής το.]{lang="el"} / [Δώσ’ το της.]{lang="el"}
+2. [Πες του το.]{lang="el"} / [Πες το του.]{lang="el"}
+3. [Φέρτε μάς τα.]{lang="el"} / [Φέρτε τά μας.]{lang="el"}
+4. [Διάβασέ τους το.]{lang="el"} / [Διάβασέ το τους.]{lang="el"}
+
+Bei 1 und 3 bekommt das erste Pronomen den Akzent, weil der Imperativ auf der vorletzten Silbe
+betont ist und zwei Silben folgen; mit verkürztem [Δώσ’]{lang="el"} fällt das weg. Bei 4 reicht
+der zweite Akzent auf [διάβασέ]{lang="el"}.
+
+**Typische Fehler:** \*[Δοκίμασε τη]{lang="el"} ohne zweiten Akzent; \*[Το πάρε]{lang="el"},
+\*[Μου το δώσε]{lang="el"} mit Pronomen davor (das gibt es nur beim Verbot); \*[Δώσε την
+το]{lang="el"}: Der Empfänger steht im Genitiv, [της]{lang="el"}; \*[Κόψτέ τις]{lang="el"}: ein
+Pronomen nach zweisilbigem Imperativ braucht keinen Akzent.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -462,7 +706,66 @@ Regel ist es nicht.
 :::
 <!-- CHECK: Aussage zur Höflichkeit des Imperativs belegen (z.B. Sifianou, „Politeness Phenomena in England and Greece“, 1992) oder abschwächen -->
 
-<!-- EXERCISE: Bejaht ↔ verneint: Befehle laut ins Verbot umformen und umgekehrt, Aspekt beibehalten oder begründet wechseln (Πάρ’ το! → Μην το πάρεις! / Κλείσε την πόρτα → Μην την κλείσεις / Τρώγε! → Μην τρως! / Πες του το → Μην του το πεις / Ελάτε! → Μην έρθετε! / Διάβαζε κάθε μέρα → Μη διαβάζεις τόσο πολύ / Φάε → Μη φας). Dazu drei deutsche Sätze mündlich: Mach dir keine Sorgen! / Sag es niemandem! (Sie) / Pass auf dich auf! (mit να). Typische Fehler: *μην πάρε, Pronomen hinter dem Verb, *μην έλα. Umformen und mündlich übersetzen, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 9.5: Lieber nicht
+
+**Teil A.** Mach aus dem Befehl ein Verbot und sag es laut. Der Aspekt bleibt.
+
+1. [Πάρ’ το!]{lang="el"}
+2. [Κλείσε την πόρτα.]{lang="el"}
+3. [Τρώγε!]{lang="el"}
+4. [Πες του το.]{lang="el"}
+5. [Ελάτε!]{lang="el"}
+6. [Φάε!]{lang="el"}
+7. [Ανοίγετε το παράθυρο.]{lang="el"}
+
+**Teil B.** Sag es auf Griechisch.
+
+1. Mach dir keine Sorgen! (zu einer Freundin)
+2. Sagen Sie es niemandem!
+3. Pass auf dich auf! (zum Abschied, mit [να]{lang="el"})
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Nach [μη(ν)]{lang="el"} steht, was nach [να]{lang="el"} stünde: zum Foto-Imperativ die
+Foto-Form ([να πάρεις]{lang="el"}), zum Film-Imperativ das Präsens ([τρως]{lang="el"}). Die
+Pronomen wandern nach vorn.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Für [έλα]{lang="el"} und [φάε]{lang="el"} die [να]{lang="el"}-Formen aus Kapitel 5 holen. Das
+[ν]{lang="el"} von [μην]{lang="el"} bleibt vor Vokal und vor [κ π τ]{lang="el"} usw.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+1. [Μην το πάρεις!]{lang="el"}
+2. [Μην κλείσεις την πόρτα.]{lang="el"} Mit Pronomen: [Μην την κλείσεις.]{lang="el"}
+3. [Μην τρως!]{lang="el"} Film: Hör auf zu essen, iss nicht ständig.
+4. [Μην του το πεις.]{lang="el"}
+5. [Μην έρθετε!]{lang="el"}
+6. [Μη φας!]{lang="el"} Foto: Iss (das) nicht. Vor [φ]{lang="el"} fällt das [ν]{lang="el"}.
+7. [Μην ανοίγετε το παράθυρο.]{lang="el"} Eine Regel, wie auf einem Schild.
+
+**Teil B**
+
+1. [Μην ανησυχείς!]{lang="el"} Beim Beruhigen der Film.
+2. [Μην το πείτε σε κανέναν.]{lang="el"} Als Dauerregel geht auch der Film:
+   [Μην το λέτε σε κανέναν.]{lang="el"}
+3. [Να προσέχεις!]{lang="el"}
+
+**Typische Fehler:** \*[Μην πάρε]{lang="el"}, \*[Μην ελάτε]{lang="el"}: Nach
+[μη(ν)]{lang="el"} steht nie ein Imperativ. \*[Μην πάρεις το]{lang="el"}: Das Pronomen gehört
+davor. \*[Δεν το πάρεις]{lang="el"}: Verbote nur mit [μη(ν)]{lang="el"}. \*[Μη φάεις]{lang="el"}:
+Die [να]{lang="el"}-Form heißt [να φας]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -531,7 +834,56 @@ die es nicht mehr gibt, und fast immer die Auskunft „zwei Minuten zu Fuß“.
 [Περαστικά!]{lang="el"}, von [περνάω]{lang="el"} „vorbeigehen“, wünscht, dass es vorübergeht:
 „Gute Besserung.“ Das sagt man jedem, der krank ist, auch Fremden.
 
-<!-- EXERCISE: Wegbeschreibung verstehen und geben: Teil A drei kurze Wegbeschreibungen (griechisch, Sie-Form) zu einem in Worten beschriebenen Straßenraster; Leser wählt das Ziel (a/b/c: Museum, Bäckerei, Bushaltestelle). Teil B: eine Wegbeschreibung vom Deutschen mündlich ins Griechische, einmal zu einem Freund (du), einmal zu einer älteren Dame (Sie): Geh geradeaus bis zur Kirche, bieg links ab, geh über die Straße, die Bäckerei ist an der Ecke. Typische Fehler: Singular/Plural gemischt, *στρίψε im Sie-Kontext, *πήγε für πήγαινε. Verstehen und mündlich übersetzen, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 9.6: Nicht zu verfehlen
+
+**Teil A.** Du stehst auf dem Platz am Kiosk. Geradeaus führt eine Straße zu einer Ampel. Biegt
+man dort rechts ab, liegt zwei Seitenstraßen weiter das **Museum** (a). Links um die Ecke ist
+gleich die **Bäckerei** (b). Geradeaus über die Ampel hinaus steht auf der anderen Straßenseite
+eine Kirche, davor die **Bushaltestelle** (c). Wohin führt welche Beschreibung? Im Chat reicht
+„1a, …“.
+
+1. [Πηγαίνετε ευθεία μέχρι το φανάρι και στρίψτε αριστερά. Είναι στη γωνία.]{lang="el"}
+2. [Στο φανάρι στρίψτε δεξιά και προχωρήστε δύο στενά.]{lang="el"}
+3. [Πηγαίνετε ευθεία, μετά το φανάρι περάστε απέναντι. Είναι μπροστά στην εκκλησία.]{lang="el"}
+
+**Teil B.** Sag laut: „Geh geradeaus bis zur Kirche, bieg links ab und geh über die Straße. Die
+Bäckerei ist an der Ecke.“ Einmal zu einem Freund, einmal zu einer älteren Dame.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Es kommt nur auf [δεξιά, αριστερά]{lang="el"} und [απέναντι]{lang="el"} an. Teil B: Die
+Dame wird gesiezt, und zwar in jedem Verb.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[πάω]{lang="el"} leiht sich den Imperativ. [περνάω]{lang="el"} (Aorist [πέρασα]{lang="el"}) und
+[στρίβω]{lang="el"} ([έστριψα]{lang="el"}) sind regelmäßig.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1b, 2a, 3c.**
+
+**Teil B**
+
+- du: [Πήγαινε ευθεία μέχρι την εκκλησία, στρίψε αριστερά και πέρασε απέναντι. Ο φούρνος
+  είναι στη γωνία.]{lang="el"}
+- Sie: [Πηγαίνετε ευθεία μέχρι την εκκλησία, στρίψτε αριστερά και περάστε απέναντι. Ο φούρνος
+  είναι στη γωνία.]{lang="el"}
+
+Statt [πήγαινε / πηγαίνετε]{lang="el"} geht auch [προχωρήστε]{lang="el"} (Sie). Im Alltag hört
+man außerdem [Πάτε ευθεία]{lang="el"}, das Präsens als Anweisung.
+
+**Typische Fehler:** mitten im Satz zum Du wechseln (\*[στρίψε]{lang="el"} zur Dame);
+\*[Πήγε ευθεία]{lang="el"} heißt „er ging geradeaus“; \*[στρίβε]{lang="el"}: Film passt nicht zu
+einem einzelnen Abbiegen.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -597,6 +949,58 @@ Die Szene: Eine Familie fährt an einem Samstagmorgen ans Meer.
 — Κράτα λίγο. Σε δέκα λεπτά έχει βενζινάδικο.
 :::
 
+::: {.callout-note .exercise}
+## Übung 9.7: Hör-Auftrag
+
+**Schritt 1.** Hör die Szene zweimal mit ▶, ohne den Text aufzuklappen. Wie viele Imperative
+hörst du, wie viele Verbote? Ordne jeden Befehl ein: Foto du, Foto ihr, Film, Verbot oder gar kein
+Imperativ. Und wer sagt es zu wem?
+
+**Schritt 2.** Such auf YouTube nach [γεμιστά συνταγή]{lang="el"} und wähl ein griechisches
+Kochvideo mit Sprecher, oder auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) ein Video
+zum Suchwort [φαγητό]{lang="el"}. Hör drei Minuten ohne Untertitel und mach Striche: einen für
+jeden Imperativ im Plural ([κόψτε, βάλτε, ρίξτε]{lang="el"}), einen für jede wir-Form im Präsens
+([κόβουμε, βάζουμε]{lang="el"}). Dann mit Untertiteln nachzählen, falls es welche gibt.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Befehle stehen meist gleich hinter einem Namen oder am Satzanfang. Drei Rufe fordern auf, sind
+aber keine Imperativformen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Es sind sieben Imperative und zwei Verbote. Nur einer der Imperative ist Plural.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Schritt 1**
+
+- **Foto, ihr:** [Μπείτε]{lang="el"}, an die Kinder.
+- **Foto, du:** [άσε, βάλε, Κάνε ησυχία]{lang="el"}, die Mutter an Nikos. [κάνε]{lang="el"}
+  sähe im Film genauso aus, wie [έκανα]{lang="el"} in Kapitel 4.
+- **Film:** [πρόσεχε]{lang="el"} (Mutter an Giorgos am Steuer), [σταμάτα]{lang="el"} (ein Kind
+  an den Vater), [Κράτα λίγο]{lang="el"} (ein Elternteil ans Kind).
+- **Verbot, Film:** [Μη φωνάζεις]{lang="el"} (Giorgos an die Mutter), [μην τρέχεις]{lang="el"}
+  (sie an ihn). Gemeint ist ein Verhalten, nicht ein einzelner Schrei.
+- **kein Imperativ:** [Άντε]{lang="el"} (Antreiber), [πάμε]{lang="el"} (wir-Form im Präsens),
+  [Φτάνει]{lang="el"} (Präsens von [φτάνω]{lang="el"}); mehr dazu in @sec-imperativ-rufe.
+
+Oft überhört: [άσε την]{lang="el"}, das zu [ˈasetin] verschmilzt.
+
+**Schritt 2:** Eine feste Zahl gibt es nicht; viele Rezepte mischen beide Formen. Der Foto-Plural
+endet auf [-στε, -ψτε, -ξτε]{lang="el"} mit Betonung direkt davor, die wir-Form auf
+[-ουμε]{lang="el"}. [θα βάλουμε]{lang="el"} „wir geben dazu“ zählt als wir-Form. Film-Plurale wie
+[ανακατεύετε]{lang="el"} klingen wie das Präsens; ob Anweisung oder Feststellung, zeigt der
+Zusammenhang.
+:::
+<!-- CHECK: „Viele griechische Rezepte (Kochbücher, Kochvideos) erklären in der 1. Person Plural Präsens (κόβουμε, βάζουμε)“ – als Tendenz zutreffend? -->
+
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
 
@@ -656,8 +1060,6 @@ Die Szene: Eine Familie fährt an einem Samstagmorgen ans Meer.
   Kapitel 7) oder [παιδιά]{lang="el"}. Achte beim Hören auf die Betonung: Gerufene Imperative
   tragen den Satzakzent vorn, [**Άν**τε, παιδιά!]{lang="el"}
 
-<!-- EXERCISE: Hör-Auftrag. Schritt 1: die .listen-Szene in @sec-imperativ-hoerspur zweimal ohne Text hören, alle Befehle und Verbote zählen und einordnen (Foto du / Foto ihr / Film / Verbot Film / kein Imperativ; Lösung: Άντε, πάμε, Μπείτε, άσε, βάλε, Κάνε, πρόσεχε, Μη φωνάζεις, μην τρέχεις, σταμάτα, Κράτα; Φτάνει und Πάμε keine Imperative im engeren Sinn), dazu: wer zu wem? Schritt 2: auf YouTube nach „γεμιστά συνταγή“ ein griechisches Kochvideo suchen (oder Easy Greek, https://www.youtube.com/@EasyGreekVideos, Suchwort „φαγητό“); drei Minuten ohne Untertitel Striche für Imperative (κόψτε, βάλτε, ρίξτε) und für wir-Formen im Präsens (κόβουμε, βάζουμε), da viele griechische Rezepte in der wir-Form erklären; dann mit Untertiteln prüfen. Lösung Schritt 2 ohne feste Zahl, mit Auswertungshilfe. Keine erfundenen Video-URLs. Hörverstehen, Schwierigkeit 2 -->
-<!-- CHECK: „Viele griechische Rezepte (Kochbücher, Kochvideos) erklären in der 1. Person Plural Präsens (κόβουμε, βάζουμε)“ – als Tendenz zutreffend? -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -792,7 +1194,80 @@ und [Ζέστανέ τα]{lang="el"} zeigen den zweiten Akzent, [Πάρ’ το]
 [ε]{lang="el"}.
 <!-- CHECK: „Τάιζέ τη“: Imperativ τάιζε (ταΐζω) + τη – Akzent/Trema korrekt? (τά-ι-ζε drei Silben, daher zweiter Akzent); „φάε τα“ (oder „φά’ τα“) übliche Schreibung? „διψάνε“ als umg. 3. Pl. von διψάω -->
 
-<!-- EXERCISE: Leseverstehen zum Zettel: Teil A richtig/falsch zu 7 Aussagen (Lola bekommt dreimal am Tag Futter / Die Pflanzen soll man mittags gießen / Die Gemista gehören in die Mikrowelle / Die Nachbarin bringt Essen / Man kann ihr leicht absagen / Auf der Insel ist der Handyempfang schlecht / Lola hat morgens um sieben gegessen). Teil B: alle Imperative und Verbote des Textes sammeln und sortieren: Foto, Film, Verbot Foto, Verbot Film, mit kurzer Begründung (Τάιζε – jeden Tag; μην την πιστέψεις – der eine Blick …). Teil C: den Zettel laut umformulieren für zwei Freunde (Plural: Ταΐζετέ τη?, Ζεστάνετέ τα, Πάρτε το …) – Achtung zweiter Akzent im Plural nur bei viertletzter Silbe. Leseverstehen und Umformen, Schwierigkeit 2–3 -->
+::: {.callout-note .exercise}
+## Übung 9.8: Was der Text wirklich sagt
+
+**Teil A: richtig oder falsch?** Im Chat reicht „1r, 2f, …“.
+
+1. Lola bekommt dreimal am Tag Futter.
+2. Die Pflanzen soll Giannis mittags gießen.
+3. Die Gemista soll er in der Mikrowelle aufwärmen.
+4. Die Nachbarin kommt mit Essen vorbei.
+5. Frau Rena kann man gut absagen.
+6. Auf der Insel ist Anna nicht immer erreichbar.
+7. Wenn Lola Hunger zeigt, soll Giannis ihr etwas geben.
+
+**Teil B: Schubladen.** 1 Foto, 2 Film, 3 Verbot Foto, 4 Verbot Film. Im Chat: „a2, …“.
+
+a) [Τάιζέ τη]{lang="el"}
+b) [Άλλαζε]{lang="el"}
+c) [Μην της δίνεις]{lang="el"}
+d) [μην την πιστέψεις]{lang="el"}
+e) [μην αφήνεις]{lang="el"}
+f) [Ζέστανέ τα]{lang="el"}
+g) [Μην προσπαθήσεις]{lang="el"}
+h) [κλείσε]{lang="el"}
+i) [πήγαινε]{lang="el"}
+
+**Teil C.** Anna schreibt den Zettel für zwei Freunde. Sag im Plural:
+
+1. [Τάιζέ τη δύο φορές τη μέρα.]{lang="el"}
+2. [Μην της δίνεις από το φαγητό σου.]{lang="el"}
+3. [Πάρ’ το και πες ευχαριστώ.]{lang="el"}
+4. [Πίστεψέ με.]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Achte auf [δύο φορές, όχι το μεσημέρι, το σήμα]{lang="el"} und das Υ.Γ. Teil B: jeden
+Tag, zehn Tage lang oder einmal? Teil C: Film-Plural = Präsens, Foto-Plural auf
+[-τε]{lang="el"}, und aus [σου]{lang="el"} wird [σας]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil B: Eine Form ist Film, weil ihr Verb kein Foto hat. Teil C: Nur eine der vier Pluralformen
+braucht einen zweiten Akzent.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1f, 2f, 3f, 4r, 5f, 6r, 7f.** Zu 1: [δύο φορές τη μέρα]{lang="el"}. Zu 2:
+[κάθε βράδυ, όχι το μεσημέρι]{lang="el"}. Zu 3: [στον φούρνο, όχι στα μικροκύματα]{lang="el"}.
+Zu 5: [Κανείς δεν μπορεί να πει όχι.]{lang="el"} Zu 6: [το σήμα έρχεται και φεύγει]{lang="el"}.
+Zu 7: [μην την πιστέψεις]{lang="el"}.
+
+**Teil B: a2, b2, c4, d3, e4, f1, g3, h1, i2.** a und b sind Gewohnheit, c und e Regeln für die
+ganzen zehn Tage. d warnt vor dem einen Blick, g vor dem einen Versuch. f und h sind einmalige
+Handlungen. i ist Film nur, weil [πάω]{lang="el"} kein Foto hat. Typischer Fehler: a als Foto,
+weil „zweimal“ gezählt klingt. Aber zweimal am Tag, jeden Tag: Regelmäßig ist Film.
+
+**Teil C**
+
+1. [Ταΐζετέ τη δύο φορές τη μέρα.]{lang="el"} [taˈizeˈte ti]: Präsens [ταΐζετε]{lang="el"}, auf
+   der drittletzten Silbe betont, also zweiter Akzent. [Ταΐστε τη]{lang="el"} wäre das Foto,
+   einmal füttern.
+2. [Μην της δίνετε από το φαγητό σας.]{lang="el"}
+3. [Πάρτε το και πείτε ευχαριστώ.]{lang="el"}
+4. [Πιστέψτε με.]{lang="el"} Kein zweiter Akzent, die Betonung liegt schon auf der vorletzten
+   Silbe.
+
+**Typische Fehler:** \*[Πίστεψτέ με]{lang="el"} mit Singularbetonung; [σου]{lang="el"} stehen
+lassen; \*[Πάρε το]{lang="el"} im Plural.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
