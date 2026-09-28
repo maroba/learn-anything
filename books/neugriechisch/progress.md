@@ -32,7 +32,7 @@
 | 26 Wortbildung I: Präfixe und Verkleinerungen | veröffentlicht | Welle 12; Audio vollständig |
 | 27 Wortbildung II: die Sprache der Wissenschaft | veröffentlicht | Welle 13; Audio läuft |
 | 28 Nachrichtensprache | veröffentlicht | Welle 13; Audio ausstehend |
-| 29 Argumentieren | fertig | Welle 11; wartet auf 26–28 |
+| 29 Argumentieren | veröffentlicht | Welle 12; Audio ausstehend |
 | 30 Redewendungen | fertig | Welle 12; wartet auf 27–29 |
 | 31 Vom Amt bis zur Taverne: Register und Höflichkeit | überarbeitet | Welle 14; Konsistenz nach 28 |
 | 32 Kreta und Zypern hören | fertig | Welle 12; wartet auf 27–31 |
