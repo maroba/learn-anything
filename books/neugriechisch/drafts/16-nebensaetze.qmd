@@ -259,15 +259,15 @@ wenn das Spanische hier den Subjuntivo will.
 
 **1a, 2c, 3b, 4c, 5a, 6b, 7c, 8a.**
 
-- 1 und 3: [λέει ότι γυρίζει]{lang="el"} berichtet (*dice que vuelve*), [λέει στον Νίκο να
-  την πάρει]{lang="el"} verlangt (*le dice que la recoja*): Subjuntivo entspricht hier
+- 1 und 3: [λέει ότι γυρίζει]{lang="el"} berichtet ([*dice que vuelve*]{lang="es"}), [λέει στον Νίκο να
+  την πάρει]{lang="el"} verlangt ([*le dice que la recoja*]{lang="es"}): Subjuntivo entspricht hier
   [να]{lang="el"}.
-- 2, 4, 7: Gefühl über eine Tatsache, also [που]{lang="el"}. Die Falle: *me alegro de que
-  vuelvas* verführt zu \*[χαίρομαι να γυρίζεις]{lang="el"}; „ich freue mich, dass“ zu
+- 2, 4, 7: Gefühl über eine Tatsache, also [που]{lang="el"}. Die Falle: [*me alegro de que
+  vuelvas*]{lang="es"} verführt zu \*[χαίρομαι να γυρίζεις]{lang="el"}; „ich freue mich, dass“ zu
   [ότι]{lang="el"}, das vorkommt, aber weniger idiomatisch ist. In 4 steht sogar
   [θα]{lang="el"}: Das Fehlen am Sonntag steht fest, also ist es eine Tatsache.
 - 5, 8: Wissen und Meinen, also [ότι]{lang="el"} oder [πως]{lang="el"}, beide richtig
-  (*creo que* + Indikativ).
+  ([*creo que*]{lang="es"} + Indikativ).
 - 6: [θέλω να]{lang="el"} aus Kapitel 5.
 :::
 
@@ -507,7 +507,7 @@ In 6 bis 8 steht kein [θα]{lang="el"} im Nebensatz.
 1. [έκλεισαν]{lang="el"}: ein Ereignis, Foto.
 2. [ανοίξουν]{lang="el"}: nach [πριν]{lang="el"} die [να]{lang="el"}-Form, auch in der
    Vergangenheit. \*[πριν άνοιξαν]{lang="el"} ist der typische Fehler; das Spanische hilft:
-   *antes de que abrieran*, Subjuntivo.
+   [*antes de que abrieran*]{lang="es"}, Subjuntivo.
 3. [βλέπαμε]{lang="el"}: jedes Mal, wenn; Film wie in Kapitel 4. [είδαμε]{lang="el"} passt nicht
    zu [αφήναμε]{lang="el"}.
 4. [έφτασα]{lang="el"}: [μόλις]{lang="el"} mit Foto, „kaum war ich da“.
@@ -645,7 +645,7 @@ perfektiven Stamm. In Teil B sind 1, 2 und 4 falsch, 3 klingt unnatürlich.
 3. [… επειδή η τράπεζα ήταν κλειστή.]{lang="el"} Deutsche Wortstellung; neutral steht das Verb
    vorn. Mit Nachdruck klingt [επειδή ΚΛΕΙΣΤΗ ήταν η τράπεζα]{lang="el"} natürlicher.
 4. [Χαίρομαι που γύρισες.]{lang="el"} Das Zurückkommen ist Tatsache, also kein
-   [να]{lang="el"}, auch wenn *me alegro de que hayas vuelto* dazu verführt.
+   [να]{lang="el"}, auch wenn [*me alegro de que hayas vuelto*]{lang="es"} dazu verführt.
 :::
 
 ::: {.vocab}
@@ -718,7 +718,7 @@ Kontrast, oft mit verschiedenem Subjekt oder Zeitpunkt. Obwohl: das Ergebnis ist
 ## Hinweis 2
 
 In 3 hätte man erwartet, dass er bleibt. In Teil B folgt auf [αν και]{lang="el"} ein normales
-Verb, gleich was das Französische mit *bien que* verlangt.
+Verb, gleich was das Französische mit [*bien que*]{lang="fr"} verlangt.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -741,7 +741,7 @@ verschiebt den Sinn nur leicht.
 10. [Πληρώνω πολύ νοίκι, ενώ ο αδερφός μου μένει με τους γονείς μας.]{lang="el"} Auch
     [… στο σπίτι των γονιών μας]{lang="el"}. Zwei Tatsachen im Kontrast, also normales Verb.
 
-**Typischer Fehler:** \*[αν και να …]{lang="el"} nach dem Muster *bien que* + Subjonctif. In 7,
+**Typischer Fehler:** \*[αν και να …]{lang="el"} nach dem Muster [*bien que*]{lang="fr"} + Subjonctif. In 7,
 8 und 9 geht auch [ενώ]{lang="el"}.
 :::
 
@@ -994,8 +994,7 @@ beim Nachprüfen wiederzufinden ist ein gutes Ergebnis; im echten Tempo verschwi
 
 Το καλοκαίρι του 2015 οι τράπεζες έκλεισαν για τρεις εβδομάδες. Μέχρι να ανοίξουν ξανά, κάθε
 κάρτα έδινε μόνο εξήντα ευρώ την ημέρα. Και για πολύ καιρό μετά μπορούσες να βγάλεις μόνο λίγα
-λεφτά. Πολλοί θυμούνται ακόμα τις ουρές, αν και θα ήθελαν να τις
-ξεχάσουν.
+λεφτά. Πολλοί θυμούνται ακόμα τις ουρές, αν και θα ήθελαν να τις ξεχάσουν.
 
 Τον Αύγουστο του 2018 τελείωσε το τελευταίο μνημόνιο. Η οικονομία μεγαλώνει ξανά, και αρκετοί από
 αυτούς που έφυγαν έχουν γυρίσει. Αλλά όταν ρωτάς κάποιον για εκείνα τα χρόνια, συνήθως σωπαίνει
@@ -1060,8 +1059,7 @@ Arbeit suchten, mehr als die Hälfte.
 
 Hunderttausende Menschen, vor allem junge, gingen ins Ausland, um Arbeit zu finden. Viele gingen,
 ohne es zu wollen. Viele von denen, die blieben, zogen zurück zu den Eltern, weil sie keine Miete
-zahlen konnten. In
-vielen Familien wurde die Rente der Großmutter zum Gehalt des ganzen Haushalts.
+zahlen konnten. In vielen Familien wurde die Rente der Großmutter zum Gehalt des ganzen Haushalts.
 
 Die Krise veränderte auch kleine Dinge. Weil Heizöl sehr teuer wurde, zündeten viele wieder ihre
 Kamine an. In den Wintern bedeckte eine graue Wolke Athen, und die Ärzte sagten älteren
@@ -1072,8 +1070,8 @@ kostenlos alle untersuchten, die keine Versicherung hatten. Nachbarschaften samm
 für Familien, die nichts hatten.
 
 Im Sommer 2015 schlossen die Banken für drei Wochen. Bis sie wieder aufmachten, gab jede Karte
-nur sechzig Euro am Tag. Und noch lange danach konnte man nur wenig Geld abheben. Viele erinnern sich noch an die Schlangen, obwohl sie sie gern vergessen
-würden.
+nur sechzig Euro am Tag. Und noch lange danach konnte man nur wenig Geld abheben. Viele erinnern
+sich noch an die Schlangen, obwohl sie sie gern vergessen würden.
 
 Im August 2018 endete das letzte Memorandum. Die Wirtschaft wächst wieder, und einige von denen,
 die gegangen waren, sind zurückgekommen. Aber wenn man jemanden nach diesen Jahren fragt, schweigt
@@ -1103,11 +1101,9 @@ gestritten.
   Wintern Feinstaubsmog aus Kaminen und Holzöfen gemessen.
 
 Zum Nachlesen: die Zeitreihen von ELSTAT und Eurostat; eine gut lesbare Gesamtdarstellung ist
-Kevin Featherstone und Dimitri A. Sotiropoulos (Hg.), *The Oxford Handbook of Modern Greek
-Politics* (2020).
+Kevin Featherstone und Dimitri A. Sotiropoulos (Hg.), [*The Oxford Handbook of Modern Greek
+Politics*]{lang="en"} (2020).
 :::
-
-
 
 ::: {.callout-note .exercise}
 ## Übung 16.8: Nach dem Lesen

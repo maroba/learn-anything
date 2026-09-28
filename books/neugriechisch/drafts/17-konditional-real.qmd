@@ -197,7 +197,62 @@ ganz normal der Aorist oder das Imperfekt: [Αν έφυγε στις οχτώ, �
 Signal für den irrealen Satz, „wenn ich hätte, würde ich“ (Kapitel 24). Bis dahin reicht es, ihn
 zu erkennen.
 
-<!-- EXERCISE: Aspekt nach αν wählen (Präsens oder perfektive Form), kurze Alltagssituationen rund um Umzug und Amt, Auswahl mit Begründung (1/2), inkl. Verben ohne Wahl (έχω, είμαι, ξέρω), Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 17.1: Foto oder Film?
+
+Setz das Verb laut in die passende Form: Präsens (Film) oder perfektive Form (Foto)? Bei manchen
+Verben gibt es keine Wahl. Im Chat reicht „1F, 2P …“.
+
+::: {lang="el" .no-audio}
+1. Αν \_\_\_ (βρίσκω) διαμέρισμα με θέα, πάρ’ το αμέσως.
+2. Αν \_\_\_ (είμαι) κουρασμένος, μείνε σπίτι· η εφορία δε φεύγει.
+3. Αν ο ιδιοκτήτης \_\_\_ (ζητάω) ΑΦΜ, πες του ότι θα τον βγάλεις αύριο.
+4. Αν \_\_\_ (ψάχνω) ακόμα σπίτι, ρώτα τον ξάδερφό μου.
+5. Αν \_\_\_ (ξέρω) πού είναι η εφορία, πήγαινε μόνος σου.
+6. Αν \_\_\_ (χάνω) το διαβατήριο, θα έχεις μεγάλο πρόβλημα.
+7. Αν \_\_\_ (μετακομίζω) κάθε χρόνο, αλλάζεις κάθε χρόνο και διεύθυνση.
+8. Αν σε \_\_\_ (ρωτάω) κάτι δύσκολο ο υπάλληλος, χαμογέλα.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Muss erst etwas passieren, bevor die Folge kommt (Foto)? Oder ist es ein Zustand, etwas
+Laufendes oder Wiederholtes (Film)?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Drei Verben haben keinen perfektiven Stamm. In 4 steht [ακόμα]{lang="el"} „noch“, in 7
+[κάθε χρόνο]{lang="el"}: Beides spricht für den Film.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1F, 2P, 3F, 4P, 5P, 6F, 7P, 8F.**
+
+::: {lang="el"}
+1. Αν βρεις διαμέρισμα με θέα, πάρ’ το αμέσως.
+2. Αν είσαι κουρασμένος, μείνε σπίτι.
+3. Αν ο ιδιοκτήτης ζητήσει ΑΦΜ, πες του ότι θα τον βγάλεις αύριο.
+4. Αν ψάχνεις ακόμα σπίτι, ρώτα τον ξάδερφό μου.
+5. Αν ξέρεις πού είναι η εφορία, πήγαινε μόνος σου.
+6. Αν χάσεις το διαβατήριο, θα έχεις μεγάλο πρόβλημα.
+7. Αν μετακομίζεις κάθε χρόνο, αλλάζεις κάθε χρόνο και διεύθυνση.
+8. Αν σε ρωτήσει κάτι δύσκολο ο υπάλληλος, χαμογέλα.
+:::
+
+- 1, 3, 6, 8: einzelne Ereignisse, erst dann die Folge. \*[Αν βρίσκεις διαμέρισμα]{lang="el"}
+  hieße „wenn du immer wieder Wohnungen findest“.
+- 2 und 5: [είμαι, ξέρω]{lang="el"} haben nur das Präsens. 4: Die Suche läuft schon. 7: eine
+  Wiederholung.
+
+**Typische Fehler:** das Augment mitnehmen (\*[αν έχασες]{lang="el"} heißt „wenn du verloren
+hast“, Vergangenheit); [να]{lang="el"} einschieben (\*[αν να βρεις]{lang="el"}).
+:::
 
 ::: {.callout-note collapse="true" .vocab-text}
 ## Wortschatz zum Text
@@ -237,7 +292,65 @@ musst es verstehen, nicht nachahmen; [Αν αργήσεις]{lang="el"} ist imme
 
 <!-- CHECK: „αν θα“ in realen Bedingungssätzen (Absicht/Vorhersage im Moment des Sprechens): Beschreibung in HMP-CG prüfen; Beispiel „Αν θα αργήσεις, πάρε με τηλέφωνο“ idiomatisch? -->
 
-<!-- EXERCISE: Fehler finden und laut korrigieren (*αν θα, falscher Aspekt nach αν, θα in der Bedingung vs. αν = ob mit korrektem θα), 6–8 Sätze, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 17.2: Wo ist der Fehler?
+
+Welche Sätze sind richtig, welche falsch? Sprich die falschen laut korrigiert. Im Chat:
+„1f, 2r …“.
+
+::: {lang="el" .no-audio}
+1. Αν θα βρεις σπίτι, πες μου.
+2. Δεν ξέρω αν θα μου δώσουν ΑΦΜ σήμερα.
+3. Αν φτάσεις στις έντεκα, θα περιμένεις ώρες.
+4. Θα σε πάρω τηλέφωνο, αν θα χρειαστώ κάτι.
+5. Αν βρίσκεις αύριο το διαβατήριο, θα πάμε μαζί στην εφορία.
+6. Ρώτησέ τον αν θα έρθει αύριο.
+7. Αν να έχεις χρόνο, έλα για καφέ.
+8. Όταν θα φτάσεις στο γκισέ, χαμογέλα.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Drei Sätze sind richtig. Bei jedem [αν θα]{lang="el"}: Passt „ob“ oder nur „falls“?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zwei Fehler haben nichts mit [θα]{lang="el"} zu tun: ein falscher Aspekt und ein Wort, das
+hinter [αν]{lang="el"} nichts verloren hat. Satz 8 folgt derselben Regel wie
+[αν]{lang="el"} (Kapitel 16).
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1f, 2r, 3r, 4f, 5f, 6r, 7f, 8f.**
+
+::: {lang="el"}
+1\. Αν βρεις σπίτι, πες μου.
+
+4\. Θα σε πάρω τηλέφωνο, αν χρειαστώ κάτι.
+
+5\. Αν βρεις αύριο το διαβατήριο, θα πάμε μαζί στην εφορία.
+
+7\. Αν έχεις χρόνο, έλα για καφέ.
+
+8\. Όταν φτάσεις στο γκισέ, χαμογέλα.
+:::
+
+- 1, 4, 8: „falls/wenn“, also kein [θα]{lang="el"}. In 4 steht [αν]{lang="el"} hinten, die Regel
+  gilt trotzdem.
+- 2 und 6: „ob“ (ich weiß nicht, ob …; frag ihn, ob …). Hier ist [θα]{lang="el"} richtig, wie
+  in [*no sé si vendrá*]{lang="es"}.
+- 5: Das Finden ist ein Ereignis, das erst eintreten muss: Foto.
+- 7: Hinter [αν]{lang="el"} steht die Form ohne [να]{lang="el"}; [έχω]{lang="el"} bleibt Präsens.
+
+**Typischer Fehler:** in 2 und 6 das [θα]{lang="el"} „wegkorrigieren“. \*[Δεν ξέρω αν μου
+δώσουν]{lang="el"} klingt unfertig.
+:::
 
 ## Wenn: [αν]{lang="el"} oder [όταν]{lang="el"}? {#sec-bedingung-an-otan}
 
@@ -273,7 +386,60 @@ nimmt nach beiden Wörtern dieselbe Form: [αν φτάσεις, όταν φτά�
 [αν]{lang="el"}.
 :::
 
-<!-- EXERCISE: αν oder όταν? Deutsche wenn-Sätze aus der Umzugssituation zuordnen, mit falls-Probe, danach 3–4 Sätze mündlich übersetzen, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 17.3: Falls oder sobald?
+
+**Teil A.** [αν]{lang="el"} oder [όταν]{lang="el"}? Mach bei jedem Satz die „falls“-Probe. Im
+Chat: „1O, 2A …“.
+
+1. Wenn ich in Thessaloniki ankomme, rufe ich dich an. (Das Ticket ist gekauft.)
+2. Wenn der Vermieter keine Steuernummer verlangt, unterschreibe ich sofort.
+3. Wenn du Glück hast, bist du in einer Stunde fertig.
+4. Wenn ich das Konto eröffnet habe, bezahle ich den Vermieter.
+5. Wenn ich früher zum Finanzamt ging, wartete ich jedes Mal Stunden.
+6. Wenn du nicht um acht dort bist, nimm ein Buch mit.
+
+**Teil B.** Übersetze 1, 2, 3 und 6 laut.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+„Falls ich in Thessaloniki ankomme“ klingt nach Flugangst. Wo „falls“ den Sinn nicht ändert,
+ist es [αν]{lang="el"}. In der Vergangenheit heißt „jedes Mal, wenn“ immer [όταν]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Nach beiden Wörtern dieselbe Form, ohne [θα]{lang="el"}: [φτάσω]{lang="el"},
+[ζητήσει]{lang="el"}. Verneint wird mit [δεν]{lang="el"}. „Glück haben“ ist
+[είμαι τυχερός]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1O, 2A, 3A, 4O, 5O, 6A.** 4 geht auch mit [αν]{lang="el"}, wenn offen ist, ob die
+Bank mitspielt. 5: Vergangenheit, „jedes Mal“, also [όταν]{lang="el"} + Imperfekt.
+
+**Teil B**
+
+::: {lang="el"}
+1\. Όταν φτάσω στη Θεσσαλονίκη, θα σε πάρω τηλέφωνο.
+
+2\. Αν ο ιδιοκτήτης δε ζητήσει ΑΦΜ, θα υπογράψω αμέσως.
+
+3\. Αν είσαι τυχερός, θα τελειώσεις σε μια ώρα.
+
+6\. Αν δεν είσαι εκεί στις οχτώ, πάρε μαζί σου ένα βιβλίο.
+:::
+
+Auch richtig: in 2 [δε θέλει]{lang="el"}, in 3 [τυχερή]{lang="el"} für eine Frau.
+
+**Typische Fehler:** \*[Όταν δε ζητήσει …]{lang="el"} (die Ablehnung stünde schon fest);
+\*[αν μη]{lang="el"} statt [αν δεν]{lang="el"}; \*[όταν θα φτάσω]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -337,7 +503,60 @@ Zeigt ein Nebensatz mit [αν, όταν, μόλις, αφού, πριν, μέχ�
 steht darin **kein [θα]{lang="el"}**. Das [θα]{lang="el"} gehört in den Hauptsatz.
 :::
 
-<!-- EXERCISE: Lückentext „Checkliste für den Umzug“: Verben in die richtige Form nach όταν, μόλις, αφού, πριν, μέχρι να, όσο, αν setzen (perfektive Form / Präsens, kein θα), Begründung im Kopf, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 17.4: Checkliste für den Umzug
+
+Setz die Verben laut ein. Bei 7 gibt es zwei Lücken.
+
+::: {lang="el" .no-audio}
+1. Πριν \_\_\_ (υπογράφω) το συμβόλαιο, διάβασέ το δύο φορές.
+2. Μόλις \_\_\_ (παίρνω) τα κλειδιά, στείλε μου μια φωτογραφία από τη θέα.
+3. Όσο \_\_\_ (ψάχνω) σπίτι, μείνε σε ξενοδοχείο.
+4. Αφού \_\_\_ (ανοίγω) λογαριασμό, δώσε τον αριθμό στον ιδιοκτήτη.
+5. Μέχρι να \_\_\_ (έρχομαι) το κρεβάτι, θα κοιμάσαι στον καναπέ.
+6. Αν ο ιδιοκτήτης \_\_\_ (ζητάω) κι άλλα χαρτιά, πάρε με τηλέφωνο.
+7. Όταν \_\_\_ (τελειώνω) με όλα, \_\_\_ (κάνω) πάρτι.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Nur eine Konjunktion verlangt das Präsens. Sonst gilt: Schritt, der abgeschlossen sein muss, also
+Foto.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Die zweite Lücke in 7 steht im Hauptsatz; dort darf [θα]{lang="el"} stehen. Perfektive Stämme:
+[υπέγραψα, πήρα, άνοιξα, ήρθα, τελείωσα]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+::: {lang="el"}
+1. Πριν υπογράψεις το συμβόλαιο, διάβασέ το δύο φορές.
+2. Μόλις πάρεις τα κλειδιά, στείλε μου μια φωτογραφία από τη θέα.
+3. Όσο ψάχνεις σπίτι, μείνε σε ξενοδοχείο.
+4. Αφού ανοίξεις λογαριασμό, δώσε τον αριθμό στον ιδιοκτήτη.
+5. Μέχρι να έρθει το κρεβάτι, θα κοιμάσαι στον καναπέ.
+6. Αν ο ιδιοκτήτης ζητήσει κι άλλα χαρτιά, πάρε με τηλέφωνο.
+7. Όταν τελειώσεις με όλα, θα κάνεις πάρτι.
+:::
+
+- 3: [όσο]{lang="el"} „solange“ beschreibt einen Zustand: Präsens. \*[όσο ψάξεις]{lang="el"}
+  geht nicht.
+- 5: Das Subjekt ist [το κρεβάτι]{lang="el"}, also 3. Person. In der Folge
+  [θα κοιμάσαι]{lang="el"}: [θα]{lang="el"} + Präsens für die Wartezeit.
+- 7: Im Hauptsatz auch [κάνε πάρτι]{lang="el"} (Imperativ) oder [κάνεις πάρτι]{lang="el"} wie
+  [κερνάς εσύ]{lang="el"} im Text.
+
+**Typische Fehler:** \*[μόλις θα πάρεις]{lang="el"}; [να]{lang="el"} nach [μέχρι]{lang="el"}
+vergessen; [να]{lang="el"} nach [πριν]{lang="el"} ist möglich ([πριν να υπογράψεις]{lang="el"}),
+aber seltener.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -395,7 +614,66 @@ Drei Wörter, die man leicht verwechselt: [όποτε]{lang="el"} [ˈopote] „w
 [ό-]{lang="el"} am Anfang ist wie bei [όποιος, όπου, όπως]{lang="el"} das Zeichen für „-immer“.
 :::
 
-<!-- EXERCISE: Umformen: αν-Sätze in Sätze mit όποιος / ό,τι / όπου / όποτε umwandeln und umgekehrt, laut; plus Zuordnen deutscher Bedeutungen, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 17.5: Wer immer, was immer
+
+**Teil A.** Form laut um: 1–4 mit [όποιος, ό,τι, όπου κι αν, όποτε]{lang="el"}, 5 und 6 zurück
+mit [αν]{lang="el"}.
+
+::: {lang="el" .no-audio}
+1. Αν κάποιος έρθει χωρίς ραντεβού, περιμένει.
+2. Αν χρειαστείς κάτι, πες μου.
+3. Αν πας κάπου, θα σου ζητήσουν ΑΦΜ.
+4. Αν περάσεις από εδώ, έλα για καφέ.
+5. Όποιος βρει τα κλειδιά μου, κερδίζει έναν καφέ.
+6. Ό,τι σου πει ο υπάλληλος, κάν’ το.
+:::
+
+**Teil B.** Ordne zu. Im Chat: „a3, b…“.
+
+[a) Ό,τι πεις. · b) Όποτε έρθεις. · c) Πότε έρχεσαι; · d) Δεν έρχεται ποτέ. · e) Όποιος
+μπορεί.]{lang="el"}
+
+1\. Wann kommst du? · 2. Wer kann. · 3. Wie du meinst. · 4. Er kommt nie. · 5. Wann immer du
+kommst.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Das Verb bleibt beim Umformen, wie es ist: [έρθει, χρειαστείς, πας, περάσεις]{lang="el"}. Nur
+[αν κάποιος, αν … κάτι, αν … κάπου]{lang="el"} verschmelzen zu einem [ό-]{lang="el"}-Wort.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil B: auf den Akzent achten. [ˈpote] fragt, [poˈte] verneint, [ˈopote] heißt „-immer“.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+::: {lang="el"}
+1. Όποιος έρθει χωρίς ραντεβού, περιμένει.
+2. Ό,τι χρειαστείς, πες μου.
+3. Όπου κι αν πας, θα σου ζητήσουν ΑΦΜ.
+4. Όποτε περάσεις από εδώ, έλα για καφέ.
+5. Αν κάποιος βρει τα κλειδιά μου, κερδίζει έναν καφέ.
+6. Αν σου πει κάτι ο υπάλληλος, κάν’ το.
+:::
+
+Auch richtig: 3 [Όπου πας]{lang="el"} (ohne „auch immer“), 5 [Αν βρει κανείς …]{lang="el"}.
+Streng genommen verschiebt 4 den Sinn leicht: [αν]{lang="el"} „falls einmal“,
+[όποτε]{lang="el"} „jedes Mal“.
+
+**Teil B: a3, b5, c1, d4, e2.**
+
+**Typische Fehler:** \*[όποιος θα έρθει]{lang="el"} oder \*[όποιος να έρθει]{lang="el"}; beim
+Schreiben [ό,τι]{lang="el"} mit [ότι]{lang="el"} „dass“ verwechseln (Kapitel 15).
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -482,7 +760,55 @@ mit etwas Glück, einen Menschen. Erst hören, dann lesen.
 — Εγώ είμαι ο κύριος Στέλιος. Αλλά η κυρία Βούλα τα ξέρει όλα.
 :::
 
-<!-- EXERCISE: Hörverstehen zum Telefonat (mit ▶, ohne den Text aufzuklappen): 5–6 Multiple-Choice-Fragen (Menü-Tasten, benötigte Papiere, Lösung des Adressproblems, Folge bei Verspätung, Rolle von Frau Voula), zweiter Durchgang: jedes αν/όταν/μόλις/όποιος zählen und Foto/Film bestimmen, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 17.6: Am Telefon
+
+Hör das Telefonat mit ▶, ohne den Text aufzuklappen, gern zweimal. Im Chat: „1b, 2…“.
+
+1. Welche Taste drückt man für einen Termin? a) die Eins, b) die Zwei, c) keine, man
+   bleibt in der Leitung.
+2. Was braucht die Anruferin? a) Pass oder Ausweis und einen Adressnachweis, b) nur den
+   Pass, c) Pass und Mietvertrag.
+3. Wie löst sich das Adressproblem? a) Sie mietet zuerst eine Wohnung. b) Der Vermieter
+   bestätigt die Adresse. c) Etwas mit ihrer Adresse in Deutschland reicht.
+4. Wer ohne Termin kommt, … a) wartet. b) wird heimgeschickt. c) bekommt eine SMS.
+5. Über zehn Minuten zu spät? a) Man wartet länger. b) Man verliert den Platz. c) Man
+   kriegt einen neuen Termin.
+6. Wer ist Frau Voula? a) die Stimme der Ansage, b) die Frau am Telefon, c) jemand im Amt,
+   der alles weiß.
+
+**Zweiter Durchgang:** Zähl jedes [αν]{lang="el"} (auch [κι αν]{lang="el"}), [όταν, μόλις,
+όποιος]{lang="el"} und bestimm dahinter Foto oder Film.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Die Ansage nennt zuerst [ΑΦΜ]{lang="el"}, dann [ραντεβού]{lang="el"}. Bei Frage 3 hör auf
+[ʝermaˈnia].
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Frage 6: Der Mann nennt am Ende seinen eigenen Namen. Zweiter Durchgang: Es sind neun Stellen,
+sechs davon mit [an].
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1b, 2a, 3c, 4a, 5b, 6c.** Zu 6: Am Telefon war [ο κύριος Στέλιος]{lang="el"}.
+
+**Zweiter Durchgang**
+
+- Film: [αν θέλετε]{lang="el"} (2×), [αν δεν έχετε]{lang="el"} (ohne Wahl);
+  [όποιος έρχεται]{lang="el"} (allgemeine Regel).
+- Foto: [μόλις το κλείσετε, κι αν αργήσω, αν αργήσετε, όταν έρθετε, αν σας πουν]{lang="el"}.
+
+[Αφού είστε πολίτης]{lang="el"} zählt nicht: Hier heißt [αφού]{lang="el"} „da, weil“
+(Kapitel 16).
+:::
 
 <!-- CHECK: EU-Bürger beim ΑΦΜ-Antrag: Pass/Ausweis + Adressnachweis; wird eine Adresse im Herkunftsland akzeptiert? Begriff „αποδεικτικό διεύθυνσης“ üblich? Verspätungsregel (10 Minuten) ist erfunden, nur als Beispiel. -->
 
@@ -563,7 +889,44 @@ Echte Bedingungen im Gesprächstempo findest du auf [Easy
 Greek](https://www.youtube.com/@EasyGreekVideos): Fragen nach Plänen und Ratschlägen („Was würdest
 du einem Touristen raten?“) lösen viele [αν]{lang="el"} und [άμα]{lang="el"} aus.
 
-<!-- EXERCISE: Hör-Auftrag Easy Greek: Straßeninterview mit Rat- oder Planfragen wählen, 3–4 Minuten ohne Untertitel; Striche für αν/άμα/όταν, zwei αν-Sätze merken; mit griechischen Untertiteln prüfen und Aspekt nach αν bestimmen (Foto/Film; θα + Imperfekt als irreal erkennen und aussortieren), Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 17.7: Hör-Auftrag
+
+Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) ein Straßeninterview mit Fragen
+nach Tipps oder Plänen (englische Suchwörter *advice, tips, plans*).
+
+1. Hör drei bis vier Minuten **ohne Untertitel** und mach einen Strich für jedes [an],
+   [ˈama] und [ˈotan].
+2. Merk dir zwei [αν]{lang="el"}-Sätze und sprich sie nach.
+3. Hör dieselbe Stelle **mit griechischen Untertiteln**. Prüf deine Striche und bestimm hinter
+   jedem [αν]{lang="el"}: Foto, Film oder „ob“?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+[an] ist kurz und klebt am nächsten Wort; vor [π, τ, κ]{lang="el"} klingt es wie [am], [an]
+oder [aŋ]. [ˈama] ist betont und leichter zu fangen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Fragen wie „Was würdest du raten?“ lösen auch irreale Sätze aus: [θα]{lang="el"} + Imperfekt
+([θα πήγαινα, θα έλεγα]{lang="el"}) in der Folge. Die sortierst du aus (Kapitel 24).
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Jedes Interview ist anders; so wertest du aus:
+
+- **Zählung:** [άμα]{lang="el"} kommt auf der Straße oft so häufig vor wie [αν]{lang="el"}.
+ 
+- **Aspekt:** Bei Ratschlägen meist Foto ([αν πας, άμα έρθεις]{lang="el"}), Film bei
+  [αν θέλεις, αν έχεις]{lang="el"}.
+- **„ob“:** [δεν ξέρω αν …]{lang="el"}, oft mit [θα]{lang="el"}. Kein Fehler des Sprechers.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -683,7 +1046,70 @@ morgen kommst, ist er vielleicht der hilfsbereiteste Mensch Griechenlands. Und w
 fertig bist, weißt du etwas, das viele Griechen nicht wissen: wo jeder Schalter der Stadt ist.
 :::
 
-<!-- EXERCISE: Nach dem Lesen: A richtig/falsch zu 6–7 Aussagen; B alle Bedingungs- und Zeitsätze heraussuchen und Aspekt begründen (όταν έχεις = Zustand vs. όταν έρθεις; όποιος πάει, ό,τι χαρτί σου δώσουν); C drei Regeln laut für einen Freund umformulieren (Imperativ + αν/όταν/μόλις), Schwierigkeit 2–3 -->
+::: {.callout-note .exercise}
+## Übung 17.8: Nach dem Lesen
+
+**Teil A.** Richtig oder falsch? Im Chat: „1r, 2f …“.
+
+1. Ohne Steuernummer bekommt man nicht einmal einen Handyvertrag.
+2. Den ΑΜΚΑ braucht man nur für den Arzt.
+3. EU-Bürger brauchen die Anmeldebescheinigung gleich nach der Ankunft.
+4. Die Anmeldebescheinigung stellt das Finanzamt aus.
+5. Wer ohne Termin kommt, erreicht meistens nichts.
+6. Gerade das weggeworfene Papier wird irgendwann verlangt.
+7. Seit 2020 bekommt man alle Bescheinigungen über gov.gr.
+
+**Teil B.** Such alle Bedingungs- und Zeitsätze (auch [όποιος, ό,τι]{lang="el"}): Foto oder
+Film?
+
+**Teil C.** Sag es einem Freund laut auf Griechisch:
+
+8. Wenn du länger als drei Monate bleibst, mach sofort einen Termin bei der Polizei.
+9. Sobald man dir ein Papier gibt, mach eine Kopie.
+10. Wenn der Beamte „Kommen Sie morgen“ sagt, lächle und komm morgen wieder.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Drei Aussagen sind richtig. Teil B: Es sind etwa ein Dutzend Stellen; [που]{lang="el"}
+in [ένα χαρτί που δεν έχεις]{lang="el"} ist Relativwort, keine Bedingung.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil B: [όσο περισσότερα …, τόσο …]{lang="el"} heißt „je …, desto“, nicht „solange“. Teil C,
+9: „man gibt dir“ ist [σου δώσουν]{lang="el"}, 3. Person Plural.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1r, 2f, 3f, 4f, 5r, 6r, 7f.** 2: auch zum Arbeiten. 3: erst nach drei Monaten. 4: die
+Polizei. 7: [πολλά]{lang="el"}, viele.
+
+**Teil B**
+
+- Film: [όποιος ζει]{lang="el"} (Zustand), [αν είσαι, όταν έχεις]{lang="el"} (keine Wahl),
+  [όσο περισσότερα κάνεις]{lang="el"} (je … desto).
+- Foto: [αν μείνεις, μέχρι να έρθει, όποιος πάει, ό,τι χαρτί σου δώσουν, αν σου ζητήσουν, μόλις
+  πάρεις, αν ο υπάλληλος σού πει, όταν έρθεις, όταν τελειώσεις]{lang="el"}.
+
+[Όποιος πάει]{lang="el"}: der einzelne Gang zum Amt; [όποιος πηγαίνει]{lang="el"} (Gewohnheit)
+ginge auch.
+
+**Teil C**
+
+::: {lang="el"}
+8. Αν μείνεις πάνω από τρεις μήνες, κλείσε αμέσως ραντεβού στην αστυνομία.
+9. Μόλις σου δώσουν ένα χαρτί, βγάλε φωτοτυπία.
+10. Αν ο υπάλληλος σού πει «Ελάτε αύριο», χαμογέλα και έλα πάλι αύριο.
+:::
+
+In 10 auch [όταν]{lang="el"}, wenn man damit rechnet. Nirgends [θα]{lang="el"} im
+Nebensatz.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
