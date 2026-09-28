@@ -575,8 +575,10 @@ wäre [Δε μου καίγεται καρφί]{lang="el"} nicht bloß flapsig, 
 ## Woher sie kommen {#sec-redewendungen-herkunft}
 
 Über die Herkunft von Redewendungen wird gern erzählt, und vieles davon ist erfunden. Eine
-Geschichte, die ein seltsames Bild nachträglich erklärt, nennt man **Volksetymologie**: Sie
-klingt einleuchtend, belegt ist sie nicht. Gesichert ist eine Herkunft, wenn die Wendung in alten
+Geschichte, die ein seltsames Bild nachträglich erklärt, heißt hier **gängige Erklärung**. Sie
+klingt einleuchtend, belegt ist sie nicht. (Sprachwissenschaftler sprechen von
+Volksetymologie meist in einem engeren Sinn: wenn ein Wort nach einer falschen Herkunft
+umgeformt wird, wie *Hängematte* aus *hamaca*.) Gesichert ist eine Herkunft, wenn die Wendung in alten
 Texten steht oder ihre Wörter eine nachweisbare Geschichte haben. Antike und Meer kommen im
 Lesetext; hier zwei andere Quellen.
 
