@@ -7,3 +7,6 @@ library/books.yml
 
 # Python
 __pycache__/
+
+# Temporary test copies of books
+books/_*/

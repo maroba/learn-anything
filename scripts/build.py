@@ -39,6 +39,8 @@ def quarto(*args: str) -> None:
 def load_books() -> list[dict]:
     books = []
     for meta_file in sorted(BOOKS.glob("*/book.yml")):
+        if meta_file.parent.name.startswith("_"):
+            continue  # temporary test copies
         meta = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
         meta["slug"] = meta_file.parent.name
         books.append(meta)
