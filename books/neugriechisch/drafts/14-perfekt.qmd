@@ -92,7 +92,6 @@ Die 112 ist in Griechenland nicht nur die Notrufnummer. Unter diesem Absender sc
 Katastrophenschutz bei Bränden, Unwettern und Erdbeben Warnungen an alle Handys in einer Gegend,
 mit einem Alarmton, den man nicht überhört. Seit den Bränden der letzten Jahre kennt ihn jeder,
 und offenbar auch manche Katze.
-<!-- CHECK: 112-Warnsystem in Griechenland (Cell Broadcast/SMS mit lautem Signalton, seit 2020); Formulierung „an alle Handys in einer Gegend“ korrekt? -->
 
 Im Gespräch stehen zwei Sorten von Vergangenheit nebeneinander. Die eine kennst du: [είδα,
 ήρθε, ξέχασες, έγινε, ήρθαν, ετοίμασα]{lang="el"}, lauter Aoriste. Die andere ist neu und
@@ -232,8 +231,8 @@ Griechische Grammatiken nennen die Form auf [-ει]{lang="el"} [απαρέμφα
 [να]{lang="el"}-Sätze verdrängt (Kapitel 5). Nur in der Verbindung mit [έχω]{lang="el"} überlebte
 einer, und aus mittelgriechischem [γράψειν]{lang="el"} wurde, mit dem Verlust des Schluss-ν, [γράψει]{lang="el"}.
 Dass er heute genauso aussieht wie die er-Form der [θα]{lang="el"}-Form, ist also ein Zufall der
-Lautgeschichte, aber ein nützlicher.
-<!-- CHECK: Herleitung des Perfekt-„Infinitivs“ (mittelgriech. έχω + Infinitiv auf -ειν, analogisch auch beim Aoriststamm: γράψειν > γράψει); Formulierung „ein Zufall der Lautgeschichte“ vertretbar? -->
+Lautgeschichte, aber ein nützlicher. Die ältere Rechtschreibung hielt beide noch auseinander:
+[να γράψη]{lang="el"}, aber [έχω γράψει]{lang="el"}.
 :::
 
 ::: {.callout-note .exercise}
@@ -335,7 +334,6 @@ das, was man hört. Besonders im zweiten Fall sagen viele im Gespräch einfach d
 [Έχεις φάει;]{lang="el"}, und der Vater hätte auch [Δεν ξέχασα τίποτα]{lang="el"} sagen können.
 Das Perfekt betont stärker, dass der Zustand jetzt gilt; der Aorist meldet einfach, dass es
 passiert ist. Bei der Erfahrung mit [ποτέ]{lang="el"} ist das Perfekt dagegen der Normalfall.
-<!-- CHECK: Gewichtung „Έφαγες; mindestens so häufig wie Έχεις φάει;“ und „bei Erfahrung mit ποτέ ist das Perfekt der Normalfall“ (vgl. Holton/Mackridge/Philippaki-Warburton, Greek: A Comprehensive Grammar, Abschnitt zum Perfekt) -->
 
 Zwei englische Gewohnheiten führen in die Irre:
 
@@ -914,7 +912,6 @@ ganz, dann mit Wortschatz, dann mit ▶.
 μη φυσήξει.»
 :::
 
-<!-- CHECK: Αντιπυρική περίοδος 1. Mai – 31. Oktober; Mati 23.7.2018 über 100 Tote (104); Nord-Euböa August 2021 nach Hitzewelle; Evros/Dadia 2023 größter von EFFIS erfasster Einzelbrand der EU; Aleppokiefer: serotine Zapfen, Samenproduktion erst nach ca. 10–15 Jahren; Formulierung „το πεύκο της Αττικής και της Εύβοιας“ -->
 
 Zwei Muster helfen beim Lesen:
 
