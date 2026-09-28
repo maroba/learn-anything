@@ -78,8 +78,8 @@ Kette von Ereignissen, jedes abgeschlossen, jedes als Ganzes erzählt.
 
 Zur Aussprache: In [διαβάζω]{lang="el"} [ðʝaˈvazo] klingt [δ]{lang="el"} wie engl. *this*, und das
 unbetonte [ι]{lang="el"} gleitet zu einem *j* wie in *ja*: [δια]{lang="el"} ist eine Silbe, etwa „dhja“. In
-[τα μάτια]{lang="el"} [ta ˈmatça] wird dasselbe [ι]{lang="el"} nach [τ]{lang="el"} zu [ç] wie in *ich*: „matcha“, fast
-wie der Tee.
+[τα μάτια]{lang="el"} [ta ˈmatça] wird dasselbe [ι]{lang="el"} nach [τ]{lang="el"} zu [ç] wie in *ich*: etwa „mat-chja“ mit dem *ch* aus *ich*. Das klingt ähnlich wie
+Matcha-Tee, aber weicher, ohne *tsch*.
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -167,8 +167,8 @@ Vergangenheit lebt.
 
 ### Wo der Vergleich mit dem Spanischen endet {#sec-aorist-vergleich-grenzen}
 
-Deutsch und Englisch haben keinen grammatischen Aspekt, Spanisch und Französisch haben ihn in
-der Vergangenheit. An drei Stellen lassen sie dich trotzdem allein.
+Deutsch hat keinen grammatischen Aspekt, Englisch nur die Verlaufsform (*I was reading*);
+Spanisch und Französisch haben ihn in der Vergangenheit. An drei Stellen lassen sie dich trotzdem allein.
 
 **Erstens: Aspekt gibt es auch in der Zukunft.** [Αύριο θα **διαβάσω** το βιβλίο.]{lang="el"}
 (morgen lese ich das Buch, ganz) gegenüber [Από αύριο θα **διαβάζω** κάθε μέρα.]{lang="el"} (ab
@@ -290,7 +290,7 @@ hat genau eine Aufgabe, die Betonung zu tragen; wo keine Betonung hinmuss, gibt 
 [αύξηση]{lang="el"} heißt übrigens auch „Gehaltserhöhung“. Eine Erhöhung, die nur kommt, wenn
 man sie wirklich braucht; das kennt man.
 
-Bei längeren Verben wandert nur die Betonung, ein Augment brauchen sie nicht:
+Kurze Verben bekommen in der ich-Form das Augment, längere verschieben nur die Betonung:
 
 | Präsens | ich | wir |
 |---|---|---|
@@ -308,7 +308,7 @@ und landet im Plural wieder, wo sie im Präsens war ([δια-βά-σα-με]{lan
 ## Merke
 
 1. Im Aorist der regelmäßigen Verben steht die Betonung auf der **drittletzten Silbe**.
-2. **Silben zählen:** Jeder Vokal und jeder Vokal-Digraph ([οι, ει, αι, ου]{lang="el"}) bildet
+2. **Silben zählen:** Jeder Vokal und jeder Vokal-Digraph ([οι, ει, αι, ου, αυ, ευ]{lang="el"}) bildet
    eine Silbe. Unbetontes [ι]{lang="el"} vor einem Vokal ist meist keine eigene Silbe:
    [διά-βα-σα]{lang="el"}, [μά-τια]{lang="el"}.
 3. Hat die Form ohne Augment nur **zwei Silben**, kommt vorn ein betontes [ε-]{lang="el"}
@@ -532,7 +532,7 @@ Ausnahmen: einige [-ζω]{lang="el"} mit [-ξα]{lang="el"}, einige [-άω/-ώ]{
 ## Tipp
 
 Beim Lesen suchst du umgekehrt zum Aorist das Verb im Wörterbuch. Drei Endungen führen
-zuverlässig zurück: [-εψα]{lang="el"} → [-εύω]{lang="el"}, [-ωσα]{lang="el"} → meist
+meist zurück: [-εψα]{lang="el"} → [-εύω]{lang="el"} (aber [κατέστρεψα]{lang="el"} ← [καταστρέφω]{lang="el"}), [-ωσα]{lang="el"} → meist
 [-ώνω]{lang="el"}, [-ησα]{lang="el"} → [-άω/-ώ]{lang="el"}. Bei [-ψα]{lang="el"} und
 [-ξα]{lang="el"} verrät der Aorist nur die Lautgruppe; da hilft nur die Vokabel.
 :::
@@ -894,7 +894,7 @@ einmal vor.
 (d) [λοιπόν]{lang="el"} · (e) [και ξαφνικά]{lang="el"}
 
 ::: {lang="el"}
-— (1) …, πέρσι η γιαγιά μου αγόρασε κινητό. Με ίντερνετ και όλα.
+— (1) …, πέρσι η γιαγιά μου αγόρασε κινητό. Με ίντερνετ και τα σχετικά.
 
 — Η γιαγιά σου;
 
@@ -946,6 +946,10 @@ die Überraschung, nach Stelle 5 das Ende von drei Stunden Telefonat.
    erzähl weiter. Auch [Σοβαρά;]{lang="el"} hätte gepasst.
 5. [Τελικά]{lang="el"} **führt zum Ende**, oft mit dem Unterton „erst dann, wider Erwarten“.
 
+Auch **1c, 2d** ist vertretbar: [Που λες]{lang="el"} kann eine Erzählung ebenfalls eröffnen, und
+[λοιπόν]{lang="el"} nach einer Zwischenfrage ist völlig normal. Als Eröffnung ist
+[λοιπόν]{lang="el"} aber typischer.
+
 Nebenbei: [το τηλέφωνό μου]{lang="el"} hat denselben doppelten Akzent wie
 [το μήνυμά μου]{lang="el"}.
 
@@ -973,7 +977,7 @@ Noch ein Detail: In [Κι ο θείος μου]{lang="el"} wird [και]{lang="e
 ::: {.callout-note .exercise}
 ## Übung 2.6: Hör-Auftrag
 
-Auf dem YouTube-Kanal [Easy Greek](https://www.youtube.com/@EasyGreek) antworten Leute auf der
+Auf dem YouTube-Kanal [Easy Greek](https://www.youtube.com/@EasyGreekVideos) antworten Leute auf der
 Straße spontan, mit griechischen und englischen Untertiteln. Wähle ein Straßeninterview, am
 besten über Vergangenes (Wochenende, Urlaub, Kindheit).
 
@@ -983,7 +987,7 @@ besten über Vergangenes (Wochenende, Urlaub, Kindheit).
 3. Spul zurück und prüf beides **mit griechischen Untertiteln**.
 :::
 
-<!-- CHECK: Kanal-URL https://www.youtube.com/@EasyGreek prüfen (vom Container aus nicht erreichbar). -->
+<!-- CHECK: Kanal-URL https://www.youtube.com/@EasyGreekVideos per Suche ermittelt; im Browser bestätigen (vom Container aus nicht erreichbar). -->
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1

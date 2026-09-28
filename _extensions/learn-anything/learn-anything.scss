@@ -61,6 +61,23 @@ li.la-ref-target > .la-ref {
   }
 }
 
+// On narrow screens tables get compact; if one is still too wide, it scrolls by itself
+// instead of making the whole page scroll sideways.
+@media (max-width: 767.98px) {
+  #quarto-document-content table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+    font-size: 0.88em;
+  }
+
+  #quarto-document-content table th,
+  #quarto-document-content table td {
+    padding: 0.35rem 0.4rem;
+    overflow-wrap: anywhere;
+  }
+}
+
 // On narrow screens the marker sits in the small page gutter.
 @media (max-width: 767.98px) {
   .la-ref {

@@ -12,5 +12,5 @@ archetype: languages
 # interview | research | outline | sample | writing | complete
 status: sample
 # Erscheint erst in der Bibliothek, wenn true (spätestens mit dem Probekapitel).
-published: false
+published: true
 created: 2026-09-28
