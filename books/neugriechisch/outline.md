@@ -138,7 +138,7 @@ bis zwei Wochen pro Kapitel bei 5 Stunden pro Woche.
 
 ### 18 Er sagt, dass: indirekte Rede und indirekte Fragen
 - **Datei:** 18-indirekte-rede
-- **Lernziele:** kann Aussagen und Fragen indirekt wiedergeben; kann Zeiten und Pronomen dabei anpassen
+- **Lernziele:** kann Aussagen und Fragen indirekt wiedergeben; behält die Zeiten bei und passt Pronomen, Orts- und Zeitangaben an
 - **Voraussetzungen:** 16
 - **Lesezeit:** 40 min
 - **Inhalt:** Sachthema: Wissenschaftsnachrichten („Forscher sagen, dass …“); Hörspur: Nachrichtenzitate
