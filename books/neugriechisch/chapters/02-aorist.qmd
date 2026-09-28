@@ -215,7 +215,88 @@ und Englisch sprechen, eine echte Hürde. Wer Spanisch oder Französisch kann, h
 Vergangenheit die Intuition schon und muss sie nur auf Futur und [να]{lang="el"} übertragen.
 :::
 
-<!-- EXERCISE: Lernziel: perfektiven vs. imperfektiven Aspekt in der Vergangenheit unterscheiden (Handlung als Ganzes erkennen); Art: Auswählen mit Begründung (Multiple Choice, nummerierte Optionen): 6–8 kurze deutsche Situationen („Gestern habe ich das ganze Buch gelesen“, „Als Kind las ich jeden Abend“, „Schliemann grub drei Jahre in Troja“, „Hast du die Nachricht gelesen?“) – Aorist ja oder nein? Mit spanischer Kontrollfrage (indefinido/imperfecto?) im Hinweis; Lösung erklärt besonders die Fälle mit langer Dauer und die Perfekt-Falle; Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 2.1: Foto oder Film?
+
+Acht Sätze, so wie man sie im Deutschen sagt. Entscheide jeweils, was im Griechischen stünde:
+
+1. **Aorist** (Foto: als Ganzes erzählt)
+2. **kein Aorist**, sondern die zweite Vergangenheit, das Imperfekt (Film: Vorgang, Gewohnheit,
+   Hintergrund; Kapitel 4)
+3. **keine Wahl**, weil das Verb nur eine Vergangenheit hat
+
+Die Sätze:
+
+a) Gestern Abend habe ich das ganze Buch gelesen.
+b) Als Kind las ich jeden Abend unter der Bettdecke.
+c) Schliemann grub drei Jahre lang in Troja.
+d) Hast du meine Nachricht gelesen?
+e) Mein Großvater hat vierzig Jahre im Hafen von Piräus gearbeitet, dann ging er in Rente.
+f) Als ich ihn kennenlernte, arbeitete er noch im Hafen.
+g) Ich wusste die Antwort nicht.
+h) Heute Morgen habe ich meine Mutter angerufen.
+
+Sag dir die Antworten im Kopf vor (im Chat reicht „a1, b2, …“), dann klapp auf.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Übersetz jeden Satz im Kopf ins Spanische. Nimmst du das *indefinido* (*leí, excavó*) oder das
+*imperfecto* (*leía, trabajaba*)? Wo dir das spanische Perfekt einfällt (*he leído*), frag dich,
+was man in Mexiko oder Buenos Aires sagen würde.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Die deutsche Form verrät nichts: „habe gelesen“ und „las“ können beide Foto oder Film sein. Die
+Dauer verrät auch nichts: Drei Jahre können ein einziges Foto sein. Entscheidend ist nur, ob die
+Handlung als abgeschlossenes Ganzes berichtet wird. Und denk an die drei Verben, die gar keinen
+zweiten Stamm haben.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**a1, b2, c1, d1, e1, f2, g3, h1.**
+
+a) **Aorist.** Ein abgeschlossenes Ereignis, das Buch ist durch. Spanisch *leí*:
+[Χθες το βράδυ διάβασα το βιβλίο.]{lang="el"}
+
+b) **Kein Aorist.** Jeden Abend, über Jahre: eine Gewohnheit, also Film. Spanisch *leía*. Im
+Griechischen stünde [διάβαζα]{lang="el"}, das Imperfekt aus Kapitel 4.
+
+c) **Aorist**, obwohl es drei Jahre waren. Das ist der Fall, der am häufigsten schiefgeht: Die
+lange Dauer verleitet zum Film. Aber der Satz blickt von außen auf die drei Jahre zurück und
+fasst sie zusammen, mit Anfang und Ende. Spanisch *excavó tres años*, nicht *excavaba*.
+[Ο Σλήμαν έσκαψε στην Τροία τρία χρόνια.]{lang="el"} Die Faustprobe: Eine Zeitangabe, die die
+Dauer ausmisst („drei Jahre lang“, „zwei Stunden“), passt fast immer zum Aorist.
+
+d) **Aorist.** Das ist die Perfekt-Falle. Das Deutsche sagt „Hast du … gelesen?“, das
+spanische Spanien *¿Has leído?*, aber Griechisch nimmt den Aorist, wie Lateinamerika mit
+*¿Leíste?*: [Διάβασες το μήνυμά μου;]{lang="el"}
+
+e) **Aorist.** Vierzig Jahre, abgeschlossen und bilanziert, Spanisch *trabajó cuarenta años*.
+Das „dann ging er in Rente“ macht noch deutlicher, dass hier eine Kette von Ereignissen erzählt
+wird.
+
+f) **Kein Aorist.** Dasselbe Verb, derselbe Großvater, aber jetzt ist die Arbeit im Hafen der
+Hintergrund, vor dem etwas anderes passiert (das Kennenlernen). Film, Spanisch *trabajaba*. Der
+Vergleich von e) und f) zeigt: Nicht das Verb entscheidet, sondern der Blick darauf.
+
+g) **Keine Wahl.** [ξέρω]{lang="el"} hat nur eine Vergangenheit, [ήξερα]{lang="el"}. Wer hier
+nach einem Aorist sucht, findet keinen. Spanisch ist in diesem Punkt feiner (*no sabía* gegenüber
+*no supe*, „ich erfuhr es nicht“); das Griechische nimmt für „erfahren“ ein anderes Verb
+(Kapitel 3).
+
+h) **Aorist**, auch wenn es erst heute Morgen war. Erledigt und vorbei, also
+[τηλεφώνησα]{lang="el"}. Hier sagt selbst das spanische Spanien meist *he llamado*, weil der Tag
+noch läuft; das Griechische kümmert das nicht.
+
+**Typische Fehler:** c) und e) als Film einordnen, weil es lange gedauert hat; d) und h)
+aus dem Deutschen heraus als „Perfekt“ einordnen und nach einer anderen Form suchen.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -268,7 +349,70 @@ mit großer Wahrscheinlichkeit eine Vergangenheitsform vor sich. Im Präsens end
 Person auf [-ω]{lang="el"} oder [-μαι]{lang="el"}, nie auf [-α]{lang="el"}.
 :::
 
-<!-- EXERCISE: Lernziel: Aorist-Endungen in allen Personen bilden; Art: Formen im Kopf bilden und laut sagen (Personenwechsel): gegeben ist eine Aoristform (διάβασα, άνοιξα, έκλεισα, τηλεφώνησα) und eine Zielperson (wir, sie Pl., du …); Lösung mit IPA, Hinweis auf Augment im Plural nur vorsichtig anteasern oder die Items so wählen, dass kein Augment wechselt (διάβασα → διαβάσαμε, άνοιξα → ανοίξαμε); Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 2.2: Wer hat hier nicht geschlafen?
+
+Die kurze Nacht aus dem Einstieg hat sich herumgesprochen, und jetzt erzählt jeder seine eigene
+Version. Du bekommst eine Aoristform und eine neue Person. Bilde die Form im Kopf und sag sie
+laut, mit der Betonung.
+
+a) [διάβασα]{lang="el"} → wir
+b) [άνοιξα]{lang="el"} → sie (Plural), beide Formen
+c) [τηλεφώνησα]{lang="el"} → du
+d) [ξάπλωσα]{lang="el"} → ihr
+e) [χτύπησε]{lang="el"} → ich
+f) [διαβάσαμε]{lang="el"} → er
+g) [άνοιξες]{lang="el"} → wir
+h) [έκλεισα]{lang="el"} → er
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Nimm den Stamm, der vor der Endung steht ([διαβασ-]{lang="el"}, [ανοιξ-]{lang="el"},
+[τηλεφωνησ-]{lang="el"} …), und häng die neue Endung an:
+[-α, -ες, -ε, -αμε, -ατε, -αν]{lang="el"}, umgangssprachlich auch [-ανε]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Für die Betonung schau dir die Tabelle von [γράφω]{lang="el"} an: Die betonte Silbe ist immer
+die dritte von hinten. Bei den Endungen [-αμε, -ατε, -ανε]{lang="el"}, die eine Silbe mehr
+haben, rückt sie also eine Silbe nach hinten: [διά-βα-σα]{lang="el"}, aber
+[δια-βά-σα-με]{lang="el"}. Warum das so ist, erklärt @sec-aorist-augment.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+| Aufgabe | Form | Aussprache |
+|---|---|---|
+| a) wir | [διαβάσαμε]{lang="el"} | [ðʝaˈvasame] |
+| b) sie | [άνοιξαν]{lang="el"}, umg. [ανοίξανε]{lang="el"} | [ˈaniksan], [aˈniksane] |
+| c) du | [τηλεφώνησες]{lang="el"} | [tileˈfonises] |
+| d) ihr | [ξαπλώσατε]{lang="el"} | [ksaˈplosate] |
+| e) ich | [χτύπησα]{lang="el"} | [ˈxtipisa] |
+| f) er | [διάβασε]{lang="el"} | [ˈðʝavase] |
+| g) wir | [ανοίξαμε]{lang="el"} | [aˈniksame] |
+| h) er | [έκλεισε]{lang="el"} | [ˈeklise] |
+
+Der Stamm bleibt in allen Personen gleich, es wechselt nur die Endung. Was sich bewegt, ist die
+Betonung: Sie sitzt immer auf der drittletzten Silbe. Bei [-α, -ες, -ε, -αν]{lang="el"} ist das
+eine Silbe weiter vorn als bei [-αμε, -ατε, -ανε]{lang="el"}. Deshalb heißt es
+[άνοιξαν]{lang="el"}, aber [ανοίξανε]{lang="el"}: gleicher Stamm, andere Silbenzahl.
+
+**Typische Fehler:**
+
+- \*[διάβασαμε]{lang="el"}: Betonung aus der ich-Form mitgenommen. Sie stünde dann auf der
+  viertletzten Silbe, und die gibt es im Griechischen nie.
+- [τηλεφωνείς]{lang="el"} für c): Das ist das Präsens, „du rufst an“. Die Vergangenheit
+  erkennst du am [σ]{lang="el"} vor der Endung und an [-ες]{lang="el"} statt
+  [-εις]{lang="el"}.
+- Bei h) bleibt das [έ-]{lang="el"} stehen, denn [έκλεισε]{lang="el"} hat wie
+  [έκλεισα]{lang="el"} drei Silben. Wer „wir“ bilden wollte, müsste es streichen
+  ([κλείσαμε]{lang="el"}); das ist das Thema von @sec-aorist-augment.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -419,9 +563,176 @@ gleich.
 <!-- CHECK: (1) Bezeichnung „pretérito indefinido“ als traditioneller Name der Form (heute „pretérito perfecto simple“) korrekt? Im Text bewusst nur als Namensähnlichkeit formuliert, keine Entlehnung behauptet. (2) s-Aorist als gemeinsames indogermanisches Erbe von griech. -σα und lat. -si-Perfekt: so vertretbar vereinfacht? -->
 :::
 
-<!-- EXERCISE: Lernziel: Aorist regelmäßiger Verben aus dem Präsens bilden (-σα, -ψα, -ξα, -ησα); Art: Formen im Kopf bilden und laut sagen; 10–12 Verben aus den Tabellen dieses Abschnitts und aus Kapitel 1, gemischt, darunter mindestens zwei -εύω, ein -πτω, ein -χνω, ein -ζω mit -ξα (nur solche aus der Achtung-Box) und zwei -άω/-ώ; Lösung mit IPA und Begründung über den Stammauslaut, typischer Fehler: Betonung/Augment vergessen (*γράψα), -ζω immer mit -σα bilden; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 2.3: Vom Präsens zum Aorist
 
-<!-- EXERCISE: Lernziel: Aoristformen beim Lesen erkennen und auf das Präsens zurückführen; Art: Zuordnen (Aoristform → Präsens, nummerierte Optionen), Leserichtung wie bei einem echten Text: έκρυψε, ταξίδεψαν, έδειξα, τελείωσε, ρώτησες, έψαξα, ανακάλυψε, πίστεψα; jeweils 3 Präsens-Kandidaten mit plausiblen Ablenkern (κρύβω/κρύφω/κρύπτω usw.); Lösung erklärt, wie man vom ψ/ξ/σ auf den Stammauslaut zurückrechnet und warum mehrere Präsensformen denkbar sind; Schwierigkeit 2 -->
+Bilde zu jedem Verb die ich-Form des Aorists und sag sie laut. Deck dazu am besten die
+Tabellen oben ab, sonst ist es keine Übung, sondern Abschreiben im Kopf.
+
+Eine Vorgabe, damit du nicht im Nebel stocherst: Wenn die Form sonst nur zwei Silben hätte,
+kommt vorn ein betontes [ε-]{lang="el"} dazu, wie in [έγραψα]{lang="el"} und
+[έκλεισα]{lang="el"}. Die Einzelheiten folgen im nächsten Abschnitt.
+
+a) [κρύβω]{lang="el"}
+b) [δουλεύω]{lang="el"}
+c) [ψάχνω]{lang="el"}
+d) [αγοράζω]{lang="el"}
+e) [ρωτάω]{lang="el"}
+f) [ανακαλύπτω]{lang="el"}
+g) [φτάνω]{lang="el"}
+h) [παίζω]{lang="el"}
+i) [ταξιδεύω]{lang="el"}
+j) [τελειώνω]{lang="el"}
+k) [τρέχω]{lang="el"}
+l) [βοηθάω]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Schau auf den letzten Laut des Stamms, also vor dem [-ω]{lang="el"}: Lippenlaut
+([π, β, φ]{lang="el"}, auch das [υ]{lang="el"} in [ευ]{lang="el"}) wird mit [σ]{lang="el"} zu
+[ψ]{lang="el"}, Kehllaut ([κ, γ, χ]{lang="el"}) zu [ξ]{lang="el"}, sonst bleibt
+[σ]{lang="el"}. Verben auf [-άω]{lang="el"} bekommen [-ησα]{lang="el"}. Bei
+[-πτω]{lang="el"} und [-χνω]{lang="el"} erst die Präsens-Zutat ([τ]{lang="el"},
+[ν]{lang="el"}) abziehen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Die Betonung sitzt in der ich-Form immer auf der **drittletzten Silbe**, wie in allen Tabellen
+oben. Zähl also die Silben der fertigen Form von hinten. Und ein Verb in der Liste gehört zu
+den [-ζω]{lang="el"}-Verben aus der Achtung-Box, die [ξ]{lang="el"} statt [σ]{lang="el"}
+nehmen.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+| Präsens | Aorist | Weg |
+|---|---|---|
+| a) [κρύβω]{lang="el"} | [έκρυψα]{lang="el"} [ˈekripsa] | [β]{lang="el"} + [σ]{lang="el"} = [ψ]{lang="el"}; zwei Silben, also [έ-]{lang="el"} |
+| b) [δουλεύω]{lang="el"} | [δούλεψα]{lang="el"} [ˈðulepsa] | [ευ]{lang="el"} = [ev], [v] + [σ]{lang="el"} = [ψ]{lang="el"} |
+| c) [ψάχνω]{lang="el"} | [έψαξα]{lang="el"} [ˈepsaksa] | [ν]{lang="el"} weg, [χ]{lang="el"} + [σ]{lang="el"} = [ξ]{lang="el"}; [έ-]{lang="el"} |
+| d) [αγοράζω]{lang="el"} | [αγόρασα]{lang="el"} [aˈɣorasa] | [ζ]{lang="el"} fällt, [σ]{lang="el"} |
+| e) [ρωτάω]{lang="el"} | [ρώτησα]{lang="el"} [ˈrotisa] | [-άω]{lang="el"} → [-ησα]{lang="el"} |
+| f) [ανακαλύπτω]{lang="el"} | [ανακάλυψα]{lang="el"} [anaˈkalipsa] | [τ]{lang="el"} weg, [π]{lang="el"} + [σ]{lang="el"} = [ψ]{lang="el"} |
+| g) [φτάνω]{lang="el"} | [έφτασα]{lang="el"} [ˈeftasa] | [ν]{lang="el"} fällt, [σ]{lang="el"}; [έ-]{lang="el"} |
+| h) [παίζω]{lang="el"} | [έπαιξα]{lang="el"} [ˈepeksa] | Ausnahme: [-ζω]{lang="el"} mit [ξ]{lang="el"}; [έ-]{lang="el"} |
+| i) [ταξιδεύω]{lang="el"} | [ταξίδεψα]{lang="el"} [taˈksiðepsa] | wie b) |
+| j) [τελειώνω]{lang="el"} | [τελείωσα]{lang="el"} [teˈliosa] | [-ώνω]{lang="el"} → immer [-ωσα]{lang="el"} |
+| k) [τρέχω]{lang="el"} | [έτρεξα]{lang="el"} [ˈetreksa] | [χ]{lang="el"} + [σ]{lang="el"} = [ξ]{lang="el"}; [έ-]{lang="el"} |
+| l) [βοηθάω]{lang="el"} | [βοήθησα]{lang="el"} [voˈiθisa] | [-άω]{lang="el"} → [-ησα]{lang="el"} |
+
+**Die Betonung.** Sie springt überall auf die drittletzte Silbe:
+[τε-**λεί**-ω-σα]{lang="el"}, [βο-**ή**-θη-σα]{lang="el"}, [α-να-**κά**-λυ-ψα]{lang="el"}.
+Wer die Präsensbetonung stehen lässt, sagt \*[αγοράσα]{lang="el"} oder
+\*[δουλέψα]{lang="el"}, und das klingt für griechische Ohren wie ein Verb, das es nicht gibt.
+
+**Typische Fehler:**
+
+- **Augment vergessen:** \*[κρύψα]{lang="el"}, \*[ψάξα]{lang="el"}, \*[τρέξα]{lang="el"}. Zwei
+  Silben reichen nicht für die drittletzte, also muss das [έ-]{lang="el"} her.
+- **Augment erfunden:** \*[εδούλεψα]{lang="el"}, \*[εαγόρασα]{lang="el"}.
+  [δούλεψα]{lang="el"} hat schon drei Silben, und Verben mit Vokal am Anfang bekommen ohnehin
+  keins.
+- **[-ζω]{lang="el"} immer mit [σ]{lang="el"}:** \*[έπαισα]{lang="el"} für h). Das ist die
+  Falle, vor der die Achtung-Box warnt. [παίζω]{lang="el"}, [αλλάζω]{lang="el"},
+  [κοιτάζω]{lang="el"} nehmen [ξ]{lang="el"}; lernen lässt sich das nur mit der Vokabel.
+- **Präsens-Zutat mitgeschleppt:** \*[έψαχσα]{lang="el"} oder \*[ανακάλυπτσα]{lang="el"}
+  gibt es nicht; [ν]{lang="el"} und [τ]{lang="el"} gehören nur zum Präsens.
+- **[-εύω]{lang="el"} mit [σ]{lang="el"}:** \*[ταξίδευσα]{lang="el"} sieht logisch aus, aber
+  [ευ]{lang="el"} ist [ev], und [v] + [s] ergibt [ps]: [ταξίδεψα]{lang="el"}.
+:::
+
+::: {.callout-note .exercise}
+## Übung 2.4: Rückwärts rechnen
+
+Beim Lesen läuft es andersherum: Du triffst auf eine Aoristform und musst das Verb dahinter
+finden, um es nachzuschlagen oder wiederzuerkennen. Zu jeder Form gibt es drei Kandidaten. Welcher
+ist das Verb, das in den Tabellen dieses Abschnitts steht? Als Zugabe: Welche Person ist es?
+
+a) [έκρυψε]{lang="el"}: (1) [κρύχω]{lang="el"} (2) [κρύβω]{lang="el"} (3) [κρύπτω]{lang="el"}
+b) [ταξίδεψαν]{lang="el"}: (1) [ταξιδάω]{lang="el"} (2) [ταξιδίζω]{lang="el"} (3) [ταξιδεύω]{lang="el"}
+c) [έδειξα]{lang="el"}: (1) [δείχνω]{lang="el"} (2) [δείζω]{lang="el"} (3) [δείκω]{lang="el"}
+d) [τελείωσε]{lang="el"}: (1) [τελειάζω]{lang="el"} (2) [τελειώ]{lang="el"} (3) [τελειώνω]{lang="el"}
+e) [ρώτησες]{lang="el"}: (1) [ρωτάω]{lang="el"} (2) [ρωτίζω]{lang="el"} (3) [ρωτεύω]{lang="el"}
+f) [έψαξα]{lang="el"}: (1) [ψάζω]{lang="el"} (2) [ψάχνω]{lang="el"} (3) [ψάσκω]{lang="el"}
+g) [ανακάλυψε]{lang="el"}: (1) [ανακαλύβω]{lang="el"} (2) [ανακαλύφω]{lang="el"} (3) [ανακαλύπτω]{lang="el"}
+h) [πίστεψα]{lang="el"}: (1) [πιστεύω]{lang="el"} (2) [πιστάω]{lang="el"} (3) [πιστέβω]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Zieh die Endung und ein eventuelles Augment ab und schau auf den Laut vor der Endung.
+[ψ]{lang="el"} kommt von einem Lippenlaut, [ξ]{lang="el"} von einem Kehllaut, [-ησ-]{lang="el"}
+von einem Verb auf [-άω/-ώ]{lang="el"}, [-ωσ-]{lang="el"} von einem Verb auf
+[-ώνω]{lang="el"}. Damit fällt bei manchen Aufgaben schon ein Kandidat weg.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Bei einigen Aufgaben passen nach der Lautregel alle drei Kandidaten, denn [β, φ, π]{lang="el"}
+ergeben alle [ψ]{lang="el"}, und auch [-ζω]{lang="el"} kann [ξ]{lang="el"} geben. Dann hilft
+nur noch das Gedächtnis: Welches dieser Präsens hast du schon einmal gesehen?
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**a2, b3, c1, d3, e1, f2, g3, h1.**
+
+a) [έκρυψε]{lang="el"} → **[κρύβω]{lang="el"}**, er/sie hat versteckt. [κρύχω]{lang="el"}
+fällt sofort weg, es ergäbe \*[έκρυξα]{lang="el"}. Zwischen [κρύβω]{lang="el"} und
+[κρύπτω]{lang="el"} entscheidet die Form nicht: [β]{lang="el"} und [π]{lang="el"} ergeben mit
+[σ]{lang="el"} beide [ψ]{lang="el"}. Der Aorist verrät die Lautgruppe, nicht den genauen
+Buchstaben. [κρύπτω]{lang="el"} ist übrigens kein Hirngespinst, sondern die altgriechische
+Präsensform, die in gehobener Sprache noch vorkommt; das Alltagsverb ist [κρύβω]{lang="el"}.
+
+b) [ταξίδεψαν]{lang="el"} → **[ταξιδεύω]{lang="el"}**, sie sind gereist. [ψ]{lang="el"} kommt
+von einem Lippenlaut, hier dem [v] in [ευ]{lang="el"}. [ταξιδάω]{lang="el"} ergäbe
+\*[ταξίδησα]{lang="el"}, [ταξιδίζω]{lang="el"} \*[ταξίδισα]{lang="el"}.
+
+c) [έδειξα]{lang="el"} → **[δείχνω]{lang="el"}**, ich habe gezeigt. [ξ]{lang="el"} zeigt einen
+Kehllaut an; lautlich wären alle drei denkbar ([δείζω]{lang="el"} wie [παίζω]{lang="el"}), aber
+nur [δείχνω]{lang="el"} existiert. Das [ν]{lang="el"} ist die Präsens-Zutat, die im Aorist
+verschwindet.
+
+d) [τελείωσε]{lang="el"} → **[τελειώνω]{lang="el"}**, er/sie/es hat beendet oder ist zu Ende
+gegangen. [-ωσ-]{lang="el"} ist das Kennzeichen der [-ώνω]{lang="el"}-Verben.
+[τελειάζω]{lang="el"} ergäbe \*[τελείασα]{lang="el"}, [τελειώ]{lang="el"}
+\*[τελείησα]{lang="el"}. Hier lässt sich die Antwort also rein aus der Form ableiten.
+
+e) [ρώτησες]{lang="el"} → **[ρωτάω]{lang="el"}**, du hast gefragt. [-ησ-]{lang="el"} mit
+[η]{lang="el"} gehört zu [-άω/-ώ]{lang="el"}. Ein [-ίζω]{lang="el"}-Verb gäbe
+[-ισα]{lang="el"} mit [ι]{lang="el"}: Gesprochen klingen [-ησα]{lang="el"} und
+[-ισα]{lang="el"} gleich [isa], erst die Schrift trennt sie. [ρωτεύω]{lang="el"} ergäbe
+\*[ρώτεψα]{lang="el"}.
+
+f) [έψαξα]{lang="el"} → **[ψάχνω]{lang="el"}**, ich habe gesucht. Das ist die gemeinste
+Aufgabe: Alle drei Kandidaten würden [-ξα]{lang="el"} ergeben, [ψάζω]{lang="el"} wie
+[παίζω]{lang="el"}, [ψάσκω]{lang="el"} wie [διδάσκω]{lang="el"}. Nur die Vokabel entscheidet.
+
+g) [ανακάλυψε]{lang="el"} → **[ανακαλύπτω]{lang="el"}**, er/sie hat entdeckt. Wieder passen
+alle drei lautlich. Die Präsens-Zutat [τ]{lang="el"} ist im Aorist unsichtbar geworden.
+
+h) [πίστεψα]{lang="el"} → **[πιστεύω]{lang="el"}**, ich habe geglaubt. [πιστάω]{lang="el"}
+ergäbe \*[πίστησα]{lang="el"}. [πιστέβω]{lang="el"} wäre lautlich möglich, gibt es aber nicht.
+Wer auf [-εψα]{lang="el"} trifft, tippt am besten zuerst auf [-εύω]{lang="el"}, die mit Abstand
+größte Gruppe.
+
+**Die Lehre daraus:** Aus dem Aorist kommst du sicher auf die Lautgruppe, aber nicht immer auf
+den genauen Präsensbuchstaben. Das ist der Grund, warum die Vokabeltabellen beide Formen
+nennen. Für das Nachschlagen im Wörterbuch hilft eine Faustregel: [-εψα]{lang="el"} →
+[-εύω]{lang="el"}, [-ωσα]{lang="el"} → [-ώνω]{lang="el"}, [-ησα]{lang="el"} →
+[-άω/-ώ]{lang="el"}. [-ισα, -ασα]{lang="el"} führen oft auf [-ίζω, -άζω]{lang="el"}, aber
+auch auf [-νω]{lang="el"} ([έφτασα]{lang="el"}) oder eine der Ausnahmen auf [-άω]{lang="el"}
+([ξέχασα]{lang="el"}). Bei [-ψα]{lang="el"} und [-ξα]{lang="el"} braucht es manchmal mehrere
+Versuche.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -544,7 +855,104 @@ Mehr dazu in Kapitel 32.
 <!-- CHECK: (1) Homerisches Augment als fakultativ, u.a. metrisch bedingt – so in den Standardgrammatiken beschrieben? (2) Zypriotisch: unbetontes Augment im Plural erhalten (Typ εγράψαμεν)? Beispiel ggf. mit Quelle ergänzen. -->
 :::
 
-<!-- EXERCISE: Lernziel: Augment und Betonungswechsel richtig setzen (έγραψα – γράψαμε); Art: Sätze laut umformen Singular ↔ Plural (έκρυψα → wir; ταξιδέψαμε → ich; έτρεξες → ihr; μίλησε → sie Pl. in beiden Formen -αν/-ανε), dazu 3–4 Formen mit typischem Fehler zum Erkennen und Korrigieren (*εγράψαμε, *εδιάβασα, *γράψα, *εαγόρασα); Lösung mit Silbentrennung und IPA, erklärt jeweils über die Regel „drittletzte Silbe“; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 2.5: Das Augment kommt und geht
+
+**Teil A: umformen.** Bring die Form in die neue Person und sag sie laut. Achte darauf, was vorn
+mit dem [ε-]{lang="el"} passiert und wo die Betonung landet.
+
+a) [έκρυψα]{lang="el"} → wir
+b) [ταξιδέψαμε]{lang="el"} → ich
+c) [έτρεξες]{lang="el"} → ihr
+d) [μίλησε]{lang="el"} → sie (Plural), beide Formen
+e) [έχασα]{lang="el"} → wir
+f) [φτάσαμε]{lang="el"} → sie (Plural), neutrale Form
+g) [αγοράσατε]{lang="el"} → ich
+h) [ζήσαμε]{lang="el"} → er
+
+**Teil B: Fehler finden.** Welche dieser Formen sind falsch, und wie heißen sie richtig?
+Vorsicht, nicht alle sind falsch.
+
+1. [εγράψαμε]{lang="el"}
+2. [εδιάβασα]{lang="el"}
+3. [γράψα]{lang="el"}
+4. [έγραψαν]{lang="el"}
+5. [εαγόρασα]{lang="el"}
+6. [έφτασαμε]{lang="el"}
+7. [κατέστρεψα]{lang="el"}
+8. [ανοίξα]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Zerleg jede Form in Silben und zähl von hinten: Die dritte Silbe von hinten trägt die Betonung.
+Fehlt eine dritte Silbe, braucht es das Augment. Ist das Augment nicht betont, hat es nichts zu
+suchen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zwei Sonderfälle aus dem Abschnitt: Verben, die mit einem Vokal anfangen, bekommen kein
+[ε-]{lang="el"}. Und bei manchen Verben mit Vorsilbe steht das Augment in der Wortmitte, betont.
+In Teil B sind genau zwei Formen richtig.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+| Aufgabe | Form | Silben, Aussprache |
+|---|---|---|
+| a) wir | [κρύψαμε]{lang="el"} | [**κρύ**-ψα-με]{lang="el"} [ˈkripsame] |
+| b) ich | [ταξίδεψα]{lang="el"} | [τα-**ξί**-δε-ψα]{lang="el"} [taˈksiðepsa] |
+| c) ihr | [τρέξατε]{lang="el"} | [**τρέ**-ξα-τε]{lang="el"} [ˈtreksate] |
+| d) sie | [μίλησαν]{lang="el"}, umg. [μιλήσανε]{lang="el"} | [**μί**-λη-σαν]{lang="el"} [ˈmilisan], [μι-**λή**-σα-νε]{lang="el"} [miˈlisane] |
+| e) wir | [χάσαμε]{lang="el"} | [**χά**-σα-με]{lang="el"} [ˈxasame] |
+| f) sie | [έφτασαν]{lang="el"} | [**έ**-φτα-σαν]{lang="el"} [ˈeftasan] |
+| g) ich | [αγόρασα]{lang="el"} | [α-**γό**-ρα-σα]{lang="el"} [aˈɣorasa] |
+| h) er | [έζησε]{lang="el"} | [**έ**-ζη-σε]{lang="el"} [ˈezise] |
+
+- a), c), e): Singular → Plural mit [-αμε, -ατε]{lang="el"}. Die Endung bringt selbst die
+  dritte Silbe mit, das Augment wäre unbetont und fliegt raus. Wer \*[εκρύψαμε]{lang="el"}
+  sagt, schleppt es aus der ich-Form mit.
+- f), h): der umgekehrte Weg. [φτάσαμε]{lang="el"} hat kein Augment; mit
+  [-αν]{lang="el"} bleiben ohne Augment nur zwei Silben, also kommt es zurück:
+  [έφτασαν]{lang="el"}. Die umgangssprachliche Form wäre [φτάσανε]{lang="el"}, wieder ohne. Bei h)
+  genauso: [ζήσαμε]{lang="el"} → [έζησε]{lang="el"}, nicht \*[ζήσε]{lang="el"}.
+- b), d), g): Verben, bei denen nie ein Augment auftaucht, weil sie lang genug sind oder (g)
+  mit einem Vokal anfangen. Nur die Betonung wandert, und
+  zwar zurück auf die drittletzte Silbe: [ταξιδέψαμε]{lang="el"} → [ταξίδεψα]{lang="el"}. Bei d)
+  liefern die beiden Pluralformen das schönste Beispiel: [μίλησαν]{lang="el"} und
+  [μιλήσανε]{lang="el"}, dieselbe Regel, zwei verschiedene betonte Silben.
+
+**Teil B**
+
+Richtig sind nur **4** und **7**.
+
+1. \*[εγράψαμε]{lang="el"} → **[γράψαμε]{lang="el"}** [ˈɣrapsame]. Das Augment ist unbetont,
+   also weg damit.
+2. \*[εδιάβασα]{lang="el"} → **[διάβασα]{lang="el"}** [ˈðʝavasa]. Drei Silben sind schon da;
+   das [ε-]{lang="el"} hätte keine Aufgabe.
+3. \*[γράψα]{lang="el"} → **[έγραψα]{lang="el"}** [ˈeɣrapsa]. Zwei Silben reichen nicht für
+   die drittletzte.
+4. [έγραψαν]{lang="el"} ist **richtig**. [-αν]{lang="el"} bringt keine zusätzliche Silbe, das
+   Augment bleibt betont und stehen. Wer hier „korrigiert“, hat die Regel als „im Plural nie
+   Augment“ gelernt; sie lautet aber „nur betont“.
+5. \*[εαγόρασα]{lang="el"} → **[αγόρασα]{lang="el"}** [aˈɣorasa]. Vokal am Anfang, drei
+   Silben: kein Augment.
+6. \*[έφτασαμε]{lang="el"} → **[φτάσαμε]{lang="el"}** [ˈftasame]. Das ist der Fehler hinter
+   dem Fehler: Wer das Augment stehen lässt, lässt meist auch die Betonung darauf stehen, und
+   dann landet sie auf der viertletzten Silbe. Die gibt es im Griechischen nicht.
+7. [κατέστρεψα]{lang="el"} ist **richtig**: inneres Augment zwischen Vorsilbe und Stamm, betont
+   auf der drittletzten Silbe [κα-**τέ**-στρε-ψα]{lang="el"} [kaˈtestrepsa]. Im Plural fällt
+   es weg: [καταστρέψαμε]{lang="el"}.
+8. \*[ανοίξα]{lang="el"} → **[άνοιξα]{lang="el"}** [ˈaniksa]. Kein Augment nötig, aber die
+   Betonung muss nach vorn auf die drittletzte Silbe, [ά-νοι-ξα]{lang="el"}. Achtung beim
+   Silbenzählen: [οι]{lang="el"} ist ein einziger Laut [i], also eine Silbe.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -619,7 +1027,99 @@ Griechen erzählen genauso, aber sie würzen: ein [ξαφνικά]{lang="el"} vo
 der nächste Abschnitt.
 :::
 
-<!-- EXERCISE: Lernziel: kurz erzählen, was gestern passiert ist; Art: mündlich übersetzen bzw. aus Stichpunkten laut erzählen: ein deutscher Tagesablauf mit 6–8 Stationen (aufgewacht um acht, Freundin angerufen, in der Stadt ein Buch gekauft, zwei Stunden gelesen, am Abend Schlüssel verloren, einen Nachbarn um Hilfe gebeten, schließlich die Schlüssel in der Tasche gefunden – „gefunden“ als ανακάλυψα oder mit Hinweis auf βρήκα aus Kapitel 3) nur mit Verben aus diesem Kapitel, dazu πρώτα/μετά/ξαφνικά/τελικά und ήταν/είχε; Musterlösung mit Varianten (έγραψαν/γράψανε, μετά/ύστερα), typische Fehler: Präsens statt Aorist, Augment im Plural, Subjektpronomen überall; Schwierigkeit 3 -->
+::: {.callout-note .exercise}
+## Übung 2.6: Ein ganz normaler Sonntag
+
+Erzähl diesen Tag laut auf Griechisch, Satz für Satz. Nicht Wort für Wort übersetzen, sondern
+so, wie du es einem griechischen Freund erzählen würdest: Zeitangabe vorn, Subjektpronomen
+weglassen, und würz die Kette mit [πρώτα, μετά, ξαφνικά, τελικά]{lang="el"}.
+
+1. Gestern bin ich um zehn aufgewacht.
+2. Zuerst habe ich meine Mutter angerufen.
+3. Danach habe ich ein Buch über Schliemann gekauft.
+4. Ich habe drei Stunden gelesen. Das Buch war sehr gut.
+5. Am Abend habe ich plötzlich meine Schlüssel verloren.
+6. Ich habe eine Stunde gesucht.
+7. Dann sind zwei Freunde vorbeigekommen, und wir haben bis drei Uhr gesucht.
+8. Schließlich habe ich die Schlüssel entdeckt: im Kühlschrank.
+
+**Worthilfen:** [τα κλειδιά μου]{lang="el"} [ta kliˈðʝa mu] meine Schlüssel ·
+[δύο φίλοι]{lang="el"} [ˈðio ˈfili] zwei Freunde · [μία ώρα]{lang="el"} eine Stunde ·
+[πολύ καλό]{lang="el"} sehr gut.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Such zuerst für jeden Satz das Verb und bilde die Aoristform, bevor du den Satz baust:
+aufwachen [ξυπνάω]{lang="el"}, anrufen [τηλεφωνώ]{lang="el"}, kaufen, lesen, verlieren
+[χάνω]{lang="el"}, suchen [ψάχνω]{lang="el"}, vorbeikommen [περνάω]{lang="el"}, entdecken
+[ανακαλύπτω]{lang="el"}. „War“ ist kein Aorist, sondern [ήταν]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Drei Stellen verlangen Aufmerksamkeit: [περνάω]{lang="el"} gehört zu den Verben mit
+[α]{lang="el"} statt [η]{lang="el"} im Aorist. In Satz 7 wechselt die Person zu „wir“: Das Augment
+aus Satz 6 muss dabei weg. Und „anrufen“ nimmt im
+Griechischen [σε]{lang="el"}: [τηλεφωνώ στη μητέρα μου]{lang="el"}, wie
+[έγραψες στη μητέρα σου]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Eine mögliche Fassung:
+
+::: {lang="el"}
+Χθες ξύπνησα στις δέκα. Πρώτα τηλεφώνησα στη μητέρα μου. Μετά αγόρασα ένα βιβλίο για τον
+Σλήμαν. Διάβασα τρεις ώρες. Το βιβλίο ήταν πολύ καλό. Το βράδυ ξαφνικά έχασα τα κλειδιά μου.
+Έψαξα μία ώρα. Μετά πέρασαν δύο φίλοι και ψάξαμε μέχρι τις τρεις. Τελικά ανακάλυψα τα
+κλειδιά… στο ψυγείο.
+:::
+
+**Die Verben im Einzelnen:**
+
+| Satz | Form | Aussprache |
+|---|---|---|
+| 1 | [ξύπνησα]{lang="el"} | [ˈksipnisa] |
+| 2 | [τηλεφώνησα]{lang="el"} | [tileˈfonisa] |
+| 3 | [αγόρασα]{lang="el"} | [aˈɣorasa] |
+| 4 | [διάβασα]{lang="el"}, [ήταν]{lang="el"} | [ˈðʝavasa], [ˈitan] |
+| 5 | [έχασα]{lang="el"} | [ˈexasa] |
+| 6 | [έψαξα]{lang="el"} | [ˈepsaksa] |
+| 7 | [πέρασαν]{lang="el"}, [ψάξαμε]{lang="el"} | [ˈperasan], [ˈpsaksame] |
+| 8 | [ανακάλυψα]{lang="el"} | [anaˈkalipsa] |
+
+**Auch richtig:** [ύστερα]{lang="el"} statt [μετά]{lang="el"}; [στις δέκα]{lang="el"} ans Ende
+statt nach [χθες]{lang="el"}; in Satz 7 [δύο φίλοι πέρασαν]{lang="el"} mit dem Subjekt vorn
+(Verb zuerst klingt beim Erzählen etwas natürlicher, beides ist korrekt) oder umgangssprachlich
+[περάσανε]{lang="el"} [peˈrasane]; [μια ώρα]{lang="el"} statt [μία ώρα]{lang="el"}.
+
+**Zu Satz 8:** Ein Grieche würde hier [βρήκα]{lang="el"} sagen, „ich fand“, einen
+unregelmäßigen Aorist aus Kapitel 3. [ανακάλυψα]{lang="el"} ist grammatisch richtig und klingt
+nach Schliemann, der einen Schatz ausgräbt. Für Schlüssel im Kühlschrank ist das genau der
+richtige Ton.
+
+**Typische Fehler:**
+
+- **Präsens statt Aorist,** vor allem bei den Verben, deren Aorist noch nicht sitzt:
+  \*[Χθες ξυπνάω στις δέκα]{lang="el"}. Wer im Kopf noch nach der Form sucht, greift gern zum
+  vertrauten Präsens.
+- **Augment im Plural:** \*[εψάξαμε]{lang="el"} in Satz 7. Richtig ist [ψάξαμε]{lang="el"}; das
+  Augment wäre unbetont. Hätten nur die Freunde gesucht, hieße es dagegen
+  [έψαξαν]{lang="el"} mit Augment, denn [-αν]{lang="el"} bringt keine Silbe mit.
+  [πέρασαν]{lang="el"} braucht keins, es hat auch so drei Silben: [πέ-ρα-σαν]{lang="el"}.
+- **\*[πέρησαν]{lang="el"}** nach dem Muster [-άω → -ησα]{lang="el"}. [περνάω]{lang="el"} ist
+  eine der Ausnahmen mit [-ασα]{lang="el"}; außerdem fällt das [ν]{lang="el"} weg.
+- **Subjektpronomen überall:** \*[Εγώ ξύπνησα… Εγώ τηλεφώνησα…]{lang="el"} klingt, als
+  müsstest du jedes Mal betonen, dass wirklich du es warst. Die Endung [-α]{lang="el"} sagt schon, wer es war.
+- **„Anrufen“ mit Akkusativ:** \*[τηλεφώνησα τη μητέρα μου]{lang="el"}. Richtig ist
+  [τηλεφώνησα στη μητέρα μου]{lang="el"}.
+- **Aorist für „war“:** [είμαι]{lang="el"} hat keinen; [ήταν]{lang="el"} ist die einzige
+  Vergangenheit.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -786,7 +1286,99 @@ nicht alles verstehen, aber du wirst die Aoriste heraushören. Einzelne Formen k
 Wiktionary oder Forvo nachhören.
 :::
 
-<!-- EXERCISE: Lernziel: Diskursmarker einer Erzählung verstehen (λοιπόν, άκου να δεις, που λες, με τα πολλά, τελικά, μη μου πεις, έλα, σοβαρά;); Art: Zuordnen Marker → Funktion (Erzählung eröffnen, Überraschung ankündigen, Faden halten, Zeit überspringen, Ende einleiten, Staunen des Zuhörers) mit nummerierten Optionen, plus 2 Items „Was meint der Zuhörer mit Έλα! an dieser Stelle?“ (Unterschied zu έλα = komm); Lösung erklärt die Funktion statt Übersetzung; Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 2.7: Wörter, die nichts bedeuten
+
+**Teil A.** Welche Aufgabe hat jedes dieser Wörter in einer Erzählung? Ordne zu; eine Funktion
+kann mehrfach vorkommen.
+
+a) [λοιπόν]{lang="el"}
+b) [άκου να δεις]{lang="el"}
+c) [που λες]{lang="el"}
+d) [και ξαφνικά]{lang="el"}
+e) [με τα πολλά]{lang="el"}
+f) [τελικά]{lang="el"}
+g) [μη μου πεις]{lang="el"}
+h) [σοβαρά;]{lang="el"}
+
+Funktionen:
+
+1. die Erzählung eröffnen, das Wort für länger beanspruchen
+2. etwas Überraschendes ankündigen
+3. den Faden halten, ohne etwas zu sagen
+4. die Wendung vorbereiten
+5. langweilige Zeit überspringen
+6. zum Ende führen
+7. als Zuhörer Staunen und Anteilnahme zeigen
+
+**Teil B.** [έλα]{lang="el"} heißt wörtlich „komm!“. Was bedeutet es in diesen beiden
+Situationen: (1) „Komm (her)!“ oder (2) „Ach was! Nicht dein Ernst!“?
+
+i) Die Geschichte vom Onkel: — [Στο σαλόνι έχει τζάμι στο πάτωμα, και από κάτω ο τοίχος.]{lang="el"} — [Έλα!]{lang="el"}
+ii) Im Büro winkt eine Kollegin von ihrem Bildschirm herüber: — [Έλα! Κοίτα!]{lang="el"}
+([κοίτα]{lang="el"} schau)
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Lies die Geschichte vom Onkel noch einmal und achte darauf, **wo** jedes Wort steht: ganz am
+Anfang, mitten im Satz, vor der Pointe, nach einer langen Pause in der Handlung, oder im Mund des
+Zuhörers?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zwei der Wörter in Teil A sagt nur der Zuhörer. Und [άκου να δεις]{lang="el"} kommt in der
+Geschichte zweimal vor: ganz am Anfang und kurz vor dem Glas im Fußboden.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: a1, b2, c3, d4, e5, f6, g7, h7.**
+
+a) [λοιπόν]{lang="el"}: **eröffnen.** Wer es sagt, meldet an, dass jetzt mehr als ein Satz
+kommt. Es steht fast immer ganz vorn, oft mit Pause danach.
+
+b) [άκου να δεις]{lang="el"}: **Überraschung ankündigen**, „jetzt pass auf“. Es steht in der
+Geschichte am Anfang und noch einmal vor der Pointe. Wer es als Eröffnung (1) eingeordnet hat,
+liegt nicht ganz falsch, denn am Anfang übernimmt es beides; seine eigentliche Leistung ist aber
+die Spannung, deshalb taucht es vor der Pointe wieder auf.
+
+c) [που λες]{lang="el"}: **Faden halten.** Es bedeutet nichts, es heißt nur „ich erzähl
+weiter, hör zu“. Wörtlich „was du sagst“ führt in die Irre; der Zuhörer hat ja gar nichts gesagt.
+
+d) [και ξαφνικά]{lang="el"}: **Wendung vorbereiten.** Danach kommt das, worum es geht (die
+Mauer). Gute Erzähler machen nach [ξαφνικά]{lang="el"} eine Pause.
+
+e) [με τα πολλά]{lang="el"}: **Zeit überspringen.** Zwei Jahre Bürokratie in drei Wörtern:
+„irgendwann, nach langem Hin und Her“.
+
+f) [τελικά]{lang="el"}: **zum Ende führen**, „schließlich, am Ende doch“. Oft mit einem
+Unterton von „wider Erwarten“.
+
+g) und h) [μη μου πεις]{lang="el"}, [σοβαρά;]{lang="el"}: **Zuhörer.** Beide sagen nichts
+Inhaltliches, zeigen aber, dass die Geschichte ankommt. [Μη μου πεις]{lang="el"} heißt wörtlich
+„sag es mir nicht“, gemeint ist „sag bloß“, also genau das Gegenteil: erzähl weiter.
+
+Ein häufiger Irrtum ist, diese Wörter beim Hören als Inhalt verstehen zu wollen und dann den
+Faden zu verlieren. Besser: Sie als Wegweiser nehmen. Nach [ξαφνικά]{lang="el"} genau
+hinhören, bei [με τα πολλά]{lang="el"} kurz durchatmen.
+
+**Teil B: i2, ii1.**
+
+i) **„Ach was!“** Niemand soll hier irgendwohin kommen, beide sitzen ja schon am Tisch. Der
+Zuhörer reagiert auf die Pointe, und das [Σοβαρά;]{lang="el"}, das im Text direkt folgt, zeigt
+die Stimmung: ungläubiges Staunen. Dieses [Έλα!]{lang="el"} wird oft gedehnt gesprochen.
+
+ii) **„Komm her!“** Hier ist es wörtlich gemeint, die Kollegin will jemanden an ihren
+Bildschirm holen. Das [κοίτα]{lang="el"} danach macht es eindeutig.
+
+Welche Bedeutung gemeint ist, entscheidet die Situation, nicht das Wort. Dieses kleine Wort wirst
+du in griechischen Filmen in fast jeder Szene hören, in noch mehr Rollen, als hier Platz haben.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -983,7 +1575,126 @@ Zum Nachlesen: David A. Traill, *Schliemann of Troy: Treasure and Deceit* (1995)
 <!-- CHECK: Einzelheiten prüfen: (1) Weihnachten 1829 / Jerrers Weltgeschichte als Geschenk des Vaters; Autobiografie in „Ilios“ (1880/81); (2) Schliemanns Eingeständnis, dass Sophia nicht anwesend war (Brief an Charles Newton?); (3) Behauptung „Neugriechisch in sechs Wochen“ in der Autobiografie; (4) „über hundert Arbeiter“ (1872/73 ca. 100–160); (5) Schenkung an Berlin 1881; offizielles russisches Eingeständnis 1993, Ausstellung im Puschkin-Museum seit 1996; (6) Datierung Troja II (ca. 2500–2300 v. Chr.) und „über tausend Jahre älter“ als der traditionelle Kriegstermin um 1200 v. Chr.; (7) Schliemanns Mausoleum von Ernst Ziller auf dem Ersten Friedhof Athen: tempelartig, Fries mit Grabungsszenen aus Troja; (8) Kontore: Amsterdam (B. H. Schröder & Co.), Sankt Petersburg ab 1846; Indigohandel; Lieferungen von Salpeter, Schwefel und Blei im Krimkrieg; (9) Calvert: Besitz eines Teils des Hügels Hisarlık, Treffen 1868; (10) „Τον έθαψαν“ – Tod 26.12.1890 in Neapel, „τα Χριστούγεννα“ vertretbar? -->
 :::
 
-<!-- EXERCISE: Lernziel: Aoriste im zusammenhängenden Text erkennen und verstehen; Art: Leseverstehen richtig/falsch zum Schliemann-Text (6–8 Aussagen, u. a. „Schliemann studierte Archäologie“, „Sophia half beim Fund“, „Der Schatz ist heute in Berlin“), danach: im 4. und 5. Absatz alle Aoriste finden und jeweils laut die Präsensform nennen (έσκαψε → σκάβω, κατέστρεψε → καταστρέφω mit innerem Augment, ονόμασε → ονομάζω …); Lösung mit Begründung aus dem Text und Liste aller Aoriste mit Präsens; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 2.8: Was der Text wirklich sagt
+
+**Teil A: richtig oder falsch?** Beantworte die Aussagen aus dem griechischen Text heraus, nicht
+aus der Übersetzung (und nicht aus dem, was du über Schliemann schon wusstest).
+
+1. Schliemann hat Archäologie studiert.
+2. Nach seiner eigenen Darstellung bekam er als Siebenjähriger zu Weihnachten ein Buch mit einem
+   Bild vom brennenden Troja.
+3. Im Krimkrieg verdiente er Geld mit Lieferungen an die russische Armee.
+4. Calvert glaubte Schliemann, dass Troja unter dem Hügel Hisarlık lag.
+5. Schliemann fand auf dem Hügel mehrere Städte übereinander.
+6. Sophia half beim Fund und trug den Schmuck in ihrem Schal hinaus.
+7. Der Schatz ist älter als der Trojanische Krieg.
+8. Der Schatz ist heute in Berlin.
+
+**Teil B: Aoriste jagen.** Lies die beiden Absätze, die mit [Το 1870]{lang="el"} und
+[Το 1873]{lang="el"} beginnen. Finde alle Aoristformen und nenn zu jeder laut das Präsens. Es
+sind zwölf; eine davon ist unregelmäßig und steht in den Worthilfen.
+
+**Teil C: Aussprache.** Lies diese Wörter aus dem Text laut:
+[ο έμπορος]{lang="el"}, [η μπογιά]{lang="el"}, [το μπαρούτι]{lang="el"},
+[ο αρχαιολόγος]{lang="el"}, [η εικόνα]{lang="el"}, [τα κοσμήματα]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Die Aussagen 1, 4, 6 und 8 hängen jeweils an einem einzigen Satz: [δεν άρχισε τη ζωή του
+ως αρχαιολόγος]{lang="el"}, [τον πίστεψε]{lang="el"}, [δεν ήταν καν εκεί]{lang="el"},
+[σήμερα βρίσκεται]{lang="el"}. Bei 4 genau hinschauen, wer wem glaubt.
+
+Teil B: Aoriste erkennst du an der Endung [-ε]{lang="el"} oder [-αν]{lang="el"} mit
+[σ, ψ, ξ]{lang="el"} davor und der Betonung weit vorn.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil B: Fünf Aoriste stehen im ersten Absatz, sieben im zweiten. Einer versteckt sein Augment in
+der Wortmitte. Nicht mitzählen: [ήταν]{lang="el"} (keine Aoristform, [είμαι]{lang="el"} hat
+keinen Aorist) und [να σκάβει]{lang="el"}.
+
+Teil C: Fünf der sechs Wörter enthalten einen Digraphen, also zwei Buchstaben für einen Laut.
+Beim sechsten passiert etwas mit dem [σ]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1 falsch, 2 richtig, 3 richtig, 4 falsch, 5 richtig, 6 falsch, 7 richtig, 8 falsch.**
+
+1. **Falsch.** [Ο Σλήμαν δεν άρχισε τη ζωή του ως αρχαιολόγος]{lang="el"}: Er war Kaufmann.
+   [Μελέτησε]{lang="el"} bezieht sich auf Fremdsprachen, nicht auf Archäologie.
+2. **Richtig**, und die Einschränkung gehört dazu: [Τουλάχιστον έτσι το έγραψε ο ίδιος]{lang="el"},
+   „so hat er es jedenfalls selbst geschrieben“. Der Text sagt, dass viele Historiker ihm nicht
+   glauben.
+3. **Richtig.** [Πούλησε υλικά για μπαρούτι στον ρωσικό στρατό και κέρδισε ακόμα
+   περισσότερα.]{lang="el"}
+4. **Falsch**, und das ist die Stelle, an der man beim schnellen Lesen stolpert. Calvert war
+   sicher, und [ο Σλήμαν τον πίστεψε]{lang="el"}: Schliemann glaubte *ihm*. Das Subjekt steht
+   hier vorn, das [τον]{lang="el"} ist das Objekt.
+5. **Richtig.** [ανακάλυψε όχι μία, αλλά πολλές πόλεις, τη μία πάνω στην άλλη]{lang="el"}.
+6. **Falsch.** So hat Schliemann es später dargestellt ([αργότερα έγραψε ότι…]{lang="el"}),
+   aber [η Σοφία δεν ήταν καν εκεί]{lang="el"}.
+7. **Richtig.** Über tausend Jahre älter, und das nur, falls der Krieg überhaupt stattfand.
+8. **Falsch.** Schliemann schenkte ihn Berlin, aber 1945 verschwand er. Heute:
+   [στη Μόσχα… στο Μουσείο Πούσκιν]{lang="el"}.
+
+**Teil B**
+
+Absatz [Το 1870]{lang="el"}:
+
+| im Text | Präsens | Anmerkung |
+|---|---|---|
+| [άρχισε]{lang="el"} | [αρχίζω]{lang="el"} | Vokal am Anfang, kein Augment |
+| [δούλεψαν]{lang="el"} | [δουλεύω]{lang="el"} | [-εύω → -εψα]{lang="el"}; jahrelang, trotzdem Aorist |
+| [άνοιξε]{lang="el"} | [ανοίγω]{lang="el"} | hier: einen Graben anlegen |
+| [ανακάλυψε]{lang="el"} | [ανακαλύπτω]{lang="el"} | |
+| [κατέστρεψε]{lang="el"} | [καταστρέφω]{lang="el"} | inneres Augment: [κατα-]{lang="el"} + [έ]{lang="el"} + [στρεψε]{lang="el"} |
+
+Absatz [Το 1873]{lang="el"}:
+
+| im Text | Präsens | Anmerkung |
+|---|---|---|
+| [ανακάλυψε]{lang="el"} | [ανακαλύπτω]{lang="el"} | |
+| [ονόμασε]{lang="el"} | [ονομάζω]{lang="el"} | [-ζω → -σα]{lang="el"} |
+| [έκρυψε]{lang="el"} | [κρύβω]{lang="el"} | Augment, weil sonst nur zwei Silben |
+| [έστειλε]{lang="el"} | [στέλνω]{lang="el"} | unregelmäßig, kein [σ]{lang="el"} (Worthilfen) |
+| [έγραψε]{lang="el"} | [γράφω]{lang="el"} | |
+| [βοήθησε]{lang="el"} | [βοηθάω]{lang="el"} | [-άω → -ησα]{lang="el"} |
+| [μάζεψε]{lang="el"} | [μαζεύω]{lang="el"} | [-εύω → -εψα]{lang="el"} |
+
+Zwei Dinge lohnen einen zweiten Blick. [δούλεψαν]{lang="el"}: Jahrelange Arbeit, und trotzdem
+Aorist, weil der Text sie als abgeschlossenes Ganzes zusammenfasst, genau wie in Übung 2.1.
+Und [κατέστρεψε]{lang="el"}: Wer nach einem [έ-]{lang="el"} am Wortanfang sucht, übersieht
+es. Der Stamm ist [στρεφ-]{lang="el"}, mit [σ]{lang="el"} wird er zu [στρεψ-]{lang="el"}, und
+das Augment sitzt hinter der Vorsilbe.
+
+**Leicht übersehen:** [ονόμασε]{lang="el"} und [μάζεψε]{lang="el"}, weil die Verben neu sind.
+**Fälschlich mitgezählt:** [ήταν]{lang="el"} (zweimal im zweiten Absatz) ist die einzige
+Vergangenheit von [είμαι]{lang="el"}; [να σκάβει]{lang="el"} ist eine [να]{lang="el"}-Form mit
+dem imperfektiven Stamm (Kapitel 5).
+
+**Teil C**
+
+| Wort | Aussprache | worauf es ankommt |
+|---|---|---|
+| [ο έμπορος]{lang="el"} | [o ˈeboros] | [μπ]{lang="el"} ist [b], nicht „mp“ |
+| [η μπογιά]{lang="el"} | [i boˈʝa] | [μπ]{lang="el"} am Wortanfang: [b] |
+| [το μπαρούτι]{lang="el"} | [to baˈruti] | [b], und [ου]{lang="el"} ist [u] |
+| [ο αρχαιολόγος]{lang="el"} | [o arçeoˈloɣos] | [αι]{lang="el"} ist [e]; [χ]{lang="el"} vor [e] wie in *ich* |
+| [η εικόνα]{lang="el"} | [i iˈkona] | [ει]{lang="el"} ist [i] |
+| [τα κοσμήματα]{lang="el"} | [ta kozˈmimata] | [σ]{lang="el"} vor [μ]{lang="el"} wird stimmhaft [z] |
+
+Der häufigste Fehler ist „emporos“ mit hörbarem [p]. Das ist die Schreibung, nicht der Laut:
+[μπ]{lang="el"} in der Wortmitte ist [b] (manche Sprecher sagen [mb], aber nicht [mp]). Wer
+[ˈemboros] sagt, ist im grünen Bereich; wer [ˈemporos] sagt, spricht die Buchstaben, nicht das
+Wort.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
