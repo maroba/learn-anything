@@ -91,7 +91,7 @@ Objekt zweimal vorkommt:
 Am deutschen Küchentisch sagt man auch: „Den Nachbarn, den kenn ich wenigstens.“ Was im Deutschen
 salopp klingt, ist im Griechischen der Normalfall: Steht ein
 bekanntes Objekt vor dem Verb, wiederholt es in der Regel ein schwaches Pronomen. Das heißt in
-diesem Buch **Doppelung**, das Fachwort ist Klitikdoppelung. Dazu kommen die langen Formen
+diesem Buch **Doppelung**, das Fachwort ist Klitikdoppelung ([κλιτικός διπλασιασμός]{lang="el"}). Dazu kommen die langen Formen
 [εμένα, εσένα]{lang="el"}: die **starken Pronomen** ([οι δυνατοί τύποι]{lang="el"}), die
 Gegenstücke der schwachen aus Kapitel 8. Mit beidem setzt das Griechische Nachdruck, und wo
 gestritten wird, hört man es in jedem zweiten Satz.
