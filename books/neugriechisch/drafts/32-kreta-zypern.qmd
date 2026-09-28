@@ -187,9 +187,95 @@ auf Zypern und auf vielen Inseln der Ägäis fragt man [Ίντα;]{lang="el"}. D
 
 <!-- CHECK: γιάντα < για + ίντα; Schreibung τσαι/τσι für kretisches και/κι in Chats; ντα als kretische Partikel „na, also“ (Bedeutung, Schreibung); κιανείς/κιανένας als kretisch; ετσά auf Kreta (für Zypern belegt: el.wikipedia „Κυπριακή διάλεκτος“, ετσά < ετσιδά); μπλιο (en.wikipedia „Cretan Greek“); ίντα-Zone Kreta, Zypern, Kykladen, Dodekanes (el.wikipedia); θωρώ auf Kreta (Erotokritos: εθώρου) und Zypern; Herleitung θωρώ < θεωρώ, verwandt mit θέατρο -->
 
-<!-- EXERCISE: kretische Aussprache erkennen; Hörbilder in IPA ([tʃe], [ˈʃeri], [eˈtʃinos], [ʒiˈneka], [tʃaˈnis] …) dem Standardwort zuordnen und sagen, welcher Buchstabe dahintersteckt (κ, χ, γ); Liste als .no-audio, keine Lösung an ▶ gebunden; Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 32.1: Welcher Buchstabe zischt?
 
-<!-- EXERCISE: kretische Wörter verstehen; sechs kurze Sätze im kretischen Stil (ίντα, γιάντα, κατέχω, μπλιο, θωρώ, ετσά, κιανείς) laut in Standard umformen und übersetzen, eine Falle mit κατέχω („besitzen“ vs. „wissen“); Block .no-audio; Schwierigkeit 2 -->
+So klingt es auf Kreta. Welches Wort ist gemeint, und welcher Buchstabe steckt hinter dem
+Zischlaut: [κ, χ]{lang="el"} oder [γ]{lang="el"}? Im Chat etwa „1κ, 2χ“.
+
+1. [tʃe]
+2. [to ˈʃeri]
+3. [eˈtʃinos]
+4. [i ʒiˈneka]
+5. [o ˈtʃirios]
+6. [ˈeʃis]
+7. [ˈtsai]
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+[tʃ] ist im Standard [c], [ʃ] ist [ç], [ʒ] ist [ʝ]. Setz den Standardlaut ein und lies das Wort
+noch einmal.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+5 ist eine Anrede, 6 eine Verbform der zweiten Person. Eins der sieben Wörter ist gar nicht
+kretisch.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [και]{lang="el"}, **κ**.
+2. [το χέρι]{lang="el"}, **χ**.
+3. [εκείνος]{lang="el"}, **κ**.
+4. [η γυναίκα]{lang="el"}, **γ** vor [i] (geschrieben [υ]{lang="el"}).
+5. [ο κύριος]{lang="el"}, **κ** vor [i].
+6. [έχεις]{lang="el"}, **χ**.
+7. [το τσάι]{lang="el"}, **keiner**: [ts] ohne *sch* ist das [τσ]{lang="el"} des Standards.
+
+Es zählt der Laut dahinter, nicht die Schreibung: Vor [a o u] zischt nichts, [έχουμε]{lang="el"}
+bleibt auch auf Kreta [ˈexume].
+:::
+
+::: {.callout-note .exercise}
+## Übung 32.2: Kretisch in Standard
+
+Sag jeden Satz laut in Standard und übersetze ihn. Im Chat: die Nummer des Satzes, den man am
+leichtesten falsch übersetzt, und warum.
+
+::: {lang="el" .no-audio}
+1. Ίντα θωρείς εκεί πάνω;
+2. Γιάντα δεν ήρθες χθες στο γλέντι;
+3. Κατέχεις τον Μανόλη;
+4. Κιανείς δεν κατέχει ίντα έγινε.
+5. Δεν πίνω μπλιο ρακή.
+6. Ετσά είναι η ζωή.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Tausch nur die Inselwörter aus (Tabelle in @sec-kz-kreta-woerter); Satzbau und Endungen bleiben.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Ein Wort gibt es auch im Standard, dort mit anderer Bedeutung.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [Τι βλέπεις εκεί πάνω;]{lang="el"} „Was siehst du da oben?“
+2. [Γιατί δεν ήρθες χθες στο γλέντι;]{lang="el"} „Warum bist du gestern nicht zum Fest
+   gekommen?“
+3. [Ξέρεις τον Μανόλη;]{lang="el"} „Kennst du Manolis?“
+4. [Κανείς δεν ξέρει τι έγινε.]{lang="el"} „Keiner weiß, was passiert ist.“
+5. [Δεν πίνω πια ρακή.]{lang="el"} „Ich trinke keinen Raki mehr.“
+6. [Έτσι είναι η ζωή.]{lang="el"} „So ist das Leben.“
+
+**Die Falle ist 3**, auch 4: Im Standard ist [κατέχω]{lang="el"} gehoben und heißt „besitzen,
+innehaben“ ([κατέχει μια θέση]{lang="el"} „hat eine Stelle inne“), bei Fächern auch
+„beherrschen“. „Besitzt du Manolis?“ ergibt keinen Sinn; auf Kreta heißt es „kennen, wissen“.
+Bei 5 nicht an [πιο]{lang="el"} „mehr“ im Vergleich denken: [μπλιο]{lang="el"} ist das „nicht mehr“
+der Verneinung.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -253,7 +339,65 @@ Tiefe geht“: das Rad des Schicksals. Kretisch sind hier die Endungen: [ανε�
 
 <!-- CHECK: Wortlaut der ersten beiden Verse des Erotokritos (Ausgabe Alexiou bzw. Xanthoudidis 1915), bes. „ανεβοκατεβαίνου“, „πηαίνου“, Großschreibung Κύκλου/Τροχού; Datierung 1590–1610, 10 012 Verse, Druck Venedig 1713 (en.wikipedia „Erotokritos“) -->
 
-<!-- EXERCISE: Form der Mantinada; (a) Silben einer neuen, selbst erfundenen Mantinada zählen und Pause/Reim zeigen, (b) zu einer ersten Zeile aus drei Kandidaten die passende zweite wählen (15 Silben, Betonung auf der 14., Reim), Antwort als Buchstabe; nur erfundene Verse; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 32.3: Zähl nach
+
+**Teil 1.** Eine Mantinada für den Großvater aus dem Kafenion. Zähl die Silben jeder Zeile, zeig
+die Pause, nenn die vierzehnte Silbe und den Reim.
+
+::: {lang="el" .no-audio}
+Μικρή ρακή, μικρή χαρά, μικρή κι η καλησπέρα·\
+φέρε μεγάλη τη ρακή, ώσπου να φέξει μέρα.
+:::
+
+**Teil 2.** Welche zweite Zeile passt zu dieser ersten? Im Chat ein Buchstabe.
+
+::: {lang="el" .no-audio}
+Όλη τη νύχτα τραγουδώ και συ δε με κοιτάζεις·
+:::
+
+::: {lang="el" .no-audio}
+a) γύρνα να δεις ποιος σ’ αγαπά, πριν χάσω τη φωνή μου.
+
+b) γύρνα να δεις ποιος σ’ αγαπά, κι ας με ξαναπειράζεις.
+
+c) γύρνα να δεις ποιος σ’ αγαπά, και μη με ξαναπειράζεις.
+:::
+
+[ώσπου να φέξει]{lang="el"} „bis es hell wird“, [πειράζω]{lang="el"} „necken“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Zähl die Vokale, wie man sie spricht: [κι]{lang="el"} vor einem Vokal ist keine eigene Silbe, und
+[ποιος]{lang="el"} ist einsilbig. Die Pause liegt dort, wo das Komma steht.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+In Teil 2 haben alle drei Zeilen dieselbe erste Hälfte. Prüf die zweite auf drei Dinge: sieben
+Silben, Betonung auf der vorletzten, Klang ab dem betonten Vokal wie [-ˈtazis].
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil 1**, beide Zeilen 8 + 7 = 15:
+
+[μι-κρή-ρα-κή-μι-κρή-χα-ρά | μι-κρή-κι η-κα-λη-σπέ-ρα]{lang="el"}\
+[φέ-ρε-με-γά-λη-τη-ρα-κή | ώ-σπου-να-φέ-ξει-μέ-ρα]{lang="el"}
+
+Vierzehnte Silbe: [σπέ]{lang="el"} und [μέ]{lang="el"}. Reim: [-ˈera]. Die Falle ist
+[κι η]{lang="el"} [ci]: eine Silbe, wie [κι εσύ]{lang="el"} im Text. Wer 16 zählt, hat hier
+getrennt.
+
+**Teil 2: b.** [κι ας-με-ξα-να-πει-ρά-ζεις]{lang="el"}: sieben Silben, [ρά]{lang="el"} ist die
+vierzehnte, [-ˈazis] reimt auf [-ˈtazis]. Zeile a hat das Maß, reimt aber nicht. Zeile c reimt,
+hat aber mit [και-μη]{lang="el"} eine Silbe zu viel; die Betonung rutscht auf die fünfzehnte. Wer
+[κι-ας]{lang="el"} als zwei Silben zählt, hält b fälschlich für zu lang.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -368,7 +512,54 @@ Linie** ([η Πράσινη Γραμμή]{lang="el"}), zieht sich über die Inse
 Nikosia, griechisch [η Λευκωσία]{lang="el"} (*Lefkosia*). Seit 2004 ist die Republik Zypern in der
 EU.
 
-<!-- EXERCISE: zypriotische Sätze verstehen; acht geschriebene Sätze (ν am Wortende, Pronomen hinter dem Verb, εν in drei Aufgaben, εν να, τζιαι, έσσω, ίντα) laut ins Standardgriechische übertragen; bei εν sagen, welche Aufgabe (ist / nicht / Futur); Block .no-audio; Schwierigkeit 2–3 -->
+::: {.callout-note .exercise}
+## Übung 32.4: Zypriotisch in Standard
+
+Sag jeden Satz laut in Standard. Bei [εν]{lang="el"}: „ist“, „nicht“ oder Futur? Im Chat etwa
+„2 ist, 3 nicht …“.
+
+::: {lang="el" .no-audio}
+1. Είδα τον χθες στη Λευκωσία.
+2. Εν καλό το φαΐ.
+3. Εν ξέρω ίντα θέλει.
+4. Εν να πάω έσσω.
+5. Είπεν μου ότι εν κουρασμένη.
+6. Ο Γιώργος τζιαι η Μαρία εν ήρθαν.
+7. Εν να σου το πω αύριο.
+8. Εγράψαμεν το γράμμα τζιαι εστείλαμέν το.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Bei [εν]{lang="el"} aufs nächste Wort schauen: Adjektiv, Verb oder [να]{lang="el"}?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Ein nachgestelltes Pronomen wandert im Standard vors Verb. In 7 steht es schon vorn: Warum?
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [Τον είδα χθες στη Λευκωσία.]{lang="el"}
+2. **ist:** [Είναι καλό το φαγητό.]{lang="el"}
+3. **nicht:** [Δεν ξέρω τι θέλει.]{lang="el"}
+4. **Futur:** [Θα πάω σπίτι.]{lang="el"}
+5. **ist:** [Μου είπε ότι είναι κουρασμένη.]{lang="el"} Schluss-[ν]{lang="el"} weg, Pronomen
+   nach vorn.
+6. **nicht:** [Ο Γιώργος και η Μαρία δεν ήρθαν.]{lang="el"}
+7. **Futur:** [Θα σου το πω αύριο.]{lang="el"} Nach [να]{lang="el"} stehen die Pronomen auch
+   auf Zypern vorn.
+8. [Γράψαμε το γράμμα και το στείλαμε.]{lang="el"} Augment und [ν]{lang="el"} fallen weg, das
+   Pronomen rückt vor.
+
+Typische Fehler: [εν]{lang="el"} für [ένα]{lang="el"} halten, und bei [εν να]{lang="el"}
+„ist zu“ verstehen.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -436,7 +627,60 @@ aber keine Geminaten und kein [tʃ]. Erst hören, dann lesen:
 — Εν να σου πω ό,τι θέλεις. Όι όμως μέσα στο σινεμά.
 :::
 
-<!-- EXERCISE: Hörverstehen der zypriotischen Szene; erst zweimal mit ▶ ohne Text: Wohin, wann, welcher Film, warum wird sie ihn verstehen, was passiert danach (Multiple Choice, Antwort als Buchstaben); dann mit Text: alle εν finden und je sagen „ist / nicht / Futur“, dazu Pronomen hinter dem Verb, τζιαι, έσσω; keine Lösung an Aussprache gebunden; Übersetzung in der Lösung; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 32.5: Kino an der Grünen Linie
+
+Hör die Szene zweimal mit ▶, ohne den Text aufzuklappen. Im Chat etwa „1a, 2b …“.
+
+1. Was schlägt er vor? a) morgen ins Kino, b) heute Abend essen gehen, c) heute Abend ins Kino
+2. Der Film ist a) zypriotisch, er kennt ihn vom Festival, b) zypriotisch und neu,
+   c) griechisch, vom Festival
+3. Warum wird sie ihn verstehen? a) Untertitel, b) wenig Worte, viel Musik, c) er ist in
+   Standard
+4. Wo läuft er? a) im neuen Festivalkino, b) im alten Kino nahe der Grünen Linie, c) gleich
+   bei ihm um die Ecke
+5. Und danach? a) zu ihm, seine Mutter kocht, b) in eine Taverne, c) zu ihr
+6. Was will er nicht? a) ihr etwas erklären, b) im Kino erklären, c) mit ihr essen
+
+Dann mit Text: Such alle [εν]{lang="el"} und sag jeweils „ist“, „nicht“ oder Futur. Wo steht ein
+Pronomen hinter dem Verb?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Halt dich an die Wörter, die du aus dem Standard kennst: [απόψε, πέρσι, φεστιβάλ, μουσική,
+Πράσινη Γραμμή, η μάνα μου]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Es sind fünf [εν]{lang="el"}. In der fünften Zeile stehen zwei direkt hintereinander, mit
+verschiedener Aufgabe.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1c, 2a, 3b, 4b, 5a, 6b.**
+
+[εν]{lang="el"}: [Εν να πάμε]{lang="el"} Futur (als Vorschlag: „Gehen wir …?“), [Εν
+εύκολη]{lang="el"} ist, [Εν έχει]{lang="el"} nicht, [εν να κάμει]{lang="el"} Futur, [Εν να σου
+πω]{lang="el"} Futur. Wer [Εν έχει]{lang="el"} als „es hat“ versteht, verliert den Sinn: „Er hat
+nicht viel Text, er hat viel Musik.“
+
+Pronomen hinten: [Είδα την]{lang="el"} „ich habe ihn gesehen“ ([η ταινία]{lang="el"} ist
+weiblich), aber [να τη δω]{lang="el"} wie im Standard. [Ίντα κάμνεις;]{lang="el"} ist hier ein
+Gruß, darum antwortet sie [Καλά.]{lang="el"}
+
+**Übersetzung:** „Wie geht’s? Gehen wir heute Abend ins Kino?“ – „Gut. Welcher Film?“ – „Ein
+zypriotischer. Ich hab ihn letztes Jahr auf dem Festival gesehen und will ihn nochmal sehen.“ –
+„Ein zypriotischer? Werd ich überhaupt was verstehen?“ – „Er ist leicht. Er hat nicht viel Text,
+er hat viel Musik.“ – „Und wo läuft er?“ – „Im alten Kino, nahe der Grünen Linie. Danach gehen
+wir zu mir, meine Mutter kocht.“ – „Okay. Aber wenn ich etwas nicht verstehe, erklärst du es mir.“
+– „Ich erklär dir alles, was du willst. Nur nicht im Kino.“
+:::
 
 ::: {.callout-note collapse="true" .vocab-text}
 ## Wortschatz zum Text
@@ -465,7 +709,45 @@ Pronomen hinter dem Verb. Zwei sichere Belege pro Merkmal sind ein Erfolg. Finde
 ist auch das ein Befund: Vor der Kamera und gegenüber Fremden sprechen viele Kreter und Zyprioten
 nahezu Standard.
 
-<!-- EXERCISE: Hör-Auftrag mit echter Aufnahme (Easy Greek oder ERTflix, nur diese Links); Strichliste K1–K3 bzw. Z1–Z3 wie im Text, Durchgang 1 ohne, Durchgang 2 mit griechischen Untertiteln, Abgabe im Chat als Zahlen („K1 3, K3 1“); Lösung ohne feste Werte, mit Maßstab und Hinweis, dass Untertitel oft in Standard „glätten“; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 32.6: Hör-Auftrag auf den Inseln
+
+Nimm eine Person aus Kreta oder Zypern auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos)
+oder [ERTflix](https://www.ertflix.gr), zwei bis drei Minuten.
+
+**Durchgang 1, ohne Untertitel:** Strichliste für K1–K3 bzw. Z1–Z3 wie oben.
+
+**Durchgang 2, mit griechischen Untertiteln:** Prüf deine Striche und notier zu jedem Merkmal ein
+Beispielwort. Im Chat die Insel und die Zahlen, etwa „Kreta: K1 3, K2 0, K3 1“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Fang mit dem häufigsten Wort an: „und“. Auf Kreta [tʃe], auf Zypern [tʃe] und oft ein langes [nː]
+in [ναι]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Untertitel schreiben meist Standard: [και]{lang="el"} statt [τζιαι]{lang="el"}, [δεν]{lang="el"}
+statt [εν]{lang="el"}. Steht dort etwas anderes, als du gehört hast, zählt dein Ohr.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Keine feste Lösung. Zwei sichere Belege pro Merkmal sind ein Erfolg. K1 und Z2 hört man am
+leichtesten, Z1 am schwersten; [ίντα]{lang="el"} ist der sicherste Einzelbeweis.
+
+Die Untertitel **glätten**: Sie zeigen das Wort, nicht den Laut. Ob es gezischt oder lang war,
+sagt nur die Aufnahme. Oft glätten sie auch Z3: [δεν ξέρω]{lang="el"}, obwohl [εν ξέρω]{lang="el"}
+zu hören war.
+
+Kaum Striche ist auch ein Befund (siehe oben); nimm dann eine ältere Person oder eine Reportage
+aus einem Dorf.
+:::
 
 ## Das Wichtigste {#sec-kz-wichtigste}
 
@@ -559,4 +841,48 @@ Oder vielleicht, weil es egal ist, ob du Kretisch, Zypriotisch oder Athenisch sp
 Mantinada vergisst du nicht, wenn du sie einmal gehört hast.
 :::
 
-<!-- EXERCISE: Leseverstehen „Ein Vers, zwei Inseln“; richtig/falsch zu sechs Aussagen (Mantinada vorher auswendig gelernt?, Erotokritos-Inhalt, Tsiattista als Wettstreit, UNESCO, Begründung „vielleicht“ = Vermutung), Antwort „1R, 2F …“; dazu im Text drei Vermutungswörter (Kapitel 22) finden; Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 32.7: Ein Vers, zwei Inseln
+
+Richtig oder falsch? Im Chat etwa „1R, 2F …“.
+
+1. Die Sänger lernen ihre Mantinades meist vorher auswendig.
+2. Der *Erotokritos* erzählt die Liebesgeschichte zweier Menschen.
+3. Der *Erotokritos* hat rund tausend Verse.
+4. Bei den Tsiattista verliert, wem keine Antwort einfällt.
+5. Die UNESCO hat 2011 die Mantinada ins Kulturerbe aufgenommen.
+6. Der Autor weiß genau, warum der Vers so lange überdauert hat.
+
+Dazu: Welches Wort steht im letzten Absatz dreimal für eine Vermutung? Und der Text hat zwei
+[μπορεί]{lang="el"}: Welches heißt „kann sein“, welches „ist fähig“?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Zu 1 steht die Antwort im zweiten Satz. Zu 5: Was genau wurde aufgenommen?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Bei [μπορεί]{lang="el"}: Kann da jemand etwas, weil er es schafft, oder lässt es sich durch
+„vielleicht“ ersetzen (Kapitel 22)? Ein Fest hat keine Fähigkeiten.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. **F:** [Συνήθως δεν τις ήξεραν.]{lang="el"}
+2. **R:** Erotokritos und Aretousa.
+3. **F:** [δέκα χιλιάδες]{lang="el"}, zehntausend. Nicht [χίλιοι]{lang="el"} mit
+   [χιλιάδες]{lang="el"} verwechseln.
+4. **R:** [Όποιος μείνει χωρίς απάντηση, έχει χάσει.]{lang="el"}
+5. **F:** aufgenommen wurden die zypriotischen Tsiattista, nicht die Mantinada.
+6. **F:** Er vermutet nur.
+
+Das Wort ist [ίσως]{lang="el"} „vielleicht“. [το γλέντι μπορεί να κρατήσει ως το
+πρωί]{lang="el"} ist „kann sein“: Das Fest dauert unter Umständen bis zum Morgen.
+[αν μπορεί]{lang="el"} bei den Tsiattista ist „ist fähig“: der Sänger, wenn er es schafft.
+Typischer Fehler: Das erste als „das Fest ist fähig zu dauern“ lesen.
+:::

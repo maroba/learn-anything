@@ -29,7 +29,7 @@
 | 23 Thessaloniki und Zwischenbilanz | veröffentlicht | Welle 11; Audio vollständig |
 | 24 Was wäre, wenn: Irrealis und Wünsche | veröffentlicht | Welle 10; Audio vollständig |
 | 25 Er muss gegangen sein: Vermutungen über die Vergangenheit | veröffentlicht | Welle 11; Audio vollständig |
-| 26 Wortbildung I: Präfixe und Verkleinerungen | Konsistenz | Welle 12; überarbeitet, CHECK-Nachprüfung |
+| 26 Wortbildung I: Präfixe und Verkleinerungen | veröffentlicht | Welle 12; Audio läuft |
 | 29 Argumentieren | fertig | Welle 11; wartet auf 26–28 |
 | 30 Redewendungen | Überarbeitung | Welle 12; beide Reviews da |
 | 32 Kreta und Zypern hören | Übungen | Welle 12; Entwurf fertig |
