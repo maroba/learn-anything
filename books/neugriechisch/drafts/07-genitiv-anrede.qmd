@@ -1,0 +1,809 @@
+---
+title: "Wem gehört was: Genitiv, Anrede, Höflichkeit"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+Aus Kapitel 1, 2 und 6:
+
+- **Nomenklassen:** männlich [-ος, -ας, -ης]{lang="el"}, weiblich [-α, -η]{lang="el"},
+  sächlich [-ο, -ι, -μα]{lang="el"}. Männliche Nomen verlieren im Akkusativ Singular ihr
+  [-ς]{lang="el"}: [ο Γιάννης – τον Γιάννη]{lang="el"}.
+- **[-ους]{lang="el"} zieht die Betonung** auf die vorletzte Silbe: [οι άνθρωποι – τους
+  ανθρώπους]{lang="el"}.
+- **[μου, σου]{lang="el"} nach dem Nomen** heißen „mein, dein“; ein Wort mit Betonung auf der
+  drittletzten Silbe bekommt davor einen zweiten Akzent: [το μήνυμά μου]{lang="el"}.
+:::
+
+## Drei Georgs {#sec-genitiv-einstieg}
+
+Der 23. April in einer Athener Wohnung. Es ist [του Αγίου Γεωργίου]{lang="el"}, der Tag des
+heiligen Georg, und damit Namenstag für alle, die Georg heißen. Das Wohnzimmer ist voll. Eine
+junge Frau kommt mit einer Schachtel Gebäck herein; die Gastgeberin, weit über siebzig, öffnet.
+
+::: {lang="el"}
+— Χρόνια πολλά! Πού είναι ο Γιώργος;
+
+— Ποιος Γιώργος, κορίτσι μου; Σήμερα έχουμε τρεις.
+
+— Τρεις;
+
+— Τρεις. Ο παππούς τους ήταν Γιώργος, ο άντρας μου. Εκείνος με τα γυαλιά είναι ο γιος της
+κόρης μου, της Ελένης. Ο ψηλός στο μπαλκόνι είναι ο γιος του γιου μου. Και ο τρίτος, με το
+ποτήρι στο χέρι, είναι ο άντρας της ανιψιάς μου. Αυτός είναι Γιώργος από άλλη οικογένεια.
+
+— Εγώ ψάχνω τον Γιώργο της Ελένης.
+
+— Α, τον εγγονό μου με τα γυαλιά! Γιώργο! Γιώργο μου, έλα λίγο!
+
+— Χάρηκα πολύ, κυρία…
+
+— Αγγελική. Αλλά όχι «κυρία». Όλοι με λένε γιαγιά.
+
+— Χάρηκα, κυρία Αγγελική. Και χρόνια πολλά στον εγγονό σας.
+
+— Πάλι «σας»; Μη μου μιλάς στον πληθυντικό, κορίτσι μου. Δεν είμαι και τόσο μεγάλη!
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Alles Gute! Wo ist Giorgos?
+
+— Welcher Giorgos, Mädchen? Heute haben wir drei.
+
+— Drei?
+
+— Drei. Ihr Großvater hieß Giorgos, mein Mann. Der mit der Brille ist der Sohn meiner Tochter,
+Eleni. Der Große auf dem Balkon ist der Sohn meines Sohnes. Und der dritte, mit dem Glas in der
+Hand, ist der Mann meiner Nichte. Der ist ein Giorgos aus einer anderen Familie.
+
+— Ich suche den Giorgos von Eleni.
+
+— Ah, meinen Enkel mit der Brille! Giorgo! Giorgo, mein Lieber, komm mal her!
+
+— Freut mich sehr, Frau …
+
+— Angeliki. Aber nicht „Frau“. Alle nennen mich Oma.
+
+— Freut mich, Frau Angeliki. Und alles Gute für Ihren Enkel.
+
+— Schon wieder „Ihr“? Sag nicht „Sie“ zu mir, Mädchen. So alt bin ich nun auch wieder nicht!
+:::
+
+Umgedreht haben sich natürlich alle drei. In dieser kurzen Szene steckt das ganze Kapitel:
+
+- **Wer zu wem gehört**, sagt der **Genitiv** ([η γενική]{lang="el"}): [ο γιος **της κόρης**
+  μου]{lang="el"} „der Sohn meiner Tochter“, [ο Γιώργος **της Ελένης**]{lang="el"} „Elenis
+  Giorgos“. So unterscheiden Griechen Menschen mit gleichem Namen, und davon gibt es viele.
+- **Wer gerufen wird**, steht im **Vokativ (Anredeform)** ([η κλητική]{lang="el"}):
+  [Γιώργο!]{lang="el"}, nicht [Γιώργος]{lang="el"}.
+- **Wie man jemanden anredet**, entscheidet sich zwischen [εσύ]{lang="el"} und
+  [εσείς]{lang="el"}: Die junge Frau sagt höflich [σας]{lang="el"} „Ihr“, die Großmutter will
+  das vertraute [μιλάς]{lang="el"} „du sprichst“.
+
+[γιος]{lang="el"} [ʝos] klingt fast wie deutsch „jos“: [γ]{lang="el"} vor [ι]{lang="el"} ist
+das *j* aus *ja*, das [ι]{lang="el"} selbst gleitet mit hinein. [Χρόνια πολλά]{lang="el"},
+wörtlich „viele Jahre“, passt zu Namenstag, Geburtstag, Ostern und Neujahr; die Antwort ist
+[Ευχαριστώ]{lang="el"}, an Feiertagen [Ευχαριστώ, επίσης]{lang="el"}. [Μη μου
+μιλάς]{lang="el"} ist das [μη(ν)]{lang="el"} der Bitten aus Kapitel 1; [μου]{lang="el"} heißt
+hier „zu mir“ (Kapitel 8).
+
+<!-- EXERCISE: Genitiv als Verwandtschaftsangabe verstehen (Stammbaum der Szene: wer ist wessen Sohn, Tochter, Mann; welcher Giorgos ist gemeint), Zuordnen/Verstehen, Schwierigkeit 1 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Χρόνια πολλά!]{lang="el"} | [ˈxroɲa poˈla] | Alles Gute! (Namenstag, Geburtstag, Feiertage) |
+| [η γιορτή]{lang="el"} | [i ʝorˈti] | der Namenstag; das Fest |
+| [γιορτάζω, γιόρτασα]{lang="el"} | [ʝorˈtazo], [ˈʝortasa] | feiern; Namenstag haben |
+| [η οικογένεια]{lang="el"} | [i ikoˈʝeɲa] | die Familie |
+| [ο πατέρας, η μητέρα]{lang="el"} | [o paˈteras], [i miˈtera] | der Vater, die Mutter |
+| [οι γονείς]{lang="el"} | [i ɣoˈnis] | die Eltern |
+| [ο γιος, η κόρη]{lang="el"} | [o ʝos], [i ˈkori] | der Sohn, die Tochter |
+| [ο αδερφός, η αδερφή]{lang="el"} | [o aðerˈfos], [i aðerˈfi] | der Bruder, die Schwester |
+| [τα αδέρφια]{lang="el"} | [ta aˈðerfʝa] | die Geschwister |
+| [ο άντρας, η γυναίκα]{lang="el"} | [o ˈadras], [i ʝiˈneka] | der Mann, die Frau; Ehemann, Ehefrau |
+| [ο εγγονός, η εγγονή]{lang="el"} | [o eŋgoˈnos], [i eŋgoˈni] | der Enkel, die Enkelin |
+| [ο θείος, η θεία]{lang="el"} | [o ˈθios], [i ˈθia] | der Onkel, die Tante |
+| [ο ξάδερφος, η ξαδέρφη]{lang="el"} | [o ˈksaðerfos], [i ksaˈðerfi] | der Cousin, die Cousine |
+| [ο ανιψιός, η ανιψιά]{lang="el"} | [o anipˈsços], [i anipˈsça] | der Neffe, die Nichte |
+| [το κορίτσι, το αγόρι]{lang="el"} | [to koˈritsi], [to aˈɣori] | das Mädchen, der Junge |
+| [μεγάλος, -η, -ο]{lang="el"} | [meˈɣalos] | groß; (Mensch) alt, älter |
+| [Χάρηκα (πολύ).]{lang="el"} | [ˈxarika poˈli] | Freut mich (sehr). |
+| [Πώς σε λένε; Με λένε …]{lang="el"} | [pos se ˈlene], [me ˈlene] | Wie heißt du? Ich heiße … |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [του Αγίου Γεωργίου]{lang="el"} | (Fest) des heiligen Georg, 23. April |
+| [ποιος, ποια, ποιο]{lang="el"} | welcher, welche, welches; wer |
+| [εκείνος, -η, -ο]{lang="el"} | jener; der da |
+| [τα γυαλιά]{lang="el"} | die Brille |
+| [ψηλός, -ή, -ό]{lang="el"} | groß (gewachsen), hoch |
+| [το μπαλκόνι]{lang="el"} | der Balkon |
+| [το χέρι]{lang="el"} | die Hand |
+| [πάλι]{lang="el"} | wieder, schon wieder |
+| [Δεν είμαι και τόσο …]{lang="el"} | So … bin ich nun auch wieder nicht. |
+:::
+
+Die Vokabeln [αδερφός, αδερφή]{lang="el"} haben eine gehobene Nebenform mit [λ]{lang="el"}:
+[αδελφός]{lang="el"}. Daher kommen *Philadelphia*, die „Stadt der Bruderliebe“, und die
+*Adelphi*-Theater in London.
+
+## Mein, dein, sein: [μου, σου, του]{lang="el"} {#sec-genitiv-besitzwoerter}
+
+[ο γιος μου, η κόρη μου, ο άντρας μου]{lang="el"}: Das Besitzwort steht **hinter** dem Nomen,
+und das Nomen behält seinen Artikel, wörtlich „der Sohn von mir“. Spanisch kennt das als
+betonte Variante: [*el hijo mío*]{lang="es"}.
+
+| Person | Besitzwort | Beispiel |
+|---|---|---|
+| ich | [μου]{lang="el"} | [ο γιος μου]{lang="el"} mein Sohn |
+| du | [σου]{lang="el"} | [η κόρη σου]{lang="el"} deine Tochter |
+| er, es | [του]{lang="el"} | [το όνομά του]{lang="el"} sein Name |
+| sie | [της]{lang="el"} | [ο άντρας της]{lang="el"} ihr Mann |
+| wir | [μας]{lang="el"} | [η γιαγιά μας]{lang="el"} unsere Oma |
+| ihr, Sie | [σας]{lang="el"} | [ο εγγονός σας]{lang="el"} euer/Ihr Enkel |
+| sie (Pl.) | [τους]{lang="el"} | [τα παιδιά τους]{lang="el"} ihre Kinder |
+
+Drei Dinge machen das System angenehm:
+
+- **Es ändert sich nichts.** [μου]{lang="el"} ist „mein, meine, meines, meinem“ zugleich;
+  anders als [*mon, ma, mes*]{lang="fr"} oder [*mío, mía*]{lang="es"} richtet es sich nicht nach dem Besessenen.
+- **[του]{lang="el"} und [της]{lang="el"} unterscheiden den Besitzer** wie deutsch „sein“ und
+  „ihr“: [ο γιος του]{lang="el"} „sein Sohn“, [ο γιος της]{lang="el"} „ihr Sohn“. Spanisch
+  [*su hijo*]{lang="es"} lässt das offen.
+- **[σας]{lang="el"} ist zugleich „euer“ und das höfliche „Ihr“**, wie [*votre*]{lang="fr"} im Französischen
+  (mehr in @sec-genitiv-anrede).
+
+Die Besitzwörter sind unbetont und lehnen sich an das Wort davor. Deshalb der zweite Akzent aus
+Kapitel 2: [το όνομά μου]{lang="el"}, [η οικογένειά μας]{lang="el"}. Steht ein Adjektiv davor,
+darf das Besitzwort auch nach dem Adjektiv stehen: [ο μεγάλος γιος μου]{lang="el"} oder
+[ο μεγάλος μου γιος]{lang="el"}, „mein älterer (ältester) Sohn“.
+<!-- CHECK: beide Stellungen (ο μεγάλος γιος μου / ο μεγάλος μου γιος) neutral und gleichwertig? -->
+
+Die Wörter sind übrigens alte Bekannte in neuer Rolle: Es sind die Genitivformen der
+Personalpronomen. Dieselben Wörter vor dem Verb heißen „mir, dir, ihm“: [μου λέει]{lang="el"}
+„er sagt mir“ (Kapitel 8).
+
+### Das gehört mir: [δικός μου]{lang="el"} {#sec-genitiv-dikos}
+
+Wer auf den Besitz pochen will, braucht ein betontes Wort. Dafür gibt es [δικός]{lang="el"},
+ein Adjektiv mit dem Besitzwort dahinter:
+
+- [Τίνος είναι αυτό; – Δικό μου.]{lang="el"} Wessen ist das? – Meins.
+- [Έχω το δικό μου σπίτι.]{lang="el"} Ich habe mein eigenes Haus.
+
+[δικός]{lang="el"} richtet sich nach dem **Besessenen**, das Besitzwort nach dem
+**Besitzer**: [η δική του γνώμη]{lang="el"} „seine eigene Meinung“, [τα δικά της
+παιδιά]{lang="el"} „ihre eigenen Kinder“. Spanisch [*el mío, la mía*]{lang="es"} funktioniert
+genauso, nur in einem Wort.
+
+::: {.callout-warning}
+## Achtung
+
+- \*[ο μου γιος]{lang="el"}, \*[μου γιος]{lang="el"}: Vor einem Nomen ohne Adjektiv steht das
+  Besitzwort nie.
+- \*[το γιος μου]{lang="el"}: Der Artikel richtet sich nach dem Nomen, nicht nach
+  [μου]{lang="el"}. [ο γιος μου, η κόρη μου, το παιδί μου]{lang="el"}.
+- [του]{lang="el"} ist zugleich Artikel („des“) und Besitzwort („sein“). Folgt ein Nomen, ist
+  es der Artikel: [το σπίτι του Νίκου]{lang="el"} „Nikos' Haus“, aber [το σπίτι
+  του]{lang="el"} „sein Haus“.
+:::
+
+<!-- EXERCISE: Besitz mit μου/σου/του/της/μας/σας/τους und δικός ausdrücken (Besitzwort passend zum Besitzer wählen, zweiter Akzent, δικός angleichen), Auswählen und mündlich Übersetzen, Schwierigkeit 1 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [μου, σου, του, της]{lang="el"} | [mu], [su], [tu], [tis] | mein, dein, sein, ihr (nach dem Nomen) |
+| [μας, σας, τους]{lang="el"} | [mas], [sas], [tus] | unser, euer/Ihr, ihr (Pl.) |
+| [δικός μου, δική μου, δικό μου]{lang="el"} | [ðiˈkos mu] | meiner, meine, meins; mein eigener |
+| [Τίνος είναι;]{lang="el"} | [ˈtinos ˈine] | Wem gehört das? Wessen ist das? |
+| [το παιδί, τα παιδιά]{lang="el"} | [to peˈði], [ta peˈðʝa] | das Kind |
+| [το σπίτι]{lang="el"} | [to ˈspiti] | das Haus; das Zuhause |
+| [η γνώμη]{lang="el"} | [i ˈɣnomi] | die Meinung |
+:::
+
+## [του Γιάννη, της Μαρίας]{lang="el"}: Namen im Genitiv {#sec-genitiv-namen}
+
+Der Genitiv ist dir in diesem Buch schon oft begegnet, meist mit dem Hinweis „Kapitel 7“:
+[η Τροία του Ομήρου]{lang="el"}, [ΠΑΤΑΤΕΣ ΝΑΞΟΥ]{lang="el"}, [του χρόνου]{lang="el"}. Am
+häufigsten hörst du ihn an Namen, und dafür reicht eine Faustregel.
+
+| Nominativ | Genitiv | Faustregel |
+|---|---|---|
+| [ο Γιάννης]{lang="el"} | [του Γιάννη]{lang="el"} | Männer verlieren das [-ς]{lang="el"} |
+| [ο Κώστας]{lang="el"} | [του Κώστα]{lang="el"} | |
+| [ο Γιώργος]{lang="el"} | [του Γιώργου]{lang="el"} | außer [-ος → -ου]{lang="el"} |
+| [η Μαρία]{lang="el"} | [της Μαρίας]{lang="el"} | Frauen bekommen ein [-ς]{lang="el"} |
+| [η Ελένη]{lang="el"} | [της Ελένης]{lang="el"} | |
+
+Der Artikel ist [του]{lang="el"} für männliche, [της]{lang="el"} für weibliche Namen. Der
+Genitiv steht **hinter** dem, was jemandem gehört: [το σπίτι του Γιάννη]{lang="el"}
+„Giannis' Haus“, [η γιορτή της Μαρίας]{lang="el"} „Marias Namenstag“, [ο Γιώργος της
+Ελένης]{lang="el"}. Deutsch „Giannis' Haus“ dreht die Reihenfolge um, Spanisch [*la casa de
+Giannis*]{lang="es"} nicht.
+
+Bei [ο Γιάννης]{lang="el"} unterscheiden sich Akkusativ und Genitiv nur im Artikel: [τον
+Γιάννη]{lang="el"} [ton ˈʝani] oder [του Γιάννη]{lang="el"} [tu ˈʝani]. Hör auf das
+[n]: [Ξέρω τον Γιάννη.]{lang="el"} Ich kenne Giannis. [Ξέρω τη μητέρα του Γιάννη.]{lang="el"}
+Ich kenne Giannis' Mutter.
+
+### Straßen und Plätze {#sec-genitiv-strassen}
+
+Wer in Athen unterwegs ist, liest Genitive auf jedem Straßenschild. Die meisten Straßen heißen
+„(Straße) des …“, das Wort [οδός]{lang="el"} fällt meist weg:
+
+- [Αθηνάς]{lang="el"} „der Athena“, [Αιόλου]{lang="el"} „des Aiolos“, [Πανεπιστημίου]{lang="el"}
+  „der Universität“ ([το πανεπιστήμιο]{lang="el"}).
+- [Πλατεία Συντάγματος]{lang="el"} „Platz der Verfassung“, von [το Σύνταγμα]{lang="el"}. Hier
+  demonstrierten 1843 Soldaten und Bürger vor dem Palast, bis König Otto eine Verfassung
+  zusagte.
+- [Ερμού]{lang="el"}, die große Einkaufsstraße, ist „des Hermes“ in einer alten Form; heute sagt
+  man [του Ερμή]{lang="el"}.
+
+Auch die [Καλλιδρομίου]{lang="el"} aus Kapitel 6 ist so ein Genitiv, nach dem Berg Kallidromo.
+<!-- CHECK: Καλλιδρομίου in Exarchia nach dem Berg Kallidromo benannt? -->
+[Μένω στην Αιόλου.]{lang="el"} heißt also „Ich wohne in der (Straße) des Aiolos“.
+
+### Nachnamen, die Genitive sind {#sec-genitiv-nachnamen}
+
+Griechische Frauen tragen den Nachnamen im Genitiv:
+
+| Er | Sie |
+|---|---|
+| [ο Νίκος Παπαδόπουλος]{lang="el"} | [η Ελένη Παπαδοπούλου]{lang="el"} |
+| [ο Κώστας Βλάχος]{lang="el"} | [η Μαρία Βλάχου]{lang="el"} |
+| [ο Μανώλης Σφακιανάκης]{lang="el"} | [η Άννα Σφακιανάκη]{lang="el"} |
+
+[Παπαδοπούλου]{lang="el"} heißt „(die Tochter oder Frau) des Papadopoulos“. Seit der
+Familienrechtsreform von 1983 behalten Frauen bei der Heirat offiziell ihren eigenen Namen;
+der Genitiv ist geblieben, jetzt eben der des Vaters.
+<!-- CHECK: Familienrechtsreform 1983 (Gesetz 1329/1983): Frauen behalten ihren Geburtsnamen bei der Heirat verpflichtend? -->
+
+Manche Nachnamen sind auch bei Männern ein Genitiv: [Γεωργίου, Νικολάου,
+Κωνσταντίνου]{lang="el"}, „(Sohn) des Georgios, Nikolaos, Konstantinos“. Das ist dieselbe Idee
+wie *Petersen*, *Mendelssohn* oder spanisch *Fernández*, „Sohn des Fernando“. Solche Namen sind
+für Männer und Frauen gleich: [ο Γιάννης Γεωργίου, η Μαρία Γεωργίου]{lang="el"}.
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Oft hört man, die Endung verrate die Herkunft: [-άκης]{lang="el"} Kreta,
+[-όπουλος]{lang="el"} Peloponnes, [-ίδης]{lang="el"} Pontos und Kleinasien, [-άτος]{lang="el"}
+Ionische Inseln. Als Tendenz stimmt das, als Regel nicht: Familien ziehen um, und alle Endungen
+kommen überall vor. Zum Nachlesen: Mackridge, *The Modern Greek Language* (1985).
+<!-- CHECK: regionale Zuordnung der Nachnamen-Endungen und passende Quelle -->
+:::
+
+<!-- EXERCISE: Genitiv von Namen bilden und verwenden (Besitz und Beziehung: το σπίτι του Γιάννη, ο αδερφός της Μαρίας; weiblicher Nachname aus dem männlichen; Straßenschilder deuten), Formen bilden und mündlich Übersetzen, Schwierigkeit 1–2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το όνομα, τα ονόματα]{lang="el"} | [to ˈonoma], [ta oˈnomata] | der Name; der Vorname |
+| [το επώνυμο]{lang="el"} | [to eˈponimo] | der Nachname |
+| [η οδός]{lang="el"} | [i oˈðos] | die Straße (in Adressen, formell) |
+| [μένω σε]{lang="el"} + Straße | [ˈmeno se] | wohnen in |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [το πανεπιστήμιο]{lang="el"} | die Universität |
+| [το Σύνταγμα]{lang="el"} | die Verfassung; Syntagma-Platz |
+| [ο Ερμής]{lang="el"} | Hermes |
+:::
+
+## Das ganze System {#sec-genitiv-paradigma}
+
+Die Faustregel für Namen gilt für fast alle Nomen. Hier die Klassen aus Kapitel 6 im Genitiv
+Singular:
+
+| Nominativ | Genitiv | Regel |
+|---|---|---|
+| [ο δρόμος]{lang="el"} | [του δρόμου]{lang="el"} | [-ος → -ου]{lang="el"} |
+| [ο πατέρας]{lang="el"} | [του πατέρα]{lang="el"} | [-ς]{lang="el"} fällt weg |
+| [ο μανάβης]{lang="el"} | [του μανάβη]{lang="el"} | [-ς]{lang="el"} fällt weg |
+| [ο παππούς]{lang="el"} | [του παππού]{lang="el"} | [-ς]{lang="el"} fällt weg |
+| [η μητέρα]{lang="el"} | [της μητέρας]{lang="el"} | [+ ς]{lang="el"} |
+| [η αδερφή]{lang="el"} | [της αδερφής]{lang="el"} | [+ ς]{lang="el"} |
+| [η πόλη]{lang="el"} | [της πόλης]{lang="el"} | [+ ς]{lang="el"} |
+
+| Nominativ | Genitiv | Regel |
+|---|---|---|
+| [το βιβλίο]{lang="el"} | [του βιβλίου]{lang="el"} | [-ο → -ου]{lang="el"} |
+| [το παιδί]{lang="el"} | [του παιδιού]{lang="el"} | [-ι → -ιού]{lang="el"} |
+| [το σπίτι]{lang="el"} | [του σπιτιού]{lang="el"} | [-ι → -ιού]{lang="el"} |
+| [το όνομα]{lang="el"} | [του ονόματος]{lang="el"} | [-μα → -ματος]{lang="el"} |
+
+Männlich und sächlich teilen sich den Artikel [του]{lang="el"}, weiblich hat [της]{lang="el"}.
+Die männlichen Nomen auf [-ας, -ης]{lang="el"} sehen im Genitiv aus wie im Akkusativ, die
+weiblichen wie im Nominativ plus [-ς]{lang="el"}. Neu lernen musst du eigentlich nur die
+sächlichen.
+
+### Wohin die Betonung springt {#sec-genitiv-betonung}
+
+- **[-ιού]{lang="el"} ist immer betont**, egal wo der Ton vorher lag: [το **σπί**τι – του
+  σπι**τιού**]{lang="el"} [tu spiˈtçu], [το τρα**γού**δι – του τραγου**διού**]{lang="el"}. Das
+  [ι]{lang="el"} gleitet, wie in [παιδιά]{lang="el"}: [peˈðʝu].
+- **[-ου]{lang="el"} zieht wie [-ους]{lang="el"}** aus Kapitel 6: Lag die Betonung auf der
+  drittletzten Silbe, rückt sie auf die vorletzte. [ο **άν**θρωπος – του αν**θρώ**που]{lang="el"},
+  [ο **Ό**μηρος – του Ο**μή**ρου]{lang="el"}. Deshalb [η Παπαδο**πού**λου]{lang="el"}. Einige
+  volkstümliche Wörter halten still, wie bei [-ους]{lang="el"}.
+- **[-ματος]{lang="el"}** hat eine Silbe mehr, die Betonung rückt nach: [το **ό**νομα – του
+  ο**νό**ματος]{lang="el"}, [το **πρό**βλημα – του προ**βλή**ματος]{lang="el"}.
+
+Die Sonderfälle aus Kapitel 6 gehen ihren eigenen, aber folgerichtigen Weg: [η μέθοδος – της
+μεθόδου]{lang="el"} (dekliniert wie [άνθρωπος]{lang="el"}), [το λάθος – του λάθους]{lang="el"}.
+
+### Plural: immer [-ων]{lang="el"} {#sec-genitiv-plural}
+
+Der Genitiv Plural ist leicht zu erkennen: Artikel [των]{lang="el"} für alle drei Genera,
+Endung [-ων]{lang="el"}. Schwerer ist die Betonung:
+
+| Singular | Genitiv Plural | Betonung |
+|---|---|---|
+| [ο δρόμος, ο άνθρωπος]{lang="el"} | [των δρόμων, των ανθρώπων]{lang="el"} | wie im Akk. Pl. |
+| [ο μήνας, η γυναίκα]{lang="el"} | [των μηνών, των γυναικών]{lang="el"} | meist auf [-ών]{lang="el"} |
+| [το παιδί, το όνομα]{lang="el"} | [των παιδιών, των ονομάτων]{lang="el"} | wie im Plural |
+
+Aus früheren Kapiteln kennst du schon [των Κυκλάδων]{lang="el"}, [των συντρόφων
+μου]{lang="el"} und die [Πύλη των Λεόντων]{lang="el"} in Mykene. Für den Anfang reicht es, den
+Genitiv Plural zu **erkennen**. Im Gespräch weichen viele ihm aus, wo er ungewohnt klingt, und
+sagen es mit [από]{lang="el"}: [τα παιδιά από τη γειτονιά]{lang="el"} statt [της
+γειτονιάς]{lang="el"}.
+<!-- CHECK: Faustregel Genitiv-Plural-Betonung (Maskulina -ας/-ης und Feminina -α/-η meist auf -ών; Ausnahmen) und Aussage zum Ausweichen im Gespräch -->
+
+### Artikel und Adjektiv {#sec-genitiv-adjektiv}
+
+Das Adjektiv folgt dem Muster der Nomen [-ος, -η, -ο]{lang="el"}:
+
+| | männlich | weiblich | sächlich |
+|---|---|---|---|
+| Singular | [του καλ**ού** φίλου]{lang="el"} | [της καλ**ής** φίλης]{lang="el"} | [του καλ**ού** παιδιού]{lang="el"} |
+| Plural | [των καλ**ών**]{lang="el"} | [των καλ**ών**]{lang="el"} | [των καλ**ών**]{lang="el"} |
+
+[το σπίτι της μεγάλης μου κόρης]{lang="el"} „das Haus meiner älteren Tochter“; [ο γιος του
+καλού μου φίλου]{lang="el"} „der Sohn meines guten Freundes“.
+
+### Wofür der Genitiv gebraucht wird {#sec-genitiv-gebrauch}
+
+- **Besitz und Beziehung:** [το αυτοκίνητο του πατέρα μου]{lang="el"}, [ένας φίλος του
+  Νίκου]{lang="el"} „ein Freund von Nikos“.
+- **Herkunft und Sorte:** [ΠΑΤΑΤΕΣ ΝΑΞΟΥ]{lang="el"}, [λάδι Κρήτης]{lang="el"} „Öl aus Kreta“,
+  oft ohne Artikel.
+- **Namen von Tagen und Orten:** [του Αγίου Γεωργίου]{lang="el"}, [Πλατεία
+  Συντάγματος]{lang="el"}.
+- **Feste Zeitangaben:** [του χρόνου]{lang="el"} „nächstes Jahr“ (Kapitel 5).
+- **Statt des Dativs:** Den hat das Griechische verloren. Seine Arbeit machen [σε]{lang="el"} +
+  Akkusativ und der Genitiv, vor allem bei den kurzen Wörtern: [μου λέει]{lang="el"} „er sagt
+  mir“ (Kapitel 8).
+
+::: {.callout-important}
+## Merke
+
+- Genitiv Singular: **männlich [-ς]{lang="el"} weg** ([του πατέρα, του Γιάννη]{lang="el"}),
+  **[-ος → -ου]{lang="el"}**; **weiblich [+ ς]{lang="el"}** ([της μητέρας, της
+  Ελένης]{lang="el"}); **sächlich [-ου, -ιού, -ματος]{lang="el"}**.
+- Artikel: [του, της, του]{lang="el"}; Plural [των]{lang="el"}, Endung [-ων]{lang="el"}.
+- Der Genitiv steht **hinter** dem Nomen, zu dem er gehört: [το σπίτι του Γιάννη]{lang="el"}.
+- [-ιού]{lang="el"} ist immer betont; [-ου]{lang="el"} zieht die Betonung auf die vorletzte
+  Silbe wie [-ους]{lang="el"}.
+:::
+
+::: {.callout-tip}
+## Tipp
+
+Das Ohr erkennt den Genitiv am Artikel. [tu, tis, ton]: Kommt danach ein Nomen, geht es um
+„des, der“. [ton] vor einem Singular ist der Akkusativ [τον]{lang="el"}, vor einem Wort auf
+[-on] der Genitiv Plural [των]{lang="el"}.
+:::
+
+<!-- EXERCISE: Genitiv Singular (und Plural erkennen) aller Nomenklassen bilden, mit Artikel und Adjektiv und richtiger Betonung (του σπιτιού, του ανθρώπου, του ονόματος); Teil B: in einem Lückentext über eine Familie Genitiv, Akkusativ und Besitzwort unterscheiden (του/τον/των, της/τις/τη), Formen bilden und Auswählen, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο φίλος, η φίλη]{lang="el"} | [o ˈfilos], [i ˈfili] | der Freund, die Freundin |
+| [το βιβλίο]{lang="el"} | [to viˈvlio] | das Buch |
+| [το αυτοκίνητο]{lang="el"} | [to aftoˈcinito] | das Auto |
+| [το λάδι]{lang="el"} | [to ˈlaði] | das Öl, Olivenöl |
+:::
+
+## [Γιώργο!]{lang="el"} Der Vokativ {#sec-genitiv-vokativ}
+
+Die Großmutter ruft nicht [Γιώργος!]{lang="el"}, sondern [Γιώργο!]{lang="el"}. Der
+**Vokativ (Anredeform)** ist die Form, mit der man jemanden anspricht, und du kennst ihn schon:
+der Marktschreier mit [Πάρτε κόσμε!]{lang="el"} (Kapitel 6), Odysseus mit
+[Πολύφημε!]{lang="el"} (Kapitel 3). Latein hatte ihn auch: [*Et tu, Brute?*]{lang="la"}
+
+Die gute Nachricht: **Nur männliche Nomen im Singular haben eine eigene Form.** Alles andere
+ruft man im Nominativ: [Μαρία!]{lang="el"}, [κυρία Ελένη]{lang="el"}, [γιαγιά]{lang="el"},
+[κορίτσι μου]{lang="el"}, und im Plural [φίλοι μου]{lang="el"}, [κυρίες και
+κύριοι]{lang="el"}.
+
+| Nominativ | Vokativ | Regel |
+|---|---|---|
+| [ο Γιάννης]{lang="el"} | [Γιάννη!]{lang="el"} | [-ς]{lang="el"} fällt weg |
+| [ο Κώστας]{lang="el"} | [Κώστα!]{lang="el"} | [-ς]{lang="el"} fällt weg |
+| [ο παππούς]{lang="el"} | [παππού!]{lang="el"} | [-ς]{lang="el"} fällt weg |
+| [ο Γιώργος, ο Νίκος]{lang="el"} | [Γιώργο! Νίκο!]{lang="el"} | zweisilbige Vornamen: [-ος → -ο]{lang="el"} |
+| [ο φίλος, ο κύριος]{lang="el"} | [φίλε! κύριε!]{lang="el"} | sonst: [-ος → -ε]{lang="el"} |
+| [ο Παπαδόπουλος]{lang="el"} | [κύριε Παπαδόπουλε!]{lang="el"} | [-ος → -ε]{lang="el"} |
+
+Die Nomen auf [-ας, -ης, -ούς]{lang="el"} sind einfach: Das [-ς]{lang="el"} fällt, der
+Vokativ sieht aus wie der Akkusativ. Bei [-ος]{lang="el"} gibt es zwei Möglichkeiten.
+Zweisilbige Vornamen und ihre Verwandten nehmen [-ο]{lang="el"}: [Γιώργο, Νίκο, Πέτρο,
+Στέλιο]{lang="el"}. Längere Namen, Nachnamen und gewöhnliche Wörter nehmen [-ε]{lang="el"}:
+[Αλέξανδρε, κύριε Παπαδόπουλε, φίλε, θείε]{lang="el"}, und von [ο γιος]{lang="el"} kommt das
+zärtliche [γιε μου]{lang="el"} „mein Sohn“.
+<!-- CHECK: Faustregel Vokativ -ος: zweisilbige Vornamen -ο, sonst -ε; Gegenbeispiele? -->
+
+::: {.callout-warning}
+## Achtung
+
+\*[Καλημέρα, κύριος Νίκος!]{lang="el"} und \*[Γιώργος, έλα!]{lang="el"} klingen, als würdest
+du über jemanden sprechen, nicht mit ihm. Richtig: [Καλημέρα, κύριε Νίκο!]{lang="el"},
+[Γιώργο, έλα!]{lang="el"} Im Deutschen gibt es nichts Vergleichbares, deshalb vergisst man den
+Vokativ leicht; Griechen hören das Fehlen sofort.
+:::
+
+### Kleine Wörter vor dem Namen {#sec-genitiv-anredewoerter}
+
+Unter Freunden kommt vor den Vokativ gern ein [ρε]{lang="el"} oder [βρε]{lang="el"}: [Ρε
+Γιώργο, πού είσαι;]{lang="el"}, [Έλα, ρε φίλε!]{lang="el"} Das ist vertraut und
+umgangssprachlich, etwa „Mensch, Giorgos“; zu Fremden oder Älteren klingt es respektlos.
+[Παιδιά!]{lang="el"}, wörtlich „Kinder!“, ruft man in eine Runde Erwachsener, wie „Leute!“:
+[Παιδιά, πάμε;]{lang="el"} Und [μου]{lang="el"} hinter der Anrede macht sie zärtlich:
+[Γιώργο μου, αγάπη μου, κορίτσι μου]{lang="el"}. Ältere sagen [κορίτσι μου]{lang="el"} und
+[παιδί μου]{lang="el"} auch zu Fremden, die halb so alt sind; das ist freundlich gemeint.
+
+<!-- EXERCISE: Vokativ bilden und rufen (Vornamen, κύριε + Nachname, φίλε, θείε, weibliche Namen unverändert; Fehler *κύριος Νίκος), Formen bilden, laut sprechen, Schwierigkeit 1–2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο κύριος, κύριε]{lang="el"} | [o ˈcirios], [ˈcirie] | der Herr; Anrede: Herr … |
+| [η κυρία]{lang="el"} | [i ciˈria] | die Frau, Dame; Anrede: Frau … |
+| [ρε, βρε]{lang="el"} + Vokativ | [re], [vre] | Mensch, na (vertraut, umg.) |
+| [Παιδιά!]{lang="el"} | [peˈðʝa] | Leute! (an eine Runde) |
+| [αγάπη μου]{lang="el"} | [aˈɣapi mu] | mein Schatz (wörtlich: meine Liebe) |
+| [γιε μου]{lang="el"} | [ʝe mu] | mein Sohn (Anrede) |
+:::
+
+## [Εσύ]{lang="el"} oder [εσείς]{lang="el"}? {#sec-genitiv-anrede}
+
+„Sie“ heißt im Griechischen „ihr“: Die Höflichkeitsform ist die **2. Person Plural**, wie
+französisch [*vous*]{lang="fr"}. Spanisch [*usted*]{lang="es"} mit der 3. Person führt hier in die Irre.
+
+| vertraut ([εσύ]{lang="el"}) | höflich ([εσείς]{lang="el"}) | Deutsch |
+|---|---|---|
+| [Γεια σου.]{lang="el"} | [Γεια σας.]{lang="el"} | Hallo. / Tschüs. |
+| [Τι κάνεις;]{lang="el"} | [Τι κάνετε;]{lang="el"} | Wie geht's? |
+| [Πώς σε λένε;]{lang="el"} | [Πώς σας λένε;]{lang="el"} | Wie heißt du / heißen Sie? |
+| [Θέλεις καφέ;]{lang="el"} | [Θέλετε καφέ;]{lang="el"} | Willst du / Wollen Sie Kaffee? |
+| [το όνομά σου]{lang="el"} | [το όνομά σας]{lang="el"} | dein / Ihr Name |
+
+[Γεια σου]{lang="el"} ist selbst ein Genitiv: [γεια]{lang="el"} ist eine Kurzform von [η
+υγεία]{lang="el"} „die Gesundheit“, der Gruß heißt also „deine Gesundheit!“. Deshalb stößt man
+auch mit [Στην υγειά σας!]{lang="el"} an, „auf Ihre Gesundheit“.
+
+### Wann was? {#sec-genitiv-wann}
+
+Griechisch kommt schneller zum „du“ als Deutsch. Als Faustregel:
+
+- **[εσύ]{lang="el"}** unter Gleichaltrigen, besonders Jüngeren, in der Familie, unter Kollegen
+  auf gleicher Ebene, zu Kindern. In der Taverne und am Marktstand ist es häufig.
+- **[εσείς]{lang="el"}** zu Fremden, die deutlich älter sind, auf dem Amt, beim Arzt, in
+  Geschäften mit gehobenem Ton, in E-Mails an Unbekannte.
+- **Ungleich verteilt:** Ältere duzen Jüngere oft, die Jüngeren siezen zurück. So wie in der
+  Szene am Anfang: Die Großmutter sagt [κορίτσι μου]{lang="el"} und [μιλάς]{lang="el"}, der Gast
+  [σας]{lang="el"}.
+
+Dazwischen liegt eine griechische Spezialität: **[κύριε]{lang="el"} oder [κυρία]{lang="el"}
+mit dem Vornamen** und [εσείς]{lang="el"}, für den Nachbarn, die Apothekerin, den Wirt, den man
+seit Jahren kennt: [Καλημέρα, κυρία Μαρία! Τι κάνετε;]{lang="el"} Respekt und Vertrautheit auf
+einmal. Volkstümlicher ist [κυρ Στέλιο]{lang="el"} aus Kapitel 6.
+
+Wer das „du“ anbieten will, sagt [Να μιλάμε στον ενικό;]{lang="el"} „Sollen wir im Singular
+reden?“ oder, wie die Großmutter, [Μη μου μιλάς στον πληθυντικό.]{lang="el"}
+
+::: {.callout-note collapse="true"}
+## Exkurs: höflich im Plural, gemeint im Singular
+
+Das Verb steht bei [εσείς]{lang="el"} im Plural, ein Adjektiv richtet sich aber meist nach der
+einen Person, die gemeint ist: [Είστε σίγουρος, κύριε Νίκο;]{lang="el"} „Sind Sie sicher?“, zu
+einer Frau [Είστε σίγουρη;]{lang="el"} Französisch macht es genauso: [*Vous êtes
+sûr ?*]{lang="fr"} Im Plural ([Είστε σίγουροι;]{lang="el"}) klingt es sehr förmlich oder so,
+als meinte man mehrere.
+<!-- CHECK: Adjektiv beim Höflichkeitsplural meist im Singular (Είστε σίγουρος;), Plural formell/möglich? -->
+:::
+
+<!-- EXERCISE: zwischen εσύ und εσείς wählen und umformen (Situationen zuordnen: Amt, Nachbarin κυρία Μαρία, Gleichaltrige in der Taverne; Sätze laut vom Du ins Sie umformen: Verbendung, σου/σας, σε/σας, Vokativ), Zuordnen und Sätze umformen, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Γεια σου! Γεια σας!]{lang="el"} | [ʝa su], [ʝa sas] | Hallo! Tschüs! (du; Sie/ihr) |
+| [Πώς σας λένε;]{lang="el"} | [pos sas ˈlene] | Wie heißen Sie? |
+| [ο ενικός, ο πληθυντικός]{lang="el"} | [o eniˈkos], [o pliθidiˈkos] | der Singular, der Plural |
+| [μιλάω στον ενικό]{lang="el"} | [miˈlao ston eniˈko] | du sagen, duzen |
+| [Στην υγειά σου! Στην υγειά σας!]{lang="el"} | [stin iˈʝa su], [stin iˈʝa sas] | Prost! Zum Wohl! |
+| [ευγενικός, -ή, -ό]{lang="el"} | [evʝeniˈkos] | höflich, freundlich |
+| [σίγουρος, -η, -ο]{lang="el"} | [ˈsiɣuros] | sicher |
+:::
+
+## Hörspur: beim Amt und unter Freunden {#sec-genitiv-hoerspur}
+
+Die griechischen Texte und Vokabeln kannst du mit ▶ anhören. Die synthetischen Stimmen
+unterscheiden Amt und Freundeskreis nur in den Wörtern, nicht im Ton; den Ton liefert der
+Hör-Auftrag am Ende.
+
+Ein **ΚΕΠ** ([Κέντρο Εξυπηρέτησης Πολιτών]{lang="el"}, „Bürgerservice-Zentrum“) ist das
+griechische Bürgeramt. Man zieht eine Nummer und wartet.
+
+::: {lang="el"}
+— Επόμενος! … Παρακαλώ.
+
+— Καλημέρα σας. Θέλω ένα πιστοποιητικό οικογενειακής κατάστασης.
+
+— Μάλιστα. Ονοματεπώνυμο;
+
+— Παπαδόπουλος Νικόλαος.
+
+— Όνομα πατρός;
+
+— Ορίστε;
+
+— Το όνομα του πατέρα σας.
+
+— Α, Γεώργιος.
+
+— Και της μητέρας σας;
+
+— Αγγελική.
+
+— Την ταυτότητά σας, παρακαλώ. … Ευχαριστώ. Υπογράψτε εδώ, κύριε Παπαδόπουλε.
+
+— Ευχαριστώ πολύ. Καλή σας μέρα.
+:::
+
+Draußen klingelt das Handy.
+
+::: {lang="el"}
+— Έλα, ρε Νίκο! Πού είσαι;
+
+— Στο ΚΕΠ, ρε φίλε. Μόλις με ρώτησαν πώς λένε τον πατέρα μου.
+
+— Κλασικά. Και το όνομα της γιαγιάς σου δε σε ρώτησαν;
+
+— Μην τους δίνεις ιδέες!
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Der Nächste! … Bitte schön.
+
+— Guten Morgen. Ich möchte eine Familienstandsbescheinigung.
+
+— Jawohl. Vor- und Nachname?
+
+— Papadopoulos, Nikolaos.
+
+— Name des Vaters?
+
+— Wie bitte?
+
+— Der Name Ihres Vaters.
+
+— Ach so, Georgios.
+
+— Und der Ihrer Mutter?
+
+— Angeliki.
+
+— Ihren Ausweis, bitte. … Danke. Unterschreiben Sie hier, Herr Papadopoulos.
+
+— Vielen Dank. Einen schönen Tag noch.
+
+\
+
+— Na, Nikos! Wo steckst du?
+
+— Auf dem Amt, Mann. Die haben mich gerade gefragt, wie mein Vater heißt.
+
+— Typisch. Und nach dem Namen deiner Oma haben sie dich nicht gefragt?
+
+— Bring sie bloß nicht auf Ideen!
+:::
+
+Was das Amt verrät:
+
+- **Die Höflichkeit sitzt in den Endungen:** [Καλημέρα σας, του πατέρα σας,
+  Υπογράψτε]{lang="el"} (eine Befehlsform, Kapitel 9), dazu [κύριε Παπαδόπουλε]{lang="el"}.
+- **Nachname zuerst:** Auf Formularen und am Schalter nennt man [Παπαδόπουλος
+  Νικόλαος]{lang="el"}; [το ονοματεπώνυμο]{lang="el"} ist „Name-und-Nachname“ in einem Wort.
+- **[πατρός]{lang="el"}** ist ein alter Genitiv von „Vater“, der nur noch auf Formularen lebt:
+  [όνομα πατρός, όνομα μητρός]{lang="el"}. Wer ihn nicht versteht, ist in guter Gesellschaft.
+- **Kurze Amtswörter:** [Παρακαλώ]{lang="el"} am Schalter heißt „Bitte, was kann ich für Sie
+  tun?“, [Μάλιστα]{lang="el"} ist das förmliche „Jawohl, verstanden“, [Ορίστε;]{lang="el"} mit
+  fragender Stimme „Wie bitte?“. Ohne Frage, beim Überreichen, ist [Ορίστε.]{lang="el"} „Bitte
+  sehr“ (Kapitel 6).
+
+Am Telefon kippt alles: [Έλα]{lang="el"} (Kapitel 1), [ρε]{lang="el"} mit Vokativ, „du“. Und
+aus [Νικόλαος]{lang="el"} ist [Νίκος]{lang="el"} geworden.
+
+### Zwei Namen für einen Menschen {#sec-genitiv-namensformen}
+
+Viele Griechen haben einen **amtlichen** und einen **Alltagsnamen**. Im Ausweis steht die alte,
+gelehrte Form, gerufen wird die neue:
+
+| amtlich | im Alltag |
+|---|---|
+| [Γεώργιος]{lang="el"} | [Γιώργος]{lang="el"} |
+| [Ιωάννης]{lang="el"} | [Γιάννης]{lang="el"} |
+| [Κωνσταντίνος]{lang="el"} | [Κώστας]{lang="el"} |
+| [Νικόλαος]{lang="el"} | [Νίκος]{lang="el"} |
+| [Αικατερίνη]{lang="el"} | [Κατερίνα]{lang="el"} |
+
+Die amtliche Form hörst du auf dem Amt, in der Kirche und in den Nachrichten. Die
+Nachnamen [Γεωργίου, Νικολάου]{lang="el"} kommen übrigens von der amtlichen Form.
+
+### Den Vokativ hören {#sec-genitiv-hoeren}
+
+Zwischen [ο Νίκος]{lang="el"} und [Νίκο!]{lang="el"} liegt ein einziges [s]. Beim Hören hilft,
+dass der Vokativ fast immer am Satzanfang oder -ende steht, oft mit [ρε]{lang="el"} oder
+[έλα]{lang="el"} davor. [κύριε]{lang="el"} schrumpft im schnellen Gespräch zu [ˈcirʝe], im
+volkstümlichen Ton zu [κυρ]{lang="el"} [cir].
+
+<!-- EXERCISE: Hör-Auftrag Anrede: Easy Greek (https://www.youtube.com/@EasyGreekVideos), ein Straßeninterview; bei drei angesprochenen Personen notieren, ob mit Γεια σου/σας, -εις/-ετε, σε/σας angesprochen wird, und ob das zum geschätzten Alter passt; gehörte Vokative (Namen, φίλε, παιδιά) mitzählen; danach mit griechischen Untertiteln prüfen. Optional ERTflix (https://www.ertflix.gr): in den ersten fünf Minuten einer Serienfolge gerufene Namen sammeln. Hörverstehen, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Επόμενος!]{lang="el"} | [eˈpomenos] | Der Nächste! |
+| [Παρακαλώ.]{lang="el"} | [parakaˈlo] | Bitte (schön); am Schalter: Was kann ich für Sie tun? |
+| [Μάλιστα.]{lang="el"} | [ˈmalista] | Jawohl. Verstanden. (formell) |
+| [Ορίστε;]{lang="el"} | [oˈriste] | Wie bitte? |
+| [η ταυτότητα]{lang="el"} | [i tafˈtotita] | der Personalausweis |
+| [το πιστοποιητικό]{lang="el"} | [to pistopiitiˈko] | die Bescheinigung |
+| [υπογράφω, υπέγραψα]{lang="el"} | [ipoˈɣrafo], [iˈpeɣrapsa] | unterschreiben |
+| [μόλις]{lang="el"} | [ˈmolis] | gerade eben |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [το ΚΕΠ]{lang="el"} [kep] | das Bürgeramt |
+| [η οικογενειακή κατάσταση]{lang="el"} | der Familienstand |
+| [το ονοματεπώνυμο]{lang="el"} | Vor- und Nachname |
+| [όνομα πατρός, μητρός]{lang="el"} | Name des Vaters, der Mutter (auf Formularen) |
+| [Υπογράψτε!]{lang="el"} | Unterschreiben Sie! (Kapitel 9) |
+| [Καλή σας μέρα.]{lang="el"} | Einen schönen Tag noch. |
+| [κλασικά]{lang="el"} | typisch, wie immer (umg.) |
+| [Μην τους δίνεις ιδέες!]{lang="el"} | Bring sie nicht auf Ideen! |
+:::
+
+[υπέγραψα]{lang="el"} versteckt sein Augment in der Wortmitte wie [κατέστρεψα]{lang="el"} in
+Kapitel 2: [υπ(ο)- + έ- + γραψα]{lang="el"}, im Plural ohne: [υπογράψαμε]{lang="el"}.
+
+## Das Wichtigste {#sec-genitiv-wichtigste}
+
+- **Besitzwörter** [μου, σου, του, της, μας, σας, τους]{lang="el"} stehen hinter dem Nomen,
+  das seinen Artikel behält: [ο γιος μου]{lang="el"}. Betont: [δικός μου]{lang="el"}.
+- **Genitiv Singular:** männlich [-ς]{lang="el"} weg, [-ος → -ου]{lang="el"}; weiblich
+  [+ ς]{lang="el"}; sächlich [-ου, -ιού, -ματος]{lang="el"}. Artikel [του, της, του]{lang="el"},
+  Plural [των … -ων]{lang="el"}.
+- Der Genitiv steht **hinter** dem Besitz: [το σπίτι του Γιάννη]{lang="el"}. Er steckt in
+  Straßennamen und in weiblichen Nachnamen ([Παπαδοπούλου]{lang="el"}).
+- **Vokativ:** nur männlich Singular eigen: [Γιάννη, Κώστα, Γιώργο, κύριε
+  Παπαδόπουλε]{lang="el"}. Alles andere wie der Nominativ.
+- **Höflichkeit** ist die 2. Person Plural, wie [*vous*]{lang="fr"}: [Τι κάνετε; Γεια σας.]{lang="el"}
+  Griechisch duzt schneller als Deutsch; [κύριε/κυρία]{lang="el"} + Vorname liegt dazwischen.
+
+## Zum Lesen: [Χρόνια πολλά!]{lang="el"} {#sec-genitiv-lesetext}
+
+Warum saßen am Anfang des Kapitels drei Georgs in einem Wohnzimmer? Der Text erklärt es. Lies
+ihn einmal ganz, ohne nachzuschlagen.
+
+::: {lang="el"}
+**Χρόνια πολλά!**
+
+Στην Ελλάδα πολλοί άνθρωποι γιορτάζουν δύο φορές τον χρόνο: στα γενέθλιά τους και στη γιορτή
+τους. Η γιορτή είναι η μέρα του αγίου με το ίδιο όνομα. Ο Γιώργος γιορτάζει στις 23 Απριλίου,
+του Αγίου Γεωργίου. Ο Νίκος γιορτάζει στις 6 Δεκεμβρίου, του Αγίου Νικολάου. Η Μαρία γιορτάζει
+στις 15 Αυγούστου, της Παναγίας. Και αν ένα όνομα δεν έχει άγιο; Τότε γιορτάζει την Κυριακή των
+Αγίων Πάντων, οκτώ εβδομάδες μετά το Πάσχα.
+
+Παλιά η γιορτή ήταν πιο σημαντική από τα γενέθλια. Εκείνη τη μέρα το σπίτι ήταν ανοιχτό: φίλοι,
+γείτονες και συγγενείς περνούσαν χωρίς πρόσκληση, έτρωγαν γλυκά και έλεγαν «Χρόνια πολλά!».
+Σήμερα οι περισσότεροι στέλνουν μήνυμα. Αλλά το τηλέφωνο χτυπάει ακόμα όλη μέρα, και κάποια
+στιγμή η μητέρα σου θα σε ρωτήσει: «Πήρες τηλέφωνο τον θείο σου; Γιορτάζει σήμερα!»
+
+Γιατί όμως έχει κάθε οικογένεια τόσους Γιώργηδες και τόσες Μαρίες; Κατά την παράδοση, το πρώτο
+αγόρι παίρνει το όνομα του παππού, του πατέρα του πατέρα. Το πρώτο κορίτσι παίρνει το όνομα της
+γιαγιάς. Το δεύτερο αγόρι και το δεύτερο κορίτσι παίρνουν τα ονόματα των γονιών της μητέρας.
+Έτσι τα ονόματα γυρίζουν κάθε δύο γενιές, και σε ένα τραπέζι κάθονται εύκολα τρεις Γιώργηδες
+και δύο Ελένες.
+
+Πώς τους ξεχωρίζουν; Με τη γενική, φυσικά: ο Γιώργος της Ελένης, ο Γιώργος του Κώστα. Ή με
+άλλο όνομα: ο μικρός είναι ο Γιωργάκης, ο μεγάλος ο Γιώργος.
+
+Στην ταυτότητα, πάλι, όλοι είναι πιο επίσημοι: ο Γιώργος είναι «Γεώργιος», ο Γιάννης
+«Ιωάννης». Αλλά στη γιορτή του κανείς δεν του λέει «Χρόνια πολλά, Γεώργιε». Αν το πει, γελάει
+όλο το σπίτι.
+:::
+
+<!-- CHECK: Brauch (1. Sohn nach Großvater väterlicherseits, 1. Tochter nach Großmutter väterlicherseits, 2. Kinder nach Eltern der Mutter); Αγίων Πάντων = Sonntag nach Pfingsten, 8 Wochen nach Ostern; Namenstag früher wichtiger als Geburtstag -->
+
+Beim Lesen hilft: [του πατέρα του πατέρα]{lang="el"} ist ein Genitiv im Genitiv, „des Vaters
+des Vaters“, und [κανείς δεν του λέει]{lang="el"} heißt „niemand sagt ihm“ (Kapitel 8).
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [τα γενέθλια]{lang="el"} | der Geburtstag |
+| [ο άγιος, η αγία]{lang="el"} | der/die Heilige; [Άγιος]{lang="el"} Sankt |
+| [η Παναγία]{lang="el"} | die Muttergottes; hier: Mariä Entschlafung (15. August) |
+| [των Αγίων Πάντων]{lang="el"} | (Fest) Allerheiligen |
+| [το Πάσχα]{lang="el"} | Ostern |
+| [πιο σημαντικός]{lang="el"} | wichtiger (Kapitel 12) |
+| [ο συγγενής, οι συγγενείς]{lang="el"} | der/die Verwandte |
+| [χωρίς πρόσκληση]{lang="el"} | ohne Einladung |
+| [τα γλυκά]{lang="el"} | Süßigkeiten, Kuchen |
+| [οι περισσότεροι]{lang="el"} | die meisten |
+| [κάποια στιγμή]{lang="el"} | irgendwann |
+| [πήρα τηλέφωνο]{lang="el"} + Akk. | ich rief … an |
+| [η παράδοση]{lang="el"} | die Tradition |
+| [η γενιά, οι γενιές]{lang="el"} | die Generation |
+| [ξεχωρίζω]{lang="el"} | unterscheiden, auseinanderhalten |
+| [ο Γιωργάκης]{lang="el"} | der kleine Giorgos (Verkleinerung, Kapitel 26) |
+| [επίσημος, -η, -ο]{lang="el"} | offiziell, förmlich |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Alles Gute!**
+
+In Griechenland feiern viele Menschen zweimal im Jahr: ihren Geburtstag und ihren Namenstag.
+Der Namenstag ist der Tag des Heiligen mit demselben Namen. Giorgos feiert am 23. April, dem
+Tag des heiligen Georg. Nikos feiert am 6. Dezember, dem Tag des heiligen Nikolaus. Maria feiert
+am 15. August, dem Tag der Muttergottes. Und wenn ein Name keinen Heiligen hat? Dann feiert er an
+Allerheiligen, dem Sonntag acht Wochen nach Ostern.
+
+Früher war der Namenstag wichtiger als der Geburtstag. An diesem Tag stand das Haus offen:
+Freunde, Nachbarn und Verwandte kamen ohne Einladung vorbei, aßen Süßes und sagten „Alles
+Gute!“. Heute schicken die meisten eine Nachricht. Aber das Telefon klingelt immer noch den
+ganzen Tag, und irgendwann fragt deine Mutter: „Hast du deinen Onkel angerufen? Er hat heute
+Namenstag!“
+
+Aber warum hat jede Familie so viele Giorgos und so viele Marias? Nach der Tradition bekommt der
+erste Junge den Namen des Großvaters, des Vaters des Vaters. Das erste Mädchen bekommt den Namen
+der Großmutter. Der zweite Junge und das zweite Mädchen bekommen die Namen der Eltern der
+Mutter. So kehren die Namen alle zwei Generationen wieder, und an einem Tisch sitzen leicht drei
+Giorgos und zwei Elenis.
+
+Wie hält man sie auseinander? Mit dem Genitiv natürlich: Elenis Giorgos, Kostas' Giorgos. Oder
+mit einem anderen Namen: Der Kleine ist der Giorgakis, der Große der Giorgos.
+
+Im Ausweis dagegen sind alle förmlicher: Giorgos ist „Georgios“, Giannis „Ioannis“. Aber an
+seinem Namenstag sagt keiner zu ihm „Alles Gute, Georgios“. Wer es tut, bringt das ganze Haus
+zum Lachen.
+:::
+
+<!-- EXERCISE: Lesetext verstehen (richtig/falsch zu Namenstag, Namensbrauch, amtlichen Namen) und Genitive im Text finden und übersetzen, Verstehen und Zuordnen, Schwierigkeit 2 -->
