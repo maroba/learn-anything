@@ -538,7 +538,76 @@ den Nomen: [μπλε, ροζ, μωβ, γκρι, μπεζ]{lang="el"}, und [κα�
 Farben anpassen: [κόκκινος, πράσινος, άσπρος, μαύρος]{lang="el"} (rot, grün, weiß, schwarz).
 :::
 
-<!-- EXERCISE: Adjektive an Nomen anpassen (Genus, Numerus, Nom./Akk.; Typen -η/-α/-ια; Adjektiv bei Nomen mit abweichender Endung wie μανάβης, πόλη, πρόβλημα; πολύς vs. πολύ), Formen bilden bzw. Auswahl mit nummerierten Optionen; Schwierigkeit 2. Übung 6.2 -->
+::: {.callout-note .exercise}
+## Übung 6.2: Das Adjektiv passt sich an
+
+Setz das Adjektiv in Klammern in die richtige Form und sag den ganzen Satz laut.
+
+::: {lang="el" .no-audio}
+1. Θέλω δύο κιλά (φρέσκος) ντομάτες.
+2. Δοκίμασε μία. Είναι πολύ (γλυκός).
+3. Οι μανάβηδες εδώ είναι (καλός).
+4. Ψάχνω (κρητικός) παραγωγούς.
+5. Έχουμε ένα (μεγάλος) πρόβλημα.
+6. Η Αθήνα είναι μια (ωραίος) πόλη.
+7. Τα καρπούζια είναι (ακριβός).
+8. Θέλω (πολύς) λεμόνια.
+9. Οι ντομάτες είναι (πολύς) γλυκές.
+10. Στις δέκα έχει (πολύς) κόσμο.
+11. Δώσε μου μια (κόκκινος) πιπεριά και δύο (πράσινος).
+12. Πού είναι η (σωστός) έξοδος;
+13. Θέλω μια (μπλε) σακούλα.
+:::
+
+In Satz 2 ist eine Tomate gemeint.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Such zu jedem Adjektiv sein Nomen und frag es dreimal: männlich, weiblich oder sächlich?
+Singular oder Plural? Subjekt (auch nach [είναι]{lang="el"}) oder Objekt? Die Endung des Nomens
+hilft dabei nur bedingt.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[ο μανάβης]{lang="el"} ist männlich, [η πόλη]{lang="el"} weiblich, [το πρόβλημα]{lang="el"}
+sächlich, [η έξοδος]{lang="el"} weiblich. [πολύ]{lang="el"} vor einem Adjektiv heißt „sehr“ und
+ändert sich nie; [ο κόσμος]{lang="el"} ist männlich. In Satz 11 fehlt beim zweiten Adjektiv das
+Nomen, gemeint sind trotzdem Paprika.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [φρέσκες]{lang="el"}: weiblich Plural. Das [ι]{lang="el"} aus [φρέσκια]{lang="el"} gibt es nur
+   im Singular.
+2. [γλυκιά]{lang="el"} [ɣliˈca]: weiblich Singular, eine der Handvoll Formen auf
+   [-ιά]{lang="el"}. \*[γλυκή]{lang="el"} ist der naheliegende Fehler.
+3. [καλοί]{lang="el"}: [μανάβηδες]{lang="el"} endet wie ein Femininum, ist aber männlich. Nach
+   [είναι]{lang="el"} passt sich das Adjektiv trotzdem an; \*[καλές]{lang="el"} und das
+   deutsche „sind gut“ ohne Endung sind die beiden typischen Fehler.
+4. [κρητικούς]{lang="el"}: männlich, Akkusativ Plural, weil Objekt.
+5. [μεγάλο]{lang="el"}: [πρόβλημα]{lang="el"} ist sächlich, trotz des [-α]{lang="el"}.
+   \*[μεγάλη]{lang="el"} ist der Fehler, zu dem die Endung verführt; *el problema* auch.
+6. [ωραία]{lang="el"}: weiblich, und nach dem Vokal [αι]{lang="el"} kommt [-α]{lang="el"}, nicht
+   [-η]{lang="el"}.
+7. [ακριβά]{lang="el"}: sächlich Plural, wie [τα καρπούζια]{lang="el"}.
+8. [πολλά]{lang="el"}: sächlich Plural, mit doppeltem [λλ]{lang="el"}.
+9. [πολύ]{lang="el"}: Hier steht „sehr“ vor einem Adjektiv, also unverändert.
+   \*[πολλές γλυκές]{lang="el"} hieße „viele süße“.
+10. [πολύ]{lang="el"}: [κόσμο]{lang="el"} ist männlich, Akkusativ Singular, und genau diese Form
+    von [πολύς]{lang="el"} heißt [πολύ]{lang="el"}. Sie sieht aus wie „sehr“, ist hier aber das
+    Adjektiv: „viele Leute“. \*[πολλή κόσμο]{lang="el"} oder \*[πολλούς κόσμο]{lang="el"} passen
+    nicht.
+11. [κόκκινη]{lang="el"}, [πράσινες]{lang="el"}: [δύο πράσινες]{lang="el"} ohne Nomen, die Endung
+    sagt, dass Paprika gemeint sind.
+12. [σωστή]{lang="el"}: [η έξοδος]{lang="el"} ist weiblich, das Adjektiv folgt dem Genus, nicht der
+    Endung. \*[σωστός έξοδος]{lang="el"} ist der Fehler, auf den dieses Wort wartet.
+13. [μπλε]{lang="el"}: unveränderlich, wie alle Farben aus dem Französischen.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
