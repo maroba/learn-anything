@@ -32,8 +32,8 @@
 | 26 Wortbildung I: Präfixe und Verkleinerungen | veröffentlicht | Welle 12; Audio vollständig |
 | 27 Wortbildung II: die Sprache der Wissenschaft | Übungen | Welle 13; Entwurf fertig |
 | 29 Argumentieren | fertig | Welle 11; wartet auf 26–28 |
-| 30 Redewendungen | Konsistenz | Welle 12; überarbeitet |
-| 32 Kreta und Zypern hören | überarbeitet | Welle 12; Konsistenz nach 30 (Glossar) |
+| 30 Redewendungen | fertig | Welle 12; wartet auf 27–29 |
+| 32 Kreta und Zypern hören | Konsistenz | Welle 12; überarbeitet |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 
