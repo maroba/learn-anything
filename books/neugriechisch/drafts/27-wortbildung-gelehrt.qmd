@@ -281,12 +281,12 @@ drei Möglichkeiten.
 | drittletzte | [-μετρο, -φωνο, -σκόπιο, -όνιο, -ίτιδα, -ίατρος]{lang="el"} | [θερμόμετρο, μικρόφωνο, μικροσκόπιο, ηλεκτρόνιο, ωτίτιδα, παιδίατρος]{lang="el"} |
 
 Die dritte Gruppe ist die, bei der das Deutsche am häufigsten danebenliegt. Merk sie dir wie den
-Aorist aus Kapitel 2: Die Betonung rückt so weit nach vorn, wie die Dreisilbenregel es erlaubt,
+Aorist aus Kapitel 2: Die Betonung steht so weit vorn wie möglich, auf der drittletzten Silbe,
 [θερ-**μό**-με-τρο]{lang="el"} wie [**έ**-γρα-ψα]{lang="el"}. Ausnahmen sind selten; im Zweifel
 entscheidet der Akzent.
 
-Fach und Fachmann bilden Paare mit springender Betonung: [η βιολογία – ο βιολόγος]{lang="el"}
-[violoˈʝia – vioˈloɣos]. Bei den Fächern auf [-ική]{lang="el"} ist die Person das männliche
+Fach und Fachmann bilden Paare, bei denen die Betonung wandert: [η βιολογία – ο
+βιολόγος]{lang="el"} [i violoˈʝia – o vioˈloɣos]. Bei den Fächern auf [-ική]{lang="el"} ist die Person das männliche
 Adjektiv: [η φυσική – ο φυσικός]{lang="el"}, [η χημεία – ο χημικός]{lang="el"}.
 [φυσικός]{lang="el"} heißt zugleich „natürlich“, und [Φυσικά!]{lang="el"} (Kapitel 4) hörst du
 öfter als jedes Wort aus der Physik. Beide kommen von [η φύση]{lang="el"}, der Natur.
@@ -295,13 +295,13 @@ Wer Spanisch spricht, hat oft einen besseren Ratgeber als das Deutsche:
 
 | Deutsch | Spanisch | Griechisch |
 |---|---|---|
-| Thermo**me**ter, Kilo**me**ter | ter**mó**metro, ki**ló**metro | [θερμόμετρο, χιλιόμετρο]{lang="el"} |
-| Mikro**fon**, Tele**fon** | mi**cró**fono, te**lé**fono | [μικρόφωνο, τηλέφωνο]{lang="el"} |
-| A**tom**, Me**tho**de | **á**tomo, **mé**todo | [άτομο, μέθοδος]{lang="el"} |
-| Ana**ly**se, Hypo**the**se | a**ná**lisis, hi**pó**tesis | [ανάλυση, υπόθεση]{lang="el"} |
-| Phy**sik**, Mathema**tik** | **fí**sica, mate**má**ticas | [φυσική, μαθηματικά]{lang="el"}: ganz hinten |
-| Bio**lo**ge, Foto**graf** | bi**ó**logo, fo**tó**grafo | [βιολόγος, φωτογράφος]{lang="el"}: vorletzte |
-| Ener**gie** | ener**gí**a | [ενέργεια]{lang="el"} [eˈnerʝia] |
+| Thermo**me**ter, Kilo**me**ter | [*ter**mó**metro*, *ki**ló**metro*]{lang="es"} | [θερμόμετρο, χιλιόμετρο]{lang="el"} |
+| Mikro**fon**, Tele**fon** | [*mi**cró**fono*, *te**lé**fono*]{lang="es"} | [μικρόφωνο, τηλέφωνο]{lang="el"} |
+| A**tom**, Me**tho**de | [***á**tomo*, ***mé**todo*]{lang="es"} | [άτομο, μέθοδος]{lang="el"} |
+| Ana**ly**se, Hypo**the**se | [*a**ná**lisis*, *hi**pó**tesis*]{lang="es"} | [ανάλυση, υπόθεση]{lang="el"} |
+| Phy**sik**, Mathema**tik** | [***fí**sica*, *mate**má**ticas*]{lang="es"} | [φυσική, μαθηματικά]{lang="el"}: ganz hinten |
+| Bio**lo**ge, Foto**graf** | [*bi**ó**logo*, *fo**tó**grafo*]{lang="es"} | [βιολόγος, φωτογράφος]{lang="el"}: vorletzte |
+| Ener**gie** | [*ener**gí**a*]{lang="es"} | [ενέργεια]{lang="el"} [eˈnerʝia] |
 
 Die Faustregel: Hör auf dein Spanisch, nicht auf dein Deutsch. Bei den Fächern auf
 [-ική]{lang="el"}, den Personen auf [-λόγος, -γράφος, -νόμος]{lang="el"} und bei
@@ -351,7 +351,7 @@ Acht Wörter enden wie in der Betonungstabelle. Bei den übrigen vier hilft das 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Im Plural rückt die Betonung auf die vorletzte Silbe wie bei [αναλύσεις]{lang="el"}. Ein Aorist
+Im Plural wandert die Betonung auf die vorletzte Silbe wie bei [αναλύσεις]{lang="el"}. Ein Aorist
 hat kein [σ]{lang="el"}, sein Nomen trotzdem.
 :::
 
@@ -550,12 +550,12 @@ Drei Dinge passieren dabei:
   ήγγειλα]{lang="grc"}, also [παρήγγειλα]{lang="el"} [paˈriŋɟila]. Dasselbe hörst du in den
   Nachrichten bei [ανήγγειλε]{lang="el"} „kündigte an“.
 
-Ganz fest ist das innere Augment nicht. Das Standardwörterbuch führt bei vielen Verben zwei
-Aoriste: [κατέστρεψα/κατάστρεψα, ανήγγειλα/ανάγγειλα, απέδειξα/απόδειξα, συνέκρινα/σύγκρινα,
+Ganz fest ist das innere Augment nicht. Das Wörterbuch der Standardsprache führt bei vielen Verben
+zwei Aoriste, **Doppelformen**:[κατέστρεψα/κατάστρεψα, ανήγγειλα/ανάγγειλα, απέδειξα/απόδειξα, συνέκρινα/σύγκρινα,
 προέβλεψα/πρόβλεψα, προσέθεσα/πρόσθεσα]{lang="el"}, dazu [υπέγραψα/υπόγραψα]{lang="el"}
 (umgangssprachlich) und selten [μετάφρασα]{lang="el"}. Beim Bestellen hängt es am Präsens:
 [παραγγέλλω → παρήγγειλα]{lang="el"}, aber [παραγγέλνω → παράγγειλα]{lang="el"}. Viele schwanken;
-umgangssprachlich hörst du auch [υπόγραψα, κατάστρεψα, παράγγειλα]{lang="el"}. Mit den Formen der Tabelle
+umgangssprachlich hörst du auch [υπόγραψα, κατάστρεψα]{lang="el"}. Mit den Formen der Tabelle
 liegst du richtig.
 
 Am anderen Ende stehen Verben, die längst Alltagswörter sind. Sie setzen trotz gleicher Vorsilbe
@@ -699,7 +699,7 @@ Welche Übersetzung passt zum fetten Wort? Im Chat: „1b, 2c, …“.
 8. [Μιλάει για τον πρώην άντρα της με **εμπάθεια**.]{lang="el"}
    → a) Mitgefühl, b) Groll, c) Wehmut
 
-[το Πολυτεχνείο]{lang="el"}: die Technische Universität; in Athen das [Μετσόβιο]{lang="el"}.
+[το Πολυτεχνείο]{lang="el"}: das Polytechnikum, die Technische Hochschule (Kapitel 11); in Athen das [Μετσόβιο]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -744,14 +744,14 @@ heißen, aber das Polytechnikum bildet Ingenieure aus. 8: [εμπάθεια]{lan
 Die ▶-Aufnahmen im Buch sind synthetische Stimmen; echte Menschen bringt der Hör-Auftrag am Ende
 des Abschnitts.
 
-Ein Vortragsabend in einem Athener Kulturzentrum, Reihe „Λέξεις της επιστήμης“, Wörter der
-Wissenschaft. Eine Physikerin hält eine [διάλεξη]{lang="el"}, einen Vortrag, über ein einziges
+Ein Vortragsabend in einem Athener Kulturzentrum, Reihe [«Λέξεις της επιστήμης»]{lang="el"},
+„Wörter der Wissenschaft“. Eine Physikerin hält eine [διάλεξη]{lang="el"}, einen Vortrag, über ein einziges
 Wort; hier eine gekürzte Fassung.
 
 Vor dem Hören:
 
 - Vier Namen kommen vor: Demokrit aus Abdera ([ο Δημόκριτος]{lang="el"}), Cicero ([ο
-  Κικέρων]{lang="el"}), J. J. Thomson ([ο Τόμσον]{lang="el"}) und der englische Arzt William Gilbert
+  Κικέρωνας]{lang="el"}), J. J. Thomson ([ο Τόμσον]{lang="el"}) und der englische Arzt William Gilbert
   ([ο Γκίλμπερτ]{lang="el"}).
 - Vortragende gliedern mit festen Wendungen: [Ας ξεκινήσουμε από …]{lang="el"} „Fangen wir an
   bei …“, [με άλλα λόγια]{lang="el"} „mit anderen Worten“, [Κλείνοντας, …]{lang="el"} „Zum
@@ -771,7 +771,7 @@ reiben · [τραβάω]{lang="el"} anziehen, ziehen · [ο όρος]{lang="el"}
 «άτομο», από το «α» και το αρχαίο ρήμα «τέμνω», που σημαίνει «κόβω». Με άλλα λόγια, άτομο είναι
 αυτό που δεν κόβεται.
 
-Αργότερα ο Κικέρων μετέφρασε τη λέξη στα λατινικά, με μια λέξη που σημαίνει «αδιαίρετο». Από εκεί
+Αργότερα ο Κικέρωνας μετέφρασε τη λέξη στα λατινικά, με μια λέξη που σημαίνει «αδιαίρετο». Από εκεί
 πέρασε στα γαλλικά, και από τα γαλλικά ήρθε σε εμάς μια νέα σημασία: ο άνθρωπος. Έτσι σήμερα
 έχουμε δύο άτομα: το άτομο της φυσικής και το άτομο που κάθεται δίπλα σας.
 
@@ -863,7 +863,7 @@ Wissenschaft oft. Die Theorie ändert sich, der Begriff bleibt.
 ## Vorsicht
 
 - Cicero gab [άτομα]{lang="grc"} mit [*corpora individua*]{lang="la"} wieder.
-- Der Vortrag vereinfacht den Weg: [το άτομο]{lang="el"} „Person“ ist laut Standardwörterbuch eine
+- Der Vortrag vereinfacht den Weg: [το άτομο]{lang="el"} „Person“ ist laut Wörterbuch der Standardsprache eine
   Lehnbedeutung nach französisch [*individu*]{lang="fr"} (das auf [*individuum*]{lang="la"}
   zurückgeht); auch die physikalische Bedeutung kam über französisch [*atome*]{lang="fr"} ins
   Neugriechische.
@@ -957,7 +957,8 @@ Jede Sendung ist anders; so wertest du aus:
   [παρα-]{lang="el"} heißt „neben, entlang“.
 - **Inneres Augment** bei gelehrten Verben, im Alltag nur betont: [κατέστρεψα –
   καταστρέψαμε]{lang="el"}, [μετέφρασα, περιέγραψα, συνέβη, παρήγγειλα]{lang="el"}. Viele haben
-  Doppelformen ([υπόγραψα, παράγγειλα]{lang="el"}); Alltagsverben gar nicht: [κατάλαβα,
+  Doppelformen ([υπόγραψα, κατάστρεψα]{lang="el"}), [παραγγέλνω]{lang="el"} bildet
+  [παράγγειλα]{lang="el"}; Alltagsverben gar nicht: [κατάλαβα,
   αποφάσισα]{lang="el"}. Unbetontes Augment der förmlichen Sprache: Kapitel 28.
 - **Falsche Freunde:** [το άτομο]{lang="el"} Person, [η υπόθεση]{lang="el"} Angelegenheit,
   [η σύμπτωση]{lang="el"} Zufall, [ο μηχανικός]{lang="el"} Ingenieur, [η ύλη]{lang="el"}
@@ -1000,7 +1001,7 @@ Ein Text, wie er in der Wissenschaftsbeilage einer Sonntagszeitung stehen könnt
   („erstickender Stoff“) ist eine eigene deutsche Bildung mit ähnlichem Gedanken wie
   [*azote*]{lang="fr"}, keine Übersetzung.
 - Wörter wie [οξυγόνο]{lang="el"} nennt man oft [αντιδάνεια]{lang="el"}, **Rückentlehnungen**.
-  Im engen Sinn (so das Standardwörterbuch) ist ein [αντιδάνειο]{lang="el"} aber ein ausgewandertes
+  Im engen Sinn (so das Wörterbuch der Standardsprache) ist ein [αντιδάνειο]{lang="el"} aber ein ausgewandertes
   und zurückgekehrtes Wort wie [ο καναπές]{lang="el"} (altgriechisch [κωνωπείον]{lang="grc"} →
   französisch [*canapé*]{lang="fr"}); [οξυγόνο]{lang="el"} ist genauer eine gelehrte Entlehnung
   aus dem Französischen.
