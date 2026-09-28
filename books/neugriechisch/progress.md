@@ -24,8 +24,9 @@
 | 18 Er sagt, dass: indirekte Rede und indirekte Fragen | veröffentlicht | Welle 9; Audio vollständig |
 | 19 Müde, aber glücklich: Partizip und Gerundium | veröffentlicht | Welle 8; Audio vollständig |
 | 20 Mit Nachdruck: starke Pronomen und Doppelung | veröffentlicht | Welle 9; Audio läuft |
-| 21 So spricht man wirklich: gesprochene Sprache | im Review | Welle 10; Übungen fertig |
-| 22 Vielleicht, wahrscheinlich, sicher: Modalität | überarbeitet | Welle 9; Konsistenz nach 20 (Glossar) |
+| 21 So spricht man wirklich: gesprochene Sprache | Überarbeitung | Welle 10; beide Reviews da |
+| 22 Vielleicht, wahrscheinlich, sicher: Modalität | fertig | Welle 9; wartet auf 21 |
+| 24 Was wäre, wenn: Irrealis und Wünsche | Entwurf | Welle 10 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 

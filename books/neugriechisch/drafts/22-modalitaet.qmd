@@ -457,7 +457,7 @@ Im Gespräch hörst du [μπορεί]{lang="el"} oft ganz allein: [Μπορεί.
 ::: {.callout-tip}
 ## Tipp
 
-Schnell gesprochen verschmilzt [μπορεί να]{lang="el"} zu [boˈrina], und vor [είναι]{lang="el"}
+Schnell gesprochen verschleift sich [μπορεί να]{lang="el"} zu [boˈrina], und vor [είναι]{lang="el"}
 wird dessen Anfangsvokal verschluckt: [μπορεί να ’ναι]{lang="el"} [boˈri ˈnane] „kann sein“. Genauso
 [πρέπει να ’ναι]{lang="el"} [ˈprepi ˈnane] „muss wohl sein“.
 :::
@@ -575,7 +575,7 @@ vielmehr“. [Αύριο, ή μάλλον μεθαύριο.]{lang="el"} „Morge
 **Auch [θα]{lang="el"} kann vermuten**, genau wie das deutsche „wird wohl“: [Θα είναι στο χωριό
 τώρα.]{lang="el"} „Sie wird jetzt im Dorf sein.“ Spanisch kennt das als Futur der
 Wahrscheinlichkeit: [*Estará en el pueblo.*]{lang="es"} Am häufigsten geschieht das mit
-[είναι, έχει]{lang="el"} und anderen Zustandsverben. Mit dem Perfekt kennst du es aus Kapitel 14:
+[είναι, έχει]{lang="el"} und anderen Zustandsverben. Mit dem Perfekt hat Kapitel 14 es schon angekündigt:
 [θα έχει φύγει]{lang="el"} „er wird wohl schon weg sein“.
 
 Und weil man im Gespräch selten ganze Sätze braucht, hier die kurzen Antworten auf
@@ -808,7 +808,7 @@ dankbar. Die Reihenfolge ist fast immer: Region, Himmel, Wind, Temperatur.
 - **Modalität:** Achte auf die förmlichen Wörter [αναμένεται, ενδέχεται, δεν
   αποκλείονται]{lang="el"}. Alle drei sind auf der drittletzten Silbe betont, das Ende ist
   unbetont und schnell gesprochen: [anaˈmenete], [enˈðeçete], [apoˈkliode]. Die Endung
-  [-ται]{lang="el"} kennst du aus dem Mediopassiv (Kapitel 13).
+  [-ται]{lang="el"} kennst du aus Kapitel 10 und 13.
 
 Beaufort misst die Windstärke, und die Zahlen sind im Sommer in jeder Vorhersage: 6 Beaufort ist
 starker Wind (39 bis 49 km/h), 7 steifer Wind (50 bis 61 km/h), 8 stürmischer Wind (62 bis
@@ -1156,7 +1156,6 @@ bis 2021 ([μέχρι το 2021]{lang="el"}). 5: umgekehrt, über dem Balkan hoc
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [σπάνια]{lang="el"} | [ˈspaɲa] | selten |
-| [πάντως]{lang="el"} | [ˈpados] | jedenfalls, immerhin |
 | [πέφτω έξω, έπεσα έξω]{lang="el"} | [ˈpefto ˈekso], [ˈepesa ˈekso] | danebenliegen, sich irren (umg.) |
 | [η διαφορά]{lang="el"} | [i ðiafoˈra] | der Unterschied |
 | [συχνός, -ή, -ό]{lang="el"} | [sixˈnos] | häufig |
