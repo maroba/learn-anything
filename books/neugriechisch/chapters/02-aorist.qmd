@@ -76,9 +76,9 @@ Kette von Ereignissen, jedes abgeschlossen, jedes als Ganzes erzählt.
 „es“: Kurze Objektwörter wie [το]{lang="el"} „es“ und [τον]{lang="el"} „ihn“ stehen vor dem Verb
 (Kapitel 8).
 
-Zur Aussprache: In [διαβάζω]{lang="el"} [ðʝaˈvazo] ist δ das *th* aus engl. *this*, und das
-unbetonte ι gleitet zu einem *j* wie in *ja*: [δια]{lang="el"} ist eine Silbe, etwa „dhja“. In
-[τα μάτια]{lang="el"} [ta ˈmatça] wird dasselbe ι nach τ zu [ç] wie in *ich*: „matcha“, fast
+Zur Aussprache: In [διαβάζω]{lang="el"} [ðʝaˈvazo] klingt [δ]{lang="el"} wie engl. *this*, und das
+unbetonte [ι]{lang="el"} gleitet zu einem *j* wie in *ja*: [δια]{lang="el"} ist eine Silbe, etwa „dhja“. In
+[τα μάτια]{lang="el"} [ta ˈmatça] wird dasselbe [ι]{lang="el"} nach [τ]{lang="el"} zu [ç] wie in *ich*: „matcha“, fast
 wie der Tee.
 
 ::: {.vocab}
@@ -116,8 +116,8 @@ wie der Tee.
 
 Stell dir dieselbe Nacht auf Spanisch und Französisch vor:
 
-- *Anoche **leí** doscientas páginas.* / *Hier soir, **j'ai lu** deux cents pages.*
-- *De niño **leía** cómics todos los días.* / *Enfant, **je lisais** des BD tous les jours.*
+- [*Anoche **leí** doscientas páginas.*]{lang="es"} / [*Hier soir, **j'ai lu** deux cents pages.*]{lang="fr"}
+- [*De niño **leía** cómics todos los días.*]{lang="es"} / [*Enfant, **je lisais** des BD tous les jours.*]{lang="fr"}
 
 Die zweihundert Seiten sind ein abgeschlossenes Ereignis, die Comics der Kindheit eine
 Gewohnheit. Das Griechische unterscheidet genauso:
@@ -138,8 +138,8 @@ Der Aorist ist **die Vergangenheit im perfektiven Aspekt**. Wichtig: „Als Ganz
 „kurz“. Auch eine lange Handlung lässt sich als Ganzes erzählen, und dann steht der Aorist, im
 Spanischen wie im Griechischen:
 
-- *Schliemann **excavó** en Troya muchos años.* – [Ο Σλήμαν **έσκαψε** στην Τροία πολλά χρόνια.]{lang="el"}
-- *Ayer **leí** tres horas.* – [Χθες **διάβασα** τρεις ώρες.]{lang="el"}
+- [*Schliemann **excavó** en Troya muchos años.*]{lang="es"} – [Ο Σλήμαν **έσκαψε** στην Τροία πολλά χρόνια.]{lang="el"}
+- [*Ayer **leí** tres horas.*]{lang="es"} – [Χθες **διάβασα** τρεις ώρες.]{lang="el"}
 
 Die Jahre in Troja werden zusammengefasst. Wer erzählen will, was Schliemann gerade tat, als
 etwas anderes geschah, braucht den Film, also das Imperfekt.
@@ -148,7 +148,7 @@ etwas anderes geschah, braucht den Film, also das Imperfekt.
 ## Merke
 
 Der **Aorist** erzählt eine vergangene Handlung **als Ganzes**, egal wie lange sie gedauert
-hat. Wo Spanisch *leí, escribí, abrí* sagt, steht fast immer der Aorist.
+hat. Wo Spanisch [*leí, escribí, abrí*]{lang="es"} sagt, steht fast immer der Aorist.
 :::
 
 ### Zwei Stämme {#sec-aorist-zwei-staemme}
@@ -176,18 +176,18 @@ morgen jeden Tag). Der perfektive Stamm [διαβασ-]{lang="el"} kehrt dort wi
 [να]{lang="el"}: einmal lernen, dreimal benutzen (Kapitel 5).
 
 **Zweitens: die Perfekt-Falle.** Deutsch sagt „Hast du meine Nachricht gelesen?“, Spanien
-*¿Has leído mi mensaje?* Griechisch nimmt den Aorist, wie Lateinamerika mit *¿Leíste?*:
+[*¿Has leído mi mensaje?*]{lang="es"} Griechisch nimmt den Aorist, wie Lateinamerika mit [*¿Leíste?*]{lang="es"}:
 
 - [Διάβασες το μήνυμά μου;]{lang="el"} – Hast du meine Nachricht gelesen?
 - [Ναι, το διάβασα.]{lang="el"} – Ja, hab ich.
 
 Wer vom Französischen kommt, hat es hier leichter: Wo im Gespräch das passé composé steht
-(*Tu as lu mon message ?*), steht im Griechischen meist der Aorist, wo das imparfait steht, das
+([*Tu as lu mon message ?*]{lang="fr"}), steht im Griechischen meist der Aorist, wo das imparfait steht, das
 Imperfekt. Das griechische Perfekt ist viel seltener (Kapitel 14). Faustregel: Was erledigt und
 vorbei ist, steht im Aorist, auch wenn es heute Morgen war.
 
 Der doppelte Akzent in [μήνυμά μου]{lang="el"} [ˈminiˈma mu] ist kein Tippfehler. Mit
-[μου]{lang="el"} „mein“ läge die Betonung vier Silben vor dem Ende, und das erlaubt das
+[μου]{lang="el"} „mein“ läge die Betonung auf der viertletzten Silbe, und das erlaubt das
 Griechische nicht; also bekommt das Wort einen zweiten Akzent auf der letzten Silbe.
 
 **Drittens: Nicht jedes Verb hat zwei Stämme.** [ξέρω]{lang="el"} „wissen“ hat nur
@@ -218,16 +218,16 @@ Sag dir die Antworten im Kopf vor (im Chat reicht „a1, b2, …“), dann klapp
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Übersetz im Kopf ins Spanische: *indefinido* (*leí*) oder *imperfecto* (*leía*)? Wo dir
-*he leído* einfällt: Was sagt man in Mexiko? Oder die französische Probe: Im Gespräch passé
-composé (*j'ai lu*) oder imparfait (*je lisais*)?
+Übersetz im Kopf ins Spanische: *indefinido* ([*leí*]{lang="es"}) oder *imperfecto* ([*leía*]{lang="es"})? Wo dir
+[*he leído*]{lang="es"} einfällt: Was sagt man in Mexiko? Oder die französische Probe: Im Gespräch passé
+composé ([*j'ai lu*]{lang="fr"}) oder imparfait ([*je lisais*]{lang="fr"})?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
 Weder die deutsche Form noch die Dauer verrät etwas; drei Jahre können ein Foto sein. Und denk
-an die Verben ohne zweiten Stamm.
+an die Verben ohne perfektiven Stamm.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -236,17 +236,17 @@ an die Verben ohne zweiten Stamm.
 **a1, b2, c1, d1, e1, f2, g3, h1.**
 
 - a) Abgeschlossen, das Buch ist durch: [Χθες το βράδυ διάβασα όλο το βιβλίο.]{lang="el"}
-- b) Gewohnheit über Jahre, also Film: *leía*, *je lisais*, griechisch [διάβαζα]{lang="el"}.
+- b) Gewohnheit über Jahre, also Film: [*leía*]{lang="es"}, [*je lisais*]{lang="fr"}, griechisch [διάβαζα]{lang="el"}.
 - c) **Aorist**, obwohl es drei Jahre waren; der Fall, der am häufigsten schiefgeht. Der Satz
-  fasst die Jahre von außen zusammen: *excavó*. Eine Zeitangabe, die die Dauer ausmisst („drei
+  fasst die Jahre von außen zusammen: [*excavó*]{lang="es"}. Eine Zeitangabe, die die Dauer ausmisst („drei
   Jahre lang“), passt fast immer zum Aorist.
 - d) Die Perfekt-Falle: [Διάβασες το μήνυμά μου;]{lang="el"} Möglich ist auch das Perfekt
   [Έχεις διαβάσει…;]{lang="el"} (Kapitel 14), im Alltag fragt man aber meist mit dem Aorist.
-- e) Vierzig Jahre, bilanziert: *trabajó*. „Dann ging er in Rente“ macht die Kette deutlich.
-- f) Derselbe Großvater, aber jetzt ist die Arbeit Hintergrund: *trabajaba*. Nicht das Verb
+- e) Vierzig Jahre, bilanziert: [*trabajó*]{lang="es"}. „Dann ging er in Rente“ macht die Kette deutlich.
+- f) Derselbe Großvater, aber jetzt ist die Arbeit Hintergrund: [*trabajaba*]{lang="es"}. Nicht das Verb
   entscheidet, sondern der Blick darauf.
 - g) [ξέρω]{lang="el"} hat nur [ήξερα]{lang="el"}.
-- h) [τηλεφώνησα]{lang="el"}. In weiten Teilen Spaniens sagt man *he llamado*, weil der Tag
+- h) [τηλεφώνησα]{lang="el"}. In weiten Teilen Spaniens sagt man [*he llamado*]{lang="es"}, weil der Tag
   noch läuft; das Griechische kümmert das nicht.
 
 **Typische Fehler:** c) und e) als Film einordnen, weil es lange dauerte; d) und h) als
@@ -278,7 +278,7 @@ Subjektpronomen brauchst du nicht: [Έγραψες στη μητέρα σου;]{
 geschrieben?“
 
 Sprich dir die Formen laut vor und achte auf die betonte Silbe: [έ-γρα-ψα]{lang="el"},
-[έ-γρα-ψες]{lang="el"}, [γρά-ψα-με]{lang="el"}. Sie ist immer die **dritte von hinten**. Das gilt
+[έ-γρα-ψες]{lang="el"}, [γρά-ψα-με]{lang="el"}. Sie ist immer die **drittletzte**. Das gilt
 für die regelmäßigen Verben; einige unregelmäßige sind kürzer ([ήρθα, βρήκα]{lang="el"},
 Kapitel 3).
 
@@ -426,7 +426,7 @@ nicht.
 | [σκάβω, έσκαψα]{lang="el"} | [ˈskavo], [ˈeskapsa] | graben |
 :::
 
-## Wie der zweite Stamm entsteht: [σ, ψ, ξ]{lang="el"} {#sec-aorist-stamm}
+## Wie der perfektive Stamm entsteht: [σ, ψ, ξ]{lang="el"} {#sec-aorist-stamm}
 
 Der perfektive Stamm der regelmäßigen Verben entsteht aus einem Laut: **[σ]{lang="el"}** wird
 an den Stamm gehängt. Der Rest ist Phonetik, und die Schrift hat dafür zwei eigene Buchstaben:
@@ -435,7 +435,7 @@ an den Stamm gehängt. Der Rest ist Phonetik, und die Schrift hat dafür zwei ei
 - [κ, γ, χ]{lang="el"} + [σ]{lang="el"} ergeben [ξ]{lang="el"} [ks].
 - Andere Laute verschwinden vor dem [σ]{lang="el"}, es bleibt [σ]{lang="el"}.
 
-Wer den Laut am Ende des Präsensstamms kennt, kennt meist den Aorist.
+Wer den Laut am Ende des imperfektiven Stamms kennt, kennt meist den Aorist.
 
 ### Lippenlaute werden zu [ψ]{lang="el"} {#sec-aorist-stamm-psi}
 
@@ -540,10 +540,10 @@ zuverlässig zurück: [-εψα]{lang="el"} → [-εύω]{lang="el"}, [-ωσα]{l
 ::: {.callout-note collapse="true"}
 ## Exkurs: scripsi, rexi und ein sehr alter Trick
 
-Latein kennt dasselbe Muster: *scribo – scripsi*, *rego – rexi*. Beide Sprachen haben diesen
+Latein kennt dasselbe Muster: [*scribo – scripsi*]{lang="la"}, [*rego – rexi*]{lang="la"}. Beide Sprachen haben diesen
 s-Aorist aus ihrer indogermanischen Vorgeschichte geerbt. Und [αόριστος]{lang="el"} heißt
 „unbestimmt“, aus [α-]{lang="el"} „un-“ und [ορίζω]{lang="el"} „begrenzen“ (vgl. *Horizont*);
-die spanische Grammatik nannte die Form lange *pretérito indefinido*.
+die spanische Grammatik nannte die Form lange [*pretérito indefinido*]{lang="es"}.
 :::
 
 ::: {.callout-note .exercise}
@@ -645,7 +645,7 @@ Jahren), [την περασμένη εβδομάδα]{lang="el"} (letzte Woche),
 [ξαφνικά]{lang="el"} vor der Überraschung, ein [τελικά]{lang="el"} vor der Pointe, und die
 Aorist-Kette klingt nicht mehr nach Protokoll.
 
-**Verben ohne zweiten Stamm.** [είμαι]{lang="el"} und [έχω]{lang="el"} haben nur eine
+**Verben ohne perfektiven Stamm.** [είμαι]{lang="el"} und [έχω]{lang="el"} haben nur eine
 Vergangenheit. Für den Anfang reichen vier Formen:
 
 | Präsens | Vergangenheit | Deutsch |
@@ -1025,8 +1025,8 @@ Jedes Interview ist anders; so wertest du aus:
 ## Das Wichtigste {#sec-aorist-wichtigste}
 
 - Der **Aorist** ist die Vergangenheit im **perfektiven Aspekt**: eine Handlung **als
-  Ganzes**, egal wie lange sie dauerte. Wo Spanisch *leí* und gesprochenes Französisch *j'ai
-  lu* sagt, steht fast immer der Aorist, auch für „Hast du … ?“.
+  Ganzes**, egal wie lange sie dauerte. Wo Spanisch [*leí*]{lang="es"} und gesprochenes Französisch
+  [*j'ai lu*]{lang="fr"} sagt, steht fast immer der Aorist, auch für „Hast du … ?“.
 - Den **perfektiven Stamm** brauchst du auch im Futur und nach [να]{lang="el"} (Kapitel 5).
 - **Endungen** für alle Aoriste: [-α, -ες, -ε, -αμε, -ατε, -αν (-ανε)]{lang="el"}.
 - **Betonung** bei regelmäßigen Verben auf der drittletzten Silbe; das **Augment**
@@ -1129,9 +1129,10 @@ Drei Muster helfen beim Lesen:
 | [το τείχος, τα τείχη]{lang="el"} | die Stadtmauer (klingt wie [ο τοίχος]{lang="el"} die Wand) |
 | [το κομμάτι]{lang="el"} | das Stück |
 | [ο θησαυρός]{lang="el"} | der Schatz |
-| [χρυσός, ασημένιος]{lang="el"} | golden, silbern |
-| [χάλκινος]{lang="el"} | aus Kupfer oder Bronze |
-| [το κόσμημα]{lang="el"} | das Schmuckstück |
+| [χρυσός, -ή, -ό]{lang="el"} | golden |
+| [ασημένιος, -α, -ο]{lang="el"} | silbern |
+| [χάλκινος, -η, -ο]{lang="el"} | aus Kupfer oder Bronze |
+| [το κόσμημα, τα κοσμήματα]{lang="el"} | das Schmuckstück |
 | [το όπλο]{lang="el"} | die Waffe |
 | [ονομάζω, ονόμασα]{lang="el"} | nennen |
 | [καταστρέφω, κατέστρεψα]{lang="el"} | zerstören |

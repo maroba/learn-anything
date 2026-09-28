@@ -29,16 +29,16 @@ bis zwei Wochen pro Kapitel bei 5 Stunden pro Woche.
 - **Lesezeit:** 45 min
 - **Inhalt:** Einstieg über die spanische/französische Vergangenheit (leí/leía); Stammbildung nach Stammauslaut; Augment nur unter Betonung; Sachthema: Heinrich Schliemann und Troja, eine Geschichte voller Aoriste; Hörspur: wie ein Grieche eine Anekdote erzählt
 
-### 03 Die fünfzehn Unregelmäßigen
+### 03 Die unregelmäßigen Aoriste
 - **Datei:** 03-unregelmaessige-aoriste
-- **Lernziele:** kann die Aoriste der häufigsten unregelmäßigen Verben (είδα, ήρθα, πήγα, είπα, βρήκα, ήπια, έφαγα, έμαθα, πήρα, έδωσα, βγήκα, μπήκα, ανέβηκα, κατέβηκα, έκανα) erkennen und bilden; kann sie beim Hören erkennen
+- **Lernziele:** kann die Aoriste der häufigsten unregelmäßigen Verben (είδα, ήρθα, πήγα, είπα, βρήκα, ήπια, έφαγα, έμαθα, πήρα, έδωσα, βγήκα, μπήκα, ανέβηκα, κατέβηκα, έκανα, πέθανα) erkennen und bilden; kann sie beim Hören erkennen
 - **Voraussetzungen:** 02
 - **Lesezeit:** 40 min
 - **Inhalt:** Gruppen mit Eselsbrücken statt Liste; Sachthema: die Odyssee als Reisebericht in Alltagsgriechisch; Hörspur: Aoriste in schneller Rede
 
 ### 04 Erzählen: Imperfekt und Aspekt
 - **Datei:** 04-imperfekt
-- **Lernziele:** kann das Imperfekt bilden; kann in einer Erzählung Hintergrund (Imperfekt) und Ereignis (Aorist) richtig verteilen; kann Gewohnheiten in der Vergangenheit ausdrücken
+- **Lernziele:** kann das Imperfekt bilden; kann in einer Erzählung Hintergrund (Imperfekt) und Ereignis (Aorist) richtig verteilen; kann Gewohnheiten in der Vergangenheit ausdrücken; kann die Vergangenheit von είμαι und έχω in allen Personen bilden (ήμουν, είχα)
 - **Voraussetzungen:** 02, 03
 - **Lesezeit:** 40 min
 - **Inhalt:** Aspekt als „Film“ und „Foto“; Vergleich mit Spanisch und Französisch, wo er trägt und wo nicht; Sachthema: Erinnerungen an einen Inselsommer in den Achtzigern; Hörspur: Erzählung mit Tempowechseln
@@ -80,7 +80,7 @@ bis zwei Wochen pro Kapitel bei 5 Stunden pro Woche.
 
 ### 10 Verben auf -μαι im Alltag
 - **Datei:** 10-deponentien
-- **Lernziele:** kann die häufigsten Verben auf -μαι (έρχομαι, κάθομαι, θυμάμαι, φοβάμαι, κοιμάμαι, σκέφτομαι) im Präsens, Aorist und Futur bilden
+- **Lernziele:** kann die häufigsten Verben auf -μαι (έρχομαι, κάθομαι, θυμάμαι, φοβάμαι, κοιμάμαι, σκέφτομαι, γίνομαι) im Präsens, Aorist und Futur bilden
 - **Voraussetzungen:** 05
 - **Lesezeit:** 40 min
 - **Inhalt:** Formen als Wortschatz vor dem Passiv-System; Sachthema: Erdbeben in Griechenland, Wissenschaft und Alltag; Hörspur: Erinnerungen an ein Beben

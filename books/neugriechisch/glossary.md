@@ -66,7 +66,8 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 
 - Spalten: Griechisch | Aussprache | Deutsch; in einem `::: {.vocab}`-Block (siehe archetype-languages).
 - Nomen mit Artikel; auffällige Pluralformen und Betonungswechsel dazu.
-- Verben: 1. Person Präsens **und** Aorist (βλέπω, είδα); ab Kapitel 13 auch Aorist des Mediopassivs.
+- Verben: 1. Person Präsens **und** Aorist (βλέπω, είδα); ab Kapitel 13 auch Aorist des Mediopassivs. Verben ohne perfektiven Stamm (είμαι, έχω, ξέρω): Präsens und Vergangenheit (είμαι, ήμουν).
+- Verben der Klasse -άω/-ώ stehen in `.vocab` in der umgangssprachlich häufigeren Form auf -άω (μιλάω); die Variante auf -ώ wird in Kapitel 1 einmal erklärt und nur bei Verben genannt, die überwiegend auf -ώ vorkommen.
 - Adjektive: καλός, -ή, -ό.
 - Registermarken in der Spalte Deutsch: (umg.), (salopp), (gehoben), (formell).
 
@@ -74,3 +75,19 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 
 | Begriff | Bedeutung / Schreibweise | eingeführt in |
 |---|---|---|
+| Stamm: imperfektiver / perfektiver Stamm | Das Präsens kommt aus dem imperfektiven, Aorist, Futur (perfektiv) und να-Form aus dem perfektiven Stamm. Nicht „Präsensstamm“, nicht „Aoriststamm“ (nur einmal in 02 als Synonym genannt). „Der zweite Stamm“ nur als Titel-Formel (Kapiteltitel 02, 05), im Fließtext „perfektiver Stamm“. Stämme mit Bindestrich: [διαβασ-]{lang="el"} | 02 |
+| Foto / Film | Bild für den Aspekt: perfektiv = Foto (als Ganzes, von außen), imperfektiv = Film (Vorgang, Wiederholung, Gewohnheit, Hintergrund). Immer diese beiden Wörter, keine anderen Metaphern | 02 |
+| Vergangenheit im perfektiven Aspekt | Standarderklärung von „Aorist“; „als Ganzes“ heißt nicht „kurz“ | 02 |
+| Perfekt-Falle | deutsches/spanisches Perfekt („Hast du … gelesen?“), wo Griechisch den Aorist nimmt | 02 |
+| Augment | [ε-]{lang="el"} (auch [η-, ει-]{lang="el"}), steht nur betont; Merkformel „nur, wenn es betont ist“ | 02 |
+| drittletzte / viertletzte Silbe | Betonungsposition immer so benennen (nicht „dritte von hinten“, „vier Silben vor dem Ende“) | 02 |
+| Lippenlaut, Kehllaut | für [π β φ (ευ)]{lang="el"} bzw. [κ γ χ]{lang="el"} bei der Stammbildung ([-ψα, -ξα]{lang="el"}) | 02 |
+| Präsens-Zutat | Laut, der nur im Präsens steht und im perfektiven Stamm fehlt ([τ]{lang="el"} in [-πτω]{lang="el"}, [ν]{lang="el"} in [-χνω]{lang="el"}) | 02 |
+| Verben ohne perfektiven Stamm | [είμαι, έχω, ξέρω]{lang="el"}: „haben nur eine Vergangenheit“ ([ήμουν, είχα, ήξερα]{lang="el"}) | 02 |
+| ich-Form, wir-Form … | Personenbezeichnung in Übungen („Bilde die ich-Form“), klein geschrieben | 02 |
+| Aoristendungen | [-α, -ες, -ε, -αμε, -ατε, -αν]{lang="el"}; 3. Pl. [-αν]{lang="el"} neutral, [-ανε]{lang="el"} umg. | 02 |
+| Diskursmarker (Erzählen) | eingeführt in 02: [άκου να δεις]{lang="el"} (jetzt pass auf), [που λες]{lang="el"} (Erzählfüller, „weißt du“), [και ξαφνικά]{lang="el"}, [με τα πολλά]{lang="el"}, [τελικά]{lang="el"}; dazu [λοιπόν]{lang="el"} aus 01 | 02 |
+| Zuhörer-Reaktion | Reaktionen im Gespräch: [Μη μου πεις.]{lang="el"} (Sag bloß.), [Έλα!]{lang="el"} (Ach was!), [Σοβαρά;]{lang="el"} (Im Ernst?), [Όχι…]{lang="el"} | 02 |
+| Verbindungswörter | Erzählsequenz [πρώτα – μετά/ύστερα – αργότερα – ξαφνικά – στο τέλος – τελικά]{lang="el"} | 02 |
+| Hör-Auftrag | Übung mit externer Quelle am Ende der Hörspur; Schreibweise mit Bindestrich | 02 |
+| Zitierte Fremdsprachen | Spanische, französische, lateinische Beispiele kursiv und mit `lang="es"`, `"fr"`, `"la"`; Grammatiklabels (*indefinido*, passé composé, imparfait) ohne Auszeichnung | 02 |
