@@ -1,0 +1,728 @@
+---
+title: "Mit Nachdruck: starke Pronomen und Doppelung"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+Aus Kapitel 1, 8 und 16:
+
+- **Subjektpronomen** stehen nur für Hervorhebung oder Gegensatz: [Εγώ πίνω τσάι, εσύ πίνεις
+  καφέ.]{lang="el"}
+- **Schwache Pronomen:** Akkusativ [με, σε, τον, τη(ν), το, μας, σας, τους, τις, τα]{lang="el"},
+  Genitiv [μου, σου, του, της, μας, σας, τους]{lang="el"}; direkt vor dem Verb, nur nach dem
+  bejahten Imperativ dahinter.
+- **Im Nebensatz** bleibt das Verb vorn; Pronomen und [δεν]{lang="el"} stehen hinter der
+  Konjunktion direkt davor: [επειδή δεν τον ξέρω]{lang="el"}.
+:::
+
+## [Κλήρωση ή εκλογές;]{lang="el"} {#sec-emphase-einstieg}
+
+Samstagnacht in Athen, kurz nach eins. Das Essen ist längst vorbei, auf dem Tisch stehen noch
+Wein und ein Teller Oliven. Zwei Gäste sind bei der Politik angekommen, genauer bei der Frage, wie
+man die Leute auswählt, die regieren.
+
+::: {lang="el"}
+[— Εγώ σου λέω ότι οι εκλογές δεν είναι δημοκρατία. Στην αρχαία Αθήνα τους άρχοντες τους
+έβγαζαν με κλήρωση.]{.v1}
+
+— Ναι, αλλά τους στρατηγούς τους ψήφιζαν. Τον πόλεμο δεν τον άφηναν στην τύχη.
+
+— Σωστά. Σκέψου όμως τη Βουλή: πεντακόσιοι πολίτες, όλοι με κλήρωση. Εμένα αυτό μου αρέσει.
+
+— Εσένα σου αρέσει, γιατί δε σε έχουν κληρώσει ποτέ. Εμένα με κλήρωσαν πέρσι για εφορευτική
+επιτροπή. Δώδεκα ώρες σε ένα σχολείο.
+
+— Και;
+
+— Και είδα ότι οι περισσότεροι δεν ήξεραν τι κάνουν. Το ίδιο έλεγε και ο Πλάτωνας.
+
+— Τον Πλάτωνα άσ’ τον. Αυτός ήθελε να κυβερνάνε οι φιλόσοφοι. Ο Αριστοτέλης πάντως λέει ότι η
+κλήρωση είναι δημοκρατική και οι εκλογές ολιγαρχικές.
+
+— Δηλαδή εσύ θέλεις να σε κυβερνάει ο γείτονας;
+
+— Γιατί όχι; Τον γείτονα τουλάχιστον τον ξέρω. Τους βουλευτές δεν τους έχω δει ποτέ.
+
+[— Παιδιά, τα πιάτα τα πλένει κανείς ή θα κάνουμε κλήρωση;]{.v1}
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Ich sag dir, Wahlen sind keine Demokratie. Im antiken Athen hat man die Amtsträger ausgelost.
+
+— Ja, aber die Feldherren hat man gewählt. Den Krieg hat man nicht dem Zufall überlassen.
+
+— Stimmt. Aber denk an den Rat: fünfhundert Bürger, alle ausgelost. Mir gefällt das.
+
+— Dir gefällt das, weil du noch nie ausgelost worden bist. Mich haben sie letztes Jahr für den
+Wahlvorstand ausgelost. Zwölf Stunden in einer Schule.
+
+— Und?
+
+— Und ich habe gesehen, dass die meisten nicht wussten, was sie tun. Dasselbe hat schon Platon
+gesagt.
+
+— Lass Platon aus dem Spiel. Der wollte, dass die Philosophen regieren. Aristoteles jedenfalls
+sagt, das Los sei demokratisch und die Wahl oligarchisch.
+
+— Das heißt, du willst, dass dich dein Nachbar regiert?
+
+— Warum nicht? Den Nachbarn kenne ich wenigstens. Die Abgeordneten habe ich noch nie gesehen.
+
+— Leute, spült jemand die Teller, oder losen wir aus?
+:::
+
+Die letzte Zeile spricht die Gastgeberin. Die Aufnahme hat nur zwei Stimmen, deshalb klingt sie
+wie die erste Sprecherin.
+
+Auf den ersten Blick ist das Griechisch, das du kennst. Auf den zweiten fällt auf, dass fast jedes
+Objekt zweimal vorkommt:
+
+| im Text | wörtlich |
+|---|---|
+| [τους άρχοντες τους έβγαζαν]{lang="el"} | die Amtsträger, sie wählten sie |
+| [Τον πόλεμο δεν τον άφηναν]{lang="el"} | den Krieg, sie ließen ihn nicht |
+| [Εμένα με κλήρωσαν]{lang="el"} | mich, sie losten mich aus |
+| [Τον γείτονα τον ξέρω]{lang="el"} | den Nachbarn, ich kenne ihn |
+| [τα πιάτα τα πλένει κανείς]{lang="el"} | die Teller, spült sie jemand |
+
+Das Deutsche ist näher dran, als man denkt. Am Küchentisch sagt man auch: „Den Nachbarn, den kenn
+ich wenigstens.“ Was im Deutschen salopp klingt, ist im Griechischen ein Normalfall: Ein Objekt,
+das vor dem Verb steht, wird in der Regel mit einem schwachen Pronomen wieder aufgenommen. Das
+heißt in diesem Buch **Doppelung**, das Fachwort ist Klitikdoppelung. Dazu kommen die langen
+Formen [εμένα, εσένα]{lang="el"}: die **starken Pronomen** ([οι δυνατοί τύποι]{lang="el"}), die
+Gegenstücke der schwachen aus Kapitel 8. Beides zusammen ist das Werkzeug, mit dem das Griechische
+Nachdruck setzt, und an einem Tisch, an dem gestritten wird, hört man es in jedem zweiten Satz.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η κλήρωση]{lang="el"} | [i ˈklirosi] | die Auslosung, das Losverfahren |
+| [κληρώνω, κλήρωσα, κληρώθηκα]{lang="el"} | [kliˈrono], [ˈklirosa], [kliˈroθika] | auslosen; Mediopassiv: ausgelost werden |
+| [οι εκλογές]{lang="el"} | [i ekloˈʝes] | die Wahlen |
+| [ο βουλευτής, η βουλευτής]{lang="el"} | [o vulefˈtis], [i vulefˈtis] | der/die Abgeordnete |
+| [η Βουλή]{lang="el"} | [i vuˈli] | das Parlament; in Athen: der Rat |
+| [κυβερνάω, κυβέρνησα]{lang="el"} | [civerˈnao], [ciˈvernisa] | regieren |
+| [η τύχη]{lang="el"} | [i ˈtiçi] | das Glück; der Zufall |
+| [ο φιλόσοφος]{lang="el"} | [o fiˈlosofos] | der Philosoph |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [ο άρχοντας]{lang="el"} | der Amtsträger (in Athen: Archont) |
+| [βγάζω]{lang="el"} | hier: wählen, bestimmen (umg.) |
+| [ο στρατηγός]{lang="el"} | der Feldherr, der General |
+| [σωστά]{lang="el"} | stimmt, richtig |
+| [η εφορευτική επιτροπή]{lang="el"} | der Wahlvorstand (im Wahllokal) |
+| [ο Πλάτωνας, ο Αριστοτέλης]{lang="el"} | Platon, Aristoteles |
+| [δημοκρατικός, ολιγαρχικός]{lang="el"} | demokratisch, oligarchisch |
+| [κανείς]{lang="el"} | hier: jemand (in der Frage, Kapitel 1) |
+:::
+
+<!-- CHECK: In Griechenland werden die Mitglieder der Wahlvorstände (εφορευτικές επιτροπές) aus den Wählerlisten ausgelost; ist „με κλήρωσαν για εφορευτική επιτροπή“ idiomatisch (oder eher „κληρώθηκα στην εφορευτική“)? Wahllokale in Schulen, geöffnet 7–19 Uhr (daher „zwölf Stunden“). -->
+
+## [Εγώ, εμένα]{lang="el"}: die starken Pronomen {#sec-emphase-formen}
+
+Die starken Pronomen haben eine eigene Betonung und können allein stehen. Den Nominativ kennst du
+seit Kapitel 1; neu ist der Akkusativ:
+
+| Person | Nominativ | Akkusativ |
+|---|---|---|
+| ich | [εγώ]{lang="el"} | [εμένα]{lang="el"} [eˈmena] |
+| du | [εσύ]{lang="el"} | [εσένα]{lang="el"} [eˈsena] |
+| er, sie, es | [αυτός, αυτή, αυτό]{lang="el"} | [αυτόν, αυτή(ν), αυτό]{lang="el"} |
+| wir | [εμείς]{lang="el"} | [εμάς]{lang="el"} [eˈmas] |
+| ihr, Sie | [εσείς]{lang="el"} | [εσάς]{lang="el"} [eˈsas] |
+| sie (Pl.) | [αυτοί, αυτές, αυτά]{lang="el"} | [αυτούς, αυτές, αυτά]{lang="el"} |
+
+Drei Dinge helfen beim Merken:
+
+- **In der starken Form steckt die schwache.** [ε-μέ-να]{lang="el"} enthält [με]{lang="el"},
+  [ε-σέ-να]{lang="el"} [σε]{lang="el"}, [ε-μάς]{lang="el"} [μας]{lang="el"}: vorn ein
+  [ε-]{lang="el"}, im Singular hinten [-να]{lang="el"}, und die Betonung liegt auf dem alten
+  schwachen Pronomen.
+- **Einen eigenen Genitiv gibt es in der 1. und 2. Person nicht.** [εμένα]{lang="el"} heißt „mich“
+  und „mir“, [εσένα]{lang="el"} „dich“ und „dir“. In der 3. Person gibt es [αυτού, αυτής,
+  αυτών]{lang="el"}, im Gespräch auch [αυτουνού, αυτηνής]{lang="el"}; sie sind selten, erkennen
+  reicht.
+- **Die 3. Person ist zugleich „dieser“:** [αυτός]{lang="el"} ist „er“ und in
+  [αυτός ο δίσκος]{lang="el"} „diese Platte“. Für einen Gegensatz oder etwas Entferntes nimmt man
+  [εκείνος, εκείνη]{lang="el"}, wie in [Κι εκείνη;]{lang="el"} „Und sie?“ aus Kapitel 16.
+
+Französisch hat dasselbe Paar: [*moi, toi*]{lang="fr"} betont gegen [*me, te*]{lang="fr"}
+unbetont. Das Spanische kennt es in [*a mí, para ti*]{lang="es"}.
+
+### Wo nur das starke Pronomen passt {#sec-emphase-allein}
+
+**Nach Präpositionen.** [χωρίς εσένα]{lang="el"} „ohne dich“ stand schon im Lied in Kapitel 8. Ein
+schwaches Pronomen kann sich nur an ein Verb lehnen, nicht an eine Präposition:
+
+- [Αυτό είναι για μένα;]{lang="el"} – Ist das für mich?
+- [Θα έρθω με σένα.]{lang="el"} – Ich komme mit dir.
+- [Το έμαθα από αυτόν.]{lang="el"} – Ich habe es von ihm erfahren.
+- [Σε μένα το έδωσε.]{lang="el"} (auch [σ’ εμένα]{lang="el"}) – *Mir* hat er es gegeben.
+
+Im Singular fällt nach einer Präposition oft das [ε-]{lang="el"}: [για μένα, με σένα]{lang="el"}
+[ʝa ˈmena], [me ˈsena]. [για εμένα]{lang="el"} ist genauso richtig. Wie [*pour moi*]{lang="fr"}
+und [*para mí*]{lang="es"}.
+
+Vorsicht bei Ortswörtern. [μαζί μου]{lang="el"} kennst du aus Kapitel 4: Hinter [μαζί, δίπλα,
+μπροστά, πίσω, κοντά]{lang="el"} steht das **schwache** Pronomen im Genitiv, wie ein Besitzwort:
+[δίπλα μου]{lang="el"} „neben mir“, [πίσω σου]{lang="el"} „hinter dir“, [κοντά μας]{lang="el"}
+„in unserer Nähe“. Mit [σε]{lang="el"} geht es auch stark und etwas betonter: [δίπλα σε
+μένα]{lang="el"}.
+
+**Allein, als Kurzantwort.**
+
+- [— Ποιος το είπε; — Εγώ.]{lang="el"} – Wer hat das gesagt? – Ich.
+- [— Ποιον ψάχνεις; — Εσένα.]{lang="el"} – Wen suchst du? – Dich.
+
+**„Ich auch“, „ich auch nicht“.** Hier hilft das Spanische, weil es wie das Griechische zwei
+Antworten hat. Die Form richtet sich nach dem Satz, auf den du antwortest:
+
+| Satz | ich auch | ich auch nicht |
+|---|---|---|
+| [Πεινάω.]{lang="el"} (ich = Subjekt) | [Κι εγώ.]{lang="el"} [ceˈɣo] | [Ούτε εγώ.]{lang="el"} |
+| [Μου αρέσει.]{lang="el"} (mir) | [Κι εμένα.]{lang="el"} [ceˈmena] | [Ούτε εμένα.]{lang="el"} |
+
+Das ist genau [*yo también*]{lang="es"} gegen [*a mí también*]{lang="es"}. Französisch sagt beide
+Male [*moi aussi*]{lang="fr"} und hilft hier nicht. Und die Rückfrage heißt
+[Εσύ;]{lang="el"} oder [Κι εσύ;]{lang="el"} bzw. [Εσένα;]{lang="el"}: [— Μου αρέσει.
+Εσένα;]{lang="el"} „Mir gefällt’s. Dir?“
+
+<!-- EXERCISE: Lernziel: starke Formen nach Präposition, in Kurzantworten und bei „ich auch / ich auch nicht“ wählen (κι εγώ vs. κι εμένα, ούτε εγώ vs. ούτε εμένα, μαζί μου vs. για μένα); Art: Auswählen mit nummerierten Optionen (auf kurze Äußerungen am Tisch reagieren) plus einige Sätze mündlich übersetzen; Schwierigkeit 1–2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [εμένα, εσένα]{lang="el"} | [eˈmena], [eˈsena] | mich, mir; dich, dir (stark) |
+| [εμάς, εσάς]{lang="el"} | [eˈmas], [eˈsas] | uns; euch, Sie (stark) |
+| [αυτόν, αυτή(ν), αυτό]{lang="el"} | [afˈton], [afˈti(n)], [afˈto] | ihn, sie, es (stark) |
+| [αυτούς, αυτές, αυτά]{lang="el"} | [afˈtus], [afˈtes], [afˈta] | sie (Pl., stark) |
+| [για μένα, για σένα]{lang="el"} | [ʝa ˈmena], [ʝa ˈsena] | für mich, für dich |
+| [δίπλα μου]{lang="el"} | [ˈðipla mu] | neben mir |
+| [Κι εγώ. – Κι εμένα.]{lang="el"} | [ceˈɣo], [ceˈmena] | Ich auch. – Mir auch. |
+| [Ούτε εγώ. – Ούτε εμένα.]{lang="el"} | [ˈute eˈɣo], [ˈute eˈmena] | Ich auch nicht. – Mir auch nicht. |
+:::
+
+## [Εμένα μου αρέσει]{lang="el"}: stark und schwach zusammen {#sec-emphase-stark-schwach}
+
+Im Deutschen setzt man Nachdruck mit der Stimme: „*Mir* gefällt’s.“ Ein schwaches Pronomen kann
+das nicht, es hat keine eigene Betonung. Also stellt das Griechische das starke daneben, und das
+schwache bleibt stehen:
+
+- [Μου αρέσει.]{lang="el"} → [Εμένα μου αρέσει.]{lang="el"} – *Mir* gefällt’s.
+- [Σε ρώτησα.]{lang="el"} → [Εσένα σε ρώτησα.]{lang="el"} – *Dich* habe ich gefragt.
+- [Με κλήρωσαν.]{lang="el"} → [Εμένα με κλήρωσαν.]{lang="el"} – *Mich* haben sie ausgelost.
+
+Das kennst du aus dem Spanischen: [*A mí me gusta*]{lang="es"}, [*a ti te pregunté*]{lang="es"}.
+Und wie dort \*[*a mí gusta*]{lang="es"} nicht geht, geht auch \*[Εμένα αρέσει]{lang="el"} nicht:
+Bei [μου αρέσει, μου λείπει]{lang="el"} ist das schwache Pronomen immer dabei.
+
+Das starke Pronomen steht meist **vorn**, dann heißt es ungefähr „was mich angeht“. Es kann auch
+**hinten** nachgeschoben werden; das ist umgangssprachlich und klingt oft gereizt:
+
+- [Δε μου αρέσει εμένα αυτό.]{lang="el"} – Mir gefällt das nicht, mir jedenfalls.
+- [Σε ρώτησα εσένα;]{lang="el"} – Hab ich *dich* gefragt?
+
+Ohne das schwache Pronomen steht ein starkes Objektpronomen nur, wenn es selbst scharf
+hervorgehoben wird, meist hinter dem Verb: [Θέλω εσένα, όχι αυτόν.]{lang="el"} „Ich will *dich*,
+nicht ihn.“ Warum das so ist, zeigt @sec-emphase-ueberschrift.
+
+<!-- CHECK: Faustregel prüfen: starkes Objektpronomen ohne Präposition steht (fast) immer mit schwachem Pronomen; ohne nur als kontrastiver Fokus (Θέλω εσένα, όχι αυτόν; ΕΣΕΝΑ ρώτησα). Bei αρέσει/λείπει mit Pronomen ist das Klitikon obligatorisch (*Εμένα αρέσει). -->
+
+::: {.callout-important}
+## Merke
+
+- **Starkes + schwaches Pronomen** ist der Normalfall für Nachdruck: [Εμένα μου αρέσει. Εσένα σε
+  ρώτησα.]{lang="el"} Das schwache steht wie immer direkt vor dem Verb.
+- **Nur das starke** steht nach Präpositionen ([για μένα]{lang="el"}), allein
+  ([— Ποιος; — Εγώ.]{lang="el"}) und bei scharfem Gegensatz ([Θέλω εσένα, όχι
+  αυτόν.]{lang="el"}).
+- \*[Εμένα αρέσει]{lang="el"} gibt es nicht.
+:::
+
+::: {.callout-warning}
+## Achtung
+
+- Das starke Pronomen **ersetzt** das schwache nicht. Wer aus dem Deutschen „MIR gefällt’s“ nur
+  [Εμένα αρέσει]{lang="el"} macht, hat das wichtigere Wort weggelassen.
+- Den Fall zeigt das schwache Pronomen, [μου]{lang="el"} (wem?) oder [με]{lang="el"} (wen?); das
+  starke heißt in beiden Fällen [εμένα]{lang="el"}. [Εμένα μου λείπει]{lang="el"} „mir fehlt er“, [Εμένα με ξέρει]{lang="el"}
+  „mich kennt er“.
+:::
+
+<!-- EXERCISE: Lernziel: starkes und schwaches Pronomen kombinieren (εμένα μου, εσένα σε, αυτόν τον, εμάς μας), vorn und nachgestellt; Art: Sätze laut umformen („Betone die Person“) und kurze deutsche Sätze mit betontem Pronomen mündlich übersetzen (MIR gefällt’s nicht; DICH hat er angerufen, nicht mich; UNS fehlt das Meer); Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Εμένα μου αρέσει.]{lang="el"} | [eˈmena mu aˈresi] | *Mir* gefällt’s. Mir jedenfalls. |
+| [Σε ρώτησα εσένα;]{lang="el"} | [se ˈrotisa eˈsena] | Hab ich *dich* gefragt? (umg.) |
+| [Σε μένα το λες;]{lang="el"} | [se ˈmena to ˈles] | Wem sagst du das! (umg.) |
+:::
+
+<!-- CHECK: Idiom „Σε μένα το λες; / Σ’ εμένα τα λες;“ = „Wem sagst du das!“ – welche Form ist üblicher (το oder τα)? -->
+
+## [Το βιβλίο το διάβασα]{lang="el"}: Doppelung mit Nomen {#sec-emphase-doppelung}
+
+Dir ist die Doppelung schon mehrmals begegnet, zum Erkennen:
+
+- [Τις πατάτες της τις ξέρει όλη η Ελλάδα.]{lang="el"} (Kapitel 12)
+- [Τα αγάλματα τα βρήκαν σφουγγαράδες.]{lang="el"} (Kapitel 13)
+- [Όλες αυτές που του πρότεινα, τις έχει ήδη δει.]{lang="el"} (Kapitel 15)
+
+Jetzt die Regel dazu: **Steht ein bestimmtes Objekt vor dem Verb, nimmt ein schwaches Pronomen es
+vor dem Verb wieder auf.** „Bestimmt“ heißt: mit Artikel, ein Name, ein [αυτό]{lang="el"}. Das
+Pronomen richtet sich nach Genus, Zahl und Fall des Objekts, und zwar nach dem griechischen
+Nomen: [Την ταινία την είδα.]{lang="el"} „Den Film habe ich gesehen“, weil
+[η ταινία]{lang="el"} weiblich ist.
+
+Das Spanische macht es genauso: [*El libro lo leí.*]{lang="es"} [*A tu hermano lo vi
+ayer.*]{lang="es"} Französisch nur in der gesprochenen Sprache: [*Le livre, je l’ai
+lu.*]{lang="fr"} Im Griechischen braucht es weder Pause noch Komma, und es ist nicht salopp; du
+findest es auch in der Zeitung.
+
+Warum stellt man das Objekt überhaupt nach vorn? Weil das Griechische gern mit dem anfängt, worüber
+man schon redet, und das Neue ans Ende setzt. Deshalb landet das Subjekt oft hinter dem Verb:
+
+- [Ο Νίκος έφερε κρασί.]{lang="el"} – Nikos hat Wein mitgebracht. (Was hat er gebracht?)
+- [Το κρασί το έφερε ο Νίκος.]{lang="el"} – Den Wein hat Nikos mitgebracht. (Wer hat den Wein
+  gebracht?)
+
+### Überschrift oder Scheinwerfer {#sec-emphase-ueberschrift}
+
+Ein Objekt kann auf zwei Arten vorn stehen, und das schwache Pronomen zeigt, welche gemeint ist.
+
+- **Überschrift:** Das Objekt ist bekannt, der Satz sagt etwas darüber. Es wird wieder
+  aufgenommen, die Betonung ist normal. [Το κρασί το έφερε ο Νίκος.]{lang="el"} Zum Wein: Den hat
+  Nikos gebracht.
+- **Scheinwerfer:** Das Objekt ist die neue oder die umstrittene Information, im Gegensatz zu
+  etwas anderem. Es wird **nicht** wieder aufgenommen und kräftig betont. [ΤΟ ΚΡΑΣΙ έφερε ο Νίκος,
+  όχι το ψωμί.]{lang="el"} „Den *Wein* hat Nikos mitgebracht, nicht das Brot.“
+
+Die Versalien stehen hier nur für die Betonung; im normalen Text schreibt man klein. Dieselbe
+Unterscheidung gilt für starke Pronomen: [Εσένα σε ρώτησα]{lang="el"} ist die Überschrift „dich“,
+[ΕΣΕΝΑ ρώτησα, όχι αυτόν]{lang="el"} der Scheinwerfer. Die Sprachwissenschaft sagt dazu Topik und
+Fokus.
+
+Beim Hören hilft die Betonung, beim Lesen das Pronomen: Fehlt es, obwohl das Objekt vorn steht,
+liegt fast immer ein Scheinwerfer darauf.
+
+### Nötig, üblich, möglich {#sec-emphase-abstufung}
+
+Die Doppelung ist mal nötig, mal nur üblich, mal falsch. Als Überblick:
+
+| Fall | schwaches Pronomen | Beispiel |
+|---|---|---|
+| bestimmtes Objekt vorn, als Überschrift | in der Regel nötig | [Το βιβλίο το διάβασα.]{lang="el"} |
+| starkes Pronomen als Objekt | fast immer | [Εμένα με ξέρουν.]{lang="el"} |
+| [όλα, όλους]{lang="el"} als Objekt | fast immer | [Τα ξέρει όλα.]{lang="el"} [Τους ξέρω όλους.]{lang="el"} |
+| bestimmtes Objekt hinter dem Verb | möglich, umg. | [Το διάβασες το βιβλίο;]{lang="el"} |
+| indirektes Objekt | möglich, häufig | [Στη Μαρία (της) το είπα.]{lang="el"} |
+| Objekt im Scheinwerfer | nein | [ΤΟ ΒΙΒΛΙΟ διάβασα.]{lang="el"} |
+| unbestimmtes Objekt | in der Regel nein | [Κρασί έφερε ο Νίκος.]{lang="el"} |
+
+Zu einigen Zeilen:
+
+- **[όλα]{lang="el"}:** „Sie weiß alles“ heißt [Τα ξέρει όλα]{lang="el"}, wie bei der Frau Voula
+  in Kapitel 17. \*[Ξέρει όλα]{lang="el"} klingt falsch, auch wenn gar nichts vorn steht.
+- **Hinter dem Verb** ist die Doppelung Umgangssprache: [Το διάβασες το βιβλίο;]{lang="el"} „Hast
+  du’s gelesen, das Buch?“, wie französisch [*Tu l’as lu, le livre ?*]{lang="fr"} Das Objekt ist
+  schon bekannt und wird zur Sicherheit nachgeliefert. In Nachrichten hörst du das selten.
+- **Indirekte Objekte** werden oft wieder aufgenommen, müssen aber nicht: [Στη μητέρα μου δεν το
+  λέγαμε ποτέ]{lang="el"} (Kapitel 8) geht ohne [της]{lang="el"}. Im Gespräch hörst du auch den
+  Genitiv hinten: [Του το είπα του Νίκου.]{lang="el"} „Ich hab’s ihm gesagt, dem Nikos.“
+- **Unbestimmtes** ([ένα βιβλίο, κάτι, τίποτα]{lang="el"}, Nomen ohne Artikel) wird in der Regel
+  nicht aufgenommen; vorn steht es meist im Scheinwerfer.
+
+<!-- CHECK: Abstufung prüfen: (1) linksversetztes definites Objekt als Topik – Klitikon „in der Regel nötig“? (2) Τα ξέρει όλα / *Ξέρει όλα – „fast immer“ angemessen? (3) Experiencer als Nomen bei αρέσει: „Στη Μαρία της αρέσει“ fast immer gedoppelt, „Στη Μαρία αρέσει …“ möglich/gehoben? (4) Doppelung des postverbalen Objekts als umgangssprachlich markiert. Quelle: Holton/Mackridge/Philippaki-Warburton, Kap. zu Klitika. -->
+
+::: {.callout-important}
+## Merke
+
+- **Bestimmtes Objekt vorn → schwaches Pronomen vor dem Verb:** [Τον γείτονα τον ξέρω.]{lang="el"}
+- **Ohne Pronomen** wird das Objekt vorn zum Scheinwerfer: [ΤΟΝ ΓΕΙΤΟΝΑ ξέρω, όχι τον
+  βουλευτή.]{lang="el"}
+- **Hinter dem Verb** ist die Doppelung möglich und umgangssprachlich.
+:::
+
+::: {.callout-warning}
+## Achtung
+
+- \*[Το βιβλίο διάβασα.]{lang="el"} als neutrale Aussage: Das Pronomen fehlt. Richtig: [Το βιβλίο
+  το διάβασα.]{lang="el"}
+- Auch im Nebensatz gilt die Reihenfolge Konjunktion – Objekt – Pronomen – Verb: [επειδή τον
+  γείτονα τον ξέρω]{lang="el"}.
+- Das Pronomen folgt dem griechischen Genus: [Την Αθήνα την ξέρω]{lang="el"}, [Το Βερολίνο το
+  ξέρω]{lang="el"}.
+:::
+
+<!-- EXERCISE: Lernziel: bestimmtes Objekt nach vorn holen und mit dem passenden schwachen Pronomen wieder aufnehmen (Genus nach griechischem Nomen, Plural, Genitiv beim indirekten Objekt, auch im Nebensatz); Art: Sätze laut umformen („Mach das Objekt zur Überschrift“), z.B. Διάβασα την Πολιτεία του Πλάτωνα → Την Πολιτεία του Πλάτωνα τη διάβασα; Schwierigkeit 2 -->
+
+<!-- EXERCISE: Lernziel: Überschrift und Scheinwerfer unterscheiden; Doppelung nötig/üblich/falsch beurteilen; Art: Auswählen mit Begründung (a mit, b ohne Pronomen zu kleinen Kontexten wie „Wer hat den Wein gebracht?“ vs. „Hat Nikos den Wein oder das Brot gebracht?“) und Fehler finden (*Εμένα αρέσει, *Ξέρει όλα, *Το βιβλίο διάβασα neutral, falsches Genus im Pronomen); Schwierigkeit 3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Τα ξέρει όλα.]{lang="el"} | [ta ˈkseri ˈola] | Er/Sie weiß alles. |
+| [Τους ξέρω όλους.]{lang="el"} | [tus ˈksero ˈolus] | Ich kenne sie alle. |
+| [Το διάβασες το βιβλίο;]{lang="el"} | [to ˈðʝavases to vivˈlio] | Hast du’s gelesen, das Buch? (umg.) |
+:::
+
+## Widersprechen mit Nachdruck {#sec-emphase-widersprechen}
+
+Für das Subjekt gibt es kein schwaches Pronomen. Betont wird es mit dem starken, vorn oder, noch
+spitzer, hinter dem Verb:
+
+- [Εσύ φταις.]{lang="el"} / [Φταις εσύ.]{lang="el"} – *Du* bist schuld.
+- [Το είπες εσύ.]{lang="el"} – Das hast *du* gesagt.
+- [Να πληρώσει αυτός!]{lang="el"} – Soll *er* doch zahlen! ([να]{lang="el"} als Auftrag, Kapitel 9)
+
+Am Tisch, an dem gestritten wird, leiten starke Pronomen die eigene Meinung ein und grenzen sie
+ab. Die häufigsten Formeln:
+
+- **[Εγώ λέω ότι …, Εγώ πιστεύω ότι …]{lang="el"}** Das klingt für deutsche Ohren
+  angriffslustiger, als es ist; im Griechischen ist es ein ganz normaler Einstieg.
+- **[Για μένα …]{lang="el"}** „Für mich …“, im Gespräch das übliche „meiner Meinung nach“;
+  neutral-förmlich [κατά τη γνώμη μου]{lang="el"}, etwas gehoben [όσο για μένα]{lang="el"} „was
+  mich betrifft“.
+- **[Εγώ πάντως …, Εμένα πάντως …]{lang="el"}** „Ich jedenfalls …“: Man räumt etwas ein und bleibt
+  trotzdem bei seiner Position. [Εντάξει. Εγώ πάντως δε συμφωνώ.]{lang="el"} Der Fall richtet sich
+  wieder nach dem Verb: [Εμένα πάντως δε με έπεισες.]{lang="el"} „Mich jedenfalls hast du nicht
+  überzeugt.“
+
+**Im Nebensatz** arbeitet dieselbe Mechanik, hinter der Konjunktion (Kapitel 16):
+
+- [Νομίζω ότι εσύ έχεις άδικο.]{lang="el"} – Ich glaube, dass *du* unrecht hast.
+- [Διαφωνώ, γιατί τους βουλευτές τους ψηφίζουμε εμείς.]{lang="el"} – Ich bin anderer Meinung,
+  denn die Abgeordneten wählen *wir*.
+
+Zwei Gesprächsmuster gehören dazu. Erstens kann [το]{lang="el"} einen ganzen [ότι]{lang="el"}-Satz
+ankündigen: [Το ξέρω ότι δε συμφωνείς.]{lang="el"} „Ich weiß ja, dass du anderer Meinung bist.“
+Das [το]{lang="el"} ist nicht nötig, [Ξέρω ότι …]{lang="el"} ist die neutrale Form; mit ihm klingt
+es nach „schon klar“. Ebenso [Σ’ το ’πα ότι θα μαλώσουμε.]{lang="el"} „Hab ich dir doch gesagt,
+dass wir streiten werden.“ Zweitens kann ein Relativsatz mit [αυτό που]{lang="el"} (Kapitel 15) als
+Überschrift vorn stehen: [Αυτό που λες, το καταλαβαίνω. Δεν το δέχομαι όμως.]{lang="el"} „Was du
+sagst, verstehe ich. Ich akzeptiere es aber nicht.“
+
+::: {.callout-tip}
+## Tipp
+
+Wer höflich widersprechen will, kombiniert ein Zugeständnis mit einem starken Pronomen:
+[Έχεις δίκιο σε αυτό. Εγώ πάντως …]{lang="el"} oder [Ναι, αλλά εμένα μου φαίνεται ότι
+…]{lang="el"} ([ναι, αλλά]{lang="el"} aus Kapitel 1). Das Pronomen macht klar: Das ist meine
+Sicht, nicht die Wahrheit.
+:::
+
+<!-- EXERCISE: Lernziel: Emphase und Kontrast in Meinungsäußerungen ausdrücken, auch im Nebensatz (εγώ πάντως, εμένα πάντως, για μένα, φταις εσύ, το ξέρω ότι, αυτό που λες το …); Art: kurze Tischdebatte (Wahlpflicht ja oder nein, neutral formuliert) Zeile für Zeile mündlich übersetzen; Lösung mit Varianten und Hinweis auf den Fall (εγώ vs. εμένα); Schwierigkeit 2–3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [διαφωνώ, διαφώνησα]{lang="el"} | [ðʝafoˈno], [ðʝaˈfonisa] | anderer Meinung sein, widersprechen |
+| [έχω άδικο]{lang="el"} | [ˈexo ˈaðiko] | unrecht haben |
+| [πείθω, έπεισα]{lang="el"} | [ˈpiθo], [ˈepisa] | überzeugen |
+| [μαλώνω, μάλωσα]{lang="el"} | [maˈlono], [ˈmalosa] | (sich) streiten; ausschimpfen |
+| [δέχομαι, δέχτηκα]{lang="el"} | [ˈðexome], [ˈðextika] | annehmen, akzeptieren |
+| [πάντως]{lang="el"} | [ˈpados] | jedenfalls |
+| [Εγώ πάντως …]{lang="el"} | [eˈɣo ˈpados] | Ich jedenfalls … |
+| [για μένα]{lang="el"} | [ʝa ˈmena] | für mich; meiner Meinung nach |
+| [κατά τη γνώμη μου]{lang="el"} | [kaˈta ti ˈɣnomi mu] | meiner Meinung nach (neutral-förmlich) |
+| [όσο για μένα]{lang="el"} | [ˈoso ʝa ˈmena] | was mich betrifft (etwas gehoben) |
+| [Το ξέρω ότι …]{lang="el"} | [to ˈksero ˈoti] | Ich weiß ja, dass … (umg.) |
+:::
+
+## Hörspur: das Schiff des Theseus {#sec-emphase-hoerspur}
+
+Die ▶-Aufnahmen im Buch sind synthetische Stimmen; echte Menschen bringt der Hör-Auftrag am Ende des
+Abschnitts.
+
+Eines der ältesten Rätsel der Philosophie ist griechisch. Plutarch erzählt, die Athener hätten das
+Schiff des Theseus jahrhundertelang aufbewahrt und jede morsche Planke durch eine neue ersetzt; die
+Philosophen stritten, ob es noch dasselbe Schiff sei. Thomas Hobbes hat die Frage verschärft: Was,
+wenn jemand die alten Planken aufhebt und daraus ein zweites Schiff baut? Unten streiten zwei
+Geschwister im Hafen von Ägina über das Kaiki ihres Großvaters. Erst hören, dann lesen.
+
+::: {lang="el" .listen}
+— Έλα να δεις! Το καΐκι του παππού το έφτιαξα. Σαν καινούριο είναι.
+
+— Σαν καινούριο; Καινούριο είναι. Τις σανίδες τις άλλαξες όλες.
+
+— Όχι όλες. Την καρίνα δεν την άλλαξα.
+
+— Και τη μηχανή; Και το κατάρτι;
+
+— Εντάξει, αυτά τα άλλαξα. Αλλά το όνομα το κράτησα, το χρώμα το κράτησα. Είναι το ίδιο καΐκι.
+
+— Για στάσου. Εμένα μου φαίνεται άλλο καΐκι με το ίδιο όνομα.
+
+— Εσένα όλα σου φαίνονται άλλα. Το σπίτι μας το έβαψες τρεις φορές. Δεν είναι το ίδιο σπίτι;
+
+— Αυτό είναι άλλο θέμα. Το σπίτι δεν το έχτισα από την αρχή.
+
+— Δηλαδή; Πόσες σανίδες πρέπει να αλλάξω για να γίνει άλλο καΐκι; Τις μισές; Μία;
+
+— Δεν ξέρω. Πες μου εσύ. Και τις παλιές σανίδες, τι τις έκανες;
+
+— Τις έχω στην αποθήκη. Γιατί;
+
+— Γιατί αν τις πάρω εγώ και φτιάξω μ’ αυτές ένα καΐκι, ποιο θα είναι του παππού; Το δικό σου ή
+το δικό μου;
+
+— Σιγά μην τις πάρεις! Εσύ ούτε καρφί δεν ξέρεις να βάλεις.
+
+— Εδώ έχεις δίκιο. Άρα το καΐκι είναι δικό σου. Του παππού όμως δεν είναι.
+
+— Άσ’ το. Πάμε για ψάρεμα, και τα λέμε στη θάλασσα.
+:::
+
+<!-- EXERCISE: Lernziel: Emphase, Kontrast und Doppelung im Streitgespräch hörend verstehen; Art: Hörverstehen zum .listen-Block direkt oben, Auftrag „Hör das Streitgespräch mit ▶, ohne den Text aufzuklappen, gern zweimal“; Multiple Choice mit nummerierten Optionen (Was hat die Schwester nicht ausgetauscht? Wo sind die alten Planken? Welches Argument bringt sie mit dem Haus? Was gesteht der Bruder am Ende zu?), dann zweiter Durchgang: jede Stelle zählen, an der ein Objekt vorn steht und vor dem Verb wiederholt wird, und die zwei Sätze nennen, die mit „Εμένα/Εσένα + schwaches Pronomen“ beginnen; Schwierigkeit 2 -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Komm und schau! Das Kaiki vom Großvater habe ich hergerichtet. Es ist wie neu.
+
+— Wie neu? Es *ist* neu. Die Planken hast du alle ausgetauscht.
+
+— Nicht alle. Den Kiel habe ich nicht ausgetauscht.
+
+— Und den Motor? Und den Mast?
+
+— Gut, die habe ich ausgetauscht. Aber den Namen habe ich behalten, die Farbe habe ich behalten.
+Es ist dasselbe Kaiki.
+
+— Moment mal. Für mich ist das ein anderes Kaiki mit demselben Namen.
+
+— Für dich ist alles anders. Unser Haus hast du dreimal gestrichen. Ist es nicht dasselbe Haus?
+
+— Das ist etwas anderes. Das Haus habe ich nicht von Grund auf neu gebaut.
+
+— Das heißt? Wie viele Planken muss ich austauschen, damit es ein anderes Kaiki wird? Die Hälfte?
+Eine?
+
+— Weiß ich nicht. Sag du’s mir. Und die alten Planken, was hast du mit denen gemacht?
+
+— Die hab ich im Lager. Warum?
+
+— Weil, wenn ich sie nehme und daraus ein Kaiki baue, welches ist dann das vom Großvater? Deins
+oder meins?
+
+— Von wegen, du nimmst sie! Du kannst ja nicht mal einen Nagel einschlagen.
+
+— Da hast du recht. Also ist das Kaiki deins. Aber das vom Großvater ist es nicht.
+
+— Lass gut sein. Gehen wir fischen, und reden wir auf dem Meer weiter.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [φτιάχνω, έφτιαξα]{lang="el"} | machen; hier: herrichten, reparieren |
+| [σαν καινούριο]{lang="el"} | wie neu |
+| [η καρίνα]{lang="el"} | der Kiel |
+| [η μηχανή, το κατάρτι]{lang="el"} | der Motor, der Mast |
+| [βάφω, έβαψα]{lang="el"} | streichen, färben |
+| [από την αρχή]{lang="el"} | von Anfang an, von Grund auf |
+| [η αποθήκη]{lang="el"} | das Lager, der Abstellraum (keine Apotheke) |
+| [το δικό σου, το δικό μου]{lang="el"} | deins, meins (Kapitel 7) |
+| [το καρφί]{lang="el"} | der Nagel |
+| [άρα]{lang="el"} | also, folglich |
+| [το ψάρεμα]{lang="el"} | das Angeln, das Fischen |
+| [τα λέμε]{lang="el"} | wir reden (weiter); auch: bis dann (Kapitel 5) |
+:::
+
+Die Geschwister streiten, wie man in Griechenland streitet: laut, schnell und mit Wörtern, die den
+Streit steuern.
+
+- **[Για στάσου.]{lang="el"}** „Moment mal.“ [για]{lang="el"} vor einem Imperativ macht ihn
+  dringlicher; [στάσου]{lang="el"} ist der Imperativ von [στέκομαι]{lang="el"}.
+- **[Αυτό είναι άλλο θέμα.]{lang="el"}** „Das ist etwas anderes.“ Der Klassiker, wenn ein Vergleich
+  unbequem wird.
+- **[Δηλαδή;]{lang="el"}** Als ganze Frage, mit steigender Stimme: „Was heißt das? Worauf willst du
+  hinaus?“ Eine Aufforderung, Farbe zu bekennen.
+- **[Σιγά μην …!]{lang="el"}** Das ironische [σιγά]{lang="el"} mit [μην]{lang="el"} und
+  [να]{lang="el"}-Form: „Von wegen …! Als ob …!“ (umg.)
+- **[Εδώ έχεις δίκιο.]{lang="el"}** „Da hast du recht.“ Das Zugeständnis, bevor man doch
+  weiterstreitet.
+
+Wer so streitet, ist nicht zerstritten. Das Gespräch endet mit [Άσ’ το]{lang="el"} (Kapitel 8) und
+einer Einladung zum Fischen.
+
+### Nachdruck hören {#sec-emphase-hoeren}
+
+Starke und schwache Pronomen unterscheidest du am Ohr leicht, weil nur die starken betont sind:
+
+- **[eˈmena mu], [eˈsena se]:** zwei Silben mit Betonung, dann ein kurzes, unbetontes Echo, das
+  mit dem Verb verschmilzt: [Εμένα μου φαίνεται]{lang="el"} [eˈmena mu ˈfenete].
+- **[ceˈmena], [ceˈɣo]:** [και]{lang="el"} wird vor Vokal zu [κι]{lang="el"}, und das Ganze klingt
+  wie ein Wort.
+- **Artikel, Nomen, dann dasselbe kleine Wort noch einmal vor dem Verb:** [tis saˈniðes tis
+  ˈalakses]. Das zweite [tis] ist unbetont und hängt am Verb. Wer dieses Echo hört, weiß: Das
+  Objekt vorn ist die Überschrift, jetzt kommt, was darüber gesagt wird.
+- Im Scheinwerfer liegt die kräftigste Betonung des Satzes auf dem Objekt vorn, und das Verb folgt
+  ohne Echo.
+
+In Straßeninterviews, in denen nach Meinungen gefragt wird, beginnen erstaunlich viele Antworten
+mit [Εγώ …]{lang="el"} oder [Εμένα …]{lang="el"}. Auf dem YouTube-Kanal [Easy
+Greek](https://www.youtube.com/@EasyGreekVideos) kannst du das nachprüfen.
+
+<!-- EXERCISE: Lernziel: starke Pronomen und Doppelung in spontaner Rede erkennen; Art: Hör-Auftrag mit Easy Greek (https://www.youtube.com/@EasyGreekVideos): ein Straßeninterview mit Meinungsfragen wählen (Suchwörter z.B. γνώμη, πιστεύετε, πολιτική; sonst ein beliebiges Interview), drei bis vier Minuten ohne Untertitel; Striche für jedes εγώ/εμένα/εσύ/εσένα am Anfang einer Antwort, ein Beispiel für „εμένα + μου/με“ merken; dann mit griechischen Untertiteln prüfen und eine Doppelung mit Nomen suchen; Lösung als Auswertungshilfe ohne feste Zahl; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Για στάσου.]{lang="el"} | [ʝa ˈstasu] | Moment mal. (umg.) |
+| [Αυτό είναι άλλο θέμα.]{lang="el"} | [afˈto ˈine ˈalo ˈθema] | Das ist etwas anderes. |
+| [Δηλαδή;]{lang="el"} | [ðilaˈði] | Was heißt das? Worauf willst du hinaus? |
+| [Σιγά μην …!]{lang="el"} | [siˈɣa min] | Von wegen …! Als ob …! (umg.) |
+| [Εδώ έχεις δίκιο.]{lang="el"} | [eˈðo ˈeçis ˈðico] | Da hast du recht. |
+| [η σανίδα]{lang="el"} | [i saˈniða] | das Brett, die Planke |
+| [μου φαίνεται]{lang="el"} | [mu ˈfenete] | es kommt mir vor, mir scheint |
+:::
+
+## Das Wichtigste {#sec-emphase-wichtigste}
+
+- **Starke Pronomen** tragen eine eigene Betonung. Akkusativ [εμένα, εσένα, αυτόν, εμάς, εσάς,
+  αυτούς]{lang="el"}; in der 1. und 2. Person ist das zugleich die Form für „mir, dir“.
+- **Nur stark:** nach Präpositionen ([για μένα, με σένα]{lang="el"}), allein
+  ([— Ποιος; — Εγώ.]{lang="el"}), bei scharfem Gegensatz. Nach [μαζί, δίπλα, πίσω]{lang="el"}
+  dagegen schwach: [δίπλα μου]{lang="el"}.
+- **„Ich auch“:** [κι εγώ]{lang="el"} für das Subjekt, [κι εμένα]{lang="el"} für „mir/mich“;
+  verneint [ούτε εγώ, ούτε εμένα]{lang="el"}.
+- **Stark + schwach** ist der Normalfall für Nachdruck: [Εμένα μου αρέσει.]{lang="el"} Das schwache
+  bleibt stehen; \*[Εμένα αρέσει]{lang="el"} gibt es nicht.
+- **Doppelung:** Ein bestimmtes Objekt vorn wird vor dem Verb wieder aufgenommen:
+  [Το βιβλίο το διάβασα.]{lang="el"} Ohne Pronomen steht es im Scheinwerfer. Hinter dem Verb ist die
+  Doppelung umgangssprachlich; [Τα ξέρει όλα]{lang="el"} ist fast Pflicht.
+- **Widersprechen:** [Εγώ πάντως …, Για μένα …, Φταις εσύ.]{lang="el"}; [Το ξέρω ότι
+  …]{lang="el"} kündigt den [ότι]{lang="el"}-Satz an.
+
+## Zum Lesen: Der Idiot, der keiner war {#sec-emphase-lesetext}
+
+Ein Wort, das ganz Europa kennt, und eine Tischsitte, die ganz Griechenland kennt.
+
+::: {lang="el"}
+**Ο ιδιώτης**
+
+Τη λέξη «ιδιώτης» την ξέρουν όλοι οι Ευρωπαίοι, αλλά με άλλη σημασία. Στα γερμανικά, στα αγγλικά
+και στα γαλλικά ο «ιδιώτης» είναι βλάκας. Στα ελληνικά είναι απλώς ένας άνθρωπος χωρίς δημόσιο
+ρόλο, ένας πολίτης σαν εσένα και σαν εμένα. Όταν ένας υπουργός λέει «εδώ είμαι ως ιδιώτης», δεν
+εννοεί ότι είναι βλάκας. Εννοεί ότι δεν ήρθε ως υπουργός.
+
+Στην αρχαία Αθήνα ιδιώτης ήταν αυτός που ασχολούνταν μόνο με τα δικά του, όχι με τα κοινά. Και
+αυτόν οι Αθηναίοι δεν τον εκτιμούσαν. Ο Θουκυδίδης βάζει τον Περικλή να λέει σε έναν επιτάφιο
+λόγο: «Εμείς τον πολίτη που δεν ασχολείται με τα κοινά δεν τον λέμε ήσυχο. Τον λέμε άχρηστο.»
+Αργότερα ιδιώτης ήταν και αυτός που δεν είναι ειδικός, και από εκεί ο αμαθής. Με αυτή τη σημασία
+η λέξη πέρασε στα λατινικά και από εκεί σε όλη την Ευρώπη.
+
+Σήμερα κανείς δε σε αναγκάζει να ασχοληθείς με την πολιτική. Σε πολλά ελληνικά τραπέζια όμως
+ιδιώτες δεν υπάρχουν. Την πολιτική τη συζητάνε όλοι: ο θείος, η γιαγιά, ο ταξιτζής που σε πάει
+στο αεροδρόμιο. Και τη συζητάνε δυνατά. Ένας ξένος που κάθεται πρώτη φορά σε τέτοιο τραπέζι
+νομίζει ότι θα γίνει καβγάς. Συνήθως δε γίνεται. Στο τέλος όλοι λένε «Καλά, τα λέμε την Κυριακή».
+
+Κάποιοι κανόνες υπάρχουν πάντως. Πρώτον, τη γνώμη σου τη λες. Αν πεις «Εμένα δε με ενδιαφέρει η
+πολιτική», κάποιος θα σου απαντήσει: «Εσύ δεν ασχολείσαι με την πολιτική. Η πολιτική όμως
+ασχολείται με σένα.» Δεύτερον, όποιος φωνάζει πιο δυνατά δεν έχει απαραίτητα δίκιο. Τρίτον, τον
+λογαριασμό τον πληρώνει όποιος έχασε τη συζήτηση. Επειδή όμως κανείς δεν παραδέχεται ότι έχασε,
+τον πληρώνουν όλοι μαζί.
+
+Κι εγώ; Όταν εμένα με ρωτάνε τι ψηφίζω, απαντάω: «Την ψήφο μου την ξέρει μόνο η κάλπη.»
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η σημασία]{lang="el"} | die Bedeutung |
+| [ο βλάκας]{lang="el"} | der Dummkopf, der Idiot (umg.) |
+| [δημόσιος, -α, -ο]{lang="el"} | öffentlich |
+| [ως]{lang="el"} | als (in der Rolle von, Kapitel 16) |
+| [εννοώ]{lang="el"} | meinen (Kapitel 16) |
+| [εκτιμάω]{lang="el"} | schätzen, achten |
+| [ο επιτάφιος λόγος]{lang="el"} | die Grabrede, die Gefallenenrede |
+| [ο αμαθής]{lang="el"} | der Unwissende (gehoben) |
+| [αναγκάζω]{lang="el"} | zwingen |
+| [ο ταξιτζής]{lang="el"} | der Taxifahrer |
+| [ο καβγάς]{lang="el"} | der Streit, der Krach |
+| [απαραίτητα]{lang="el"} | unbedingt, notwendigerweise |
+| [παραδέχομαι]{lang="el"} | zugeben |
+| [η ψήφος]{lang="el"} | die Stimme (bei einer Wahl) |
+| [η κάλπη]{lang="el"} | die Wahlurne |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Der Idiot**
+
+Das Wort „ιδιώτης“ kennen alle Europäer, aber mit einer anderen Bedeutung. Im Deutschen, im
+Englischen und im Französischen ist der „Idiot“ ein Dummkopf. Im Griechischen ist er einfach ein
+Mensch ohne öffentliche Rolle, ein Bürger wie du und ich. Wenn ein Minister sagt: „Ich bin als
+Privatmann hier“, meint er nicht, dass er ein Dummkopf ist. Er meint, dass er nicht als Minister
+gekommen ist.
+
+Im antiken Athen war ein ιδιώτης jemand, der sich nur um seine eigenen Angelegenheiten kümmerte,
+nicht um die gemeinsamen. Und den schätzten die Athener nicht. Thukydides lässt Perikles in einer
+Gefallenenrede sagen: „Wir nennen den Bürger, der sich nicht um die Angelegenheiten der
+Gemeinschaft kümmert, nicht ruhig. Wir nennen ihn nutzlos.“ Später war ιδιώτης auch jemand, der
+kein Fachmann ist, und von da aus der Unwissende. In dieser Bedeutung kam das Wort ins Lateinische
+und von dort in ganz Europa.
+
+Heute zwingt dich niemand, dich mit Politik zu beschäftigen. An vielen griechischen Tischen gibt es
+aber keine Idioten in diesem Sinn. Über Politik reden alle: der Onkel, die Großmutter, der
+Taxifahrer, der dich zum Flughafen bringt. Und sie reden laut darüber. Ein Ausländer, der zum
+ersten Mal an so einem Tisch sitzt, glaubt, gleich gebe es Streit. Meistens gibt es keinen. Am
+Ende sagen alle: „Na gut, bis Sonntag.“
+
+Ein paar Regeln gibt es allerdings. Erstens: Deine Meinung sagst du. Wenn du sagst „Mich
+interessiert Politik nicht“, wird dir jemand antworten: „Du beschäftigst dich nicht mit der
+Politik. Aber die Politik beschäftigt sich mit dir.“ Zweitens: Wer am lautesten schreit, hat nicht
+unbedingt recht. Drittens: Die Rechnung zahlt, wer die Diskussion verloren hat. Weil aber niemand
+zugibt, dass er verloren hat, zahlen sie alle zusammen.
+
+Und ich? Wenn man *mich* fragt, was ich wähle, antworte ich: „Meine Stimme kennt nur die
+Wahlurne.“
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+- **Idiot:** [ιδιώτης]{lang="el"} hieß im Altgriechischen „Privatmann“, dann auch „Laie“;
+  lateinisch [*idiota*]{lang="la"} ist der Laie, der Ungebildete. Die verbreitete Erklärung, ein Idiot sei
+  ursprünglich jemand gewesen, der sich nicht um Politik kümmert, ist eine Zuspitzung: Die
+  Abwertung lief über „Nichtfachmann“.
+- **Perikles:** Die Rede steht bei Thukydides (2,40) und ist dessen Fassung; der Text oben
+  überträgt sie frei. Der Satz über die Politik, die sich mit dir beschäftigt, wird gern Perikles
+  zugeschrieben; eine antike Quelle dafür gibt es nicht.
+- **Zum Einstieg:** In Athen wurden der Rat der Fünfhundert, die Geschworenen und die meisten Ämter
+  ausgelost, die zehn Strategen gewählt. Aristoteles nennt das Los demokratisch, die Wahl
+  oligarchisch (*Politik* IV, 1294b). Die Herrschaft der Philosophen fordert Platon in der
+  *Politeia*.
+- **Theseus:** Plutarch, *Theseus* 23; die Variante mit den alten Planken bei Thomas Hobbes,
+  [*De corpore*]{lang="la"} (1655).
+:::
+
+<!-- CHECK: Thuk. 2,40,2 („τόν τε μηδὲν τῶνδε μετέχοντα οὐκ ἀπράγμονα, ἀλλ᾽ ἀχρεῖον νομίζομεν“) – ist die freie Übertragung im Lesetext sinngetreu? Herleitung ἰδιώτης → lat. idiota „Laie, Ungebildeter“; Zuschreibung des Politik-Spruchs an Perikles ohne antike Quelle; Aristoteles, Politik 1294b8–9; Plutarch, Theseus 23.1; Hobbes, De corpore II.11.7. -->
+
+<!-- EXERCISE: Lernziel: Lesetext verstehen und Doppelungen/starke Pronomen darin deuten; Art: Richtig/falsch zum Inhalt (z.B. „Im Griechischen ist ιδιώτης ein Schimpfwort“, „Perikles lobte Bürger, die sich aus der Politik heraushalten“, „Die Rechnung zahlt der Verlierer allein“) und Zuordnen: worauf beziehen sich die schwachen Pronomen in Την πολιτική τη συζητάνε, τον λογαριασμό τον πληρώνει, Την ψήφο μου την ξέρει; warum steht in „Εμένα δε με ενδιαφέρει“ εμένα und nicht εγώ; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο ιδιώτης]{lang="el"} | [o iˈðʝotis] | die Privatperson; der Laie (kein „Idiot“) |
+| [ιδιωτικός, -ή, -ό]{lang="el"} | [iðʝotiˈkos] | privat |
+| [τα κοινά]{lang="el"} | [ta ciˈna] | die öffentlichen Angelegenheiten |
+| [ασχολούμαι, ασχολήθηκα]{lang="el"} | [asxoˈlume], [asxoˈliθika] | sich beschäftigen ([με]{lang="el"} mit) |
+| [άχρηστος, -η, -ο]{lang="el"} | [ˈaxristos] | nutzlos |
+| [με ενδιαφέρει]{lang="el"} | [me enðʝaˈferi] | es interessiert mich |
+:::

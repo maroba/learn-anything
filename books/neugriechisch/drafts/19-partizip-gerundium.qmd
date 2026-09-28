@@ -22,7 +22,7 @@ die Samaria-Schlucht, oder mit dem Schiff. In der Taverne am Strand sitzt jemand
 Stunde. Die Freundin kommt eben erst an.
 
 ::: {lang="el"}
-— Ζωντανή είσαι;
+[— Ζωντανή είσαι;]{.v2}
 
 — Μετά βίας. Δεκαέξι χιλιόμετρα κατεβαίνοντας. Είμαι πτώμα.
 
@@ -281,7 +281,7 @@ Vom Aktiv-Aorist aus: [-σα → -σμένος, -ψα → -μμένος, -ξα �
 - [κουράστηκα → κουρασμένος]{lang="el"}
 - [έσπασα → σπασμένος]{lang="el"}
 - [έβρεξα → βρεγμένος]{lang="el"} (nicht über [βράχηκα]{lang="el"})
-- [τρόμαξα → τρομαγμένος]{lang="el"} „verängstigt“, das Wort aus dem Lesetext von Kapitel 13
+- [τρόμαξα → τρομαγμένος]{lang="el"} „verängstigt“, das Wort aus der Hörspur von Kapitel 13
 
 **Teil B:** [τα χαμένα κλειδιά, ένα σπασμένο πόδι, μια κρυμμένη εκκλησία, ο πληρωμένος
 λογαριασμός]{lang="el"}. Hinter dem Nomen geht auch: [ο λογαριασμός είναι
@@ -599,7 +599,7 @@ Die kurzen Verben holen ihr [γ]{lang="el"} aus dem Imperfekt: [έλεγα, έτ
 
 - Die Endung stumpf anhängen: \*[λέοντας, πάοντας]{lang="el"}, \*[μιλάοντας]{lang="el"} wie
   \*[περπατάοντας]{lang="el"}.
-- Den Aorist-Stamm nehmen: \*[διαβάσοντας, τρέξοντας]{lang="el"}. Das Gerundium ist Film, sein
+- Den perfektiven Stamm nehmen: \*[διαβάσοντας, τρέξοντας]{lang="el"}. Das Gerundium ist Film, sein
   Stamm ist der imperfektive.
 - Die Betonung des Imperfekts übernehmen: \*[διάβαζοντας]{lang="el"}. Das Gerundium hat kein
   Augment und keine Betonungsverschiebung.
@@ -705,7 +705,7 @@ Formularen stehen viele davon: [ο ενδιαφερόμενος]{lang="el"} „d
 Die ▶-Aufnahmen im Buch sind synthetische Stimmen, deutlich und etwas zu ordentlich. Echte
 Menschen bringt der Hör-Auftrag am Ende des Abschnitts.
 
-Mikro Papingo im Zagori, im Nordwesten Griechenlands, an einem Samstagabend im Juni. Auf dem
+Mikro Papigko im Zagori, im Nordwesten Griechenlands, an einem Samstagabend im Juni. Auf dem
 Platz sitzt ein Wanderer, der gerade vom Berg kommt. Jemand fragt ihn nach dem Weg zur
 Drakolimni, dem „Drachensee“ auf dem Tymfi-Massiv. Sechs Wörter vorab: [η πινακίδα]{lang="el"}
 das Schild, [η πηγή]{lang="el"} die Quelle, [το λιβάδι]{lang="el"} die Wiese, [η κορυφή]{lang="el"}
@@ -733,7 +733,7 @@ der Gipfel, [ο τρίτωνας]{lang="el"} der Molch, [ο δράκος]{lang="
 Τρίτωνες, δηλαδή. Λένε ότι παλιά ζούσε εκεί ένας πραγματικός δράκος, που πολεμούσε με τον δράκο
 του Σμόλικα, πετώντας του βράχους.
 
-— Και αν χαλάσει ο καιρός;
+— Κι αν χαλάσει ο καιρός;
 
 — Αν δείτε σύννεφα πάνω από την κορυφή, γυρίστε πίσω. Και κλείστε κρεβάτι στο καταφύγιο, το
 Σάββατο είναι πάντα γεμάτο.
@@ -1065,7 +1065,7 @@ Wege lernst du beim Gehen kennen, und Griechenland beim Essen am Ende des Tages.
   die Schlucht selbst ist etwa dreizehn Kilometer lang. Dass der Name von der Kirche der Osia
   Maria kommt, ist die gängige Herleitung. Die Schlucht ist nur im Sommerhalbjahr geöffnet und
   wird bei Regen gesperrt.
-- **Vikos:** Er stand einmal im Guinness-Buch als tiefste Schlucht der Welt im Verhältnis zu
+- **Vikos:** Er stand einmal im *Guinness-Buch der Rekorde* als tiefste Schlucht der Welt im Verhältnis zu
   ihrer Breite (900 Meter tief bei 1100 Metern Breite). Wie tief er ist, hängt davon ab, wo und
   von welchem Rand man misst; an manchen Stellen sind es bis über tausend Meter.
 - **Voidomatis** heißt wörtlich „Ochsenauge“ ([το βόιδι]{lang="el"}, Nebenform [το βόδι]{lang="el"}, + [το μάτι]{lang="el"}); wie

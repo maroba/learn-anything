@@ -20,8 +20,8 @@
 | 14 Hast du schon …? Perfekt und Plusquamperfekt | veröffentlicht | Welle 7; Audio vollständig |
 | 15 Der Film, den ich gesehen habe: Relativsätze | veröffentlicht | Welle 7; Audio vollständig |
 | 16 Weil, obwohl, damit: Nebensätze | veröffentlicht | Welle 8; Audio vollständig |
-| 17 Wenn … dann: realer Konditional und Zeitsätze | veröffentlicht | Welle 9; Audio läuft |
-| 18 Er sagt, dass: indirekte Rede und indirekte Fragen | veröffentlicht | Welle 9; Audio ausstehend |
+| 17 Wenn … dann: realer Konditional und Zeitsätze | veröffentlicht | Welle 9; Audio vollständig |
+| 18 Er sagt, dass: indirekte Rede und indirekte Fragen | veröffentlicht | Welle 9; Audio läuft |
 | 19 Müde, aber glücklich: Partizip und Gerundium | Konsistenz | Welle 8 |
 | 20 Mit Nachdruck: starke Pronomen und Doppelung | Entwurf | Welle 9 |
 | 22 Vielleicht, wahrscheinlich, sicher: Modalität | Entwurf | Welle 9 |
