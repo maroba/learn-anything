@@ -23,9 +23,9 @@
 | 17 Wenn … dann: realer Konditional und Zeitsätze | veröffentlicht | Welle 9; Audio vollständig |
 | 18 Er sagt, dass: indirekte Rede und indirekte Fragen | veröffentlicht | Welle 9; Audio vollständig |
 | 19 Müde, aber glücklich: Partizip und Gerundium | veröffentlicht | Welle 8; Audio vollständig |
-| 20 Mit Nachdruck: starke Pronomen und Doppelung | Überarbeitung | Welle 9; beide Reviews da |
-| 21 So spricht man wirklich: gesprochene Sprache | Übungen | Welle 10; Entwurf fertig |
-| 22 Vielleicht, wahrscheinlich, sicher: Modalität | im Review | Welle 9; Übungen fertig |
+| 20 Mit Nachdruck: starke Pronomen und Doppelung | Konsistenz | Welle 9; überarbeitet |
+| 21 So spricht man wirklich: gesprochene Sprache | im Review | Welle 10; Übungen fertig |
+| 22 Vielleicht, wahrscheinlich, sicher: Modalität | Überarbeitung | Welle 9; beide Reviews da |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 
