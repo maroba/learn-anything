@@ -25,6 +25,8 @@ book:
     - chapters/02-aorist.qmd
     - chapters/03-unregelmaessige-aoriste.qmd
     - chapters/04-imperfekt.qmd
+    - chapters/05-tha-und-na.qmd
+    - chapters/06-nomen-adjektive-zahlen.qmd
 
 lang: de
 

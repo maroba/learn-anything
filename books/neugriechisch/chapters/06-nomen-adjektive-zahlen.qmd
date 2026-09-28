@@ -141,7 +141,6 @@ Griechisch.
 | [Πόσο κάνει; Πόσο κάνουν;]{lang="el"} | [ˈposo ˈkani], [ˈposo ˈkanun] | Was kostet das? Was kosten die? |
 | [δοκιμάζω, δοκίμασα]{lang="el"} | [ðociˈmazo], [ðoˈcimasa] | probieren; anprobieren |
 | [κόβω, έκοψα]{lang="el"} | [ˈkovo], [ˈekopsa] | schneiden; (Obst, Gemüse) ernten |
-| [Να ’σαι καλά!]{lang="el"} | [ˈnase kaˈla] | Danke dir! Mach's gut! (herzlich) |
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}

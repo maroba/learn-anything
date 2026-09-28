@@ -1,5 +1,8 @@
 ---
 title: "Erzählen: Imperfekt und Aspekt"
+changes:
+  - date: 2026-09-28
+    note: "Aussprache von Σ’ το ’λεγα korrigiert: [ˈstoleɣa]"
 ---
 
 ::: {.callout-note .review}
@@ -1266,7 +1269,7 @@ mit nur einer Vergangenheit: [ήταν, είχα, είχαμε, ήξερα]{lang
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [Άλλες εποχές.]{lang="el"} | [ˈales epoˈçes] | Andere Zeiten. (seufzend) |
-| [Σ’ το ’λεγα.]{lang="el"} | [sto ˈleɣa] | Hab ich dir ja immer gesagt. (umg.) |
+| [Σ’ το ’λεγα.]{lang="el"} | [ˈstoleɣa] | Hab ich dir ja immer gesagt. (umg.) |
 | [Τι να κάνω;]{lang="el"} | [ti na ˈkano] | Was soll(te) ich machen? |
 | [φταίω, έφταιξα]{lang="el"} | [ˈfteo], [ˈefteksa] | schuld sein |
 | [πλένω, έπλυνα]{lang="el"} | [ˈpleno], [ˈeplina] | waschen, spülen |

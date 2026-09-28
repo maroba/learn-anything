@@ -312,7 +312,7 @@ wie in [ήπια]{lang="el"} [ˈipça].
 
 Drei Verben der Bauform A sind Einzelgänger. [πήγα → θα πάω]{lang="el"}: Die perfektive Form ist
 mit dem Präsens identisch. [ήρθα → θα έρθω]{lang="el"}: Aus dem [ή-]{lang="el"} wird ein
-[έ-]{lang="el"}, und im Gespräch fällt auch das oft noch weg: [θα ’ρθω]{lang="el"} [θa ˈrθo].
+[έ-]{lang="el"}, und im Gespräch fällt auch das oft noch weg: [θα ’ρθω]{lang="el"} [ˈθarθo].
 [πήρα → θα πάρω]{lang="el"}: Aus dem [η]{lang="el"} wird ein [α]{lang="el"}. [Θα ’ρθω.]{lang="el"}
 „Ich komme.“ [Θα σε πάρω.]{lang="el"} „Ich rufe dich an“, wörtlich „ich werde dich nehmen“, am
 Telefon versteht sich.
@@ -987,15 +987,14 @@ In Kapitel 3 hast du den verschluckten Anfangsvokal nach [το, τα, μου, σ
 
 | geschrieben | gesprochen | Deutsch |
 |---|---|---|
-| [θα έρθω]{lang="el"} | [θα ’ρθω]{lang="el"} [θa ˈrθo] | ich komme |
-| [να έρθεις]{lang="el"} | [να ’ρθεις]{lang="el"} [na ˈrθis] | dass du kommst |
-| [θα είμαι]{lang="el"} | [θα ’μαι]{lang="el"} [θa ˈme] | ich werde sein |
-| [να είσαι καλά]{lang="el"} | [να ’σαι καλά]{lang="el"} [na ˈse kaˈla] | danke; mach's gut |
-| [θα έχω]{lang="el"} | [θα ’χω]{lang="el"} [θa ˈxo] | ich werde haben |
-| [να έχεις]{lang="el"} | [να ’χεις]{lang="el"} [na ˈçis] | dass du hast |
+| [θα έρθω]{lang="el"} | [θα ’ρθω]{lang="el"} [ˈθarθo] | ich komme |
+| [να έρθεις]{lang="el"} | [να ’ρθεις]{lang="el"} [ˈnarθis] | dass du kommst |
+| [θα είμαι]{lang="el"} | [θα ’μαι]{lang="el"} [ˈθame] | ich werde sein |
+| [να είσαι καλά]{lang="el"} | [να ’σαι καλά]{lang="el"} [ˈnase kaˈla] | danke; mach's gut |
+| [θα έχω]{lang="el"} | [θα ’χω]{lang="el"} [ˈθaxo] | ich werde haben |
+| [να έχεις]{lang="el"} | [να ’χεις]{lang="el"} [ˈnaçis] | dass du hast |
 
-Wo [ˈme], [ˈse] oder [ˈxo] allein zu stehen scheinen, steckt oft [είμαι, είσαι, έχω]{lang="el"}
-dahinter. Manchmal fällt statt des Verbanfangs das [α]{lang="el"} des kleinen Wortes:
+Die Betonung des verschluckten Vokals wandert auf das kleine Wort: [θα ’χω]{lang="el"} klingt wie ein Wort, [ˈθaxo]. Klingt [θα]{lang="el"} oder [να]{lang="el"} betont, steckt oft [είμαι, είσαι, έχω]{lang="el"} oder [έρθω]{lang="el"} dahinter. Geschrieben wird der Akzent trotzdem nicht. Manchmal fällt statt des Verbanfangs das [α]{lang="el"} des kleinen Wortes:
 [θ’ ανέβω]{lang="el"} [θaˈnevo], [ν’ ακούσεις]{lang="el"} [naˈkusis].
 
 Das zweite Hörproblem ist die Kürze. Oft hängt der Aspekt an einem einzigen Laut, wie beim
@@ -1084,7 +1083,7 @@ und ordne sie ein. Dann mit griechischen Untertiteln prüfen.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Vor Vokal wird nach [θα]{lang="el"} ein Vokal verschluckt: [θa ˈrθo], [θaˈnevo].
+Vor Vokal wird nach [θα]{lang="el"} ein Vokal verschluckt: [ˈθarθo], [θaˈnevo].
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -1122,7 +1121,7 @@ wiederfindet, ist gut dabei.
 | [Θα δούμε.]{lang="el"} | [θa ˈðume] | Mal sehen. |
 | [Θα σε πάρω (τηλέφωνο).]{lang="el"} | [θa se ˈparo tiˈlefono] | Ich ruf dich an. |
 | [Τα λέμε.]{lang="el"} | [ta ˈleme] | Bis dann, wir hören uns. |
-| [Να ’σαι καλά. Να ’στε καλά.]{lang="el"} | [na ˈse kaˈla], [na ˈste kaˈla] | Danke (, das ist lieb). Alles Gute. |
+| [Να ’σαι καλά. Να ’στε καλά.]{lang="el"} | [ˈnase kaˈla], [ˈnaste kaˈla] | Danke (, das ist lieb). Alles Gute. |
 | [Καλό ταξίδι!]{lang="el"} | [kaˈlo taˈksiði] | Gute Reise! |
 | [το ταξίδι]{lang="el"} | [to taˈksiði] | die Reise |
 | [το αεροπλάνο]{lang="el"} | [to aeroˈplano] | das Flugzeug |

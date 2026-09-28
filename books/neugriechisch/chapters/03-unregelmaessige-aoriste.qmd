@@ -1,5 +1,8 @@
 ---
 title: "Die unregelmäßigen Aoriste"
+changes:
+  - date: 2026-09-28
+    note: "Betonung verschluckter Formen korrigiert: μου ’πε [ˈmupe], σ’ το ’πα [ˈstopa] usw."
 ---
 
 ::: {.callout-note .review}
@@ -1117,18 +1120,18 @@ Mittagessen gebacken hat, ist auffällig leer.
 
 Drei Formen sehen ungewohnt aus: [τα ’φαγα]{lang="el"}, [μου ’πε]{lang="el"},
 [σ’ το ’πα]{lang="el"}. So schreibt man, was man hört. Nach [το, τα, μου, σου]{lang="el"}
-verschluckt die schnelle Rede oft den Anfangsvokal des Verbs, und war er betont, rutscht die
-Betonung auf die nächste Silbe. Bei den Aoristen trifft es genau das Augment und das
+verschluckt die schnelle Rede oft den Anfangsvokal des Verbs, und war er betont, wandert die
+Betonung auf das kleine Wort davor: [μου ’πε]{lang="el"} klingt wie ein Wort, [ˈmupe]. Bei den Aoristen trifft es genau das Augment und das
 [εί-]{lang="el"} oder [ή-]{lang="el"} der kurzen Formen.
 
 | geschrieben | gesprochen | Deutsch |
 |---|---|---|
-| [τα έφαγα]{lang="el"} | [τα ’φαγα]{lang="el"} [ta ˈfaɣa] | ich hab sie gegessen |
-| [το έκανα]{lang="el"} | [το ’κανα]{lang="el"} [to ˈkana] | ich hab's gemacht |
-| [το είδα]{lang="el"} | [το ’δα]{lang="el"} [to ˈða] | ich hab's gesehen |
-| [μου είπε]{lang="el"} | [μου ’πε]{lang="el"} [mu ˈpe] | er/sie hat mir gesagt |
-| [σου το είπα]{lang="el"} | [σ’ το ’πα]{lang="el"} [sto ˈpa] | ich hab's dir (doch) gesagt |
-| [μου ήρθε]{lang="el"} | [μου ’ρθε]{lang="el"} [mu ˈrθe] | mir kam (eine Idee) |
+| [τα έφαγα]{lang="el"} | [τα ’φαγα]{lang="el"} [ˈtafaɣa] | ich hab sie gegessen |
+| [το έκανα]{lang="el"} | [το ’κανα]{lang="el"} [ˈtokana] | ich hab's gemacht |
+| [το είδα]{lang="el"} | [το ’δα]{lang="el"} [ˈtoða] | ich hab's gesehen |
+| [μου είπε]{lang="el"} | [μου ’πε]{lang="el"} [ˈmupe] | er/sie hat mir gesagt |
+| [σου το είπα]{lang="el"} | [σ’ το ’πα]{lang="el"} [ˈstopa] | ich hab's dir (doch) gesagt |
+| [μου ήρθε]{lang="el"} | [μου ’ρθε]{lang="el"} [ˈmurθe] | mir kam (eine Idee) |
 
 Wo [ˈpa], [ˈða] oder [ˈpe] allein zu stehen scheinen, steckt oft [είπα, είδα, είπε]{lang="el"}
 dahinter. In Liedtexten, Untertiteln und Chats siehst du die Formen auch geschrieben.
@@ -1260,7 +1263,7 @@ im Plural [ˈpiɣame], [ˈfaɣame], [ˈkaname], [ˈminame], umgangssprachlich au
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Achte auf Formen, die kürzer klingen, als sie sind: [to ˈða], [mu ˈpe], [to ˈkana]. Und nicht
+Achte auf Formen, die kürzer klingen, als sie sind: [ˈtoða], [ˈmupe], [ˈtokana]. Und nicht
 jedes [ˈela] ist ein Aorist: [έλα]{lang="el"} „komm“ ist der Imperativ von
 [έρχομαι]{lang="el"} (Kapitel 9). Im Baklava-Dialog steht neben vielen unregelmäßigen genau ein
 regelmäßiger Aorist.
@@ -1300,9 +1303,9 @@ Wer beim Hören auf elf oder zwölf kam, hat fast immer die verschluckten Formen
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [Είδες;]{lang="el"} | [ˈiðes] | Siehst du? Na bitte. (umg.) |
-| [Σ’ το ’πα.]{lang="el"} | [sto ˈpa] | Hab ich dir doch gesagt. (umg.) |
+| [Σ’ το ’πα.]{lang="el"} | [ˈstopa] | Hab ich dir doch gesagt. (umg.) |
 | [Είπαμε!]{lang="el"} | [ˈipame] | Wie besprochen! Ist ja gut. (umg.) |
-| [Το ’μαθες;]{lang="el"} | [to ˈmaθes] | Hast du schon gehört? (umg.) |
+| [Το ’μαθες;]{lang="el"} | [ˈtomaθes] | Hast du schon gehört? (umg.) |
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
