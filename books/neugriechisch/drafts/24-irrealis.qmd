@@ -1,0 +1,718 @@
+---
+title: "Was wäre, wenn: Irrealis und Wünsche"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+- **Imperfekt** (Kapitel 4, 10, 13): [ήμουν, είχα, ήξερα, πήγαινα, έλεγα, μπορούσα,
+  ερχόμουν]{lang="el"}.
+- **Plusquamperfekt** (Kapitel 14): [είχα]{lang="el"} + Form auf [-ει]{lang="el"},
+  [είχα φύγει]{lang="el"} „ich war gegangen“.
+- **Realer Bedingungssatz** (Kapitel 17): [αν]{lang="el"} + Präsens oder perfektive Form, in der
+  Bedingung kein [θα]{lang="el"}: [Αν βρέξει, θα μείνουμε σπίτι.]{lang="el"}
+:::
+
+## Dienstag, 29. Mai {#sec-irrealis-einstieg}
+
+Istanbul, an den Landmauern aus dem 5. Jahrhundert. Zwei Freunde aus Athen sind seit dem Morgen
+unterwegs, die Mittagssonne steht über den Türmen.
+
+::: {lang="el"}
+— Ξέρεις τι μέρα είναι σήμερα; Τρίτη, είκοσι εννιά Μαΐου.
+
+— Και;
+
+— Σαν σήμερα, Τρίτη κι εκείνη, έπεσε η Πόλη. Εδώ, σε αυτά τα τείχη.
+
+— Γι’ αυτό λοιπόν δε μου αρέσουν οι Τρίτες.
+
+— Φαντάσου: αν δεν είχε πέσει, θα ήταν τώρα όλες οι πινακίδες στα ελληνικά.
+
+— Και θα καταλάβαινα επιτέλους τι λέει το μενού.
+
+— Σοβαρά τώρα. Αν ήμουν εγώ ο Κωνσταντίνος, θα είχα πληρώσει τον Ουρβανό.
+
+— Ποιον;
+
+— Αυτόν με τα κανόνια. Πρώτα πήγε στον αυτοκράτορα, αλλά εκείνος δεν είχε λεφτά. Κι έτσι πήγε
+στον σουλτάνο.
+
+— Δηλαδή, αν είχε λεφτά ο Κωνσταντίνος, σήμερα θα ζούσαμε σε άλλον κόσμο;
+
+— Ποιος ξέρει; Μακάρι να είχα μια χρονομηχανή.
+
+— Εγώ μακάρι να είχα φέρει καπέλο. Λιώνω. Έπρεπε να είχαμε έρθει το πρωί.
+
+— Εσύ είπες ότι θα ξυπνούσες στις επτά. Ξύπνησες στις δέκα.
+
+— Καλά, καλά. Ας πάμε να φάμε κάτι, και συνεχίζουμε την ιστορία στη σκιά.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Weißt du, was heute für ein Tag ist? Dienstag, der 29. Mai.
+
+— Und?
+
+— Genau an diesem Tag, auch an einem Dienstag, ist die Stadt gefallen. Hier, an diesen Mauern.
+
+— Deshalb mag ich also keine Dienstage.
+
+— Stell dir vor: Wenn sie nicht gefallen wäre, wären jetzt alle Schilder auf Griechisch.
+
+— Und ich würde endlich verstehen, was auf der Speisekarte steht.
+
+— Jetzt im Ernst. Wenn ich Konstantin gewesen wäre, hätte ich Urban bezahlt.
+
+— Wen?
+
+— Den mit den Kanonen. Er ist zuerst zum Kaiser gegangen, aber der hatte kein Geld. Und so ist er
+zum Sultan gegangen.
+
+— Heißt das, wenn Konstantin Geld gehabt hätte, würden wir heute in einer anderen Welt leben?
+
+— Wer weiß? Hätte ich doch eine Zeitmaschine.
+
+— Und ich hätte bloß einen Hut mitgenommen. Ich schmelze. Wir hätten am Morgen kommen sollen.
+
+— Du hast gesagt, du würdest um sieben aufstehen. Aufgestanden bist du um zehn.
+
+— Schon gut, schon gut. Lass uns was essen gehen, dann machen wir mit der Geschichte im Schatten
+weiter.
+:::
+
+Warum Griechen der Dienstag nicht geheuer ist, weißt du aus Kapitel 11, und dass Konstantinopel
+für sie bis heute einfach [η Πόλη]{lang="el"} „die Stadt“ ist, aus Kapitel 21. Die beiden reden
+fast nur über Dinge, die nicht wirklich sind: [θα ήταν, θα καταλάβαινα, θα ζούσαμε]{lang="el"}
+(„wäre, würde verstehen, würden leben“), [θα είχα πληρώσει]{lang="el"} („hätte bezahlt“),
+[μακάρι να είχα]{lang="el"} („hätte ich doch“), [έπρεπε να είχαμε έρθει]{lang="el"} („hätten
+kommen sollen“). Wirklich passiert ist nur, was im Aorist steht: [έπεσε, πήγε,
+ξύπνησες]{lang="el"}.
+
+Ein [θα]{lang="el"} + Imperfekt fällt aus der Reihe: [είπες ότι θα ξυπνούσες]{lang="el"} ist
+nicht irreal, sondern das Futur der Vergangenheit aus Kapitel 18. Warum dieselbe Form beides kann,
+klärt @sec-irrealis-drei-aufgaben.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [σαν σήμερα]{lang="el"} | [san ˈsimera] | heute vor … Jahren, an diesem Tag |
+| [φαντάζομαι, φαντάστηκα]{lang="el"} | [faˈdazome], [faˈdastika] | sich vorstellen; annehmen; [Φαντάσου!]{lang="el"} Stell dir vor! |
+| [ο αυτοκράτορας]{lang="el"} | [o aftoˈkratoras] | der Kaiser |
+| [το κανόνι]{lang="el"} | [to kaˈnoni] | die Kanone |
+| [Ποιος ξέρει;]{lang="el"} | [pços ˈkseri] | Wer weiß? |
+| [μακάρι]{lang="el"} | [maˈkari] | hoffentlich; + [να]{lang="el"} + Vergangenheit: wenn doch, hätte ich doch |
+| [ας]{lang="el"} | [as] | lass(t) uns; soll(en) … doch |
+| [συνεχίζω, συνέχισα]{lang="el"} | [sineˈçizo], [siˈneçisa] | fortsetzen, weitermachen |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [τα τείχη]{lang="el"} | die (Stadt-)Mauern (Kapitel 2) |
+| [οι Τρίτες]{lang="el"} | die Dienstage |
+| [η πινακίδα]{lang="el"} | das Schild (Kapitel 19) |
+| [το μενού]{lang="el"} | die Speisekarte |
+| [ο Κωνσταντίνος]{lang="el"} | Konstantin XI., der letzte Kaiser |
+| [ο Ουρβανός]{lang="el"} | Urban, ein Kanonengießer |
+| [ο σουλτάνος]{lang="el"} | der Sultan |
+| [η χρονομηχανή]{lang="el"} | die Zeitmaschine |
+| [λιώνω]{lang="el"} | schmelzen; [Λιώνω.]{lang="el"} Ich zerfließe (vor Hitze, umg.) |
+| [η σκιά]{lang="el"} | der Schatten |
+:::
+
+## Wenn ich hätte: der Irrealis der Gegenwart {#sec-irrealis-gegenwart}
+
+Kapitel 17 hat Bedingungen behandelt, die eintreten können. Jetzt kommen die, gegen die die
+Wirklichkeit spricht:
+
+- [Αν έχω χρόνο, θα πάω στα τείχη.]{lang="el"} – Wenn ich Zeit habe, gehe ich zu den Mauern.
+  (Kann sein.)
+- [Αν είχα χρόνο, θα πήγαινα στα τείχη.]{lang="el"} – Wenn ich Zeit hätte, würde ich zu den
+  Mauern gehen. (Hab ich aber nicht.)
+
+Im **irrealen Bedingungssatz** rücken beide Hälften eine Stufe in die Vergangenheit: die
+Bedingung ins Imperfekt, die Folge zu [θα]{lang="el"} + Imperfekt. So klang schon der Satz, den
+Kapitel 17 nur zum Erkennen gezeigt hat: [Αν είχα ΑΦΜ, θα νοίκιαζα το σπίτι.]{lang="el"}
+
+| | real (Kapitel 17) | irreal |
+|---|---|---|
+| Bedingung | [αν έχω, αν βρω]{lang="el"} | [αν είχα, αν έβρισκα]{lang="el"} |
+| Folge | [θα πάω]{lang="el"} | [θα πήγαινα]{lang="el"} |
+
+Wer Französisch kann, kennt das Rezept: [*Si j'avais le temps, j'irais.*]{lang="fr"} Nach
+[*si*]{lang="fr"} steht das imparfait, und der conditionnel [*j'irais*]{lang="fr"} ist nichts
+anderes als der Futurstamm mit den Endungen des imparfait. Das Spanische baut [*iría*]{lang="es"}
+genauso, das Englische nimmt [*would*]{lang="en"}, die Vergangenheit von [*will*]{lang="en"}.
+Griechisch legt den Bauplan offen und schreibt ihn in zwei Wörtern: Futur ([θα]{lang="el"}) plus
+Vergangenheit (Imperfekt) ergibt „würde“.
+
+### Ein Imperfekt ohne Film {#sec-irrealis-ohne-aspekt}
+
+Das Imperfekt bedeutet hier weder Vergangenheit noch Film:
+
+- [Αν ερχόταν αύριο, θα τον έβλεπες.]{lang="el"} – Wenn er morgen käme, würdest du ihn sehen.
+
+Morgen, ein einziges Ereignis, trotzdem Imperfekt. Die Vergangenheitsform zeigt hier den
+**Abstand zur Wirklichkeit**, wie das deutsche „käme“ oder englisch [*if he came
+tomorrow*]{lang="en"}. Eine Wahl zwischen Foto und Film hast du in diesem Bauplan praktisch
+nicht: Es steht das Imperfekt.
+
+Irreal heißt dabei nicht nur „unmöglich“, sondern auch „ziemlich unwahrscheinlich“. Wer ein Los
+gekauft hat, sagt [Αν κερδίσω το λαχείο, …]{lang="el"}; wer träumt, sagt
+[Αν κέρδιζα το λαχείο, θα αγόραζα ένα σπίτι στη Σύμη.]{lang="el"} Das ist der Unterschied
+zwischen [*if I win*]{lang="en"} und [*if I won*]{lang="en"}, und der Sprecher entscheidet, wie
+fern er die Sache sieht.
+
+Das Augment bleibt nach [θα]{lang="el"} stehen, im Gespräch wird es aber oft verschluckt:
+[θα ’λεγα]{lang="el"} [θaˈleɣa], [θα ’κανα]{lang="el"} [θaˈkana]. Verneint wird wie immer:
+[Αν δεν ήταν τόσο ακριβό, θα το έπαιρνα.]{lang="el"} [Δε θα το έκανα.]{lang="el"}
+
+Die Bedingung muss nicht mit [αν]{lang="el"} dastehen. Den häufigsten irrealen Satz im Alltag
+hört man ohne: [Εγώ στη θέση σου θα έλεγα όχι.]{lang="el"} „An deiner Stelle würde ich nein
+sagen.“
+
+::: {.callout-important}
+## Merke
+
+**Irreal, Gegenwart oder Zukunft:** [αν]{lang="el"} + Imperfekt, Folge [θα]{lang="el"} +
+Imperfekt. [Αν ήξερα τουρκικά, θα ρωτούσα.]{lang="el"} „Wenn ich Türkisch könnte, würde ich
+fragen.“ Das Imperfekt steht auch für einzelne und künftige Ereignisse.
+:::
+
+::: {.callout-warning}
+## Achtung
+
+- \*[Αν θα είχα χρόνο …]{lang="el"}: Auch in der irrealen Bedingung steht kein [θα]{lang="el"},
+  wie im realen Satz (Kapitel 17). Das [θα]{lang="el"} gehört in die Folge.
+- [Αν είχα χρόνο, θα πάω.]{lang="el"}: halb irreal, halb real. Wer [αν είχα]{lang="el"} sagt,
+  muss mit [θα πήγαινα]{lang="el"} weitermachen.
+:::
+
+<!-- EXERCISE: irreale Bedingungssätze der Gegenwart bilden; reale Sätze (Kapitel-17-Muster, Thema Istanbul-Reise, Hitze, Lotterie) laut ins Irreale umformen, dabei Verben ohne perfektiven Stamm, -ούσα-Imperfekt und ein Deponens (ερχόμουν) einbauen; ein Satz mit „Εγώ στη θέση σου“, Umformen, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το λαχείο]{lang="el"} | [to laˈçio] | das Los, die Lotterie; [κερδίζω το λαχείο]{lang="el"} im Lotto gewinnen |
+| [Εγώ στη θέση σου …]{lang="el"} | [eˈɣo sti ˈθesi su] | Ich an deiner Stelle … |
+:::
+
+## Wenn ich gewusst hätte: der Irrealis der Vergangenheit {#sec-irrealis-vergangenheit}
+
+Über 1453 lässt sich nur noch im Irrealis reden. Für die Vergangenheit rückt der Satz eine
+weitere Stufe zurück, ins Plusquamperfekt aus Kapitel 14:
+
+- [Αν ο Κωνσταντίνος είχε πληρώσει τον Ουρβανό, τα κανόνια δε θα είχαν χτυπήσει τα
+  τείχη.]{lang="el"} – Wenn Konstantin Urban bezahlt hätte, hätten die Kanonen nicht auf die
+  Mauern geschossen.
+- [Αν ο στόλος της Βενετίας είχε φτάσει έγκαιρα, η Πόλη θα είχε αντέξει λίγο
+  ακόμα.]{lang="el"} – Wenn die venezianische Flotte rechtzeitig gekommen wäre, hätte die Stadt
+  noch etwas länger durchgehalten.
+
+| | Bedingung | Folge |
+|---|---|---|
+| Gegenwart, Zukunft | [αν ερχόσουν]{lang="el"} | [θα τον έβλεπες]{lang="el"} |
+| Vergangenheit | [αν είχες έρθει]{lang="el"} | [θα τον είχες δει]{lang="el"} |
+
+Hier ist auch das Versprechen aus Kapitel 14 eingelöst: [θα είχα φύγει]{lang="el"} „ich wäre
+gegangen“. Das Deutsche sagt bei Bewegung „wäre“, das Französische [*je serais
+parti*]{lang="fr"}; Griechisch nimmt wie beim Perfekt immer [έχω]{lang="el"}, wie das Spanische
+[*habría ido*]{lang="es"} und das Englische [*would have gone*]{lang="en"}.
+
+### Im Gespräch geht es auch einfacher {#sec-irrealis-imperfekt-vergangenheit}
+
+Das Plusquamperfekt macht die Vergangenheit eindeutig, Pflicht ist es aber nicht. Im Gespräch
+steht oft auch für Vergangenes das einfache Imperfekt:
+
+- [Αν το ήξερα, θα σου το έλεγα.]{lang="el"} – Wenn ich es wüsste, würde ich es dir sagen.
+  **Oder:** Wenn ich es gewusst hätte, hätte ich es dir gesagt.
+
+Welche Zeit gemeint ist, sagt der Zusammenhang. Im Einstieg klang es so: [αν είχε λεφτά ο
+Κωνσταντίνος]{lang="el"}, eindeutig 1453. Bei [ξέρω]{lang="el"} und [είμαι]{lang="el"} bleibt
+ohnehin nur das Imperfekt, denn sie haben kein Perfekt und kein Plusquamperfekt:
+[Αν ήμουν εκεί, θα το είχα δει.]{lang="el"} „Wenn ich dort gewesen wäre, hätte ich es gesehen.“
+
+Die beiden Hälften können außerdem verschiedene Zeiten haben. Jede nimmt die, die sie braucht:
+
+- [Αν είχαμε ξυπνήσει νωρίτερα, τώρα δε θα λιώναμε στον ήλιο.]{lang="el"} – Wären wir früher
+  aufgestanden, würden wir jetzt nicht in der Sonne zerfließen.
+- [Αν ήμουν εγώ ο Κωνσταντίνος, θα είχα πληρώσει τον Ουρβανό.]{lang="el"} – Wäre ich Konstantin
+  gewesen, hätte ich Urban bezahlt.
+
+::: {.callout-important}
+## Merke
+
+**Irreal, Vergangenheit:** [αν]{lang="el"} + Plusquamperfekt, Folge [θα]{lang="el"} +
+Plusquamperfekt: [Αν είχες έρθει, θα τον είχες δει.]{lang="el"} Im Gespräch steht auch das
+Imperfekt; der Zusammenhang zeigt dann, dass Vergangenes gemeint ist.
+:::
+
+::: {.callout-warning}
+## Achtung
+
+[θα]{lang="el"} + **Aorist** ist kein Irrealis, sondern eine Vermutung wie [Θα είναι
+σπίτι]{lang="el"} aus Kapitel 22: [Θα το ξέχασε.]{lang="el"} „Er hat es wohl vergessen.“ Auch
+[θα είχε φύγει]{lang="el"} kann ohne irrealen Zusammenhang eine Vermutung sein („er wird wohl
+schon weg gewesen sein“); das ist Stoff für Kapitel 25.
+:::
+
+<!-- EXERCISE: irreale Bedingungssätze der Vergangenheit; eine Kette kontrafaktischer Sätze zu 1453 und zu einem verpassten Reisetag mündlich ins Griechische übersetzen (αν + Plusquamperfekt, θα + Plusquamperfekt), dazu zwei gemischte Sätze (Bedingung Vergangenheit, Folge jetzt) und ein Satz mit ξέρω/είμαι, der nur das Imperfekt zulässt; Lösung nennt die Imperfekt-Variante als ebenfalls richtig, Übersetzung, Schwierigkeit 3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο στόλος]{lang="el"} | [o ˈstolos] | die Flotte |
+| [έγκαιρα]{lang="el"} | [ˈeɟera] | rechtzeitig |
+:::
+
+## Eine Form, drei Aufgaben: [θα]{lang="el"} + Imperfekt {#sec-irrealis-drei-aufgaben}
+
+[Εσύ είπες ότι θα ξυπνούσες στις επτά]{lang="el"}, sagt der eine im Einstieg, und das ist
+keine Fantasie, sondern ein Zitat. [θα]{lang="el"} + Imperfekt hat drei Aufgaben, und das
+Englische und Französische verteilen sie genauso auf eine einzige Form:
+
+| Aufgabe | Griechisch | Englisch / Französisch |
+|---|---|---|
+| Futur der Vergangenheit | [Είπε ότι θα ερχόταν.]{lang="el"} | [*He said he would come.*]{lang="en"} / [*Il a dit qu'il viendrait.*]{lang="fr"} |
+| Irrealis | [Αν μπορούσε, θα ερχόταν.]{lang="el"} | [*If he could, he would come.*]{lang="en"} / [*S'il pouvait, il viendrait.*]{lang="fr"} |
+| Höflichkeit | [Θα μπορούσατε να μου πείτε …;]{lang="el"} | [*Could you tell me …?*]{lang="en"} / [*Pourriez-vous me dire …?*]{lang="fr"} |
+
+**Futur der Vergangenheit.** Von einem Punkt in der Vergangenheit aus blickt man nach vorn:
+[Ήξερα ότι θα έβρεχε.]{lang="el"} „Ich wusste, dass es regnen würde.“ [Δεν ήξερα αν θα
+ερχόσουν.]{lang="el"} „Ich wusste nicht, ob du kommen würdest.“ Nach [είπε ότι]{lang="el"} geht
+weiterhin auch [θα έρθει]{lang="el"}, solange das Ereignis noch aussteht (Kapitel 18).
+
+Zwischen dieser Aufgabe und dem Irrealis liegt eine Wendung, die du im Gespräch ständig brauchst:
+[Θα ερχόμουν, αλλά …]{lang="el"} „Ich wollte ja kommen, aber …“, „ich wäre ja gekommen, aber …“.
+[Θα σε έπαιρνα τηλέφωνο, αλλά ξέχασα.]{lang="el"} „Ich wollte dich anrufen, aber ich hab’s
+vergessen.“ Ein Plan von damals, aus dem nichts wurde.
+
+**Höflichkeit.** [θα ήθελα]{lang="el"} kennst du seit Kapitel 5; jetzt weißt du, warum es
+höflich klingt: Der Wunsch wird eine Stufe von der Wirklichkeit weggerückt, wie „ich hätte gern“.
+Ebenso [Θα μπορούσατε …;]{lang="el"} „Könnten Sie …?“, [θα προτιμούσα]{lang="el"} „ich würde
+lieber“ und [θα έλεγα ότι …]{lang="el"} „ich würde sagen, dass …“, das eine Meinung abfedert.
+
+Welche Aufgabe gerade dran ist, verrät die Umgebung: ein [είπε ότι, ήξερα ότι]{lang="el"} davor
+spricht für das Futur der Vergangenheit, ein [αν]{lang="el"} oder ein [αλλά]{lang="el"} danach
+für den Irrealis, eine Bitte an Fremde für die Höflichkeit.
+
+::: {.callout-important}
+## Merke
+
+[θα]{lang="el"} + Imperfekt = „würde“, im Griechischen wie im Englischen dreifach: Futur der
+Vergangenheit ([είπε ότι θα ερχόταν]{lang="el"}), Irrealis ([αν μπορούσε, θα
+ερχόταν]{lang="el"}), Höflichkeit ([θα ήθελα, θα μπορούσατε]{lang="el"}).
+:::
+
+<!-- EXERCISE: drei Aufgaben von θα + Imperfekt unterscheiden; 8–10 kurze Sätze (Reise, Behörde, Anruf, 1453) den Aufgaben a) Futur der Vergangenheit, b) Irrealis, c) Höflichkeit zuordnen, dazu zwei Distraktoren mit θα + Aorist (Vermutung) als d) „nichts davon“; Antwort im Chat als „1a, 2c …“, Zuordnen, Schwierigkeit 1 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Θα ερχόμουν, αλλά …]{lang="el"} | [θa erˈxomun aˈla] | Ich wollte ja kommen, aber … |
+| [Θα μπορούσατε να …;]{lang="el"} | [θa boˈrusate na] | Könnten Sie …? |
+| [θα έλεγα ότι …]{lang="el"} | [θa ˈeleɣa ˈoti] | ich würde sagen, dass … |
+:::
+
+## Hätte, sollte, könnte: Bedauern und Vorwürfe {#sec-irrealis-bedauern}
+
+Kapitel 22 hat einen Satz offen gelassen, den jeder kennt, der von einem großartigen Abend
+erzählt: [Έπρεπε να ήσουν εκεί!]{lang="el"} „Du hättest dabei sein sollen!“
+
+Mit [έπρεπε να]{lang="el"} + zeitloser Form ist der Satz doppeldeutig: [Έπρεπε να φύγει
+νωρίς.]{lang="el"} kann heißen „Sie musste früh los“ oder „Sie hätte früh losfahren sollen“.
+Eindeutig wird das Bedauern mit Imperfekt oder Plusquamperfekt nach [να]{lang="el"}:
+
+- [Έπρεπε να το ήξερα.]{lang="el"} – Das hätte ich wissen müssen.
+- [Έπρεπε να είχαμε έρθει το πρωί.]{lang="el"} – Wir hätten am Morgen kommen sollen.
+- [Έπρεπε να μου το είχες πει.]{lang="el"} – Das hättest du mir sagen sollen.
+
+Im Gespräch hörst du auch das Imperfekt anderer Verben, etwa [έπρεπε να μου το
+έλεγες]{lang="el"}. <!-- CHECK: έπρεπε να + Imperfekt bei Verben mit perfektivem Stamm (έπρεπε να μου το έλεγες, έπρεπε να ερχόσουν) – umgangssprachlich üblich oder eher nicht Standard? Ggf. Registerangabe ergänzen. -->
+
+Das widerspricht nicht der Regel aus Kapitel 22 („Wo steht die Zeit?“): Nach Müssen, Können und
+Wollen steht für Wirkliches die zeitlose [να]{lang="el"}-Form. Das Imperfekt und das
+Plusquamperfekt hier sind dieselben wie in [αν είχα]{lang="el"}: Sie zeigen nicht die Zeit,
+sondern das Unwirkliche. Der Aorist kann das nicht, deshalb bleibt \*[έπρεπε να
+έφυγε]{lang="el"} falsch.
+
+Mit [θα]{lang="el"} davor wird der Satz weicher, wie [θα πρέπει να]{lang="el"} in Kapitel 22:
+
+- [θα έπρεπε να]{lang="el"} – sollte, hätte sollen: [Θα έπρεπε να φύγεις.]{lang="el"} „Du
+  solltest gehen.“ [Θα έπρεπε να είχες έρθει.]{lang="el"} „Du hättest kommen sollen.“
+- [θα μπορούσα να]{lang="el"} – könnte, hätte können: [Θα μπορούσες να μου το πεις!]{lang="el"}
+  „Das hättest du mir sagen können!“ Als Trost: [Θα μπορούσε να είναι και
+  χειρότερα.]{lang="el"} „Es könnte schlimmer sein.“
+
+Ob [θα μπορούσες να μου το πεις]{lang="el"} ein Vorwurf („hättest können“) oder eine Bitte
+(„könntest du“) ist, entscheidet der Zusammenhang. Und wer nur bedauern will, ohne jemandem die
+Schuld zu geben: [Κρίμα!]{lang="el"} „Schade!“, [Κρίμα που δεν ήρθες.]{lang="el"} „Schade, dass
+du nicht gekommen bist“, mit dem normalen Aorist nach [που]{lang="el"} wie bei
+[λυπάμαι που]{lang="el"} (Kapitel 16).
+
+::: {.callout-important}
+## Merke
+
+- [έπρεπε να]{lang="el"} + Imperfekt oder Plusquamperfekt = „hätte … sollen“:
+  [Έπρεπε να ήσουν εκεί.]{lang="el"} [Έπρεπε να το είχες πει.]{lang="el"} Mit zeitloser Form
+  doppeldeutig; mit Aorist falsch.
+- [θα έπρεπε να]{lang="el"} „sollte, hätte sollen“, [θα μπορούσα να]{lang="el"} „könnte, hätte
+  können“.
+:::
+
+<!-- EXERCISE: Bedauern und Vorwürfe ausdrücken; kurze Situationen (Freund verpasst Konzert, Fähre verpasst, Behörde ohne Termin, Mauern in der Mittagshitze) mit passender Reaktion laut beantworten: έπρεπε να + Imperfekt/Plusquamperfekt, θα μπορούσες να, θα έπρεπε να, Κρίμα που; plus Fehler finden in drei Sätzen (\*έπρεπε να έφυγε, \*θα έπρεπε να θα …), Reagieren und Fehler finden, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Έπρεπε να ήσουν εκεί!]{lang="el"} | [ˈeprepe na ˈisun eˈci] | Du hättest dabei sein sollen! |
+| [Έπρεπε να το ήξερα.]{lang="el"} | [ˈeprepe na to ˈiksera] | Das hätte ich wissen müssen. |
+| [θα έπρεπε να]{lang="el"} | [θa ˈeprepe na] | sollte; hätte … sollen |
+| [θα μπορούσα να]{lang="el"} | [θa boˈrusa na] | ich könnte; ich hätte … können |
+| [Θα μπορούσε να είναι και χειρότερα.]{lang="el"} | [θa boˈruse na ˈine ce çiˈrotera] | Es könnte schlimmer sein. |
+| [Κρίμα (που …)!]{lang="el"} | [ˈkrima (pu)] | Schade (, dass …)! |
+:::
+
+## [Μακάρι]{lang="el"}: Wünsche {#sec-irrealis-makari}
+
+Das Wunschwort des Griechischen ist [μακάρι]{lang="el"}. Es arbeitet in drei Stufen, und das
+Spanische mit [*ojalá*]{lang="es"} ist ein fast perfekter Spiegel:
+
+| Wunsch | Griechisch | Spanisch |
+|---|---|---|
+| offen | [Μακάρι να έρθει.]{lang="el"} | [*Ojalá venga.*]{lang="es"} |
+| unerfüllbar, jetzt | [Μακάρι να ήξερα τουρκικά.]{lang="el"} | [*Ojalá supiera turco.*]{lang="es"} |
+| unerfüllbar, vorbei | [Μακάρι να είχα φέρει καπέλο.]{lang="el"} | [*Ojalá hubiera traído un sombrero.*]{lang="es"} |
+
+Im Deutschen: „Hoffentlich kommt er“, „Wenn ich doch Türkisch könnte“, „Hätte ich bloß einen Hut
+mitgenommen“.
+
+- **Offener Wunsch:** [μακάρι να]{lang="el"} + zeitlose Form, Foto oder Film wie sonst nach
+  [να]{lang="el"}: [Μακάρι να μη βρέξει αύριο.]{lang="el"} [Μακάρι να είσαι πάντα τόσο
+  τυχερός.]{lang="el"}
+- **Unerfüllbar jetzt:** + Imperfekt: [Μακάρι να είχα μια χρονομηχανή.]{lang="el"}
+- **Unerfüllbar vorbei:** + Plusquamperfekt, im Gespräch auch hier oft Imperfekt: [Μακάρι να
+  μην το είχα πει.]{lang="el"} „Hätte ich es bloß nicht gesagt.“
+
+Allein steht [Μακάρι!]{lang="el"} als Antwort: [— Θα βρούμε θέση στο πλοίο; — Μακάρι!]{lang="el"} Je nach
+Ton „Hoffentlich!“ oder „Schön wär’s!“. Und wie bei [Να ’σαι καλά]{lang="el"} (Kapitel 5)
+kann auch ein bloßes [να]{lang="el"} wünschen; [μακάρι]{lang="el"} macht den Wunsch nur
+ausdrücklich.
+
+Beide Wörter kommen übrigens aus der Religion: [μακάρι]{lang="el"} aus [μακάριος]{lang="el"}
+„selig“, dem Wort der Seligpreisungen ([Μακάριοι οι …]{lang="el"}), und [*ojalá*]{lang="es"}
+aus dem Arabischen, etwa „wenn Gott will“. Fromm klingt heute keins von beiden.
+
+::: {.callout-important}
+## Merke
+
+[μακάρι να]{lang="el"} + zeitlose Form: offener Wunsch. + Imperfekt: unerfüllbar jetzt.
++ Plusquamperfekt: unerfüllbar vorbei. Verneint mit [μη(ν)]{lang="el"}. Genau wie nach
+[έπρεπε να]{lang="el"}: Nach [να]{lang="el"} zeigen Imperfekt und Plusquamperfekt das
+Unwirkliche.
+:::
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Μακάρι!]{lang="el"} | [maˈkari] | Hoffentlich! Schön wär’s! |
+:::
+
+## [Ας]{lang="el"}: lass uns, soll er doch, hätte ich doch {#sec-irrealis-as}
+
+[ας]{lang="el"} ist ein Rest von [άσε]{lang="el"} „lass“ (Kapitel 8, [αφήνω]{lang="el"}), und es
+funktioniert wie das deutsche „lass uns“ und das englische [*let's*]{lang="en"}. Dahinter steht die
+zeitlose Form, ohne [να]{lang="el"}. Vor stimmhaftem Konsonanten klingt es [az]: [ας δούμε]{lang="el"}
+[az ˈðume], [ας μην]{lang="el"} [az min]. Es hat drei Gebrauchsweisen.
+
+**Vorschlag, mit „wir“ oder „ich“:** [Ας πάμε να φάμε κάτι.]{lang="el"} „Lass uns was essen
+gehen.“ [Ας δούμε.]{lang="el"} „Mal sehen.“ [Ας μην το συζητάμε.]{lang="el"} „Lass uns nicht
+darüber reden.“ Foto oder Film wählst du wie nach [να]{lang="el"}. Ein Satz mit
+[ας]{lang="el"} klingt eine Spur vorsichtiger als [Πάμε!]{lang="el"}. Dazu gehört auch
+[ας πούμε]{lang="el"} „sagen wir“ aus Kapitel 21.
+
+**Soll er doch, mit „er, sie, sie“:** Erlaubnis oder Achselzucken. [Ας έρθει, αν
+θέλει.]{lang="el"} „Soll er doch kommen, wenn er will.“ [Ας λένε ό,τι θέλουν.]{lang="el"}
+„Sollen sie doch reden.“ Als feste Wendung: [Ας είναι.]{lang="el"} „Sei’s drum.“
+
+**Mit Imperfekt oder Plusquamperfekt:** Bedauern, wie [μακάρι]{lang="el"}, nur schärfer und oft
+als Vorwurf. [Ας το ήξερα!]{lang="el"} „Hätte ich das bloß gewusst!“ [Ας πρόσεχες!]{lang="el"}
+„Hättest du halt aufgepasst!“ Wer das zu jemandem sagt, dem gerade das Handy ins Meer gefallen
+ist, hat vermutlich keine Freunde mehr.
+
+::: {.callout-warning}
+## Achtung
+
+\*[Ας να πάμε]{lang="el"}: [ας]{lang="el"} ersetzt das [να]{lang="el"}, es steht nicht daneben.
+:::
+
+<!-- EXERCISE: Wünsche mit μακάρι να und Aufforderungen/Bedauern mit ας; Teil A: für 6–8 Wünsche die richtige Form nach μακάρι να wählen (offen/unerfüllbar jetzt/unerfüllbar vorbei, Hilfe über span. ojalá venga/supiera/hubiera), Teil B: ας-Sätze den drei Gebrauchsweisen (Vorschlag, soll er doch, Bedauern) zuordnen, Teil C: drei Situationen laut mit ας oder μακάρι beantworten; Auswählen und Zuordnen, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Ας πάμε.]{lang="el"} | [as ˈpame] | Lass uns gehen. |
+| [Ας δούμε.]{lang="el"} | [az ˈðume] | Mal sehen. |
+| [Ας είναι.]{lang="el"} | [as ˈine] | Sei’s drum. Na gut. |
+| [Ας το ήξερα!]{lang="el"} | [as to ˈiksera] | Hätte ich das bloß gewusst! |
+:::
+
+## Hörspur: das Konzert, das einer verpasst hat {#sec-irrealis-hoerspur}
+
+Die ▶-Aufnahmen im Buch sind synthetische Stimmen; echte Menschen bringt der Hör-Auftrag am Ende
+des Abschnitts.
+
+Sonntagmorgen, ein Anruf. Eleni war am Samstagabend in einem kleinen Musiklokal in Thessaloniki,
+Nikos hätte mitkommen sollen. Wer etwas Großartiges verpasst hat, bekommt im Griechischen nicht
+Mitleid, sondern gern eine genaue Beschreibung dessen, was er verpasst hat.
+
+Vor dem Hören: Achte auf die Formen dieses Kapitels.
+
+- **[θα]{lang="el"} + Imperfekt** hat nach dem [θα]{lang="el"} ein Verb mit Vergangenheitsendung:
+  [θa erˈxomun], [θa ˈpsaxna]. Oft ist das Augment weg: [θaˈleɣa].
+- **Plusquamperfekt:** [ˈixa]/[ˈiçe] und dahinter eine Form auf [-i]: [ˈixa aˈfisi],
+  [ˈixa traˈviksi].
+- **[maˈkari na]** und **[as]** stehen am Satzanfang; danach entscheidet die Form, ob es ein
+  offener Wunsch ist oder Bedauern.
+
+**Worthilfen:** [η βάρδια]{lang="el"} die Schicht · [το αφεντικό]{lang="el"} der Chef ·
+[ο κιθαρίστας]{lang="el"} der Gitarrist · [τραβάω βίντεο]{lang="el"} ein Video machen ·
+[η μπαταρία]{lang="el"} der Akku.
+
+::: {lang="el" .listen}
+— Έλα, Νίκο! Πού ήσουν χθες; Έπρεπε να ήσουν εκεί!
+
+— Μη μου το λες… Πώς ήταν;
+
+— Απίστευτο. Έπαιζαν τρεις ώρες. Στο τέλος ανέβηκε στη σκηνή και ο παππούς του κιθαρίστα,
+ογδόντα πέντε χρονών, και έπαιξε μπουζούκι. Όλο το μαγαζί σηκώθηκε.
+
+— Όχι… Αν ήξερα ότι θα ερχόταν κι αυτός, θα είχα αφήσει τη βάρδια σε κάποιον άλλο.
+
+— Σου το είπα την Πέμπτη! Και μου είπες ότι θα ερχόσουν.
+
+— Ναι, θα ερχόμουν, αλλά με πήρε το αφεντικό στις εφτά. Τι να κάνω;
+
+— Θα μπορούσες να του πεις όχι.
+
+— Εύκολο να το λες. Αν έλεγα όχι, τώρα θα έψαχνα δουλειά. Τράβηξες τουλάχιστον κανένα βίντεο;
+
+— Μακάρι να είχα τραβήξει. Μου είχε τελειώσει η μπαταρία.
+
+— Κρίμα. Μακάρι να ξαναπαίξουν σύντομα.
+
+— Παίζουν πάλι τον άλλο μήνα, στην Αθήνα. Ας πάμε μαζί. Αλλά αυτή τη φορά, αν σε πάρει το
+αφεντικό, μην το σηκώσεις.
+
+— Ας με πάρει όσο θέλει. Εγώ θα είμαι στην πρώτη σειρά.
+:::
+
+<!-- EXERCISE: Hörverstehen der Hörspur mit ▶, ohne den Text aufzuklappen, höchstens zweimal; 6–7 Multiple-Choice-Fragen nur zum Inhalt (wer fehlte und warum, wer am Ende auf der Bühne spielte, ob Nikos Bescheid wusste, warum es kein Video gibt, wann und wo das nächste Konzert ist, was Nikos tun will, wenn der Chef anruft), keine Frage darf von Intonation abhängen; zweiter Durchgang mit Text: jedes θα + Imperfekt als Irrealis oder Futur der Vergangenheit bestimmen und jedes μακάρι/ας als offen oder Bedauern; Hörverstehen, Schwierigkeit 2 -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Hey, Nikos! Wo warst du gestern? Du hättest dabei sein sollen!
+
+— Erzähl mir das nicht … Wie war’s?
+
+— Unglaublich. Die haben drei Stunden gespielt. Am Ende ist auch der Großvater des Gitarristen
+auf die Bühne gestiegen, fünfundachtzig Jahre alt, und hat Bouzouki gespielt. Das ganze Lokal ist
+aufgestanden.
+
+— Nein … Wenn ich gewusst hätte, dass der auch kommt, hätte ich die Schicht jemand anderem
+überlassen.
+
+— Ich hab’s dir am Donnerstag gesagt! Und du hast gesagt, du würdest kommen.
+
+— Ja, ich wollte ja kommen, aber um sieben hat mich der Chef angerufen. Was soll ich machen?
+
+— Du hättest ihm nein sagen können.
+
+— Du hast leicht reden. Wenn ich nein gesagt hätte, würde ich jetzt einen Job suchen. Hast du
+wenigstens ein Video gemacht?
+
+— Hätte ich bloß eins gemacht. Mein Akku war leer.
+
+— Schade. Hoffentlich spielen sie bald wieder.
+
+— Nächsten Monat spielen sie wieder, in Athen. Lass uns zusammen hingehen. Aber diesmal, wenn der
+Chef anruft, geh nicht ran.
+
+— Soll er doch anrufen, so oft er will. Ich sitze in der ersten Reihe.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [Μη μου το λες.]{lang="el"} | Erzähl mir das nicht (, sonst ärgere ich mich noch mehr). |
+| [ο κιθαρίστας]{lang="el"} | der Gitarrist |
+| [ογδόντα πέντε χρονών]{lang="el"} | fünfundachtzig Jahre alt |
+| [με πήρε (τηλέφωνο)]{lang="el"} | hat mich angerufen |
+| [Εύκολο να το λες.]{lang="el"} | Du hast leicht reden. |
+| [κανένα βίντεο]{lang="el"} | (irgend)ein Video |
+| [η μπαταρία]{lang="el"} | der Akku, die Batterie |
+| [σηκώνω το τηλέφωνο]{lang="el"} | ans Telefon gehen |
+:::
+
+### Wünsche und Bedauern hören {#sec-irrealis-hoeren}
+
+Echte Irrealis-Sätze entstehen, wenn Leute nach Träumen gefragt werden: Was würdest du tun, wenn
+du im Lotto gewinnst? Wo würdest du gern leben? Solche Fragen stellt [Easy
+Greek](https://www.youtube.com/@EasyGreekVideos) immer wieder auf der Straße. Beim Hören hilft:
+Nach [αν]{lang="el"} kommt eine Vergangenheitsform, danach ein [θα]{lang="el"} mit einer
+Vergangenheitsform. Besonders häufig sind [θα ήθελα, θα πήγαινα, θα έκανα, θα αγόραζα]{lang="el"}.
+
+<!-- EXERCISE: Hör-Auftrag mit echter Quelle; auf Easy Greek (https://www.youtube.com/@EasyGreekVideos, keine konkrete Video-URL) ein Straßeninterview mit Traum- oder Was-wäre-wenn-Fragen suchen (engl. Suchwörter what would you do, if you could, wish), 3–4 Minuten erst ohne, dann mit griechischen Untertiteln; Striche für θα + Imperfekt und μακάρι zählen, zwei Sätze nachsprechen, eigene Antwort auf die Frage laut in zwei irrealen Sätzen; offene Lösung mit Auswertungshilfe, Hör-Auftrag, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η βάρδια]{lang="el"} | [i ˈvarðʝa] | die Schicht |
+| [το αφεντικό]{lang="el"} | [to afediˈko] | der Chef, die Chefin (umg.) |
+| [τραβάω, τράβηξα]{lang="el"} | [traˈvao], [ˈtraviksa] | ziehen; (Foto, Video) machen |
+| [σύντομα]{lang="el"} | [ˈsidoma] | bald |
+| [απίστευτος, -η, -ο]{lang="el"} | [aˈpisteftos] | unglaublich |
+:::
+
+## Das Wichtigste {#sec-irrealis-wichtigste}
+
+- **Real oder irreal:** [Αν έχω χρόνο, θα πάω]{lang="el"} (kann sein) gegen [Αν είχα χρόνο, θα
+  πήγαινα]{lang="el"} (ist nicht so). Kein [θα]{lang="el"} in der Bedingung, in keinem der
+  beiden.
+- **Irreal, jetzt oder künftig:** [αν]{lang="el"} + Imperfekt, [θα]{lang="el"} + Imperfekt. Das
+  Imperfekt zeigt den Abstand zur Wirklichkeit, nicht Film oder Vergangenheit.
+- **Irreal, vorbei:** [αν]{lang="el"} + Plusquamperfekt, [θα]{lang="el"} + Plusquamperfekt
+  ([θα είχα φύγει]{lang="el"}); im Gespräch oft auch das Imperfekt. Die Hälften dürfen
+  verschiedene Zeiten haben.
+- **[θα]{lang="el"} + Imperfekt = „würde“:** Futur der Vergangenheit, Irrealis, Höflichkeit.
+  [θα]{lang="el"} + Aorist ist eine Vermutung.
+- **Bedauern:** [έπρεπε να]{lang="el"} + Imperfekt/Plusquamperfekt „hätte sollen“
+  ([Έπρεπε να ήσουν εκεί!]{lang="el"}); [θα έπρεπε να, θα μπορούσα να]{lang="el"};
+  [Κρίμα που …]{lang="el"}
+- **Wünsche:** [μακάρι να]{lang="el"} + zeitlose Form (offen), + Imperfekt (unerfüllbar jetzt),
+  + Plusquamperfekt (unerfüllbar vorbei), wie [*ojalá*]{lang="es"}.
+- **[ας]{lang="el"}** + zeitlose Form: „lass uns“, „soll er doch“; + Imperfekt/Plusquamperfekt:
+  „hätte ich doch“, oft als Vorwurf.
+
+## Zum Lesen: Das Spiel mit dem „Wenn“ {#sec-irrealis-lesetext}
+
+Eine Kolumne, wie sie jedes Jahr Ende Mai in einer griechischen Zeitung stehen könnte. Sie ist
+ein **Gedankenspiel**: Was die Kolumne im Irrealis erzählt, ist nie geschehen, und was sie über
+die Folgen vermutet, weiß niemand. Die Tatsachen stehen im Aorist.
+
+::: {lang="el"}
+**Κι αν δεν είχε πέσει η Πόλη;**
+
+Τρίτη, 29 Μαΐου 1453. Μετά από σχεδόν δύο μήνες πολιορκίας, ο στρατός του Μωάμεθ Β΄ μπαίνει
+στην Κωνσταντινούπολη. Ο τελευταίος αυτοκράτορας, ο Κωνσταντίνος ΙΑ΄ Παλαιολόγος, σκοτώνεται
+στη μάχη. Αυτά είναι τα γεγονότα. Ας παίξουμε τώρα ένα παιχνίδι που οι ιστορικοί αγαπούν και
+φοβούνται ταυτόχρονα: το παιχνίδι του «αν».
+
+**Πρώτο «αν»: τα κανόνια.** Λίγο πριν από την πολιορκία, ένας τεχνίτης, ο Ουρβανός, πρότεινε
+στον Κωνσταντίνο να του φτιάξει κανόνια. Ο αυτοκράτορας δεν είχε χρήματα, και ο Ουρβανός πήγε
+στον σουλτάνο. Αν τον είχε πληρώσει ο Κωνσταντίνος, δε θα είχαν χτυπήσει τα τείχη οι μεγάλες
+μπομπάρδες; Ίσως. Ο σουλτάνος όμως είχε κι άλλους τεχνίτες και πολύ περισσότερα χρήματα.
+
+**Δεύτερο «αν»: ο στόλος.** Η Βενετία αποφάσισε να στείλει πλοία, αλλά αργά. Αν είχαν φτάσει
+τον Απρίλιο, η Πόλη θα είχε αντέξει ίσως μερικούς μήνες ακόμα. Και μετά; Γύρω της σχεδόν όλα
+ήταν ήδη οθωμανικά.
+
+**Τρίτο «αν»: μια μικρή πόρτα.** Ένας χρονογράφος της εποχής, ο Δούκας, γράφει ότι κάποιος
+άφησε ανοιχτή την Κερκόπορτα, μια μικρή πύλη στα τείχη. Αν ήταν κλειστή, θα άλλαζε κάτι;
+Πολλοί ιστορικοί αμφιβάλλουν ακόμα και για το αν έγινε έτσι.
+
+**Και αν η Πόλη δεν έπεφτε ποτέ;** Θα υπήρχε σήμερα στον Βόσπορο ένα μικρό ελληνικό κράτος,
+κάτι σαν μια Βενετία της Ανατολής; Θα είχαν φύγει οι λόγιοι με τα χειρόγραφά τους για την
+Ιταλία; Πολλοί είχαν φύγει ήδη πριν. Θα γινόταν η Αναγέννηση χωρίς αυτούς; Μάλλον ναι, απλώς
+λίγο αλλιώς.
+
+Η ιστορία δεν απαντάει σε ερωτήσεις με «αν». Μας θυμίζει όμως κάτι: τίποτα δεν ήταν γραμμένο
+από πριν. Μακάρι να μπορούσαμε να ρωτήσουμε αυτούς που ήταν εκεί. Ας διαβάσουμε τουλάχιστον όσα
+έγραψαν.
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Die Tatsachen der Kolumne sind vereinfacht. Die Belagerung begann Anfang April 1453; Konstantin XI.
+fiel beim letzten Sturm; die Berichte über seinen Tod widersprechen sich. Die Geschichte von Urban erzählt vor
+allem der Chronist Doukas; dass eine venezianische Hilfsflotte zu spät aufbrach, gilt als
+gesichert, wie viel sie hätte ändern können, nicht. Die Kerkoporta kennt man nur aus Doukas, und
+viele Historiker halten die Episode für ausgeschmückt. Dass erst 1453 die griechischen Gelehrten
+nach Italien und damit die Renaissance in Gang gebracht habe, ist eine beliebte Vereinfachung:
+Griechisch wurde in Florenz schon ab 1397 unterrichtet. Zum Nachlesen: Steven Runciman,
+*Die Eroberung von Konstantinopel 1453*.
+<!-- CHECK: Beginn der Belagerung (2. oder 6. April 1453) und Formulierung „Anfang April“; Urban bei Doukas (und Chalkokondyles), griechische Namensform Ουρβανός; Kerkoporta nur bei Doukas; venezianische Flotte zu spät aufgebrochen; Chrysoloras-Lehrstuhl in Florenz ab 1397; deutscher Titel und Existenz der Runciman-Übersetzung („Die Eroberung von Konstantinopel 1453“, C. H. Beck) -->
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η πολιορκία]{lang="el"} | die Belagerung |
+| [ο Μωάμεθ Β΄]{lang="el"} | Mehmed II. ([Β΄]{lang="el"} = der Zweite) |
+| [ο Κωνσταντίνος ΙΑ΄ Παλαιολόγος]{lang="el"} | Konstantin XI. Palaiologos |
+| [σκοτώνομαι, σκοτώθηκα]{lang="el"} | ums Leben kommen, fallen |
+| [η μάχη]{lang="el"} | die Schlacht, der Kampf |
+| [το γεγονός, τα γεγονότα]{lang="el"} | die Tatsache, das Ereignis |
+| [ο/η ιστορικός]{lang="el"} | der Historiker, die Historikerin |
+| [ταυτόχρονα]{lang="el"} | gleichzeitig |
+| [ο τεχνίτης]{lang="el"} | der Handwerker, Techniker |
+| [τα χρήματα]{lang="el"} | das Geld (neutral; umg. [τα λεφτά]{lang="el"}) |
+| [η μπομπάρδα]{lang="el"} | die Bombarde (Riesenkanone) |
+| [ο χρονογράφος]{lang="el"} | der Chronist |
+| [η Κερκόπορτα]{lang="el"} | die Kerkoporta, ein Nebentor der Landmauer |
+| [αμφιβάλλω για κάτι]{lang="el"} | an etwas zweifeln |
+| [το αν]{lang="el"} | das Ob ([για το αν έγινε]{lang="el"} daran, ob es geschah) |
+| [ο Βόσπορος]{lang="el"} | der Bosporus |
+| [το κράτος]{lang="el"} | der Staat |
+| [η Ανατολή]{lang="el"} | der Osten, der Orient |
+| [ο λόγιος]{lang="el"} | der Gelehrte |
+| [το χειρόγραφο]{lang="el"} | die Handschrift |
+| [η Αναγέννηση]{lang="el"} | die Renaissance |
+| [γραμμένο από πριν]{lang="el"} | vorherbestimmt, „vorher aufgeschrieben“ |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Und wenn die Stadt nicht gefallen wäre?**
+
+Dienstag, 29. Mai 1453. Nach fast zwei Monaten Belagerung dringt das Heer Mehmeds II. in
+Konstantinopel ein. Der letzte Kaiser, Konstantin XI. Palaiologos, fällt im Kampf. Das sind die
+Tatsachen. Spielen wir jetzt ein Spiel, das Historiker zugleich lieben und fürchten: das Spiel mit
+dem „Wenn“.
+
+**Erstes „Wenn“: die Kanonen.** Kurz vor der Belagerung bot ein Handwerker, Urban, Konstantin an,
+ihm Kanonen zu bauen. Der Kaiser hatte kein Geld, und Urban ging zum Sultan. Hätte Konstantin ihn
+bezahlt, hätten dann die großen Bombarden nicht auf die Mauern geschossen? Vielleicht. Der Sultan
+hatte aber noch andere Handwerker und sehr viel mehr Geld.
+
+**Zweites „Wenn“: die Flotte.** Venedig beschloss, Schiffe zu schicken, aber zu spät. Wären sie im
+April angekommen, hätte die Stadt vielleicht noch ein paar Monate durchgehalten. Und dann? Ringsum
+war schon fast alles osmanisch.
+
+**Drittes „Wenn“: eine kleine Tür.** Ein Chronist der Zeit, Doukas, schreibt, jemand habe die
+Kerkoporta offen gelassen, ein kleines Tor in den Mauern. Wäre es zu gewesen, hätte sich etwas
+geändert? Viele Historiker zweifeln sogar daran, ob es so geschah.
+
+**Und wenn die Stadt nie gefallen wäre?** Gäbe es heute am Bosporus einen kleinen griechischen
+Staat, so etwas wie ein Venedig des Ostens? Wären die Gelehrten mit ihren Handschriften nach
+Italien gegangen? Viele waren schon vorher gegangen. Hätte es die Renaissance ohne sie gegeben?
+Wahrscheinlich ja, nur etwas anders.
+
+Die Geschichte beantwortet keine Fragen mit „wenn“. Sie erinnert uns aber an etwas: Nichts stand
+von vornherein fest. Könnten wir doch die fragen, die dabei waren. Lesen wir wenigstens, was sie
+geschrieben haben.
+:::
+
+<!-- EXERCISE: Leseverstehen und Formen im Lesetext; Teil A richtig/falsch zu Tatsachen und Gedankenspiel (u.a. Urban ging zuerst zum Kaiser; die Flotte kam rechtzeitig; die Kerkoporta-Geschichte gilt als sicher), Teil B alle irrealen Formen suchen und bestimmen (Gegenwart/Vergangenheit, Imperfekt als Vergangenheit in „Αν ήταν κλειστή“), Teil C: eigene kontrafaktische Frage zur Geschichte (z.B. „Was wäre, wenn Schliemann Troja nicht gefunden hätte?“) laut in drei irrealen Sätzen beantworten, Musterlösung; Verstehen und Sprechen, Schwierigkeit 2 -->
