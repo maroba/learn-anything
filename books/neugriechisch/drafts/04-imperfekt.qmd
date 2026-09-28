@@ -1658,7 +1658,90 @@ kenne ich nicht. Wann genau und an welchen Stellen gedreht wurde, ist hier ausge
 
 <!-- CHECK: Le Grand Bleu: Dreharbeiten auf Amorgos 1987 (Jahr, Kindheitsszenen, Kloster Chozoviotissa/Bucht darunter); Kinostart 1988; griechischer Verleihtitel „Απέραντο γαλάζιο“ (mit oder ohne Artikel); Amorgos als „östlichste Kykladeninsel“; Fährverbindung Piräus–Amorgos in den 1980ern als Tagesfahrt (Abfahrt morgens, Ankunft abends) plausibel -->
 
-<!-- EXERCISE: Übung 4.8 „Was der Text wirklich sagt“ – Lernziel: Lesetext verstehen und Aspektwahl begründen; Art: Teil A richtig/falsch (7–8 Aussagen, Fallen bei βουτούσε/βούτηξα, περίμεναν, „Handys gab es“, wer den Film drehte), Teil B Formen jagen im Absatz „Οι μέρες ήταν…“ und „Ένα πρωί…“: Imperfekte, Aoriste und die Verben mit nur einer Vergangenheit sortieren und je das Präsens nennen, Teil C laut nacherzählen in fünf Sätzen aus der Sicht einer der Freundinnen (wir-Form), mit Musterlösung; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 4.8: Was der Text wirklich sagt
+
+**Teil A: richtig oder falsch?** Im Chat reicht „1r, 2f, …“.
+
+1. Die Erzählerin fuhr allein nach Amorgos.
+2. Im Zimmer gab es kein warmes Wasser.
+3. Sie rief jeden Tag ihre Eltern an.
+4. Der Junge sprang nur einmal von den Felsen.
+5. Die Freundinnen sahen zwei Stunden lang zu.
+6. Sie wussten sofort, welcher Film gedreht wurde.
+7. Letztes Jahr sprang die Erzählerin wieder ins Meer.
+
+**Teil B: Formen sortieren.** In den Absätzen [Οι μέρες ήταν…]{lang="el"} und
+[Ένα πρωί…]{lang="el"}: Welche Verben sind Imperfekt, welche Aorist, welche haben nur eine
+Vergangenheit? Warum hat der erste Absatz keinen einzigen Aorist?
+
+**Teil C: nacherzählen.** Erzähl die Geschichte laut in fünf Sätzen, als eine der Freundinnen,
+in der wir-Form.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Achte auf [μια φορά την εβδομάδα]{lang="el"}, [ξανά και ξανά]{lang="el"} und
+[δεν ξέραμε]{lang="el"}. Teil C: erst die Aoriste als Gerüst, dann Film dazwischen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil B: Im ersten Absatz stehen neun Imperfekte, im zweiten fünf Imperfekte und zwei Aoriste.
+[υπήρχαν]{lang="el"} zählt als Imperfekt. Die Präsensformen in der Frage der Mutter zählen nicht.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1f, 2r, 3f, 4f, 5r, 6f, 7r.**
+
+1. [με δύο φίλες]{lang="el"}
+2. [Ζεστό νερό δεν είχε.]{lang="el"}
+3. [Μια φορά την εβδομάδα]{lang="el"}: eine Regel, deshalb Imperfekt, aber eben nur wöchentlich.
+4. [βουτούσε ξανά και ξανά]{lang="el"}: Das Imperfekt allein sagt schon „immer wieder“.
+5. [Μείναμε εκεί δύο ώρες και κοιτάζαμε.]{lang="el"}
+6. [Δεν ξέραμε τι ταινία ήταν.]{lang="el"}
+7. [όταν βούτηξα στο νερό]{lang="el"}: ein Sprung, Foto. Wer 4 und 7 verwechselt, hat nur auf
+   das Verb geschaut, nicht auf die Form.
+
+**Teil B**
+
+Absatz [Οι μέρες ήταν…]{lang="el"}:
+
+- Imperfekt: [ξυπνούσαμε]{lang="el"} ← [ξυπνάω]{lang="el"}, [περπατούσαμε]{lang="el"} ←
+  [περπατάω]{lang="el"}, [κολυμπούσαμε]{lang="el"} ← [κολυμπάω]{lang="el"},
+  [τρώγαμε]{lang="el"} ← [τρώω]{lang="el"}, [ανεβαίναμε]{lang="el"} ← [ανεβαίνω]{lang="el"},
+  [πίναμε]{lang="el"} ← [πίνω]{lang="el"}, [υπήρχαν]{lang="el"} ← [υπάρχουν]{lang="el"},
+  [τηλεφωνούσα]{lang="el"} ← [τηλεφωνώ]{lang="el"}, [ρωτούσε]{lang="el"} ← [ρωτάω]{lang="el"}
+- Nur eine Vergangenheit: [ήταν]{lang="el"} (zweimal), [είχε]{lang="el"}
+
+Absatz [Ένα πρωί…]{lang="el"}:
+
+- Aorist: [είδαμε]{lang="el"} ← [βλέπω]{lang="el"}, [μείναμε]{lang="el"} ← [μένω]{lang="el"}
+- Imperfekt: [κολυμπούσαμε]{lang="el"} ← [κολυμπάω]{lang="el"}, [γύριζαν]{lang="el"} ←
+  [γυρίζω]{lang="el"}, [βουτούσε]{lang="el"} ← [βουτάω]{lang="el"}, [φώναζε]{lang="el"} ←
+  [φωνάζω]{lang="el"}, [κοιτάζαμε]{lang="el"} ← [κοιτάζω]{lang="el"}
+- Nur eine Vergangenheit: [ξέραμε, ήταν, ήταν]{lang="el"}
+
+Der erste Absatz erzählt nichts, was geschah, sondern wie jeder Tag war: lauter Film. Im zweiten
+tragen genau zwei Fotos die Handlung, [είδαμε]{lang="el"} und [μείναμε]{lang="el"}; alles andere
+ist, was dabei lief.
+
+**Teil C: eine Musterlösung**
+
+::: {lang="el"}
+Το καλοκαίρι του ’87 πήγαμε τρεις φίλες στην Αμοργό. Κάθε μέρα κολυμπούσαμε σε μια άδεια
+παραλία, και το βράδυ πίναμε ρακή στη Χώρα. Ένα πρωί, εκεί που κολυμπούσαμε, είδαμε κάμερες
+στα βράχια. Γύριζαν μια ταινία, και εμείς μείναμε εκεί δύο ώρες και κοιτάζαμε. Έναν χρόνο
+αργότερα η φίλη μας είδε την ταινία σε ένα θερινό σινεμά.
+:::
+
+Prüf bei deiner Fassung: Trägt jeder Aorist die Handlung einen Schritt weiter? Steht alles, was
+sich wiederholte oder im Hintergrund lief, im Imperfekt?
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
