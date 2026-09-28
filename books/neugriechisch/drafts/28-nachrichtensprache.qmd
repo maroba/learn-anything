@@ -263,9 +263,8 @@ wird [εντός του μήνα]{lang="el"} zu [μέσα στον μήνα]{lan
 [η αύξηση των τιμών]{lang="el"}. Zeitform und Aktiv/Passiv legt das Nomen nicht fest; jede
 passende Variante zählt.
 
-**C:** Schritt für Schritt von innen: 1. [μειώνεται η ανεργία]{lang="el"} → [παίρνουν
-μέτρα]{lang="el"} dafür → das wird erwartet, noch in diesem Monat. 2. [μειώνονται οι
-φόροι]{lang="el"} → ein Gesetz dafür wird verabschiedet → danach fallen die Preise.
+**C:** Von innen: Arbeitslosigkeit sinkt → dafür Maßnahmen ergreifen → das wird erwartet.
+Steuern sinken → Gesetz dafür verabschieden → danach fallen die Preise.
 
 ::: {lang="el" .no-audio}
 1. Μέσα στον μήνα θα πάρουν μέτρα για να μειωθεί η ανεργία.
@@ -314,19 +313,17 @@ Pronomen ist der Genitiv dagegen Alltag: [δίπλα μου]{lang="el"} (Kapitel
 | [υπέρ]{lang="el"} + Gen. | für, zugunsten | [για]{lang="el"} | 2 |
 | [ενώπιον]{lang="el"} + Gen. | vor (Gericht, Parlament) | [μπροστά σε]{lang="el"} | 3 |
 
-Bei [επειδή]{lang="el"} und [γιατί]{lang="el"} muss ein ganzer Satz folgen: [επειδή έχουν
-απεργία]{lang="el"}, nicht \*[επειδή απεργίας]{lang="el"}. Einiges aus der Tabelle ist auch
-außerhalb der Nachrichten überall: [Κλειστό λόγω ανακαίνισης]{lang="el"} „Wegen Renovierung
-geschlossen“ an der Ladentür, [Εκτός λειτουργίας]{lang="el"} am Aufzug, [Πάμε μέσω
-Κορίνθου.]{lang="el"} im Auto. Und in festen Wendungen ist auch [κατά]{lang="el"} + Gen. Alltag:
-[το εμβόλιο κατά της γρίπης]{lang="el"} beim Arzt.
+Nach [επειδή]{lang="el"} und [γιατί]{lang="el"} muss ein ganzer Satz folgen: [επειδή έχουν
+απεργία]{lang="el"}, nicht \*[επειδή απεργίας]{lang="el"}. Manches kennst du von Schildern:
+[Κλειστό λόγω ανακαίνισης]{lang="el"} „Wegen Renovierung geschlossen“, [Εκτός
+λειτουργίας]{lang="el"} am Aufzug. Und in festen Wendungen ist auch [κατά]{lang="el"} + Gen.
+Alltag: [το εμβόλιο κατά της γρίπης]{lang="el"}.
 
 **[κατά]{lang="el"} hat zwei Gesichter.** Mit Akkusativ misst es und ordnet ein:
-[αυξήθηκε κατά 20%]{lang="el"} „stieg um 20 %“, [κατά τη διάρκεια της συνάντησης]{lang="el"}
-„während des Treffens“, [κατά τον υπουργό]{lang="el"} „laut dem Minister“, und [κατά τη γνώμη
-μου]{lang="el"} kennst du schon. Mit Genitiv richtet es sich gegen etwas: [ψήφισαν κατά του
-νόμου]{lang="el"} „sie stimmten gegen das Gesetz“. Zusammen mit [υπέρ]{lang="el"} ergibt das [τα
-υπέρ και τα κατά]{lang="el"}, das Für und Wider.
+[αυξήθηκε κατά 20%]{lang="el"}, [κατά τη διάρκεια της συνάντησης]{lang="el"} „während des
+Treffens“, [κατά τον υπουργό]{lang="el"} „laut dem Minister“, wie [κατά τη γνώμη
+μου]{lang="el"}. Mit Genitiv richtet es sich gegen etwas: [ψήφισαν κατά του νόμου]{lang="el"}.
+Zusammen mit [υπέρ]{lang="el"}: [τα υπέρ και τα κατά]{lang="el"}, das Für und Wider.
 
 ### Versteinerte Dative {#sec-nachrichten-dative}
 
@@ -410,10 +407,7 @@ Gesprächsfassungen, jeweils eine von mehreren:
 8. Σύμφωνα με τον νόμο, τα μαγαζιά κλείνουν στις εννιά.
 :::
 
-[καταψηφίζω]{lang="el"} heißt „dagegen stimmen“, mit [κατα-]{lang="el"} wie in [κατά]{lang="el"}
-„gegen“.
-
-**Typischer Fehler:** Satz 2 und 3 vertauschen. Beide Male steht [κατά]{lang="el"} vor einer
+([καταψηφίζω]{lang="el"} „dagegen stimmen“.) **Typischer Fehler:** Satz 2 und 3 vertauschen. Beide Male steht [κατά]{lang="el"} vor einer
 Person oder Sache, aber nur der Genitiv macht daraus „gegen“. Wer [κατά τον δήμαρχο]{lang="el"}
 als „gegen den Bürgermeister“ liest, dreht die Meldung um.
 :::
@@ -467,23 +461,20 @@ Drei Erkennungszeichen, alle an der Endung und am Anfang:
 - **[θ]{lang="el"} statt [τ]{lang="el"}** wie im Dokumentationston: [-χθη, -φθη]{lang="el"}. Manche
   Formen haben gar kein [θ]{lang="el"}: [εστάλη, υπεγράφη]{lang="el"}.
 
-Ein Sonderfall ist [δι-εξ-ή-χθη]{lang="el"} [ðiekˈsixθi], von [άγω]{lang="grc"} „führen“: Beginnt
-der Stamm mit Vokal, wird das Augment zu [η]{lang="el"}, wie in [παρήγγειλα]{lang="el"}
-(Kapitel 27), und hier ist es sogar betont. Auffällig ist die Form trotzdem, denn die seltene
-Alltagsform [διεξάχθηκε]{lang="el"} hat gar kein Augment.
+Ein Sonderfall ist [δι-εξ-ή-χθη]{lang="el"} [ðiekˈsixθi], von [άγω]{lang="grc"} „führen“: Vor
+Vokal wird das Augment zu [η]{lang="el"} wie in [παρήγγειλα]{lang="el"} (Kapitel 27), und hier
+ist es sogar betont.
 
-Zum Erschließen: Augment weg, Endung weg, nach dem Verb suchen. Bei [συνελήφθη]{lang="el"}
-landest du über [συν-λήφ-]{lang="el"} bei [συλλαμβάνω]{lang="el"}, und das kennst du, wenn du
-weißt, dass [η σύλληψη]{lang="el"} die Festnahme ist. Nomen und Aorist teilen sich wieder den
-Stamm.
+Zum Erschließen: Augment weg, Endung weg, nach dem Verb suchen. [συν-ε-λήφ-θη]{lang="el"} führt
+zu [συλλαμβάνω]{lang="el"} und zu [η σύλληψη]{lang="el"}, der Festnahme: Nomen und Aorist teilen
+sich wieder den Stamm.
 
-Auch aktive Aoriste behalten in den Nachrichten ihr inneres Augment, wo es unbetont ist:
+Auch aktive Aoriste behalten in den Nachrichten ihr unbetontes inneres Augment:
 [απεβίωσε]{lang="el"} [apeˈviose] „verstarb“ (Stufe 3; Alltag [πέθανε]{lang="el"}),
-[απεφάσισε]{lang="el"} neben [αποφάσισε]{lang="el"}. Und zwei häufige Nachrichtenverben tragen es
-betont, ganz regelkonform: [ανέφερε]{lang="el"} „erklärte, erwähnte“ ([αναφέρω]{lang="el"}), das
-auch im Alltag lebt, und [προέβη σε]{lang="el"} „schritt zu“ ([προβαίνω]{lang="el"}), gebaut wie
-[συνέβη]{lang="el"}, Stufe 3: [Η αστυνομία προέβη σε τρεις συλλήψεις.]{lang="el"} „Die Polizei
-nahm drei Personen fest.“
+[απεφάσισε]{lang="el"} neben [αποφάσισε]{lang="el"}. Betont und damit regelkonform ist es in
+[ανέφερε]{lang="el"} „erklärte, erwähnte“, das auch im Alltag lebt, und in [προέβη σε]{lang="el"}
+„schritt zu“ (Stufe 3), gebaut wie [συνέβη]{lang="el"}: [Η αστυνομία προέβη σε τρεις
+συλλήψεις.]{lang="el"} „Die Polizei nahm drei Personen fest.“
 
 ::: {.callout-warning}
 ## Achtung
@@ -587,12 +578,12 @@ gelehrten Partizipien, die in Nachrichten ständig vorkommen.
 **[-όμενος, -ούμενος]{lang="el"}** gehört zu Verben auf [-ομαι]{lang="el"} und
 [-ούμαι]{lang="el"}: [εργάζομαι → ο εργαζόμενος]{lang="el"} „der Arbeitende“, der Arbeitnehmer;
 [κατηγορούμαι → ο κατηγορούμενος]{lang="el"} „der Beschuldigte“, vor Gericht der Angeklagte.
-Viele sind längst normale Nomen und Adjektive, Stufe 1. Neue bildet die Nachrichtensprache nach
-Bedarf: [τα εισαγόμενα προϊόντα]{lang="el"} „die importierten Waren“. Fürs Ohr: Die Betonung
-liegt meist **vor** dem [-μενος]{lang="el"}, [erɣaˈzomeni], anders als beim Alltagspartizip aus
-Kapitel 19, das immer auf [-μέ-]{lang="el"} betont ist, [kurazˈmeni]. Vorsicht im Genitiv
-Plural: Dort rückt der Akzent in Nachrichten oft nach hinten, [των εργαζομένων]{lang="el"}
-[erɣazoˈmenon]. Daneben hörst du auch [των εισαγόμενων]{lang="el"} mit stehendem Akzent.
+Viele sind längst normale Nomen, Stufe 1; neue bildet die Nachrichtensprache nach Bedarf:
+[τα εισαγόμενα προϊόντα]{lang="el"} „die importierten Waren“. Fürs Ohr: Die Betonung liegt meist
+**vor** dem [-μενος]{lang="el"}, [erɣaˈzomeni], anders als beim Alltagspartizip aus Kapitel 19,
+das immer auf [-μέ-]{lang="el"} betont ist, [kurazˈmeni]. Nur im Genitiv Plural rückt sie in
+Nachrichten oft nach hinten, [των εργαζομένων]{lang="el"} [erɣazoˈmenon]; daneben gibt es
+[των εισαγόμενων]{lang="el"} mit stehendem Akzent.
 
 **[-ων, -ουσα, -ον]{lang="el"}** ist das aktive Gegenstück: [ο ισχύων νόμος, η ισχύουσα
 νομοθεσία, το ισχύον σύστημα]{lang="el"} „das geltende Gesetz, System …“, zu [ισχύει]{lang="el"}
@@ -797,11 +788,9 @@ unbestimmt, da gibt es ohnehin kein Echo.
 
 ## Hörspur: eine Nachrichtensendung {#sec-nachrichten-hoerspur}
 
-Die ▶-Aufnahmen im Buch sind synthetische Stimmen, deutlich und langsamer als ein echter
-Nachrichtensprecher. Die echte Geschwindigkeit bringt der Hör-Auftrag am Ende des Abschnitts.
-
-Ein Abendnachrichten-Block ([το δελτίο ειδήσεων]{lang="el"}) folgt fast immer demselben Bauplan,
-und wer ihn kennt, weiß in jeder Sekunde, wo er ist:
+Die ▶-Aufnahmen im Buch sind synthetische Stimmen, langsamer als echte Nachrichtensprecher; das
+echte Tempo bringt der Hör-Auftrag am Ende. Eine Nachrichtensendung ([το δελτίο
+ειδήσεων]{lang="el"}) folgt fast immer demselben Bauplan:
 
 1. **Begrüßung und Schlagzeilen** ([οι τίτλοι]{lang="el"}), kurz und im Nominalstil.
 2. **Hauptmeldung** mit Übergabe an einen Korrespondenten: [Περισσότερα από τον συνάδελφό
@@ -949,26 +938,24 @@ Abend.
 
 ### Echte Nachrichten hören {#sec-nachrichten-hoeren}
 
-Beim echten Sprechtempo helfen drei Klangzeichen, die Nachrichtensprache zu erkennen, bevor du
-ein Wort verstanden hast:
+Im echten Tempo verraten drei Klangzeichen die Nachrichtensprache, bevor du ein Wort verstanden
+hast:
 
-- **Aoriste ohne [-ce]:** [eˈlifθi, sineˈlifθi, ðiekˈsixθi] enden auf [-i], wo das Gespräch
-  [-ice] hätte ([ˈlifθice]).
-- **[tu, tis, ton] oder [-u, -as, -is] direkt nach [ˈloɣo, eˈdos, ˈmeso]:** der Genitiv nach
-  gelehrten Präpositionen ([ˈloɣo ksiraˈsias]).
-- **[-ˈomeni, -odes]:** gelehrte Partizipien, oft mit Artikel davor: [i erɣaˈzomeni],
-  [i simeˈtexodes]; im Genitiv Plural oft [-oˈmenon].
+- **Aoriste auf [-i]:** [eˈlifθi, sineˈlifθi], wo das Gespräch [-ice] hätte ([ˈlifθice]).
+- **Genitiv direkt nach [ˈloɣo, eˈdos, ˈmeso]:** [ˈloɣo ksiraˈsias].
+- **[-ˈomeni, -odes]:** gelehrte Partizipien, [i erɣaˈzomeni], [i simeˈtexodes]; im Genitiv
+  Plural oft [-oˈmenon].
 
-Zwei frei zugängliche Quellen passen zu diesem Kapitel:
+Zwei frei zugängliche Quellen:
 
-- **ERT**, der öffentliche Rundfunk Griechenlands: Auf [ERTflix](https://www.ertflix.gr) laufen
-  Nachrichtensendungen (kostenlose Anmeldung, siehe Kapitel 14). Ob gerade eine davon griechische
-  Untertitel hat, ist nicht sicher; Titel mit Untertiteln sammelt die Rubrik
-  [«Προσβασιμότητα για Όλους»]{lang="el"} mit dem Kennzeichen CC (Kapitel 21).
+- **ERT**, der öffentliche Rundfunk: Auf [ERTflix](https://www.ertflix.gr) laufen
+  Nachrichtensendungen (kostenlose Anmeldung, Kapitel 14). Ob eine davon griechische Untertitel
+  hat, ist nicht sicher; Titel mit Untertiteln sammelt die Rubrik [«Προσβασιμότητα για
+  Όλους»]{lang="el"} mit dem Kennzeichen CC (Kapitel 21).
 - **SBS Ελληνικά**, das griechische Programm des australischen Senders SBS: Auf
   [sbs.com.au/language/greek/el](https://www.sbs.com.au/language/greek/el) gibt es täglich
-  ein kurzes [Δελτίο Ειδήσεων]{lang="el"} als Audio, ohne Bild und ohne Untertitel, über
-  Australien und Griechenland. Ohne Bild ist es schwerer als Fernsehnachrichten.
+  ein kurzes [Δελτίο Ειδήσεων]{lang="el"} als Audio, ohne Bild und Untertitel, über Australien
+  und Griechenland.
 
 ::: {.callout-note .exercise}
 ## Übung 28.7: Hör-Auftrag
@@ -979,7 +966,7 @@ oder die ersten fünf Minuten einer Nachrichtensendung auf [ERTflix](https://www
 1. **Ohne Untertitel, nur der Bauplan:** Wie viele Meldungen sind es? Wo wechselt das Thema,
    und woran hast du es gehört? Gibt es einen O-Ton?
 2. **Beim zweiten Hören Striche machen**, an den Fingern oder auf Papier: einen für jedes Nomen
-   auf [-ση, -ξη, -ψη]{lang="el"}, einen für jedes [λόγω, κατά, σύμφωnα με]{lang="el"}.
+   auf [-ση, -ξη, -ψη]{lang="el"}, einen für jedes [λόγω, κατά, σύμφωνα με]{lang="el"}.
 3. **Prüfen:** Bei ERTflix mit griechischen Untertiteln, falls vorhanden. Sonst ein drittes Mal
    hören und zu jeder Meldung ein Stichwort nennen, Ort oder Thema.
 :::
@@ -1004,10 +991,9 @@ Genitiv danach.
 
 Keine feste Lösung. **Gutes Ergebnis:** Die Zahl der Meldungen stimmt auf eine genau, und du
 kannst für mehr als die Hälfte ein Stichwort nennen. Die Striche müssen nicht stimmen; wichtig
-ist, ob dir auffällt, wo die [-ση]{lang="el"}-Nomen dicht stehen: vermutlich in den Schlagzeilen
-und im Sprechertext, seltener im O-Ton. Hast du kaum etwas verstanden, mach Schritt 1 und 2
-zuerst mit der Hörspur oben und prüf am Text; dann zurück zur echten Sendung, oder nimm eine
-Sendung mit CC aus der Rubrik von Kapitel 21.
+ist, wo die [-ση]{lang="el"}-Nomen dicht stehen: vermutlich in den Schlagzeilen und im
+Sprechertext, seltener im O-Ton. Hast du kaum etwas verstanden, übe Schritt 1 und 2 erst an der
+Hörspur oben mit ihrem Text oder an einer Sendung mit CC, dann zurück zur echten Sendung.
 
 **Zweifelsfall:** Ein Nomen zählt, wenn du ein Verb dahinter erkennst ([η απόφαση –
 αποφασίζω]{lang="el"}); [η φύση]{lang="el"} „die Natur“ zählt nicht.

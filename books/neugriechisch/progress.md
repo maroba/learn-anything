@@ -34,8 +34,9 @@
 | 28 Nachrichtensprache | Überarbeitung | Welle 13; beide Reviews da |
 | 29 Argumentieren | fertig | Welle 11; wartet auf 26–28 |
 | 30 Redewendungen | fertig | Welle 12; wartet auf 27–29 |
-| 31 Vom Amt bis zur Taverne: Register und Höflichkeit | im Review | Welle 14; Übungen fertig |
+| 31 Vom Amt bis zur Taverne: Register und Höflichkeit | Überarbeitung | Welle 14; beide Reviews da |
 | 32 Kreta und Zypern hören | fertig | Welle 12; wartet auf 27–31 |
+| 33 Filme verstehen | Entwurf | Welle 15 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 
