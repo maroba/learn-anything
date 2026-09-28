@@ -1032,7 +1032,81 @@ Wege lernst du beim Gehen kennen, und Griechenland beim Essen am Ende des Tages.
 
 <!-- CHECK: Samaria: Einstieg Xyloskalo, Öffnung morgens um 7 Uhr, 16 km bis Agia Roumeli (Schlucht ca. 13 km), Portes 3–4 m breit, Gehzeit bis zu den Portes 3–4 h, Nationalpark 1962 und Aussiedlung des Dorfes Samaria, Kirche der Osia Maria (1379). Vikos: Zagori 46 Dörfer, UNESCO-Welterbe „Zagori Cultural Landscape“ 2023 (wörtlich „γράφτηκε στον κατάλογο“ passend?), Guinness-Eintrag. -->
 
-<!-- EXERCISE: Leseverstehen und Formen im Lesetext, Art: Teil A richtig/falsch (7 Aussagen: Samaria fast nur bergauf?; Dorf Samaria heute bewohnt?; Portes sehr eng?; Agia Roumeli mit dem Auto erreichbar?; Vikos ruhiger als Samaria?; Zagori-Dörfer aus Holz?; Voidomatis im August warm?); Teil B alle Partizipien (φορτωμένα, κρυμμένη, κουρασμένοι, ευτυχισμένοι, χτισμένα, παγωμένο) und Gerundien (περπατώντας, βγαίνοντας, τρέχοντας, τρώγοντας) finden, bei Partizipien Bezugswort und Endung, bei Gerundien das Präsens nennen; Falle: υψώνονται/βρίσκονται sind Mediopassiv, kein Partizip; Teil C drei Sätze laut umformen (Gerundium → Satz mit ενώ bzw. όταν), Schwierigkeit 3 -->
+::: {.callout-note .exercise}
+## Übung 19.7: Zwei Schluchten, genau gelesen
+
+**Teil A.** Richtig oder falsch?
+
+1. Der Weg durch die Samaria-Schlucht geht fast nur bergauf.
+2. Im Dorf Samaria wohnen heute noch Menschen.
+3. An den Portes ist die Schlucht nur drei bis vier Meter breit.
+4. Nach Agia Roumeli kommt man auch mit dem Auto.
+5. Der Vikos ist ruhiger als die Samaria-Schlucht.
+6. Die Dörfer im Zagori sind aus Holz gebaut.
+7. Der Voidomatis ist im August angenehm warm.
+
+**Teil B.** Such im Text alle Partizipien und alle Gerundien. Nenn bei jedem Partizip das Wort,
+nach dem es sich richtet, bei jedem Gerundium das Präsens.
+
+**Teil C.** Sag die drei Sätze laut ohne Gerundium, mit [όταν]{lang="el"}, [αφού]{lang="el"} oder
+zwei Hauptsätzen:
+
+1. [Βγαίνοντας από το φαράγγι, οι περισσότεροι φτάνουν στην Αγία Ρουμέλη.]{lang="el"}
+2. [Περπατώντας τρεις με τέσσερις ώρες, φτάνεις στις Πόρτες.]{lang="el"}
+3. [Τα μονοπάτια τα μαθαίνεις περπατώντας.]{lang="el"}
+
+Im Chat für Teil A: „1r, 2f, …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil B: sechs Partizipien, fünf Gerundien (eins kommt zweimal vor). Suche nach betontem
+[-μέν-]{lang="el"} und nach [-οντας/-ώντας]{lang="el"} ohne Artikel.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Drei Fallen: zwei Verben auf [-ονται]{lang="el"} und ein Nomen, in dem [-οντ-]{lang="el"}
+steckt. In Teil C, Satz 2 passt [ενώ]{lang="el"} nicht: Man kommt erst nach den Stunden an.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A:** 1 falsch ([σχεδόν όλα κατηφόρα]{lang="el"}), 2 falsch ([οι κάτοικοι έφυγαν]{lang="el"},
+[τα σπίτια είναι άδεια]{lang="el"}), 3 richtig, 4 falsch ([δεν υπάρχει δρόμος]{lang="el"}),
+5 richtig, 6 falsch ([χτισμένα από πέτρα]{lang="el"}), 7 falsch ([παγωμένο ακόμα και τον
+Αύγουστο]{lang="el"}).
+
+**Teil B: Partizipien**
+
+- [σακίδια φορτωμένα]{lang="el"}: sächlich Plural
+- [εκκλησία … κρυμμένη]{lang="el"}: weiblich Singular
+- [οι περισσότεροι … κουρασμένοι αλλά ευτυχισμένοι]{lang="el"}: männlich Plural, zwei Partizipien
+- [χωριά χτισμένα]{lang="el"}: sächlich Plural
+- [νερό … παγωμένο]{lang="el"}: sächlich Singular; [το ποτάμι]{lang="el"} ist auch sächlich,
+  aber inhaltlich ist das Wasser eiskalt.
+
+**Gerundien:** [περπατώντας]{lang="el"} (zweimal) von [περπατάω]{lang="el"},
+[βγαίνοντας]{lang="el"} von [βγαίνω]{lang="el"}, [τρέχοντας]{lang="el"} von [τρέχω]{lang="el"},
+[τρώγοντας]{lang="el"} von [τρώω]{lang="el"}.
+
+**Keine Partizipien oder Gerundien:** [υψώνονται, βρίσκονται]{lang="el"} sind konjugierte
+Verben im Mediopassiv, sie tragen eine Personalendung. [εκατοντάδες]{lang="el"} ist ein Nomen.
+[γράφτηκε]{lang="el"} ist das Ereignis, der Zustand wäre [είναι γραμμένο]{lang="el"}.
+
+**Teil C**
+
+1. [Όταν βγαίνουν από το φαράγγι, οι περισσότεροι φτάνουν στην Αγία Ρουμέλη.]{lang="el"} Das
+   Verb im Nebensatz braucht jetzt eine Person: [βγαίνουν]{lang="el"}, wie das Hauptverb.
+2. [Αφού περπατήσεις τρεις με τέσσερις ώρες, φτάνεις στις Πόρτες.]{lang="el"} oder
+   [Περπατάς τρεις με τέσσερις ώρες και φτάνεις στις Πόρτες.]{lang="el"} Mit
+   [ενώ]{lang="el"} käme man während des Gehens an.
+3. [Τα μονοπάτια τα μαθαίνεις όταν τα περπατάς.]{lang="el"} Hier heißt das Gerundium „dadurch,
+   dass“; [όταν]{lang="el"} trifft es nur ungefähr, das Gerundium ist kürzer und genauer.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
