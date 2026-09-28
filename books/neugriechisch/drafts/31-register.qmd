@@ -171,9 +171,9 @@ unauffällig sind. Jenseits davon liegt **salopp**; das verstehst du, benutzt es
 
 Hinter den drei Registern stecken zwei Regler, die du schon kennst. Der eine regelt die **Nähe**:
 [μιλάω στον ενικό]{lang="el"} oder [στον πληθυντικό]{lang="el"}, Vorname oder [κύριε]{lang="el"}
-(Kapitel 7). Der andere
-regelt die **Wortwahl**: Alltagswort oder gelehrtes Wort, [λέω]{lang="el"} oder
-[ενημερώνω]{lang="el"}, [αλλιώς]{lang="el"} oder [διαφορετικά]{lang="el"} (Kapitel 28 und 29).
+(Kapitel 7). Der andere regelt die **Wortwahl**: Alltagswort oder gelehrtes Wort (Kapitel 28 und
+29), [λέω]{lang="el"} oder [ενημερώνω]{lang="el"} „mitteilen“, [αλλιώς]{lang="el"} oder
+[διαφορετικά]{lang="el"} „sonst“.
 Meist stehen beide Regler gleich, aber nicht immer. Der Vermieter am Telefon siezt und benutzt
 Alltagswörter: neutral. Eine Nachrichtensprecherin benutzt gelehrte Wörter, spricht aber
 niemanden an. Und wer unter Freunden [ωστόσο]{lang="el"} und [επομένως]{lang="el"} sagt, klingt
@@ -184,8 +184,8 @@ Woran du beim Lesen und Hören erkennst, wo du bist:
 - **Anrede und Verbform:** [σας, -ετε, κύριε]{lang="el"} oder [σου, -εις, ρε]{lang="el"}.
 - **Diskursmarker:** [Άσ’ τα, μωρέ, αμέ]{lang="el"} sind vertraut; [Κοιτάξτε, Μάλιστα]{lang="el"}
   (Kapitel 21 und 7) neutral bis formell.
-- **Gelehrte Wörter und Formen:** Genitiv nach [εντός, ενώπιον]{lang="el"}, Nominalstil, Wörter wie
-  [εκ των προτέρων]{lang="el"} (Kapitel 28).
+- **Gelehrte Wörter und Formen:** Genitiv nach [εντός, ενώπιον]{lang="el"}, Nominalstil
+  (Kapitel 28), Wörter wie [εκ των προτέρων]{lang="el"} „im Voraus“.
 - **Verkleinerungen:** [ένα κρασάκι, ένα λεπτάκι]{lang="el"} sind gesellig (Kapitel 26); in einem
   Brief ans Amt fehlen sie.
 - **Apostroph in der Schrift:** [τα ’χω, θα ’ρθω]{lang="el"} zeigt gesprochene Sprache.
@@ -203,7 +203,7 @@ förmlich zu Bekannten heißt Abstand, vertraut zu Fremden heißt Nähe, die nic
 ## Vorsicht
 
 Die Register sind **Tendenzen**, keine Regeln, und die Grenzen verschieben sich: In vielen Büros und
-Online-Läden duzt man schneller als früher, und E-Mails werden insgesamt lockerer. Alter, Region
+Online-Shops duzt man schneller als früher, und E-Mails werden insgesamt lockerer. Alter, Region
 und Branche spielen mit. Im Zweifel hilft der Grundsatz aus dem Lesetext am Ende: Folge dem
 anderen.
 :::
