@@ -182,7 +182,7 @@ Drei Wendungen machen das Einräumen komplett, die ersten beiden gehören in die
 - **[ναι μεν …, αλλά …]{lang="el"}** „zwar …, aber …“: Man gibt der Gegenseite einen Punkt und
   nimmt ihn im selben Atemzug zurück. Das Muster aus dem Tipp in Kapitel 20 als feste Formel.
   [Ναι μεν η Αθήνα έχει νέο μουσείο, αλλά ο νόμος του 1963 δεν αλλάζει εύκολα.]{lang="el"}
-  [Ναι μεν το Βρετανικό Μουσείο τα φύλαξε, αλλά δεν τα έφτιαξε.]{lang="el"} Das [μεν]{lang="el"}
+  Das [μεν]{lang="el"}
   ist ein Überbleibsel des altgriechischen [μεν … δε]{lang="grc"}, mit dem Thukydides (Kapitel 20)
   ganze Seiten baute.
 - **[ακόμα κι αν]{lang="el"}** „selbst wenn“ leitet einen Nebensatz ein und nimmt die Formen von
@@ -591,8 +591,24 @@ anerkannt hat“.
 ::: {.callout-note .exercise}
 ## Übung 29.5: Deine Stellungnahme
 
-Sollen Museen Kunstwerke an die Länder zurückgeben, aus denen sie stammen? Halte laut sechs bis
-acht Sätze. Welche Seite du wählst, ist egal; gut ist die Rede, wenn sie das Gerüst trägt:
+**Teil A: Ordnen.** Ein Gerüst-Absatz zur Kurzzeitvermietung in Athen, die Sätze vertauscht. Bring
+sie allein an den Verbindungswörtern und am Inhalt in die richtige Reihenfolge. Im Chat: „3, 1, 5, …“.
+
+::: {lang="el" .no-audio}
+1. Άλλωστε, μια γειτονιά χωρίς μόνιμους κατοίκους δεν είναι πια γειτονιά.
+2. Το ζήτημα είναι αν πρέπει να μπουν όρια στα Airbnb στο κέντρο της Αθήνας.
+3. Συνοψίζοντας, το ζήτημα δεν είναι μόνο οικονομικό αλλά και κοινωνικό· επομένως χρειάζονται κανόνες, όχι απαγορεύσεις.
+4. Από την άλλη πλευρά, τα ενοίκια ανεβαίνουν και πολλοί νέοι δε βρίσκουν σπίτι.
+5. Επιπλέον, οι τουρίστες φέρνουν δουλειά στις ταβέρνες και στα μαγαζιά της γειτονιάς.
+6. Από τη μία πλευρά, πολλές οικογένειες ζουν από αυτά τα έσοδα.
+:::
+
+([το όριο]{lang="el"} die Grenze, [το ενοίκιο]{lang="el"} die Miete, [τα έσοδα]{lang="el"} die
+Einnahmen, [μόνιμος κάτοικος]{lang="el"} fester Bewohner, [η απαγόρευση]{lang="el"} das Verbot)
+
+**Teil B: Die Rede.** Sollen Museen Kunstwerke an die Länder zurückgeben, aus denen sie stammen?
+Halte laut sechs bis acht Sätze. Welche Seite du wählst, ist egal; gut ist die Rede, wenn sie das
+Gerüst trägt:
 
 1. Frage: [Το ζήτημα είναι αν …]{lang="el"}
 2. beide Seiten: [από τη μία … από την άλλη …]{lang="el"}
@@ -601,55 +617,87 @@ acht Sätze. Welche Seite du wählst, ist egal; gut ist die Rede, wenn sie das G
 5. ein Argument im Irrealis
 6. Schluss: [Συνοψίζοντας]{lang="el"} oder [επομένως]{lang="el"}
 
-Danach dieselbe Rede für die andere Seite.
+Danach dieselbe Rede für die andere Seite. Wer ein zweites Thema will: Kurzzeitvermietung in Athen
+oder eine Obergrenze für Besucher auf Santorin.
+
+**Teil C: Kontern.** Antworte laut, jeweils in ein, zwei Sätzen.
+
+::: {lang="el" .no-audio}
+1. — Ο Έλγιν τα αγόρασε νόμιμα. Άρα είναι δικά τους, τέλος.
+2. — Αν αλλάξει ο νόμος, το Βρετανικό Μουσείο θα τα δώσει αμέσως.
+3. — Στη Σαντορίνη δε χρειάζεται κανένα όριο. Όσο περισσότεροι τουρίστες, τόσο καλύτερα για όλους, και όποιος λέει κάτι άλλο …
+:::
+
+Zu 1 mit [ναι μεν …, αλλά …]{lang="el"}, zu 2 mit [ακόμα κι αν …]{lang="el"}. Bei 3 unterbrichst
+du höflich, und wenn dir der andere ins Wort fällt, behältst du das Wort.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Sammle auf Deutsch zwei Gründe pro Seite: Wo versteht man ein Werk am besten? Wer hat es gekauft,
-wer bewahrt es? Was wäre ohne die Museen passiert?
+Teil A: Such zuerst Anfang und Schluss ([Το ζήτημα]{lang="el"}, [Συνοψίζοντας]{lang="el"}), dann die
+beiden Seiten; jedes Stapelwort gehört hinter die Seite, deren Grund es verstärkt. Teil B: Sammle
+auf Deutsch zwei Gründe pro Seite: Wo versteht man ein Werk am besten? Wer hat es gekauft, wer
+bewahrt es? Was wäre ohne die Museen passiert?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Einstieg: [Το ζήτημα είναι αν τα μουσεία πρέπει να επιστρέφουν έργα τέχνης στις χώρες
-τους.]{lang="el"} Irrealis: [Αν δεν τα είχαν πάρει, θα είχαν …]{lang="el"}, beide Hälften mit
-[είχα]{lang="el"}.
+Teil B, Einstieg: [Το ζήτημα είναι αν τα μουσεία πρέπει να επιστρέφουν έργα τέχνης στις χώρες από
+τις οποίες προέρχονται.]{lang="el"} Irrealis: [Αν δεν τα είχαν πάρει, θα είχαν …]{lang="el"}, die
+Folge mit [θα]{lang="el"} + Vergangenheitsform. Teil C: nach [ακόμα κι αν]{lang="el"} die Formen wie
+nach [αν]{lang="el"}, also im Standard kein [θα]{lang="el"}; bei 3 [Να σας διακόψω]{lang="el"} und
+[Αφήστε με να τελειώσω]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-Drei Muster nach dem Einstieg aus Hinweis 2.
+**Teil A: 2, 6, 5, 4, 1, 3.** [Επιπλέον]{lang="el"} (5) stapelt auf die erste Seite, denn Arbeit
+für die Tavernen spricht wie die Einnahmen der Familien für die Vermietung; [Άλλωστε]{lang="el"} (1)
+stützt die zweite Seite. **Typischer Fehler:** 5 hinter 4 stellen, weil [Επιπλέον]{lang="el"} nur
+„noch ein Grund“ heißt; welche Seite, sagt der Inhalt.
 
-**Für die Rückgabe**
+**Teil B.** Drei Muster nach dem Einstieg aus Hinweis 2.
+
+*Für die Rückgabe*
 
 ::: {lang="el"}
-Από τη μία πλευρά, τα μεγάλα μουσεία τα φύλαξαν καλά. Από την άλλη πλευρά, πρώτον, ένα έργο το καταλαβαίνεις καλύτερα στον τόπο όπου φτιάχτηκε· δεύτερον, πολλά έφυγαν χωρίς να ρωτήσει κανείς τους ανθρώπους του τόπου. Ναι μεν πολλά αγοράστηκαν νόμιμα, αλλά με τους νόμους ξένων κυβερνήσεων. Αν δεν τα είχαν πάρει, θα είχαν μείνει ολόκληρα πολλά μνημεία. Επομένως, κατά τη γνώμη μου, η επιστροφή πρέπει να είναι ο κανόνας.
+Από τη μία πλευρά, τα μεγάλα μουσεία τα φύλαξαν καλά. Από την άλλη πλευρά, πρώτον, ένα έργο το καταλαβαίνεις καλύτερα στον τόπο όπου φτιάχτηκε, ιδίως όταν ανήκει σε μνημείο που υπάρχει ακόμα· δεύτερον, πολλά έφυγαν χωρίς να ρωτήσει κανείς τους ανθρώπους του τόπου. Ναι μεν πολλά αγοράστηκαν νόμιμα, αλλά με νόμους που έγραψαν ξένοι κατακτητές. Αν δεν τα είχαν πάρει, πολλά μνημεία θα ήταν σήμερα ολόκληρα. Επομένως, κατά τη γνώμη μου, η επιστροφή πρέπει να είναι ο κανόνας.
 :::
 
-**Gegen die Rückgabe**
+*Gegen die Rückgabe*
 
 ::: {lang="el"}
-Από τη μία πλευρά, καταλαβαίνω τις χώρες που θέλουν πίσω τα έργα τους. Από την άλλη πλευρά, σε ένα μεγάλο μουσείο ένα έργο βρίσκεται δίπλα σε έργα από όλο τον κόσμο. Επιπλέον, πολλά αγοράστηκαν νόμιμα, με τους νόμους της εποχής. Άλλωστε, αν δεν τα είχαν φυλάξει τα μουσεία, κάποια θα είχαν χαθεί. Συνοψίζοντας, παρόλο που η ιστορία τους δεν είναι πάντα ωραία, τα έργα πρέπει να μείνουν εκεί που είναι· μπορούν όμως τα μουσεία να τα δανείζουν.
+Από τη μία πλευρά, καταλαβαίνω τις χώρες που θέλουν πίσω τα έργα τους. Από την άλλη πλευρά, πρώτον, σε ένα μεγάλο μουσείο ένα έργο βρίσκεται δίπλα σε έργα από όλο τον κόσμο. Δεύτερον, πολλά αγοράστηκαν νόμιμα, με τους νόμους της εποχής. Άλλωστε, αν δεν τα είχαν φυλάξει τα μουσεία, κάποια θα είχαν χαθεί. Επιπλέον, τα μουσεία μπορούν να τα δανείζουν. Συνοψίζοντας, παρόλο που η ιστορία τους δεν είναι πάντα καθαρή, τα έργα πρέπει να μείνουν εκεί που είναι.
 :::
 
-**Abwägend** (derselbe Anfang, anderer Schluss)
+*Abwägend* (Anfang wie „Für die Rückgabe“, anderer Schluss)
 
 ::: {lang="el"}
-Συνοψίζοντας, δεν υπάρχει μία απάντηση για όλα. Εφόσον ένα έργο ανήκει σε μνημείο που υπάρχει ακόμα, η επιστροφή είναι λογική· σε άλλες περιπτώσεις ο δανεισμός μπορεί να είναι λύση.
+Συνοψίζοντας, δεν υπάρχει μία απάντηση για όλα. Εφόσον ένα έργο ανήκει σε μνημείο που υπάρχει ακόμα, είναι λογικό να επιστρέφει· σε άλλες περιπτώσεις ο δανεισμός μπορεί να είναι λύση.
 :::
 
 **Selbst prüfen:** Hakt deine Rede die Punkte 1 bis 6 ab? Typische Fehler:
 
-- *[παρόλο που να …]{lang="el"}: nie [να]{lang="el"}.
-- [Αν δεν τα είχαν πάρει, θα έχουμε …]{lang="el"} mischt irreal und real; beide Hälften brauchen
-  [είχα]{lang="el"}.
+- \*[παρόλο που να …]{lang="el"}: nie [να]{lang="el"}.
+- [Αν δεν τα είχαν πάρει, θα έχουμε …]{lang="el"} mischt irreal und real; die Folge braucht
+  [θα]{lang="el"} + Vergangenheitsform: [θα είχαν …]{lang="el"}, für heute [θα ήταν …]{lang="el"}
+  (Kapitel 24).
 - Nach [Συνοψίζοντας]{lang="el"} ein neues Argument: Der Schluss fasst nur zusammen.
-- Nur förmliche Wörter: Klingt es nach Formular, tausch eins gegen [άρα]{lang="el"} oder
-  [άλλωστε]{lang="el"}.
+
+**Teil C**, Möglichkeiten:
+
+::: {lang="el" .no-audio}
+1. Ναι μεν ο Έλγιν πλήρωσε, αλλά την άδεια την έδωσαν οι Οθωμανοί, όχι οι Έλληνες.
+2. Ακόμα κι αν αλλάξει ο νόμος, το μουσείο δε θα τα δώσει αμέσως· θα χρειαστεί μια συμφωνία.
+3. Να σας διακόψω. Ναι μεν οι τουρίστες φέρνουν λεφτά, αλλά το καλοκαίρι οι δρόμοι γεμίζουν και οι κάτοικοι δε βρίσκουν σπίτι. … Αφήστε με να τελειώσω.
+:::
+
+In 1 kannst du ebenso gut für London kontern: [Ναι μεν την άδεια την έδωσαν οι Οθωμανοί, αλλά
+τότε αυτοί ήταν οι αρχές.]{lang="el"} In 2 steht nach [ακόμα κι αν]{lang="el"} im Standard kein
+[θα]{lang="el"}, wie nach [αν]{lang="el"} (Kapitel 17).
 :::
 
 ::: {.vocab}
@@ -665,31 +713,29 @@ Drei Muster nach dem Einstieg aus Hinweis 2.
 | [όχι μόνο … αλλά και …]{lang="el"} | [ˈoçi ˈmono … aˈla ce] | nicht nur …, sondern auch … |
 | [νομικός, -ή, -ό]{lang="el"} | [nomiˈkos] | juristisch; [ο/η νομικός]{lang="el"} der Jurist, die Juristin |
 | [πολιτικός, -ή, -ό]{lang="el"} | [politiˈkos] | politisch; [ο/η πολιτικός]{lang="el"} der Politiker, die Politikerin |
+| [Να σας διακόψω.]{lang="el"} | [na sas ðʝaˈkopso] | Darf ich Sie unterbrechen? (höflich-förmlich) |
+| [Αφήστε με να τελειώσω.]{lang="el"} | [aˈfiste me na teˈlioso] | Lassen Sie mich ausreden. |
 :::
 
 ## Hörspur: eine Fernsehdiskussion {#sec-argument-hoerspur}
 
 Wer abends durch griechische Nachrichtensender schaltet, sieht oft einen Bildschirm, der in vier
-bis sechs Fenster geteilt ist, in jedem ein Gast, und alle reden gleichzeitig. Man nennt das
-spöttisch [τα παράθυρα]{lang="el"}, „die Fenster“. Die Diskussion unten ist gesitteter: eine
+bis sechs Fenster geteilt ist, in jedem ein Gast, und alle reden gleichzeitig. Man nennt das, oft
+abschätzig, [τα παράθυρα]{lang="el"}, „die Fenster“. Die Diskussion unten ist gesitteter: eine
 Moderatorin, ein Archäologe, eine Juristin, erfunden, aber im Ton typisch. Die ▶-Aufnahme ist
 synthetisch und hat nur zwei Stimmen: eine weibliche für die Moderatorin **und** die Juristin, eine
 männliche für den Archäologen. Die Moderatorin erkennst du daran, dass sie ihre Gäste mit Namen
-anspricht. Echte Diskussionen bringt der Hör-Auftrag am Ende des Abschnitts.
-
-<!-- CHECK: "τα παράθυρα" als gängige (spöttische) Bezeichnung für Talk-Panels im griechischen Nachrichtenfernsehen -->
+anspricht. Antwortet die Frauenstimme auf sich selbst, spricht jetzt die Juristin.
 
 Vor dem Hören:
 
 - **Namen und Anrede:** [ˈcirie markaˈci] „Herr Markakis“, [ciˈria staθoˈpulu] „Frau
   Stathopoulou“ (Vokativ, Kapitel 7).
-- **Wer das Wort will:** [na sas ðʝaˈkopso] „Darf ich Sie unterbrechen“, [aˈfiste me na
-  teˈlioso] „Lassen Sie mich ausreden“.
-- **Die Verbindungswörter** tragen ihre Betonung deutlich: [osˈtoso], [epoˈmenos], [eˈfoson],
-  [paˈrolo pu], [ne men … aˈla].
+- **Wer das Wort will:** [Να σας διακόψω.]{lang="el"} und [Αφήστε με να τελειώσω.]{lang="el"}
+  kennst du aus @sec-argument-abwaegen.
 - **Worthilfen:** [η ζωφόρος]{lang="el"} der Fries (Kapitel 2) · [η πομπή]{lang="el"} der Festzug
   · [ο γύψος]{lang="el"} der Gips · [η υπόθεση]{lang="el"} der Fall · [η βούληση]{lang="el"} der
-  Wille · [χάλκινος]{lang="el"} aus Kupfer.
+  Wille · [χάλκινος]{lang="el"} aus Kupfer · [το προηγούμενο]{lang="el"} der Präzedenzfall.
 
 ::: {lang="el" .listen}
 [— Καλησπέρα σας. Το θέμα μας απόψε: τα Γλυπτά του Παρθενώνα. Μαζί μας ο αρχαιολόγος Γιώργος
@@ -728,12 +774,18 @@ Vor dem Hören:
 έμειναν στην Αθήνα υπάρχουν ακόμα. Και παρόλο που το Λονδίνο τα φύλαξε, στη δεκαετία του 1930 τα
 καθάρισαν με χάλκινα εργαλεία και τους έκαναν ζημιά.]{.v2}
 
-[— Από την άλλη, κύριε Μαρκάκη, στο Λονδίνο τα βλέπουν κάθε χρόνο εκατομμύρια άνθρωποι, δωρεάν.]{.v1}
+[— Κυρία Σταθοπούλου, στο Λονδίνο τα βλέπουν κάθε χρόνο εκατομμύρια άνθρωποι, δωρεάν. Μετράει
+αυτό;]{.v1}
 
-[— Και στην Αθήνα θα τα έβλεπαν. Άλλωστε ο Παρθενώνας είναι εδώ, όχι στο Λονδίνο.]{.v2}
+[— Μετράει. Και υπάρχει κάτι ακόμα. Τα μεγάλα μουσεία του κόσμου έχουν χιλιάδες αντικείμενα από
+άλλες χώρες. Αν το Λονδίνο δώσει τα γλυπτά, αύριο θα ζητήσουν κι άλλοι πίσω τα δικά τους. Γι’
+αυτό πολλά μουσεία φοβούνται ένα προηγούμενο.]{.v1}
 
-[— Από τη μία λοιπόν το μνημείο, από την άλλη ο νόμος. Θα δούμε αν θα βρεθεί λύση. Σας ευχαριστώ
-και τους δύο.]{.v1}
+[— Έχετε δίκιο σε αυτό· είναι σοβαρό ερώτημα. Εγώ πάντως λέω ένα πράγμα: ο Παρθενώνας είναι εδώ,
+όχι στο Λονδίνο.]{.v2}
+
+[— Από τη μία λοιπόν το μνημείο, από την άλλη ο νόμος και τα άλλα μουσεία. Θα δούμε αν θα βρεθεί
+λύση. Σας ευχαριστώ και τους δύο.]{.v1}
 :::
 
 ::: {.callout-note .exercise}
@@ -750,6 +802,7 @@ Hör die Diskussion mit ▶, ohne den Text aufzuklappen, höchstens zweimal. Dan
 6. Die Leihgabe gibt es nur, (a) wenn sie auf fünf Jahre begrenzt ist (b) wenn Griechenland das Eigentum des Museums anerkennt, und das will Athen nicht (c) wenn Griechenland den Transport zahlt
 7. Das Argument für London gegen Ende: (a) Dort sind sie sicherer. (b) Dort ist das Licht besser. (c) Dort sehen sie jährlich Millionen Menschen kostenlos.
 8. Welcher Schaden wird erwähnt? (a) eine Reinigung in den 1930er-Jahren (b) die Explosion von 1687 (c) der Transport nach London
+9. Was fürchten laut der Juristin viele Museen, und wie reagiert der Archäologe? (a) weniger Besucher; er lacht darüber (b) einen Präzedenzfall für andere Forderungen; er gibt ihr recht (c) Transportschäden; er widerspricht
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -768,7 +821,7 @@ Frage 6 hängt an einem [εφόσον]{lang="el"} mit Foto und an der Antwort
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**1c, 2a, 3b, 4c, 5a, 6b, 7c, 8a.**
+**1c, 2a, 3b, 4c, 5a, 6b, 7c, 8a, 9b.**
 
 - 1: [ένα μνημείο, όχι μια συλλογή]{lang="el"}; das neue Museum stand nur in den Leserbriefen.
 - 2: [λευκά αντίγραφα από γύψο]{lang="el"}; (c) lockt wegen [τα κενά]{lang="el"}.
@@ -778,6 +831,8 @@ Frage 6 hängt an einem [εφόσον]{lang="el"} mit Foto und an der Antwort
   [παραδέχεσαι ότι δεν είναι δικό σου]{lang="el"}, deshalb nein.
 - 7: Sicherheit kam nur als Irrealis über Elgin vor.
 - 8: [με χάλκινα εργαλεία]{lang="el"}; 1687 kommt nicht vor.
+- 9: [φοβούνται ένα προηγούμενο]{lang="el"}, dann [Έχετε δίκιο σε αυτό]{lang="el"}: Das Argument
+  bleibt stehen, Markakis setzt nur seine eigene Sicht daneben.
 :::
 
 ::: {.callout-note collapse="true" .translation}
@@ -821,13 +876,18 @@ zerstört worden.
 Skulpturen, die in Athen geblieben sind, gibt es noch. Und obwohl London sie aufbewahrt hat, hat man
 sie in den 1930er-Jahren mit Kupferwerkzeugen gereinigt und ihnen geschadet.
 
-**Moderatorin:** Andererseits, Herr Markakis, sehen sie in London jedes Jahr Millionen Menschen, kostenlos.
+**Moderatorin:** Frau Stathopoulou, in London sehen sie jedes Jahr Millionen Menschen, kostenlos.
+Zählt das?
 
-**Markakis:** In Athen würden sie sie auch sehen. Und schließlich ist der Parthenon hier, nicht in
-London.
+**Stathopoulou:** Das zählt. Und es gibt noch etwas. Die großen Museen der Welt haben Tausende
+Objekte aus anderen Ländern. Gibt London die Skulpturen ab, werden morgen auch andere ihre
+zurückfordern. Deshalb fürchten viele Museen einen Präzedenzfall.
 
-**Moderatorin:** Auf der einen Seite also das Bauwerk, auf der anderen das Gesetz. Wir werden sehen,
-ob sich eine Lösung findet. Ich danke Ihnen beiden.
+**Markakis:** Da haben Sie recht; das ist eine ernste Frage. Ich jedenfalls sage eins: Der
+Parthenon ist hier, nicht in London.
+
+**Moderatorin:** Auf der einen Seite also das Bauwerk, auf der anderen das Gesetz und die anderen
+Museen. Wir werden sehen, ob sich eine Lösung findet. Ich danke Ihnen beiden.
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -845,23 +905,22 @@ ob sich eine Lösung findet. Ich danke Ihnen beiden.
 | [η δεκαετία του 1930]{lang="el"} | die 1930er-Jahre |
 | [το εργαλείο]{lang="el"} | das Werkzeug |
 | [φυλάω, φύλαξα]{lang="el"} | aufbewahren, bewachen |
+| [μετράει]{lang="el"} | hier: es zählt, es ist wichtig |
+| [το προηγούμενο]{lang="el"} | der Präzedenzfall |
 :::
 
 ### Diskussionen hören {#sec-argument-hoeren}
 
 Echte Diskussionen sind schneller, überlappen sich und benutzen weniger [ωστόσο]{lang="el"} als
-dieser Text. Achte deshalb auf zwei Dinge: Wer nimmt sich das Wort, und mit welchem Wort beginnt
-ein Gegenargument? Meist ist es [ναι, αλλά]{lang="el"}, [όμως]{lang="el"} oder ein
-[Κοιτάξτε, …]{lang="el"} (Kapitel 21). Diskussionssendungen und Interviews findest du auf
-[ERTflix](https://www.ertflix.gr), dem Streamingangebot des staatlichen Rundfunks; Meinungen von der
-Straße bringt [Easy Greek](https://www.youtube.com/@EasyGreekVideos).
+dieser Text. [ERTflix](https://www.ertflix.gr), das Streamingangebot des staatlichen Rundfunks, hat
+Diskussionssendungen und Interviews; Meinungen von der Straße bringt
+[Easy Greek](https://www.youtube.com/@EasyGreekVideos).
 
 ::: {.callout-note .exercise}
 ## Übung 29.7: Hör-Auftrag
 
-Such auf [ERTflix](https://www.ertflix.gr) eine Diskussions- oder Interviewsendung oder bei
-[Easy Greek](https://www.youtube.com/@EasyGreekVideos) ein Straßeninterview mit einer
-Meinungsfrage. Fünf Minuten reichen.
+Such auf ERTflix eine Diskussions- oder Interviewsendung oder bei Easy Greek ein Straßeninterview
+mit einer Meinungsfrage. Fünf Minuten reichen.
 
 1. **Ohne Untertitel:** Strichliste mit zwei Spalten, links [αλλά, όμως, άρα, οπότε,
    αφού]{lang="el"}, rechts [ωστόσο, επομένως, εφόσον, παρόλο που]{lang="el"}. Hör außerdem zwei
@@ -873,7 +932,7 @@ Meinungsfrage. Fünf Minuten reichen.
 ## Hinweis 1
 
 Gegenargumente beginnen meist am Satzanfang, mit [ναι, αλλά]{lang="el"}, [όμως]{lang="el"} oder
-[Κοιτάξτε]{lang="el"}. Dort hinhören.
+[Κοιτάξτε]{lang="el"} (Kapitel 21). Dort hinhören.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -895,9 +954,6 @@ beiläufig. Und [άρα]{lang="el"} [ˈara] ist nicht [ώρα]{lang="el"} [ˈora
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [Να σας διακόψω.]{lang="el"} | [na sas ðʝaˈkopso] | Darf ich Sie unterbrechen? (höflich-förmlich) |
-| [Αφήστε με να τελειώσω.]{lang="el"} | [aˈfiste me na teˈlioso] | Lassen Sie mich ausreden. |
-| [η εκπομπή]{lang="el"} | [i ekpoˈbi] | die Sendung |
 | [το αντίγραφο]{lang="el"} | [to aˈdiɣrafo] | die Kopie; der Abguss |
 | [το κενό]{lang="el"} | [to ceˈno] | die Lücke, die Leere |
 | [το εμπόδιο]{lang="el"} | [to eˈboðio] | das Hindernis |
@@ -906,19 +962,23 @@ beiläufig. Und [άρα]{lang="el"} [ˈara] ist nicht [ώρα]{lang="el"} [ˈora
 
 ## Das Wichtigste {#sec-argument-wichtigste}
 
-- **Gegensatz:** [όμως, αλλά]{lang="el"} (neutral), [ωστόσο]{lang="el"} (eher geschrieben),
-  [παρ’ όλα αυτά]{lang="el"} „trotzdem“; alle verbinden Hauptsätze.
-- **Einräumung:** [παρόλο που]{lang="el"} „obwohl“ wie [αν και]{lang="el"}, mit normalem Verb, nie
-  [να]{lang="el"}; [ναι μεν …, αλλά …]{lang="el"} „zwar …, aber“; [ακόμα κι αν]{lang="el"} „selbst
-  wenn“, real oder irreal; [παρά]{lang="el"} + Akk. „trotz“.
+- **Gegensatz** (zwei Dinge gegeneinander): im Hauptsatz [αλλά, όμως]{lang="el"} (neutral),
+  [ωστόσο]{lang="el"} (eher geschrieben, milder); im Nebensatz [ενώ]{lang="el"}.
+- **Einräumung** (zugeben und bei der eigenen Sicht bleiben): im Hauptsatz [παρ’ όλα αυτά]{lang="el"}
+  „trotzdem“ (neutral) und [ναι μεν …, αλλά …]{lang="el"}; im Nebensatz [αν και]{lang="el"},
+  [παρόλο που]{lang="el"} (nachdrücklich, etwas schriftlicher) und [ακόμα κι αν]{lang="el"}
+  „selbst wenn“, real oder irreal. Nach [αν και, παρόλο που]{lang="el"} nie [να]{lang="el"}.
+  [παρά]{lang="el"} + Akk. „trotz“.
 - **Folgerung:** [άρα]{lang="el"} (neutral), [επομένως]{lang="el"}, [συνεπώς]{lang="el"}
-  (förmlich); [γι’ αυτό]{lang="el"} für Ursache und Wirkung.
+  (förmlich); [γι’ αυτό]{lang="el"} für Grund → Handlung.
 - **[εφόσον]{lang="el"}:** Bedingung „sofern“ mit Formen wie nach [αν]{lang="el"}, oder Grund „da
-  ja“ wie [αφού]{lang="el"}; „falls“-Probe; förmlich.
+  ja“ wie [αφού]{lang="el"}; „falls“-Probe; gehobener als [αν, αφού]{lang="el"}.
 - **Gerüst:** [Το ζήτημα είναι αν … Από τη μία … από την άλλη … Πρώτον … επιπλέον … άλλωστε …
-  Συνοψίζοντας …]{lang="el"}
-- **Register:** Im Gespräch [αλλά, αν και, άρα, αφού, αν]{lang="el"}, in Zeitung und Rede
-  [ωστόσο, παρόλο που, επομένως, εφόσον]{lang="el"}.
+  Συνοψίζοντας …]{lang="el"}; im Gespräch dazu [Να σας διακόψω.]{lang="el"} und
+  [Αφήστε με να τελειώσω.]{lang="el"}
+- **Register:** Im Gespräch häufiger [αλλά, αν και, αφού, αν]{lang="el"}, in Zeitung und Rede
+  [ωστόσο, παρόλο που, επομένως, εφόσον]{lang="el"}; [άρα, παρ’ όλα αυτά, άλλωστε]{lang="el"}
+  passen überall.
 
 ## Zum Lesen: Zwei Museen, ein Bauwerk {#sec-argument-lesetext}
 
@@ -951,8 +1011,9 @@ aus Kapitel 15.
 του, μια οριστική επιστροφή δεν είναι στο χέρι του. Προτείνει δανεισμό· η Αθήνα όμως δε δέχεται να
 αναγνωρίσει τους Βρετανούς ως ιδιοκτήτες.
 
-Από το 2021 οι δύο πλευρές συζητούν ξανά. Μέχρι να βρεθεί λύση, στο Μουσείο της Ακρόπολης τα
-λευκά αντίγραφα θυμίζουν σε κάθε επισκέπτη τι λείπει.
+Από το 2021 οι δύο πλευρές συζητούσαν ξανά, χωρίς συμφωνία ως σήμερα. Μέχρι να βρεθεί λύση, ο
+Παρθενώνας έχει δύο μουσεία: στο Λονδίνο εκατομμύρια επισκέπτες βλέπουν κάθε χρόνο τα πρωτότυπα,
+και στην Αθήνα τα λευκά αντίγραφα θυμίζουν σε κάθε επισκέπτη τι λείπει.
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -1014,8 +1075,9 @@ dass eine endgültige Rückgabe nicht in seiner Hand liege, da ihm ein Gesetz vo
 Objekte seiner Sammlung abzugeben. Es schlägt eine Leihgabe vor; Athen ist aber nicht bereit, die
 Briten als Eigentümer anzuerkennen.
 
-Seit 2021 sprechen beide Seiten wieder miteinander. Bis eine Lösung gefunden ist, erinnern im
-Akropolismuseum die weißen Abgüsse jeden Besucher daran, was fehlt.
+Seit 2021 sprachen beide Seiten wieder miteinander, bis heute ohne Einigung. Bis eine Lösung
+gefunden ist, hat der Parthenon zwei Museen: In London sehen jedes Jahr Millionen Besucher die
+Originale, und in Athen erinnern die weißen Abgüsse jeden Besucher daran, was fehlt.
 :::
 
 ::: {.callout-caution .uncertain}
@@ -1025,26 +1087,25 @@ Die Grunddaten sind gut belegt, vieles andere ist Teil des Streits selbst:
 
 - **Die Genehmigung:** Elgin berief sich auf ein Schreiben der osmanischen Regierung von 1801
   (oft *Ferman* genannt). Erhalten ist nur eine italienische Übersetzung. Ob es ein rechtsgültiger
-  Erlass war und ob es erlaubte, Skulpturen vom Bau abzunehmen, ist unter Historikern und Juristen
-  umstritten.
-- **Die Mengen:** In London sind unter anderem rund 75 Meter des Frieses und 15 der ursprünglich
-  92 Metopen. Das Parlament zahlte 1816 35 000 Pfund, weniger als Elgin nach eigener Angabe
-  ausgegeben hatte.
-- **Mercouri:** Sie machte die Forderung Anfang der 1980er-Jahre international bekannt, unter
-  anderem 1982 auf einer UNESCO-Konferenz; 1983 folgte die offizielle Forderung der griechischen
-  Regierung, 1984 wurde der Fall dem zuständigen UNESCO-Ausschuss vorgelegt.
-- **Die Reinigung** der Jahre 1937/38 hat Oberflächen beschädigt; wie stark, wird bis heute
-  unterschiedlich bewertet.
-- **Der Stand:** Die Gespräche seit 2021 haben bisher (Stand 2026) zu keiner bekannt gewordenen
-  Einigung geführt. In Großbritannien wirbt unter anderem die Initiative
-  [*Parthenon Project*]{lang="en"} für einen Kompromiss mit Leihgaben in beide Richtungen.
-  Nachrichten dazu ändern sich schnell.
+  Erlass war und ob es erlaubte, Skulpturen vom Bau abzunehmen, ist umstritten.
+- **Die Forderung:** Schon 1836 bat König Otto um einzelne Stücke. Melina Mercouri machte die Sache
+  1982 auf einer UNESCO-Konferenz international bekannt; die offizielle Forderung nach allen
+  Skulpturen folgte 1983.
+- **Der Zustand:** Die Reinigung von 1937/38 hat Oberflächen beschädigt; wie stark, wird
+  unterschiedlich bewertet. Auch in Athen litten die Skulpturen, vor allem unter der
+  Luftverschmutzung des 20. Jahrhunderts; deshalb sind sie heute im Museum. Der Westfries hing bis
+  1993 am Tempel.
+- **Die UNESCO:** 2021 forderte der zuständige Ausschuss Großbritannien auf, mit Griechenland zu
+  verhandeln, und sah die Pflicht zur Rückgabe bei der britischen Regierung.
+- **Der Stand:** Im September 2026 wurde berichtet, die Gespräche stockten; das Museum nennt sie
+  weiter offen. Eine Änderung des Gesetzes von 1963 plant die britische Regierung nicht. In
+  Großbritannien wirbt das [*Parthenon Project*]{lang="en"} für eine Kulturpartnerschaft:
+  Wiedervereinigung in Athen, dafür griechische Leihgaben nach London; die Eigentumsfrage bleibt
+  offen. Nachrichten dazu ändern sich schnell.
 
 Zum Nachlesen, mit beiden Seiten: Alexander Herman, [*The Parthenon Marbles Dispute*]{lang="en"}
 (2023); die Stellungnahmen des British Museum und des Akropolismuseums auf ihren Websites.
 :::
-
-<!-- CHECK: (1) Bauzeit 447–432 v. Chr.; (2) 1687 venezianische Beschießung (Morosini), Explosion des osmanischen Pulvermagazins im Parthenon; (3) Entfernung 1801–1812 "etwa die Hälfte der erhaltenen Skulpturen", Elgin Botschafter in Konstantinopel; (4) Kauf 1816 durch das Parlament für 35 000 Pfund, weniger als Elgins Ausgaben; (5) nur italienische Übersetzung des Dokuments erhalten; (6) BM-Bestand ca. 75 m Fries, 15 von 92 Metopen; (7) Mercouri 1982 UNESCO-Weltkonferenz Kulturpolitik (Mexiko-Stadt), offizielle Forderung 1983, UNESCO-Ausschuss (ICPRCP) 1984; (8) British Museum Act 1963: Veräußerungsverbot mit engen Ausnahmen; (9) UNESCO-Ausschuss 2021: Aufforderung an das Vereinigte Königreich, Position zu überdenken und mit Griechenland zu verhandeln; (10) Gespräche BM/griechische Regierung seit 2021 (bekannt geworden Ende 2022), Stand 2026 ohne Einigung; Parthenon Project (parthenonproject.co.uk, "A Win-Win solution") korrekt als Kompromissinitiative mit Leihgaben in beide Richtungen beschrieben?; (11) BM-Position: Leihgabe nur bei Anerkennung des Eigentums; (12) Reinigung 1937/38 mit Kupferwerkzeugen; (13) Akropolismuseum 2009, Parthenon-Galerie mit Blick auf den Tempel und weißen Abgüssen der Londoner Stücke -->
 
 ::: {.callout-note .exercise}
 ## Übung 29.8: Zwei Museen, ein Bauwerk
@@ -1070,8 +1131,8 @@ und Diskussion).
 5. Wer sich etwas leiht, gibt zu, dass es ihm nicht gehört.
 6. Ein Gesetz erlaubt keine Rückgabe.
 
-**Teil C.** Sechs Verbindungswörter aus diesem Kapitel stehen im Text. Finde sie: Gegensatz,
-Einräumung, Folgerung oder Grund?
+**Teil C.** Sechs Wörter für Gegensatz, Einräumung, Folgerung oder Grund stehen im Text. Finde sie
+und ordne sie zu; [γι’ αυτό]{lang="el"} bekommt das Etikett „Grund → Handlung“.
 
 Im Chat: „A 1r, 2f, …; B 1G, …“.
 :::
@@ -1086,8 +1147,8 @@ Teil A: Achte auf Subjekte ([το βρετανικό κοινοβούλιο]{lan
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Teil C: eins im ersten Absatz, drei im dritten, zwei im vierten. Beim [εφόσον]{lang="el"} die
-„falls“-Probe.
+Teil C: eins im Absatz über 1687, drei im Absatz über die griechische Seite, zwei im Absatz über
+das British Museum. Beim [εφόσον]{lang="el"} die „falls“-Probe.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -1103,7 +1164,7 @@ die Briten nicht [ως ιδιοκτήτες]{lang="el"} anerkennen.
 
 - [Ωστόσο, ο ναός δεν έφτασε ακέραιος]{lang="el"}: Gegensatz.
 - [επομένως πρέπει να ενωθούν ξανά]{lang="el"}: Folgerung.
-- [Γι’ αυτό η Αθήνα μιλάει για «επανένωση»]{lang="el"}: Folgerung, Grund und Handlung.
+- [Γι’ αυτό η Αθήνα μιλάει για «επανένωση»]{lang="el"}: Grund → Handlung.
 - [Παρόλο που για χρόνια λεγόταν …]{lang="el"}: Einräumung.
 - [εφόσον ένας νόμος του 1963 …]{lang="el"}: Grund, denn das Gesetz gibt es; „falls“ passt nicht.
 - [η Αθήνα όμως δε δέχεται]{lang="el"}: Gegensatz.
