@@ -249,9 +249,106 @@ Aufsatz zur Einteilung der neugriechischen Dialekte (2003, *Journal of Greek Lin
 
 <!-- CHECK: Sprachgeschichtliche Aussage zu Dativschwund und Nord-Akkusativ/Süd-Genitiv; Literaturangabe Trudgill 2003, „Modern Greek dialects: a preliminary classification“, Journal of Greek Linguistics 4. -->
 
-<!-- EXERCISE: nordgriechische Aussprache erkennen; Hörbild (IPA, Schriftbild mit ausgefallenen/gehobenen Vokalen) auf die Standardform zurückführen, Wörter und kurze Sätze aus dem Wortschatz der Kapitel 13–22; mit Frage, woran man die betonte Silbe erkennt; keine Aufnahme nötig, 2 -->
+::: {.callout-note .exercise}
+## Übung 23.1: Zurück zum Standard
 
-<!-- EXERCISE: nördlichen Akkusativ erkennen; Sätze wie „Σε είπα να μην αργήσεις“, „Τον έδωσα το κλειδί“, „Με αρέσει η Θεσσαλονίκη“ in Standard umformen und sagen, ob das Pronomen „wem“ oder „wen“ meint; dazu zwei Sätze, die auch im Standard richtig sind (σε ευχαριστώ, σε βοηθάω) als Falle; Auswählen/Umformen laut, 1–2 -->
+Welches Standardwort, welcher Satz steckt dahinter? Und reicht dafür die Stadt (nur [i u] fallen),
+oder braucht es das Land ([e o] werden zu [i u])? Im Chat etwa „1S, 2L“.
+
+1. [ˈmilsa]
+2. [pirpaˈtondas]
+3. [prep na ˈefiʝe]
+4. [ˈpirɣus]
+5. [ðen du ˈxu ˈði]
+6. geschrieben, wie in einem Comic: [Θέλου να φύγου, είμι κουρασμένους.]{lang="el"}
+
+Zum Schluss: Woran erkennst du die betonte Silbe, und warum hilft sie?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Erst die Silbe mit [ˈ] oder Akzent suchen, dann ergänzen. Ein [u] oder [i] in einer
+unbekannten Endung war vielleicht [o] oder [e].
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+3 ist eine Vermutung (Kapitel 22), 5 ein Perfekt mit Kurzform (Kapitel 21), 2 ein Gerundium.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [μίλησα]{lang="el"}: [i] fällt, **Stadt**.
+2. [περπατώντας]{lang="el"}: [e] → [i], **Land**.
+3. [πρέπει να έφυγε]{lang="el"} „ist wohl gegangen“: End-[i] fällt, **Stadt**.
+4. [ο πύργος]{lang="el"}: [o] → [u], **Land**. Aber [ˈpirɣus] ist auch Standard: [τους
+   πύργους]{lang="el"}. Erst der Satz entscheidet.
+5. [δεν το ’χω δει]{lang="el"} [ðen do ˈxo ˈði]: zweimal [o] → [u], **Land**. Das [d] ist Sandhi.
+6. [Θέλω να φύγω, είμαι κουρασμένος.]{lang="el"} **Land.** Typischer Fehler:
+   [θέλου]{lang="el"} für eine andere Person halten; gemeint ist „ich“.
+
+Die betonte Silbe trägt in der Umschrift [ˈ], geschrieben den Akzent, beim Hören ist sie lauter
+und länger. Ihr Vokal bleibt immer: [ˈpir-] ist [πύρ-]{lang="el"}, von [πρέπει]{lang="el"} bleibt
+[prep].
+:::
+
+<!-- CHECK: Übung 23.1 – Plausibilität der konstruierten Hörbilder ([ˈmilsa]; [prep na ˈefiʝe] mit Tilgung des End-i als Stadtmerkmal; [pirpaˈtondas]; [ˈpirɣus]; [ðen du ˈxu ˈði]) und der Comic-Schreibung «Θέλου να φύγου, είμι κουρασμένους». -->
+
+::: {.callout-note .exercise}
+## Übung 23.2: Wem oder wen?
+
+Meint das Pronomen „wem“ oder „wen“? Ist der Satz auch im Standard richtig? Wenn nicht, sag ihn
+laut im Standard. Im Chat: die Nummern der Standardsätze.
+
+::: {lang="el" .no-audio}
+1. Σε είπα να μην αργήσεις.
+2. Τον έδωσα το κλειδί.
+3. Με αρέσει η Θεσσαλονίκη.
+4. Σε ευχαριστώ για την μπουγάτσα.
+5. Τον είδα στην Καμάρα.
+6. Με έφερε ένα κουλούρι.
+7. Να σε βοηθήσω με τη βαλίτσα;
+8. Την είπα την αλήθεια.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Hat das Verb schon eine Sache als Objekt, oder ist es ein Verb des Sagens, ist die Person das
+„wem“. [αρέσει]{lang="el"} nimmt im Standard immer den Genitiv.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zwei Verben nehmen auch im Standard den Akkusativ (Kapitel 8). Für 8 denk an die Doppelung
+(Kapitel 20).
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Standard: 4, 5, 7**, und 8 in einer Lesart.
+
+1. „wem“: [Σου είπα …]{lang="el"}
+2. „wem“, gegeben wird [το κλειδί]{lang="el"}: [Του έδωσα …]{lang="el"}
+3. „wem“: [Μου αρέσει …]{lang="el"}
+4. Standard: [ευχαριστώ]{lang="el"} nimmt den Akkusativ.
+5. Standard, „wen“: „Ich habe ihn gesehen.“
+6. „wem“: [Μου έφερε …]{lang="el"}
+7. Standard: auch [βοηθάω]{lang="el"} nimmt den Akkusativ.
+8. Standard als Doppelung: „Die Wahrheit, die hab ich gesagt.“ Im Norden auch „Ich hab ihr die
+   Wahrheit gesagt“, Standard [Της είπα …]{lang="el"}.
+
+Typischer Fehler in die Gegenrichtung: [σου ευχαριστώ]{lang="el"}, nicht Standard. Und [σε λέω]{lang="el"}
+ist im Norden kein Fehler, im Standard aber [σου λέω]{lang="el"}.
+:::
+
+<!-- CHECK: Übung 23.2, Satz 8 – „Την είπα την αλήθεια“ als umgangssprachliche Doppelung im Standard akzeptabel und im Norden auch als „ihr“ lesbar. -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -344,11 +441,170 @@ nicht.
    ist immer [μπορεί να]{lang="el"}, unveränderlich (Kapitel 22).
 :::
 
-<!-- EXERCISE: Formen von Teil II bilden; zwei bis drei Verben (z.B. χτίζω, καίω, ανοίγω) durch Mediopassiv-Präsens/-Aorist/-Futur, Perfekt, Plusquamperfekt, Partizip, Gerundium, jeweils in einem kurzen Satz zum Thema Thessaloniki laut sagen; Formen bilden, 2 -->
+::: {.callout-note .exercise}
+## Übung 23.3: Bauen, brennen, öffnen
 
-<!-- EXERCISE: Fehler finden quer durch Teil II (Kapitel 13–22), zehn bis zwölf Sätze mit höchstens einem Fehler, dazu ein bis zwei fehlerfreie; Fehler benennen, Satz richtig sagen, Kapitel nennen (Format wie Übung 12.5); Stolpersteine aus der Wiederholungsbox gezielt einbauen, dazu je ein nordgriechischer Akkusativ (σε λέω) als „regional, kein Fehler im Norden, im Standard falsch“; 2–3 -->
+Sag die Sätze laut auf Griechisch, mit [χτίζω]{lang="el"}, [καίω]{lang="el"} und
+[ανοίγω]{lang="el"} in immer anderer Form.
 
-<!-- EXERCISE: mündlich übersetzen Deutsch → Griechisch, acht bis zehn natürliche Sätze rund um einen Besuch in Thessaloniki, die jeweils zwei Themen von Teil II mischen (z.B. „Wenn du nach Thessaloniki kommst, musst du die Bougatsa probieren, die man bei der Kamara verkauft“; „Sie sagte, dass der Laden 1930 eröffnet worden war“; „Mir gefällt die Rotunde, dir gefällt der Weiße Turm“); Lösung mit Varianten und typischen Fehlern; 3 -->
+1. Der Weiße Turm wurde im 15. Jahrhundert gebaut.
+2. Am Hafen wird ein Hotel gebaut.
+3. Es wird nächstes Jahr gebaut werden. (das Museum)
+4. 1917 brannte ein großer Teil der Stadt.
+5. Diese Kirche ist schon zweimal abgebrannt.
+6. Als die Flüchtlinge kamen, hatte das Feuer das Zentrum schon verbrannt.
+7. Die Bougatsa ist verbrannt!
+8. Die Oberstadt ist auf einem Hügel gebaut.
+9. Er zieht den Teig aus und erzählt dabei von seinem Großvater.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+[χτίζω – έχτισα – χτίστηκα]{lang="el"}, [καίω – έκαψα]{lang="el"}, [καίγομαι –
+κάηκα]{lang="el"}, [ανοίγω – άνοιξα]{lang="el"}. Frag jedes Mal: Wer handelt? Ereignis oder
+Zustand? Gibt es einen Zeitstempel?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+7 und 8 sind Zustände: [είμαι]{lang="el"} + Partizip. 9 braucht keinen zweiten Satz.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [Ο Λευκός Πύργος χτίστηκε τον δέκατο πέμπτο αιώνα.]{lang="el"} Ohne Augment.
+2. [Στο λιμάνι χτίζεται ένα ξενοδοχείο.]{lang="el"}
+3. [Θα χτιστεί του χρόνου.]{lang="el"} Betonung auf der Endung.
+4. [Το 1917 κάηκε μεγάλο μέρος της πόλης.]{lang="el"}
+5. [Αυτή η εκκλησία έχει καεί ήδη δύο φορές.]{lang="el"} Die Kirche brennt selbst, also
+   [καεί]{lang="el"}; [έχει κάψει]{lang="el"} hieße „hat (etwas) verbrannt“.
+6. [Όταν ήρθαν οι πρόσφυγες, η φωτιά είχε ήδη κάψει το κέντρο.]{lang="el"}
+7. [Η μπουγάτσα είναι καμένη!]{lang="el"} [κάηκε]{lang="el"} geht auch: „ist verbrannt (eben)“.
+8. [Η Άνω Πόλη είναι χτισμένη σε έναν λόφο.]{lang="el"}
+9. [Ανοίγοντας το φύλλο, μιλάει για τον παππού του.]{lang="el"} Das Gerundium kommt aus dem
+   Präsensstamm; nicht \*[ανοίξοντας]{lang="el"}.
+
+**Typische Fehler:** \*[εχτίστηκε]{lang="el"}, \*[εκάηκε]{lang="el"}; Perfekt in 1 und 4 trotz
+Zeitstempel; [είναι χτισμένος]{lang="el"} in 1, das beschreibt einen Zustand, kein Ereignis.
+:::
+
+::: {.callout-note .exercise}
+## Übung 23.4: Zwölf Sätze aus Thessaloniki
+
+Jeder Satz hat höchstens einen Fehler. Finde ihn, sag den Satz richtig und nenn das Kapitel. Ein
+Satz ist nicht falsch, sondern nördlich: Welcher? Im Chat: die Nummern der fehlerfreien Sätze und
+des nördlichen.
+
+::: {lang="el" .no-audio}
+1. Η Ροτόντα εχτίστηκε γύρω στο 300 μ.Χ.
+2. Έχω πάει στη Θεσσαλονίκη πέρσι.
+3. Αυτή είναι η πλατεία σε που γνωριστήκαμε.
+4. Ο σερβιτόρος μου είπε ότι να περιμένω.
+5. Το περπατώντας στην παραλία είναι ό,τι καλύτερο.
+6. Εμένα αρέσουν τα τρίγωνα.
+7. Πάρε ομπρέλα, μπορώ να βρέξει.
+8. Αν θα έρθεις τον Οκτώβριο, θα δεις τη γιορτή του Αγίου Δημητρίου.
+9. Ο Λευκός Πύργος πρέπει να χτίστηκε τον δέκατο πέμπτο αιώνα.
+10. Σε λέω, η καλύτερη μπουγάτσα είναι στην Άνω Πόλη.
+11. Ρώτησα τον ξεναγό αν θα είναι ανοιχτό το μουσείο την Κυριακή.
+12. Όταν θα φτάσεις στην Καμάρα, πάρε με τηλέφωνο.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Alle acht Stolpersteine aus der Wiederholungsbox oben stecken hier drin, dazu einer aus
+Kapitel 17.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zweimal sieht etwas falsch aus und ist richtig: eine Vergangenheit nach [να]{lang="el"} und ein
+[θα]{lang="el"} nach [αν]{lang="el"}. Frag, was [πρέπει]{lang="el"} und [αν]{lang="el"} dort
+bedeuten.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [χτίστηκε]{lang="el"}: kein Augment im Mediopassiv (13).
+2. [Πήγα …]{lang="el"}: Zeitstempel [πέρσι]{lang="el"} (14).
+3. [η πλατεία όπου / στην οποία / που γνωριστήκαμε]{lang="el"}: keine Präposition vor
+   [που]{lang="el"} (15).
+4. [μου είπε να περιμένω]{lang="el"}: Aufforderung (16, 18).
+5. [Το περπάτημα …]{lang="el"}: Das Gerundium ist kein Nomen (19).
+6. [Εμένα μου αρέσουν …]{lang="el"} (20).
+7. [μπορεί να βρέξει]{lang="el"}: „vielleicht“ (22).
+8. [Αν έρθεις …]{lang="el"}: kein [θα]{lang="el"} in der Bedingung (17).
+9. **Richtig.** Vermutung: „wurde wohl … gebaut“ (22).
+10. **Nördlich**, im Standard [Σου λέω]{lang="el"}. Kein Sternchen: So spricht eine ganze
+    Region.
+11. **Richtig.** [αν]{lang="el"} heißt „ob“ (17, 18).
+12. [Όταν φτάσεις …]{lang="el"}. [όταν θα]{lang="el"} hört man, Standard ist es nicht (16, 17).
+
+Oft übersehen: 9 wird „korrigiert“, weil nach [να]{lang="el"} sonst keine Vergangenheit steht,
+und 12, weil man es im Gespräch ständig hört.
+:::
+
+::: {.callout-note .exercise}
+## Übung 23.5: Ein Wochenende in Thessaloniki
+
+Sag die Sätze laut auf Griechisch. Jeder verbindet zwei Themen aus Teil II.
+
+1. Wenn du nach Thessaloniki kommst, musst du die Bougatsa probieren, die man an der Kamara
+   verkauft.
+2. Sie sagte, dass der Laden 1930 gegründet worden war.
+3. Mir gefällt die Rotunde, dir gefällt der Weiße Turm.
+4. Der Herr, mit dem ich gesprochen habe, ist wohl schon gegangen.
+5. Warst du schon mal in Thessaloniki? – Ja, letztes Jahr.
+6. Er hat mich gefragt, ob ich morgen wiederkomme.
+7. Sie hat mir gesagt, ich solle warten, bis der Laden aufmacht.
+8. Wir sind die Egnatia entlanggegangen und haben dabei Kringel gegessen.
+9. Die Demetrios-Kirche ist 1917 abgebrannt und wurde später wieder aufgebaut.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Bei jedem Satz zuerst: Wo steht kein [θα]{lang="el"}? Bleibt die Zeit stehen? Wer handelt?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+2: Die deutsche Vorvergangenheit ist Grammatik der indirekten Rede, keine griechische. 4: nach
+Präposition [ο οποίος]{lang="el"}. 6: [ρωτάω]{lang="el"} + Akkusativ. 9: [ξανα-]{lang="el"} wie
+in [ξανασχεδιάστηκε]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [Αν έρθεις στη Θεσσαλονίκη, πρέπει να δοκιμάσεις την μπουγάτσα που πουλάνε στην
+   Καμάρα.]{lang="el"} Auch [Όταν έρθεις …]{lang="el"}, [… που πουλιέται …]{lang="el"}.
+2. [Είπε ότι το μαγαζί ιδρύθηκε το 1930.]{lang="el"} Das Original war ein Aorist, er bleibt.
+   [είχε ιδρυθεί]{lang="el"} ginge, ist aber unnötig.
+3. [Εμένα μου αρέσει η Ροτόντα, εσένα σου αρέσει ο Λευκός Πύργος.]{lang="el"}
+4. [Ο κύριος με τον οποίο μίλησα πρέπει να έχει φύγει ήδη.]{lang="el"} Oder [… πρέπει να
+   έφυγε.]{lang="el"}; nicht \*[με που]{lang="el"}.
+5. [Έχεις πάει ποτέ στη Θεσσαλονίκη; – Ναι, πήγα πέρσι.]{lang="el"} Frage ohne Zeitstempel
+   Perfekt, Antwort mit Aorist.
+6. [Με ρώτησε αν θα έρθω πάλι αύριο.]{lang="el"} Hier ist [αν θα]{lang="el"} richtig; auch
+   [αν έρχομαι]{lang="el"}.
+7. [Μου είπε να περιμένω μέχρι να ανοίξει το μαγαζί.]{lang="el"}
+8. [Περπατήσαμε στην Εγνατία τρώγοντας κουλούρια.]{lang="el"}
+9. [Ο Άγιος Δημήτριος κάηκε το 1917 και ξαναχτίστηκε αργότερα.]{lang="el"}
+
+**Typische Fehler:** [Αν θα έρθεις]{lang="el"} in 1; [είχε]{lang="el"} aus Gewohnheit in 2;
+\*[Εμένα αρέσει]{lang="el"} in 3; [μου ρώτησε]{lang="el"} statt [με]{lang="el"} in 6.
+:::
+
+<!-- CHECK: Übung 23.5, Satz 9 – Hagios Demetrios 1917 niedergebrannt, Wiederaufbau (Weihe 1949); Satz 2: „είχε ιδρυθεί“ in indirekter Rede als möglich, aber unnötig. -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -377,7 +633,49 @@ Standard. Sie bündelt noch einmal Teil II. Erst hören, dann lesen:
 κατεβείτε, ελάτε να σας δείξω πού τρώμε την καλύτερη μπουγάτσα της πόλης.
 :::
 
-<!-- EXERCISE: Hörverstehen der Stadtführung (.listen) mit ▶, zweimal ohne Text: Wer hat den Turm gebaut, wie hieß er früher, warum „weiß“, ist er heute weiß, was kann man oben sehen; dazu Formen erkennen (Passiv-να-Form ξεχαστεί, Perfekt έχει φύγει, λένε ότι als indirekte Rede, εμένα μου, αν/όταν ohne θα); Lösung darf nicht an Aussprachemerkmale der Synthese gebunden sein; 2 -->
+::: {.callout-note .exercise}
+## Übung 23.6: Am Weißen Turm
+
+Hör die Führung zweimal mit ▶, ohne den Text aufzuklappen, und beantworte:
+
+1. Wer hat den Turm gebaut, und wann?
+2. Wozu diente er früher, und wie hieß er damals?
+3. Warum heißt er „weiß“? Ist er es heute?
+4. Was sieht man oben?
+
+Beim dritten Hören: An welchen Wörtern hörst du, dass die Führerin sich nicht ganz sicher ist?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Zu 1 und 2: [oθomaˈni], eine Ordnungszahl vor [eˈona], [filaˈci], [ˈematos]. Zu 3: nach
+[ʝaˈti] folgt die Frage, nach [ʝa na] der Zweck.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Die Unsicherheit steckt in einem Adverb aus Kapitel 22 und in einer Einleitung aus Kapitel 18.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. Die Osmanen, wahrscheinlich im 15. Jahrhundert ([τον δέκατο πέμπτο αιώνα]{lang="el"}).
+2. Als Gefängnis; man nannte ihn „Blutturm“ ([Πύργος του Αίματος]{lang="el"}).
+3. Ende des 19. Jahrhunderts wurde er weiß gestrichen, [για να ξεχαστεί το παλιό
+   όνομα]{lang="el"}: damit der alte Name vergessen wird. Heute nicht mehr: [Το χρώμα έχει
+   φύγει]{lang="el"}, Perfekt; er wirkt grau ([μου φαίνεται γκρι]{lang="el"}).
+4. Die ganze Uferpromenade, [αν ανεβείτε ως πάνω]{lang="el"}, ohne [θα]{lang="el"} in der
+   Bedingung.
+
+Unsicherheit: [μάλλον]{lang="el"} „wahrscheinlich“ und [λένε ότι]{lang="el"} „es heißt“.
+
+**Oft überhört:** [ξεχαστεί]{lang="el"} ist die [να]{lang="el"}-Form des Mediopassivs zu
+[ξεχνάω]{lang="el"}; wer [ksexaˈsti] nicht erkennt, versteht „damit er vergisst“.
+[Τον έχτισαν οι Οθωμανοί]{lang="el"} ist aktiv: Mit Täter sagt man es im Gespräch lieber so.
+:::
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -430,7 +728,47 @@ vorführen; dafür braucht es Menschen aus dem Norden. Zwei Quellen: Auf
 Rundfunks, das aus Thessaloniki sendet. Nachrichtensprecher sprechen dort Standard; ergiebiger
 sind Reportagen, in denen Leute auf der Straße, auf dem Markt oder im Dorf zu Wort kommen.
 
-<!-- EXERCISE: Hör-Auftrag mit nordgriechischen Sprechern: auf Easy Greek (Suche Θεσσαλονίκη, Σέρρες, Κοζάνη o.ä.; Sprecher, die sagen, dass sie aus dem Norden kommen) oder ERTflix (ΕΡΤ3-Reportage mit O-Tönen, nicht Nachrichtensprecher) zwei bis drei Minuten auswählen; Durchgang 1 ohne Untertitel: Strichliste für die drei Merkmale (σε/με + λέω/είπα/δίνω; dunkles λ vor a/o/u; Wörter mit verschlucktem i/u), Durchgang 2 mit griechischen Untertiteln: Funde bestätigen und aufschreiben; Antwort im Chat als Zahlen; Lösung als Auswertungsanleitung ohne feste Werte, ehrlich: manche Sprecher zeigen kaum Merkmale, auch das ist ein Befund; nur die Links https://www.youtube.com/@EasyGreekVideos und https://www.ertflix.gr; 2 -->
+::: {.callout-note .exercise}
+## Übung 23.7: Hör-Auftrag im Norden
+
+Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) nach [Θεσσαλονίκη]{lang="el"},
+[Σέρρες]{lang="el"} oder [Κοζάνη]{lang="el"} ein Interview, in dem jemand sagt, er komme aus dem
+Norden. Oder such auf [ERTflix](https://www.ertflix.gr) eine Reportage von ΕΡΤ3 mit Leuten auf
+der Straße, nicht den Nachrichtensprecher. Nimm zwei bis drei Minuten einer Person.
+
+**Durchgang 1, ohne Untertitel:** Mach eine Strichliste für die drei Merkmale: (A)
+[σε]{lang="el"} oder [με]{lang="el"} für „wem“ ([σε λέω, με είπε]{lang="el"}); (B) dunkles
+[λ]{lang="el"} vor [a o u]; (C) Wörter, denen hörbar ein [i] oder [u] fehlt.
+
+**Durchgang 2, mit griechischen Untertiteln:** Prüf deine Striche und schreib dir zu jedem
+Merkmal ein Beispiel auf. Im Chat: drei Zahlen, etwa „A1, B4, C6“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+B hörst du am leichtesten in häufigen Wörtern: [πολύ, πολλά, μιλάω, λάθος, καλά]{lang="el"}.
+Für A achte auf Verben des Sagens und Gebens.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Für C lohnt die Untertitel-Zeile: Steht dort ein Wort mit mehr Silben, als du gehört hast?
+Vorsicht, ein [σε]{lang="el"} bei [ευχαριστώ, βοηθάω]{lang="el"} zählt nicht.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Keine feste Lösung. Viele Striche bei (C) sind normal, verschluckte Vokale gibt es im schnellen
+Sprechen überall; nördlich wird es erst, wenn auch langsame Stellen betroffen sind. (A) ist das sicherste Merkmal, denn im Standard gibt es
+[σε λέω]{lang="el"} nicht. (B) ist am schwersten zu hören; zwei sichere Fälle sind schon ein
+Erfolg.
+
+Fast nichts gefunden ist auch ein Befund: Viele, besonders Jüngere und vor der Kamera, sprechen
+nahezu Standard. Versuch es dann mit einer älteren Person oder einer Reportage vom Land.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -600,7 +938,55 @@ du die Stadt: Glocken, einen Kringelverkäufer, jemanden, der ruft: „Sag ich d
 wenn du müde wirst, wartet an jeder Ecke eine Bougatsa auf dich.
 :::
 
-<!-- EXERCISE: Leseverstehen und Formen jagen zu «Μια βόλτα στην Εγνατία»: Teil A richtig/falsch (Gründer und Namensgeberin, Rotunde als sicheres Grab des Galerius, Sprachen unter den Osmanen, Brand und gerade Straßen, Flüchtlinge 1922/23, Mahnmal); Teil B Formen finden und benennen: alle Mediopassiv-Aoriste (ιδρύθηκε, χτίστηκε, παραδόθηκε, ξανασχεδιάστηκε), Perfekt (έχει γίνει), Plusquamperfekt (είχαν διωχτεί, είχαν μαζέψει), Relativwörter (που, η οποία, οι οποίοι, όπου), Gerundium, Vermutung (πρέπει να την ήθελε), Doppelung (τον μιναρέ της τον βλέπεις); Teil C laut lesen mit ▶, Aussprache von Εγνατία, Θεσσαλονίκης, αυτοκράτορα, Κωνσταντινούπολη, ετεροθαλής; 2 -->
+::: {.callout-note .exercise}
+## Übung 23.8: Die Egnatia nachgelesen
+
+**Teil A.** Richtig oder falsch? Im Chat etwa „1R, 2F …“.
+
+1. Alexander der Große gründete die Stadt und benannte sie nach seiner Schwester.
+2. Dass die Rotunde das Grab des Galerius ist, steht fest.
+3. Unter den Osmanen hörte man in der Stadt auch Spanisch.
+4. Die geraden Straßen um den Aristotelous-Platz sind eine Folge des Brandes.
+5. 1922 und 1923 verließen Flüchtlinge die Stadt Richtung Kleinasien.
+6. Das Mahnmal steht dort, wo 1942 jüdische Männer zusammengetrieben wurden.
+
+**Teil B.** Such im Text: vier Mediopassiv-Aoriste, ein Perfekt, zwei Plusquamperfekte, ein
+Gerundium, eine Vermutung und eine Doppelung. Welche Relativwörter kommen vor?
+
+**Teil C.** Lies die Absätze von der Gründung bis Byzanz mit ▶ laut mit. Achte auf [Εγνατία,
+αυτοκράτορα, Κωνσταντινούπολη, ετεροθαλής]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+A: Achte auf [πρέπει να]{lang="el"} und [κανείς δεν το ξέρει]{lang="el"}, und darauf, wer kam und
+wer ging. B: Mediopassiv-Aoriste enden auf [-θηκε, -τηκε]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+B: Drei Relativwörter, eins davon in zwei Formen; eins steht nach [πλατεία]{lang="el"}. Ein
+Plusquamperfekt steckt im Absatz über 1430.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**A:** 1F (Kassandros; Thessalonike war seine Frau, Alexanders Halbschwester), 2F ([πρέπει να
+την ήθελε]{lang="el"}, „wohl“), 3R, 4R, 5F (sie kamen, die Muslime gingen), 6R.
+
+**B:** [ιδρύθηκε, χτίστηκε, παραδόθηκε, ξανασχεδιάστηκε]{lang="el"}; [έχει γίνει]{lang="el"};
+[είχαν διωχτεί, είχαν μαζέψει (και ταπεινώσει)]{lang="el"}; [Περπατώντας]{lang="el"}; [πρέπει να την ήθελε]{lang="el"}; [τον μιναρέ της τον
+βλέπεις]{lang="el"}. Relativwörter: [που]{lang="el"} (viermal), [η οποία, οι οποίοι]{lang="el"},
+[όπου]{lang="el"}. Oft
+übersehen: [στέκεται]{lang="el"} ist Mediopassiv, aber Präsens; [κουραστείς]{lang="el"} ist die
+Form ohne [θα]{lang="el"} nach [αν]{lang="el"}.
+
+**C:** [eɣnaˈtia], [aftoˈkratora], [konstandiˈnupoli] mit [nd], [eteroθaˈlis], betont auf der
+letzten Silbe.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
