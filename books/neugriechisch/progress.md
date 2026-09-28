@@ -29,7 +29,7 @@
 | 23 Thessaloniki und Zwischenbilanz | veröffentlicht | Welle 11; Audio vollständig |
 | 24 Was wäre, wenn: Irrealis und Wünsche | veröffentlicht | Welle 10; Audio vollständig |
 | 25 Er muss gegangen sein: Vermutungen über die Vergangenheit | veröffentlicht | Welle 11; Audio vollständig |
-| 26 Wortbildung I: Präfixe und Verkleinerungen | veröffentlicht | Welle 12; Audio läuft |
+| 26 Wortbildung I: Präfixe und Verkleinerungen | veröffentlicht | Welle 12; Audio vollständig |
 | 27 Wortbildung II: die Sprache der Wissenschaft | Entwurf | Welle 13 |
 | 29 Argumentieren | fertig | Welle 11; wartet auf 26–28 |
 | 30 Redewendungen | Konsistenz | Welle 12; überarbeitet |

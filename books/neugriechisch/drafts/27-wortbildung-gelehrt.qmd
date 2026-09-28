@@ -1,0 +1,688 @@
+---
+title: "Wortbildung II: die Sprache der Wissenschaft"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+- **Internationalismen** (Kapitel 6): [-μα]{lang="el"} sächlich ([το πρόβλημα]{lang="el"}),
+  [-ση, -ξη, -ψη, -ία]{lang="el"} weiblich ([η ανάλυση, η θεωρία]{lang="el"}), [-ισμός]{lang="el"}
+  männlich; weiblich auf [-ος]{lang="el"}: [η μέθοδος, η περίοδος]{lang="el"}.
+- **Betonung** (Kapitel 1): [το τηλέφωνο]{lang="el"} [tiˈlefono], [η ενέργεια]{lang="el"}
+  [eˈnerʝia]. Das deutsche Wortbild hilft beim Lesen, nicht beim Betonen.
+- **Perfektiver Stamm** (Kapitel 2): [σ, ψ, ξ]{lang="el"} vor der Endung: [μέτρησα, ανακάλυψα,
+  απέδειξα]{lang="el"}.
+- **Augment in der Wortmitte** (Kapitel 2, 7, 25, 26): [κατέστρεψα, υπέγραψα, συνέβη,
+  παρήγγειλα]{lang="el"}, nur betont: [καταστρέψαμε]{lang="el"}.
+:::
+
+## Beim Arzt auf Paros {#sec-gelehrt-einstieg}
+
+Ein Augustabend im Gesundheitszentrum ([το Κέντρο Υγείας]{lang="el"}) von Paros. Ein deutscher
+Vater sitzt mit seinem Sohn vor der Ärztin. Der Junge war eine Woche lang jeden Tag stundenlang im
+Meer und hält sich jetzt das Ohr.
+
+::: {lang="el"}
+— Λοιπόν, ο μικρός έχει ωτίτιδα. Από το πολύ κολύμπι. Κάθε καλοκαίρι τη βλέπουμε.
+
+— Ωτίτιδα… [Otitis]{lang="la"}, δηλαδή;
+
+— Ακριβώς. Εσείς το λέτε στα λατινικά, εμείς στα ελληνικά. Θα σας γράψω σταγόνες με
+αντιβίωση. Έχει πυρετό;
+
+— Δεν ξέρω. Δεν έχουμε θερμομέτρο.
+
+— Θερμόμετρο. Θα βρείτε στο φαρμακείο. Αν έχει πάνω από τριάντα οχτώ, του δίνετε κι ένα
+αντιπυρετικό.
+
+— Και αν δεν περάσει;
+
+— Τότε να τον πάτε σε ωτορινολαρυγγολόγο.
+
+— Σε… ποιον;
+
+— Σε ωριλά. Ολόκληρο δεν το λέει κανείς.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Also, der Kleine hat eine Mittelohrentzündung. Vom vielen Schwimmen. Die sehen wir jeden Sommer.
+
+— *Otitis*, also?
+
+— Genau. Sie sagen es auf Lateinisch, wir auf Griechisch. Ich verschreibe Ihnen Tropfen mit
+Antibiotikum. Hat er Fieber?
+
+— Weiß ich nicht. Wir haben kein Thermometer.
+
+— [θερμόμετρο]{lang="el"}. Bekommen Sie in der Apotheke. Wenn er über achtunddreißig hat, geben Sie
+ihm noch ein fiebersenkendes Mittel.
+
+— Und wenn es nicht besser wird?
+
+— Dann bringen Sie ihn zum Hals-Nasen-Ohren-Arzt.
+
+— Zum … wem?
+
+— Zum HNO. Das ganze Wort sagt keiner.
+:::
+
+Der Vater hat fast alles verstanden, und zwar nicht wegen seines Griechischkurses. [ωτίτιδα,
+αντιβίωση, θερμόμετρο, αντιπυρετικό]{lang="el"}: Das sind die Wörter, aus denen Europa seine
+Fachsprachen gebaut hat. Gescheitert ist er nur an der Betonung, [θερμομέτρο]{lang="el"} statt
+[θερμόμετρο]{lang="el"}, weil er das deutsche *Thermo**me**ter* im Ohr hatte.
+
+Und die Ärztin hat recht, auch wenn sie übertreibt: *Otitis* ist lateinisch nur in der Form.
+[ωτ-]{lang="el"} ist das Ohr (altgriechisch [ους, ωτός]{lang="grc"}), und die Endung *-itis* für
+Entzündungen kommt vom griechischen [-ίτις]{lang="grc"}. Für eine Griechin ist das Wort durchsichtig:
+„Ohr-Entzündung“. Den Riesen [ωτο-ρινο-λαρυγγο-λόγος]{lang="el"} kürzt sie genauso ab wie wir
+unseren Hals-Nasen-Ohren-Arzt: [ο ωριλάς]{lang="el"}, nach den Anfangsbuchstaben
+[ΩΡΛ]{lang="el"}.
+
+Dieses Kapitel hat drei Ziele: solche Wörter **zerlegen**, sie **griechisch betonen** und wissen,
+**was sie heute im Griechischen bedeuten**. Das Letzte ist nicht immer das, was ein deutsches
+Fachwort erwarten lässt.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η αντιβίωση]{lang="el"} | [i adiˈviosi] | das Antibiotikum (umg.); die Antibiotikabehandlung |
+| [ο πυρετός]{lang="el"} | [o pireˈtos] | das Fieber |
+| [το θερμόμετρο]{lang="el"} | [to θerˈmometro] | das Thermometer |
+| [ο ωριλάς, οι ωριλάδες]{lang="el"} | [o oriˈlas] | der HNO-Arzt (umg.) |
+| [γράφω, έγραψα]{lang="el"} | [ˈɣrafo], [ˈeɣrapsa] | hier: verschreiben ([Θα σας γράψω …]{lang="el"}) |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [το Κέντρο Υγείας]{lang="el"} | das Gesundheitszentrum (Erstversorgung auf dem Land und auf Inseln) |
+| [η ωτίτιδα]{lang="el"} | die Ohrenentzündung |
+| [το κολύμπι]{lang="el"} | das Schwimmen ([κολυμπάω]{lang="el"}, Kapitel 4) |
+| [οι σταγόνες]{lang="el"} | die Tropfen |
+| [το αντιπυρετικό]{lang="el"} | das fiebersenkende Mittel |
+| [Αν δεν περάσει]{lang="el"} | Wenn es nicht vorbeigeht |
+| [ο ωτορινολαρυγγολόγος]{lang="el"} | der Hals-Nasen-Ohren-Arzt |
+| [ολόκληρος, -η, -ο]{lang="el"} | ganz, vollständig |
+:::
+
+## Zerlegen: Stamm, [-ο-]{lang="el"}, Stamm {#sec-gelehrt-komposita}
+
+Das Rezept kennst du aus dem Deutschen: *Therm-o-meter*, *Bi-o-logie*, *Mikr-o-skop*. Zwei
+Stämme, dazwischen ein [-ο-]{lang="el"}, hinten die Endung. Ein Wort aus mehreren Stämmen heißt
+**Kompositum** ([η σύνθετη λέξη]{lang="el"}), das [-ο-]{lang="el"} in der Mitte **Bindevokal**.
+
+| Wort | zerlegt | wörtlich |
+|---|---|---|
+| [το θερμόμετρο]{lang="el"} | [θερμ-ό-μετρ-ο]{lang="el"} | Wärme-Messer |
+| [η βιολογία]{lang="el"} | [βι-ο-λογ-ία]{lang="el"} | Lehre vom Leben |
+| [το μικροσκόπιο]{lang="el"} | [μικρ-ο-σκόπ-ιο]{lang="el"} | Klein-Schauer |
+| [ο φωτογράφος]{lang="el"} | [φωτ-ο-γράφ-ος]{lang="el"} | Licht-Schreiber |
+| [η δημοκρατία]{lang="el"} | [δημ-ο-κρατ-ία]{lang="el"} | Volks-Herrschaft |
+| [τα μαχαιροπίρουνα]{lang="el"} | [μαχαιρ-ο-πίρουν-α]{lang="el"} | Messer-Gabeln: Besteck |
+
+Die letzte Zeile zeigt, dass das Muster lebt. Auch die Alltagssprache setzt so zusammen: [το
+ηλιοβασίλεμα]{lang="el"} ist der „Sonnen-Untergang“, [το αλατοπίπερο]{lang="el"} Salz und Pfeffer.
+
+Drei Kleinigkeiten beim Zerlegen:
+
+- **Vor Vokal fällt das [-ο-]{lang="el"}:** [ωτ-ίτιδα]{lang="el"}, [παιδ-ίατρος]{lang="el"}
+  (Kinderarzt), [οδοντ-ίατρος]{lang="el"} (Zahnarzt).
+- **Einige vordere Teile enden anders:** [τηλε-]{lang="el"} „fern“ ([το τηλέφωνο, η
+  τηλεόραση]{lang="el"}, „Fern-Sehen“), [γεω-]{lang="el"} „Erde“ ([η γεωγραφία]{lang="el"}).
+- **Der Stamm ist oft der des Genitivs**, wie beim Diminutiv in Kapitel 26: [το φως, του
+  φωτός]{lang="el"} → [φωτ-ο-]{lang="el"}, [το γάλα, του γάλακτος]{lang="el"} → [ο
+  γαλαξίας]{lang="el"}, die Milchstraße.
+
+Gelesen wird **von hinten**, wie im Deutschen: Der hintere Teil sagt, *was* das Wort ist (ein
+Messgerät, ein Fach, eine Person, eine Krankheit), der vordere, *wovon*. Ein Wärmemesser ist ein
+Messgerät, kein Stück Wärme. Die wichtigsten hinteren Teile:
+
+| hinterer Teil | Bedeutung | Beispiele |
+|---|---|---|
+| [-λογία / -λόγος]{lang="el"} | Lehre / Fachmann ([ο λόγος]{lang="el"} Wort, Vernunft) | [η ψυχολογία, ο σεισμολόγος]{lang="el"} |
+| [-γραφία / -γράφος]{lang="el"} | Beschreibung, Bild / wer schreibt | [η γεωγραφία, ο φωτογράφος]{lang="el"} |
+| [-νομία / -νόμος]{lang="el"} | Ordnung, Gesetz | [η αστρονομία, η οικονομία]{lang="el"} |
+| [-μετρο, -σκόπιο, -φωνο]{lang="el"} | Gerät: misst, zeigt, klingt | [το χιλιόμετρο, το τηλεσκόπιο, το μικρόφωνο]{lang="el"} |
+| [-ίατρος]{lang="el"} | Arzt | [ο παιδίατρος, ο ψυχίατρος]{lang="el"} |
+| [-ίτιδα]{lang="el"} | Entzündung | [η αρθρίτιδα, η βρογχίτιδα]{lang="el"} |
+
+Ein Unterschied bleibt: Für Deutsche sind das Fachwörter, für Griechen oft Klartext. Wer [ο
+σεισμός]{lang="el"} (Kapitel 10) kennt, weiß, was ein [σεισμολόγος]{lang="el"} tut; nach jedem
+Beben sitzt einer im Fernsehstudio. Nicht alle Bausteine sind allerdings noch im Umlauf. Im Alltag
+heißt das Ohr [το αυτί]{lang="el"}, die Nase [η μύτη]{lang="el"}, der Arzt [ο γιατρός]{lang="el"}.
+Die alten Formen [ωτ-, ριν-, ιατρ-]{lang="el"} leben nur in den gelehrten Wörtern weiter: [η
+ιατρική]{lang="el"} ist die Medizin, [το ιατρείο]{lang="el"} die Arztpraxis.
+
+<!-- EXERCISE: Komposita zerlegen und von hinten lesen; zehn Wörter, davon mindestens sechs unbekannte (z.B. σεισμογράφος, υδρόμετρο? besser: ο υδραυλικός als Falle, η ωτίτιδα, η γαστρεντερίτιδα, ο κτηνίατρος, το βαρόμετρο, η καρδιολογία, ο αστροφυσικός, το στηθοσκόπιο, η χρονολογία aus 25, τα μαχαιροπίρουνα), Bausteine mit Bedeutung darunter angeben (καρδιά, στήθος, βάρος, κτήνος „Vieh“, γαστήρ „Magen“, έντερο „Darm“); Aufgabe: Teile trennen, Bindevokal zeigen, Bedeutung nennen; Antwort im Chat als Zuordnung zu einer nummerierten Bedeutungsliste; Lösung mit Zerlegung und Hinweis, dass der hintere Teil entscheidet; Schwierigkeit 1 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το μικροσκόπιο]{lang="el"} | [to mikroˈskopio] | das Mikroskop |
+| [το τηλεσκόπιο]{lang="el"} | [to tileˈskopio] | das Teleskop |
+| [η τηλεόραση]{lang="el"} | [i tileˈorasi] | das Fernsehen; der Fernseher |
+| [τα μαχαιροπίρουνα]{lang="el"} | [ta maxeroˈpiruna] | das Besteck |
+| [το ηλιοβασίλεμα]{lang="el"} | [to iʎovaˈsilema] | der Sonnenuntergang |
+| [ο παιδίατρος, η παιδίατρος]{lang="el"} | [o peˈðiatros] | der Kinderarzt, die Kinderärztin |
+| [ο οδοντίατρος, η οδοντίατρος]{lang="el"} | [o oðoˈdiatros] | der Zahnarzt, die Zahnärztin |
+| [η ιατρική]{lang="el"} | [i iatriˈci] | die Medizin (Fach) |
+| [το ιατρείο]{lang="el"} | [to iatˈrio] | die Arztpraxis |
+| [το αυτί, τα αυτιά]{lang="el"} | [to afˈti], [ta afˈtʝa] | das Ohr |
+| [η μύτη]{lang="el"} | [i ˈmiti] | die Nase |
+:::
+
+## Die Endung sagt, wo die Betonung sitzt {#sec-gelehrt-betonung}
+
+[θερμομέτρο]{lang="el"}, sagte der Vater. Das Deutsche betont seine griechischen Wörter nach
+eigenen Regeln, und die führen oft auf die falsche Silbe. Die gute Nachricht: Bei gelehrten Wörtern
+verrät meist der hintere Teil, wo die Betonung sitzt.
+
+| Endung | Betonung | Beispiele |
+|---|---|---|
+| [-λογία, -γραφία, -νομία, -μετρία, -κρατία]{lang="el"} | auf [-ί-]{lang="el"} | [βιολογία, γεωγραφία, αστρονομία, γεωμετρία]{lang="el"} |
+| [-λόγος, -γράφος, -νόμος]{lang="el"} (Person) | vorletzte Silbe | [βιολόγος, φωτογράφος, αστρονόμος]{lang="el"} |
+| [-ική, -ικά, -ικός]{lang="el"} | letzte Silbe | [φυσική, πληροφορική, μαθηματικά]{lang="el"} |
+| [-ισμός]{lang="el"} | letzte Silbe | [μαγνητισμός, οργανισμός]{lang="el"} |
+| [-μετρο, -φωνο]{lang="el"} | Silbe davor | [θερμόμετρο, χιλιόμετρο, μικρόφωνο]{lang="el"} |
+| [-σκόπιο, -όνιο]{lang="el"} | [σκό, ό]{lang="el"} | [μικροσκόπιο, ηλεκτρόνιο, πρωτόνιο]{lang="el"} |
+| [-ίτιδα, -ίατρος]{lang="el"} | [ί]{lang="el"} | [ωτίτιδα, αρθρίτιδα, παιδίατρος]{lang="el"} |
+
+Fach und Fachmann bilden Paare, und die Betonung springt zwischen ihnen: [η βιολογία – ο
+βιολόγος]{lang="el"} [violoˈʝia – vioˈloɣos], [η φωτογραφία – ο φωτογράφος]{lang="el"}. Bei den
+Fächern auf [-ική]{lang="el"} ist die Person das männliche Adjektiv: [η φυσική – ο
+φυσικός]{lang="el"}, [η χημεία – ο χημικός]{lang="el"}, [τα μαθηματικά – ο
+μαθηματικός]{lang="el"}. [φυσικός]{lang="el"} heißt zugleich „natürlich“, und [Φυσικά!]{lang="el"}
+„Natürlich!“ (Kapitel 4) hörst du öfter als jedes Wort aus der Physik. Beide kommen von [η
+φύση]{lang="el"}, der Natur: Physik war die Lehre von der Natur.
+
+Wo das Deutsche den Weg weist und wo nicht, zeigt die Gegenüberstellung:
+
+| Deutsch | Griechisch |
+|---|---|
+| Bio**lo**gie, Theo**rie**, Demokra**tie** | [βιολογία, θεωρία, δημοκρατία]{lang="el"}: gleich |
+| Phy**sik**, Mathema**tik** | [φυσική, μαθηματικά]{lang="el"}: fast gleich, eine Silbe weiter hinten |
+| Thermo**me**ter, Kilo**me**ter | [θερμόμετρο, χιλιόμετρο]{lang="el"} [θerˈmometro, çiˈʎometro] |
+| A**tom**, E**ner**gie | [το άτομο, η ενέργεια]{lang="el"} [ˈatomo, eˈnerʝia] |
+| Me**tho**de, Ana**ly**se, Hypo**the**se | [η μέθοδος, η ανάλυση, η υπόθεση]{lang="el"} [ˈmeθoðos, aˈnalisi, iˈpoθesi] |
+
+::: {.callout-warning}
+## Achtung
+
+Die Fallen sind die Wörter, die du „schon kennst“: \*[θερμομέτρο]{lang="el"},
+\*[ατόμο]{lang="el"}, \*[αναλύση]{lang="el"}. Sprich neue gelehrte Wörter nie nach dem deutschen
+Klang, sondern schau auf den Akzent. Er steht immer da.
+:::
+
+### [-ση, -ξη, -ψη]{lang="el"}: der Aorist im Nomen {#sec-gelehrt-aorist-nomen}
+
+Die letzte Zeile der Tabelle lässt sich erklären. Stell ein paar Nomen neben die ich-Form des
+Aorists:
+
+| Aorist | Nomen | Deutsch |
+|---|---|---|
+| [μέτρησα]{lang="el"} | [η μέτρηση]{lang="el"} | die Messung |
+| [παρατήρησα]{lang="el"} | [η παρατήρηση]{lang="el"} | die Beobachtung |
+| [εξίσωσα]{lang="el"} | [η εξίσωση]{lang="el"} | die Gleichung |
+| [κίνησα]{lang="el"} | [η κίνηση]{lang="el"} | die Bewegung; der Verkehr |
+| [ανακάλυψα]{lang="el"} | [η ανακάλυψη]{lang="el"} | die Entdeckung |
+| [απέδειξα]{lang="el"} | [η απόδειξη]{lang="el"} | der Beweis; die Quittung |
+
+Das Nomen ist der perfektive Stamm ohne Augment mit der Endung [-η]{lang="el"}. Die
+[σ, ψ, ξ]{lang="el"} aus Kapitel 2 tauchen hier wieder auf, und die Betonung sitzt meist auf
+derselben Silbe wie in der ich-Form: [ˈmetrisa – ˈmetrisi]. Im Plural wandert die Betonung, wie bei
+[η ανάλυση – οι αναλύσεις]{lang="el"} (Kapitel 6): [οι μετρήσεις, οι εξισώσεις]{lang="el"}.
+
+Der Handgriff funktioniert in beide Richtungen: Wer das Verb kennt, versteht das Nomen, und umgekehrt.
+Aus [λύνω, έλυσα]{lang="el"} „lösen“ wird [η λύση]{lang="el"}, die Lösung. Es ist aber eine
+Faustregel: Nicht jedes Verb hat so ein Nomen, und aus [έγραψα]{lang="el"} wird nicht
+\*[γράψη]{lang="el"}, sondern [η γραφή]{lang="el"} (Kapitel 25).
+
+[η κίνηση]{lang="el"} zeigt, wie ein Fachwort im Alltag landet: In der Physik ist es die Bewegung,
+im Radio der Verkehr. [Έχει πολλή κίνηση στον Κηφισό.]{lang="el"} heißt „Auf dem Kifisos ist viel
+Verkehr“, und gemeint ist die Stadtautobahn, nicht der Fluss.
+
+<!-- EXERCISE: internationale Wörter griechisch betonen und ση-Nomen bilden; Teil A: zwölf Wörter ohne Akzent als .no-audio-Liste laut betonen (z.B. θερμομετρο, χιλιομετρο, ατομο, ενεργεια, μεθοδος, υποθεση, φυσικη, μαθηματικα, ψυχολογος, ψυχολογια, μικροσκοπιο, ηλεκτρονιο, αρθριτιδα, μαγνητισμος), Antwort im Chat als Silbennummer von hinten (1/2/3); Teil B: aus fünf Aoristen das Nomen bilden und umgekehrt (z.B. εξήγησα → εξήγηση, συνέθεσα? besser ανέλυσα vermeiden; μέτρησα, διάβασα?, σύγκρινα → σύγκριση, εξέτασα → εξέταση, πρόβλεψα → πρόβλεψη; η λύση → έλυσα), Plural mit wandernder Betonung laut; Lösung mit IPA, keine Lösung an ▶ gebunden, typische Fehler nach deutschem Klang; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η φυσική]{lang="el"} | [i fisiˈci] | die Physik |
+| [ο φυσικός, η φυσικός]{lang="el"} | [o fisiˈkos] | der Physiker, die Physikerin |
+| [φυσικός, -ή, -ό]{lang="el"} | [fisiˈkos] | natürlich; physikalisch |
+| [τα μαθηματικά]{lang="el"} | [ta maθimatiˈka] | die Mathematik |
+| [η χημεία]{lang="el"} | [i çiˈmia] | die Chemie |
+| [η βιολογία]{lang="el"} | [i violoˈʝia] | die Biologie |
+| [η πληροφορική]{lang="el"} | [i pliroforiˈci] | die Informatik |
+| [το χιλιόμετρο]{lang="el"} | [to çiˈʎometro] | der Kilometer |
+| [το άτομο]{lang="el"} | [to ˈatomo] | das Atom (Bedeutung im Alltag: @sec-gelehrt-falsche-freunde) |
+| [η ενέργεια]{lang="el"} | [i eˈnerʝia] | die Energie |
+| [η μέτρηση, οι μετρήσεις]{lang="el"} | [i ˈmetrisi], [i meˈtrisis] | die Messung |
+| [η παρατήρηση]{lang="el"} | [i paraˈtirisi] | die Beobachtung; die Bemerkung |
+| [η εξίσωση]{lang="el"} | [i eˈksisosi] | die Gleichung |
+| [η ανακάλυψη]{lang="el"} | [i anaˈkalipsi] | die Entdeckung |
+| [η λύση]{lang="el"} | [i ˈlisi] | die Lösung |
+| [η κίνηση]{lang="el"} | [i ˈcinisi] | die Bewegung; der Verkehr |
+:::
+
+## Gelehrte Vorsilben {#sec-gelehrt-vorsilben}
+
+Kapitel 26 endete mit einem Rätsel: Warum bestellt niemand „zu viel“, wenn er
+[παραγγέλνει]{lang="el"}? Weil [παρα-]{lang="el"} hier seine alte Bedeutung hat, „neben, bei“, und
+dahinter ein alter Bekannter steckt: [αγγέλλω]{lang="grc"} „melden“, verwandt mit [ο
+άγγελος]{lang="el"}, dem Boten und Engel. Wer bestellt, gibt eine Nachricht weiter. Dieselbe
+Bedeutung hat [παρα-]{lang="el"} in [παράλληλος]{lang="el"} „nebeneinander“ und in [το
+παράδειγμα]{lang="el"}, dem „daneben Gezeigten“, dem Beispiel.
+
+Die gelehrten Vorsilben stammen aus altgriechischen Präpositionen. Du kennst viele davon aus
+deutschen Fremdwörtern:
+
+| Vorsilbe | Bedeutung | Beispiele |
+|---|---|---|
+| [α-, αν-]{lang="el"} | un-, ohne | [το άτομο]{lang="el"} (unteilbar), [άγνωστος, η ανεργία]{lang="el"} |
+| [αντι-]{lang="el"} | gegen; statt | [η αντιβίωση]{lang="el"}, [αντιγράφω]{lang="el"} abschreiben |
+| [απο-]{lang="el"} | weg, ab | [αποφεύγω, αποδεικνύω]{lang="el"} |
+| [δια-]{lang="el"} | durch, auseinander | [η διάγνωση, η διάμετρος]{lang="el"} |
+| [εκ-, εξ-]{lang="el"} | aus, heraus | [η έκρηξη, η εξέλιξη]{lang="el"} (Evolution) |
+| [εν-, εμ-, εγ-]{lang="el"} | in | [η ενέργεια, ο εγκέφαλος]{lang="el"} (Gehirn) |
+| [επι-]{lang="el"} | auf, dazu | [η επιφάνεια]{lang="el"} (Oberfläche), [ο επιβάτης]{lang="el"} |
+| [κατα-]{lang="el"} | herab; ganz | [η καταστροφή, ο κατάλογος]{lang="el"} |
+| [μετα-]{lang="el"} | nach; um- | [η μετάφραση, μετακομίζω]{lang="el"} |
+| [παρα-]{lang="el"} | neben, bei | [παράλληλος, το παράδειγμα]{lang="el"} |
+| [περι-]{lang="el"} | um … herum | [η περίμετρος, περιγράφω]{lang="el"} |
+| [προ-]{lang="el"} | vor | [προβλέπω, το πρόβλημα]{lang="el"} |
+| [προσ-]{lang="el"} | hinzu | [προσθέτω, η πρόσθεση]{lang="el"} |
+| [υπερ-]{lang="el"} | über, zu sehr | [η υπέρταση]{lang="el"} (Bluthochdruck), [η υπερβολή]{lang="el"} |
+| [υπο-]{lang="el"} | unter | [η υπόθεση, ο υπότιτλος]{lang="el"} |
+
+Dazu kommt [συν-]{lang="el"} aus Kapitel 26, das sich wie [εν-]{lang="el"} dem folgenden Laut
+anpasst: [εν + κεφαλή]{lang="grc"} „im Kopf“ ergibt [ο εγκέφαλος]{lang="el"} [eˈɟefalos].
+
+Vor Vokal verlieren die meisten ihren Endvokal: [απ-, δι-, επ-, κατ-, μετ-, παρ-, υπ-]{lang="el"}.
+Manchmal wird dabei aus [π]{lang="el"} ein [φ]{lang="el"} und aus [τ]{lang="el"} ein
+[θ]{lang="el"}, weil das folgende Wort im Altgriechischen mit einem *h*-Laut begann. Deshalb heißt
+die App [η εφαρμογή]{lang="el"} ([επ(ι)- + αρμ-]{lang="el"}, „das Daraufpassen“), und deshalb steckt
+in [ο καθηγητής]{lang="el"} (Kapitel 18) [κατα-]{lang="el"}. Die Grundrechenarten, [οι
+πράξεις]{lang="el"}, sind ein kleiner Vorsilbenkurs: [η πρόσθεση]{lang="el"} „Hinzusetzen“,
+[η αφαίρεση]{lang="el"} „Wegnehmen“ (die Aphärese aus Kapitel 21), [η διαίρεση]{lang="el"}
+„Auseinandernehmen“; nur [ο πολλαπλασιασμός]{lang="el"}, die Multiplikation, braucht keine
+Vorsilbe.
+
+Die Methode aus Kapitel 26 gilt weiter: Vorsilbe abtrennen, Rest erkennen, am Satz prüfen. Nur ist
+der Rest bei gelehrten Wörtern öfter unbekannt, und die Bedeutung hat sich weiter entfernt. [η
+υπόθεση]{lang="el"} ist wörtlich eine „Unter-Stellung“, lateinisch *suppositio*; was sie im Alltag
+heißt, steht in @sec-gelehrt-falsche-freunde.
+
+<!-- EXERCISE: gelehrte Vorsilben abtrennen und Bedeutung erschließen; acht Sätze mit einem hervorgehobenen Wort (z.B. αντίθετος, ανώνυμος, η διαφάνεια, εξάγω/η εξαγωγή, η περιφέρεια, προϊστορικός, υπερηχογράφημα „Ultraschall“, η υπόγεια (διάβαση), η αντίδραση), Grundwörter angegeben; Auswahl aus nummerierter Bedeutungsliste, Antwort „a3, b7 …“; eine Falle, in der das Wort gar keine Vorsilbe hat (z.B. το παράθυρο? nur falls gesichert, sonst ο κατάλογος als durchsichtig verblasst); Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το παράδειγμα]{lang="el"} | [to paˈraðiɣma] | das Beispiel; [για παράδειγμα]{lang="el"} zum Beispiel |
+| [παράλληλος, -η, -ο]{lang="el"} | [paˈralilos] | parallel |
+| [η εξέλιξη]{lang="el"} | [i eˈkseliksi] | die Entwicklung; die Evolution |
+| [ο εγκέφαλος]{lang="el"} | [o eˈɟefalos] | das Gehirn |
+| [η επιφάνεια]{lang="el"} | [i epiˈfania] | die Oberfläche |
+| [η εφαρμογή]{lang="el"} | [i efarmoˈʝi] | die Anwendung; die App |
+| [η υπερβολή]{lang="el"} | [i ipervoˈli] | die Übertreibung; die Hyperbel |
+| [η υπέρταση]{lang="el"} | [i iˈpertasi] | der Bluthochdruck |
+| [η πρόσθεση]{lang="el"} | [i ˈprosθesi] | die Addition |
+| [η αφαίρεση]{lang="el"} | [i aˈferesi] | die Subtraktion |
+| [η διαίρεση]{lang="el"} | [i ðiˈeresi] | die Division |
+| [ο πολλαπλασιασμός]{lang="el"} | [o polaplasiazˈmos] | die Multiplikation |
+:::
+
+### Das Augment im Wortinneren {#sec-gelehrt-augment}
+
+Seit Kapitel 2 begegnen dir Aoriste, bei denen das [ε-]{lang="el"} nicht vorn steht, sondern hinter
+der Vorsilbe:
+
+| Präsens | Aorist | zerlegt |
+|---|---|---|
+| [καταστρέφω]{lang="el"} | [κατέστρεψα]{lang="el"} | [κατ-έ-στρεψα]{lang="el"} |
+| [υπογράφω]{lang="el"} | [υπέγραψα]{lang="el"} | [υπ-έ-γραψα]{lang="el"} |
+| [μεταφράζω]{lang="el"} | [μετέφρασα]{lang="el"} | [μετ-έ-φρασα]{lang="el"} |
+| [αντιγράφω]{lang="el"} | [αντέγραψα]{lang="el"} | [αντ-έ-γραψα]{lang="el"} |
+| [περιγράφω]{lang="el"} | [περιέγραψα]{lang="el"} | [περι-έ-γραψα]{lang="el"} |
+| [συμβαίνει]{lang="el"} | [συνέβη]{lang="el"} | [συν-έ-βη]{lang="el"} |
+| [παραγγέλνω]{lang="el"} | [παρήγγειλα]{lang="el"} | [παρ-ή-γγειλα]{lang="el"} |
+
+Das nennt man **inneres Augment**. Es folgt derselben Regel wie das Augment vorn: Es steht nur,
+wenn es betont ist. [κατέστρεψα]{lang="el"}, aber [καταστρέψαμε]{lang="el"}; [μετέφρασε]{lang="el"},
+aber [μεταφράσαμε]{lang="el"}.
+
+Drei Dinge passieren dabei:
+
+- **Die Vorsilbe verliert ihren Endvokal** vor dem [ε]{lang="el"}: [κατα- → κατ-έ]{lang="el"},
+  [υπο- → υπ-έ]{lang="el"}. [περι-]{lang="el"} und [προ-]{lang="el"} behalten ihn:
+  [περιέγραψα]{lang="el"}, [προέβλεπε]{lang="el"} (Kapitel 13).
+- **Angepasste Vorsilben nehmen wieder ihre Grundform an:** [συμ-βαίνει]{lang="el"}, aber
+  [συν-έ-βη]{lang="el"}, denn vor Vokal heißt es [συν-]{lang="el"} (Kapitel 26).
+- **Beginnt der Stamm mit einem Vokal, wird daraus ein [η]{lang="el"}:** [αγγέλλω → ήγγειλα]{lang="grc"},
+  also [παρήγγειλα]{lang="el"} [paˈriŋɟila]. Dasselbe hörst du in den Nachrichten bei
+  [ανήγγειλε]{lang="el"} „kündigte an“.
+
+Welche Verben das tun, lässt sich nicht vorhersagen. Es sind gelehrte Verben, die ihr Augment aus
+dem Altgriechischen mitgebracht haben. Verben, die längst Alltagswörter sind, setzen trotz gleicher
+Vorsilbe das Augment vorn oder gar nicht: [αποφάσισα, πρόσθεσα, υποστήριξα, ανακάλυψα]{lang="el"}.
+Den schönsten Beweis liefert ein Paar: [κατάλαβα]{lang="el"} „ich habe verstanden“ kommt von
+[καταλαβαίνω]{lang="el"}, der volkstümlichen Form von [καταλαμβάνω]{lang="el"}. Das gelehrte
+Original gibt es noch, mit eigener Bedeutung und innerem Augment: [Ο στρατός κατέλαβε την
+πόλη.]{lang="el"} „Das Heer nahm die Stadt ein.“ Ein Verb, zwei Wege, zwei Bedeutungen.
+
+::: {.callout-tip}
+## Tipp
+
+Zum Verstehen reicht ein Handgriff: Steht hinter einem Wortanfang wie [κατ-, απ-, υπ-, μετ-, συν-,
+διε-]{lang="el"} ein betontes [έ]{lang="el"} oder [ή]{lang="el"}, nimm es heraus und such das
+Präsens: [απέφυγε → αποφεύγω]{lang="el"}, [συνέβη → συμβαίνει]{lang="el"}. Aktiv brauchst du nur
+die Verben aus den Vokabeltabellen.
+:::
+
+<!-- EXERCISE: inneres Augment; Teil A: sieben Aoriste aus Nachrichtensätzen zurückführen (z.B. απέφυγε, συνέβη, ενέκρινε ← εγκρίνω, εξέπληξε ← εκπλήσσω, διέκοψε ← διακόπτω, κατέλαβε, ανήγγειλε) und Präsens nennen, Auswahl aus Liste; Teil B: laut die ich- und wir-Form bilden (μεταφράζω, αντιγράφω, περιγράφω, υπογράφω, καταστρέφω) mit Betonung/Augment nur betont (μετέφρασα – μεταφράσαμε); Teil C: Falle mit Alltagsverben ohne inneres Augment (καταλαβαίνω, αποφασίζω, ανακαλύπτω); Lösung mit Zerlegung und typischem Fehler *μετεφράσαμε; Schwierigkeit 2–3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [μεταφράζω, μετέφρασα, μεταφράστηκα]{lang="el"} | [metaˈfrazo], [meˈtefrasa], [metaˈfrastika] | übersetzen |
+| [η μετάφραση]{lang="el"} | [i meˈtafrasi] | die Übersetzung |
+| [αντιγράφω, αντέγραψα, αντιγράφτηκα]{lang="el"} | [adiˈɣrafo], [aˈdeɣrapsa], [adiˈɣraftika] | kopieren; abschreiben (in der Prüfung) |
+| [περιγράφω, περιέγραψα, περιγράφτηκα]{lang="el"} | [periˈɣrafo], [periˈeɣrapsa], [periˈɣraftika] | beschreiben |
+| [συμβαίνει, συνέβη]{lang="el"} | [simˈveni], [siˈnevi] | es geschieht, passiert (gehoben); Imperfekt [συνέβαινε]{lang="el"} |
+| [καταλαμβάνω, κατέλαβα]{lang="el"} | [katalamˈvano], [kaˈtelava] | besetzen, einnehmen (gehoben) |
+:::
+
+## Was die Wörter heute bedeuten: falsche Freunde {#sec-gelehrt-falsche-freunde}
+
+Wer mit dem Fachwortschatz im Kopf nach Griechenland kommt, erlebt Überraschungen. Viele
+griechische Wörter haben ein Leben außerhalb des Labors geführt, und manche haben sich dort eine
+zweite Bedeutung zugelegt, die im Alltag die erste ist. Solche Wörter heißen **falsche Freunde**.
+
+| Griechisch | was man erwartet | was es heute auch oder vor allem heißt |
+|---|---|---|
+| [το άτομο]{lang="el"} | Atom | Person: [ένα τραπέζι για τέσσερα άτομα]{lang="el"} |
+| [η υπόθεση]{lang="el"} | Hypothese | Angelegenheit, (Kriminal-)Fall: [Είναι δική μου υπόθεση.]{lang="el"} |
+| [η ύλη]{lang="el"} | Materie | auch Lernstoff: [η ύλη των εξετάσεων]{lang="el"} |
+| [η πράξη]{lang="el"} | Praxis | Tat, Handlung; Rechenoperation. Arztpraxis = [το ιατρείο]{lang="el"} |
+| [ο μηχανικός]{lang="el"} | Mechaniker | Ingenieur (auch Mechaniker) |
+| [η σύμπτωση]{lang="el"} | Symptom | Zufall: [Τι σύμπτωση!]{lang="el"} Symptom = [το σύμπτωμα]{lang="el"} |
+| [οι θετικές επιστήμες]{lang="el"} | „positive Wissenschaften“ | Naturwissenschaften und Mathematik |
+| [η διατριβή]{lang="el"} | Diatribe | Dissertation |
+| [η εμπάθεια]{lang="el"} | Empathie | Feindseligkeit, Voreingenommenheit; Empathie = [η ενσυναίσθηση]{lang="el"} |
+
+Zwei weitere kennst du schon: [η σχολή]{lang="el"} ist die Fakultät (Kapitel 16), und [ο
+καθηγητής]{lang="el"} lehrt an der Universität genauso wie am Gymnasium (Kapitel 18).
+
+Die meisten Fälle sind keine Irrtümer, sondern zwei Äste desselben Stamms. [η
+σύμπτωση]{lang="el"} und [το σύμπτωμα]{lang="el"} kommen beide von [συμπίπτω]{lang="el"}
+„zusammenfallen“: Beim Zufall fallen zwei Ereignisse zusammen, beim Symptom fällt etwas mit der
+Krankheit zusammen. Und [το άτομο]{lang="el"} als Person hat eine Geschichte, die in der Hörspur
+erzählt wird.
+
+::: {.callout-warning}
+## Achtung
+
+[Ήρθαν πενήντα άτομα.]{lang="el"} heißt „Es kamen fünfzig Leute“. Wer in einer Taverne einen Tisch
+für vier bestellt, sagt [για τέσσερα άτομα]{lang="el"}. Das ist neutrales Alltagsgriechisch, kein
+Behördenton.
+:::
+
+<!-- EXERCISE: falsche Freunde im Satz; acht kurze, natürliche Sätze (Taverne: τραπέζι για έξι άτομα; Polizei: η υπόθεση; Studentin: η ύλη για τις εξετάσεις; Nachhilfe: οι τέσσερις πράξεις; Bauingenieur: μηχανικός στο Πολυτεχνείο; Treffen am Flughafen: Τι σύμπτωση!; Promotion: η διατριβή; Streit: εμπάθεια), je drei deutsche Übersetzungen zur Auswahl (Antwort „1b, 2a …“); Lösung mit der Fachbedeutung als Falle; Schwierigkeit 1 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το άτομο, τα άτομα]{lang="el"} | [to ˈatomo] | die Person; das Individuum (Atom: siehe oben) |
+| [η υπόθεση]{lang="el"} | [i iˈpoθesi] | die Hypothese; die Angelegenheit, der Fall |
+| [η ύλη]{lang="el"} | [i ˈili] | die Materie; der Lernstoff |
+| [η πράξη]{lang="el"} | [i ˈpraksi] | die Tat, die Handlung; die Rechenoperation |
+| [ο μηχανικός, η μηχανικός]{lang="el"} | [o mixaniˈkos] | der Ingenieur, die Ingenieurin; der Mechaniker |
+| [η σύμπτωση]{lang="el"} | [i ˈsimptosi] | der Zufall |
+| [το σύμπτωμα]{lang="el"} | [to ˈsimptoma] | das Symptom |
+| [οι θετικές επιστήμες]{lang="el"} | [i θetiˈces epiˈstimes] | die Naturwissenschaften (und Mathematik) |
+:::
+
+## Hörspur: Warum das Atom Atom heißt {#sec-gelehrt-hoerspur}
+
+Die ▶-Aufnahmen im Buch sind synthetische Stimmen; echte Menschen bringt der Hör-Auftrag am Ende
+des Abschnitts.
+
+Ein Vortragsabend in einem Athener Kulturzentrum, Reihe „Λέξεις της επιστήμης“, Wörter der
+Wissenschaft. Eine Physikerin spricht zehn Minuten über ein einziges Wort. Hier ist der Anfang und
+der Schluss.
+
+Vor dem Hören:
+
+- Vier Namen kommen vor: Demokrit aus Abdera ([ο Δημόκριτος]{lang="el"}), Cicero ([ο
+  Κικέρων]{lang="el"}), J. J. Thomson ([ο Τόμσον]{lang="el"}) und der englische Arzt William Gilbert
+  ([ο Γκίλμπερτ]{lang="el"}).
+- Vortragende gliedern mit festen Wendungen: [Ας ξεκινήσουμε από …]{lang="el"} „Fangen wir an
+  bei …“, [με άλλα λόγια]{lang="el"} „mit anderen Worten“, [Κλείνοντας, …]{lang="el"} „Zum
+  Schluss …“ (Gerundium, Kapitel 19).
+- Achte auf das Verb [κόβω]{lang="el"} „schneiden“ (Kapitel 6): Es fällt mehrmals, und um genau
+  dieses Wort geht es.
+
+**Worthilfen:** [τέμνω]{lang="el"} (alt) schneiden · [αδιαίρετος]{lang="el"} unteilbar ·
+[το σωματίδιο]{lang="el"} Teilchen · [το κεχριμπάρι]{lang="el"} Bernstein · [τρίβω]{lang="el"}
+reiben · [τραβάω]{lang="el"} anziehen, ziehen · [ο όρος]{lang="el"} Begriff, Fachausdruck.
+
+::: {lang="el" .listen}
+Καλησπέρα σας. Απόψε θα μιλήσουμε για μια λέξη που όλοι ξέρουμε: το άτομο. Ας ξεκινήσουμε από τα
+Άβδηρα, πριν από δυόμισι χιλιάδες χρόνια.
+
+Ο Δημόκριτος αναρωτήθηκε: Αν κόψω ένα κομμάτι ύλη στη μέση, και μετά ξανά στη μέση, και ξανά,
+πού θα σταματήσω; Η απάντησή του ήταν: Κάπου υπάρχει ένα κομμάτι που δεν κόβεται πια. Το ονόμασε
+«άτομο», από το «α» και το αρχαίο ρήμα «τέμνω», που σημαίνει «κόβω». Με άλλα λόγια, άτομο είναι
+αυτό που δεν κόβεται.
+
+Αργότερα ο Κικέρων μετέφρασε τη λέξη στα λατινικά: [individuum]{lang="la"}, το αδιαίρετο. Έτσι
+σήμερα έχουμε δύο άτομα: το άτομο της φυσικής και το άτομο που κάθεται δίπλα σας.
+
+Το 1897 ο Τόμσον ανακάλυψε το ηλεκτρόνιο, ένα σωματίδιο πολύ μικρότερο από το άτομο. Το άτομο
+λοιπόν κόβεται. Το όνομα όμως έμεινε.
+
+Και το ηλεκτρόνιο; Στα αρχαία ελληνικά ήλεκτρο λέγεται το κεχριμπάρι. Αν το τρίψεις, τραβάει
+μικρά κομμάτια χαρτί. Γι’ αυτό, γύρω στο 1600, ο Γκίλμπερτ ονόμασε αυτή τη δύναμη «ηλεκτρική».
+
+Κλείνοντας: Ο Δημόκριτος έκανε λάθος, αλλά κέρδισε τη λέξη. Στην επιστήμη συμβαίνει συχνά. Η
+θεωρία αλλάζει, ο όρος μένει.
+:::
+
+<!-- EXERCISE: Hörverstehen des Vortrags; direkt nach dem Hören, mit ▶, ohne den Text aufzuklappen, höchstens zweimal; nur Inhaltsfragen als Multiple Choice (Antwort „1b, 2a …“): Wo beginnt die Geschichte (Abdera)? Was meinte Demokrit mit „Atom“ (was sich nicht mehr schneiden lässt)? Was tat Cicero (übersetzte ins Lateinische)? Welche zwei Bedeutungen hat άτομο heute? Was geschah 1897 und was folgt daraus fürs Atom? Was ist ήλεκτρο? Was macht Bernstein, wenn man ihn reibt? Die Schlussthese (Theorie ändert sich, Begriff bleibt); zweiter Durchgang mit Text: vier Komposita/Vorsilbenwörter und das innere Augment in μετέφρασε finden; keine Lösung an Aussprache/Intonation der Synthese gebunden; Schwierigkeit 2 -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+Guten Abend. Heute Abend sprechen wir über ein Wort, das wir alle kennen: das Atom. Fangen wir in
+Abdera an, vor zweieinhalbtausend Jahren.
+
+Demokrit fragte sich: Wenn ich ein Stück Materie in der Mitte durchschneide, und dann wieder in der
+Mitte, und wieder, wo höre ich auf? Seine Antwort war: Irgendwo gibt es ein Stück, das sich nicht
+mehr schneiden lässt. Er nannte es „Atom“, aus dem „a“ und dem alten Verb [τέμνω]{lang="el"}, das
+„schneiden“ bedeutet. Mit anderen Worten: Ein Atom ist das, was sich nicht schneiden lässt.
+
+Später übersetzte Cicero das Wort ins Lateinische: *individuum*, das Unteilbare. So haben wir heute
+zwei „Atome“: das Atom der Physik und die Person, die neben Ihnen sitzt.
+
+1897 entdeckte Thomson das Elektron, ein Teilchen, viel kleiner als das Atom. Das Atom lässt sich
+also schneiden. Der Name aber ist geblieben.
+
+Und das Elektron? Im Altgriechischen heißt der Bernstein [ήλεκτρο]{lang="el"}. Wenn man ihn reibt,
+zieht er kleine Papierstückchen an. Deshalb nannte Gilbert um 1600 diese Kraft „elektrisch“.
+
+Zum Schluss: Demokrit hat sich geirrt, aber er hat das Wort gewonnen. Das passiert in der
+Wissenschaft oft. Die Theorie ändert sich, der Begriff bleibt.
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+- Dass Cicero [ἄτομον]{lang="grc"} mit *individuum* wiedergab, ist gut belegt (er spricht von
+  [*corpora individua*]{lang="la"}). Auf welchem Weg [το άτομο]{lang="el"} zur „Person“ wurde,
+  vereinfacht der Vortrag: Die Bedeutung dürfte über lateinisch *individuum* und dessen Nachfahren
+  (französisch [*individu*]{lang="fr"}) ins Neugriechische zurückgekommen sein.
+- Dass schon Thales geriebenen Bernstein beobachtete, ist späte Überlieferung. Gilberts Wort war
+  lateinisch [*electricus*]{lang="la"} (1600); „Elektron“ als Name des Teilchens stammt von
+  George Johnstone Stoney (1891), Thomson wies das Teilchen 1897 nach.
+:::
+
+<!-- CHECK: Cicero, De finibus I 17 (corpora individua) als Übersetzung von ἄτομα; Weg der Bedeutung „Person“ von άτομο (Lehnbedeutung nach frz. individu?) im ΛΚΝ/Babiniotis prüfen; Gilbert, De Magnete 1600, „electricus“; Stoney 1891 „electron“; Thomson 1897 -->
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [τα Άβδηρα]{lang="el"} | Abdera (Stadt in Thrakien; Plural) |
+| [αναρωτιέμαι, αναρωτήθηκα]{lang="el"} | sich fragen (Kapitel 18) |
+| [στη μέση]{lang="el"} | in der Mitte |
+| [ονομάζω, ονόμασα]{lang="el"} | nennen, benennen |
+| [το αδιαίρετο]{lang="el"} | das Unteilbare ([δια-]{lang="el"} + [αιρώ]{lang="grc"}, wie [η διαίρεση]{lang="el"}) |
+| [κερδίζω, κέρδισα]{lang="el"} | gewinnen |
+:::
+
+### Vorträge und Dokumentationen hören {#sec-gelehrt-hoeren}
+
+Wissenschaft im griechischen Fernsehen ist ein gutes Training für dieses Kapitel: Die Fachwörter
+verstehst du fast von selbst, und so bleibt Kopf frei für den Satzbau dazwischen. Auf
+[ERTflix](https://www.ertflix.gr) findest du Dokumentationen (Suchwort
+[ντοκιμαντέρ]{lang="el"}), auch zu Natur, Medizin und Technik, viele mit griechischen Untertiteln.
+
+<!-- EXERCISE: Hör-Auftrag mit echter Aufnahme (nur ERTflix, https://www.ertflix.gr; Easy Greek https://www.youtube.com/@EasyGreekVideos als Alternative, falls ein Interview über Studium/Berufe gefunden wird); Dokumentation zu Natur, Medizin oder Technik, fünf Minuten; Durchgang 1 ohne Untertitel: Strichliste für Wörter auf -λογία/-λόγος, -ση/-ξη/-ψη, -ισμός; fünf internationale Wörter notieren und die betonte Silbe mitsprechen; Durchgang 2 mit griechischen Untertiteln: prüfen, Betonung am Akzent kontrollieren; zwei Sätze nachsprechen; Lösung ohne feste Werte, mit Auswertungsmaßstab und typischen Betonungsfallen; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η διάλεξη]{lang="el"} | [i ðiˈaleksi] | der Vortrag, die Vorlesung |
+| [ο όρος, οι όροι]{lang="el"} | [o ˈoros] | der Begriff, der Fachausdruck; die Bedingung |
+| [το σωματίδιο]{lang="el"} | [to somaˈtiðio] | das Teilchen |
+| [το ηλεκτρόνιο]{lang="el"} | [to ilekˈtronio] | das Elektron |
+| [με άλλα λόγια]{lang="el"} | [me ˈala ˈloʝa] | mit anderen Worten |
+:::
+
+## Das Wichtigste {#sec-gelehrt-wichtigste}
+
+- **Komposita** von hinten lesen: Stamm + Bindevokal [-ο-]{lang="el"} + Stamm
+  ([θερμ-ό-μετρο, βι-ο-λογία]{lang="el"}). Vor Vokal fällt das [-ο-]{lang="el"} ([ωτ-ίτιδα]{lang="el"}).
+  Der hintere Teil sagt, was das Wort ist.
+- **Betonung aus der Endung:** [-λογία, -γραφία]{lang="el"} auf [-ί-]{lang="el"}; Person
+  [-λόγος, -γράφος]{lang="el"} auf der vorletzten; [-ική, -ισμός]{lang="el"} auf der letzten;
+  [-μετρο, -φωνο]{lang="el"} auf der Silbe davor; [-ίτιδα, -ίατρος]{lang="el"} auf [ί]{lang="el"}.
+  Nie dem deutschen Klang trauen: [θερμόμετρο, άτομο, ανάλυση]{lang="el"}.
+- **[-ση, -ξη, -ψη]{lang="el"}** = perfektiver Stamm + [-η]{lang="el"}, meist betont wie die
+  ich-Form des Aorists: [μέτρησα → η μέτρηση]{lang="el"}. Faustregel.
+- **Gelehrte Vorsilben** aus altgriechischen Präpositionen: [α(ν)-, αντι-, απο-, δια-, εκ-, εν-,
+  επι-, κατα-, μετα-, παρα-, περι-, προ-, προσ-, υπερ-, υπο-]{lang="el"}; vor Vokal ohne
+  Endvokal, teils mit [φ, θ]{lang="el"} ([εφαρμογή, καθηγητής]{lang="el"}). Gelehrtes
+  [παρα-]{lang="el"} heißt „neben“.
+- **Inneres Augment** bei gelehrten Verben, nur betont: [κατέστρεψα – καταστρέψαμε]{lang="el"},
+  [μετέφρασα, περιέγραψα, συνέβη, παρήγγειλα]{lang="el"}. Alltagsverben nicht:
+  [κατάλαβα, αποφάσισα]{lang="el"}.
+- **Falsche Freunde:** [το άτομο]{lang="el"} Person, [η υπόθεση]{lang="el"} Angelegenheit,
+  [η σύμπτωση]{lang="el"} Zufall, [ο μηχανικός]{lang="el"} Ingenieur, [η ύλη]{lang="el"}
+  Lernstoff, [η πράξη]{lang="el"} Rechenoperation.
+
+## Zum Lesen: Wörter, die heimkehrten {#sec-gelehrt-lesetext}
+
+Ein Text, wie er in der Wissenschaftsbeilage einer Sonntagszeitung stehen könnte.
+
+::: {lang="el"}
+**Λέξεις που γύρισαν σπίτι**
+
+Στα τέλη του 18ου αιώνα ο Γάλλος χημικός Αντουάν Λαβουαζιέ έδωσε όνομα σε ένα αέριο που μόλις
+είχε ανακαλυφθεί: «[oxygène]{lang="fr"}». Η λέξη είναι ελληνική: από το «οξύ» και το «-γόνο», αυτό
+που γεννάει. Ο Λαβουαζιέ πίστευε ότι όλα τα οξέα περιέχουν αυτό το αέριο. Έκανε λάθος, αλλά το
+όνομα έμεινε. Ένα άλλο αέριο, όταν καίγεται, κάνει νερό. Το ονόμασε «[hydrogène]{lang="fr"}»: αυτό
+που γεννάει νερό. Για ένα τρίτο, μέσα στο οποίο ένα ζώο δεν μπορεί να ζήσει, διάλεξε το
+«[azote]{lang="fr"}», χωρίς ζωή.
+
+Οι Γερμανοί έφτιαξαν δικές τους λέξεις με την ίδια ιδέα: «[Sauerstoff]{lang="de"}»,
+«[Wasserstoff]{lang="de"}», «[Stickstoff]{lang="de"}». Οι Έλληνες δεν χρειάστηκε να μεταφράσουν
+τίποτα. Πήραν πίσω τις λέξεις τους: οξυγόνο, υδρογόνο, άζωτο. Τέτοιες λέξεις λέγονται αντιδάνεια:
+φτιάχτηκαν στην Ευρώπη από ελληνικά κομμάτια και μετά γύρισαν στην Ελλάδα.
+
+Οι περισσότερες λέξεις της επιστήμης έχουν τέτοια ιστορία. Το μικροσκόπιο και το τηλεσκόπιο πήραν
+τα ονόματά τους στην Ιταλία του 17ου αιώνα. Τον δεινόσαυρο τον βάφτισε ένας Άγγλος βιολόγος το
+1842: η «φοβερή σαύρα». Και όταν η Ελλάδα απέκτησε πανεπιστήμιο, το 1837, οι καθηγητές βρήκαν
+έτοιμες πολλές λέξεις στα βιβλία της Ευρώπης.
+
+Πού είναι λοιπόν η διαφορά; Για έναν Γερμανό το «[Thermometer]{lang="de"}» είναι ένας τεχνικός
+όρος. Για έναν Έλληνα το θερμόμετρο είναι απλώς αυτό που μετράει τη θερμότητα. Ένα παιδί στην
+Αθήνα καταλαβαίνει τι κάνει το μικροσκόπιο πριν το δει. Αυτό δεν σημαίνει ότι τα ελληνόπουλα είναι
+καλύτερα στη φυσική. Σημαίνει όμως ότι οι λέξεις της φυσικής τούς φαίνονται λιγότερο
+μυστηριώδεις.
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+- Lavoisier prägte die Namen zwischen etwa 1777 und 1787, teils mit Kollegen; *azote* wird ihm
+  und seinen Mitstreitern der neuen chemischen Nomenklatur zugeschrieben. *Stickstoff* ist keine
+  Übersetzung von *azote*, sondern eine eigene deutsche Bildung („erstickender Stoff“) mit
+  ähnlichem Gedanken.
+- Das Wort *Mikroskop* wird meist Giovanni Faber (1625), *Teleskop* Giovanni Demisiani (1611)
+  zugeschrieben, beide im Umfeld der römischen Accademia dei Lincei. Den *Dinosaurier* benannte
+  Richard Owen 1842.
+:::
+
+<!-- CHECK: Lavoisier: oxygène (principe oxygine 1777, Nomenklatur 1787), hydrogène (1783/1787), azote (1787, Méthode de nomenclature chimique); Faber 1625 / Demisiani 1611; Owen 1842 („Dinosauria“); Gründung der Universität Athen 1837; ΛΚΝ: αντιδάνειο als Fachwort; „ελληνόπουλα“ als natürliche Wahl im Zeitungston -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Wörter, die heimkehrten**
+
+Ende des 18. Jahrhunderts gab der französische Chemiker Antoine Lavoisier einem Gas, das man gerade
+entdeckt hatte, einen Namen: *oxygène*. Das Wort ist griechisch: von [οξύ]{lang="el"} „Säure“ und
+[-γόνο]{lang="el"}, „das, was hervorbringt“. Lavoisier glaubte, alle Säuren enthielten dieses Gas.
+Er irrte sich, aber der Name blieb. Ein anderes Gas bildet Wasser, wenn es verbrennt. Er nannte es
+*hydrogène*: das, was Wasser hervorbringt. Für ein drittes, in dem ein Tier nicht leben kann, wählte
+er *azote*, „ohne Leben“.
+
+Die Deutschen bildeten eigene Wörter mit demselben Gedanken: Sauerstoff, Wasserstoff, Stickstoff.
+Die Griechen mussten nichts übersetzen. Sie nahmen ihre Wörter zurück: [οξυγόνο, υδρογόνο,
+άζωτο]{lang="el"}. Solche Wörter heißen Rückentlehnungen: in Europa aus griechischen Teilen gebaut
+und dann nach Griechenland zurückgekehrt.
+
+Die meisten Wörter der Wissenschaft haben eine solche Geschichte. Mikroskop und Teleskop bekamen
+ihre Namen im Italien des 17. Jahrhunderts. Den Dinosaurier taufte 1842 ein englischer Biologe: die
+„schreckliche Echse“. Und als Griechenland 1837 eine Universität bekam, fanden die Professoren viele
+Wörter fertig in den Büchern Europas vor.
+
+Wo liegt also der Unterschied? Für einen Deutschen ist „Thermometer“ ein Fachbegriff. Für einen
+Griechen ist das [θερμόμετρο]{lang="el"} einfach das, was die Wärme misst. Ein Kind in Athen versteht,
+was ein Mikroskop tut, bevor es eins gesehen hat. Das heißt nicht, dass griechische Kinder besser in
+Physik sind. Es heißt aber, dass ihnen die Wörter der Physik weniger geheimnisvoll vorkommen.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [το αέριο]{lang="el"} | das Gas |
+| [το οξύ, τα οξέα]{lang="el"} | die Säure |
+| [γεννάω]{lang="el"} | gebären, hervorbringen |
+| [περιέχω]{lang="el"} | enthalten |
+| [βαφτίζω, βάφτισα]{lang="el"} | taufen |
+| [η σαύρα]{lang="el"} | die Eidechse |
+| [αποκτάω, απέκτησα]{lang="el"} | bekommen, erwerben (inneres Augment) |
+| [η θερμότητα]{lang="el"} | die Wärme |
+| [τα ελληνόπουλα]{lang="el"} | die griechischen Kinder |
+| [μυστηριώδης]{lang="el"} | geheimnisvoll (Pl. [μυστηριώδεις]{lang="el"}) |
+:::
+
+<!-- EXERCISE: Leseverstehen „Λέξεις που γύρισαν σπίτι“; Teil A richtig/falsch zu sechs Aussagen (Lavoisier lag mit oxygène richtig? – falsch; hydrogène = „Wasserbildner“; Deutsche übernahmen die griechischen Wörter – falsch; αντιδάνεια = in Europa gebaut und zurückgekehrt; Mikroskop-Name aus Frankreich – falsch; griechische Kinder sind laut Text besser in Physik – falsch), Antwort „1r, 2f …“; Teil B Wortbildung: οξυγόνο, υδρογόνο, άζωτο, δεινόσαυρος, θερμόμετρο, μικροσκόπιο zerlegen und betonen; im Text das innere Augment finden (απέκτησε); Schwierigkeit 1–2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το οξυγόνο]{lang="el"} | [to oksiˈɣono] | der Sauerstoff |
+| [το υδρογόνο]{lang="el"} | [to iðroˈɣono] | der Wasserstoff |
+| [το άζωτο]{lang="el"} | [to ˈazoto] | der Stickstoff |
+| [το αντιδάνειο]{lang="el"} | [to adiˈðanio] | die Rückentlehnung |
+| [ο δεινόσαυρος]{lang="el"} | [o ðiˈnosavros] | der Dinosaurier |
+:::
