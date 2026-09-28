@@ -32,9 +32,12 @@ import base64
 import hashlib
 import json
 import os
+import random
 import re
+import shutil
 import subprocess
 import sys
+import tempfile
 import time
 import urllib.error
 import urllib.request
@@ -49,6 +52,8 @@ LUVVOICE_URL = "https://luvvoice.com/api/v1/text-to-speech"
 LUVVOICE_MIN_INTERVAL = 6.5  # seconds; the API allows 10 requests per minute
 OPENAI_URL = "https://api.openai.com/v1/audio/speech"
 OPENAI_MODEL = "gpt-4o-mini-tts"
+# LuvVoice sits behind Cloudflare, which rejects the default "Python-urllib" agent (error 1010).
+USER_AGENT = "learn-anything/1.0 (+https://github.com/maroba/learn-anything)"
 
 SAMPLE_TEXTS = {
     "el": [
@@ -167,7 +172,8 @@ def texts_of_chapter(path: Path, lang: str) -> list[str]:
 
 def http_json(url, payload=None, headers=None, method=None):
     data = json.dumps(payload).encode() if payload is not None else None
-    req = urllib.request.Request(url, data=data, headers=headers or {}, method=method)
+    req = urllib.request.Request(url, data=data, headers={"User-Agent": USER_AGENT, **(headers or {})},
+                                 method=method)
     try:
         with urllib.request.urlopen(req, timeout=120) as resp:
             return resp.status, resp.read()
@@ -205,7 +211,8 @@ def tts_luvvoice(text, voice, **_):
     if result.get("audio_data"):
         return base64.b64decode(result["audio_data"])
     if result.get("audio_url"):
-        with urllib.request.urlopen(result["audio_url"], timeout=120) as resp:
+        req = urllib.request.Request(result["audio_url"], headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(req, timeout=120) as resp:
             return resp.read()
     raise RuntimeError(f"LuvVoice returned no audio: {result}")
 
@@ -291,6 +298,26 @@ def voice_book(args):
     return 0
 
 
+def join_clips(clips, path):
+    """Concatenate MP3 clips. With ffmpeg (on PATH or in $FFMPEG): a pause between the clips and
+    the same loudness for every voice, so that no voice wins a blind test by being louder."""
+    ffmpeg = os.environ.get("FFMPEG") or shutil.which("ffmpeg")
+    if not ffmpeg:
+        path.write_bytes(b"".join(clips))
+        return
+    with tempfile.TemporaryDirectory() as tmp:
+        inputs = []
+        for i, clip in enumerate(clips):
+            (Path(tmp) / f"{i}.mp3").write_bytes(clip)
+            inputs += ["-i", str(Path(tmp) / f"{i}.mp3")]
+        n = len(clips)
+        graph = "".join(f"[{i}:a]aresample=24000,aformat=channel_layouts=mono,apad=pad_dur=1[a{i}];"
+                        for i in range(n))
+        graph += "".join(f"[a{i}]" for i in range(n)) + f"concat=n={n}:v=0:a=1,loudnorm=I=-16:TP=-1.5[out]"
+        subprocess.run([ffmpeg, "-y", "-loglevel", "error", *inputs, "-filter_complex", graph,
+                        "-map", "[out]", "-ar", "24000", "-b:a", "96k", str(path)], check=True)
+
+
 def voice_samples(args):
     out = Path(args.sample)
     out.mkdir(parents=True, exist_ok=True)
@@ -308,12 +335,13 @@ def voice_samples(args):
     if not candidates:
         sys.exit("Neither LUVVOICE_API_KEY nor OPENAI_API_KEY is set.")
 
-    # Anonymous labels, so the listener does not know which provider is which.
+    # Anonymous labels in random order, so the listener does not know which provider is which.
+    random.shuffle(candidates)
     key_lines = []
     for n, (provider, voice, instructions) in enumerate(candidates, 1):
         label = f"stimme-{n}"
-        audio = b"".join(PROVIDERS[provider](t, voice, instructions=instructions) for t in texts)
-        (out / f"{label}.mp3").write_bytes(audio)
+        clips = [PROVIDERS[provider](t, voice, instructions=instructions) for t in texts]
+        join_clips(clips, out / f"{label}.mp3")
         key_lines.append(f"{label}: {provider} {voice}")
         print(f"{label}.mp3 written")
     (out / "AUFLOESUNG.txt").write_text("\n".join(key_lines) + "\n", encoding="utf-8")
