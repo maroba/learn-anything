@@ -225,12 +225,12 @@ Die wir-Form ist bei beiden Mustern gleich gebaut: [-όμαστε]{lang="el"}, b
 **Teil A**
 
 - a) [σκεφτόμαστε]{lang="el"} [scefˈtomaste]
-- b) [θυμούνται]{lang="el"} [θiˈmunde]
+- b) [θυμούνται]{lang="el"} [θiˈmude]
 - c) [γίνεσαι]{lang="el"} [ˈʝinese]
 - d) [κοιμάστε]{lang="el"} [ciˈmaste]
 - e) [ερχόμαστε]{lang="el"} [erˈxomaste]
 - f) [λυπόμαστε]{lang="el"} [liˈpomaste]
-- g) [κάθονται]{lang="el"} [ˈkaθonde]
+- g) [κάθονται]{lang="el"} [ˈkaθode]
 - h) [φοβάται]{lang="el"} [foˈvate]
 
 Typische Fehler: \*[σκέφτομαστε]{lang="el"} (Betonung auf der viertletzten Silbe),
@@ -340,9 +340,126 @@ Troja: [Κοιμήθηκα οκτώ ώρες.]{lang="el"} „Ich habe acht Stund
 τις πέντε.]{lang="el"} „Ich saß dort bis fünf.“ Mit Zeitangabe, die die Dauer ausmisst, ist
 das „saß“ und „schlief“, ohne sie meist „setzte mich“ und „schlief ein“.
 
-<!-- EXERCISE: Aorist bilden (ich/wir/sie) für θυμάμαι, φοβάμαι, κοιμάμαι, σκέφτομαι, λυπάμαι, χρειάζομαι + Ausreißer έρχομαι, γίνομαι, κάθομαι; Teil B Fehler finden (*εθυμήθηκα, *θυμήθηκαμε, *κάθηκα, *γίνηκα, *σκέφθηκα als formell-richtig markieren). Formen bilden/Fehler finden, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 10.2: [-θηκα]{lang="el"} oder Ausreißer?
 
-<!-- EXERCISE: Zustand oder Moment: deutsche Sätze (Ich hatte die ganze Nacht Angst / Plötzlich bekam ich Angst / Um zwölf schlief ich ein / Ich schlief zehn Stunden / Ich wusste es noch / Da fiel es mir ein …) – Präsens/Imperfekt-Zustand oder Aorist? Auswahl mit Begründung, mündlich übersetzen, Schwierigkeit 2 -->
+**Teil A: Aorist bilden.** Laut, mit Betonung.
+
+a) [θυμάμαι]{lang="el"} → ich, wir
+b) [φοβάμαι]{lang="el"} → sie (Plural), beide Formen
+c) [κοιμάμαι]{lang="el"} → wir
+d) [σκέφτομαι]{lang="el"} → du
+e) [χρειάζομαι]{lang="el"} → ich
+f) [λυπάμαι]{lang="el"} → er
+g) [έρχομαι]{lang="el"} → wir
+h) [κάθομαι]{lang="el"} → ich, beide Formen
+
+**Teil B: Fehler finden.** Welche Formen sind falsch? Nicht alle.
+
+1. [εθυμήθηκα]{lang="el"}
+2. [θυμήθηκαμε]{lang="el"}
+3. [κοιμηθήκαμε]{lang="el"}
+4. [κάθηκα]{lang="el"}
+5. [γίνηκα]{lang="el"}
+6. [ήρθαμε]{lang="el"}
+7. [σκέφθηκα]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Erst fragen: Gehört das Verb zu den drei Ausreißern? Wenn nicht, [-ήθηκα]{lang="el"} bei der
+[-άμαι]{lang="el"}-Gruppe, [-τηκα]{lang="el"} nach Konsonant.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Silben zählen: Die Betonung sitzt auf der drittletzten, und [θυμήθηκα]{lang="el"} hat schon
+vier Silben. Bei [ήρθα]{lang="el"} gehört das [ή-]{lang="el"} zum Stamm. In Teil B sind drei
+Formen nicht falsch.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+- a) [θυμήθηκα]{lang="el"} [θiˈmiθika], [θυμηθήκαμε]{lang="el"} [θimiˈθikame]
+- b) [φοβήθηκαν]{lang="el"}, umg. [φοβηθήκανε]{lang="el"}
+- c) [κοιμηθήκαμε]{lang="el"} [cimiˈθikame]
+- d) [σκέφτηκες]{lang="el"} [ˈsceftices]
+- e) [χρειάστηκα]{lang="el"}: Konsonant vor der Endung, also [-τηκα]{lang="el"}.
+- f) [λυπήθηκε]{lang="el"}
+- g) [ήρθαμε]{lang="el"}
+- h) [κάθισα]{lang="el"} oder [έκατσα]{lang="el"}
+
+**Teil B:** Nicht falsch sind **3**, **6** und **7**.
+
+1. \*[εθυμήθηκα]{lang="el"} → [θυμήθηκα]{lang="el"}: Vier Silben brauchen kein Augment.
+2. \*[θυμήθηκαμε]{lang="el"} → [θυμηθήκαμε]{lang="el"}: Die Betonung aus der ich-Form
+   mitgenommen, sie läge auf der viertletzten Silbe.
+3. Richtig.
+4. \*[κάθηκα]{lang="el"} → [κάθισα, έκατσα]{lang="el"}: [κάθομαι]{lang="el"} ist ein Ausreißer.
+5. \*[γίνηκα]{lang="el"} → [έγινα]{lang="el"}: ebenso.
+6. Richtig: Das [ή-]{lang="el"} ist kein Augment und bleibt.
+7. Formell richtig: [σκέφθηκα]{lang="el"} mit [θ]{lang="el"} steht in gehobenen Texten, im
+   Gespräch sagt man [σκέφτηκα]{lang="el"}.
+:::
+
+::: {.callout-note .exercise}
+## Übung 10.3: Zustand oder Moment?
+
+Was braucht der Satz auf Griechisch?
+
+1. **Film:** Zustand, Gewohnheit
+2. **Foto:** Beginn des Zustands oder der Zustand als abgemessenes Ganzes
+
+Ordne ein und sag den Satz auf Griechisch. Bei Film in der Vergangenheit reicht die Einordnung,
+das Imperfekt folgt in @sec-mai-imperfekt.
+
+a) Ich habe Angst vor dem Meer.
+b) Als das Haus wackelte, hatte ich furchtbar Angst.
+c) Um zwölf bin ich eingeschlafen.
+d) Ich habe zehn Stunden geschlafen.
+e) Als Kind hatte ich Angst vor der Dunkelheit.
+f) Weißt du noch seinen Namen?
+g) Jetzt fällt's mir ein!
+h) Wir haben uns ins Kafenion gesetzt.
+
+Im Chat reicht „a1, b2, …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Deutsches „hatte Angst“ kann beides sein. Frag: Beginnt hier etwas, oder dauert es an?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zwei Sätze haben eine Zeitangabe. Die eine nennt einen Zeitpunkt, die andere misst die Dauer
+aus; beide passen zum Foto.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**a1, b2, c2, d2, e1, f1, g2, h2.**
+
+- a) [Φοβάμαι τη θάλασσα.]{lang="el"} Zustand, jetzt.
+- b) [Φοβήθηκα πολύ.]{lang="el"} Die Angst setzt mit dem Wackeln ein: „Ich erschrak.“ Der
+  häufigste Fehler ist hier Film, weil das Deutsche „hatte“ sagt.
+- c) [Κοιμήθηκα στις δώδεκα.]{lang="el"} Zeitpunkt, der Moment des Einschlafens.
+- d) [Κοιμήθηκα δέκα ώρες.]{lang="el"} Dieselbe Form, jetzt „schlief“: Die zehn Stunden werden
+  als Ganzes gefasst, wie die drei Jahre in Troja.
+- e) Film: eine Kindheit lang, ohne Ende in Sicht. Griechisch [φοβόμουν]{lang="el"}.
+- f) [Θυμάσαι το όνομά του;]{lang="el"} Zustand: „weißt du noch“ ist [θυμάμαι]{lang="el"}.
+- g) [Θυμήθηκα!]{lang="el"} Der Moment, in dem die Erinnerung kommt.
+- h) [Καθίσαμε στο καφενείο.]{lang="el"} oder [Κάτσαμε στο καφενείο.]{lang="el"} Das Hinsetzen
+  ist der Moment.
+:::
 
 ## Futur und [να]{lang="el"}-Form: [θα θυμηθώ, να κάτσω]{lang="el"} {#sec-mai-tha-na}
 
@@ -390,7 +507,54 @@ Drei Imperative (Kapitel 9) gehören zu diesen Verben, und einen benutzt du seit
 Wendungen.
 :::
 
-<!-- EXERCISE: θα/να-Formen der sieben Verben in allen Personen bilden und in kurzen Sätzen mündlich übersetzen (Ich kann nicht einschlafen / Wir werden uns morgen setzen / Er will Arzt werden / Kommst du morgen? / Ich überleg's mir / Du musst dich immer daran erinnern), Aspekt begründen; Falle *θα θυμήθω, *να καθίσω vs. κάτσω beides richtig. Mündliche Übersetzung, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 10.4: Pläne, Wünsche, Vorsätze
+
+Sag die Sätze auf Griechisch und entscheide jedes Mal: Foto oder Film?
+
+a) Ich kann nicht einschlafen.
+b) Morgen setzen wir uns in die Taverne am Hafen.
+c) Er will Seismologe werden.
+d) Kommst du morgen?
+e) Ich überleg's mir.
+f) Du musst dich immer daran erinnern.
+g) Wir wollen um elf schlafen gehen.
+h) Im Urlaub will ich jeden Tag bis zehn schlafen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Kein Infinitiv: Nach [μπορώ, θέλω, πρέπει]{lang="el"} folgt [να]{lang="el"} mit der Person des
+Handelnden. „daran“ ist [το]{lang="el"} vor dem Verb.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+„Einschlafen“, „schlafen gehen“ und „sich setzen“ sind Momente. „Immer“ und „jeden Tag“
+verlangen den Film, also Präsensformen nach [να]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+- a) [Δεν μπορώ να κοιμηθώ.]{lang="el"} Foto: Es geht ums Einschlafen.
+- b) [Αύριο θα κάτσουμε στην ταβέρνα στο λιμάνι.]{lang="el"} Foto. Auch richtig:
+  [θα καθίσουμε]{lang="el"}, eher formell.
+- c) [Θέλει να γίνει σεισμολόγος.]{lang="el"} Foto, [να]{lang="el"}-Form in der er-Form;
+  \*[θέλει να γίνω]{lang="el"} hieße „er will, dass ich werde“.
+- d) [Θα έρθεις αύριο;]{lang="el"}, umg. [Θα ’ρθεις αύριο;]{lang="el"} Foto.
+- e) [Θα το σκεφτώ.]{lang="el"} Foto.
+- f) [Πρέπει να το θυμάσαι πάντα.]{lang="el"} Film wegen „immer“: ein Zustand, der bleiben
+  soll. [να το θυμηθείς]{lang="el"} hieße „dass es dir (einmal) einfällt“.
+- g) [Θέλουμε να κοιμηθούμε στις έντεκα.]{lang="el"} Foto.
+- h) [Στις διακοπές θέλω να κοιμάμαι κάθε μέρα μέχρι τις δέκα.]{lang="el"} Film: Gewohnheit.
+
+Typische Fehler: \*[να κοιμήθω]{lang="el"}, \*[θα θυμήθω]{lang="el"}: Die Betonung muss auf
+die Endung, [κοιμηθώ, θυμηθώ]{lang="el"}. Und \*[να κοιμηθώ κάθε μέρα]{lang="el"} in h): Die
+Wiederholung ist Film.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -428,7 +592,59 @@ So entsteht der klassische Erdbebensatz, Film und Foto in einem:
   Balkon, und plötzlich wackelte das ganze Haus.
 - [Όταν ήμουν παιδί, φοβόμουν τους σεισμούς.]{lang="el"} Als Kind hatte ich Angst vor Erdbeben.
 
-<!-- EXERCISE: Erdbebenerzählung mit Auswahl Imperfekt oder Aorist (καθόμουν/κάθισα, κοιμόταν/κοιμήθηκε, φοβόμασταν/φοβηθήκαμε, γινόταν/έγινε, σκεφτόμουν/σκέφτηκα, ερχόταν/ήρθε), mit „und dann?“-Test begründen; im Kopf auswählen, Lückentext als Auswahl (lang="el" .no-audio), Schwierigkeit 2–3 -->
+::: {.callout-note .exercise}
+## Übung 10.5: Die Nacht, in der es wackelte
+
+Eine Frau erzählt. Wähl im Kopf die passende Form und begründe sie mit dem „und dann?“-Test.
+
+::: {lang="el" .no-audio}
+Ήταν Κυριακή βράδυ. Ο άντρας μου (1) *κοιμόταν / κοιμήθηκε* ήδη, κι εγώ (2) *καθόμουν /
+κάθισα* στο μπαλκόνι με ένα βιβλίο. Ξαφνικά (3) *γινόταν / έγινε* ένας δυνατός σεισμός. (4)
+*Φοβόμουν / Φοβήθηκα* τόσο, που δεν μπορούσα να κουνηθώ. Μετά (5) *σκεφτόμουν / σκέφτηκα*
+τη μητέρα μου και την πήρα τηλέφωνο. Σε δέκα λεπτά (6) *ερχόταν / ήρθε* ο γείτονας στην πόρτα.
+Όλη τη νύχτα (7) *καθόμασταν / καθίσαμε* στον δρόμο και (8) *σκεφτόμασταν / σκεφτήκαμε*
+συνέχεια τον σεισμό.
+:::
+
+Im Chat reicht „1a, 2b, …“ (a = erste Form, b = zweite).
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Erst die Kette suchen: Was passiert nacheinander? Alles andere ist Kulisse.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[ήδη]{lang="el"} und [συνέχεια]{lang="el"} deuten auf Film, [ξαφνικά, μετά, σε δέκα
+λεπτά]{lang="el"} auf Foto. Bei (7) geht beides.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1a, 2a, 3b, 4b, 5b, 6b, 7a oder 7b, 8a.**
+
+- (1) [κοιμόταν]{lang="el"}: Er schlief schon, Kulisse. [κοιμήθηκε]{lang="el"} hieße „er schlief
+  ein“ und passt nicht zu [ήδη]{lang="el"}.
+- (2) [καθόμουν]{lang="el"}: Kulisse, die Szene vor dem Beben.
+- (3) [έγινε]{lang="el"}: Und dann? Das Beben kam. [γινόταν]{lang="el"} wäre „war gerade im
+  Gange“ oder „passierte öfter“.
+- (4) [Φοβήθηκα]{lang="el"}: Die Angst setzt mit dem Beben ein, wie [Εγώ φοβήθηκα
+  πολύ]{lang="el"} im Einstieg. [Φοβόμουν]{lang="el"} ist nicht unmöglich, beschreibt aber
+  einen Zustand und hält die Kette an.
+- (5) [σκέφτηκα]{lang="el"}: Nach [μετά]{lang="el"} geht die Kette weiter; es fiel ihr ein.
+- (6) [ήρθε]{lang="el"}: nächstes Glied der Kette.
+- (7) [καθόμασταν]{lang="el"} erzählt die Nacht von innen als Kulisse,
+  [καθίσαμε]{lang="el"} fasst sie als abgemessenes Ganzes („wir saßen die ganze Nacht“). Beides
+  richtig.
+- (8) [σκεφτόμασταν]{lang="el"}: [συνέχεια]{lang="el"}, „ständig“, verlangt den Film.
+
+Typischer Fehler: (1) als Foto, weil „er schlief schon“ abgeschlossen klingt. Er schläft aber
+noch, während alles passiert.
+:::
 
 ::: {.callout-note collapse="true" .vocab-text}
 ## Wortschatz zum Text
@@ -530,7 +746,52 @@ Konsonanten, aber die Betonung wandert ans Ende. Und [ερχόμαστε]{lang="
 fast wie [ερχόμασταν]{lang="el"} [erˈxomastan] „wir kamen“: Achte auf das [-an] am Ende, wie bei
 [είμαστε]{lang="el"} und [ήμασταν]{lang="el"} in Kapitel 4.
 
-<!-- EXERCISE: Hör-Auftrag. Schritt 1: Dialog aus @sec-mai-hoerspur zweimal mit ▶ ohne Mitlesen hören, alle Formen der sieben Verben zählen und als Präsens/Imperfekt/Aorist/θα-να einordnen (Lösung: θυμάσαι, θυμάμαι, καθόμουν, φοβήθηκα, να σκεφτώ, κάθισα, σκεφτόμουν, κοιμόταν, κοιμηθήκαμε, να γίνει, θα γίνει, κοιμήθηκε; dazu κουνιέται). Schritt 2: auf Easy Greek (https://www.youtube.com/@EasyGreekVideos) ein Straßeninterview über Erinnerungen/Kindheit wählen (Suchwort z.B. θυμάσαι oder παιδικά χρόνια), drei Minuten ohne Untertitel, Striche für θυμάμαι/θυμάσαι und Formen auf [θika]; dann mit griechischen Untertiteln prüfen. Keine erfundenen Video-URLs. Hörverstehen, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 10.6: Hör-Auftrag
+
+**Schritt 1.** Hör dir den Dialog aus @sec-mai-hoerspur zweimal mit ▶ an, ohne mitzulesen. Zähl
+die Formen der sieben Verben und ordne sie ein: Präsens, Imperfekt, Aorist oder
+[θα]{lang="el"}/[να]{lang="el"}-Form. Dann im Text nachzählen.
+
+**Schritt 2.** Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) nach
+[θυμάσαι]{lang="el"} oder [παιδικά χρόνια]{lang="el"} ein Straßeninterview über Erinnerungen.
+Hör drei Minuten ohne Untertitel, mach Striche für [θυμάμαι/θυμάσαι]{lang="el"} und für Formen
+auf [θika], merk dir zwei davon. Dann mit griechischen Untertiteln prüfen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Die Tabelle in @sec-mai-hoeren: [me/se/te] am Ende, [ˈomun/ˈotan], [θika], betontes [ˈθo/ˈθi].
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[θυμάμαι]{lang="el"} kommt gleich am Anfang zweimal, [κοιμάμαι]{lang="el"} dreimal in drei
+verschiedenen Formen, [γίνομαι]{lang="el"} zweimal im letzten Satz.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Schritt 1: 12 Formen.**
+
+- **Präsens (2):** [θυμάσαι, θυμάμαι]{lang="el"}
+- **Imperfekt (3):** [καθόμουν, σκεφτόμουν, κοιμόταν]{lang="el"}
+- **Aorist (4):** [φοβήθηκα, κάθισα, κοιμηθήκαμε, κοιμήθηκε]{lang="el"}
+- **[θα]{lang="el"}/[να]{lang="el"}-Form (3):** [να σκεφτώ, να γίνει, θα γίνει]{lang="el"}
+
+Nicht zu den sieben gehört [κουνιέται]{lang="el"} (Präsens von [κουνιέμαι]{lang="el"}). Wer
+[Έλα!]{lang="el"} mitgezählt hat, liegt nicht falsch: formal der Imperativ von
+[έρχομαι]{lang="el"}, hier aber Staunen. Überhört wird meist [κάθισα]{lang="el"}, das wie ein
+aktiver Aorist klingt, und [κοιμηθήκαμε]{lang="el"} gegen [κοιμήθηκε]{lang="el"}: Achte auf die
+betonte Silbe.
+
+**Schritt 2:** Keine feste Zahl. Häufig fallen [θυμάμαι]{lang="el"} und
+[θυμήθηκα]{lang="el"} zusammen, weil beide gleich anfangen; die Endung entscheidet. Wer die
+Hälfte seiner Striche in den Untertiteln wiederfindet, ist gut dabei.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -709,4 +970,63 @@ Wann kommt das nächste große Beben? Niemand weiß es. Die Seismologen sagen je
 „Nicht das Erdbeben tötet. Die Gebäude töten.“
 :::
 
-<!-- EXERCISE: Leseverstehen: Teil A richtig/falsch zu 7 Aussagen (z.B. Die meisten Beben spürt man / Poseidon war nur Meeresgott / 1953 traf Thessaloniki / nach 1978 neue Bauregeln / 1999 halfen türkische Retter in Athen / nach Beben schlafen viele im Auto / Seismologen sagen, das Beben töte); Teil B alle Formen der sieben -μαι-Verben im Text finden und bestimmen (γίνονται, θυμούνται, ήρθε, έγιναν, κουνήθηκε, ήρθαν, γίνεται, κάθονται, φοβούνται, να κοιμηθούν, κοιμούνται, θα γίνει); Teil C laut lesen: σεισμός, σεισμογράφοι, Αιγαίο, Εννοσίγαιο, αυστηρότερους, κτίρια (σ vor μ, αι, γ vor e/i). Leseverstehen/Formen bestimmen, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 10.7: Das Land, das wackelt
+
+**Teil A: richtig oder falsch?** Beantworte aus dem griechischen Text, ohne Übersetzung.
+
+1. Die meisten Beben in Griechenland spürt man deutlich.
+2. Poseidon war nur der Gott des Meeres.
+3. 1953 traf ein Beben vor allem Thessaloniki.
+4. Nach dem Beben von 1978 wurden die Bauvorschriften strenger.
+5. 1999 halfen türkische Retter in Athen.
+6. Nach einem großen Beben schlafen viele im Auto.
+7. Die Seismologen sagen, das Beben selbst töte.
+
+**Teil B: Formen suchen.** Finde alle Formen der sieben Verben im Text und bestimme sie:
+Präsens, Aorist oder [θα]{lang="el"}/[να]{lang="el"}-Form.
+
+**Teil C: laut lesen.** [σεισμός, σεισμογράφοι, Αιγαίο, Εννοσίγαιο, αυστηροί,
+εβδομάδες]{lang="el"}
+
+Im Chat reicht für Teil A „1 r, 2 f, …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Jede Aussage gehört zu einem Absatz, der Reihe nach. Teil B: Such nach den Stämmen
+[γιν-, γίν-, θυμ-, ήρθ-, κάθ-, φοβ-, κοιμ-]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil B: 11 Formen, [γίνομαι]{lang="el"} allein viermal, davon einmal mit „werden“. Teil C:
+[σ]{lang="el"} vor [μ]{lang="el"} ist [z], [αι]{lang="el"} ist [e], [γ]{lang="el"} vor [e] wie *j*
+in *ja*, [αυ]{lang="el"} vor [σ]{lang="el"} ist [af].
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A:** 1 f ([μόνο οι σεισμογράφοι τους καταλαβαίνουν]{lang="el"}), 2 f ([ήταν και ο θεός των
+σεισμών]{lang="el"}), 3 f (Kefalonia, Zakynthos, Ithaka; Thessaloniki war 1978 dran),
+4 r, 5 r, 6 r, 7 f (die Gebäude töten).
+
+**Teil B: 11 Formen.**
+
+- **Präsens (6):** [γίνονται, θυμούνται, γίνεται, κάθονται, φοβούνται, κοιμούνται]{lang="el"}
+- **Aorist (3):** [ήρθε, έγιναν, ήρθαν]{lang="el"}; [έγιναν πιο αυστηροί]{lang="el"} „wurden
+  strenger“.
+- **[θα]{lang="el"}/[να]{lang="el"}-Form (2):** [να κοιμηθούν]{lang="el"} (Foto: das
+  Einschlafen im eigenen Haus), [θα γίνει]{lang="el"}
+
+[κουνήθηκε]{lang="el"} ist ein Aorist auf [-θηκε]{lang="el"}, gehört aber zu
+[κουνιέμαι]{lang="el"}; wer ihn gefunden hat, hat das Signal richtig gehört. Leicht übersehen:
+[ήρθε η σειρά]{lang="el"}, weil es nicht nach „kommen“ aussieht.
+
+**Teil C:** [sizˈmos], [sizmoˈɣrafi], [eˈʝeo], [enoˈsiʝeo], [afstiˈri], [evðoˈmaðes].
+Typische Fehler: „sei-“ statt [si], „Ai-“ statt [e], doppeltes [n] in [Εννοσίγαιο]{lang="el"}
+(gesprochen wird eins) und [av] statt [af] vor dem stimmlosen [σ]{lang="el"}.
+:::

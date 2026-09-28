@@ -24,4 +24,4 @@
 16: 33 · 17: 34 (höchstens drei Kapitel gleichzeitig)
 
 ## Offene TODOs
-- Extension: Hörübungen mit ▶-Knopf ohne sichtbaren Text (Text eingeklappt darunter), damit Hören wirklich Hören ist (Wunsch aus Review Kapitel 11).
+- Hörübungen ohne sichtbaren Text sind jetzt möglich (`::: {lang="el" .listen}`): in Kapitel 11 (11.5, 11.6) nachrüsten, künftig in Hör-Aufträgen nutzen.

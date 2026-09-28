@@ -54,6 +54,7 @@ Titel immer in der Buchsprache. Diese Typen haben eine feste Bedeutung:
 | Kernwortschatz (wird zu Anki-Karten) | `::: {.vocab}` mit Tabelle, kein Callout (siehe Archetyp-Skill) |
 | Wortschatz zum Text (eingeklappt, keine Karten) | `::: {.callout-note collapse="true" .vocab-text}` + `## Wortschatz zum Text` |
 | Übersetzung eines Textes (eingeklappt) | `::: {.callout-note collapse="true" .translation}` + `## Übersetzung` |
+| Hörübung: nur ▶ „Alles anhören“, Text eingeklappt | `::: {lang="el" .listen}` (ohne Callout; Dialogzeilen „— …“ wie sonst) |
 | Leserfrage | `::: {.callout-note .reader-question}` + `## Leserfrage: …` |
 | Wiederholung früheren Stoffs | `::: {.callout-note .review}` + `## Zur Wiederholung` |
 | Unsichere Aussage | `::: {.callout-caution .uncertain}` + `## Vorsicht` |

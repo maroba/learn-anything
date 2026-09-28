@@ -14,12 +14,12 @@
   "use strict";
 
   const STRINGS = {
-    de: { copy: "Referenz auf diese Stelle kopieren", copied: "Referenz kopiert – jetzt in den Chat einfügen", failed: "Kopieren fehlgeschlagen", paragraph: "Absatz", isNew: "neu", listen: "Anhören", noVoice: "Keine passende Stimme auf diesem Gerät" },
-    en: { copy: "Copy a reference to this passage", copied: "Reference copied – paste it into the chat", failed: "Copy failed", paragraph: "paragraph", isNew: "new", listen: "Listen", noVoice: "No suitable voice on this device" },
-    el: { copy: "Αντιγραφή αναφοράς σε αυτό το σημείο", copied: "Η αναφορά αντιγράφηκε – επικολλήστε τη στη συνομιλία", failed: "Η αντιγραφή απέτυχε", paragraph: "παράγραφος", isNew: "νέο", listen: "Ακρόαση", noVoice: "Δεν υπάρχει κατάλληλη φωνή σε αυτή τη συσκευή" },
-    es: { copy: "Copiar una referencia a este pasaje", copied: "Referencia copiada – pégala en el chat", failed: "No se pudo copiar", paragraph: "párrafo", isNew: "nuevo", listen: "Escuchar", noVoice: "No hay una voz adecuada en este dispositivo" },
-    fr: { copy: "Copier une référence à ce passage", copied: "Référence copiée – collez-la dans le chat", failed: "Échec de la copie", paragraph: "paragraphe", isNew: "nouveau", listen: "Écouter", noVoice: "Aucune voix adaptée sur cet appareil" },
-    it: { copy: "Copia un riferimento a questo passo", copied: "Riferimento copiato – incollalo nella chat", failed: "Copia non riuscita", paragraph: "paragrafo", isNew: "nuovo", listen: "Ascolta", noVoice: "Nessuna voce adatta su questo dispositivo" },
+    de: { copy: "Referenz auf diese Stelle kopieren", copied: "Referenz kopiert – jetzt in den Chat einfügen", failed: "Kopieren fehlgeschlagen", paragraph: "Absatz", isNew: "neu", listen: "Anhören", noVoice: "Keine passende Stimme auf diesem Gerät", listenAll: "Alles anhören", showText: "Text anzeigen" },
+    en: { copy: "Copy a reference to this passage", copied: "Reference copied – paste it into the chat", failed: "Copy failed", paragraph: "paragraph", isNew: "new", listen: "Listen", noVoice: "No suitable voice on this device", listenAll: "Listen to all", showText: "Show text" },
+    el: { copy: "Αντιγραφή αναφοράς σε αυτό το σημείο", copied: "Η αναφορά αντιγράφηκε – επικολλήστε τη στη συνομιλία", failed: "Η αντιγραφή απέτυχε", paragraph: "παράγραφος", isNew: "νέο", listen: "Ακρόαση", noVoice: "Δεν υπάρχει κατάλληλη φωνή σε αυτή τη συσκευή", listenAll: "Ακρόαση όλων", showText: "Εμφάνιση κειμένου" },
+    es: { copy: "Copiar una referencia a este pasaje", copied: "Referencia copiada – pégala en el chat", failed: "No se pudo copiar", paragraph: "párrafo", isNew: "nuevo", listen: "Escuchar", noVoice: "No hay una voz adecuada en este dispositivo", listenAll: "Escuchar todo", showText: "Mostrar texto" },
+    fr: { copy: "Copier une référence à ce passage", copied: "Référence copiée – collez-la dans le chat", failed: "Échec de la copie", paragraph: "paragraphe", isNew: "nouveau", listen: "Écouter", noVoice: "Aucune voix adaptée sur cet appareil", listenAll: "Tout écouter", showText: "Afficher le texte" },
+    it: { copy: "Copia un riferimento a questo passo", copied: "Riferimento copiato – incollalo nella chat", failed: "Copia non riuscita", paragraph: "paragrafo", isNew: "nuovo", listen: "Ascolta", noVoice: "Nessuna voce adatta su questo dispositivo", listenAll: "Ascolta tutto", showText: "Mostra il testo" },
   };
   const lang = (document.documentElement.lang || "en").toLowerCase();
   const t = STRINGS[lang] || STRINGS[lang.slice(0, 2)] || STRINGS.en;
@@ -198,12 +198,14 @@
   });
 
   let player = null;
+  let sequence = 0; // bumped on every stop, so a running sequence notices it was interrupted
   function stopAll() {
+    sequence++;
     if (player) { player.pause(); player = null; }
     if ("speechSynthesis" in window) window.speechSynthesis.cancel();
   }
 
-  function speak(textToSay, voiceLang) {
+  function speak(textToSay, voiceLang, onEnd) {
     const synth = window.speechSynthesis;
     const voices = synth.getVoices();
     const voice = voices.find((v) => v.lang.toLowerCase().startsWith(voiceLang.slice(0, 2)));
@@ -212,13 +214,66 @@
     u.lang = voice ? voice.lang : voiceLang;
     if (voice) u.voice = voice;
     u.rate = 0.9;
+    if (onEnd) u.onend = onEnd;
     synth.speak(u);
+  }
+
+  // Play a list of texts one after another (recording if available, else the browser voice).
+  function playSequence(items, base, canSpeak) {
+    stopAll();
+    const mine = sequence;
+    let i = 0;
+    const next = () => {
+      if (mine !== sequence || i >= items.length) return;
+      const { key, file, voiceLang } = items[i++];
+      if (file) {
+        const audio = new Audio(base + file);
+        player = audio;
+        audio.addEventListener("ended", next);
+        audio.play().catch(() => { if (canSpeak) speak(key, voiceLang, next); });
+      } else if (canSpeak) {
+        speak(key, voiceLang, next);
+      }
+    };
+    next();
+  }
+
+  // Listening exercises: `::: {lang="el" .listen}` shows only a play button; the text is folded away.
+  function addListenBlocks(manifest, base, canSpeak) {
+    content.querySelectorAll("div.listen[lang]").forEach((div) => {
+      const voiceLang = div.getAttribute("lang");
+      const items = targets
+        .filter(({ el }) => div.contains(el))
+        .map(({ el }) => ({ key: plainText(el), file: manifest[plainText(el)], voiceLang }))
+        .filter(({ key, file }) => key && (file || canSpeak));
+      if (!items.length) return;
+      const bar = document.createElement("p");
+      bar.className = "la-listen";
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "la-audio la-audio-all";
+      button.textContent = "▶ " + t.listenAll;
+      button.addEventListener("click", (event) => {
+        event.preventDefault();
+        playSequence(items, base, canSpeak);
+      });
+      bar.appendChild(button);
+      const details = document.createElement("details");
+      details.className = "la-listen-text";
+      const summary = document.createElement("summary");
+      summary.textContent = t.showText;
+      details.appendChild(summary);
+      div.parentNode.insertBefore(bar, div);
+      div.parentNode.insertBefore(details, div);
+      details.appendChild(div);
+    });
   }
 
   function addButtons(manifest) {
     const offsetMeta = document.querySelector('meta[name="quarto:offset"]');
     const base = (offsetMeta ? offsetMeta.content : "./") + "audio/";
     const canSpeak = "speechSynthesis" in window;
+    addListenBlocks(manifest, base, canSpeak);
     targets.forEach(({ el, lang: voiceLang }) => {
       const key = plainText(el);
       const file = manifest[key];
