@@ -12,7 +12,8 @@
 | 04 Erzählen: Imperfekt und Aspekt | veröffentlicht | Welle 2; Audio vollständig |
 | 05 Der zweite Stamm in der Zukunft: θα und να | Konsistenz | Welle 3; überarbeitet (8 000 Wörter) |
 | 06 Auf dem Markt: Nomen, Adjektive, Zahlen | fertig, wartet auf 05 | Welle 2; überarbeitet, erscheint nach Kapitel 5 |
-| 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | Entwurf | Welle 3 |
+| 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | Übungen | Welle 3; Entwurf fertig |
+| 11 Zeit: Uhrzeit, Datum, Jahreszahlen | Entwurf | Welle 3 |
 
 ## Plan für /write all (Wellen nach Voraussetzungen)
 
