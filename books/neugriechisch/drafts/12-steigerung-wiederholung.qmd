@@ -38,7 +38,7 @@ kommt aus Korfu.
 
 — Και στην Κρήτη δε βρέχει;
 
-— Λιγότερο. Και είναι πιο ζεστά. Η θάλασσα είναι ακόμα ζεστή, και έχει λιγότερο κόσμο από τον
+— Λιγότερο. Και είναι πιο ζεστά. Η θάλασσα είναι ακόμα ζεστή, και έχει λιγότερο κόσμο απ’ ό,τι τον
 Αύγουστο.
 
 — Ναι, αλλά είναι πιο μακριά. Με το πλοίο θέλει εννιά ώρες.
@@ -85,7 +85,7 @@ Essen.
 Pastitsada.
 :::
 
-Die Kreterin hat recht, was die Größe angeht, und der Korfiote, was den Regen angeht; beim Essen
+Die Kreterin hat recht, was die Größe angeht, und der Korfiote, was das Grün angeht; beim Essen
 bleibt es unentschieden. Grammatisch drehen sich beide um dasselbe: vergleichen.
 
 | im Text | Deutsch | Bauart |
@@ -94,7 +94,7 @@ bleibt es unentschieden. Grammatisch drehen sich beide um dasselbe: vergleichen.
 | [τα πιο ψηλά βουνά]{lang="el"} | die höchsten Berge | Artikel + [πιο]{lang="el"} + Adjektiv |
 | [το μεγαλύτερο νησί, το καλύτερο φαγητό]{lang="el"} | die größte Insel, das beste Essen | ein Wort auf [-τερος]{lang="el"} |
 | [πιο πολύ, λιγότερο, πιο ζεστά]{lang="el"} | mehr, weniger, wärmer | Adverbien |
-| [από τον Αύγουστο, από κάθε παστιτσάδα]{lang="el"} | als (im) August, als jede Pastitsada | „als“ = [από]{lang="el"} |
+| [από κάθε παστιτσάδα, απ’ ό,τι τον Αύγουστο]{lang="el"} | als jede Pastitsada, als im August | „als“ = [από]{lang="el"}, [απ’ ό,τι]{lang="el"} |
 
 Ein Wort zum Wetter: [βρέχει]{lang="el"} „es regnet“ kommt ohne Subjekt aus wie im Deutschen. Für
 Hitze und Kälte sagt das Griechische [κάνει ζέστη]{lang="el"}, [κάνει κρύο]{lang="el"}, wörtlich
@@ -105,7 +105,6 @@ Hitze und Kälte sagt das Griechische [κάνει ζέστη]{lang="el"}, [κά�
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [πιο]{lang="el"} | [pço] | mehr; bildet den Komparativ: [πιο ψηλός]{lang="el"} höher |
-| [ο πιο …, η πιο …, το πιο …]{lang="el"} | [o pço] | der, die, das …ste |
 | [από]{lang="el"} + Akk. | [aˈpo] | (beim Vergleich) als |
 | [βρέχει, έβρεξε]{lang="el"} | [ˈvreçi], [ˈevrekse] | es regnet, es hat geregnet |
 | [η βροχή]{lang="el"} | [i vroˈçi] | der Regen |
@@ -113,6 +112,7 @@ Hitze und Kälte sagt das Griechische [κάνει ζέστη]{lang="el"}, [κά�
 | [η ζέστη]{lang="el"} | [i ˈzesti] | die Hitze, Wärme |
 | [το κρύο]{lang="el"} | [to ˈkrio] | die Kälte |
 | [το βουνό]{lang="el"} | [to vuˈno] | der Berg |
+| [ψηλός, -ή, -ό]{lang="el"} | [psiˈlos] | hoch; groß (Person) |
 | [όμορφος, -η, -ο]{lang="el"} | [ˈomorfos] | schön, hübsch |
 | [το ξενοδοχείο]{lang="el"} | [to ksenoðoˈçio] | das Hotel |
 | [φτιάχνω, έφτιαξα]{lang="el"} | [ˈftçaxno], [ˈeftçaksa] | machen, zubereiten; reparieren |
@@ -133,8 +133,6 @@ Hitze und Kälte sagt das Griechische [κάνει ζέστη]{lang="el"}, [κά�
 | [ο ντάκος]{lang="el"} | Dakos, Gerstenzwieback mit Tomate und Käse (Kreta) |
 | [το παξιμάδι]{lang="el"} | der Zwieback |
 :::
-
-<!-- CHECK: Reisezeiten im Dialog: Fähre Piräus–Heraklion ca. 9 h, Flug Athen–Heraklion ca. 50 min, Athen–Korfu ähnlich (ca. 1 h); Pastitsada als venezianisch-italienisch geprägtes Gericht Korfus. -->
 
 ## Grüner als, größer als: [πιο]{lang="el"} + Adjektiv {#sec-vergleich-pio}
 
@@ -160,9 +158,16 @@ das Griechische nimmt beide Male [από]{lang="el"}: [πιο ψηλό από δ
 μέτρα]{lang="el"}. Im Gespräch wird es oft zu [απ’]{lang="el"} verkürzt:
 [απ’ την Κέρκυρα]{lang="el"} [ap tin ˈcercira].
 
-Steht hinter „als“ kein Nomen, sondern ein ganzer Satz, heißt es [από ό,τι]{lang="el"}, gesprochen
-meist [απ’ ό,τι]{lang="el"}: [Είναι πιο ζεστά απ’ ό,τι νόμιζα.]{lang="el"} „Es ist wärmer, als ich
-dachte.“
+Steht hinter „als“ kein Nomen, sondern ein ganzer Satz oder eine Orts- oder Zeitangabe, heißt es
+[από ό,τι]{lang="el"}, gesprochen meist [απ’ ό,τι]{lang="el"}:
+
+- [Είναι πιο ζεστά απ’ ό,τι νόμιζα.]{lang="el"} „Es ist wärmer, als ich dachte.“
+- [Στην Κρήτη βρέχει λιγότερο απ’ ό,τι στην Κέρκυρα.]{lang="el"} „Auf Kreta regnet es weniger als
+  auf Korfu.“
+- [λιγότερο κόσμο απ’ ό,τι τον Αύγουστο]{lang="el"} „weniger Leute als im August“
+
+Verglichen wird hier nicht Kreta mit Korfu, sondern das Regnen dort mit dem Regnen hier. Im
+Gespräch hörst du auch das kürzere [λιγότερο κόσμο από τον Αύγουστο]{lang="el"}.
 
 **Wie viel mehr?** Davor passt [πολύ]{lang="el"} „viel“, [λίγο]{lang="el"} „etwas“ oder
 [ακόμα]{lang="el"} „noch“: [πολύ πιο μεγάλη]{lang="el"}, [λίγο πιο εύκολα]{lang="el"},
@@ -189,7 +194,7 @@ vor dem Adjektiv.
 | [πολύ πιο, λίγο πιο]{lang="el"} | [poˈli pço], [ˈliɣo pço] | viel …er, etwas …er |
 | [όλο και πιο]{lang="el"} | [ˈolo ce pço] | immer …er: [όλο και πιο ζεστά]{lang="el"} immer wärmer |
 | [τόσο … όσο]{lang="el"} | [ˈtoso … ˈoso] | so … wie |
-| [από ό,τι]{lang="el"} | [aˈpo ˈoti] | als (vor einem Satz): [απ’ ό,τι νόμιζα]{lang="el"} als ich dachte |
+| [από ό,τι]{lang="el"} | [aˈpo ˈoti] | als (vor Satz, Orts- oder Zeitangabe): [απ’ ό,τι νόμιζα]{lang="el"} als ich dachte |
 | [ποιος, ποια, ποιο]{lang="el"} | [pços], [pça], [pço] | welcher, welche, welches; wer |
 | [ξερός, -ή, -ό]{lang="el"} | [kseˈros] | trocken |
 :::
@@ -228,9 +233,11 @@ Der Artikel ist der ganze Unterschied zwischen „grüner“ und „am grünsten
 
 Deutsch unterscheidet „die grünere Insel“ und „die grünste Insel“; im Griechischen kann
 [το πιο πράσινο νησί]{lang="el"} beides sein. Bei zweien heißt es „das grünere“, bei vielen „das
-grünste“, und das verrät erst der Zusammenhang. Umgekehrt ist [πιο]{lang="el"} ohne Artikel nie
-Superlativ: \*[Η Κρήτη είναι πιο μεγάλο νησί της Ελλάδας]{lang="el"} ist falsch, es fehlt
-[το]{lang="el"}.
+grünste“, und das verrät erst der Zusammenhang. Umgekehrt ist [πιο]{lang="el"} + Adjektiv +
+Nomen ohne Artikel kein Superlativ: \*[Η Κρήτη είναι πιο μεγάλο νησί της Ελλάδας]{lang="el"} ist
+falsch, es fehlt [το]{lang="el"}. Ohne Nomen geht „am …sten“ auch ohne Artikel: beim Adverb
+([μου αρέσει πιο πολύ απ’ όλα]{lang="el"}) und nach [ποιο]{lang="el"}: [Ποιο νησί είναι πιο
+ωραίο;]{lang="el"} „Welche Insel ist am schönsten?“
 :::
 
 ::: {.callout-note collapse="true"}
@@ -248,13 +255,11 @@ die beste Schulnote, „ausgezeichnet“.
 
 Grob gerundet:
 
-| Insel | Fläche | höchster Berg | Regen im Jahr |
+| Insel | Fläche | höchster Berg | Regen im Jahr (Hauptort) |
 |---|---|---|---|
-| [η Κρήτη]{lang="el"} | 8 300 km² | 2 456 m | ca. 500 mm |
+| [η Κρήτη]{lang="el"} | 8 300 km² | 2 456 m | ca. 450 mm |
 | [η Κέρκυρα]{lang="el"} | 600 km² | 900 m | ca. 1 100 mm |
-| [η Νάξος]{lang="el"} | 430 km² | 1 000 m | ca. 400 mm |
-
-<!-- CHECK: Werte gerundet (Kreta 8336 km², Heraklion ~500 mm; Korfu ~600 km², Pantokrator ~906 m; Naxos ~430 km², Zas ~1000 m, ~400 mm); Satz 6 hängt daran. -->
+| [η Νάξος]{lang="el"} | 430 km² | 1 000 m | ca. 370 mm |
 
 **Teil A.** Sag laut auf Griechisch:
 
@@ -268,11 +273,11 @@ Grob gerundet:
 (Worthilfen: [της Νάξου]{lang="el"} von Naxos; [ο Ψηλορείτης]{lang="el"};
 [από τα τρία νησιά]{lang="el"} von den drei Inseln)
 
-**Teil B.** Richtig oder falsch? Im Chat reicht „7r, 8f …“.
+**Teil B.** Grammatisch richtig oder falsch? Im Chat reicht „7r, 8f …“.
 
 ::: {lang="el" .no-audio}
 7. Η Κρήτη είναι πιο μεγάλο νησί της Ελλάδας.
-8. Από τα δύο νησιά, η Νάξος είναι το πιο ξερό.
+8. Η Νάξος ή η Κέρκυρα; Από τα δύο νησιά, το πιο ξερό είναι η Νάξος.
 9. Η Κέρκυρα είναι πιο πράσινη από η Νάξος.
 :::
 :::
@@ -287,8 +292,8 @@ Das Adjektiv richtet sich nach dem Nomen: in 3 nach [τα βουνά]{lang="el"}
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-„Als“ ist [από]{lang="el"} + Akkusativ; nach [όσο]{lang="el"} bleibt der Nominativ. Der Artikel
-im Superlativ gehört zum Nomen dahinter.
+„Als“ ist [από]{lang="el"} + Akkusativ; nach [όσο]{lang="el"} bleibt der Nominativ. Artikel und
+Adjektiv im Superlativ richten sich nach dem Nomen, das dabeisteht oder mitgedacht ist.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -301,14 +306,16 @@ im Superlativ gehört zum Nomen dahinter.
 3. [Τα βουνά της Νάξου είναι λίγο πιο ψηλά από τα βουνά της Κέρκυρας.]{lang="el"}
 4. [Η Νάξος δεν είναι (τόσο) μεγάλη όσο η Κέρκυρα.]{lang="el"}
 5. [Ο Ψηλορείτης είναι το πιο ψηλό βουνό της Κρήτης.]{lang="el"}
-6. [Η Νάξος είναι το πιο ξερό από τα τρία νησιά.]{lang="el"} Auch: [Από τα τρία νησιά, το
-   πιο ξερό είναι η Νάξος.]{lang="el"}
+6. [Η Νάξος είναι το πιο ξερό από τα τρία νησιά.]{lang="el"} [το πιο ξερό]{lang="el"} richtet
+   sich nach dem mitgedachten [νησί]{lang="el"}. Genauso richtig, nach [η Νάξος]{lang="el"}:
+   [Η Νάξος είναι η πιο ξερή από τα τρία νησιά.]{lang="el"} Auch: [Από τα τρία νησιά, το πιο ξερό
+   είναι η Νάξος.]{lang="el"}
 
 **Typische Fehler:** \*[πιο ξερός]{lang="el"}; \*[όσο την Κέρκυρα]{lang="el"}; \*[ο πιο ψηλό
 βουνό]{lang="el"}.
 
-**Teil B: 7f, 8r, 9f.** In 7 fehlt der Artikel: [το πιο μεγάλο νησί]{lang="el"}. 8 heißt „das
-trockenere von beiden“. In 9 muss der Akkusativ stehen: [από τη Νάξο]{lang="el"}.
+**Teil B: 7f, 8r, 9f.** In 7 fehlt der Artikel: [το πιο μεγάλο νησί]{lang="el"}. 8 heißt „die
+trockenere von beiden“; [το πιο ξερό]{lang="el"} gehört zum mitgedachten [νησί]{lang="el"}. In 9 muss der Akkusativ stehen: [από τη Νάξο]{lang="el"}.
 :::
 
 ## Ein Wort statt zwei: [μεγαλύτερος, καλύτερος]{lang="el"} {#sec-vergleich-synthetisch}
@@ -365,8 +372,7 @@ Touristen“, [οι περισσότεροι]{lang="el"} „die meisten“ (Kapi
 Die Form auf [-τερος]{lang="el"} klingt bei den meisten Adjektiven etwas schriftlicher; du wirst
 sie in Nachrichten und Texten lesen und kannst dich beim Sprechen auf [πιο]{lang="el"}
 verlassen. Bei den sechs aus der Tabelle ist es umgekehrt: [καλύτερος]{lang="el"} ist Alltag,
-[πιο καλός]{lang="el"} hört man auch, [πιο πολύς]{lang="el"} seltener.
-<!-- CHECK: Häufigkeitsaussagen (πιο καλός im Gespräch üblich, πιο πολύς seltener als περισσότερος; -ότερος-Formen bei den meisten Adjektiven eher schriftlich) mit Korpus/Grammatik (Holton et al.) abgleichen. -->
+[πιο καλός]{lang="el"} und [πιο πολύ(ς)]{lang="el"} hört man auch.
 
 ::: {.callout-warning}
 ## Achtung
@@ -381,9 +387,9 @@ Gespräch, es gilt aber als Fehler. Entweder [καλύτερος]{lang="el"} ode
 [-τερος]{lang="el"} ist eine uralte Endung für Gegensatzpaare: Sie steckt in [δεύτερος]{lang="el"}
 „der zweite“ und in [ύστερα]{lang="el"} „danach“, das du aus Kapitel 2 kennst (*Hysteron
 proteron*: das Spätere zuerst). Und in [αριστερά]{lang="el"} „links“. Nach der gängigen Deutung
-ist das ein beschönigender Komparativ zu [άριστος]{lang="el"} „der Beste“: Weil die linke Seite
-als Unglücksseite galt, nannte man sie lieber „die bessere“.
-<!-- CHECK: Etymologie αριστερός als euphemistische Ableitung zu ἄριστος mit -τερος (Beekes/Chantraine); δεύτερος und ὕστερος mit Kontrastsuffix -τερος – Formulierung „nach der gängigen Deutung“ ausreichend? -->
+ist das ein beschönigender Komparativ zum Stamm [αρι-]{lang="el"} „gut“, der auch in
+[άριστος]{lang="el"} „der Beste“ steckt: Weil die linke Seite als Unglücksseite galt, nannte man
+sie lieber „die bessere“.
 :::
 
 ::: {.callout-note .exercise}
@@ -471,25 +477,25 @@ heißt [μεγαλύτερος]{lang="el"} bei Menschen?
 
 Deutsch sagt „das Essen ist gut“ und „sie kocht gut“ mit demselben Wort. Englisch, Spanisch und
 Französisch trennen: *good/well*, [*bueno/bien*]{lang="es"}, [*bon/bien*]{lang="fr"}. Das Griechische
-trennt auch, und zwar ganz regelmäßig: Das **Adverb** ([το επίρρημα]{lang="el"}) sieht aus wie das
-sächliche Adjektiv im Plural.
+trennt auch: Das **Adverb** ([το επίρρημα]{lang="el"}) sieht aus wie das sächliche Adjektiv im
+Plural. Ausnahmen: [πολύ]{lang="el"} „sehr, viel“ und [λίγο]{lang="el"} „etwas“ ([πολλά]{lang="el"}
+heißt „vieles“).
 
 | Adjektiv | Adverb | Beispiel |
 |---|---|---|
 | [καλός]{lang="el"} | [καλά]{lang="el"} | [Μαγειρεύει καλά.]{lang="el"} Sie kocht gut. |
 | [γρήγορος]{lang="el"} | [γρήγορα]{lang="el"} | [Μιλάει γρήγορα.]{lang="el"} Er spricht schnell. |
-| [ζεστός]{lang="el"} | [ζεστά]{lang="el"} | [Είναι ζεστά.]{lang="el"} Es ist warm. |
+| [ζεστός]{lang="el"} | [ζεστά]{lang="el"} | [Ντύσου ζεστά!]{lang="el"} Zieh dich warm an! ([ντύνομαι]{lang="el"}, Kapitel 10) |
 | [εύκολος]{lang="el"} | [εύκολα]{lang="el"} | [Το βρήκαμε εύκολα.]{lang="el"} Wir haben es leicht gefunden. |
 | [βαθύς]{lang="el"} | [βαθιά]{lang="el"} | [Κοιμάται βαθιά.]{lang="el"} Sie schläft tief. |
 
-Du kennst schon ein Dutzend davon, ohne dass sie so hießen: [καλά, ωραία, αργά, δυνατά, κρυφά,
+Du kennst schon rund zehn davon, ohne dass sie so hießen: [καλά, ωραία, αργά, δυνατά, κρυφά,
 ξαφνικά, σοβαρά, συχνά, τελικά]{lang="el"}. Auch [μακριά]{lang="el"} „weit weg“ ist eins, von
 [μακρύς]{lang="el"} „lang“, mit [-ιά]{lang="el"} wie [βαθιά]{lang="el"}.
 
 **Wetter mit Adverb:** [Εκεί είναι πιο ζεστά.]{lang="el"} „Dort ist es wärmer.“ Das Adverb
 beschreibt den Ort, kein Ding; für ein Ding bleibt das Adjektiv: [Η θάλασσα είναι
 ζεστή.]{lang="el"} Ohne Vergleich sagt man meist [κάνει ζέστη]{lang="el"}.
-<!-- CHECK: είναι (πιο) ζεστά als übliche Ausdrucksweise für „es ist (dort) wärmer“ neben κάνει (πιο πολλή) ζέστη – Gebrauch so vertretbar? -->
 
 ::: {.callout-warning}
 ## Achtung
@@ -548,7 +554,7 @@ besser? – Besser, danke.“ Nach [είμαι]{lang="el"} steht hier das Adverb
 
 ::: {lang="el" .no-audio}
 7. — Είσαι …; — …, ευχαριστώ. (besser)
-8. Στην Κέρκυρα βρέχει … από την Κρήτη. (mehr)
+8. Στην Κέρκυρα βρέχει … απ’ ό,τι στην Κρήτη. (mehr)
 9. Αν φύγουμε μισή ώρα …, θα φτάσουμε στις εφτά. (früher)
 10. Μίλα λίγο …, δεν ακούω! (lauter)
 :::
@@ -574,7 +580,7 @@ es ein Adverb.
 **Teil A: 1b, 2a, 3a, 4c, 5a, 6a.** 1: Wie jemand kocht, sagt das Adverb. 2, 3, 6: Das Wort
 beschreibt [το φαγητό, το ξενοδοχείο, η θάλασσα]{lang="el"}, also Adjektiv. 4: „um Punkt acht“;
 [ακριβά]{lang="el"} wäre „teuer“ ([πλήρωσα ακριβά]{lang="el"}). 5: [ζεστή]{lang="el"} bräuchte
-ein weibliches Nomen; [είναι ζεστά]{lang="el"} ginge auch.
+ein weibliches Nomen; umgangssprachlich auch [είναι ζεστά]{lang="el"}.
 
 **Teil B**
 
@@ -622,7 +628,7 @@ Und die Verben auf [-μαι]{lang="el"} (Kapitel 10):
 
 | Form | [θυμάμαι]{lang="el"} | [κάθομαι]{lang="el"} | [έρχομαι]{lang="el"} |
 |---|---|---|---|
-| Imperfekt | [θυμόμουν]{lang="el"} | [καθόμουν]{lang="el"} | [ερχόμουν]{lang="el"} |
+| Imperfekt (erkennen; aktiv in Kapitel 13) | [θυμόμουν]{lang="el"} | [καθόμουν]{lang="el"} | [ερχόμουν]{lang="el"} |
 | Aorist | [θυμήθηκα]{lang="el"} | [κάθισα]{lang="el"}, umg. [έκατσα]{lang="el"} | [ήρθα]{lang="el"} |
 | [θα]{lang="el"}/[να]{lang="el"}, Foto | [θυμηθώ]{lang="el"} | [καθίσω]{lang="el"}, umg. [κάτσω]{lang="el"} | [έρθω]{lang="el"} |
 
@@ -643,11 +649,26 @@ Nur eine Vergangenheit und keine Foto-Form haben [είμαι, έχω, ξέρω]{
 
 ### Pronomen, Nomen, Zeit {#sec-vergleich-bilanz-rest}
 
-**Schwache Pronomen** (Kapitel 8, 9) stehen vor dem konjugierten Verb, nach
-[δεν, θα, να, μη(ν)]{lang="el"}: [Δε θα σου το πω.]{lang="el"} Nur nach dem bejahten Imperativ
-stehen sie dahinter: [Πες μου το.]{lang="el"}, bei zwei Pronomen mit zweitem Akzent
-[Δώσε μού το]{lang="el"} oder verkürzt [Δώσ’ το μου]{lang="el"}. Die Reihenfolge ist „erst wem,
-dann was“: [μου το]{lang="el"}, wie [*me lo*]{lang="es"}.
+**Schwache Pronomen** (Kapitel 8, 9):
+
+| Person | wen? (Akk.) | wem? (Gen.) |
+|---|---|---|
+| ich | [με]{lang="el"} | [μου]{lang="el"} |
+| du | [σε]{lang="el"} | [σου]{lang="el"} |
+| er, es | [τον, το]{lang="el"} | [του]{lang="el"} |
+| sie | [τη(ν)]{lang="el"} | [της]{lang="el"} |
+| wir | [μας]{lang="el"} | [μας]{lang="el"} |
+| ihr, Sie | [σας]{lang="el"} | [σας]{lang="el"} |
+| sie (Pl.) | [τους, τις, τα]{lang="el"} | [τους]{lang="el"} |
+
+| Stellung | Beispiel |
+|---|---|
+| vor dem Verb, auch nach [δεν, θα, να, μη(ν)]{lang="el"} | [Δε θα σου το πω.]{lang="el"} |
+| nach dem bejahten Imperativ | [Πες μου το.]{lang="el"} |
+
+Vor dem Verb heißt es immer [μου το]{lang="el"}, „wem“ vor „was“, wie [*me lo*]{lang="es"}. Nach
+dem Imperativ hörst du beide Reihenfolgen: [Δώσε μού το]{lang="el"} oder [Δώσ’ το μου]{lang="el"};
+bei [Δώσε μού το]{lang="el"} kommt ein zweiter Akzent dazu (Kapitel 8).
 
 **Nomen** (Kapitel 6, 7), Singular mit Artikel:
 
@@ -727,7 +748,8 @@ vom griechischen Nomen. 8: unregelmäßig (Kapitel 9).
    sächlich. Nicht \*[Μη διάβασέ το]{lang="el"}: nach [μην]{lang="el"} nie ein Imperativ.
 5. [Διάβαζε λίγο κάθε μέρα!]{lang="el"} Film-Imperativ.
 6. [Αύριο το πρωί θα πιω έναν καφέ μαζί σου.]{lang="el"} Einmal, Foto; [θα πίνω]{lang="el"}
-   klänge nach „ab morgen regelmäßig“.
+   klänge nach Verlauf („da werde ich gerade Kaffee trinken“). „Ab morgen regelmäßig“ wäre
+   [από αύριο θα πίνω]{lang="el"}.
 7. [Το καλοκαίρι θα πίνω πολύ νερό κάθε μέρα.]{lang="el"} Film.
 8. [Πιείτε το!]{lang="el"} Singular [Πιες το!]{lang="el"}
 9. [Όταν ήμουν παιδί, φοβόμουν τη θάλασσα.]{lang="el"} Imperfekt, Zustand.
@@ -763,8 +785,8 @@ der Regel. Im Chat reicht die Nummer des fehlerfreien Satzes.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Die Fehler: Augment, Aspekt nach [θα]{lang="el"}, Uhrzeit, Vokativ, Pronomen am Imperativ,
-Aorist auf [-θηκα]{lang="el"}, Genitiv, Superlativ, Imperfekt, Datum.
+Geprüft wird in drei Bereichen. Verb: Augment, Aspekt, Aorist- und Imperfektformen, Pronomen
+am Imperativ. Nomen: Fälle und Artikel. Zeit: Uhrzeit und Datum.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -783,7 +805,8 @@ Erst Artikel und Endungen prüfen, dann das Verb: Wie oft passiert es? Wo steht 
 5. **Richtig.** „Hast du … gesehen?“ ist ein Aorist (Kapitel 2).
 6. [Δώσε μού το]{lang="el"} oder [Δώσ’ το μου]{lang="el"}: nach dem Imperativ dahinter
    (Kapitel 8, 9); davor nur im Verbot, [Μη μου το δώσεις.]{lang="el"}
-7. [φοβήθηκα]{lang="el"} (Kapitel 10).
+7. [φοβήθηκα]{lang="el"} (Kapitel 10). Das ist der Standard; [φοβάθηκα]{lang="el"} hört man
+   regional.
 8. [της γιαγιάς]{lang="el"}: Genitiv (Kapitel 7).
 9. [το πιο μεγάλο νησί]{lang="el"} oder [το μεγαλύτερο]{lang="el"} (Kapitel 12).
 10. [πήγαινα]{lang="el"}: Gewohnheit, Imperfekt (Kapitel 4).
@@ -853,7 +876,7 @@ Die vierte nennt keine Insel.
 3. **Früher Ios, jetzt Andros:** mehr Wasser, weniger Leute ([περισσότερο νερό, λιγότερο
    κόσμο]{lang="el"}). Die Gewohnheit ist [πήγαινα κάθε χρόνο]{lang="el"} [ˈpiʝena], Imperfekt.
    [ήμουν]{lang="el"} hat nur eine Vergangenheit, [μεγάλωσα]{lang="el"} ist Aorist.
-4. **Keine Insel:** Es ist zu heiß ([κάνει πολλή ζέστη]{lang="el"}), deshalb Pilion,
+4. **Keine Insel:** Es ist sehr heiß ([κάνει πολλή ζέστη]{lang="el"}), deshalb Pilion,
    [θα πάω]{lang="el"}.
 
 Oft überhört: [πήγαινα]{lang="el"} hat drei Silben, [πήγα]{lang="el"} zwei. Das
@@ -879,7 +902,7 @@ mehr Wasser und weniger Leute. Ich bin älter geworden, was soll man machen.
 
 — Und für Sie?
 
-— Keine. Es ist zu heiß. Dieses Jahr fahre ich in die Berge, aufs Pilion.
+— Keine. Es ist sehr heiß. Dieses Jahr fahre ich in die Berge, aufs Pilion.
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -917,12 +940,16 @@ Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) nach [νησί]{
 [διακοπές]{lang="el"} oder [καλοκαίρι]{lang="el"} ein Straßeninterview von sechs bis zwölf
 Minuten.
 
-**Durchgang 1, ohne Untertitel** (Bild abdecken): Notier auf einem Zettel jeden Ortsnamen, den du erkennst,
-und daneben V, wenn jemand von früher erzählt, oder Z, wenn es um Pläne geht.
+Findest du nichts Passendes, nimm irgendein Straßeninterview, in dem gefragt wird
+[Τι σου αρέσει πιο πολύ;]{lang="el"} oder das vom Sommer handelt; die Suche geht über die Lupe
+auf der Kanalseite.
 
-**Durchgang 2, mit griechischen Untertiteln:** Prüf deine Liste. Sammle fünf Vergleiche
-([πιο …]{lang="el"}, [-τερος]{lang="el"}, [καλύτερα]{lang="el"}, [περισσότερο]{lang="el"}) und
-jeweils, womit verglichen wird.
+**Durchgang 1, ohne Untertitel** (Bild abdecken): Zähl mit, wie viele Ortsnamen du erkennst,
+und achte bei jedem darauf, ob jemand von früher erzählt oder von Plänen.
+
+**Durchgang 2, mit griechischen Untertiteln** (die englische Zeile abdecken): Welche Ortsnamen
+hattest du richtig? Sammle fünf Vergleiche ([πιο …]{lang="el"}, [-τερος]{lang="el"},
+[καλύτερα]{lang="el"}, [περισσότερο]{lang="el"}) und jeweils, womit verglichen wird.
 
 **Durchgang 3:** Sprich eine Antwort von höchstens einer Minute Satz für Satz nach, zum Schluss
 ganz mit.
@@ -946,7 +973,7 @@ entscheidet.
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-Keine feste Lösung. Gut ist: drei Ortsnamen bestätigt und V/Z meist richtig; fünf Vergleiche
+Keine feste Lösung. Gut ist: drei Ortsnamen bestätigt und „früher oder Plan“ meist richtig; fünf Vergleiche
 samt Vergleichsgröße (etwa [πιο ήσυχο από τη Μύκονο]{lang="el"}); in Durchgang 3 zuletzt das
 Tempo gehalten. Wenig verstanden in Durchgang 1 ist bei Straßensprache normal.
 :::
@@ -955,10 +982,10 @@ Tempo gehalten. Wenig verstanden in Durchgang 1 ist bei Straßensprache normal.
 
 - **Komparativ:** [πιο]{lang="el"} [pço] + Adjektiv, das sich anpasst: [πιο πράσινη]{lang="el"}.
   „Als“ ist [από]{lang="el"} + Akkusativ ([από την Κέρκυρα]{lang="el"}), vor einem Satz
-  [απ’ ό,τι]{lang="el"}. Verstärkt: [πολύ πιο, λίγο πιο, όλο και πιο]{lang="el"}. Gleich:
-  [τόσο … όσο]{lang="el"}.
+  oder einer Orts- oder Zeitangabe [απ’ ό,τι]{lang="el"}. Verstärkt: [πολύ πιο, λίγο πιο,
+  όλο και πιο]{lang="el"}. Gleich: [τόσο … όσο]{lang="el"}.
 - **Superlativ:** Artikel + Komparativ, „von“ im Genitiv: [το πιο ψηλό βουνό της
-  Κρήτης]{lang="el"}. Ohne Artikel kein Superlativ.
+  Κρήτης]{lang="el"}. [πιο]{lang="el"} + Adjektiv + Nomen ohne Artikel ist kein Superlativ.
 - **Form auf [-τερος]{lang="el"}:** [ψηλός → ψηλότερος]{lang="el"}, Betonung auf
   [-ό-]{lang="el"}, eher schriftlich. Alltag bei den sechs: [καλύτερος, χειρότερος, μεγαλύτερος,
   μικρότερος, περισσότερος, λιγότερος]{lang="el"}. Nie \*[πιο καλύτερος]{lang="el"}.
@@ -966,7 +993,7 @@ Tempo gehalten. Wenig verstanden in Durchgang 1 ist bei Straßensprache normal.
   [-ως]{lang="el"}: [ακριβώς, συνήθως]{lang="el"}. Komparativ [πιο γρήγορα]{lang="el"},
   [καλύτερα, περισσότερο, αργότερα, νωρίτερα]{lang="el"}.
 - **Wetter:** [βρέχει, κάνει ζέστη, κάνει κρύο, είναι ζεστά]{lang="el"}.
-- **Teil I** in zwei Tabellen: @sec-vergleich-bilanz-verb.
+- **Teil I** in Tabellen: @sec-vergleich-bilanz-verb.
 
 ## Zum Lesen: Welche Insel? {#sec-vergleich-lesetext}
 

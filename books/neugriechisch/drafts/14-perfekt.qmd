@@ -1,0 +1,728 @@
+---
+title: "Hast du schon …? Perfekt und Plusquamperfekt"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+Dieses Kapitel baut auf eine Form, die du schon oft gebildet hast: die er-Form nach
+[θα]{lang="el"} oder [να]{lang="el"} im Foto (Kapitel 5 und 10).
+
+- regelmäßig: [θα γράψει, θα μιλήσει, θα φτάσει]{lang="el"}
+- Stamm ohne Anfang: [θα δει, θα πει, θα βρει, θα πιει, θα βγει]{lang="el"}; dazu
+  [θα πάει, θα φάει, θα έρθει, θα πάρει]{lang="el"}
+- Verben auf [-μαι]{lang="el"}: [θα κοιμηθεί, θα θυμηθεί, θα σκεφτεί, θα γίνει]{lang="el"}
+
+Außerdem die Vergangenheit von [έχω]{lang="el"} (Kapitel 4): [είχα, είχες, είχε, είχαμε,
+είχατε, είχαν]{lang="el"}.
+:::
+
+## Das Telefonat {#sec-perfekt-einstieg}
+
+August, später Nachmittag. Im Fernsehen läuft seit Stunden dieselbe Karte mit roten Flecken.
+Eine Frau in Athen ruft ihren Vater an, der in einem Dorf auf Euböa lebt.
+
+::: {lang="el"}
+— Μπαμπά; Είδα τις ειδήσεις. Είσαι καλά;
+
+— Καλά είμαι, κορίτσι μου. Μη φοβάσαι.
+
+— Σου ήρθε το μήνυμα από το 112;
+
+— Ήρθε. Δύο φορές.
+
+— Και; Έχεις φύγει;
+
+— Όχι ακόμα. Η φωτιά είναι ακόμα στο απέναντι βουνό.
+
+— Μπαμπά! Ξέχασες τι έγινε το ’21;
+
+— Δεν έχω ξεχάσει τίποτα. Εγώ ήμουν εδώ. Όταν ήρθαν τα Καναντέρ, η φωτιά είχε ήδη φτάσει στην
+πλατεία.
+
+— Γι’ αυτό σου λέω. Έχεις ετοιμάσει τουλάχιστον μια τσάντα;
+
+— Την ετοίμασα χθες το βράδυ. Χαρτιά, φάρμακα, φορτιστής. Το πρόβλημα είναι η γάτα.
+
+— Τι έχει η γάτα;
+
+— Έχει εξαφανιστεί. Κάθε φορά που χτυπάει το 112, πάει κάτω από το κρεβάτι. Έχει μάθει τι
+σημαίνει.
+
+— Μπαμπά. Υπόσχεσαι ότι θα φύγεις με το επόμενο μήνυμα;
+
+— Το έχω ήδη υποσχεθεί στη μητέρα σου. Δύο φορές.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Papa? Ich habe die Nachrichten gesehen. Geht’s dir gut?
+
+— Mir geht’s gut, Kleine. Keine Angst.
+
+— Hast du die Nachricht von der 112 bekommen?
+
+— Hab ich. Zweimal.
+
+— Und? Bist du weg?
+
+— Noch nicht. Das Feuer ist noch auf dem Berg gegenüber.
+
+— Papa! Hast du vergessen, was ’21 passiert ist?
+
+— Ich habe nichts vergessen. Ich war hier. Als die Löschflugzeuge kamen, war das Feuer schon bis
+zum Dorfplatz gekommen.
+
+— Genau deshalb sag ich’s dir ja. Hast du wenigstens eine Tasche gepackt?
+
+— Die habe ich gestern Abend gepackt. Papiere, Medikamente, Ladegerät. Das Problem ist die Katze.
+
+— Was ist mit der Katze?
+
+— Sie ist verschwunden. Jedes Mal, wenn die 112 klingelt, geht sie unters Bett. Sie hat gelernt,
+was das bedeutet.
+
+— Papa. Versprichst du, dass du bei der nächsten Nachricht gehst?
+
+— Das habe ich deiner Mutter schon versprochen. Zweimal.
+:::
+
+Die 112 ist in Griechenland nicht nur die Notrufnummer. Unter diesem Absender schickt der
+Katastrophenschutz bei Bränden, Unwettern und Erdbeben Warnungen an alle Handys in einer Gegend,
+mit einem Alarmton, den man nicht überhört. Seit den Bränden der letzten Jahre kennt ihn jeder,
+und offenbar auch manche Katze.
+<!-- CHECK: 112-Warnsystem in Griechenland (Cell Broadcast/SMS mit lautem Signalton, seit 2020); Formulierung „an alle Handys in einer Gegend“ korrekt? -->
+
+Im Gespräch stehen zwei Sorten von Vergangenheit nebeneinander. Die eine kennst du: [είδα,
+ήρθε, ξέχασες, έγινε, ήρθαν, ετοίμασα]{lang="el"}, lauter Aoriste. Die andere ist neu und
+besteht aus zwei Wörtern:
+
+| im Text | Deutsch | kennst du als |
+|---|---|---|
+| [έχεις φύγει]{lang="el"} | bist du weggegangen | [θα φύγει]{lang="el"} |
+| [δεν έχω ξεχάσει]{lang="el"} | ich habe nicht vergessen | [θα ξεχάσει]{lang="el"} |
+| [έχει εξαφανιστεί]{lang="el"} | sie ist verschwunden | [θα εξαφανιστεί]{lang="el"} |
+| [έχει μάθει]{lang="el"} | sie hat gelernt | [θα μάθει]{lang="el"} |
+| [έχω υποσχεθεί]{lang="el"} | ich habe versprochen | [θα υποσχεθεί]{lang="el"} |
+| [είχε φτάσει]{lang="el"} | es war gekommen | [θα φτάσει]{lang="el"} |
+
+Vorn steht [έχω]{lang="el"} „haben“, dahinter eine Form, die du aus der Zukunft kennst. Das ist
+das **Perfekt** ([ο παρακείμενος]{lang="el"}), mit [είχα]{lang="el"} statt [έχω]{lang="el"}
+das **Plusquamperfekt** ([ο υπερσυντέλικος]{lang="el"}).
+
+Und noch etwas fällt auf. Die Tochter fragt [Έχεις ετοιμάσει…;]{lang="el"}, der Vater antwortet
+mit dem Aorist: [Την ετοίμασα χθες το βράδυ.]{lang="el"} Auf Deutsch steht beide Male „gepackt“.
+Warum das Griechische wechselt, ist die eigentliche Frage dieses Kapitels.
+
+[Τι έχει η γάτα;]{lang="el"} ist übrigens kein Perfekt: [Τι έχει;]{lang="el"} heißt „Was hat
+sie? Was ist mit ihr los?“, wie im Deutschen.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η φωτιά]{lang="el"} | [i foˈtça] | das Feuer; der Brand |
+| [ακόμα]{lang="el"} | [aˈkoma] | noch; [όχι ακόμα]{lang="el"} noch nicht |
+| [ετοιμάζω, ετοίμασα]{lang="el"} | [etiˈmazo], [eˈtimasa] | vorbereiten; packen (Tasche) |
+| [η τσάντα]{lang="el"} | [i ˈtsada] | die Tasche |
+| [το φάρμακο, τα φάρμακα]{lang="el"} | [to ˈfarmako], [ta ˈfarmaka] | das Medikament |
+| [η γάτα]{lang="el"} | [i ˈɣata] | die Katze |
+| [εξαφανίζομαι, εξαφανίστηκα]{lang="el"} | [eksafaˈnizome], [eksafaˈnistika] | verschwinden |
+| [υπόσχομαι, υποσχέθηκα]{lang="el"} | [iˈposxome], [iposˈçeθika] | versprechen |
+| [Τι έχει;]{lang="el"} | [ti ˈeçi] | Was hat er/sie? Was ist mit ihm/ihr los? |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [ο μπαμπάς]{lang="el"} | der Papa |
+| [κορίτσι μου]{lang="el"} | hier: meine Kleine (Kapitel 7) |
+| [το 112]{lang="el"} | gesprochen [ˈena ˈena ˈðio]; der Notruf, die Warnmeldung |
+| [τα Καναντέρ]{lang="el"} | die Löschflugzeuge (nach dem Hersteller Canadair) |
+| [η πλατεία]{lang="el"} | der (Dorf-)Platz (Kapitel 1) |
+| [γι’ αυτό σου λέω]{lang="el"} | genau deshalb sag ich’s ja |
+| [τα χαρτιά]{lang="el"} | die Papiere, Dokumente |
+| [ο φορτιστής]{lang="el"} | das Ladegerät |
+| [κάτω από]{lang="el"} | unter |
+| [σημαίνω]{lang="el"} | bedeuten |
+:::
+
+## [έχω]{lang="el"} + Form auf [-ει]{lang="el"}: das Perfekt bilden {#sec-perfekt-bildung}
+
+Das Perfekt hat zwei Teile. [έχω]{lang="el"} wird konjugiert wie im Präsens, der zweite Teil
+ändert sich nie:
+
+| Person | Perfekt | Deutsch |
+|---|---|---|
+| ich | [**έχω** γράψει]{lang="el"} | ich habe geschrieben |
+| du | [**έχεις** γράψει]{lang="el"} | du hast geschrieben |
+| er, sie, es | [**έχει** γράψει]{lang="el"} | er/sie hat geschrieben |
+| wir | [**έχουμε** γράψει]{lang="el"} | wir haben geschrieben |
+| ihr, Sie | [**έχετε** γράψει]{lang="el"} | ihr habt geschrieben |
+| sie | [**έχουν** γράψει]{lang="el"}, [**έχουνε** γράψει]{lang="el"} | sie haben geschrieben |
+
+Der zweite Teil heißt in diesem Buch **Form auf [-ει]{lang="el"}**. Sie sieht genau so aus wie
+die er-Form nach [θα]{lang="el"} im Foto: [θα γράψει → έχω γράψει]{lang="el"}. Wer die
+[θα]{lang="el"}-Form kann, kann das Perfekt, auch bei den unregelmäßigen Verben und bei denen auf
+[-μαι]{lang="el"}:
+
+| Präsens | [θα]{lang="el"}-Form (er) | Perfekt |
+|---|---|---|
+| [μιλάω]{lang="el"} | [θα μιλήσει]{lang="el"} | [έχω μιλήσει]{lang="el"} |
+| [βλέπω]{lang="el"} | [θα δει]{lang="el"} | [έχω δει]{lang="el"} |
+| [λέω]{lang="el"} | [θα πει]{lang="el"} | [έχω πει]{lang="el"} |
+| [πάω]{lang="el"} | [θα πάει]{lang="el"} | [έχω πάει]{lang="el"} |
+| [τρώω]{lang="el"} | [θα φάει]{lang="el"} | [έχω φάει]{lang="el"} |
+| [έρχομαι]{lang="el"} | [θα έρθει]{lang="el"} | [έχω έρθει]{lang="el"} |
+| [κοιμάμαι]{lang="el"} | [θα κοιμηθεί]{lang="el"} | [έχω κοιμηθεί]{lang="el"} |
+| [γίνομαι]{lang="el"} | [θα γίνει]{lang="el"} | [έχει γίνει]{lang="el"} |
+
+Auch das Mediopassiv aus Kapitel 13 folgt dem Muster: [θα γραφτεί → έχει γραφτεί]{lang="el"}
+„ist geschrieben worden“. In den Nachrichten weiter unten begegnet dir das ständig.
+
+**Nur mit [έχω]{lang="el"}.** Deutsch und Französisch nehmen bei vielen Verben der Bewegung „sein“:
+„sie ist gegangen“, [*elle est partie*]{lang="fr"}. Das Griechische nimmt immer
+[έχω]{lang="el"}, wie das Spanische immer *haber* nimmt: [Έχει φύγει.]{lang="el"} –
+[*Ha salido.*]{lang="es"} Und wie im Spanischen ändert sich der zweite Teil nie, auch nicht, wenn eine
+Frau oder viele gegangen sind: [Έχουν φύγει.]{lang="el"} – [*Han salido.*]{lang="es"}
+
+**Beide Teile bleiben zusammen.** Das Deutsche schiebt das Partizip ans Satzende („Ich habe das
+Buch gelesen“), das Griechische nicht: [Έχω διαβάσει το βιβλίο.]{lang="el"} Schwache Pronomen
+und [δεν]{lang="el"} stehen vor [έχω]{lang="el"}, wieder wie im Spanischen:
+
+- [Το έχω διαβάσει.]{lang="el"} – [*Lo he leído.*]{lang="es"}
+- [Δεν το έχω διαβάσει.]{lang="el"} – [*No lo he leído.*]{lang="es"}
+- [Μου το έχει πει.]{lang="el"} – [*Me lo ha dicho.*]{lang="es"} (wem vor was, Kapitel 8)
+
+Kleine Wörter wie [ήδη]{lang="el"}, [ακόμα]{lang="el"}, [ποτέ]{lang="el"} dürfen dazwischen oder
+ans Ende: [Έχω ήδη φάει.]{lang="el"} oder [Έχω φάει ήδη.]{lang="el"}
+
+::: {.callout-important}
+## Merke
+
+- **Perfekt** = [έχω, έχεις, έχει …]{lang="el"} + **Form auf [-ει]{lang="el"}**.
+- Die Form auf [-ει]{lang="el"} ist die er-Form nach [θα]{lang="el"} im Foto:
+  [γράψει, δει, πάει, έρθει, κοιμηθεί]{lang="el"}. Sie ändert sich nie.
+- Immer [έχω]{lang="el"}, nie [είμαι]{lang="el"}. Pronomen und [δεν]{lang="el"} vor
+  [έχω]{lang="el"}.
+- [είμαι, έχω, ξέρω]{lang="el"} haben keinen perfektiven Stamm, also kein Perfekt.
+:::
+
+::: {.callout-warning}
+## Achtung
+
+- \*[Είναι φύγει.]{lang="el"} Deutsch „ist gegangen“ schlägt durch; richtig [Έχει φύγει.]{lang="el"}
+- \*[Έχω γράψω]{lang="el"}, \*[έχω δω]{lang="el"}: Der zweite Teil ist immer die **er**-Form,
+  auch bei „ich“: [έχω γράψει, έχω δει]{lang="el"}.
+- \*[Έχω έφυγα]{lang="el"}: Der Aorist hat im Perfekt nichts zu suchen, auch nicht sein
+  Augment.
+:::
+
+„Warst du schon mal auf Kreta?“ lässt sich also nicht mit [είμαι]{lang="el"} bilden. Das
+Griechische fragt, ob du hingegangen bist: [Έχεις πάει ποτέ στην Κρήτη;]{lang="el"} Oder, wenn
+der Sprecher dort lebt, ob du gekommen bist: [Έχεις έρθει ποτέ στην Κρήτη;]{lang="el"}
+
+::: {.callout-note collapse="true"}
+## Exkurs: ein Infinitiv, der übrig geblieben ist
+
+Griechische Grammatiken nennen die Form auf [-ει]{lang="el"} [απαρέμφατο]{lang="el"},
+„Infinitiv“. Das Altgriechische hatte echte Infinitive; im Mittelalter wurden sie durch
+[να]{lang="el"}-Sätze verdrängt (Kapitel 5). Nur in der Verbindung mit [έχω]{lang="el"} überlebte
+einer, und aus mittelgriechischem [γράψειν]{lang="el"} wurde, mit dem Verlust des Schluss-ν, [γράψει]{lang="el"}.
+Dass er heute genauso aussieht wie die er-Form der [θα]{lang="el"}-Form, ist also ein Zufall der
+Lautgeschichte, aber ein nützlicher.
+<!-- CHECK: Herleitung des Perfekt-„Infinitivs“ (mittelgriech. έχω + Infinitiv auf -ειν, analogisch auch beim Aoriststamm: γράψειν > γράψει); Formulierung „ein Zufall der Lautgeschichte“ vertretbar? -->
+:::
+
+<!-- EXERCISE: Perfekt bilden (έχω + Form auf -ει) aus Präsens bzw. θα-Form, mit Personenwechsel, schwachem Pronomen und Verneinung, inkl. unregelmäßiger Verben und -μαι-Verben; laut umformen; Schwierigkeit 1 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο παρακείμενος]{lang="el"} | [o paraˈcimenos] | das Perfekt |
+| [έχω γράψει]{lang="el"} | [ˈexo ˈɣrapsi] | ich habe geschrieben |
+| [Έχεις πάει ποτέ …;]{lang="el"} | [ˈeçis ˈpai poˈte] | Warst du schon mal …? |
+:::
+
+## Wann Perfekt, wann Aorist? {#sec-perfekt-gebrauch}
+
+Die Perfekt-Falle aus Kapitel 2 kennst du: „Hast du meine Nachricht gelesen?“ heißt meist
+[Διάβασες το μήνυμά μου;]{lang="el"}, mit dem Aorist. Jetzt, wo du das Perfekt bilden kannst, ist
+die Versuchung größer, denn [έχω διαβάσει]{lang="el"} sieht aus wie „habe gelesen“ und
+[*he leído*]{lang="es"}, [*j’ai lu*]{lang="fr"}. Das griechische Perfekt ist aber enger als diese
+drei. Grob gesagt: Es blickt von **jetzt** auf die Vergangenheit, der Aorist steht **in** ihr.
+
+### Mit Zeitstempel kein Perfekt {#sec-perfekt-zeitstempel}
+
+Nennt der Satz einen Zeitpunkt in der Vergangenheit, steht der Aorist:
+
+- [Χθες **είδα** την ταινία.]{lang="el"} Gestern habe ich den Film gesehen. Nicht \*[Χθες έχω δει…]{lang="el"}
+- [Το 2021 η φωτιά **έκαψε** μεγάλο μέρος της Εύβοιας.]{lang="el"} 2021 hat das Feuer einen großen Teil Euböas verbrannt.
+- [Την **ετοίμασα** χθες το βράδυ.]{lang="el"} So antwortet der Vater im Einstieg.
+
+Zeitstempel sind [χθες, πέρσι, το 2021, πριν από δύο ώρες, τότε]{lang="el"}, ein Satz mit
+[όταν]{lang="el"} und jede Frage mit [πότε;]{lang="el"}: [Πότε έφυγες;]{lang="el"}, nie
+\*[Πότε έχεις φύγει;]{lang="el"} Dasselbe gilt für das Erzählen. Eine Kette von Ereignissen, bei
+der man „und dann?“ fragen kann, läuft im Aorist (Kapitel 4).
+
+Englisch hilft hier mehr als Deutsch, Französisch oder Spanisch: *I saw it yesterday*, nicht
+*I have seen it yesterday*. Wo das Englische das *simple past* verlangt, ist das griechische
+Perfekt falsch.
+
+### Wofür das Perfekt da ist {#sec-perfekt-aufgaben}
+
+Was bleibt, sind Vergangenheiten **ohne** Zeitstempel, deren Folgen jetzt zählen. Drei Fälle
+tragen fast alles:
+
+1. **Erfahrung bis jetzt**, oft mit [ποτέ]{lang="el"}, [πολλές φορές]{lang="el"}, [μέχρι
+   τώρα]{lang="el"}: [Έχεις δει ποτέ δάσος να καίγεται;]{lang="el"} „Hast du je einen Wald brennen
+   sehen?“ – [Δεν έχω δει ποτέ τέτοια φωτιά.]{lang="el"} „So ein Feuer habe ich noch nie gesehen.“
+2. **Schon oder noch nicht**, mit [ήδη]{lang="el"} und [ακόμα]{lang="el"}: [Έχεις φύγει;
+   – Όχι ακόμα.]{lang="el"} [Το έχω ήδη υποσχεθεί.]{lang="el"}
+3. **Bilanz bis jetzt**, die Lieblingsform der Nachrichten: [Η φωτιά έχει κάψει τρεις χιλιάδες
+   στρέμματα.]{lang="el"} Sie brennt noch, die Zahl kann morgen größer sein.
+
+Jetzt die ehrliche Einschränkung. Das Perfekt ist in diesen Fällen **möglich**, aber nicht immer
+das, was man hört. Besonders im zweiten Fall sagen viele im Gespräch einfach den Aorist:
+[Έφαγες;]{lang="el"} „Hast du (schon) gegessen?“ ist mindestens so häufig wie
+[Έχεις φάει;]{lang="el"}, und der Vater hätte auch [Δεν ξέχασα τίποτα]{lang="el"} sagen können.
+Das Perfekt betont stärker, dass der Zustand jetzt gilt; der Aorist meldet einfach, dass es
+passiert ist. Bei der Erfahrung mit [ποτέ]{lang="el"} ist das Perfekt dagegen der Normalfall.
+<!-- CHECK: Gewichtung „Έφαγες; mindestens so häufig wie Έχεις φάει;“ und „bei Erfahrung mit ποτέ ist das Perfekt der Normalfall“ (vgl. Holton/Mackridge/Philippaki-Warburton, Greek: A Comprehensive Grammar, Abschnitt zum Perfekt) -->
+
+Zwei englische Gewohnheiten führen in die Irre:
+
+| Englisch | Griechisch | Beispiel |
+|---|---|---|
+| *I've just arrived.* | [μόλις]{lang="el"} + Aorist | [Μόλις έφτασα.]{lang="el"} |
+| *I've lived here for ten years.* | Präsens + [εδώ και]{lang="el"} | [Ζω στην Αθήνα εδώ και δέκα χρόνια.]{lang="el"} |
+
+[μόλις]{lang="el"} „gerade eben“ holt ein Ereignis ganz nah heran, bleibt aber beim Aorist
+(Kapitel 3 und 7). Und was bis jetzt andauert, steht im Präsens, wie in Kapitel 11. Anders ist es,
+wenn etwas **nicht** passiert ist: [Δεν έχει βρέξει εδώ και τρεις μήνες.]{lang="el"} „Es hat seit
+drei Monaten nicht geregnet.“ Kein Regen ist kein Zustand, der andauert, sondern eine Bilanz.
+
+::: {.callout-important}
+## Merke
+
+- **Mit Zeitstempel kein Perfekt:** [χθες, πέρσι, το 2021, πριν από, όταν, πότε;]{lang="el"}
+  verlangen den Aorist, ebenso jede Erzählkette.
+- **Perfekt** für Vergangenes ohne Zeitstempel, das jetzt zählt: Erfahrung
+  ([ποτέ]{lang="el"}), schon/noch nicht ([ήδη, ακόμα]{lang="el"}), Bilanz ([μέχρι
+  τώρα]{lang="el"}).
+- Auch dort ist der Aorist oft möglich. **Im Zweifel Aorist:** Er ist selten falsch, das
+  Perfekt mit Zeitstempel immer.
+- „Gerade eben“: [μόλις]{lang="el"} + Aorist. „Seit“ bei Andauerndem: Präsens.
+:::
+
+::: {.callout-tip}
+## Tipp
+
+Frag bei jedem deutschen „habe … gemacht“: Steht ein Zeitpunkt da, oder ist einer mitgedacht?
+Dann Aorist. „Hast du gestern die Nachrichten
+gesehen?“ hat einen: [Είδες χθες τις ειδήσεις;]{lang="el"} „Hast du je so etwas gesehen?“ hat
+keinen: [Έχεις δει ποτέ κάτι τέτοιο;]{lang="el"}
+:::
+
+<!-- EXERCISE: Perfekt-Falle – deutsche Sätze mit „habe … -t“: Aorist, Perfekt oder beides möglich? Mit Begründung (Zeitstempel, Erfahrung, schon/noch nicht, Bilanz, μόλις, seit + Präsens); Auswahl mit Nummern; Schwierigkeit 2 -->
+
+<!-- EXERCISE: Fehler finden und laut verbessern – *Χθες έχω δει, *Είναι φύγει, *έχω δω, *Πότε έχεις φύγει;, Präsens statt Perfekt bei „nicht mehr seit“ u.Ä., dazwischen korrekte Sätze; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [μέχρι τώρα]{lang="el"} | [ˈmexri ˈtora] | bis jetzt |
+| [πολλές φορές]{lang="el"} | [poˈles foˈres] | oft, viele Male |
+:::
+
+### Im Gespräch: [το ’χω δει]{lang="el"} {#sec-perfekt-gespraech}
+
+Im schnellen Sprechen verliert [έχω]{lang="el"} nach [το, τα, μου, σου]{lang="el"} seinen
+Anfangsvokal, wie [είπα]{lang="el"} in [σ’ το ’πα]{lang="el"} (Kapitel 3). Die Betonung wandert
+auf das kleine Wort:
+
+- [Το ’χω δει.]{lang="el"} [ˈtoxo ˈði] Hab ich gesehen.
+- [Μου ’χει πει.]{lang="el"} [ˈmuçi ˈpi] Er hat’s mir gesagt.
+- [Τα ’χα ακούσει.]{lang="el"} [ˈtaxa aˈkusi] Das hatte ich gehört.
+
+Beim Hören ist das Signal ein betontes [ˈtoxo, ˈtoçi, ˈmuçi] und danach eine Form auf [-i]. Vier
+Wendungen mit [έχω]{lang="el"} fallen im Gespräch ständig:
+
+- [Σου ’χει τύχει;]{lang="el"} „Ist dir das auch schon mal passiert?“ Perfekt von
+  [τυχαίνω]{lang="el"} „zufällig geschehen“.
+- [Τι έχει γίνει εδώ;]{lang="el"} „Was ist denn hier passiert?“, beim Anblick einer Bescherung.
+  [Τι έγινε;]{lang="el"} fragt nach dem Ereignis, [Τι έχει γίνει;]{lang="el"} nach dem Zustand,
+  den es hinterlassen hat.
+- [Τα ’χω χάσει.]{lang="el"} „Ich bin völlig durcheinander“, wörtlich „ich habe sie verloren“.
+- [Έχω χρόνια να σε δω!]{lang="el"} „Wir haben uns ja ewig nicht gesehen!“ Das ist kein Perfekt,
+  sondern [έχω]{lang="el"} + Zeitspanne + [να]{lang="el"}-Form: „ich habe Jahre, dich zu sehen“.
+  Genauso [Έχει τρεις μήνες να βρέξει.]{lang="el"} „Es hat seit drei Monaten nicht geregnet.“
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Σου ’χει τύχει;]{lang="el"} | [ˈsuçi ˈtiçi] | Ist dir das schon mal passiert? (umg.) |
+| [Τι έχει γίνει;]{lang="el"} | [ti ˈeçi ˈʝini] | Was ist (denn hier) passiert? |
+| [Τα ’χω χάσει.]{lang="el"} | [ˈtaxo ˈxasi] | Ich bin völlig durcheinander. (umg.) |
+| [Έχω χρόνια να σε δω!]{lang="el"} | [ˈexo ˈxroɲa na se ˈðo] | Lange nicht gesehen! |
+| [έχει … να]{lang="el"} | [ˈeçi … na] | es ist … her, dass; seit … nicht mehr |
+:::
+
+## Das Plusquamperfekt: [είχα]{lang="el"} + Form auf [-ει]{lang="el"} {#sec-perfekt-plusquamperfekt}
+
+Zwei Sätze aus früheren Kapiteln haben es vorweggenommen. Kapitel 10 erzählte vom Erdbeben 1999:
+[Τρεις εβδομάδες πριν, ένας ακόμα μεγαλύτερος σεισμός **είχε χτυπήσει** την
+Τουρκία.]{lang="el"} Und in einer Übung dort hieß es, „er war schon eingeschlafen“ sei sauber
+[είχε ήδη κοιμηθεί]{lang="el"}. Das ist das **Plusquamperfekt**: [είχα]{lang="el"} statt
+[έχω]{lang="el"}, dahinter dieselbe Form auf [-ει]{lang="el"}.
+
+| Person | Plusquamperfekt | Deutsch |
+|---|---|---|
+| ich | [**είχα** φύγει]{lang="el"} | ich war gegangen |
+| du | [**είχες** φύγει]{lang="el"} | du warst gegangen |
+| er, sie, es | [**είχε** φύγει]{lang="el"} | er/sie war gegangen |
+| wir | [**είχαμε** φύγει]{lang="el"} | wir waren gegangen |
+| ihr, Sie | [**είχατε** φύγει]{lang="el"} | ihr wart gegangen |
+| sie | [**είχαν** φύγει]{lang="el"}, [**είχανε** φύγει]{lang="el"} | sie waren gegangen |
+
+Es erzählt, was **vor** einem anderen Punkt in der Vergangenheit schon geschehen war. Wie viel
+daran hängt, zeigt ein Paar:
+
+- [Όταν έφτασαν οι πυροσβέστες, η φωτιά **πέρασε** στην απέναντι πλαγιά.]{lang="el"}
+- [Όταν έφτασαν οι πυροσβέστες, η φωτιά **είχε** ήδη **περάσει** στην απέναντι
+  πλαγιά.]{lang="el"}
+
+Im ersten Satz kommt die Feuerwehr, und dann springt das Feuer über, zwei Fotos hintereinander.
+Im zweiten war es schon drüben, als sie ankam. Genauso sagt der Vater im Einstieg: Als die
+Löschflugzeuge kamen, [η φωτιά είχε ήδη φτάσει στην πλατεία]{lang="el"}.
+
+Hier ist das Griechische genauer als das gesprochene Deutsch. „Als die Feuerwehr kam, ist das Feuer
+schon rübergesprungen“ versteht jeder; auf Griechisch ändert der Aorist an dieser Stelle die
+Reihenfolge. Wenn sie schon anders feststeht, etwa durch [πρώτα … μετά]{lang="el"}, genügt der
+Aorist: [Πρώτα έφυγαν οι κάτοικοι, μετά ήρθε η φωτιά.]{lang="el"}
+
+Englisch *had crossed*, Spanisch [*había pasado*]{lang="es"} funktionieren wie das Griechische,
+und auch hier nur mit „haben“: [είχε φύγει]{lang="el"} „war gegangen“.
+
+**Mit [ξανα-]{lang="el"}: noch nie zuvor.** Die Vorsilbe [ξανα-]{lang="el"} „wieder“ (vgl.
+[ξανά]{lang="el"}, Kapitel 4) macht aus Perfekt und Plusquamperfekt eine beliebte Formel:
+[Δεν το έχω ξαναδεί.]{lang="el"} „So etwas habe ich noch nie gesehen“, wörtlich „nicht wieder
+gesehen“. [Τέτοια φωτιά δεν είχαμε ξαναδεί.]{lang="el"} „So ein Feuer hatten wir noch nie
+erlebt.“ Die Betonung liegt auf der letzten Silbe: [ξαναδεί]{lang="el"} [ksanaˈði].
+
+::: {.callout-warning}
+## Achtung
+
+[είχα]{lang="el"} allein heißt „ich hatte“. Erst die Form auf [-ει]{lang="el"} dahinter macht
+das Plusquamperfekt: [Είχαμε μόνο κουβάδες.]{lang="el"} „Wir hatten nur Eimer.“ –
+[Είχαμε φύγει.]{lang="el"} „Wir waren gegangen.“
+:::
+
+Dasselbe Muster gibt es auch mit [θα]{lang="el"}: [θα έχει φύγει]{lang="el"} „er wird wohl
+schon weg sein“, [θα είχα φύγει]{lang="el"} „ich wäre gegangen“. Sie kommen in Kapitel 24 und 25.
+
+<!-- EXERCISE: Plusquamperfekt oder Aorist? Satzpaare mit όταν – welche Reihenfolge der Ereignisse? Dazu Sätze vervollständigen (είχε ήδη + Form auf -ει) und Deutsch→Griechisch mit „noch nie zuvor“ (ξαναδεί); Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο υπερσυντέλικος]{lang="el"} | [o ipersiˈdelikos] | das Plusquamperfekt |
+| [ο πυροσβέστης, οι πυροσβέστες]{lang="el"} | [o piroˈzvestis], [i piroˈzvestes] | der Feuerwehrmann |
+| [η πλαγιά]{lang="el"} | [i plaˈʝa] | der Hang |
+| [ξανα-]{lang="el"} | [ksana] | wieder- (Vorsilbe): [ξαναδεί, ξανάρχομαι]{lang="el"} |
+| [Δεν το έχω ξαναδεί.]{lang="el"} | [ðen to ˈexo ksanaˈði] | So etwas habe ich noch nie gesehen. |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [ο κουβάς, οι κουβάδες]{lang="el"} | der Eimer (Plural mit [-δ-]{lang="el"}, Kapitel 6) |
+| [ο κάτοικος]{lang="el"} | der Einwohner |
+:::
+
+## Hörspur: Nachrichten aus dem Brandgebiet {#sec-perfekt-hoerspur}
+
+Die griechischen Texte in diesem Buch kannst du mit ▶ anhören, gelesen von synthetischen
+Stimmen: deutlich, aber ohne das Tempo echter Nachrichtensprecher. Das echte Tempo bringt der
+Hör-Auftrag am Ende.
+
+Jeden Sommer klingen die Meldungen ähnlich. Zwei davon, erfunden, aber im Ton der
+Abendnachrichten: die erste am Abend, die zweite am nächsten Morgen. Erst hören, dann lesen.
+
+::: {lang="el" .listen}
+Καλησπέρα σας. Σε εξέλιξη βρίσκεται από το μεσημέρι μεγάλη πυρκαγιά στην ορεινή Κορινθία. Η
+φωτιά ξέσπασε λίγο μετά τη μία σε δασική έκταση κοντά σε δύο χωριά. Ισχυροί άνεμοι, έως επτά
+μποφόρ, δυσκολεύουν το έργο των πυροσβεστών. Στην περιοχή επιχειρούν ογδόντα πυροσβέστες με
+τριάντα οχήματα, ενώ από το μεσημέρι έχουν ρίξει νερό έξι αεροσκάφη και τέσσερα ελικόπτερα. Η
+Πολιτική Προστασία έχει στείλει δύο μηνύματα 112 στους κατοίκους. Μέχρι στιγμής η φωτιά έχει
+κάψει περίπου τρεις χιλιάδες στρέμματα πευκοδάσους. Τραυματίες δεν υπάρχουν.
+
+Καλημέρα σας. Σε ύφεση βρίσκεται η πυρκαγιά στην ορεινή Κορινθία. Τη νύχτα ο αέρας έπεσε, και οι
+πυροσβέστες κατάφεραν να σταματήσουν το μέτωπο πριν από το πρώτο χωριό. Όταν ξαναπέταξαν τα
+αεροσκάφη με το πρώτο φως, η φωτιά είχε ήδη χάσει τη δύναμή της. Πολλοί κάτοικοι είχαν μείνει όλη
+τη νύχτα στο χωριό και βοήθησαν με λάστιχα και κουβάδες. «Τέτοια νύχτα δεν είχαμε ξαναζήσει»,
+μας είπε ο πρόεδρος του χωριού. Για σήμερα η Πολιτική Προστασία προειδοποιεί: ο κίνδυνος
+πυρκαγιάς παραμένει πολύ υψηλός.
+:::
+
+<!-- EXERCISE: Hörverstehen der beiden Meldungen (mit ▶, ohne den Text aufzuklappen): Fakten (wann ausgebrochen, wie viele Flugzeuge, wie viel verbrannt, was in der Nacht geschah) als Multiple Choice/richtig-falsch; dann beim zweiten Hören Perfekt- und Plusquamperfektformen erkennen ([ˈeçi]/[ˈixe] + Form auf [-i]); Schwierigkeit 2 -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+Guten Abend. Seit dem Mittag wütet ein großer Waldbrand im Bergland von Korinthia. Das Feuer
+brach kurz nach ein Uhr in einem Waldgebiet nahe zweier Dörfer aus. Starke Winde, bis zu sieben
+Beaufort, erschweren die Arbeit der Feuerwehr. Im Gebiet sind achtzig Feuerwehrleute mit dreißig
+Fahrzeugen im Einsatz, außerdem haben seit dem Mittag sechs Flugzeuge und vier Hubschrauber
+Wasser abgeworfen. Der Katastrophenschutz hat zwei 112-Warnungen an die Bewohner geschickt. Bisher
+hat das Feuer etwa dreitausend Stremmata Kiefernwald verbrannt. Verletzte gibt es nicht.
+
+Guten Morgen. Der Brand im Bergland von Korinthia lässt nach. In der Nacht legte sich der Wind,
+und die Feuerwehr konnte die Feuerfront vor dem ersten Dorf stoppen. Als die Flugzeuge beim ersten
+Licht wieder starteten, hatte das Feuer seine Kraft schon verloren. Viele Bewohner waren die
+ganze Nacht im Dorf geblieben und halfen mit Schläuchen und Eimern. „So eine Nacht hatten wir
+noch nie erlebt“, sagte uns der Dorfvorsteher. Für heute warnt der Katastrophenschutz: Die
+Brandgefahr bleibt sehr hoch.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [σε εξέλιξη]{lang="el"} | im Gange |
+| [ορεινός, -ή, -ό]{lang="el"} | gebirgig, Berg- |
+| [δασικός, -ή, -ό]{lang="el"} · [η έκταση]{lang="el"} | Wald- · die Fläche |
+| [ισχυρός, -ή, -ό]{lang="el"} | stark (gehoben) |
+| [δυσκολεύω]{lang="el"} | erschweren |
+| [επιχειρώ]{lang="el"} | im Einsatz sein |
+| [το όχημα, τα οχήματα]{lang="el"} | das Fahrzeug |
+| [ρίχνω, έριξα, ρίξει]{lang="el"} | werfen (Kapitel 9) |
+| [το αεροσκάφος, τα αεροσκάφη]{lang="el"} | das Flugzeug (gehoben) |
+| [το ελικόπτερο]{lang="el"} | der Hubschrauber |
+| [ο τραυματίας, οι τραυματίες]{lang="el"} | der Verletzte |
+| [σε ύφεση]{lang="el"} | nachlassend |
+| [πέφτω, έπεσα]{lang="el"} | fallen; hier: sich legen (Wind) |
+| [το μέτωπο]{lang="el"} | die (Feuer-)Front |
+| [ξαναπετάω, ξαναπέταξα]{lang="el"} | wieder fliegen, wieder starten |
+| [η δύναμη]{lang="el"} | die Kraft |
+| [το λάστιχο]{lang="el"} | der Schlauch |
+| [ξαναζώ]{lang="el"}, [ξαναζήσει]{lang="el"} | wieder erleben |
+| [ο πρόεδρος του χωριού]{lang="el"} | der Dorfvorsteher |
+| [προειδοποιώ]{lang="el"} | warnen |
+| [παραμένω]{lang="el"} | bleiben (gehoben) |
+| [υψηλός, -ή, -ό]{lang="el"} | hoch (gehoben; Alltag [ψηλός]{lang="el"}) |
+:::
+
+### Warum die Nachrichten das Perfekt lieben {#sec-perfekt-nachrichten}
+
+Lies die erste Meldung noch einmal mit Blick auf die Verben. Sie arbeitet mit drei Zeiten, und
+jede hat ihren Grund:
+
+- **Präsens** für das, was andauert: [βρίσκεται σε εξέλιξη από το μεσημέρι]{lang="el"},
+  [επιχειρούν]{lang="el"}. „Seit“ plus Andauerndes, wie oben.
+- **Aorist** mit Zeitstempel: [ξέσπασε λίγο μετά τη μία]{lang="el"}.
+- **Perfekt** für die Bilanz bis zum Moment der Sendung: [έχουν ρίξει νερό, έχει στείλει, έχει
+  κάψει]{lang="el"}.
+
+Die zweite Meldung erzählt die Nacht, deshalb Aorist ([έπεσε, κατάφεραν, βοήθησαν]{lang="el"}),
+und springt mit dem Plusquamperfekt zurück ([είχε χάσει, είχαν μείνει]{lang="el"}).
+
+Nachrichten sprechen gehobener als der Vater am Telefon. Sie sagen [η πυρκαγιά]{lang="el"}, wo man
+im Alltag [η φωτιά]{lang="el"} sagt, [ισχυροί άνεμοι]{lang="el"} statt [δυνατός αέρας]{lang="el"},
+[αεροσκάφη]{lang="el"} statt [αεροπλάνα]{lang="el"}. Und sie messen Flächen in **Stremmata**:
+[ένα στρέμμα]{lang="el"} sind 1 000 Quadratmeter, zehn ergeben einen Hektar. Wer
+[τρεις χιλιάδες στρέμματα]{lang="el"} hört, rechnet also 300 Hektar.
+
+Oft hörst du dort auch das Perfekt des Mediopassivs: [έχουν καεί]{lang="el"} „sind verbrannt“,
+[έχουν εκκενωθεί]{lang="el"} „sind evakuiert worden“, [δεν έχουν αναφερθεί
+τραυματισμοί]{lang="el"} „Verletzungen wurden nicht gemeldet“.
+
+Echte Nachrichtensprecher hörst du auf [ERTflix](https://www.ertflix.gr), der Plattform des
+öffentlichen Rundfunks: dort laufen Nachrichtensendungen ([το δελτίο ειδήσεων]{lang="el"}), viele
+mit griechischen Untertiteln.
+
+<!-- EXERCISE: Hör-Auftrag ERTflix: eine Nachrichtensendung, möglichst mit Meldung zu Bränden, Unwetter o.Ä.; Durchgang 1 ohne Untertitel: jede Zahl mit Einheit notieren (στρέμματα, πυροσβέστες …), Durchgang 2 mit griechischen Untertiteln: fünf Perfektformen (έχει/έχουν + Form auf -ει) sammeln und je sagen, ob Bilanz, Erfahrung oder schon/noch nicht; Schwierigkeit 3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η πυρκαγιά]{lang="el"} | [i pirkaˈʝa] | der Brand (formell, Nachrichten) |
+| [καίω, έκαψα]{lang="el"} | [ˈceo], [ˈekapsa] | verbrennen (etwas); [θα κάψει]{lang="el"} |
+| [καίγομαι, κάηκα]{lang="el"} | [ˈceɣome], [ˈkaika] | brennen, verbrennen (selbst; Kapitel 13); [να καεί]{lang="el"} |
+| [ξεσπάω, ξέσπασα]{lang="el"} | [kseˈspao], [ˈksespasa] | ausbrechen (Feuer, Krieg, Streit) |
+| [ο άνεμος]{lang="el"} | [o ˈanemos] | der Wind (gehoben; Alltag [ο αέρας]{lang="el"}) |
+| [το δάσος, τα δάση]{lang="el"} | [to ˈðasos], [ta ˈðasi] | der Wald |
+| [το πεύκο]{lang="el"} | [to ˈpefko] | die Kiefer, Pinie |
+| [η περιοχή]{lang="el"} | [i perioˈçi] | die Gegend, das Gebiet |
+| [ο κάτοικος]{lang="el"} | [o ˈkatikos] | der Einwohner, Bewohner |
+| [μέχρι στιγμής]{lang="el"} | [ˈmexri stiɣˈmis] | bisher (Nachrichten) |
+| [το στρέμμα, τα στρέμματα]{lang="el"} | [to ˈstrema], [ta ˈstremata] | das Stremma (1 000 m²) |
+| [καταφέρνω, κατάφερα]{lang="el"} | [kataˈferno], [kaˈtafera] | schaffen, es schaffen; [να καταφέρει]{lang="el"} |
+| [ο κίνδυνος]{lang="el"} | [o ˈcinðinos] | die Gefahr |
+| [η Πολιτική Προστασία]{lang="el"} | [i politiˈci prostaˈsia] | der Katastrophenschutz |
+:::
+
+## Das Wichtigste {#sec-perfekt-wichtigste}
+
+- **Perfekt** = [έχω, έχεις, έχει …]{lang="el"} + **Form auf [-ει]{lang="el"}**, die aussieht
+  wie die er-Form nach [θα]{lang="el"} im Foto: [έχω γράψει, έχω δει, έχω πάει, έχει
+  γίνει]{lang="el"}. Nur mit [έχω]{lang="el"}; Pronomen und [δεν]{lang="el"} davor:
+  [Δεν το έχω δει.]{lang="el"}
+- **Plusquamperfekt** = [είχα, είχες, είχε …]{lang="el"} + dieselbe Form: [είχε ήδη
+  φύγει]{lang="el"}. Es zeigt, was vor einem anderen Punkt der Vergangenheit schon geschehen war;
+  der Aorist an seiner Stelle ändert die Reihenfolge.
+- **Mit Zeitstempel kein Perfekt:** [χθες, το 2021, όταν, πότε;]{lang="el"} → Aorist.
+- **Perfekt** für Erfahrung ([ποτέ]{lang="el"}), schon/noch nicht ([ήδη, ακόμα]{lang="el"}),
+  Bilanz ([μέχρι τώρα, μέχρι στιγμής]{lang="el"}). Auch da ist der Aorist oft möglich; im
+  Zweifel Aorist.
+- „Gerade eben“: [μόλις]{lang="el"} + Aorist. „Seit“ bei Andauerndem: Präsens; bei Nicht-Geschehen
+  Perfekt oder [Έχει τρεις μήνες να βρέξει.]{lang="el"}
+- Gesprochen: [το ’χω δει, μου ’χει πει]{lang="el"}; [Σου ’χει τύχει; Τι έχει γίνει; Έχω χρόνια
+  να σε δω!]{lang="el"}
+
+## Zum Lesen: Wälder, die zurückkommen {#sec-perfekt-lesetext}
+
+Ein Artikel aus einer Sonntagsbeilage, wie er jeden September erscheinen könnte. Lies ihn einmal
+ganz, dann mit Wortschatz, dann mit ▶.
+
+::: {lang="el"}
+**Το δάσος που γυρίζει**
+
+Κάθε καλοκαίρι οι Έλληνες ανοίγουν την τηλεόραση και βλέπουν τον ίδιο χάρτη: κόκκινες τελείες σε
+όλη τη χώρα. Η αντιπυρική περίοδος αρχίζει επίσημα την πρώτη Μαΐου και τελειώνει στις τριάντα
+μία Οκτωβρίου. Οι επιστήμονες όμως λένε ότι τα τελευταία χρόνια έχει μεγαλώσει: φωτιές έχουν
+ξεσπάσει ήδη τον Μάρτιο και ακόμα τον Νοέμβριο.
+
+Η χώρα έχει ζήσει πολλά δύσκολα καλοκαίρια. Τον Ιούλιο του 2018 η φωτιά στο Μάτι, κοντά στην
+Αθήνα, σκότωσε πάνω από εκατό ανθρώπους. Πολλοί είχαν τρέξει στη θάλασσα και περίμεναν ώρες μέσα
+στο νερό. Το 2021, μετά από έναν μεγάλο καύσωνα, κάηκε μεγάλο μέρος της βόρειας Εύβοιας. Και το
+2023 στον Έβρο έγινε η μεγαλύτερη πυρκαγιά που έχει καταγράψει ποτέ η Ευρωπαϊκή Ένωση.
+
+Γιατί καίγεται η Ελλάδα; Οι περισσότερες φωτιές δεν ξεκινούν μόνες τους· τις ανάβουν άνθρωποι,
+συνήθως από αμέλεια. Η κλιματική αλλαγή όμως κάνει τα πράγματα χειρότερα. Τα καλοκαίρια είναι πιο
+ζεστά και πιο ξερά, και ένα δάσος που δεν έχει δει βροχή για τέσσερις μήνες καίγεται σαν χαρτί.
+
+Και μετά τη φωτιά; Εδώ η φύση έχει μια έκπληξη. Το χαλέπιο πεύκο, το πεύκο της Αττικής και της
+Εύβοιας, έχει «μάθει» να ζει με τη φωτιά. Τα κουκουνάρια του ανοίγουν με τη ζέστη, και οι σπόροι
+πέφτουν στη στάχτη. Με τις πρώτες βροχές φυτρώνουν χιλιάδες μικρά πεύκα. Ένα νέο πεύκο όμως
+χρειάζεται δέκα με δεκαπέντε χρόνια μέχρι τα πρώτα του κουκουνάρια. Όταν η φωτιά ξανάρχεται
+νωρίτερα, το δάσος δε γυρίζει πια. Σε μερικά μέρη της Αττικής αυτό έχει ήδη γίνει: εκεί που ήταν
+δάσος, σήμερα υπάρχουν μόνο θάμνοι.
+
+Γι’ αυτό σε πολλά χωριά οι κάτοικοι έχουν οργανώσει δικές τους ομάδες εθελοντών. Έχουν αγοράσει
+νερό, λάστιχα και ασυρμάτους, και το καλοκαίρι κάθονται με τη σειρά στα βουνά και κοιτάζουν για
+καπνό. «Το ’21 είχαμε μόνο κουβάδες», λέει ένας εθελοντής από την Εύβοια. «Τέτοια φωτιά δεν
+είχαμε ξαναδεί. Τώρα είμαστε έτοιμοι. Αλλά κάθε Αύγουστο κοιτάζω τον ουρανό και προσεύχομαι να
+μη φυσήξει.»
+:::
+
+<!-- CHECK: Αντιπυρική περίοδος 1. Mai – 31. Oktober; Mati 23.7.2018 über 100 Tote (104); Nord-Euböa August 2021 nach Hitzewelle; Evros/Dadia 2023 größter von EFFIS erfasster Einzelbrand der EU; Aleppokiefer: serotine Zapfen, Samenproduktion erst nach ca. 10–15 Jahren; Formulierung „το πεύκο της Αττικής και της Εύβοιας“ -->
+
+Zwei Muster helfen beim Lesen:
+
+- **[που]{lang="el"} nach einem Nomen** heißt „der, die, das“: [το δάσος που γυρίζει]{lang="el"}
+  „der Wald, der zurückkommt“, wie [ο έμπορος που έσκαψε την Τροία]{lang="el"} in Kapitel 2. Mehr
+  in Kapitel 15.
+- **[τις ανάβουν άνθρωποι]{lang="el"}:** [τις]{lang="el"} nimmt [οι φωτιές]{lang="el"} aus dem
+  Satz davor wieder auf. Das Subjekt [άνθρωποι]{lang="el"} steht hinter dem Verb und bekommt so
+  den Nachdruck: Menschen sind es, die sie anzünden.
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η τελεία]{lang="el"} | der Punkt |
+| [η αντιπυρική περίοδος]{lang="el"} | die Waldbrandsaison (amtlich) |
+| [επίσημα]{lang="el"} | offiziell |
+| [μεγαλώνω, μεγάλωσα]{lang="el"} | größer werden, länger werden |
+| [σκοτώνω, σκότωσα]{lang="el"} | töten |
+| [τρέχω, έτρεξα]{lang="el"} | rennen, laufen |
+| [το μέρος]{lang="el"} | der Teil; der Ort |
+| [κάηκε]{lang="el"} | verbrannte (von [καίγομαι]{lang="el"}) |
+| [καταγράφω, κατέγραψα]{lang="el"} | aufzeichnen, erfassen |
+| [η Ευρωπαϊκή Ένωση]{lang="el"} | die Europäische Union |
+| [καίγεται]{lang="el"} | brennt |
+| [ξεκινάω, ξεκίνησα]{lang="el"} | anfangen, losgehen |
+| [η αμέλεια]{lang="el"} | die Fahrlässigkeit |
+| [σαν]{lang="el"} | wie |
+| [η έκπληξη]{lang="el"} | die Überraschung |
+| [το χαλέπιο πεύκο]{lang="el"} | die Aleppokiefer |
+| [το κουκουνάρι]{lang="el"} | der Kiefernzapfen |
+| [ο σπόρος]{lang="el"} | der Samen |
+| [φυτρώνω, φύτρωσα]{lang="el"} | keimen, sprießen |
+| [ξανάρχεται]{lang="el"} | kommt wieder (von [ξανάρχομαι]{lang="el"}) |
+| [ο θάμνος]{lang="el"} | der Strauch, das Gebüsch |
+| [οργανώνω, οργάνωσα]{lang="el"} | organisieren |
+| [ο ασύρματος]{lang="el"} | das Funkgerät |
+| [με τη σειρά]{lang="el"} | abwechselnd, der Reihe nach |
+| [έτοιμος, -η, -ο]{lang="el"} | bereit, fertig |
+| [προσεύχομαι]{lang="el"} | beten |
+| [φυσάει, φύσηξε]{lang="el"} | es weht, es ist windig (Kapitel 5) |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Der Wald, der zurückkommt**
+
+Jeden Sommer schalten die Griechen den Fernseher ein und sehen dieselbe Karte: rote Punkte im
+ganzen Land. Die Waldbrandsaison beginnt offiziell am 1. Mai und endet am 31. Oktober. Die
+Wissenschaftler sagen aber, dass sie in den letzten Jahren länger geworden ist: Brände sind schon
+im März und noch im November ausgebrochen.
+
+Das Land hat viele schwere Sommer erlebt. Im Juli 2018 tötete das Feuer in Mati, nahe Athen, mehr
+als hundert Menschen. Viele waren ins Meer gerannt und warteten stundenlang im Wasser. 2021,
+nach einer großen Hitzewelle, brannte ein großer Teil von Nord-Euböa ab. Und 2023 ereignete sich
+im Evros der größte Waldbrand, den die Europäische Union je erfasst hat.
+
+Warum brennt Griechenland? Die meisten Brände entstehen nicht von selbst; Menschen legen sie,
+meist aus Fahrlässigkeit. Der Klimawandel aber macht die Dinge schlimmer. Die Sommer sind heißer
+und trockener, und ein Wald, der vier Monate keinen Regen gesehen hat, brennt wie Papier.
+
+Und nach dem Feuer? Hier hält die Natur eine Überraschung bereit. Die Aleppokiefer, die Kiefer
+Attikas und Euböas, hat „gelernt“, mit dem Feuer zu leben. Ihre Zapfen öffnen sich in der Hitze,
+und die Samen fallen in die Asche. Mit den ersten Regenfällen keimen Tausende kleiner Kiefern.
+Eine junge Kiefer braucht aber zehn bis fünfzehn Jahre bis zu ihren ersten Zapfen. Wenn das Feuer
+früher wiederkommt, kehrt der Wald nicht mehr zurück. An manchen Orten Attikas ist das schon
+geschehen: Wo Wald war, gibt es heute nur noch Gestrüpp.
+
+Deshalb haben in vielen Dörfern die Bewohner eigene Freiwilligengruppen organisiert. Sie haben
+Wasser, Schläuche und Funkgeräte gekauft, und im Sommer sitzen sie abwechselnd auf den Bergen und
+halten Ausschau nach Rauch. „’21 hatten wir nur Eimer“, sagt ein Freiwilliger aus Euböa. „So ein
+Feuer hatten wir noch nie gesehen. Jetzt sind wir bereit. Aber jeden August schaue ich in den
+Himmel und bete, dass kein Wind aufkommt.“
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Der Text vereinfacht an drei Stellen. **Ursachen:** Dass die meisten Brände von Menschen
+ausgehen, ist unstrittig; wie viele aus Fahrlässigkeit und wie viele vorsätzlich gelegt werden,
+lässt sich oft nicht klären, und die Zahlen schwanken je nach Quelle. **Klima:** Hitze und
+Trockenheit erhöhen das Brandrisiko nachweislich; wie groß der Anteil des Klimawandels an einem
+einzelnen Brand ist, ist eine eigene Forschungsfrage. **Kiefern:** Die Aleppokiefer regeneriert
+nach Feuer oft gut, aber nicht überall; Boden, Erosion und Beweidung spielen mit, und die Angaben
+zum Alter der ersten Zapfen schwanken. Zum Nachlesen: die Jahresberichte des European Forest Fire
+Information System (EFFIS).
+:::
+
+<!-- EXERCISE: Leseverstehen Lesetext (richtig/falsch aus dem griechischen Text heraus) plus Formen jagen: alle Perfekt- und Plusquamperfektformen finden, je Grundverb nennen und begründen, warum hier kein Aorist steht (bzw. warum daneben Aoriste mit Zeitstempel stehen: το 2018, το 2021); Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η κλιματική αλλαγή]{lang="el"} | [i klimatiˈci alaˈʝi] | der Klimawandel |
+| [ο επιστήμονας, οι επιστήμονες]{lang="el"} | [o epiˈstimonas], [i epiˈstimones] | der Wissenschaftler |
+| [ανάβω, άναψα]{lang="el"} | [aˈnavo], [ˈanapsa] | anzünden; anmachen (Licht) |
+| [η στάχτη]{lang="el"} | [i ˈstaxti] | die Asche |
+| [ο καπνός]{lang="el"} | [o kaˈpnos] | der Rauch |
+| [ο εθελοντής, η εθελόντρια]{lang="el"} | [o eθeloˈdis], [i eθeˈlodria] | der/die Freiwillige |
+| [ο ουρανός]{lang="el"} | [o uraˈnos] | der Himmel |
+| [ο καύσωνας]{lang="el"} | [o ˈkafsonas] | die Hitzewelle |
+:::

@@ -1,0 +1,752 @@
+---
+title: "Es wurde gefunden: das Mediopassiv"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+Aus Kapitel 5 und 10:
+
+- **Präsens auf [-μαι]{lang="el"}:** [κάθομαι, κάθεσαι, κάθεται, καθόμαστε, κάθεστε,
+  κάθονται]{lang="el"}; die kleine [-άμαι]{lang="el"}-Gruppe wie [φοβάμαι]{lang="el"}.
+  [-μαι, -σαι, -ται]{lang="el"} klingen [me, se, te].
+- **Aorist auf [-θηκα/-τηκα]{lang="el"}:** Aoristendungen, Betonung auf der drittletzten Silbe,
+  kein Augment ([θυμήθηκα – θυμηθήκαμε]{lang="el"}).
+- **Futur und [να]{lang="el"}-Form:** aus [-ηκα]{lang="el"} wird [-ώ]{lang="el"} mit den
+  Endungen von [μπορώ]{lang="el"} ([θα θυμηθώ, να σκεφτείς]{lang="el"}).
+- **Imperfekt:** betontes [-ό-]{lang="el"} + Endungen von [ήμουν]{lang="el"}
+  ([καθόμουν, κοιμόταν]{lang="el"}).
+:::
+
+## Grüne Brocken hinter Glas {#sec-passiv-einstieg}
+
+Im Nationalen Archäologischen Museum in Athen liegen Goldmasken, Bronzegötter und Marmorköpfe.
+Die längste Schlange steht trotzdem vor ein paar grünlichen Bronzebrocken, die aussehen wie
+etwas, das man beim Umzug hinter dem Schrank findet. Neben der Vitrine hängt ein Schild:
+
+::: {lang="el"}
+**Ο Μηχανισμός των Αντικυθήρων**
+
+Χάλκινος, 2ος–1ος αιώνας π.Χ.
+
+Βρέθηκε το 1901 στο ναυάγιο των Αντικυθήρων, μαζί με χάλκινα και μαρμάρινα αγάλματα. Σώζεται σε
+82 κομμάτια. Στην αρχαιότητα χρησιμοποιούνταν για τον υπολογισμό της θέσης του ήλιου και της
+σελήνης και για την πρόβλεψη των εκλείψεων. Θεωρείται ο αρχαιότερος γνωστός αναλογικός
+υπολογιστής.
+:::
+
+<!-- CHECK: Datierung „2.–1. Jh. v. Chr.“ als Museumsangabe vertretbar? Fragmente 1901 geborgen, erkannt 1902; Zahl 82 Fragmente -->
+
+Davor eine Mutter und ihr Sohn, etwa fünfzehn:
+
+::: {lang="el"}
+— Αυτό είναι; Μοιάζει με πράσινη πέτρα.
+
+— Κοίτα πιο κοντά. Εκεί, στη μέση, φαίνεται ένας τροχός με δόντια.
+
+— Α, ναι. Και πώς δούλευε;
+
+— Γύριζες μια μανιβέλα, και κινούνταν όλα μαζί: ο ήλιος, η σελήνη, ίσως και οι πλανήτες.
+
+— Και ποιος το έφτιαξε;
+
+— Δεν ξέρει κανείς. Μπορεί κάποια μέρα να βρεθεί η απάντηση.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Der Mechanismus von Antikythera**
+
+Bronze, 2.–1. Jahrhundert v. Chr.
+
+Gefunden 1901 im Wrack von Antikythera, zusammen mit Bronze- und Marmorstatuen. Erhalten in
+82 Fragmenten. In der Antike diente er zur Berechnung der Stellung von Sonne und Mond und zur
+Vorhersage von Finsternissen. Er gilt als der älteste bekannte Analogrechner.
+
+— Das ist es? Sieht aus wie ein grüner Stein.
+
+— Schau genauer hin. Da, in der Mitte, sieht man ein Rad mit Zähnen.
+
+— Ah, ja. Und wie hat das funktioniert?
+
+— Man drehte eine Kurbel, und alles bewegte sich zusammen: die Sonne, der Mond, vielleicht auch
+die Planeten.
+
+— Und wer hat es gebaut?
+
+— Weiß keiner. Vielleicht findet man die Antwort eines Tages.
+:::
+
+Museumsschilder lieben eine bestimmte Sorte Verb. Die aus dem Text:
+
+| im Text | Aktiv dazu | Deutsch |
+|---|---|---|
+| [βρέθηκε]{lang="el"} | [βρίσκω]{lang="el"} finden | wurde gefunden |
+| [σώζεται]{lang="el"} | [σώζω]{lang="el"} retten | ist erhalten |
+| [χρησιμοποιούνταν]{lang="el"} | [χρησιμοποιώ]{lang="el"} benutzen | wurde benutzt |
+| [θεωρείται]{lang="el"} | [θεωρώ]{lang="el"} halten für | gilt als |
+| [φαίνεται]{lang="el"} | – | ist zu sehen |
+| [να βρεθεί]{lang="el"} | [βρίσκω]{lang="el"} | gefunden werden |
+
+Die Endungen kennst du aus Kapitel 10: [-ται]{lang="el"} im Präsens, [-θηκε]{lang="el"} im
+Aorist, [-νταν]{lang="el"} im Imperfekt, [-θεί]{lang="el"} in der [να]{lang="el"}-Form. Neu ist,
+dass diese Verben ein aktives Gegenstück haben. [βρίσκω]{lang="el"} heißt „ich finde“,
+[βρέθηκε]{lang="el"} „er wurde gefunden“: dieselbe Handlung, von der anderen Seite gesehen. Diese
+Formen heißen **Mediopassiv** ([η παθητική φωνή]{lang="el"}), das Gegenstück **Aktiv**
+([η ενεργητική φωνή]{lang="el"}). Warum nicht einfach „Passiv“, zeigt @sec-passiv-bedeutungen.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο μηχανισμός]{lang="el"} | [o mixanizˈmos] | der Mechanismus |
+| [το ναυάγιο]{lang="el"} | [to naˈvaʝo] | das Wrack; der Schiffbruch |
+| [το άγαλμα, τα αγάλματα]{lang="el"} | [to ˈaɣalma], [ta aˈɣalmata] | die Statue |
+| [ο υπολογιστής]{lang="el"} | [o ipoloʝiˈstis] | der Computer, Rechner |
+| [η σελήνη]{lang="el"} | [i seˈlini] | der Mond (Fachsprache; Alltag [το φεγγάρι]{lang="el"}) |
+| [το φεγγάρι]{lang="el"} | [to feŋˈgari] | der Mond |
+| [ο τροχός]{lang="el"} | [o troˈxos] | das Rad |
+| [το δόντι, τα δόντια]{lang="el"} | [to ˈðodi], [ta ˈðodʝa] | der Zahn |
+| [αρχαίος, -α, -ο]{lang="el"} | [arˈçeos] | antik, alt |
+| [το μουσείο]{lang="el"} | [to muˈsio] | das Museum |
+| [κινούμαι, κινήθηκα]{lang="el"} | [ciˈnume], [ciˈniθika] | sich bewegen |
+| [φαίνομαι, φάνηκα, (να) φανώ]{lang="el"} | [ˈfenome], [ˈfanika], [faˈno] | zu sehen sein, scheinen; [φαίνεται]{lang="el"} man sieht |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [χάλκινος, -η, -ο]{lang="el"} | aus Bronze (Kapitel 2) |
+| [ο αιώνας]{lang="el"} | das Jahrhundert |
+| [μαρμάρινος, -η, -ο]{lang="el"} | aus Marmor |
+| [η αρχαιότητα]{lang="el"} | die Antike |
+| [ο υπολογισμός]{lang="el"} | die Berechnung |
+| [η πρόβλεψη]{lang="el"} | die Vorhersage |
+| [η έκλειψη, οι εκλείψεις]{lang="el"} | die Finsternis (Sonne, Mond) |
+| [αρχαιότερος]{lang="el"} | älter, ältester (Kapitel 12) |
+| [αναλογικός, -ή, -ό]{lang="el"} | analog |
+| [μοιάζω με]{lang="el"} | aussehen wie (Kapitel 2) |
+| [η μανιβέλα]{lang="el"} | die Kurbel |
+| [ο πλανήτης]{lang="el"} | der Planet |
+| [μπορεί να]{lang="el"} | vielleicht, es kann sein, dass (Kapitel 22) |
+:::
+
+## Ein Verb, zwei Seiten: das Präsens {#sec-passiv-praesens}
+
+Die meisten Verben, die ein Objekt haben können, haben eine zweite Reihe von Formen auf
+[-μαι]{lang="el"}. Einige Paare hast du schon gesehen, ohne dass sie als Paar vorgestellt wurden:
+
+| Aktiv | Mediopassiv |
+|---|---|
+| [γράφω]{lang="el"} ich schreibe | [γράφεται]{lang="el"} es wird geschrieben |
+| [βρίσκω]{lang="el"} ich finde | [βρίσκομαι]{lang="el"} ich befinde mich |
+| [χάνω]{lang="el"} ich verliere | [χάνομαι]{lang="el"} ich gehe verloren, verlaufe mich |
+| [ντύνω]{lang="el"} ich ziehe (jemanden) an | [ντύνομαι]{lang="el"} ich ziehe mich an |
+| [σηκώνω]{lang="el"} ich hebe hoch | [σηκώνομαι]{lang="el"} ich stehe auf |
+| [ζεσταίνω]{lang="el"} ich wärme | [ζεσταίνομαι]{lang="el"} mir wird warm |
+
+[Σήμερα βρίσκεται στη Μόσχα]{lang="el"} stand in Kapitel 2 über Schliemanns Schatz,
+[ζεσταίνεται]{lang="el"} in Kapitel 12 über das Mittelmeer. Die meisten Verben bilden das
+Mediopassiv wie [κάθομαι]{lang="el"} aus Kapitel 10: Endung weg, [-ομαι]{lang="el"} dran. Nur
+die endbetonten Verben brauchen eigene Muster, und dafür gibt es zwei neue:
+
+- Verben auf [-άω]{lang="el"} bilden meist [-ιέμαι]{lang="el"}: [κουνάω → κουνιέμαι]{lang="el"}
+  „wackeln, sich bewegen“, [αγαπάω → αγαπιέμαι]{lang="el"} „geliebt werden“,
+  [γεννάω → γεννιέμαι]{lang="el"} „geboren werden“. Den Kaffee aus Kapitel 1 kennst du:
+  [Έτσι γεννιέται ο φραπές.]{lang="el"}
+- Verben auf [-ώ]{lang="el"} bilden meist [-ούμαι]{lang="el"}: [θεωρώ → θεωρούμαι]{lang="el"},
+  [χρησιμοποιώ → χρησιμοποιούμαι]{lang="el"}. Diese Gruppe klingt eher schriftlich und
+  begegnet dir fast nur in der er- und sie-Form: [θεωρείται, χρησιμοποιούνται]{lang="el"}.
+
+| Person | [-ομαι]{lang="el"} | [-ιέμαι]{lang="el"} | [-ούμαι]{lang="el"} |
+|---|---|---|---|
+| ich | [βρίσκ**ομαι**]{lang="el"} | [κουν**ιέμαι**]{lang="el"} | [θεωρ**ούμαι**]{lang="el"} |
+| du | [βρίσκ**εσαι**]{lang="el"} | [κουν**ιέσαι**]{lang="el"} | [θεωρ**είσαι**]{lang="el"} |
+| er, sie, es | [βρίσκ**εται**]{lang="el"} | [κουν**ιέται**]{lang="el"} | [θεωρ**είται**]{lang="el"} |
+| wir | [βρισκ**όμαστε**]{lang="el"} | [κουν**ιόμαστε**]{lang="el"} | [θεωρ**ούμαστε**]{lang="el"} |
+| ihr, Sie | [βρίσκ**εστε**]{lang="el"} | [κουν**ιέστε**]{lang="el"} | [θεωρ**είστε**]{lang="el"} |
+| sie | [βρίσκ**ονται**]{lang="el"} | [κουν**ιούνται**]{lang="el"} | [θεωρ**ούνται**]{lang="el"} |
+
+Die [-ιέμαι]{lang="el"}-Formen sind durchgehend endbetont, und das [ι]{lang="el"} ist keine
+eigene Silbe, sondern der kurze *j*-Laut aus Kapitel 1. Nach [ν]{lang="el"} verschmilzt er zu
+[ɲ] wie span. *ñ*: [κουνιέμαι]{lang="el"} [kuˈɲeme]; nach [π]{lang="el"} wird er zu [ç] wie in
+*ich*: [αγαπιέμαι]{lang="el"} [aɣaˈpçeme].
+
+::: {.callout-tip}
+## Tipp
+
+[Πού βρίσκεται …;]{lang="el"} „Wo ist …?“ ist die Frage nach dem Weg, höflicher als
+[Πού είναι …;]{lang="el"}: [Συγγνώμη, πού βρίσκεται το Εθνικό Αρχαιολογικό
+Μουσείο;]{lang="el"} Die Antwort beginnt oft mit [Κοίτα …]{lang="el"} (Kapitel 9).
+:::
+
+<!-- EXERCISE: 13.1 Präsens des Mediopassivs bilden (Aktiv → Mediopassiv, Personenwechsel; alle drei Muster -ομαι/-ιέμαι/-ούμαι, u.a. χάνω, ντύνω, σηκώνω, αγαπάω, κουνάω, γεννάω, χρησιμοποιώ); Formen bilden, laut; Schwierigkeit 1 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [βρίσκομαι, βρέθηκα, (να) βρεθώ]{lang="el"} | [ˈvriskome], [ˈvreθika], [vreˈθo] | sich befinden; gefunden werden; sich treffen |
+| [Πού βρίσκεται …;]{lang="el"} | [pu ˈvriscete] | Wo ist …? Wo befindet sich …? |
+| [χάνομαι, χάθηκα, (να) χαθώ]{lang="el"} | [ˈxanome], [ˈxaθika], [xaˈθo] | verloren gehen; sich verlaufen |
+| [ντύνομαι, ντύθηκα]{lang="el"} | [ˈdinome], [ˈdiθika] | sich anziehen |
+| [σηκώνομαι, σηκώθηκα]{lang="el"} | [siˈkonome], [siˈkoθika] | aufstehen |
+| [ζεσταίνομαι, ζεστάθηκα]{lang="el"} | [zeˈstenome], [zeˈstaθika] | warm werden; mir ist warm |
+| [κουνιέμαι, κουνήθηκα]{lang="el"} | [kuˈɲeme], [kuˈniθika] | wackeln, sich bewegen |
+| [γεννιέμαι, γεννήθηκα]{lang="el"} | [ʝeˈɲeme], [ʝeˈniθika] | geboren werden |
+| [αγαπιέμαι, αγαπήθηκα]{lang="el"} | [aɣaˈpçeme], [aɣaˈpiθika] | geliebt werden; sich lieben (einander) |
+| [θεωρώ, θεώρησα, θεωρήθηκα]{lang="el"} | [θeoˈro], [θeˈorisa], [θeoˈriθika] | halten für; [θεωρείται]{lang="el"} gilt als |
+| [χρησιμοποιώ, χρησιμοποίησα, χρησιμοποιήθηκα]{lang="el"} | [xrisimopiˈo], [xrisimoˈpiisa], [xrisimopiˈiθika] | benutzen, verwenden |
+| [σώζω, έσωσα, σώθηκα]{lang="el"} | [ˈsozo], [ˈesosa], [ˈsoθika] | retten; [σώζεται]{lang="el"} ist erhalten |
+:::
+
+## Wer tut hier was? Passiv, reflexiv, reziprok {#sec-passiv-bedeutungen}
+
+Spanisch hat ein kleines Wort, das vier Aufgaben erledigt:
+
+- [*El mecanismo **se** encontró en 1901.*]{lang="es"} Der Mechanismus wurde gefunden.
+- [*Me visto.*]{lang="es"} Ich ziehe mich an.
+- [*Nos vemos mañana.*]{lang="es"} Wir sehen uns morgen.
+- [*Me arrepiento.*]{lang="es"} Ich bereue. (Ein „sich“ ohne Sinn für sich allein.)
+
+Griechisch erledigt dieselben vier Aufgaben mit der Endung:
+
+**1. Passiv:** Jemand anderes handelt, das Subjekt erleidet es.
+[Ο μηχανισμός βρέθηκε το 1901.]{lang="el"} [Το βιβλίο γράφτηκε στα γερμανικά.]{lang="el"}
+Soll der Täter dazu, steht er mit [από]{lang="el"} + Akkusativ:
+[Ο μηχανισμός βρέθηκε από σφουγγαράδες.]{lang="el"} „… von Schwammtauchern.“
+
+**2. Reflexiv:** Das Subjekt tut es an sich selbst. [Ντύνομαι.]{lang="el"}
+[Σηκώνομαι στις επτά.]{lang="el"} [Το παιδί κρύβεται πίσω από την πόρτα.]{lang="el"} Dazu
+gehört alles, was „von selbst“ geschieht und im Deutschen ebenfalls ein „sich“ bekommt:
+[Η θάλασσα ζεσταίνεται]{lang="el"} „das Meer erwärmt sich“, [Χάθηκα στην Πλάκα]{lang="el"}
+„ich habe mich in der Plaka verlaufen“.
+
+**3. Reziprok:** Mehrere tun es einander. [Βλεπόμαστε αύριο!]{lang="el"} ist genau
+[*Nos vemos mañana*]{lang="es"}. [Γνωριστήκαμε στη Σύμη.]{lang="el"} „Wir haben uns auf Symi
+kennengelernt.“ [Φιλιούνται.]{lang="el"} „Sie küssen sich“, zur Begrüßung unter Freunden mit
+zwei Wangenküssen. Reziprok geht nur im Plural; zur Verdeutlichung kommt [ο ένας τον
+άλλο]{lang="el"} „einander“ dazu.
+
+**4. Deponens:** Es gibt gar kein Aktiv, die Form ist aktiv gemeint: [έρχομαι, θυμάμαι]{lang="el"}
+(Kapitel 10).
+
+Deshalb heißt die Form im Buch „Mediopassiv“ und nicht „Passiv“: Passiv ist nur eine ihrer
+Bedeutungen, und im Alltag nicht einmal die häufigste.
+
+::: {.callout-important}
+## Merke
+
+Bei einer Form auf [-μαι]{lang="el"} frag: **Wer handelt?**
+
+- jemand anderes → **passiv** (Täter mit [από]{lang="el"} + Akk.)
+- das Subjekt an sich selbst, oder es geschieht von selbst → **reflexiv**
+- mehrere Subjekte aneinander → **reziprok**
+- Es gibt kein Aktiv → **Deponens**
+
+Manchmal entscheidet erst der Zusammenhang: [Ο Νίκος πλένεται]{lang="el"} wäscht sich,
+[το αυτοκίνητο πλένεται]{lang="el"} wird gewaschen.
+:::
+
+::: {.callout-warning}
+## Achtung
+
+- Nicht jedes deutsche „sich“ wird [-μαι]{lang="el"}. „Ich wasche mir die Hände“ ist aktiv mit
+  Objekt: [Πλένω τα χέρια μου.]{lang="el"} Und „sich hinlegen“ bleibt [ξαπλώνω]{lang="el"}.
+- Ein Passiv mit Täter klingt im Gespräch steif. Wo Deutsch sagt „Er wurde von Tauchern
+  gefunden“, sagt man lieber aktiv, mit der 3. Person Plural für „man“ wie in
+  [λένε]{lang="el"} (Kapitel 10): [Τον βρήκαν κάτι σφουγγαράδες.]{lang="el"} „Ein paar
+  Schwammtaucher haben ihn gefunden.“ Das Passiv mit [από]{lang="el"} gehört eher in Zeitungen,
+  Museen und Dokumentationen.
+:::
+
+::: {.callout-note collapse="true"}
+## Exkurs: Warum „medio“?
+
+Das Altgriechische hatte drei Reihen von Formen: Aktiv, Passiv und dazwischen das **Medium**
+([η μέση φωνή]{lang="el"}, die „mittlere Stimme“), für Handlungen, die auf den Handelnden
+zurückwirken: sich waschen, sich etwas holen, sich fürchten. In den meisten Zeiten waren Medium und
+Passiv schon damals gleich; nur Aorist und Futur hatten eigene Passivformen, und aus dem alten
+Passiv-Aorist auf [-θην]{lang="el"} stammt das heutige [-θηκα]{lang="el"}. Das Neugriechische hat
+aus allem eine einzige Reihe gemacht, der Name „Mediopassiv“ hält beide Herkünfte fest. Die
+griechische Schulgrammatik sagt einfach [παθητική φωνή]{lang="el"}.
+:::
+
+<!-- EXERCISE: 13.2 passiv / reflexiv / reziprok / Deponens unterscheiden (Sätze wie Βλεπόμαστε αύριο, Ο μηχανισμός βρέθηκε, Κρύβεται, Γνωριστήκαμε, Θυμάμαι, Το αυτοκίνητο πλένεται, Φιλιούνται, Χάθηκα); Zuordnen mit Nummern 1–4, dazu Teil B: Passiv mit από in Alltagssprache umformen (Τον βρήκαν …); Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [από]{lang="el"} + Akk. (beim Passiv) | [aˈpo] | von (Täter): [από τον …]{lang="el"} von dem … |
+| [κρύβομαι, κρύφτηκα]{lang="el"} | [ˈkrivome], [ˈkriftika] | sich verstecken |
+| [πλένομαι, πλύθηκα]{lang="el"} | [ˈplenome], [ˈpliθika] | sich waschen; gewaschen werden |
+| [Βλεπόμαστε!]{lang="el"} | [vleˈpomaste] | Wir sehen uns! Bis bald! |
+| [γνωρίζομαι, γνωρίστηκα]{lang="el"} | [ɣnoˈrizome], [ɣnoˈristika] | sich kennenlernen; [γνωριστήκαμε]{lang="el"} wir haben uns kennengelernt |
+| [φιλάω, φίλησα; φιλιέμαι]{lang="el"} | [fiˈlao], [ˈfilisa], [fiˈʎeme] | küssen; sich küssen |
+| [ο ένας τον άλλο]{lang="el"} | [o ˈenas ton ˈalo] | einander |
+| [ο σφουγγαράς, οι σφουγγαράδες]{lang="el"} | [o sfuŋgaˈras], [i sfuŋgaˈraðes] | der Schwammtaucher |
+:::
+
+## Der Aorist: [γράφτηκε, βρέθηκε]{lang="el"} {#sec-passiv-aorist}
+
+Einige Aoriste des Mediopassivs kennst du schon lange: Schliemann [γεννήθηκε]{lang="el"}, sein
+Schatz [χάθηκε]{lang="el"} (Kapitel 2), [Γεννήθηκα στις …]{lang="el"} aus Kapitel 11, und in
+Kapitel 10 [κουνήθηκε όλο το σπίτι]{lang="el"}. Endungen und Betonung sind die von
+[θυμήθηκα]{lang="el"}: [-ηκα, -ηκες, -ηκε, -ήκαμε, -ήκατε, -ηκαν]{lang="el"}, drittletzte Silbe,
+kein Augment.
+
+Neu ist nur die Frage, was vor dem [-θηκα]{lang="el"} steht. Bei Verben mit Aktiv hilft der
+aktive Aorist, den du ohnehin mitlernst. Sein letzter Laut vor dem [-α]{lang="el"} verrät den
+Rest:
+
+| Aktiv-Aorist | Mediopassiv-Aorist | Beispiel |
+|---|---|---|
+| [-σα]{lang="el"} | [-στηκα]{lang="el"} | [κατασκεύασα → κατασκευάστηκα]{lang="el"} |
+| [-ψα]{lang="el"} | [-φτηκα]{lang="el"} | [έγραψα → γράφτηκα]{lang="el"}, [έκρυψα → κρύφτηκα]{lang="el"} |
+| [-ξα]{lang="el"} | [-χτηκα]{lang="el"} | [άνοιξα → ανοίχτηκα]{lang="el"}, [έφτιαξα → φτιάχτηκα]{lang="el"} |
+| [-ησα]{lang="el"} | [-ήθηκα]{lang="el"} | [αγάπησα → αγαπήθηκα]{lang="el"}, [μελέτησα → μελετήθηκα]{lang="el"} |
+| [-ωσα]{lang="el"} | [-ώθηκα]{lang="el"} | [σήκωσα → σηκώθηκα]{lang="el"}, [πλήρωσα → πληρώθηκα]{lang="el"} |
+
+Die Logik ist dieselbe wie in Kapitel 2, rückwärts: [ψ]{lang="el"} war Lippenlaut +
+[σ]{lang="el"}, also kehrt der Lippenlaut als [φ]{lang="el"} zurück; [ξ]{lang="el"} war Kehllaut +
+[σ]{lang="el"}, also kommt [χ]{lang="el"}. Vor dem [θ]{lang="el"} wird aus [σθ, φθ, χθ]{lang="el"}
+im heutigen Griechisch meist [στ, φτ, χτ]{lang="el"}. In @sec-passiv-doku kommt das
+[θ]{lang="el"} zurück.
+
+Das Augment verschwindet, weil es nichts mehr zu tragen hat: [έγραψα]{lang="el"}, aber
+[γράφτηκα]{lang="el"}, [γρά-φτη-κα]{lang="el"} hat schon drei Silben.
+
+**Die Ausreißer** muss man lernen, aber es sind die häufigsten:
+
+| Aktiv | Aktiv-Aorist | Mediopassiv-Aorist |
+|---|---|---|
+| [βρίσκω]{lang="el"} | [βρήκα]{lang="el"} | [βρέθηκα]{lang="el"} |
+| [χάνω]{lang="el"} | [έχασα]{lang="el"} | [χάθηκα]{lang="el"} |
+| [πλένω]{lang="el"} | [έπλυνα]{lang="el"} | [πλύθηκα]{lang="el"} |
+| [ντύνω]{lang="el"} | [έντυσα]{lang="el"} | [ντύθηκα]{lang="el"} |
+| [σώζω]{lang="el"} | [έσωσα]{lang="el"} | [σώθηκα]{lang="el"} |
+| [δίνω]{lang="el"} | [έδωσα]{lang="el"} | [δόθηκε]{lang="el"} |
+| [λέω]{lang="el"} | [είπα]{lang="el"} | [ειπώθηκε]{lang="el"} |
+
+[δόθηκε]{lang="el"} „wurde gegeben“ und [ειπώθηκε]{lang="el"} „wurde gesagt“ stehen fast nur in
+der er-Form, meist in den Nachrichten.
+
+Und dann gibt es ein Verb, dessen Mediopassiv ein ganz anderes Wort ist: [κάνω]{lang="el"}
+„machen“. Was gemacht wird, [γίνεται]{lang="el"}: [Το σπίτι έγινε σε δύο χρόνια.]{lang="el"}
+„Das Haus wurde in zwei Jahren gebaut.“ Das Verb, das du in Kapitel 10 als „werden, geschehen“
+gelernt hast, springt also als Passiv von [κάνω]{lang="el"} ein. Und neben [Τι έγινε;]{lang="el"}
+„Was ist passiert?“ aus Kapitel 2 steht im Präsens [Τι γίνεται;]{lang="el"} „Wie läuft's? Was gibt's
+Neues?“, eine der häufigsten Begrüßungen unter Freunden.
+
+::: {.callout-important}
+## Merke
+
+- Mediopassiv-Aorist: vom Aktiv-Aorist aus, [-σα → -στηκα, -ψα → -φτηκα, -ξα → -χτηκα,
+  -ησα → -ήθηκα, -ωσα → -ώθηκα]{lang="el"}.
+- Endungen [-ηκα, -ηκες, -ηκε, -ήκαμε, -ήκατε, -ηκαν]{lang="el"}, Betonung auf der drittletzten
+  Silbe, kein Augment.
+- Ausreißer: [βρέθηκα, χάθηκα, πλύθηκα, ντύθηκα, σώθηκα]{lang="el"}; das Mediopassiv von
+  [κάνω]{lang="el"} ist [γίνομαι]{lang="el"}.
+:::
+
+::: {.callout-warning}
+## Achtung
+
+- \*[εγράφτηκε]{lang="el"}: Das Augment des Aktivs wandert nicht mit.
+- \*[γράψτηκε]{lang="el"}: Das [ψ]{lang="el"} gehört nur zum Aktiv; vor [-τηκα]{lang="el"} steht
+  der Lippenlaut allein, [γράφτηκε]{lang="el"}.
+- \*[βρήκαν]{lang="el"} für „wurden gefunden“: Das ist aktiv, „sie fanden“. Passiv:
+  [βρέθηκαν]{lang="el"}.
+:::
+
+<!-- EXERCISE: 13.3 Mediopassiv-Aorist bilden vom Aktiv-Aorist aus (κατασκευάζω, κρύβω, ανοίγω, φτιάχνω, μελετάω, χρησιμοποιώ, πληρώνω, γνωρίζω, βρίσκω, χάνω, κάνω→γίνομαι), verschiedene Personen; dazu Teil B Fehler finden (*εγράφτηκε, *γράψτηκε, *κατασκευάσηκε, *βρήκαν für „wurden gefunden“ …); Formen bilden, laut; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [κατασκευάζω, κατασκεύασα, κατασκευάστηκα]{lang="el"} | [katasceˈvazo], [kataˈscevasa], [katasceˈvastika] | bauen, herstellen |
+| [μελετάω, μελέτησα, μελετήθηκα]{lang="el"} | [meleˈtao], [meˈletisa], [meleˈtiθika] | untersuchen, studieren, lernen |
+| [Τι γίνεται;]{lang="el"} | [ti ˈʝinete] | Wie läuft's? Was gibt's Neues? (umg.) |
+| [πληρώνομαι, πληρώθηκα]{lang="el"} | [pliˈronome], [pliˈroθika] | bezahlt werden, Lohn bekommen |
+:::
+
+## Futur und [να]{lang="el"}-Form: [θα βρεθούμε]{lang="el"} {#sec-passiv-futur}
+
+Hier gibt es nichts Neues, nur neue Verben. Aus [-ηκα]{lang="el"} wird [-ώ]{lang="el"} mit den
+Endungen von [μπορώ]{lang="el"}, betont auf der Endung, genau wie bei [θυμηθώ]{lang="el"}:
+
+| Aorist | Foto: Futur, [να]{lang="el"}-Form | Film |
+|---|---|---|
+| [βρέθηκα]{lang="el"} | [θα βρεθώ, να βρεθείς]{lang="el"} | [θα βρίσκομαι]{lang="el"} |
+| [γράφτηκε]{lang="el"} | [θα γραφτεί]{lang="el"} | [θα γράφεται]{lang="el"} |
+| [σηκώθηκα]{lang="el"} | [να σηκωθώ]{lang="el"} | [να σηκώνομαι]{lang="el"} |
+| [γνωριστήκαμε]{lang="el"} | [θα γνωριστούμε]{lang="el"} | – |
+
+Das [φ]{lang="el"} bleibt, nur die Betonung wandert ans Ende: [γράφτηκε → γραφτεί]{lang="el"}.
+Foto oder Film folgt den Regeln aus Kapitel 5:
+
+- [Θα βρεθούμε στις οκτώ στο Σύνταγμα;]{lang="el"} Treffen wir uns um acht am Syntagma?
+- [Αύριο πρέπει να σηκωθώ στις έξι.]{lang="el"} Morgen muss ich um sechs aufstehen.
+- [Στη δουλειά πρέπει να σηκώνομαι στις έξι.]{lang="el"} Für die Arbeit muss ich (jeden Tag)
+  um sechs aufstehen.
+- [Η νέα γέφυρα θα κατασκευαστεί σε δύο χρόνια.]{lang="el"} Die neue Brücke wird in zwei
+  Jahren gebaut.
+
+[βρίσκομαι]{lang="el"} ist im Foto ein übliches Wort für „sich treffen“: [Να
+βρεθούμε;]{lang="el"} heißt „Wollen wir uns treffen?“
+
+::: {.callout-tip}
+## Tipp
+
+Aus dem Alltag drei Imperative des Mediopassivs, die du als feste Wendungen lernst:
+[Σήκω!]{lang="el"} „Steh auf!“, [Ντύσου!]{lang="el"} „Zieh dich an!“, [Ετοιμάσου!]{lang="el"}
+„Mach dich fertig!“. Für mehrere Personen: [Σηκωθείτε! Ντυθείτε!]{lang="el"}, also die
+[να]{lang="el"}-Form ohne [να]{lang="el"}, wie beim Foto-Imperativ in Kapitel 9.
+:::
+
+<!-- EXERCISE: 13.4 Futur und να-Form des Mediopassivs, Foto oder Film (mündlich übersetzen: Wir treffen uns morgen / Das Buch wird ins Deutsche übersetzt werden [μεταφράζω] / Ich muss jeden Tag um sieben aufstehen / Vielleicht wird die Antwort nie gefunden / Wo werden wir uns sehen? / Zieh dich an!); Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Να βρεθούμε;]{lang="el"} | [na vreˈθume] | Wollen wir uns treffen? |
+| [ετοιμάζομαι, ετοιμάστηκα]{lang="el"} | [etiˈmazome], [etiˈmastika] | sich fertig machen |
+| [Σήκω! Σηκωθείτε!]{lang="el"} | [ˈsiko], [sikoˈθite] | Steh auf! Steht auf! |
+| [Ντύσου! Ντυθείτε!]{lang="el"} | [ˈdisu], [diˈθite] | Zieh dich an! Zieht euch an! |
+| [Ετοιμάσου!]{lang="el"} | [etiˈmasu] | Mach dich fertig! |
+:::
+
+## Das Imperfekt: [βρισκόταν, κινούνταν]{lang="el"} {#sec-passiv-imperfekt}
+
+In Kapitel 10 genügte es, [καθόμουν]{lang="el"} und [κοιμόταν]{lang="el"} zu erkennen. Jetzt
+bildest du das Imperfekt selbst, und zwar für jedes Verb auf [-μαι]{lang="el"}. Drei Handgriffe:
+
+1. Präsens-Endung weg: [βρίσκ-ομαι]{lang="el"}, [κουν-ιέμαι]{lang="el"}.
+2. Betontes [-ό-]{lang="el"} anhängen, bei der [-ιέμαι]{lang="el"}-Gruppe [-ιό-]{lang="el"}.
+3. Endungen von [ήμουν]{lang="el"}: [-μουν, -σουν, -ταν, -μασταν, -σασταν]{lang="el"}.
+
+| Person | sich befinden | wackeln |
+|---|---|---|
+| ich | [βρισκ**όμουν**]{lang="el"} | [κουν**ιόμουν**]{lang="el"} |
+| du | [βρισκ**όσουν**]{lang="el"} | [κουν**ιόσουν**]{lang="el"} |
+| er, sie, es | [βρισκ**όταν**]{lang="el"} | [κουν**ιόταν**]{lang="el"} |
+| wir | [βρισκ**όμασταν**]{lang="el"} | [κουν**ιόμασταν**]{lang="el"} |
+| ihr, Sie | [βρισκ**όσασταν**]{lang="el"} | [κουν**ιόσασταν**]{lang="el"} |
+| sie | [βρίσκ**ονταν**]{lang="el"} | [κουν**ιόνταν**]{lang="el"} |
+
+<!-- CHECK: sie-Form Imperfekt der -ιέμαι-Gruppe: κουνιόνταν als Standard, κουνιούνταν als Variante? (LKN / Triantafyllidis-Grammatik) -->
+
+Die sie-Form tanzt wie in Kapitel 10 aus der Reihe. Bei der [-ομαι]{lang="el"}-Gruppe hilft ein
+Trick: Nimm das Präsens und tausch den letzten Buchstaben, [βρίσκονται → βρίσκονταν]{lang="el"},
+[κάθονται → κάθονταν]{lang="el"}; die Betonung bleibt stehen. Die [-ούμαι]{lang="el"}-Gruppe
+braucht praktisch nur eine Form, und die gilt für er und sie: [ο μηχανισμός
+χρησιμοποιούνταν]{lang="el"} „wurde benutzt“, [τα γρανάζια κινούνταν]{lang="el"} „die Zahnräder
+bewegten sich“.
+
+Und wie immer: Imperfekt ist Film, Aorist ist Foto. Beim Mediopassiv gibt das hübsche Paare:
+
+- [Το ναυάγιο βρισκόταν σε βάθος πενήντα μέτρων.]{lang="el"} Das Wrack lag in fünfzig Metern
+  Tiefe. (Zustand, Kulisse)
+- [Το ναυάγιο βρέθηκε το 1900.]{lang="el"} Das Wrack wurde 1900 gefunden. (Ereignis)
+- [Όταν ήμουν παιδί, χανόμουν συνέχεια στην Πλάκα.]{lang="el"} Als Kind habe ich mich ständig
+  in der Plaka verlaufen.
+- [Βλεπόμασταν κάθε καλοκαίρι στη Σύμη.]{lang="el"} Wir haben uns jeden Sommer auf Symi gesehen.
+
+<!-- CHECK: Tiefe des Wracks von Antikythera: ca. 45–55 m, „fünfzig Meter“ als Rundung vertretbar? -->
+
+::: {.callout-note collapse="true"}
+## Exkurs: Im Gespräch, in der Zeitung
+
+Wie in Kapitel 10 gibt es längere Formen im Gespräch: [βρισκόμουνα, βρισκότανε]{lang="el"}, in der
+sie-Form [βρισκόντουσαν]{lang="el"}. In Zeitungen dagegen steht für die er-Form der
+[-ούμαι]{lang="el"}-Gruppe manchmal eine alte Form auf [-είτο]{lang="el"}:
+[θεωρείτο]{lang="el"} „galt als“. Beides genügt zum Wiedererkennen.
+:::
+
+<!-- EXERCISE: 13.5 Imperfekt des Mediopassivs aktiv bilden und gegen den Aorist abgrenzen: kurze Erzählung (Wrack/Museum/Kindheit), je zwei Formen zur Wahl (βρισκόταν/βρέθηκε, κινούνταν/κινήθηκαν, χανόμουν/χάθηκα, βλεπόμασταν/ειδωθήκαμε vermeiden), Teil B: Präsens → Imperfekt umformen (σηκώνομαι, ντύνομαι, κουνιέται, γνωρίζονται, χρησιμοποιείται) laut; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το γρανάζι]{lang="el"} | [to ɣraˈnazi] | das Zahnrad |
+| [το βάθος]{lang="el"} | [to ˈvaθos] | die Tiefe |
+:::
+
+## Hörspur: Dokumentationston {#sec-passiv-hoerspur}
+
+Die ▶-Aufnahmen im Buch sind synthetische Stimmen, gleichmäßig und deutlich. Das passt diesmal
+gut, denn Sprecher von Dokumentarfilmen klingen ähnlich: ruhig, feierlich, ein bisschen zu
+deutlich. Wie echte griechische Dokumentationen klingen, bringt Übung 13.7.
+
+So könnte der Anfang eines Dokumentarfilms über das Wrack klingen. Erst hören, dann lesen:
+
+::: {lang="el" .listen}
+Άνοιξη του 1900. Ένα καΐκι με σφουγγαράδες από τη Σύμη γυρίζει από τις ακτές της Αφρικής.
+Ξαφνικά πιάνει καταιγίδα, και το καΐκι σταματάει στα Αντικύθηρα, ένα μικρό νησί ανάμεσα στα
+Κύθηρα και την Κρήτη. Όταν ο καιρός καλυτερεύει, ένας δύτης, ο Ηλίας Σταδιάτης, βουτάει στον
+βυθό. Λέγεται ότι ανέβηκε τρομαγμένος και μιλούσε για νεκρούς και για άλογα. Ήταν αγάλματα.
+
+Το ναυάγιο εντοπίστηκε σε βάθος πενήντα μέτρων. Τον Νοέμβριο του 1900 άρχισε η ανέλκυση, με τη
+βοήθεια του Πολεμικού Ναυτικού. Θεωρείται η πρώτη μεγάλη υποβρύχια ανασκαφή στον κόσμο. Ως το
+1901 ανασύρθηκαν χάλκινα και μαρμάρινα αγάλματα, αμφορείς, γυάλινα αγγεία. Η δουλειά ήταν
+επικίνδυνη: ένας δύτης πέθανε, δύο έμειναν παράλυτοι.
+
+Ανάμεσα στα ευρήματα μεταφέρθηκαν στην Αθήνα και μερικά κομμάτια σκουριασμένου χαλκού. Κανείς
+δεν τα πρόσεξε. Πιστεύεται ότι κάποτε ήταν ένα ξύλινο κουτί με κάτι μέσα. Αυτό το κάτι
+ανακαλύφθηκε το 1902.
+:::
+
+<!-- EXERCISE: 13.6 Erst hören (mit ▶, ohne den Text aufzuklappen): Teil A richtig/falsch zu Inhalt (Taucher aus Symi, Sturm, Statuen für Leichen gehalten, Bergung mit der Marine, Todesfall, Mechanismus sofort erkannt?); Teil B: Mediopassiv-Formen mitzählen und Zeit bestimmen (λέγεται, εντοπίστηκε, θεωρείται, ανασύρθηκαν, μεταφέρθηκαν, πιστεύεται, ανακαλύφθηκε); Hörverstehen; Schwierigkeit 2 -->
+
+<!-- CHECK: Hörtext: Heimweg von Nordafrika, Sturm, Taucher Ilias Stadiatis und die „Leichen/Pferde“-Anekdote (als „λέγεται“ markiert), Bergung ab Nov. 1900 mit der Marine bis 1901, ein toter und zwei gelähmte Taucher; Mechanismus 1902 erkannt; „ξύλινο κουτί“ als Vermutung -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+Frühjahr 1900. Ein Kaiki mit Schwammtauchern aus Symi kehrt von der afrikanischen Küste zurück.
+Plötzlich zieht ein Sturm auf, und das Kaiki macht Halt auf Antikythera, einer kleinen Insel
+zwischen Kythira und Kreta. Als das Wetter besser wird, taucht einer der Taucher, Ilias
+Stadiatis, auf den Meeresgrund. Es heißt, er sei verängstigt heraufgekommen und habe von Toten und
+Pferden gesprochen. Es waren Statuen.
+
+Das Wrack wurde in fünfzig Metern Tiefe geortet. Im November 1900 begann die Bergung, mit Hilfe
+der Kriegsmarine. Sie gilt als die erste große Unterwassergrabung der Welt. Bis 1901 wurden
+Bronze- und Marmorstatuen, Amphoren und Glasgefäße geborgen. Die Arbeit war gefährlich: Ein
+Taucher starb, zwei blieben gelähmt.
+
+Unter den Funden wurden auch einige Stücke korrodierter Bronze nach Athen gebracht. Niemand
+beachtete sie. Man nimmt an, dass sie einmal ein Holzkasten mit etwas darin waren. Dieses Etwas wurde
+1902 entdeckt.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η άνοιξη]{lang="el"} | der Frühling |
+| [το καΐκι]{lang="el"} | das Kaiki (Kapitel 4) |
+| [η ακτή]{lang="el"} | die Küste |
+| [πιάνει καταιγίδα]{lang="el"} | ein Sturm zieht auf |
+| [καλυτερεύω]{lang="el"} | besser werden |
+| [βουτάω]{lang="el"} | tauchen (Kapitel 4) |
+| [τρομαγμένος, -η, -ο]{lang="el"} | verängstigt (Partizip, Kapitel 19) |
+| [ο νεκρός]{lang="el"} | der Tote |
+| [το άλογο]{lang="el"} | das Pferd |
+| [εντοπίζω, εντοπίστηκε]{lang="el"} | orten, lokalisieren |
+| [η ανέλκυση]{lang="el"} | die Bergung (vom Meeresgrund) |
+| [το Πολεμικό Ναυτικό]{lang="el"} | die Kriegsmarine |
+| [υποβρύχιος, -α, -ο]{lang="el"} | Unterwasser- |
+| [η ανασκαφή]{lang="el"} | die Ausgrabung |
+| [ανασύρω, ανασύρθηκε]{lang="el"} | (aus dem Wasser) bergen (gehoben) |
+| [ο αμφορέας, οι αμφορείς]{lang="el"} | die Amphore |
+| [γυάλινος, -η, -ο]{lang="el"} | aus Glas |
+| [το αγγείο]{lang="el"} | das Gefäß |
+| [επικίνδυνος, -η, -ο]{lang="el"} | gefährlich |
+| [παράλυτος, -η, -ο]{lang="el"} | gelähmt |
+| [το εύρημα, τα ευρήματα]{lang="el"} | der Fund |
+| [μεταφέρω, μεταφέρθηκε]{lang="el"} | transportieren, bringen |
+| [σκουριασμένος, -η, -ο]{lang="el"} | verrostet, korrodiert |
+| [προσέχω, πρόσεξα]{lang="el"} | beachten, bemerken (Kapitel 9) |
+| [ξύλινος, -η, -ο]{lang="el"} | aus Holz |
+| [το κουτί]{lang="el"} | die Schachtel, der Kasten |
+:::
+
+### Wie Dokumentationen klingen {#sec-passiv-doku}
+
+Wer Nachrichten und Dokumentarfilme verstehen will, muss vier Gewohnheiten kennen, und alle vier
+stehen im Text.
+
+**Erzählendes Präsens** am Anfang: [γυρίζει, σταματάει, βουτάει]{lang="el"}. Das kennst du aus
+Kapitel 4; im Dokumentarfilm setzt es die Szene, dann geht es im Aorist weiter.
+
+**Passiv ohne Täter.** Wer hat das Wrack geortet, wer die Statuen geborgen? Egal.
+[Εντοπίστηκε, ανασύρθηκαν, μεταφέρθηκαν]{lang="el"}. Im Gespräch hieße es [το βρήκαν, τα
+έβγαλαν]{lang="el"}, „man hat es gefunden, sie rausgeholt“.
+
+**„Man sagt“ als Mediopassiv.** Wo das Gespräch [λένε ότι]{lang="el"} sagt, sagt die
+Dokumentation [λέγεται ότι]{lang="el"}, genau wie spanisch [*se dice que*]{lang="es"}.
+Ebenso [πιστεύεται ότι]{lang="el"} „man nimmt an“, [θεωρείται]{lang="el"} „gilt als“.
+Für dich als Hörer ist das eine Warnlampe: Hier wird etwas behauptet, das niemand genau weiß.
+
+**Das [θ]{lang="el"} kehrt zurück.** In gehobener Sprache bleiben [φθ, χθ, σθ]{lang="el"}
+erhalten: [ανακαλύφθηκε]{lang="el"} [anakaˈlifθice] statt [ανακαλύφτηκε]{lang="el"}
+[anakaˈliftice], [αποδείχθηκε]{lang="el"} „es erwies sich“ statt [αποδείχτηκε]{lang="el"}.
+Beides ist richtig. Im Gespräch verwendest du die Form mit [τ]{lang="el"}; im Fernsehen hörst du
+oft die mit [θ]{lang="el"}.
+
+| Dokumentation | Gespräch | Deutsch |
+|---|---|---|
+| [Λέγεται ότι …]{lang="el"} | [Λένε ότι …]{lang="el"} | Es heißt, dass … |
+| [Το ναυάγιο εντοπίστηκε.]{lang="el"} | [Βρήκαν το ναυάγιο.]{lang="el"} | Das Wrack wurde gefunden. |
+| [ανακαλύφθηκε]{lang="el"} | [το ανακάλυψαν]{lang="el"} | wurde entdeckt |
+
+<!-- EXERCISE: 13.7 Hör-Auftrag Dokumentationston: auf ERTflix (https://www.ertflix.gr) eine Dokumentation wählen (Suche/Rubrik ντοκιμαντέρ, Thema Geschichte oder Archäologie), drei Minuten ohne Untertitel hören, Striche für Formen auf [θike]/[tike] und für λέγεται/πιστεύεται/θεωρείται; notieren, ob eher [fθ]/[xθ] oder [ft]/[xt]; dann mit griechischen Untertiteln prüfen; Alternative: Easy Greek (https://www.youtube.com/@EasyGreekVideos) und dort dasselbe zählen, als Vergleich Gespräch vs. Doku; Schwierigkeit 3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [λέγεται ότι]{lang="el"} | [ˈleʝete ˈoti] | es heißt, dass; man sagt (gehoben) |
+| [πιστεύεται ότι]{lang="el"} | [piˈstevete ˈoti] | man nimmt an, dass (gehoben) |
+| [ο δύτης]{lang="el"} | [o ˈðitis] | der Taucher |
+| [ο βυθός]{lang="el"} | [o viˈθos] | der Meeresgrund |
+:::
+
+## Das Wichtigste {#sec-passiv-wichtigste}
+
+- Das **Mediopassiv** hat vier Bedeutungen: **passiv** ([βρέθηκε]{lang="el"}, Täter mit
+  [από]{lang="el"}), **reflexiv** ([ντύνομαι, χάθηκα]{lang="el"}), **reziprok**
+  ([βλεπόμαστε, γνωριστήκαμε]{lang="el"}) und **Deponens** ([έρχομαι]{lang="el"}). Frag: Wer
+  handelt?
+- **Präsens** in drei Mustern: [βρίσκομαι]{lang="el"}, [κουνιέμαι]{lang="el"} (von
+  [-άω]{lang="el"}), [θεωρούμαι]{lang="el"} (von [-ώ]{lang="el"}, meist [θεωρείται]{lang="el"}).
+- **Aorist** vom Aktiv-Aorist aus: [-σα → -στηκα, -ψα → -φτηκα, -ξα → -χτηκα, -ησα → -ήθηκα,
+  -ωσα → -ώθηκα]{lang="el"}; drittletzte Silbe, kein Augment. Ausreißer:
+  [βρέθηκα, χάθηκα, πλύθηκα, ντύθηκα, σώθηκα]{lang="el"}; zu [κάνω]{lang="el"} gehört
+  [γίνομαι]{lang="el"}.
+- **Futur, [να]{lang="el"}-Form:** [θα βρεθώ, να γραφτεί]{lang="el"}, betont auf der Endung;
+  Film [θα βρίσκομαι]{lang="el"}.
+- **Imperfekt:** betontes [-ό-]{lang="el"} + Endungen von [ήμουν]{lang="el"}:
+  [βρισκόμουν, κουνιόταν]{lang="el"}; sie-Form [βρίσκονταν, κουνιόνταν, χρησιμοποιούνταν]{lang="el"}.
+- **Dokumentationston:** Passiv ohne Täter, [λέγεται/πιστεύεται ότι]{lang="el"}, gehobene
+  Formen mit [θ]{lang="el"} ([ανακαλύφθηκε]{lang="el"}). Im Gespräch lieber aktiv:
+  [τον βρήκαν]{lang="el"}.
+
+| Aktiv | Aorist | Mediopassiv | Aorist |
+|---|---|---|---|
+| [βρίσκω]{lang="el"} | [βρήκα]{lang="el"} | [βρίσκομαι]{lang="el"} | [βρέθηκα]{lang="el"} |
+| [γράφω]{lang="el"} | [έγραψα]{lang="el"} | [γράφομαι]{lang="el"} | [γράφτηκα]{lang="el"} |
+| [φτιάχνω]{lang="el"} | [έφτιαξα]{lang="el"} | [φτιάχνομαι]{lang="el"} | [φτιάχτηκα]{lang="el"} |
+| [αγαπάω]{lang="el"} | [αγάπησα]{lang="el"} | [αγαπιέμαι]{lang="el"} | [αγαπήθηκα]{lang="el"} |
+| [χρησιμοποιώ]{lang="el"} | [χρησιμοποίησα]{lang="el"} | [χρησιμοποιούμαι]{lang="el"} | [χρησιμοποιήθηκα]{lang="el"} |
+| [κάνω]{lang="el"} | [έκανα]{lang="el"} | [γίνομαι]{lang="el"} | [έγινα]{lang="el"} |
+
+## Zum Lesen: der Computer vom Meeresgrund {#sec-passiv-lesetext}
+
+Was nach 1902 aus den Bronzebrocken wurde. Lies den Text einmal ganz, dann mit Wortschatz, dann
+mit ▶.
+
+::: {lang="el"}
+**Ο υπολογιστής από τον βυθό**
+
+Τον Μάιο του 1902 ο αρχαιολόγος Βαλέριος Στάης κοίταζε τα ευρήματα από τα Αντικύθηρα. Ένα
+κομμάτι χαλκού είχε σπάσει, και μέσα φαινόταν ένας μικρός τροχός με δόντια. Γρανάζι; Σε ένα
+αρχαίο ναυάγιο; Πολλοί δεν τον πίστεψαν.
+
+Για πενήντα χρόνια ο μηχανισμός ήταν ένα αίνιγμα. Άλλοι θεωρούσαν ότι ήταν αστρολάβος, άλλοι
+ότι ήταν ρολόι. Τη δεκαετία του 1970 τα κομμάτια εξετάστηκαν με ακτίνες Χ, και μετρήθηκαν τα
+δόντια των γραναζιών. Το 2005 μια ομάδα επιστημόνων έφερε στο μουσείο έναν
+τομογράφο οκτώ τόνων. Τώρα φάνηκαν γρανάζια που ήταν κρυμμένα μέσα στον χαλκό, και διαβάστηκαν
+χιλιάδες γράμματα: ένα ολόκληρο εγχειρίδιο, γραμμένο πάνω στη μηχανή.
+
+Πώς λειτουργούσε; Ο χρήστης γύριζε μια μανιβέλα στο πλάι. Μπροστά κινούνταν δείκτες για τον
+ήλιο και τη σελήνη, και μια μικρή μπάλα, μισή ασημένια και μισή μαύρη, έδειχνε τις φάσεις της
+σελήνης. Πίσω υπήρχαν δύο μεγάλες σπείρες: η μία ήταν ημερολόγιο, η άλλη προέβλεπε εκλείψεις.
+Ένας μικρός δείκτης έδειχνε ακόμα και πότε γίνονταν οι Ολυμπιακοί Αγώνες.
+
+Ποιος τον κατασκεύασε; Τα ονόματα των μηνών στο ημερολόγιο είναι κορινθιακά. Γι’ αυτό πολλοί
+πιστεύουν ότι φτιάχτηκε σε μια αποικία της Κορίνθου, ίσως στις Συρακούσες, την πόλη του
+Αρχιμήδη. Άλλοι σκέφτονται τη Ρόδο, όπου δούλευε ο αστρονόμος Ίππαρχος. Η απάντηση δεν έχει
+βρεθεί ακόμα.
+
+Ένα είναι σίγουρο: από τα επόμενα χίλια χρόνια δε σώθηκε τίποτα παρόμοιο. Τόσο μικρά
+γρανάζια ξαναφάνηκαν στην Ευρώπη στα αστρονομικά ρολόγια του Μεσαίωνα. Και στα Αντικύθηρα οι
+δύτες ψάχνουν ακόμα. Ποιος ξέρει τι θα βρεθεί;
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+- **Datierung und Herkunft** sind umstritten. Das Wrack wird meist ins zweite Viertel des
+  1. Jahrhunderts v. Chr. gesetzt; für den Bau des Mechanismus reichen die Vorschläge vom späten
+  3. bis ins 1. Jahrhundert v. Chr. Korinthische Monatsnamen gelten als gesichert, Syrakus und
+  Rhodos sind Hypothesen.
+- **Was die Vorderseite zeigte**, ist teils rekonstruiert. Sonne, Mond und Mondphase gelten als
+  gesichert; die Planetenanzeige stützt sich auf Inschriften und Rekonstruktionen, nicht auf
+  erhaltene Zahnräder. Auch die Kurbel ist erschlossen, nicht gefunden.
+- **„Tausend Jahre nichts“** gilt für erhaltene Geräte. Schriftquellen erwähnen Himmelsgloben
+  (Cicero schreibt sie Archimedes zu), und aus Byzanz und der islamischen Welt sind einfachere
+  Kalender mit Zahnrädern bekannt.
+- **„Computer“** ist ein Vergleich: ein mechanisches Rechengerät, das mit Zahnrädern
+  astronomische Zyklen nachbildet, kein programmierbares Gerät.
+
+Zum Nachlesen: Jo Marchant, *Decoding the Heavens* (2008), und die Veröffentlichungen des
+Antikythera Mechanism Research Project.
+:::
+
+<!-- CHECK: Lesetext – Stais Mai 1902 und „Stück zerbrochen, Zahnrad sichtbar“; Röntgenaufnahmen 1970er (Price/Karakalos), Buch Price 1974; CT 2005 mit ca. 8-t-Gerät (X-Tek „Bladerunner“); Mondphasenkugel halb silbern/halb schwarz; Olympiaden-Anzeige; Monatsnamen korinthisch; Hipparchos auf Rhodos; mittelalterliche astronomische Uhren (14. Jh.) als nächste vergleichbare Getriebe; Suche vor Antikythera läuft weiter („Return to Antikythera“ seit 2012/2014) -->
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [κοιτάζω, κοίταξα]{lang="el"} | anschauen (Kapitel 2) |
+| [είχε σπάσει]{lang="el"} | war zerbrochen (Plusquamperfekt, Kapitel 14) |
+| [το αίνιγμα]{lang="el"} | das Rätsel |
+| [ο αστρολάβος]{lang="el"} | das Astrolabium |
+| [το ρολόι, τα ρολόγια]{lang="el"} | die Uhr |
+| [η δεκαετία]{lang="el"} | das Jahrzehnt |
+| [εξετάζω, εξετάστηκε]{lang="el"} | untersuchen |
+| [οι ακτίνες Χ]{lang="el"} | die Röntgenstrahlen |
+| [μετράω, μετρήθηκε]{lang="el"} | messen (Kapitel 2) |
+| [η ομάδα]{lang="el"} | die Gruppe, das Team |
+| [ο επιστήμονας]{lang="el"} | der Wissenschaftler |
+| [ο τομογράφος]{lang="el"} | der Computertomograf |
+| [ο τόνος]{lang="el"} | die Tonne; auch: der Akzent (Kapitel 1) |
+| [κρυμμένος, -η, -ο]{lang="el"} | versteckt (Partizip, Kapitel 19) |
+| [το εγχειρίδιο]{lang="el"} | die Gebrauchsanleitung, das Handbuch |
+| [γραμμένος, -η, -ο]{lang="el"} | geschrieben (Partizip, Kapitel 19) |
+| [λειτουργώ, λειτουργούσε]{lang="el"} | funktionieren |
+| [ο χρήστης]{lang="el"} | der Benutzer |
+| [στο πλάι]{lang="el"} | an der Seite |
+| [ο δείκτης]{lang="el"} | der Zeiger |
+| [η μπάλα]{lang="el"} | die Kugel, der Ball |
+| [ασημένιος, -α, -ο]{lang="el"} | silbern (Kapitel 2) |
+| [η φάση]{lang="el"} | die Phase |
+| [η σπείρα]{lang="el"} | die Spirale |
+| [το ημερολόγιο]{lang="el"} | der Kalender; das Tagebuch |
+| [προβλέπω, πρόβλεψα]{lang="el"} | vorhersagen; [προέβλεπε]{lang="el"} sagte vorher (gehobenes Augment, Kapitel 2) |
+| [οι Ολυμπιακοί Αγώνες]{lang="el"} | die Olympischen Spiele |
+| [κορινθιακός, -ή, -ό]{lang="el"} | korinthisch |
+| [η αποικία]{lang="el"} | die Kolonie |
+| [ο αστρονόμος]{lang="el"} | der Astronom |
+| [δεν έχει βρεθεί]{lang="el"} | ist nicht gefunden worden (Perfekt, Kapitel 14) |
+| [παρόμοιος, -α, -ο]{lang="el"} | ähnlich |
+| [ξαναφαίνομαι, ξαναφάνηκα]{lang="el"} | wieder auftauchen ([ξανα-]{lang="el"} = wieder) |
+| [ο Μεσαίωνας]{lang="el"} | das Mittelalter |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Der Computer vom Meeresgrund**
+
+Im Mai 1902 sah sich der Archäologe Valerios Stais die Funde von Antikythera an. Ein Stück
+Bronze war zerbrochen, und darin sah man ein kleines Rad mit Zähnen. Ein Zahnrad? In einem
+antiken Wrack? Viele glaubten ihm nicht.
+
+Fünfzig Jahre lang war der Mechanismus ein Rätsel. Manche hielten ihn für ein Astrolabium,
+andere für eine Uhr. In den 1970er-Jahren wurden die Fragmente mit Röntgenstrahlen untersucht,
+und die Zähne der Zahnräder wurden gezählt. 2005 brachte ein Team von
+Wissenschaftlern einen acht Tonnen schweren Computertomografen ins Museum. Jetzt wurden
+Zahnräder sichtbar, die im Metall verborgen waren, und Tausende Buchstaben wurden gelesen: eine
+ganze Gebrauchsanleitung, auf das Gerät selbst geschrieben.
+
+Wie funktionierte er? Der Benutzer drehte eine Kurbel an der Seite. Vorn bewegten sich Zeiger
+für Sonne und Mond, und eine kleine Kugel, halb silbern, halb schwarz, zeigte die Mondphasen.
+Hinten gab es zwei große Spiralen: Die eine war ein Kalender, die andere sagte Finsternisse
+voraus. Ein kleiner Zeiger zeigte sogar an, wann die Olympischen Spiele stattfanden.
+
+Wer hat ihn gebaut? Die Monatsnamen im Kalender sind korinthisch. Deshalb glauben viele, dass
+er in einer Kolonie Korinths gebaut wurde, vielleicht in Syrakus, der Stadt des Archimedes.
+Andere denken an Rhodos, wo der Astronom Hipparchos arbeitete. Die Antwort ist noch nicht
+gefunden.
+
+Eines ist sicher: Aus den folgenden tausend Jahren ist nichts Vergleichbares erhalten. So kleine
+Zahnräder tauchten in Europa erst in den astronomischen Uhren des Mittelalters wieder auf. Und
+vor Antikythera suchen die Taucher noch immer. Wer weiß, was noch gefunden wird?
+:::
+
+<!-- EXERCISE: 13.8 Lesetext: Teil A richtig/falsch aus dem griechischen Text (Stais erkannte das Zahnrad; Röntgen 1970er; CT 2005 brachte Inschriften; Vorderseite Kalender? nein Rückseite; Hersteller bekannt? nein; nichts Vergleichbares für 1000 Jahre); Teil B Mediopassiv-Formen jagen und bestimmen (Zeit + Bedeutung passiv/reflexiv/reziprok/Deponens: φαινόταν, εξετάστηκαν, μετρήθηκαν, φάνηκαν, διαβάστηκαν, κινούνταν, γίνονταν, φτιάχτηκε, σκέφτονται, κατασκευάστηκε, ξαναφάνηκαν, θα βρεθεί); Teil C laut lesen: μηχανισμός, ναυάγιο, φεγγάρι, εγχειρίδιο, αστρονόμος, αίνιγμα; Schwierigkeit 2 -->
