@@ -123,6 +123,7 @@ wie etwas war und wie es geschah.
 | [το καράβι]{lang="el"} | das Schiff (Kapitel 3) |
 | [το ζώο]{lang="el"} | das Tier |
 | [ανάποδα]{lang="el"} | andersherum, verkehrt herum |
+| [κατεβαίνοντας, ανεβαίνοντας]{lang="el"} | bergab, bergauf; beim Abstieg, beim Aufstieg |
 :::
 
 ## Das Partizip: [γραμμένος, κουρασμένος]{lang="el"} {#sec-partizip-bildung}
@@ -461,6 +462,10 @@ teilen: [*L’appétit vient en mangeant*]{lang="fr"}, [Τρώγοντας έρ�
 Die griechische Grammatik nennt die Form [μετοχή ενεστώτα]{lang="el"}, Partizip Präsens; dieses
 Buch sagt „Gerundium“, weil sie sich nie verändert.
 
+Im Gespräch hörst du vor allem eine Handvoll fester Formen wie [τρέχοντας, πηγαίνοντας,
+γυρίζοντας]{lang="el"}; in Erzählung und Presse ist das Gerundium viel häufiger. Bilden solltest
+du es bei den gängigen Verben können, erkennen bei allen.
+
 ### Bildung {#sec-partizip-gerundium-bildung}
 
 Das Gerundium kommt aus dem **imperfektiven Stamm**. Es ist Film, nie Foto: Es zeigt eine
@@ -478,10 +483,9 @@ Handlung, während sie läuft.
 Kein Augment, keine Endung für Person, Zahl oder Genus: [περπατώντας]{lang="el"} passt zu „ich“,
 „sie“ und „die ganze Gruppe“. Auch Verben ohne perfektiven Stamm haben eins:
 [ξέροντας, έχοντας]{lang="el"}, gehoben sogar [όντας]{lang="el"} „seiend“ von [είμαι]{lang="el"}.
-Verben auf [-μαι]{lang="el"} dagegen haben keins; dort hilft ein Satz mit [ενώ]{lang="el"}
-„während“ (Kapitel 4): [Ενώ κατέβαινα, φοβόμουν συνέχεια.]{lang="el"}
-
-<!-- CHECK: Gerundium von Verben auf -μαι: Stimmt „haben keins“ als Lernerregel? Umgangssprachlich kommt καθώντας (von κάθομαι) vor; ggf. als Ausnahme nennen. -->
+Verben auf [-μαι]{lang="el"} haben in der Standardsprache keins (umgangssprachlich und in
+Liedern vereinzelt [καθώντας]{lang="el"} oder [κάθοντας]{lang="el"} von [κάθομαι]{lang="el"}). Dort hilft ein Satz mit
+[ενώ]{lang="el"} „während“ (Kapitel 4): [Ενώ κατέβαινα, φοβόμουν συνέχεια.]{lang="el"}
 
 ### Was es bedeutet {#sec-partizip-gerundium-bedeutung}
 
@@ -499,9 +503,8 @@ Je nach Zusammenhang heißt dasselbe Gerundium „wie“, „während“ oder �
 Das Subjekt des Gerundiums ist fast immer das Subjekt des Satzes: Wer [ανεβαίνοντας]{lang="el"}
 etwas sieht, ist auch der, der hinaufsteigt.
 
-Einige Gerundien sind feste Wendungen, die du in jedem Gespräch hörst: [τρέχοντας]{lang="el"}
-„in aller Eile“, [πηγαίνοντας]{lang="el"} „auf dem Hinweg“ und [γυρίζοντας]{lang="el"} „auf dem
-Rückweg“.
+Die festen Wendungen aus dem Gespräch: [τρέχοντας]{lang="el"} „in aller Eile“,
+[πηγαίνοντας]{lang="el"} „auf dem Hinweg“ und [γυρίζοντας]{lang="el"} „auf dem Rückweg“.
 
 ::: {.callout-warning}
 ## Achtung
@@ -515,7 +518,9 @@ Spanisch und Englisch verführen zu drei Sätzen, die es nicht gibt:
   περπατάω.]{lang="el"} oder [Μου αρέσει το περπάτημα.]{lang="el"}, nie \*[μου αρέσει
   περπατώντας]{lang="el"}.
 - **Nicht nach [θέλω, μπορώ, πρέπει]{lang="el"}:** Dort steht die [να]{lang="el"}-Form
-  (Kapitel 5).
+  (Kapitel 5). Wer „ich will wandern“ mit dem Infinitiv im Ohr bildet, landet bei
+  \*[Θέλω περπατώντας]{lang="el"}; richtig ist [Θέλω να περπατήσω.]{lang="el"} Ebenso nach
+  Verben wie „weitermachen“: [*sigue lloviendo*]{lang="es"} ist [Συνεχίζει να βρέχει.]{lang="el"}
 :::
 
 ### Pronomen, Verneinung, [έχοντας]{lang="el"} {#sec-partizip-gerundium-pronomen}
@@ -532,6 +537,9 @@ Pronomen der zweite Akzent aus Kapitel 9 dazu:
 - [ρωτώντας + τον → ρωτώντας τον]{lang="el"} [roˈtodas ton] indem ich ihn fragte; kein zweiter
   Akzent, die Betonung liegt schon auf der vorletzten Silbe
 
+Eine Falle: In [Βλέποντας τον Νίκο, …]{lang="el"} ist [τον]{lang="el"} der Artikel, kein Pronomen.
+Dann gibt es keinen zweiten Akzent, denn der Artikel gehört zum Nomen, nicht zum Verb.
+
 Verneint wird das Gerundium mit [μη(ν)]{lang="el"}, nicht mit [δεν]{lang="el"}:
 [Μην ξέροντας το μονοπάτι, χαθήκαμε.]{lang="el"} „Weil wir den Weg nicht kannten, verliefen
 wir uns.“
@@ -546,7 +554,8 @@ klingt etwas gehoben; im Gespräch sagt man es mit einem Nebensatz (Kapitel 16).
 
 - **Bildung:** imperfektiver Stamm + [-οντας]{lang="el"} (Betonung bleibt) oder, bei
   [-άω/-ώ]{lang="el"}, [-ώντας]{lang="el"}. [λέγοντας, τρώγοντας, πηγαίνοντας]{lang="el"}.
-  Unveränderlich; Verben auf [-μαι]{lang="el"} haben keins.
+  Unveränderlich; Verben auf [-μαι]{lang="el"} haben in aller Regel keins (im Gespräch vereinzelt
+  [καθώντας]{lang="el"}).
 - **Bedeutung:** wie, während, wodurch, weil; gleichzeitig mit dem Hauptverb, gleiches Subjekt.
 - **Pronomen dahinter**, bei [-οντας]{lang="el"} mit zweitem Akzent: [λέγοντάς το]{lang="el"}.
   Verneinung mit [μη(ν)]{lang="el"}.
@@ -565,7 +574,7 @@ sagst du stattdessen „während ich kam“?
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Zwei Endungen: [-οντας]{lang="el"} an den Präsensstamm, Betonung bleibt, wo sie im Präsens war;
+Zwei Endungen: [-οντας]{lang="el"} an den imperfektiven Stamm, Betonung bleibt, wo sie im Präsens war;
 bei [-άω]{lang="el"} die betonte Endung [-ώντας]{lang="el"}.
 :::
 
@@ -607,7 +616,7 @@ Gerundium.
 
 1. [Κατεβήκαμε. Όλη την ώρα τραγουδούσαμε.]{lang="el"}
 2. [Ενώ περπατούσαμε στο φαράγγι, μιλούσαμε για φαγητό.]{lang="el"}
-3. [Η Ελένη είδε τον Νίκο στο καταφύγιο και φώναξε: «Ζωντανός είσαι;»]{lang="el"}
+3. [Ο Νίκος έφτασε στο καταφύγιο. Η Ελένη τον είδε και φώναξε: «Ζωντανός είσαι;»]{lang="el"}
 4. [Ενώ το έλεγε, γελούσε.]{lang="el"}
 5. [Επειδή δεν ξέραμε το μονοπάτι, χαθήκαμε.]{lang="el"}
 
@@ -643,11 +652,13 @@ griechischen Wörtern, zwei haben ein Problem mit dem Pronomen.
 
 1. [Κατεβήκαμε τραγουδώντας.]{lang="el"}
 2. [Περπατώντας στο φαράγγι, μιλούσαμε για φαγητό.]{lang="el"}
-3. [Βλέποντάς τον στο καταφύγιο, η Ελένη φώναξε: «Ζωντανός είσαι;»]{lang="el"}
+3. [Ο Νίκος έφτασε στο καταφύγιο. Βλέποντάς τον, η Ελένη φώναξε: «Ζωντανός είσαι;»]{lang="el"}
 4. [Γελούσε λέγοντάς το.]{lang="el"} oder [Λέγοντάς το, γελούσε.]{lang="el"}
 5. [Μην ξέροντας το μονοπάτι, χαθήκαμε.]{lang="el"}
 
-Das Gerundium kann vorn (mit Komma) oder hinten stehen. Bei 3 und 4 nicht \*[βλέποντας τον]{lang="el"}: drittletzte Silbe betont, also zweiter Akzent.
+Das Gerundium kann vorn (mit Komma) oder hinten stehen. Bei 3 nicht \*[βλέποντας τον]{lang="el"}
+(als Pronomen), bei 4 nicht \*[λέγοντας το]{lang="el"}: drittletzte Silbe betont, also zweiter
+Akzent.
 
 **Teil B: Richtig ist 6.** [ρωτώντας]{lang="el"} ist auf der vorletzten Silbe betont, deshalb
 kein zweiter Akzent. Wer \*[ρωτώντάς τον]{lang="el"} erwartet hat, hat die Regel zu weit
@@ -672,10 +683,7 @@ ausgedehnt.
 | [τρέχοντας]{lang="el"} | [ˈtrexodas] | rennend; in aller Eile |
 | [πηγαίνοντας]{lang="el"} | [piˈʝenodas] | auf dem Hinweg |
 | [γυρίζοντας]{lang="el"} | [ʝiˈrizodas] | auf dem Rückweg |
-| [λέγοντας]{lang="el"} | [ˈleɣodas] | sagend, indem man sagt |
 | [κλαίω, έκλαψα; κλαίγοντας]{lang="el"} | [ˈkleo], [ˈeklapsa]; [ˈkleɣodas] | weinen; weinend |
-| [γελώντας]{lang="el"} | [ʝeˈlodas] | lachend |
-| [ανεβαίνοντας, κατεβαίνοντας]{lang="el"} | [aneˈvenodas], [kateˈvenodas] | beim Aufstieg, beim Abstieg |
 | [Τρώγοντας έρχεται η όρεξη.]{lang="el"} | [ˈtroɣodas ˈerçete i ˈoreksi] | Der Appetit kommt beim Essen. |
 | [η όρεξη]{lang="el"} | [i ˈoreksi] | der Appetit; die Lust |
 | [τρέχω, έτρεξα]{lang="el"} | [ˈtrexo], [ˈetreksa] | rennen, laufen |
@@ -699,9 +707,9 @@ Menschen bringt der Hör-Auftrag am Ende des Abschnitts.
 
 Mikro Papingo im Zagori, im Nordwesten Griechenlands, an einem Samstagabend im Juni. Auf dem
 Platz sitzt ein Wanderer, der gerade vom Berg kommt. Jemand fragt ihn nach dem Weg zur
-Drakolimni, dem „Drachensee“ auf dem Tymfi-Massiv. Vier Wörter vorab: [η πινακίδα]{lang="el"}
-das Schild, [το λιβάδι]{lang="el"} die Wiese, [ο τρίτωνας]{lang="el"} der Molch,
-[ο δράκος]{lang="el"} der Drache. Erst hören, dann lesen:
+Drakolimni, dem „Drachensee“ auf dem Tymfi-Massiv. Sechs Wörter vorab: [η πινακίδα]{lang="el"}
+das Schild, [η πηγή]{lang="el"} die Quelle, [το λιβάδι]{lang="el"} die Wiese, [η κορυφή]{lang="el"}
+der Gipfel, [ο τρίτωνας]{lang="el"} der Molch, [ο δράκος]{lang="el"} der Drache. Erst hören, dann lesen:
 
 ::: {lang="el" .listen}
 — Συγγνώμη, για τη Δρακόλιμνη από πού ξεκινάει το μονοπάτι;
@@ -711,8 +719,8 @@ das Schild, [το λιβάδι]{lang="el"} die Wiese, [ο τρίτωνας]{lang
 
 — Πόση ώρα θέλει;
 
-— Μέχρι το καταφύγιο, τρεις ώρες ανεβαίνοντας. Εκεί γεμίζετε νερό στην πηγή. Από το καταφύγιο
-είναι άλλη μια ώρα: κατεβαίνετε σε ένα λιβάδι και ξανανεβαίνετε.
+— Μέχρι το καταφύγιο, τρεις ώρες ανεβαίνοντας. Στον δρόμο υπάρχουν πηγές, γεμίζετε νερό. Από
+το καταφύγιο είναι άλλη μιάμιση ώρα: κατεβαίνετε σε ένα λιβάδι και ξανανεβαίνετε.
 
 — Είναι δύσκολο;
 
@@ -741,7 +749,7 @@ das Schild, [το λιβάδι]{lang="el"} die Wiese, [ο τρίτωνας]{lang
 Hör mit ▶, ohne den Text aufzuklappen.
 
 **Teil A.** Bring die Stationen in die richtige Reihenfolge: **(a)** Wiese · **(b)** See ·
-**(c)** Kirche · **(d)** Hütte mit Quelle · **(e)** Schild. Wie lange geht man bis zur Hütte, wie
+**(c)** Kirche · **(d)** Hütte · **(e)** Schild. Wie lange geht man bis zur Hütte, wie
 lange von dort bis zum See?
 
 **Teil B.** Richtig oder falsch?
@@ -754,7 +762,7 @@ lange von dort bis zum See?
 
 **Teil C.** Zweiter Durchgang: Zähl die Gerundien ([-odas]) und die Partizipien ([-ˈmeno]).
 
-Im Chat im Format „a b c d e, 2/2; 1r, 2f, …; 3 und 3“.
+Im Chat im Format „Reihenfolge, x/y Stunden; 1r, 2f, …; x Gerundien und y Partizipien“.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -767,15 +775,16 @@ Gerundien, eins für hinauf, eins für hinunter.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Ein Gerundium hat ein Pronomen hinter sich, ein anderes steht am Satzanfang. Nicht jedes Wort auf
-[-ato] oder [-eno] ist ein Partizip: Betont sein muss [ˈme].
+Ein Gerundium hat ein Pronomen hinter sich, ein anderes steht am Satzanfang. Nicht jedes Adjektiv ist
+ein Partizip: Ein Wort auf [-ato] zählt nicht, betont sein muss [ˈme].
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
 **Teil A: c, e, d, a, b.** Hinter der Kirche los, am Dorfausgang das Schild, drei Stunden bis zur
-Hütte ([τρεις ώρες ανεβαίνοντας]{lang="el"}), dann noch eine Stunde, über eine Wiese hinunter und
+Hütte ([τρεις ώρες ανεβαίνοντας]{lang="el"}), dann noch anderthalb Stunden
+([άλλη μιάμιση ώρα]{lang="el"}), über eine Wiese hinunter und
 wieder hinauf zum See.
 
 **Teil B**
@@ -795,7 +804,6 @@ ohne zweiten Akzent, weil [-ώντας]{lang="el"} auf der vorletzten Silbe beto
 Partizip: kein [-ˈme-].
 :::
 
-<!-- CHECK: Route Mikro Papingo – Astraka-Hütte (ca. 1950 m) – Drakolimni Tymfi (ca. 2050 m): Gehzeiten rund 3 h bis zur Hütte und 1 h weiter (mit Abstieg in die Lakka Tsoumani und Wiederaufstieg), Quelle am Weg bzw. bei der Hütte, Alpenmolche im See, Legende vom Drachenkampf Tymfi–Smolikas mit geworfenen Felsen. -->
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -807,8 +815,8 @@ Sie den Markierungen; der Weg ist gut markiert.
 
 — Wie lange braucht man?
 
-— Bis zur Hütte drei Stunden bergauf. Dort füllen Sie Wasser an der Quelle auf. Von der Hütte
-ist es noch eine Stunde: Sie steigen in eine Wiese ab und wieder hinauf.
+— Bis zur Hütte drei Stunden bergauf. Unterwegs gibt es Quellen, da füllen Sie Wasser
+auf. Von der Hütte sind es noch anderthalb Stunden: Sie steigen in eine Wiese ab und wieder hinauf.
 
 — Ist es schwer?
 
@@ -842,6 +850,7 @@ samstags ist sie immer voll.
 | [Πόση ώρα θέλει;]{lang="el"} | Wie lange braucht man? (umg.) |
 | [γεμίζω]{lang="el"} | füllen (Kapitel 9) |
 | [ξανανεβαίνω]{lang="el"} | wieder hinaufsteigen ([ξανα-]{lang="el"}, Kapitel 14) |
+| [λέγοντας]{lang="el"} | sagend, indem man sagt |
 | [τραγουδώντας]{lang="el"} | singend |
 | [ο τρίτωνας]{lang="el"} | der Molch (hier der Alpenmolch) |
 | [πολεμάω]{lang="el"} | kämpfen, Krieg führen |
@@ -923,22 +932,30 @@ Fehlen dir viele Partizipien, hör auf die Betonung: [ˈme] ist die lauteste Sil
 
 ## Das Wichtigste {#sec-partizip-wichtigste}
 
+**Zum aktiven Gebrauch:**
+
 - Das **Partizip auf [-μένος]{lang="el"}** kommt vom Mediopassiv-Aorist: [-θηκα/-τηκα]{lang="el"}
   weg, [-μένος]{lang="el"} dran, [φ → μ, χ → γ]{lang="el"}: [κουρασμένος, γραμμένος,
-  ανοιγμένος, αγαπημένος, χαμένος]{lang="el"}. Betonung immer auf [-μέ-]{lang="el"}. Eigene
-  Wege: [βρεγμένος, καμένος, πεθαμένος]{lang="el"}.
+  ανοιγμένος, αγαπημένος, χαμένος]{lang="el"}. Betonung immer auf [-μέ-]{lang="el"}. Abkürzung
+  über den Aktiv-Aorist, etwa [έβρεξα → βρεγμένος]{lang="el"}. Eigene Wege:
+  [καμένος, πεθαμένος]{lang="el"}.
 - Es ist ein **Adjektiv** ([-μένος, -μένη, -μένο]{lang="el"}): vor oder hinter dem Nomen, nach
   [είμαι]{lang="el"}, in Schlagzeilen. Viele Gefühle sind Partizipien: [κουρασμένος,
   θυμωμένος, ερωτευμένος]{lang="el"}.
 - **Zustand oder Ereignis:** [είναι κλειδωμένη]{lang="el"} gegen [κλειδώθηκε]{lang="el"}; im
-  Alltag [κλειστός, ανοιχτός]{lang="el"}. [έχω]{lang="el"} + Partizip: [Τα έχω
+  Alltag [κλειστός, ανοιχτός]{lang="el"}. [έχω]{lang="el"} + Partizip, nach dem Objekt: [Τα έχω
   κλεισμένα.]{lang="el"}
-- Das **Gerundium** ist unveränderlich, kommt vom imperfektiven Stamm und bedeutet wie, während,
-  wodurch, weil: [-οντας]{lang="el"} ([γράφοντας, λέγοντας, πηγαίνοντας]{lang="el"}) oder
-  [-ώντας]{lang="el"} ([περπατώντας]{lang="el"}). Keine Verlaufsform, kein Nomen, keine Form von
-  Verben auf [-μαι]{lang="el"}.
-- **Pronomen dahinter** mit zweitem Akzent: [λέγοντάς το]{lang="el"}; Verneinung
-  [μην ξέροντας]{lang="el"}; gehoben [έχοντας περπατήσει]{lang="el"} „nachdem …“.
+- Das **Gerundium** der gängigen Verben ist unveränderlich, kommt vom imperfektiven Stamm und
+  bedeutet wie, während, wodurch, weil: [-οντας]{lang="el"} ([γράφοντας, λέγοντας,
+  πηγαίνοντας]{lang="el"}) oder [-ώντας]{lang="el"} ([περπατώντας]{lang="el"}). Keine
+  Verlaufsform, kein Nomen. Verben auf [-μαι]{lang="el"} haben in aller Regel keins (im Gespräch
+  vereinzelt [καθώντας]{lang="el"}).
+- **Pronomen dahinter**, bei [-οντας]{lang="el"} mit zweitem Akzent: [λέγοντάς το]{lang="el"};
+  Verneinung [μην ξέροντας]{lang="el"}.
+
+**Zum Erkennen:** [έχοντας]{lang="el"} + Form auf [-ει]{lang="el"} „nachdem …“
+([έχοντας περπατήσει]{lang="el"}), [όντας]{lang="el"} „seiend“ und die gelehrten Partizipien auf
+[-όμενος]{lang="el"} ([ο επόμενος, ο ενδιαφερόμενος]{lang="el"}).
 
 ## Zum Lesen: zwei Schluchten {#sec-partizip-lesetext}
 
@@ -958,17 +975,17 @@ Wanderschuh getragen hat. Lies den Text einmal ganz, dann mit Wortschatz, dann m
 κάτοικοι έφυγαν. Σήμερα τα σπίτια είναι άδεια, και ανάμεσά τους κυκλοφορούν ελεύθερα τα κρι-κρι,
 οι αγριοκατσίκες της Κρήτης.
 
-Περπατώντας τρεις με τέσσερις ώρες, φτάνεις στις Πόρτες. Εκεί οι δύο τοίχοι του φαραγγιού
-απέχουν μόνο τρία με τέσσερα μέτρα, και πάνω από το κεφάλι σου υψώνονται εκατοντάδες μέτρα
-βράχος. Βγαίνοντας από το φαράγγι, οι περισσότεροι φτάνουν στην Αγία Ρουμέλη κουρασμένοι αλλά
+Περπατώντας τέσσερις με πέντε ώρες, φτάνεις στις Πόρτες. Εκεί τα δύο τοιχώματα του φαραγγιού
+απέχουν μόνο τρία με τέσσερα μέτρα, και πάνω από το κεφάλι σου υψώνονται βράχια εκατοντάδων
+μέτρων. Βγαίνοντας από το φαράγγι, οι περισσότεροι φτάνουν στην Αγία Ρουμέλη κουρασμένοι αλλά
 ευτυχισμένοι. Εκεί δεν υπάρχει δρόμος· φεύγεις με το καράβι.
 
 Στην άλλη άκρη της χώρας, στην Ήπειρο, η Πίνδος κρύβει ένα άλλο φαράγγι: τον Βίκο. Είναι πιο
 ήσυχος από τη Σαμαριά και πολύ πιο βαθύς. Γύρω του βρίσκονται τα Ζαγοροχώρια, σαράντα έξι
 χωριά χτισμένα από πέτρα, με πέτρινα γεφύρια και σκεπές από πλάκες. Το 2023 το Ζαγόρι γράφτηκε
-στον κατάλογο της UNESCO.
+στον κατάλογο παγκόσμιας κληρονομιάς της UNESCO.
 
-Στον πάτο του φαραγγιού τρέχει ο Βοϊδομάτης, ένα ποτάμι με νερό καθαρό σαν γυαλί και παγωμένο
+Στον πάτο του φαραγγιού τρέχει ο Βοϊδομάτης, ένα ποτάμι με νερό καθαρό σαν κρύσταλλο και παγωμένο
 ακόμα και τον Αύγουστο. Όποιος βάζει τα πόδια του μέσα, τα βγάζει τρέχοντας.
 
 Ποιο φαράγγι είναι το καλύτερο; Οι Κρητικοί λένε τη Σαμαριά, οι Ηπειρώτες τον Βίκο. Ένα είναι
@@ -988,8 +1005,10 @@ Wanderschuh getragen hat. Lies den Text einmal ganz, dann mit Wortschatz, dann m
 | [διάσημος, -η, -ο]{lang="el"} | berühmt (Kapitel 15) |
 | [η Οσία Μαρία]{lang="el"} | die heilige Maria (von Ägypten) |
 | [ο κάτοικος]{lang="el"} | der Einwohner (Kapitel 14) |
+| [άδειος, -α, -ο]{lang="el"} | leer (Kapitel 16) |
 | [κυκλοφορώ]{lang="el"} | sich bewegen, unterwegs sein |
 | [η αγριοκατσίκα]{lang="el"} | die Wildziege |
+| [το τοίχωμα]{lang="el"} | die Wand (einer Schlucht, eines Gefäßes) |
 | [απέχω]{lang="el"} | entfernt sein |
 | [υψώνομαι]{lang="el"} | aufragen |
 | [η άκρη]{lang="el"} | das Ende, der Rand |
@@ -999,8 +1018,9 @@ Wanderschuh getragen hat. Lies den Text einmal ganz, dann mit Wortschatz, dann m
 | [η σκεπή]{lang="el"} | das Dach |
 | [η πλάκα]{lang="el"} | die Steinplatte |
 | [ο κατάλογος]{lang="el"} | die Liste |
+| [η παγκόσμια κληρονομιά]{lang="el"} | das Welterbe |
 | [ο πάτος]{lang="el"} | der Grund, der Boden |
-| [το γυαλί]{lang="el"} | das Glas |
+| [το κρύσταλλο]{lang="el"} | der Kristall |
 | [όποιος]{lang="el"} | wer (auch immer) (Kapitel 15) |
 | [ο Κρητικός]{lang="el"} | der Kreter |
 | [ο Ηπειρώτης]{lang="el"} | der Epirote, Mann aus Epirus |
@@ -1020,17 +1040,18 @@ Schlucht. Dort gab es auch ein Dorf, Samaria. 1962 wurde die Gegend Nationalpark
 Bewohner zogen weg. Heute sind die Häuser leer, und zwischen ihnen laufen frei die Kri-Kris
 herum, die Wildziegen Kretas.
 
-Nach drei bis vier Stunden Gehen erreichst du die Portes. Dort liegen die beiden Wände der
-Schlucht nur drei bis vier Meter auseinander, und über deinem Kopf ragen Hunderte Meter Fels auf.
+Nach vier bis fünf Stunden Gehen erreichst du die Portes. Dort liegen die beiden Wände der
+Schlucht nur drei bis vier Meter auseinander, und über deinem Kopf ragen hunderte Meter hohe
+Felsen auf.
 Wenn sie aus der Schlucht kommen, erreichen die meisten Agia Roumeli müde, aber glücklich. Dort
 gibt es keine Straße; man fährt mit dem Schiff weiter.
 
 Am anderen Ende des Landes, in Epirus, versteckt der Pindos eine andere Schlucht: den Vikos. Er
 ist ruhiger als Samaria und viel tiefer. Um ihn herum liegen die Zagorochoria, sechsundvierzig
 Dörfer aus Stein, mit Steinbrücken und Dächern aus Steinplatten. 2023 wurde das Zagori in die
-Liste der UNESCO eingetragen.
+Welterbeliste der UNESCO eingetragen.
 
-Auf dem Grund der Schlucht fließt der Voidomatis, ein Fluss mit Wasser klar wie Glas und eiskalt,
+Auf dem Grund der Schlucht fließt der Voidomatis, ein Fluss mit Wasser klar wie Kristall und eiskalt,
 selbst im August. Wer die Füße hineinhält, zieht sie im Laufschritt wieder heraus.
 
 Welche Schlucht ist die beste? Die Kreter sagen Samaria, die Epiroten Vikos. Eins ist sicher: Die
@@ -1045,13 +1066,13 @@ Wege lernst du beim Gehen kennen, und Griechenland beim Essen am Ende des Tages.
   Maria kommt, ist die gängige Herleitung. Die Schlucht ist nur im Sommerhalbjahr geöffnet und
   wird bei Regen gesperrt.
 - **Vikos:** Er stand einmal im Guinness-Buch als tiefste Schlucht der Welt im Verhältnis zu
-  ihrer Breite. Wie tief er ist, hängt davon ab, wo und von welchem Rand man misst; die Angaben
-  schwanken zwischen einigen hundert Metern und fast einem Kilometer.
-- **Voidomatis** heißt wörtlich „Ochsenauge“ ([το βόδι]{lang="el"} + [το μάτι]{lang="el"}); wie
+  ihrer Breite (900 Meter tief bei 1100 Metern Breite). Wie tief er ist, hängt davon ab, wo und
+  von welchem Rand man misst; an manchen Stellen sind es bis über tausend Meter.
+- **Voidomatis** heißt wörtlich „Ochsenauge“ ([το βόιδι]{lang="el"}, Nebenform [το βόδι]{lang="el"}, + [το μάτι]{lang="el"}); wie
   es zu dem Namen kam, ist nicht sicher.
+- **Zagori:** In die Welterbeliste eingetragen sind 20 der Dörfer, als Kulturlandschaft.
 :::
 
-<!-- CHECK: Samaria: Einstieg Xyloskalo, Öffnung morgens um 7 Uhr, 16 km bis Agia Roumeli (Schlucht ca. 13 km), Portes 3–4 m breit, Gehzeit bis zu den Portes 3–4 h, Nationalpark 1962 und Aussiedlung des Dorfes Samaria, Kirche der Osia Maria (1379). Vikos: Zagori 46 Dörfer, UNESCO-Welterbe „Zagori Cultural Landscape“ 2023 (wörtlich „γράφτηκε στον κατάλογο“ passend?), Guinness-Eintrag. -->
 
 ::: {.callout-note .exercise}
 ## Übung 19.7: Zwei Schluchten, genau gelesen
@@ -1073,7 +1094,7 @@ nach dem es sich richtet, bei jedem Gerundium das Präsens.
 zwei Hauptsätzen:
 
 1. [Βγαίνοντας από το φαράγγι, οι περισσότεροι φτάνουν στην Αγία Ρουμέλη.]{lang="el"}
-2. [Περπατώντας τρεις με τέσσερις ώρες, φτάνεις στις Πόρτες.]{lang="el"}
+2. [Περπατώντας τέσσερις με πέντε ώρες, φτάνεις στις Πόρτες.]{lang="el"}
 3. [Τα μονοπάτια τα μαθαίνεις περπατώντας.]{lang="el"}
 
 Im Chat für Teil A: „1r, 2f, …“.
@@ -1082,7 +1103,8 @@ Im Chat für Teil A: „1r, 2f, …“.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Teil B: sechs Partizipien, fünf Gerundien (eins kommt zweimal vor). Suche nach betontem
+Teil B: sechs Partizipien; fünf Gerundien von vier verschiedenen Verben
+([περπατώντας]{lang="el"} kommt zweimal vor). Suche nach betontem
 [-μέν-]{lang="el"} und nach [-οντας/-ώντας]{lang="el"} ohne Artikel.
 :::
 
@@ -1122,8 +1144,8 @@ Verben im Mediopassiv, sie tragen eine Personalendung. [εκατοντάδες]{
 
 1. [Όταν βγαίνουν από το φαράγγι, οι περισσότεροι φτάνουν στην Αγία Ρουμέλη.]{lang="el"} Das
    Verb im Nebensatz braucht jetzt eine Person: [βγαίνουν]{lang="el"}, wie das Hauptverb.
-2. [Αφού περπατήσεις τρεις με τέσσερις ώρες, φτάνεις στις Πόρτες.]{lang="el"} oder
-   [Περπατάς τρεις με τέσσερις ώρες και φτάνεις στις Πόρτες.]{lang="el"} Mit
+2. [Αφού περπατήσεις τέσσερις με πέντε ώρες, φτάνεις στις Πόρτες.]{lang="el"} oder
+   [Περπατάς τέσσερις με πέντε ώρες και φτάνεις στις Πόρτες.]{lang="el"} Mit
    [ενώ]{lang="el"} käme man während des Gehens an.
 3. [Τα μονοπάτια τα μαθαίνεις όταν τα περπατάς.]{lang="el"} Das Gerundium heißt hier „dadurch,
    dass“; [όταν]{lang="el"} trifft es nur ungefähr.
@@ -1135,7 +1157,6 @@ Verben im Mediopassiv, sie tragen eine Personalendung. [εκατοντάδες]{
 | [η πεζοπορία]{lang="el"} | [i pezopoˈria] | das Wandern, die Wanderung |
 | [το σακίδιο]{lang="el"} | [to saˈciðio] | der Rucksack |
 | [το εθνικό πάρκο]{lang="el"} | [to eθniˈko ˈparko] | der Nationalpark |
-| [άδειος, -α, -ο]{lang="el"} | [ˈaðʝos] | leer |
 | [πέτρινος, -η, -ο]{lang="el"} | [ˈpetrinos] | aus Stein |
 | [χτισμένος, -η, -ο]{lang="el"} | [xtizˈmenos] | gebaut |
 | [το γεφύρι]{lang="el"} | [to ʝeˈfiri] | die (Stein-)Brücke |

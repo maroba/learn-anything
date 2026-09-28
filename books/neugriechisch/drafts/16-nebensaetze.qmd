@@ -755,15 +755,27 @@ verschiebt den Sinn nur leicht.
 
 ## Hörspur: Was hat die Krise verändert? {#sec-nebensatz-hoerspur}
 
-Die ▶-Aufnahmen im Buch sind synthetische Stimmen. Echte Menschen auf der Straße bringt der
-Hör-Auftrag am Ende dieses Abschnitts.
+Wer Griechen nach den Krisenjahren fragt, bekommt Begründungen: weil, obwohl, um zu. Unten ein
+Straßeninterview für einen Online-Kanal, erfunden, aber im Ton echt: Drei Leute antworten auf
+dieselbe Frage. Die ▶-Aufnahme ist synthetisch und hat nur zwei Stimmen: eine weibliche für die
+junge Frau und die Wirtin, eine männliche für den Interviewer und den Großvater. Echte Menschen
+auf der Straße bringt der Hör-Auftrag am Ende dieses Abschnitts.
 
-Wer Griechen nach den Krisenjahren fragt, bekommt Begründungen: weil, obwohl, um zu. Ein
-Straßeninterview für einen Online-Kanal, erfunden, aber im Ton echt. Drei Leute antworten auf
-dieselbe Frage. Erst hören, dann lesen.
+### Nebensätze hören {#sec-nebensatz-hoeren}
+
+Vor dem Hören: Konjunktionen sind kurz und unbetont; im Tempo verschmelzen sie mit dem nächsten
+Wort.
+
+- **[ʝana]**: [για να]{lang="el"} klingt wie ein Wort. Danach kommt fast immer ein Verb im Foto.
+- **[ʝaˈti]** mit gehobener Stimme ist „warum?“, unbetont mitten im Satz „weil“.
+- **[pu]** direkt nach [χαίρομαι, λυπάμαι, ευτυχώς]{lang="el"} heißt „dass“, nicht „der, die, das“.
+- **[epiˈði]** und **[aˈfu]** tragen ihren Ton hinten; [aˈfu] hörst du im Gespräch oft mit
+  vorwurfsvoller Melodie: „wo doch …“.
+
+Erst hören, dann lesen.
 
 ::: {lang="el" .listen}
-— Καλημέρα σας! Μια ερώτηση για το κανάλι μας: τι άλλαξε στη ζωή σας με την κρίση;
+[— Καλημέρα σας! Μια ερώτηση για το κανάλι μας: τι άλλαξε στη ζωή σας με την κρίση;]{.v2}
 
 — Τα πάντα. Το 2012 τελείωσα τη σχολή, αλλά δουλειά δεν υπήρχε. Έφυγα στη Στουτγάρδη για να
 δουλέψω ως μηχανικός. Έμεινα έξι χρόνια. Γύρισα πέρσι, επειδή μου έλειπε η θάλασσα. Και η μαμά
@@ -773,12 +785,12 @@ dieselbe Frage. Erst hören, dann lesen.
 
 — Όχι ακόμα. Ρωτήστε με του χρόνου.
 
-— Εμένα μου έκοψαν τη σύνταξη τρεις φορές. Αλλά δεν παραπονιέμαι, γιατί έχω τρία εγγόνια και τα
-βοήθησα όλα. Τι να κάνουμε; Αφού δεν είχαν οι γονείς τους, είχε ο παππούς.
+[— Εμένα μου έκοψαν τη σύνταξη τρεις φορές. Αλλά δεν παραπονιέμαι, γιατί έχω τρία εγγόνια και τα
+βοήθησα όλα. Τι να κάνουμε; Αφού δεν είχαν οι γονείς τους, είχε ο παππούς.]{.v2}
 
-— Εγώ έχω καφενείο εδώ και τριάντα χρόνια. Πριν από την κρίση ο κόσμος έπινε δύο καφέδες, ενώ
+[— Εγώ έχω καφενείο εδώ και τριάντα χρόνια. Πριν από την κρίση ο κόσμος έπινε δύο καφέδες, ενώ
 στην κρίση έπινε έναν και καθόταν τέσσερις ώρες. Κι εγώ χαιρόμουν που ερχόταν. Μόλις άρχισε να
-μπαίνει πάλι λίγο χρήμα, ξαναήρθε και ο δεύτερος καφές.
+μπαίνει πάλι λίγο χρήμα, ξαναήρθε και ο δεύτερος καφές.]{.v1}
 :::
 
 ::: {.callout-note .exercise}
@@ -795,9 +807,9 @@ Hör das Interview mit ▶, ohne den Text aufzuklappen. Im Chat: „1b, 2a, …�
    **(c)** sechsmal
 4. Warum beklagt er sich nicht? **(a)** Seine Rente ist noch hoch. · **(b)** Er konnte seinen
    Enkeln helfen. · **(c)** Seine Kinder helfen ihm.
-5. Was änderte sich im Kafenion? **(a)** In der Krise tranken die Gäste einen Kaffee und blieben
-   lange, später kam der zweite zurück. · **(b)** In der Krise kam kaum noch jemand. ·
-   **(c)** Er senkte die Preise.
+5. Was änderte sich im Kafenion der Wirtin? **(a)** In der Krise tranken die Gäste einen Kaffee
+   und blieben lange, später kam der zweite zurück. · **(b)** In der Krise kam kaum noch jemand. ·
+   **(c)** Sie senkte die Preise.
 
 **Zweiter Durchgang:** Achte nur auf [επειδή, γιατί, για να, αφού, ενώ, που, μόλις]{lang="el"}.
 Wie oft hörst du jedes? Heißt [αφού]{lang="el"} hier „nachdem“ oder „da ja“, und [ενώ]{lang="el"}
@@ -850,7 +862,7 @@ bin ich zurückgekommen, weil mir das Meer gefehlt hat. Und meine Mama.
 — Noch nicht. Fragen Sie mich nächstes Jahr.
 
 — Mir haben sie die Rente dreimal gekürzt. Aber ich beschwere mich nicht, denn ich habe drei
-Enkel und habe allen geholfen. Was soll man machen? Wenn die Eltern nichts hatten, hatte eben der
+Enkel und habe allen geholfen. Was soll man machen? Da die Eltern ja nichts hatten, hatte eben der
 Opa.
 
 — Ich habe hier seit dreißig Jahren ein Kafenion. Vor der Krise haben die Leute zwei Kaffee
@@ -869,6 +881,7 @@ Kaffee zurück.
 | [ως]{lang="el"} | als (in der Rolle von) |
 | [ο/η μηχανικός]{lang="el"} | der Ingenieur, die Ingenieurin |
 | [μου έλειπε]{lang="el"} | mir fehlte (Kapitel 8) |
+| [ο κόσμος έπινε]{lang="el"} | die Leute tranken ([ο κόσμος]{lang="el"}, Kapitel 1: Verb im Singular) |
 | [κόβω]{lang="el"} | schneiden; hier: kürzen |
 | [ο παππούς]{lang="el"} | der Großvater, der Opa |
 | [εδώ και]{lang="el"} | seit (Kapitel 11) |
@@ -881,28 +894,15 @@ Kaffee zurück.
 |---|---|---|
 | [η σχολή]{lang="el"} | [i sxoˈli] | die Fakultät, die Hochschule; [τελειώνω τη σχολή]{lang="el"} das Studium abschließen |
 | [η σύνταξη]{lang="el"} | [i ˈsidaksi] | die Rente |
-| [ο/η συνταξιούχος]{lang="el"} | [sidaˈksʝuxos] | der Rentner, die Rentnerin |
+| [ο/η συνταξιούχος]{lang="el"} | [o/i sidaˈksçuxos] | der Rentner, die Rentnerin |
 | [το εγγόνι, τα εγγόνια]{lang="el"} | [to eŋˈgoni], [ta eŋˈgoɲa] | das Enkelkind |
 | [παραπονιέμαι, παραπονέθηκα]{lang="el"} | [parapoˈɲeme], [parapoˈneθika] | sich beschweren, klagen |
 | [μετανιώνω, μετάνιωσα]{lang="el"} | [metaˈɲono], [meˈtaɲosa] | bereuen |
-| [ο κόσμος]{lang="el"} (+ Verb im Singular) | [o ˈkozmos] | die Leute ([ο κόσμος έπινε]{lang="el"} die Leute tranken) |
 :::
 
-<!-- CHECK: IPA σύνταξη [ˈsidaksi], συνταξιούχος [sidaˈksʝuxos] nach Buchkonvention „ντ = [d]“ (wie τσάντα [ˈtsada]); bei συν- ist [nd] wohl häufiger – Konvention hier beibehalten oder [ˈsindaksi]? -->
-
-### Nebensätze hören {#sec-nebensatz-hoeren}
-
-Konjunktionen sind kurz und unbetont; im Tempo verschmelzen sie mit dem nächsten Wort.
-
-- **[ʝana]**: [για να]{lang="el"} klingt wie ein Wort. Danach kommt fast immer ein Verb im Foto.
-- **[ʝaˈti]** mit steigender Stimme ist „warum?“, ohne Anstieg, mitten im Satz, „weil“.
-- **[pu]** direkt nach [χαίρομαι, λυπάμαι, ευτυχώς]{lang="el"} heißt „dass“, nicht „der, die, das“.
-- **[epiˈði]** und **[aˈfu]** tragen ihren Ton hinten; [aˈfu] hörst du im Gespräch oft mit
-  vorwurfsvoller Melodie: „wo doch …“.
-
 Der Hörtest für die Straße: Auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) werden
-Leute spontan befragt, mit griechischen und englischen Untertiteln. Fragen nach dem Warum lösen
-dort die meisten Nebensätze aus.
+Leute spontan befragt; griechische und englische Untertitel sind fest ins Bild eingebrannt.
+Fragen nach dem Warum lösen dort die meisten Nebensätze aus.
 
 ::: {.callout-note .exercise}
 ## Übung 16.7: Warum-Fragen auf der Straße
@@ -911,9 +911,10 @@ Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) ein Straßeninte
 Meinungs- oder Warum-Fragen (Suchwörter: [κρίση, οικονομία, γιατί]{lang="el"}); findest du
 keins, nimm irgendein Interview. Drei bis vier Minuten reichen.
 
-1. **Ohne Untertitel:** Mach einen Strich für jedes [επειδή]{lang="el"}, [γιατί]{lang="el"} und
-   [για να]{lang="el"} ([ʝana]). Behalte von jedem ein Beispiel im Kopf.
-2. **Mit griechischen Untertiteln:** Prüf deine Striche. Such zwei [για να]{lang="el"}-Sätze und
+1. **Erster Durchgang, nur hören:** Bildschirm wegdrehen oder die untere Bildhälfte abdecken.
+   Mach einen Strich für jedes [επειδή]{lang="el"}, [γιατί]{lang="el"} und [για να]{lang="el"}
+   ([ʝana]). Behalte von jedem ein Beispiel im Kopf.
+2. **Zweiter Durchgang, mit Bild und Untertiteln:** Prüf deine Striche. Such zwei [για να]{lang="el"}-Sätze und
    bestimme: Foto oder Film?
 :::
 
@@ -955,10 +956,15 @@ beim Nachprüfen wiederzufinden ist ein gutes Ergebnis; im echten Tempo verschwi
 - **„Weil“:** [επειδή]{lang="el"} überall, [γιατί]{lang="el"} meist hinten und in Antworten,
   [αφού]{lang="el"} für bekannte Gründe („da ja“) und „nachdem“.
 - **Aspekt:** nach [όταν]{lang="el"} wie in Kapitel 4; nach [για να]{lang="el"} Foto für ein Ziel,
-  Film für einen dauernden Zweck; nach [πριν, μόλις]{lang="el"} fast immer Foto. Mit
-  Zukunftsbezug nach [όταν, μόλις]{lang="el"} kein [θα]{lang="el"}.
+  Film für einen dauernden Zweck; nach [πριν, μόλις]{lang="el"} fast immer Foto.
+- **Einzige Ausnahme links:** Liegt das Ereignis in der Zukunft, steht nach
+  [όταν, μόλις, αφού]{lang="el"} die Form ohne [θα]{lang="el"}, dieselbe wie nach
+  [να]{lang="el"}, nur ohne [να]{lang="el"}: [όταν φτάσω]{lang="el"}, wie
+  [*cuando llegues*]{lang="es"}.
 - **[ενώ]{lang="el"}** wie deutsches „während“: zeitlich oder als Gegensatz. [αν και]{lang="el"}
   „obwohl“ nie mit [να]{lang="el"}.
+- **Nur erkennen:** [διότι]{lang="el"} (gehoben), [ώστε]{lang="el"} (sodass),
+  [παρόλο που]{lang="el"} (obwohl, Kapitel 29), [μέχρι που]{lang="el"} (bis, mit Aorist).
 
 ## Zum Lesen: Zehn schwere Jahre {#sec-nebensatz-lesetext}
 
@@ -968,37 +974,39 @@ beim Nachprüfen wiederzufinden ist ein gutes Ergebnis; im echten Tempo verschwi
 Όταν οι Έλληνες λένε «η κρίση», δεν εννοούν μια κακή εβδομάδα. Εννοούν τα χρόνια από το 2010
 μέχρι το 2018. Η χώρα χρωστούσε τόσα πολλά, ώστε δεν μπορούσε πια να δανειστεί από τις αγορές.
 Δανείστηκε λοιπόν από τις χώρες της ευρωζώνης και το ΔΝΤ. Για να πάρει τα δάνεια, υπέγραψε τρία
-«μνημόνια», συμφωνίες με σκληρούς όρους.
+«μνημόνια», συμφωνίες με αυστηρούς όρους.
 
 Οι μισθοί και οι συντάξεις μειώθηκαν, ενώ οι φόροι ανέβηκαν. Μέσα σε λίγα χρόνια η οικονομία
-έχασε περίπου το ένα τέταρτο. Το 2013 ένας στους τέσσερις ήταν άνεργος, και από τους νέους
-περισσότεροι από τους μισούς.
+έχασε περίπου το ένα τέταρτο. Το 2013 ένας στους τέσσερις ήταν άνεργος, και από τους νέους που
+έψαχναν δουλειά, περισσότεροι από τους μισούς.
 
 Εκατοντάδες χιλιάδες άνθρωποι, κυρίως νέοι, έφυγαν στο εξωτερικό για να βρουν δουλειά. Πολλοί
-έφυγαν χωρίς να το θέλουν. Όσοι έμειναν, συχνά γύρισαν στο σπίτι των γονιών τους, επειδή δεν
+έφυγαν χωρίς να το θέλουν. Πολλοί από όσους έμειναν γύρισαν στο σπίτι των γονιών τους, επειδή δεν
 μπορούσαν να πληρώνουν νοίκι. Σε πολλές οικογένειες η σύνταξη της γιαγιάς έγινε ο μισθός όλου του
 σπιτιού.
 
 Η κρίση άλλαξε και μικρά πράγματα. Επειδή το πετρέλαιο θέρμανσης έγινε πολύ ακριβό, πολλοί
-άναψαν ξανά τα τζάκια τους. Τους χειμώνες ένα γκρίζο σύννεφο έμενε πάνω από την Αθήνα, και οι
+άναψαν ξανά τα τζάκια τους. Τους χειμώνες ένα γκρίζο σύννεφο σκέπαζε την Αθήνα, και οι
 γιατροί έλεγαν στους ηλικιωμένους να μη βγαίνουν το βράδυ.
 
 Υπήρχε όμως και κάτι άλλο: η αλληλεγγύη. Γιατροί άνοιξαν κοινωνικά ιατρεία, όπου εξέταζαν
 δωρεάν όσους δεν είχαν ασφάλιση. Γειτονιές μάζευαν τρόφιμα για οικογένειες που δεν είχαν τίποτα.
 
 Το καλοκαίρι του 2015 οι τράπεζες έκλεισαν για τρεις εβδομάδες. Μέχρι να ανοίξουν ξανά, κάθε
-κάρτα έδινε εξήντα ευρώ την ημέρα. Πολλοί θυμούνται ακόμα τις ουρές, αν και θα ήθελαν να τις
+κάρτα έδινε μόνο εξήντα ευρώ την ημέρα. Και για πολύ καιρό μετά μπορούσες να βγάλεις μόνο λίγα
+λεφτά. Πολλοί θυμούνται ακόμα τις ουρές, αν και θα ήθελαν να τις
 ξεχάσουν.
 
 Τον Αύγουστο του 2018 τελείωσε το τελευταίο μνημόνιο. Η οικονομία μεγαλώνει ξανά, και αρκετοί από
 αυτούς που έφυγαν έχουν γυρίσει. Αλλά όταν ρωτάς κάποιον για εκείνα τα χρόνια, συνήθως σωπαίνει
-λίγο πριν απαντήσει. Και μετά λέει: «Χαίρομαι που τελείωσαν. Αλλά δεν τα ξεχνάω.»
+για λίγο πριν απαντήσει. Και μετά λέει: «Χαίρομαι που τελείωσαν. Αλλά δεν τα ξεχνάω.»
 :::
 
 Drei Stellen zum Lesen:
 
 - **[τόσα πολλά, ώστε …]{lang="el"}** „so viel, dass …“: [ώστε]{lang="el"} leitet eine Folge ein,
-  mit normalem Verb. Zum Erkennen reicht es.
+  mit normalem Verb. Zum Erkennen reicht es. Mit [να]{lang="el"} ([ώστε να]{lang="el"})
+  nennt es eine beabsichtigte Folge, fast wie [για να]{lang="el"}.
 - **[δεν μπορούσαν να πληρώνουν νοίκι]{lang="el"}**: Film nach [να]{lang="el"}, weil die Miete
   jeden Monat fällig ist; [να πληρώσουν]{lang="el"} wäre eine einzelne Rechnung.
 - **[έλεγαν στους ηλικιωμένους να μη βγαίνουν]{lang="el"}**: [λέω να]{lang="el"} als
@@ -1017,7 +1025,7 @@ Drei Stellen zum Lesen:
 | [το ΔΝΤ]{lang="el"} | der IWF (Internationaler Währungsfonds) |
 | [το μνημόνιο]{lang="el"} | das Memorandum (Kreditvereinbarung mit Auflagen) |
 | [η συμφωνία]{lang="el"} | die Vereinbarung |
-| [σκληρός, -ή, -ό]{lang="el"} | hart |
+| [αυστηρός, -ή, -ό]{lang="el"} | streng |
 | [ο όρος]{lang="el"} | die Bedingung |
 | [το τέταρτο]{lang="el"} | das Viertel (Kapitel 11) |
 | [εκατοντάδες χιλιάδες]{lang="el"} | Hunderttausende |
@@ -1025,6 +1033,7 @@ Drei Stellen zum Lesen:
 | [όσοι]{lang="el"} | alle, die (Kapitel 15) |
 | [το πετρέλαιο θέρμανσης]{lang="el"} | das Heizöl |
 | [γκρίζος, -α, -ο]{lang="el"} | grau |
+| [σκεπάζω]{lang="el"} | bedecken, zudecken |
 | [ο ηλικιωμένος]{lang="el"} | der ältere Mensch |
 | [το κοινωνικό ιατρείο]{lang="el"} | die Sozialpraxis, kostenlose Praxis |
 | [εξετάζω]{lang="el"} | untersuchen |
@@ -1043,17 +1052,19 @@ Drei Stellen zum Lesen:
 Wenn Griechen „die Krise“ sagen, meinen sie keine schlechte Woche. Sie meinen die Jahre von 2010
 bis 2018. Das Land schuldete so viel, dass es sich an den Märkten kein Geld mehr leihen konnte.
 Also lieh es sich Geld bei den Ländern der Eurozone und beim IWF. Um die Kredite zu bekommen,
-unterschrieb es drei „Memoranden“, Vereinbarungen mit harten Bedingungen.
+unterschrieb es drei „Memoranden“, Vereinbarungen mit strengen Bedingungen.
 
 Löhne und Renten wurden gekürzt, während die Steuern stiegen. Innerhalb weniger Jahre verlor die
-Wirtschaft etwa ein Viertel. 2013 war jeder Vierte arbeitslos, unter den Jungen mehr als die Hälfte.
+Wirtschaft etwa ein Viertel. 2013 war jeder Vierte arbeitslos, und von den jungen Leuten, die
+Arbeit suchten, mehr als die Hälfte.
 
 Hunderttausende Menschen, vor allem junge, gingen ins Ausland, um Arbeit zu finden. Viele gingen,
-ohne es zu wollen. Wer blieb, zog oft zurück zu den Eltern, weil er keine Miete zahlen konnte. In
+ohne es zu wollen. Viele von denen, die blieben, zogen zurück zu den Eltern, weil sie keine Miete
+zahlen konnten. In
 vielen Familien wurde die Rente der Großmutter zum Gehalt des ganzen Haushalts.
 
 Die Krise veränderte auch kleine Dinge. Weil Heizöl sehr teuer wurde, zündeten viele wieder ihre
-Kamine an. In den Wintern hing eine graue Wolke über Athen, und die Ärzte sagten älteren
+Kamine an. In den Wintern bedeckte eine graue Wolke Athen, und die Ärzte sagten älteren
 Menschen, sie sollten abends nicht hinausgehen.
 
 Es gab aber auch etwas anderes: Solidarität. Ärzte eröffneten Sozialpraxen, in denen sie
@@ -1061,7 +1072,7 @@ kostenlos alle untersuchten, die keine Versicherung hatten. Nachbarschaften samm
 für Familien, die nichts hatten.
 
 Im Sommer 2015 schlossen die Banken für drei Wochen. Bis sie wieder aufmachten, gab jede Karte
-sechzig Euro am Tag. Viele erinnern sich noch an die Schlangen, obwohl sie sie gern vergessen
+nur sechzig Euro am Tag. Und noch lange danach konnte man nur wenig Geld abheben. Viele erinnern sich noch an die Schlangen, obwohl sie sie gern vergessen
 würden.
 
 Im August 2018 endete das letzte Memorandum. Die Wirtschaft wächst wieder, und einige von denen,
@@ -1079,9 +1090,15 @@ gestritten.
 - **Wirtschaftsleistung:** Der Rückgang um rund ein Viertel bezieht sich auf die Jahre 2008 bis
   2013; die Krise begann also schon vor dem ersten Memorandum.
 - **Arbeitslosigkeit:** Der Höchststand lag 2013 bei etwa 27 %, bei den unter 25-Jährigen bei
-  knapp 60 %.
-- **Auswanderung:** Schätzungen für die Jahre ab 2010 schwanken je nach Quelle und Zeitraum
-  zwischen etwa 400 000 und über 500 000 Menschen.
+  knapp 60 %. Gemessen wird der Anteil an den Erwerbspersonen, also an denen, die arbeiten oder
+  Arbeit suchen; wer studiert und keine Stelle sucht, zählt nicht mit. Arbeitslos war also nicht
+  die Hälfte aller jungen Leute.
+- **Auswanderung:** Schätzungen für 2008 bis Mitte der 2010er Jahre schwanken je nach Quelle
+  zwischen etwa 400 000 und über 500 000 Menschen (Bank of Greece: 427 000 für 2008–2013).
+- **Bargeld:** Ab dem 20. Juli 2015 galten 420 Euro pro Woche; Kapitalverkehrskontrollen gab es
+  in gelockerter Form bis 2019.
+- **Kreditgeber:** Am dritten Programm (2015) beteiligte sich der IWF nicht mehr mit Geld. Nach
+  dem Ende im August 2018 stand Griechenland bis 2022 unter verstärkter Überwachung.
 - **Smog:** Nach der Erhöhung der Heizölsteuer 2012 wurde in Athen und Thessaloniki in mehreren
   Wintern Feinstaubsmog aus Kaminen und Holzöfen gemessen.
 
@@ -1090,9 +1107,7 @@ Kevin Featherstone und Dimitri A. Sotiropoulos (Hg.), *The Oxford Handbook of Mo
 Politics* (2020).
 :::
 
-<!-- CHECK: Fakten Lesetext/Einstieg/Vorsicht-Box: Bankfeiertag 29.6.–20.7.2015 (rund drei Wochen), Limit 60 € pro Karte und Tag; drei Memoranden 2010, 2012, 2015; Ende des dritten Programms 20.8.2018; BIP-Rückgang ca. 25 % 2008–2013; Arbeitslosigkeit 2013 ca. 27–28 %, Jugend (15–24) ca. 58–60 %; Auswanderung 400 000–500 000+ (Schätzungen, z.B. Lambrianidis/ICAP; Bank of Greece); Heizölsteuer-Erhöhung Okt. 2012 und Smog (αιθαλομίχλη) in Athen/Thessaloniki; κοινωνικά ιατρεία. Literaturangabe (Oxford Handbook of Modern Greek Politics, 2020, Hg. Featherstone/Sotiropoulos) verifizieren. -->
 
-<!-- CHECK: Lesetext sprachlich: „χρωστούσε τόσα πολλά, ώστε δεν μπορούσε πια να δανειστεί από τις αγορές“ idiomatisch? „ένα γκρίζο σύννεφο έμενε πάνω από την Αθήνα“ oder besser „σκέπαζε την Αθήνα“? „σωπαίνει λίγο πριν απαντήσει“ natürlich? -->
 
 ::: {.callout-note .exercise}
 ## Übung 16.8: Nach dem Lesen
@@ -1102,7 +1117,7 @@ Politics* (2020).
 1. Mit „der Krise“ meinen Griechen vor allem den Sommer 2015.
 2. Um die Kredite zu bekommen, unterschrieb das Land drei Vereinbarungen.
 3. Die Löhne stiegen, die Steuern aber noch mehr.
-4. 2013 war mehr als die Hälfte der jungen Leute arbeitslos.
+4. 2013 war von den jungen Leuten, die Arbeit suchten, mehr als die Hälfte arbeitslos.
 5. Viele heizten wieder mit dem Kamin, weil die Winter kälter wurden.
 6. Im Sommer 2015 waren die Banken drei Monate geschlossen.
 7. Ein Teil derer, die gegangen waren, ist zurückgekommen.
@@ -1131,7 +1146,7 @@ Konjunktion; auch [μπορούσαν να, έλεγαν να]{lang="el"} zähle
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Teil C, 9: [θέλω]{lang="el"} hat nur eine Vergangenheit ([ήθελα]{lang="el"}). 10: „ihm“ ist
+Teil C, 9: [θέλω]{lang="el"} hat praktisch nur [ήθελα]{lang="el"} als Vergangenheit. 10: „ihm“ ist
 [της]{lang="el"}, denn [η χώρα]{lang="el"} ist weiblich; [δίνω]{lang="el"} hat
 [να δώσω]{lang="el"}.
 :::
