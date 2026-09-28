@@ -244,8 +244,8 @@ Präposition ([σε λίγο]{lang="el"} „gleich“).
 |---|---|---|
 | [με ξέρει, σε ξέρει]{lang="el"} | [me ˈkseri], [se ˈkseri] | er/sie kennt mich, dich |
 | [τον, τη(ν), το]{lang="el"} | [ton], [ti(n)], [to] | ihn, sie, es |
-| [μας βλέπει, σας βλέπει]{lang="el"} | [maz ˈvlepi], [saz ˈvlepi] | er/sie sieht uns, euch (Sie) |
-| [τους, τις, τα είδα]{lang="el"} | [tus ˈiða], [tis ˈiða], [ta ˈiða] | ich habe sie gesehen (Pl.: m., f., n.) |
+| [μας βλέπει, σας βλέπει]{lang="el"} | [mas ˈvlepi], [sas ˈvlepi] | er/sie sieht uns, euch (Sie) |
+| [τους είδα, τις είδα, τα είδα]{lang="el"} | [tus ˈiða], [tis ˈiða], [ta ˈiða] | ich habe sie gesehen (Pl.: m., f., n.) |
 | [μου λέει, σου δίνω]{lang="el"} | [mu ˈlei], [su ˈðino] | er/sie sagt mir; ich gebe dir |
 | [του έδωσα, της έδωσα]{lang="el"} | [tu ˈeðosa], [tis ˈeðosa] | ich habe ihm, ihr gegeben |
 | [τους έδωσα]{lang="el"} | [tus ˈeðosa] | ich habe ihnen gegeben |
@@ -583,7 +583,7 @@ Auch [Ο Θεοδωράκης μου αρέσει]{lang="el"} ist richtig und be
 
 ## Nach dem Imperativ: [Δώσε μου]{lang="el"} {#sec-pronomen-imperativ}
 
-Die einzige Ausnahme von der Regel „vor dem Verb“ kennst du vom Markt in Kapitel 6:
+Die wichtigste Ausnahme von der Regel „vor dem Verb“ kennst du vom Markt in Kapitel 6:
 [Δώσε μου τέσσερα.]{lang="el"} „Gib mir vier.“ Nach einem **Imperativ** steht das schwache
 Pronomen **dahinter**, wie im Spanischen [*dame, dímelo*]{lang="es"}:
 
