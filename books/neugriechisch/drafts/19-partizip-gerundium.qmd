@@ -1,0 +1,720 @@
+---
+title: "Partizip und Gerundium"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+Aus Kapitel 13 und 4:
+
+- **Mediopassiv-Aorist** vom Aktiv-Aorist aus: [-σα → -στηκα, -ψα → -φτηκα, -ξα → -χτηκα,
+  -ησα → -ήθηκα, -ωσα → -ώθηκα]{lang="el"}; unregelmäßig [βρέθηκα, χάθηκα, ντύθηκα,
+  πλύθηκα]{lang="el"}.
+- **Kurze Verben** holen im Imperfekt ein [γ]{lang="el"} heraus: [έλεγα, έτρωγα,
+  άκουγα]{lang="el"}; [πάω]{lang="el"} leiht sich [πήγαινα]{lang="el"}.
+- **Adjektive** auf [-ος, -η, -ο]{lang="el"} wie [καλός, καλή, καλό]{lang="el"}.
+:::
+
+## Sechzehn Kilometer bergab {#sec-partizip-einstieg}
+
+Agia Roumeli an der Südküste Kretas, vier Uhr nachmittags. Hierher kommt man nur zu Fuß, durch
+die Samaria-Schlucht, oder mit dem Schiff. In der Taverne am Strand sitzt jemand seit einer
+Stunde. Die Freundin kommt eben erst an.
+
+::: {lang="el"}
+— Ζωντανή είσαι;
+
+— Μόλις. Δεκαέξι χιλιόμετρα κατεβαίνοντας. Είμαι πτώμα.
+
+— Κάτσε. Σου πήρα μια μπίρα, παγωμένη.
+
+— Να ’σαι καλά. Κοίτα τα παπούτσια μου, είναι ακόμα βρεγμένα.
+
+— Βρεγμένα; Αφού δεν έβρεξε.
+
+— Στις Πόρτες πέρασα το ποτάμι πηδώντας από πέτρα σε πέτρα. Στην τρίτη πέτρα… πλατς.
+
+— Και κρι-κρι; Είδες κανένα;
+
+— Ένα. Καθόταν σε έναν βράχο και με κοίταζε σαν να ’μουν εγώ το ζώο.
+
+— Εγώ είδα μόνο κουρασμένους τουρίστες. Κι έναν Ιταλό ντυμένο σαν να πήγαινε στα Ιμαλάια.
+
+— Τι ώρα φεύγει το καράβι; Τα εισιτήρια;
+
+— Στις πεντέμισι. Τα έχω κλεισμένα.
+
+— Τέλεια. Την άλλη φορά το κάνουμε ανάποδα, ανεβαίνοντας.
+
+— Εσύ. Εγώ θα σε περιμένω εδώ, τρώγοντας.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Lebst du noch?
+
+— Gerade so. Sechzehn Kilometer bergab. Ich bin fix und fertig.
+
+— Setz dich. Ich hab dir ein Bier geholt, eiskalt.
+
+— Du bist ein Schatz. Schau dir meine Schuhe an, die sind immer noch nass.
+
+— Nass? Es hat doch gar nicht geregnet.
+
+— An den Portes bin ich über den Bach gesprungen, von Stein zu Stein. Beim dritten Stein …
+platsch.
+
+— Und Kri-Kris? Hast du eins gesehen?
+
+— Eins. Es saß auf einem Felsen und schaute mich an, als wäre ich das Tier.
+
+— Ich hab nur müde Touristen gesehen. Und einen Italiener, angezogen, als ginge es in den
+Himalaja.
+
+— Wann fährt das Schiff? Die Tickets?
+
+— Um halb sechs. Die hab ich gebucht.
+
+— Super. Nächstes Mal machen wir es andersherum, bergauf.
+
+— Du. Ich warte hier auf dich, beim Essen.
+:::
+
+Zwei Sorten Formen fallen auf. Die einen sehen aus wie Adjektive und passen sich an:
+[παγωμένη μπίρα]{lang="el"}, [βρεγμένα παπούτσια]{lang="el"}, [κουρασμένους
+τουρίστες]{lang="el"}, [έναν Ιταλό ντυμένο]{lang="el"}. Die anderen enden immer gleich, auf
+[-οντας]{lang="el"} oder [-ώντας]{lang="el"}, egal wer spricht: [κατεβαίνοντας, πηδώντας,
+ανεβαίνοντας, τρώγοντας]{lang="el"}.
+
+Die erste Sorte ist das **Partizip** ([η μετοχή]{lang="el"}), das deutsche „nass gemacht,
+müde gemacht, angezogen“. Die zweite ist das **Gerundium**, am ehesten französisch
+[*en descendant*]{lang="fr"} „beim Hinuntergehen“. Beide brauchst du ständig, wenn du erzählst,
+wie etwas war und wie es geschah.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το φαράγγι]{lang="el"} | [to faˈraŋɟi] | die Schlucht |
+| [το χιλιόμετρο]{lang="el"} | [to çiˈʎometro] | der Kilometer |
+| [Είμαι πτώμα.]{lang="el"} | [ˈime ˈptoma] | Ich bin fix und fertig. (umg., wörtlich „eine Leiche“) |
+| [το παπούτσι]{lang="el"} | [to paˈputsi] | der Schuh |
+| [βρεγμένος, -η, -ο]{lang="el"} | [vreɣˈmenos] | nass |
+| [παγωμένος, -η, -ο]{lang="el"} | [paɣoˈmenos] | eiskalt; gefroren |
+| [κουρασμένος, -η, -ο]{lang="el"} | [kurazˈmenos] | müde |
+| [ντυμένος, -η, -ο]{lang="el"} | [diˈmenos] | angezogen, gekleidet |
+| [το ποτάμι]{lang="el"} | [to poˈtami] | der Fluss, der Bach |
+| [ο βράχος]{lang="el"} | [o ˈvraxos] | der Felsen |
+| [το ζώο]{lang="el"} | [to ˈzoo] | das Tier |
+| [πηδάω, πήδηξα]{lang="el"} | [piˈðao], [ˈpiðiksa] | springen |
+| [ανάποδα]{lang="el"} | [aˈnapoða] | andersherum, verkehrt herum |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [Ζωντανός/Ζωντανή είσαι;]{lang="el"} | Lebst du noch? (scherzhaft; [ζωντανός]{lang="el"} Kapitel 3) |
+| [μόλις]{lang="el"} | gerade so, kaum (Kapitel 7: gerade eben) |
+| [αφού]{lang="el"} | wo doch, da ja (Kapitel 16) |
+| [οι Πόρτες]{lang="el"} | die Portes, „die Tore“, die engste Stelle der Schlucht |
+| [πλατς]{lang="el"} | platsch |
+| [το κρι-κρι]{lang="el"} | das Kri-Kri, die kretische Wildziege |
+| [σαν να ’μουν]{lang="el"} | als wäre ich (wie [σαν να ’ταν χθες]{lang="el"}, Kapitel 10) |
+| [τα Ιμαλάια]{lang="el"} | der Himalaja |
+| [το καράβι]{lang="el"} | das Schiff (Kapitel 3) |
+:::
+
+## Das Partizip: [γραμμένος, κουρασμένος]{lang="el"} {#sec-partizip-bildung}
+
+Ein paar Partizipien sind dir schon begegnet. Im Lesetext von Kapitel 13 fand der Tomograf
+[γρανάζια κρυμμένα μέσα στον χαλκό]{lang="el"} und ein [εγχειρίδιο γραμμένο πάνω στη
+μηχανή]{lang="el"}, „versteckte“ Zahnräder und eine „geschriebene“ Anleitung. Die Streikmeldung
+aus Kapitel 5 lautete [Δεμένα τα πλοία]{lang="el"}, „die Schiffe (sind) festgemacht“. Und seit
+Kapitel 2 sagst du [την περασμένη εβδομάδα]{lang="el"}, „die vergangene Woche“.
+
+Das Partizip auf **[-μένος]{lang="el"}** beschreibt, was mit etwas geschehen ist, als Zustand
+danach: Wer [γράφτηκε]{lang="el"}, ist jetzt [γραμμένος]{lang="el"}. Deshalb wohnt es beim
+Mediopassiv-Aorist, und die Tabelle aus Kapitel 13 bekommt eine dritte Spalte:
+
+| Aktiv-Aorist | Mediopassiv-Aorist | Partizip |
+|---|---|---|
+| [κούρα**σα**]{lang="el"} | [κουρά**στηκα**]{lang="el"} | [κουρα**σμένος**]{lang="el"} müde |
+| [έγρα**ψα**]{lang="el"} | [γρά**φτηκα**]{lang="el"} | [γρα**μμένος**]{lang="el"} geschrieben |
+| [άνοι**ξα**]{lang="el"} | [ανοί**χτηκα**]{lang="el"} | [ανοι**γμένος**]{lang="el"} geöffnet |
+| [αγάπ**ησα**]{lang="el"} | [αγαπ**ήθηκα**]{lang="el"} | [αγαπ**ημένος**]{lang="el"} geliebt |
+| [κλείδ**ωσα**]{lang="el"} | [κλειδ**ώθηκα**]{lang="el"} | [κλειδ**ωμένος**]{lang="el"} abgeschlossen |
+| [έχασα]{lang="el"} | [χάθηκα]{lang="el"} | [χαμένος]{lang="el"} verloren |
+
+Die Regel: Streich [-θηκα]{lang="el"} oder [-τηκα]{lang="el"} und häng [-μένος]{lang="el"} an.
+Was stehen bleibt, gleicht sich dem [μ]{lang="el"} an:
+
+- [σ]{lang="el"} bleibt, klingt aber stimmhaft: [κουρασμένος]{lang="el"} [kurazˈmenos], wie
+  [ο κόσμος]{lang="el"} [o ˈkozmos].
+- [φ]{lang="el"} wird zu [μ]{lang="el"}: [γράφ-τηκα → γραμμένος]{lang="el"},
+  [κρύφ-τηκα → κρυμμένος]{lang="el"}.
+- [χ]{lang="el"} wird zu [γ]{lang="el"}: [ανοίχ-τηκα → ανοιγμένος]{lang="el"},
+  [φτιάχ-τηκα → φτιαγμένος]{lang="el"}.
+- Ein Vokal bleibt einfach stehen: [αγαπη-μένος, κλειδω-μένος, χα-μένος, ντυ-μένος]{lang="el"}.
+
+Die Betonung liegt immer auf [-μέ-]{lang="el"}, in jeder Form: [κουρασμένος, κουρασμένη,
+κουρασμένοι]{lang="el"}. Das Augment ist ohnehin weg, weil der Mediopassiv-Aorist keins hat.
+
+Wo der Mediopassiv-Aorist krumm ist, hilft die linke Spalte: [βρέχω]{lang="el"} hat den
+unregelmäßigen Aorist [βράχηκα]{lang="el"}, aber [έβρεξα]{lang="el"} führt nach der Tabelle zu
+[βρεγμένος]{lang="el"}. Ebenso gehören [πάγωσα → παγωμένος]{lang="el"} und
+[πέρασα → περασμένος]{lang="el"} zur Tabelle, obwohl man den Mediopassiv-Aorist dieser Verben
+selten hört. Eigene Wege gehen [καμένος]{lang="el"} „verbrannt“ (von [καίω]{lang="el"}, Kapitel 14)
+und [πεθαμένος]{lang="el"} „tot“.
+
+### Wie ein Adjektiv {#sec-partizip-adjektiv}
+
+Das Partizip dekliniert wie [καλός]{lang="el"}, mit [-η]{lang="el"} im Femininum:
+[ένας κουρασμένος πεζοπόρος, μια κουρασμένη πεζοπόρος]{lang="el"}. Es kann an denselben Stellen
+stehen wie jedes Adjektiv:
+
+- vor dem Nomen: [η αγαπημένη μου ταινία]{lang="el"} „mein Lieblingsfilm“
+- hinter dem Nomen, oft mit Zusatz: [ένα εγχειρίδιο γραμμένο στα ελληνικά]{lang="el"}
+- nach [είμαι]{lang="el"}: [Τα παπούτσια μου είναι βρεγμένα.]{lang="el"}
+- in Schlagzeilen ohne Verb: [Δεμένα τα πλοία.]{lang="el"} [Κλειστό το φαράγγι λόγω
+  βροχής.]{lang="el"}
+
+Viele Gefühle und Zustände sind im Griechischen Partizipien, genau wie im Deutschen
+(„verliebt, begeistert, enttäuscht“) und im Spanischen
+([*estoy cansado, está enamorada*]{lang="es"}):
+
+| Partizip | Deutsch | von |
+|---|---|---|
+| [κουρασμένος]{lang="el"} | müde | [κουράζομαι]{lang="el"} ermüden |
+| [θυμωμένος]{lang="el"} | wütend, sauer | [θυμώνω]{lang="el"} wütend werden |
+| [ερωτευμένος]{lang="el"} | verliebt | [ερωτεύομαι]{lang="el"} sich verlieben |
+| [ενθουσιασμένος]{lang="el"} | begeistert | [ενθουσιάζομαι]{lang="el"} |
+| [λυπημένος]{lang="el"} | traurig | [λυπάμαι]{lang="el"} (Kapitel 10) |
+| [ευτυχισμένος]{lang="el"} | glücklich | – |
+
+[ερωτευμένος]{lang="el"} zeigt die Regel mit [ευ]{lang="el"}: [ερωτεύ-τηκα →
+ερωτευμένος]{lang="el"}; das [ευ]{lang="el"} bleibt wie im Aorist.
+
+::: {.callout-important}
+## Merke
+
+- **Bildung:** Mediopassiv-Aorist ohne [-θηκα/-τηκα]{lang="el"}, dann [-μένος]{lang="el"}; davor
+  [φ → μ]{lang="el"}, [χ → γ]{lang="el"}. Betonung immer auf [-μέ-]{lang="el"}.
+- **Formen** wie [καλός]{lang="el"}: [-μένος, -μένη, -μένο]{lang="el"}.
+- **Bedeutung:** Zustand nach einer Handlung, „gemacht, geworden“, wie das deutsche Partizip II.
+:::
+
+::: {.callout-warning}
+## Achtung
+
+Das Partizip ist nicht die Form auf [-ει]{lang="el"} aus Kapitel 14. „Ich habe geschrieben“ ist
+[έχω γράψει]{lang="el"}, nie \*[έχω γραμμένος]{lang="el"}. Das deutsche „geschrieben“ steckt in
+beiden, das Griechische trennt: [γράψει]{lang="el"} ist Teil einer Zeitform und ändert sich nie,
+[γραμμένος]{lang="el"} ist ein Adjektiv.
+:::
+
+<!-- EXERCISE: Partizip auf -μένος bilden, Art: Formen bilden laut, vom Mediopassiv-Aorist bzw. Aktiv-Aorist ausgehend (8 Verben: κρύβω, φτιάχνω, πληρώνω, ντύνω, χάνω, κουράζω, σπάω/έσπασα, βρέχω), dazu Form an ein Nomen anpassen (z.B. „die verlorenen Schlüssel“, „ein gebrochenes Bein“), Lösung mit typischen Fehlern *γραψμένος, *κρυφτμένος, Betonung nicht auf -μέ-, Schwierigkeit 1 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [γραμμένος, -η, -ο]{lang="el"} | [ɣraˈmenos] | geschrieben |
+| [κρυμμένος, -η, -ο]{lang="el"} | [kriˈmenos] | versteckt |
+| [χαμένος, -η, -ο]{lang="el"} | [xaˈmenos] | verloren; verirrt |
+| [κλειδώνω, κλείδωσα; κλειδωμένος]{lang="el"} | [kliˈðono], [ˈkliðosa]; [kliðoˈmenos] | abschließen; abgeschlossen |
+| [σπάω, έσπασα; σπασμένος]{lang="el"} | [ˈspao], [ˈespasa]; [spazˈmenos] | (zer)brechen; kaputt, gebrochen |
+| [καμένος, -η, -ο]{lang="el"} | [kaˈmenos] | verbrannt |
+| [αγαπημένος, -η, -ο]{lang="el"} | [aɣapiˈmenos] | Lieblings-; geliebt |
+| [θυμωμένος, -η, -ο]{lang="el"} | [θimoˈmenos] | wütend, sauer |
+| [ερωτευμένος, -η, -ο]{lang="el"} | [erotevˈmenos] | verliebt |
+| [ενθουσιασμένος, -η, -ο]{lang="el"} | [enθusiazˈmenos] | begeistert |
+| [ευτυχισμένος, -η, -ο]{lang="el"} | [eftiçizˈmenos] | glücklich |
+| [λυπημένος, -η, -ο]{lang="el"} | [lipiˈmenos] | traurig |
+| [ο πεζοπόρος, η πεζοπόρος]{lang="el"} | [o pezoˈporos], [i pezoˈporos] | der Wanderer, die Wanderin |
+| [λόγω]{lang="el"} + Gen. | [ˈloɣo] | wegen (Schilder, Nachrichten) |
+:::
+
+## Zustand oder Ereignis? {#sec-partizip-zustand}
+
+Das Deutsche hat zwei Passive: „Die Tür **wird** geschlossen“ ist ein Vorgang, „die Tür **ist**
+geschlossen“ ein Zustand. Spanisch trennt genauso, [*fue cerrada*]{lang="es"} gegen
+[*está cerrada*]{lang="es"}. Im Griechischen erzählt das Mediopassiv das Ereignis, [είμαι]{lang="el"}
+mit Partizip beschreibt den Zustand danach:
+
+- [Το φαράγγι κλείστηκε το πρωί λόγω βροχής.]{lang="el"} Die Schlucht wurde am Morgen wegen
+  Regen gesperrt. (Ereignis, Aorist)
+- [Το φαράγγι είναι κλεισμένο από το πρωί.]{lang="el"} Die Schlucht ist seit dem Morgen
+  gesperrt. (Zustand)
+
+Mit dem Perfekt aus Kapitel 14 wird daraus ein Dreiklang, am Beispiel eines Wanderführers:
+
+| Satz | Blick | Deutsch |
+|---|---|---|
+| [Γράφτηκε το 1998.]{lang="el"} | Ereignis mit Zeitstempel | Er wurde 1998 geschrieben. |
+| [Έχει μεταφραστεί σε δέκα γλώσσες.]{lang="el"} | Bilanz bis jetzt | Er ist in zehn Sprachen übersetzt worden. |
+| [Είναι γραμμένος στα γερμανικά.]{lang="el"} | Zustand | Er ist auf Deutsch geschrieben. |
+
+Die Regel „Perfekt nie mit [είμαι]{lang="el"}“ aus Kapitel 14 bleibt also richtig: Was mit
+[είμαι]{lang="el"} steht, ist kein Perfekt, sondern ein Adjektiv.
+
+### Zu oder geschlossen? {#sec-partizip-klein}
+
+Für die häufigsten Zustände gibt es neben dem Partizip ein gewöhnliches Adjektiv, und das ist
+im Alltag die Normalform:
+
+- [Το φαρμακείο είναι κλειστό.]{lang="el"} Die Apotheke ist zu. [Το καφενείο είναι
+  ανοιχτό.]{lang="el"} Das Kafenion hat auf. (Kapitel 1)
+- [κλεισμένος]{lang="el"} heißt „eingeschlossen“ oder „gebucht“: [ζει κλεισμένη στο
+  σπίτι]{lang="el"} (Kapitel 15), [ένα κλεισμένο δωμάτιο]{lang="el"}.
+- [ανοιγμένος]{lang="el"} heißt „geöffnet, angebrochen“: [ένα ανοιγμένο μπουκάλι
+  κρασί]{lang="el"}.
+
+Also: Ein Laden ist [κλειστός]{lang="el"}, ein Tisch in der Taverne [κλεισμένος]{lang="el"}.
+
+### [έχω]{lang="el"} + Partizip: [Τα έχω κλεισμένα]{lang="el"} {#sec-partizip-echo}
+
+In Agia Roumeli hieß es [Τα εισιτήρια; Τα έχω κλεισμένα.]{lang="el"} Das Partizip richtet sich
+nach dem Objekt, [τα εισιτήρια]{lang="el"}: „Ich habe sie gebucht (da liegen).“ Das Spanische
+kennt das als [*tengo reservadas las entradas*]{lang="es"} neben [*he reservado las
+entradas*]{lang="es"}. Der Unterschied zum Perfekt [Τα έχω κλείσει.]{lang="el"} ist klein: Das
+Perfekt meldet die erledigte Handlung, [έχω]{lang="el"} mit Partizip den Zustand, über den man
+verfügt. Im Gespräch sehr beliebt: [Το έχω γραμμένο κάπου.]{lang="el"} „Ich hab’s irgendwo
+aufgeschrieben.“
+
+::: {.callout-important}
+## Merke
+
+- **Ereignis:** Mediopassiv, [κλείστηκε, γράφτηκε]{lang="el"}.
+- **Zustand:** [είμαι]{lang="el"} + Partizip, [είναι κλεισμένο, είναι γραμμένος]{lang="el"}; bei
+  „offen, zu“ meist [ανοιχτός, κλειστός]{lang="el"}.
+- **Zustand, über den man verfügt:** [έχω]{lang="el"} + Partizip, das sich nach dem Objekt
+  richtet: [Έχω κλεισμένα εισιτήρια.]{lang="el"}
+:::
+
+<!-- EXERCISE: Zustand oder Ereignis unterscheiden, Art: Auswahl mit nummerierten Optionen (1 Mediopassiv-Aorist, 2 είμαι + Partizip, 3 κλειστός/ανοιχτός, 4 έχω + Partizip), 8 deutsche Sätze rund um eine Wanderung (Schlucht wegen Regen gesperrt / seit gestern gesperrt; Hütte ist zu; Bett in der Hütte gebucht; Karte ist auf Griechisch geschrieben; Weg wurde 2010 markiert; Rucksack ist gepackt; ich habe die Tickets gebucht), Lösung mit griechischem Satz und Begründung, typischer Fehler *είναι κλείσει, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [κλεισμένος, -η, -ο]{lang="el"} | [klizˈmenos] | gebucht, reserviert; eingeschlossen |
+| [ανοιγμένος, -η, -ο]{lang="el"} | [aniɣˈmenos] | geöffnet, angebrochen |
+| [Το έχω γραμμένο κάπου.]{lang="el"} | [to ˈexo ɣraˈmeno ˈkapu] | Ich hab’s irgendwo aufgeschrieben. |
+| [το μπουκάλι]{lang="el"} | [to buˈkali] | die Flasche |
+:::
+
+## Das Gerundium: [περπατώντας]{lang="el"} {#sec-partizip-gerundium}
+
+Die zweite Sorte Formen aus dem Einstieg:
+
+- [Δεκαέξι χιλιόμετρα κατεβαίνοντας.]{lang="el"} Sechzehn Kilometer bergab gehend.
+- [Πέρασα το ποτάμι πηδώντας.]{lang="el"} Ich kam über den Bach, indem ich sprang.
+- [Θα σε περιμένω τρώγοντας.]{lang="el"} Ich warte beim Essen auf dich.
+
+Das **Gerundium** sagt, **wie**, **wobei** oder **wodurch** etwas geschieht, gleichzeitig mit dem
+Hauptverb. Französisch hat dafür genau das Passende, den gérondif:
+[*en descendant, en sautant, en mangeant*]{lang="fr"}. Und ein Sprichwort, das beide Sprachen
+teilen: [*L’appétit vient en mangeant*]{lang="fr"}, [Τρώγοντας έρχεται η όρεξη.]{lang="el"}
+Die griechische Grammatik nennt die Form [μετοχή ενεστώτα]{lang="el"}, Partizip Präsens; dieses
+Buch sagt „Gerundium“, weil sie sich nie verändert.
+
+### Bildung {#sec-partizip-gerundium-bildung}
+
+Das Gerundium kommt aus dem **imperfektiven Stamm**. Es ist Film, nie Foto: Es zeigt eine
+Handlung, während sie läuft.
+
+| Präsens | Gerundium | Regel |
+|---|---|---|
+| [γράφω]{lang="el"} | [γράφ**οντας**]{lang="el"} | stammbetont: [-οντας]{lang="el"}, Betonung bleibt |
+| [κατεβαίνω]{lang="el"} | [κατεβαίν**οντας**]{lang="el"} | ebenso |
+| [περπατάω]{lang="el"} | [περπατ**ώντας**]{lang="el"} | [-άω]{lang="el"}: [-ώντας]{lang="el"} |
+| [οδηγώ]{lang="el"} | [οδηγ**ώντας**]{lang="el"} | [-ώ]{lang="el"}: [-ώντας]{lang="el"} |
+| [λέω, τρώω, κλαίω]{lang="el"} | [λέγοντας, τρώγοντας, κλαίγοντας]{lang="el"} | [γ]{lang="el"} wie im Imperfekt |
+| [πάω]{lang="el"} | [πηγαίνοντας]{lang="el"} | von [πηγαίνω]{lang="el"} |
+
+Kein Augment, keine Endung für Person, Zahl oder Genus: [περπατώντας]{lang="el"} passt zu „ich“,
+„sie“ und „die ganze Gruppe“. Auch Verben ohne perfektiven Stamm haben eins:
+[ξέροντας, έχοντας]{lang="el"}, gehoben sogar [όντας]{lang="el"} „seiend“ von [είμαι]{lang="el"}.
+Verben auf [-μαι]{lang="el"} dagegen haben keins; dort hilft ein Satz mit [ενώ]{lang="el"}
+„während“ (Kapitel 4): [Ενώ κατέβαινα, φοβόμουν συνέχεια.]{lang="el"}
+
+<!-- CHECK: Gerundium von Verben auf -μαι: Stimmt „haben keins“ als Lernerregel? Umgangssprachlich kommt καθώντας (von κάθομαι) vor; ggf. als Ausnahme nennen. -->
+
+### Was es bedeutet {#sec-partizip-gerundium-bedeutung}
+
+Je nach Zusammenhang heißt dasselbe Gerundium „wie“, „während“ oder „weil“:
+
+- **Art und Weise:** [Έφυγε τρέχοντας.]{lang="el"} Er rannte davon. [Μου το είπε
+  γελώντας.]{lang="el"} Sie sagte es mir lachend.
+- **Gleichzeitig:** [Ανεβαίνοντας, είδαμε δύο κρι-κρι.]{lang="el"} Beim Aufstieg sahen wir zwei
+  Kri-Kris.
+- **Mittel:** [Μαθαίνεις τα μονοπάτια περπατώντας.]{lang="el"} Die Wege lernst du, indem du sie
+  gehst.
+- **Grund:** [Ξέροντας τον καιρό στο βουνό, πήραμε αδιάβροχα.]{lang="el"} Weil wir das Wetter in
+  den Bergen kannten, nahmen wir Regenjacken mit.
+
+Das Subjekt des Gerundiums ist fast immer das Subjekt des Satzes: Wer [ανεβαίνοντας]{lang="el"}
+etwas sieht, ist auch der, der hinaufsteigt.
+
+Einige Gerundien sind feste Wendungen, die du in jedem Gespräch hörst: [τρέχοντας]{lang="el"}
+„in aller Eile“, [πηγαίνοντας]{lang="el"} „auf dem Hinweg“, [γυρίζοντας]{lang="el"} „auf dem
+Rückweg“, [κάνοντας]{lang="el"} + Zeitangabe wie [κάνοντας διακοπές]{lang="el"} „im Urlaub“.
+
+::: {.callout-warning}
+## Achtung
+
+Spanisch und Englisch verführen zu drei Sätzen, die es nicht gibt:
+
+- **Keine Verlaufsform.** [*Estoy caminando*]{lang="es"}, [*I am walking*]{lang="en"}:
+  Griechisch nimmt das Präsens, [Περπατάω.]{lang="el"} \*[Είμαι περπατώντας]{lang="el"} ist
+  falsch.
+- **Kein Gerundium als Nomen.** [*I like walking*]{lang="en"} ist [Μου αρέσει να
+  περπατάω.]{lang="el"} oder [Μου αρέσει το περπάτημα.]{lang="el"}, nie \*[μου αρέσει
+  περπατώντας]{lang="el"}.
+- **Nicht nach [θέλω, μπορώ, πρέπει]{lang="el"}:** Dort steht die [να]{lang="el"}-Form
+  (Kapitel 5).
+:::
+
+### Pronomen, Verneinung, [έχοντας]{lang="el"} {#sec-partizip-gerundium-pronomen}
+
+Kapitel 8 hat es angekündigt: Das Gerundium ist neben dem Imperativ die zweite Stelle, an der
+das schwache Pronomen **hinter** dem Verb steht, wie im Spanischen
+([*diciéndolo*]{lang="es"}), anders als im Französischen ([*en le disant*]{lang="fr"}).
+
+Und weil Gerundien auf [-οντας]{lang="el"} auf der drittletzten Silbe betont sind, kommt mit dem
+Pronomen der zweite Akzent aus Kapitel 9 dazu:
+
+- [λέγοντας + το → λέγοντάς το]{lang="el"} [ˈleɣonˈdas to] indem er es sagt
+- [βλέποντας + τον → βλέποντάς τον]{lang="el"} [ˈvleponˈdas ton] als sie ihn sah
+- [ρωτώντας + τον → ρωτώντας τον]{lang="el"} [roˈtondas ton] indem ich ihn fragte; kein zweiter
+  Akzent, die Betonung liegt schon auf der vorletzten Silbe
+
+Verneint wird das Gerundium mit [μη(ν)]{lang="el"}, nicht mit [δεν]{lang="el"}:
+[Μην ξέροντας το μονοπάτι, χαθήκαμε.]{lang="el"} „Weil wir den Weg nicht kannten, verliefen
+wir uns.“
+
+Und ein Baustein für Erzählungen und Nachrichten, zum Erkennen: [έχοντας]{lang="el"} + Form auf
+[-ει]{lang="el"} heißt „nachdem …“: [Έχοντας περπατήσει οκτώ ώρες, φτάσαμε στο
+καταφύγιο.]{lang="el"} „Nachdem wir acht Stunden gegangen waren, erreichten wir die Hütte.“ Das
+klingt etwas gehoben; im Gespräch sagt man es mit einem Nebensatz (Kapitel 16).
+
+::: {.callout-important}
+## Merke
+
+- **Bildung:** imperfektiver Stamm + [-οντας]{lang="el"} (Betonung bleibt) oder, bei
+  [-άω/-ώ]{lang="el"}, [-ώντας]{lang="el"}. [λέγοντας, τρώγοντας, πηγαίνοντας]{lang="el"}.
+  Unveränderlich; Verben auf [-μαι]{lang="el"} haben keins.
+- **Bedeutung:** wie, während, wodurch, weil; gleichzeitig mit dem Hauptverb, gleiches Subjekt.
+- **Pronomen dahinter**, bei [-οντας]{lang="el"} mit zweitem Akzent: [λέγοντάς το]{lang="el"}.
+  Verneinung mit [μη(ν)]{lang="el"}.
+:::
+
+<!-- EXERCISE: Gerundium bilden, Art: Formen bilden laut (10 Verben: διαβάζω, τρέχω, μιλάω, ρωτάω, ακούω, λέω, τρώω, πάω, ξέρω, ανεβαίνω; dazu ein -μαι-Verb als Falle, z.B. έρχομαι), Lösung mit Betonung und typischen Fehlern *λέοντας, *πάοντας, *περπατάοντας, Schwierigkeit 1 -->
+
+<!-- EXERCISE: Gerundium verwenden, Art: Sätze laut umformen und Fehler finden; Teil A: 5 ενώ-/Nebensatz-Paare zum Wandern in einen Satz mit Gerundium umformen, davon 2 mit schwachem Pronomen (βλέποντάς τον, λέγοντάς το) und 1 mit Verneinung (μην ξέροντας); Teil B: 5 Fehlersätze (*Είμαι περπατώντας, *Μου αρέσει περπατώντας, *δεν ξέροντας, *το λέγοντας, *λέγοντας το ohne Akzent), Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [περπατώντας]{lang="el"} | [perpaˈtondas] | zu Fuß, gehend; beim Gehen |
+| [τρέχοντας]{lang="el"} | [ˈtrexondas] | rennend; in aller Eile |
+| [πηγαίνοντας]{lang="el"} | [piˈʝenondas] | auf dem Hinweg |
+| [γυρίζοντας]{lang="el"} | [ʝiˈrizondas] | auf dem Rückweg |
+| [λέγοντας]{lang="el"} | [ˈleɣondas] | sagend, indem man sagt |
+| [κλαίω, έκλαψα; κλαίγοντας]{lang="el"} | [ˈkleo], [ˈeklapsa]; [ˈkleɣondas] | weinen; weinend |
+| [γελώντας]{lang="el"} | [ʝeˈlondas] | lachend |
+| [ανεβαίνοντας, κατεβαίνοντας]{lang="el"} | [aneˈvenondas], [kateˈvenondas] | beim Aufstieg, beim Abstieg |
+| [Τρώγοντας έρχεται η όρεξη.]{lang="el"} | [ˈtroɣondas ˈerxete i ˈoreksi] | Der Appetit kommt beim Essen. |
+| [η όρεξη]{lang="el"} | [i ˈoreksi] | der Appetit; die Lust |
+| [τρέχω, έτρεξα]{lang="el"} | [ˈtrexo], [ˈetreksa] | rennen, laufen |
+| [το αδιάβροχο]{lang="el"} | [to aˈðʝavroxo] | die Regenjacke |
+| [το περπάτημα]{lang="el"} | [to perˈpatima] | das Gehen, Wandern |
+| [μην ξέροντας]{lang="el"} | [min ˈkserondas] | ohne zu wissen, weil man nicht weiß |
+:::
+
+::: {.callout-note collapse="true"}
+## Exkurs: [ο επόμενος]{lang="el"}, ein Partizip im Verborgenen
+
+Das Griechische hat noch eine dritte Sorte, gelehrt und aus der Katharevousa: Partizipien auf
+[-όμενος]{lang="el"} und [-ούμενος]{lang="el"}. Eins benutzt du seit Kapitel 5, ohne es zu
+merken: [η επόμενη εβδομάδα]{lang="el"}, wörtlich „die folgende Woche“. In Nachrichten und auf
+Formularen stehen viele davon: [ο ενδιαφερόμενος]{lang="el"} „der Interessent“,
+[τα προστατευόμενα είδη]{lang="el"} „die geschützten Arten“. Mehr in Kapitel 28.
+:::
+
+## Hörspur: der Weg zum Drachensee {#sec-partizip-hoerspur}
+
+Die ▶-Aufnahmen im Buch sind synthetische Stimmen, deutlich und etwas zu ordentlich. Echte
+Menschen bringt der Hör-Auftrag am Ende des Abschnitts.
+
+Mikro Papingo im Zagori, im Nordwesten Griechenlands, an einem Samstagabend im Juni. Auf dem
+Platz sitzt ein Wanderer, der gerade vom Berg kommt. Jemand fragt ihn nach dem Weg zur
+Drakolimni, dem „Drachensee“ auf dem Tymfi-Massiv. Vier Wörter vorab: [η πινακίδα]{lang="el"}
+das Schild, [το λιβάδι]{lang="el"} die Wiese, [ο τρίτωνας]{lang="el"} der Molch,
+[ο δράκος]{lang="el"} der Drache. Erst hören, dann lesen:
+
+::: {lang="el" .listen}
+— Συγγνώμη, για τη Δρακόλιμνη από πού ξεκινάει το μονοπάτι;
+
+— Από εδώ, πίσω από την εκκλησία. Βγαίνοντας από το χωριό, θα δείτε μια πινακίδα. Μετά
+ακολουθείτε τα σημάδια· το μονοπάτι είναι καλά σημαδεμένο.
+
+— Πόση ώρα θέλει;
+
+— Μέχρι το καταφύγιο, τρεις ώρες ανεβαίνοντας. Εκεί γεμίζετε νερό στην πηγή. Από το καταφύγιο
+είναι άλλη μια ώρα: κατεβαίνετε σε ένα λιβάδι και ξανανεβαίνετε.
+
+— Είναι δύσκολο;
+
+— Όχι, αλλά είναι ανηφόρα συνέχεια. Εγώ σήμερα ανέβηκα λέγοντας «γιατί το κάνω αυτό;» και
+κατέβηκα τραγουδώντας.
+
+— Και η λίμνη πώς είναι;
+
+— Μικρή, στα δύο χιλιάδες μέτρα, με το χιόνι γύρω γύρω. Μέσα κολυμπάνε μικροί μαύροι δράκοι.
+Τρίτωνες, δηλαδή. Λένε ότι παλιά ζούσε εκεί ένας πραγματικός δράκος, που πολεμούσε με τον δράκο
+του Σμόλικα, πετώντας του βράχους.
+
+— Και αν χαλάσει ο καιρός;
+
+— Αν δείτε σύννεφα πάνω από την κορυφή, γυρίστε πίσω. Και κλείστε κρεβάτι στο καταφύγιο, το
+Σάββατο είναι πάντα γεμάτο.
+
+— Το έχω ήδη κλεισμένο.
+
+— Τότε, καλή ανάβαση!
+:::
+
+<!-- EXERCISE: Hörverstehen mit .listen zur Wegbeschreibung, Auftrag „mit ▶, ohne den Text aufzuklappen“; Teil A: Weg in die richtige Reihenfolge bringen (Schild am Dorfausgang, Hütte/Quelle, Wiese, See) und Zeiten nennen (3 h bis zur Hütte, 1 h weiter); Teil B richtig/falsch (Weg schlecht markiert? Molche = kleine Drachen? Bett noch nicht gebucht? bei Wolken weitergehen?); Teil C beim zweiten Hören alle Gerundien (βγαίνοντας, ανεβαίνοντας, λέγοντας, τραγουδώντας, πετώντας) und Partizipien (σημαδεμένο, κλεισμένο) zählen; Hinweise auf Hörsignale [-ondas] und [-ˈmeno], Schwierigkeit 2 -->
+
+<!-- CHECK: Route Mikro Papingo – Astraka-Hütte (ca. 1950 m) – Drakolimni Tymfi (ca. 2050 m): Gehzeiten rund 3 h bis zur Hütte und 1 h weiter (mit Abstieg in die Lakka Tsoumani und Wiederaufstieg), Quelle am Weg bzw. bei der Hütte, Alpenmolche im See, Legende vom Drachenkampf Tymfi–Smolikas mit geworfenen Felsen. -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Entschuldigung, wo fängt der Weg zur Drakolimni an?
+
+— Hier, hinter der Kirche. Wenn Sie aus dem Dorf hinausgehen, sehen Sie ein Schild. Dann folgen
+Sie den Markierungen; der Weg ist gut markiert.
+
+— Wie lange braucht man?
+
+— Bis zur Hütte drei Stunden bergauf. Dort füllen Sie Wasser an der Quelle auf. Von der Hütte
+ist es noch eine Stunde: Sie steigen in eine Wiese ab und wieder hinauf.
+
+— Ist es schwer?
+
+— Nein, aber es geht die ganze Zeit bergauf. Ich bin heute hinaufgestiegen und habe mir gesagt:
+„Warum tu ich mir das an?“, und singend wieder heruntergekommen.
+
+— Und wie ist der See?
+
+— Klein, auf zweitausend Metern, ringsherum Schnee. Darin schwimmen kleine schwarze Drachen.
+Molche, meine ich. Man erzählt, dass dort früher ein echter Drache lebte, der mit dem Drachen
+vom Smolikas kämpfte und ihm Felsen zuwarf.
+
+— Und wenn das Wetter umschlägt?
+
+— Wenn Sie Wolken über dem Gipfel sehen, kehren Sie um. Und buchen Sie ein Bett in der Hütte,
+samstags ist sie immer voll.
+
+— Hab ich schon gebucht.
+
+— Dann guten Aufstieg!
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η Δρακόλιμνη]{lang="el"} | der Drachensee ([ο δράκος]{lang="el"} + [η λίμνη]{lang="el"}) |
+| [η εκκλησία]{lang="el"} | die Kirche (Kapitel 9) |
+| [σημαδεμένος, -η, -ο]{lang="el"} | markiert |
+| [Πόση ώρα θέλει;]{lang="el"} | Wie lange braucht man? (umg.) |
+| [γεμίζω]{lang="el"} | füllen (Kapitel 9) |
+| [ξανανεβαίνω]{lang="el"} | wieder hinaufsteigen ([ξανα-]{lang="el"}, Kapitel 14) |
+| [τραγουδώντας]{lang="el"} | singend |
+| [ο τρίτωνας]{lang="el"} | der Molch (hier der Alpenmolch) |
+| [πολεμάω]{lang="el"} | kämpfen, Krieg führen |
+| [πετάω]{lang="el"} | werfen (Kapitel 9) |
+| [χαλάει ο καιρός]{lang="el"} | das Wetter schlägt um |
+| [γεμάτος, -η, -ο]{lang="el"} | voll |
+| [Καλή ανάβαση!]{lang="el"} | Guten Aufstieg! |
+:::
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το μονοπάτι]{lang="el"} | [to monoˈpati] | der Pfad, Wanderweg |
+| [ξεκινάω, ξεκίνησα]{lang="el"} | [kseciˈnao], [kseˈcinisa] | losgehen, anfangen |
+| [ακολουθώ, ακολούθησα]{lang="el"} | [akoluˈθo], [akoˈluθisa] | folgen |
+| [το σημάδι]{lang="el"} | [to siˈmaði] | das Zeichen, die Markierung |
+| [το καταφύγιο]{lang="el"} | [to kataˈfiʝo] | die (Berg-)Hütte; der Schutzraum |
+| [η πηγή]{lang="el"} | [i piˈʝi] | die Quelle |
+| [η ανηφόρα, η κατηφόρα]{lang="el"} | [i aniˈfora], [i katiˈfora] | der Anstieg, das Gefälle; bergauf, bergab |
+| [η λίμνη]{lang="el"} | [i ˈlimni] | der See |
+| [η κορυφή]{lang="el"} | [i koriˈfi] | der Gipfel |
+| [χαλάω, χάλασα; χαλασμένος]{lang="el"} | [xaˈlao], [ˈxalasa]; [xalazˈmenos] | kaputt machen, kaputtgehen; kaputt |
+:::
+
+### Partizip und Gerundium hören {#sec-partizip-hoeren}
+
+Beide Formen haben ein Klangzeichen, das man auch in schneller Rede fängt:
+
+- **Partizip:** betontes [ˈme] vor der Endung, [-ˈmenos, -ˈmeni, -ˈmeno, -ˈmena]. Davor oft
+  [z], [m] oder [ɣ]: [kurazˈmenos, ɣraˈmenos, vreɣˈmenos].
+- **Gerundium:** [-ondas] am Wortende, mit [d], nicht [nt]. Betont ist entweder die Silbe davor
+  ([ˈleɣondas, kateˈvenondas]) oder das [o] selbst ([perpaˈtondas]).
+
+Vorsicht bei [ο μέλλοντας]{lang="el"} „das Futur“ und [ο κυνόδοντας]{lang="el"} „der Eckzahn“
+(Kapitel 15): Das sind Nomen, die nur so klingen. Sie haben einen Artikel davor.
+
+<!-- EXERCISE: Hör-Auftrag Easy Greek (https://www.youtube.com/@EasyGreekVideos): ein Straßeninterview über Urlaub, Reisen oder Natur suchen (Suchwörter διακοπές, βουνό, ταξίδι; Ausweichlösung: irgendein Interview); Durchgang 1 ohne Untertitel: Striche für jedes [-ondas] und jedes betonte [-ˈmenos/-ˈmeni/-ˈmeno]; Durchgang 2 mit griechischen Untertiteln prüfen und die häufigsten Formen notieren (erwartbar: κουρασμένος, αγαπημένος, ευχαριστημένος, κάνοντας, πηγαίνοντας); offene Lösung mit Auswertungskriterien, Schwierigkeit 2 -->
+
+## Das Wichtigste {#sec-partizip-wichtigste}
+
+- Das **Partizip auf [-μένος]{lang="el"}** kommt vom Mediopassiv-Aorist: [-θηκα/-τηκα]{lang="el"}
+  weg, [-μένος]{lang="el"} dran, [φ → μ, χ → γ]{lang="el"}: [κουρασμένος, γραμμένος,
+  ανοιγμένος, αγαπημένος, χαμένος]{lang="el"}. Betonung immer auf [-μέ-]{lang="el"}. Eigene
+  Wege: [βρεγμένος, καμένος, πεθαμένος]{lang="el"}.
+- Es ist ein **Adjektiv** ([-μένος, -μένη, -μένο]{lang="el"}): vor oder hinter dem Nomen, nach
+  [είμαι]{lang="el"}, in Schlagzeilen. Viele Gefühle sind Partizipien: [κουρασμένος,
+  θυμωμένος, ερωτευμένος]{lang="el"}.
+- **Zustand oder Ereignis:** [είναι κλεισμένο]{lang="el"} gegen [κλείστηκε]{lang="el"}; im
+  Alltag [κλειστός, ανοιχτός]{lang="el"}. [έχω]{lang="el"} + Partizip: [Τα έχω
+  κλεισμένα.]{lang="el"}
+- Das **Gerundium** ist unveränderlich, kommt vom imperfektiven Stamm und bedeutet wie, während,
+  wodurch, weil: [-οντας]{lang="el"} ([γράφοντας, λέγοντας, πηγαίνοντας]{lang="el"}) oder
+  [-ώντας]{lang="el"} ([περπατώντας]{lang="el"}). Keine Verlaufsform, kein Nomen, keine Form von
+  Verben auf [-μαι]{lang="el"}.
+- **Pronomen dahinter** mit zweitem Akzent: [λέγοντάς το]{lang="el"}; Verneinung
+  [μην ξέροντας]{lang="el"}; gehoben [έχοντας περπατήσει]{lang="el"} „nachdem …“.
+
+## Zum Lesen: zwei Schluchten {#sec-partizip-lesetext}
+
+Griechenland hat Hunderte Schluchten. Zwei davon kennt fast jeder Grieche, auch wer nie einen
+Wanderschuh getragen hat. Lies den Text einmal ganz, dann mit Wortschatz, dann mit ▶.
+
+::: {lang="el"}
+**Δύο φαράγγια**
+
+Κάθε καλοκαίρι, στις επτά το πρωί, στο Ξυλόσκαλο, ψηλά στα Λευκά Όρη της Κρήτης, περιμένουν
+εκατοντάδες άνθρωποι με μπαστούνια και σακίδια φορτωμένα νερό. Μπροστά τους είναι το πιο
+διάσημο φαράγγι της Ελλάδας: η Σαμαριά. Δεκαέξι χιλιόμετρα μέχρι τη θάλασσα, σχεδόν όλα
+κατηφόρα.
+
+Το όνομα, λένε, έρχεται από μια μικρή εκκλησία της Οσίας Μαρίας, κρυμμένη στη μέση του
+φαραγγιού. Εκεί υπήρχε και ένα χωριό, η Σαμαριά. Το 1962 η περιοχή έγινε εθνικό πάρκο, και οι
+κάτοικοι έφυγαν. Σήμερα τα σπίτια είναι άδεια, και ανάμεσά τους κυκλοφορούν ελεύθερα τα κρι-κρι,
+οι αγριοκατσίκες της Κρήτης.
+
+Περπατώντας τρεις με τέσσερις ώρες, φτάνεις στις Πόρτες. Εκεί οι δύο τοίχοι του φαραγγιού
+απέχουν μόνο τρία με τέσσερα μέτρα, και πάνω από το κεφάλι σου υψώνονται εκατοντάδες μέτρα
+βράχος. Βγαίνοντας από το φαράγγι, οι περισσότεροι φτάνουν στην Αγία Ρουμέλη κουρασμένοι αλλά
+ευτυχισμένοι. Εκεί δεν υπάρχει δρόμος· φεύγεις με το καράβι.
+
+Στην άλλη άκρη της χώρας, στην Ήπειρο, η Πίνδος κρύβει ένα άλλο φαράγγι: τον Βίκο. Είναι πιο
+ήσυχος από τη Σαμαριά και πολύ πιο βαθύς. Γύρω του βρίσκονται τα Ζαγοροχώρια, σαράντα έξι
+χωριά χτισμένα από πέτρα, με πέτρινα γεφύρια και σκεπές από πλάκες. Το 2023 το Ζαγόρι γράφτηκε
+στον κατάλογο της UNESCO.
+
+Στον πάτο του φαραγγιού τρέχει ο Βοϊδομάτης, ένα ποτάμι με νερό καθαρό σαν γυαλί και παγωμένο
+ακόμα και τον Αύγουστο. Όποιος βάζει τα πόδια του μέσα, τα βγάζει τρέχοντας.
+
+Ποιο φαράγγι είναι το καλύτερο; Οι Κρητικοί λένε τη Σαμαριά, οι Ηπειρώτες τον Βίκο. Ένα είναι
+σίγουρο: τα μονοπάτια τα μαθαίνεις περπατώντας, και την Ελλάδα τρώγοντας στο τέλος της μέρας.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [το Ξυλόσκαλο]{lang="el"} | Xyloskalo, „die Holztreppe“, der Einstieg in die Schlucht |
+| [τα Λευκά Όρη]{lang="el"} | die Weißen Berge |
+| [οι εκατοντάδες]{lang="el"} | Hunderte |
+| [το μπαστούνι]{lang="el"} | der (Wander-)Stock |
+| [φορτωμένος, -η, -ο]{lang="el"} | beladen ([φορτώνω]{lang="el"} beladen) |
+| [διάσημος, -η, -ο]{lang="el"} | berühmt (Kapitel 15) |
+| [η Οσία Μαρία]{lang="el"} | die heilige Maria (von Ägypten) |
+| [ο κάτοικος]{lang="el"} | der Einwohner (Kapitel 14) |
+| [κυκλοφορώ]{lang="el"} | sich bewegen, unterwegs sein |
+| [η αγριοκατσίκα]{lang="el"} | die Wildziege |
+| [απέχω]{lang="el"} | entfernt sein |
+| [υψώνομαι]{lang="el"} | aufragen |
+| [η άκρη]{lang="el"} | das Ende, der Rand |
+| [η Ήπειρος]{lang="el"} | Epirus |
+| [η Πίνδος]{lang="el"} | der Pindos (Gebirge) |
+| [βαθύς, βαθιά, βαθύ]{lang="el"} | tief (Kapitel 12) |
+| [η σκεπή]{lang="el"} | das Dach |
+| [η πλάκα]{lang="el"} | die Steinplatte |
+| [ο κατάλογος]{lang="el"} | die Liste |
+| [ο πάτος]{lang="el"} | der Grund, der Boden |
+| [το γυαλί]{lang="el"} | das Glas |
+| [όποιος]{lang="el"} | wer (auch immer) (Kapitel 15) |
+| [ο Κρητικός]{lang="el"} | der Kreter |
+| [ο Ηπειρώτης]{lang="el"} | der Epirote, Mann aus Epirus |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Zwei Schluchten**
+
+Jeden Sommer um sieben Uhr morgens warten in Xyloskalo, hoch oben in den Weißen Bergen Kretas,
+Hunderte Menschen mit Stöcken und Rucksäcken voller Wasser. Vor ihnen liegt die berühmteste
+Schlucht Griechenlands: Samaria. Sechzehn Kilometer bis zum Meer, fast alles bergab.
+
+Der Name, heißt es, kommt von einer kleinen Kirche der heiligen Maria, versteckt in der Mitte der
+Schlucht. Dort gab es auch ein Dorf, Samaria. 1962 wurde die Gegend Nationalpark, und die
+Bewohner zogen weg. Heute sind die Häuser leer, und zwischen ihnen laufen frei die Kri-Kris
+herum, die Wildziegen Kretas.
+
+Nach drei bis vier Stunden Gehen erreichst du die Portes. Dort liegen die beiden Wände der
+Schlucht nur drei bis vier Meter auseinander, und über deinem Kopf ragen Hunderte Meter Fels auf.
+Wenn sie aus der Schlucht kommen, erreichen die meisten Agia Roumeli müde, aber glücklich. Dort
+gibt es keine Straße; man fährt mit dem Schiff weiter.
+
+Am anderen Ende des Landes, in Epirus, versteckt der Pindos eine andere Schlucht: den Vikos. Er
+ist ruhiger als Samaria und viel tiefer. Um ihn herum liegen die Zagorochoria, sechsundvierzig
+Dörfer aus Stein, mit Steinbrücken und Dächern aus Steinplatten. 2023 wurde das Zagori in die
+Liste der UNESCO eingetragen.
+
+Auf dem Grund der Schlucht fließt der Voidomatis, ein Fluss mit Wasser klar wie Glas und eiskalt,
+selbst im August. Wer die Füße hineinhält, zieht sie im Laufschritt wieder heraus.
+
+Welche Schlucht ist die beste? Die Kreter sagen Samaria, die Epiroten Vikos. Eins ist sicher: Die
+Wege lernst du beim Gehen kennen, und Griechenland beim Essen am Ende des Tages.
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+- **Samaria:** Die sechzehn Kilometer rechnen den Weg vom Einstieg bis zum Dorf Agia Roumeli;
+  die Schlucht selbst ist etwa dreizehn Kilometer lang. Dass der Name von der Kirche der Osia
+  Maria kommt, ist die gängige Herleitung. Die Schlucht ist nur im Sommerhalbjahr geöffnet und
+  wird bei Regen gesperrt.
+- **Vikos:** Er stand einmal im Guinness-Buch als tiefste Schlucht der Welt im Verhältnis zu
+  ihrer Breite. Wie tief er ist, hängt davon ab, wo und von welchem Rand man misst; die Angaben
+  schwanken zwischen einigen hundert Metern und fast einem Kilometer.
+- **Voidomatis** heißt wörtlich „Ochsenauge“ ([το βόδι]{lang="el"} + [το μάτι]{lang="el"}); wie
+  es zu dem Namen kam, ist nicht sicher.
+:::
+
+<!-- CHECK: Samaria: Einstieg Xyloskalo, Öffnung morgens um 7 Uhr, 16 km bis Agia Roumeli (Schlucht ca. 13 km), Portes 3–4 m breit, Gehzeit bis zu den Portes 3–4 h, Nationalpark 1962 und Aussiedlung des Dorfes Samaria, Kirche der Osia Maria (1379). Vikos: Zagori 46 Dörfer, UNESCO-Welterbe „Zagori Cultural Landscape“ 2023 (wörtlich „γράφτηκε στον κατάλογο“ passend?), Guinness-Eintrag. -->
+
+<!-- EXERCISE: Leseverstehen und Formen im Lesetext, Art: Teil A richtig/falsch (7 Aussagen: Samaria fast nur bergauf?; Dorf Samaria heute bewohnt?; Portes sehr eng?; Agia Roumeli mit dem Auto erreichbar?; Vikos ruhiger als Samaria?; Zagori-Dörfer aus Holz?; Voidomatis im August warm?); Teil B alle Partizipien (φορτωμένα, κρυμμένη, κουρασμένοι, ευτυχισμένοι, χτισμένα, παγωμένο) und Gerundien (περπατώντας, βγαίνοντας, τρέχοντας, τρώγοντας) finden, bei Partizipien Bezugswort und Endung, bei Gerundien das Präsens nennen; Falle: υψώνονται/βρίσκονται sind Mediopassiv, kein Partizip; Teil C drei Sätze laut umformen (Gerundium → Satz mit ενώ bzw. όταν), Schwierigkeit 3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η πεζοπορία]{lang="el"} | [i pezopoˈria] | das Wandern, die Wanderung |
+| [το σακίδιο]{lang="el"} | [to saˈciðio] | der Rucksack |
+| [το εθνικό πάρκο]{lang="el"} | [to eθniˈko ˈparko] | der Nationalpark |
+| [άδειος, -α, -ο]{lang="el"} | [ˈaðʝos] | leer |
+| [πέτρινος, -η, -ο]{lang="el"} | [ˈpetrinos] | aus Stein |
+| [χτισμένος, -η, -ο]{lang="el"} | [xtizˈmenos] | gebaut |
+| [το γεφύρι]{lang="el"} | [to ʝeˈfiri] | die (Stein-)Brücke |
+| [καθαρός, -ή, -ό]{lang="el"} | [kaθaˈros] | sauber, klar |
+:::

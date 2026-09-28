@@ -81,8 +81,8 @@ Der letzte Satz kommt von weiter vorn in der Schlange. Szenen wie diese gab es i
 tausendfach; mehr dazu im Lesetext am Ende des Kapitels.
 
 Grammatisch ist das Gespräch eine Sammlung kleiner Wörter, die Sätze verbinden:
-[ότι]{lang="el"} „dass“, [πριν]{lang="el"} „bevor“, [επειδή]{lang="el"} und [γιατί]{lang="el"}
-„weil“ (einmal auch „warum“), [για να]{lang="el"} „um zu“, [όταν]{lang="el"} „als“,
+[ότι]{lang="el"} „dass“, [πριν]{lang="el"} „bevor“, [επειδή]{lang="el"} „weil“, [γιατί]{lang="el"} einmal
+„warum“, einmal „weil“, [για να]{lang="el"} „um zu“, [όταν]{lang="el"} „als“,
 [αν και]{lang="el"} „obwohl“ und zweimal [που]{lang="el"} nach einem Gefühl: [χαίρεται
 που]{lang="el"}, [λυπάμαι που]{lang="el"}. Solche Wörter heißen **Konjunktionen**
 ([οι σύνδεσμοι]{lang="el"}); der Satz, den sie einleiten, ist ein **Nebensatz**
@@ -144,7 +144,8 @@ Konjunktionen:
 
 Links folgt ein Verb in jeder beliebigen Zeit, wie im Hauptsatz: [ότι θα ανοίξουν, όταν
 έκλεισαν, επειδή είμαι]{lang="el"}. Rechts folgt die [να]{lang="el"}-Form, die keine Zeit hat. In
-der linken Spalte sagt man, was ist oder war; in der rechten, was sein soll oder noch nicht ist.
+der linken Spalte steht, was Tatsache ist oder war; in der rechten, was erst sein soll, noch nicht
+ist oder gerade nicht geschieht.
 Das kennst du aus dem Spanischen: [*porque viene*]{lang="es"} mit Indikativ, aber
 [*para que venga, antes de que venga, sin que venga*]{lang="es"} mit Subjuntivo, im Französischen
 ebenso [*pour que, avant que, sans que*]{lang="fr"} + Subjonctif. Die rechte Spalte ist fast
@@ -266,7 +267,7 @@ In Nachrichten und Behördentexten liest du noch **[διότι]{lang="el"}** [ð
 ::: {.callout-warning}
 ## Achtung
 
-- \*[Γιατί έβρεχε, μείναμε σπίτι.]{lang="el"} klingt wie eine abgebrochene Frage. Steht der
+- [Γιατί έβρεχε, μείναμε σπίτι.]{lang="el"} klingt wie eine abgebrochene Frage. Steht der
   Grund vorn, nimm [επειδή]{lang="el"}: [Επειδή έβρεχε, μείναμε σπίτι.]{lang="el"} Das Spanische
   kennt dieselbe Arbeitsteilung: [*como llovía*]{lang="es"} vorn, [*porque*]{lang="es"} hinten.
 - [γιατί]{lang="el"} [ʝaˈti] ist zweisilbig: kein [i-a], sondern ein *j* wie in *ja*.
@@ -301,8 +302,8 @@ Nach [όταν]{lang="el"} „als, wenn“ wählst du Zeit und Aspekt nach den R
 - [Μόλις άνοιξαν οι τράπεζες, οι ουρές μπήκαν μέσα.]{lang="el"} – Kaum hatten die Banken
   aufgemacht, zogen die Schlangen nach drinnen um.
 
-Den Unterschied zum „gerade eben“ aus Kapitel 7 zeigt der Satz: Folgt ein zweiter Satz, ist es
-„sobald“.
+Den Unterschied zum „gerade eben“ aus Kapitel 7 zeigt der Satz: Folgt ein zweiter Satz, ist es in
+der Regel „sobald“.
 
 - [Μόλις έφτασα.]{lang="el"} – Ich bin gerade angekommen.
 - [Μόλις έφτασα, σε πήρα τηλέφωνο.]{lang="el"} – Sobald ich angekommen war, habe ich dich angerufen.
@@ -350,8 +351,9 @@ Bei Zukunftsbezug nach [όταν, μόλις, αφού]{lang="el"}: perfektive F
 ## Achtung
 
 - \*[πριν έφυγα]{lang="el"}: Nach [πριν]{lang="el"} nie der Aorist. Richtig: [πριν φύγω]{lang="el"}.
-- \*[όταν θα φτάσω, θα σε πάρω]{lang="el"}: Das doppelte [θα]{lang="el"} ist deutsch gedacht
-  („wenn ich ankommen werde“). Standard ist [όταν φτάσω]{lang="el"}.
+- [όταν θα φτάσω, θα σε πάρω]{lang="el"} ist deutsch gedacht („wenn ich ankommen werde“).
+  Standard ist [όταν φτάσω]{lang="el"}; die Variante mit [θα]{lang="el"} hörst du im Gespräch
+  gelegentlich, nachahmen musst du sie nicht (Kapitel 17).
 :::
 
 <!-- CHECK: „όταν θα φτάσω“ kommt umgangssprachlich vor; als „nicht Standard“ markieren statt als Fehler? Ggf. Achtung-Box abschwächen und auf Kapitel 17 verweisen. -->
@@ -446,10 +448,10 @@ ist [παρόλο που]{lang="el"} „obwohl, trotz der Tatsache, dass“ (Kap
 [*while*]{lang="en"} hat es noch eine zweite Bedeutung, den Gegensatz, und dann ist jede Zeit und
 jeder Aspekt möglich:
 
-- [Οι μισθοί έπεσαν, ενώ οι τιμές ανέβηκαν.]{lang="el"} – Die Löhne fielen, während (dagegen) die
-  Preise stiegen.
-- [Ενώ ήξερε ότι δεν έχει λεφτά, αγόρασε αυτοκίνητο.]{lang="el"} – Obwohl er wusste, dass er kein
-  Geld hat, kaufte er ein Auto.
+- [Οι μισθοί έπεσαν, ενώ οι φόροι ανέβηκαν.]{lang="el"} – Die Löhne fielen, während (dagegen) die
+  Steuern stiegen.
+- [Ενώ ήξερε ότι δεν είχε λεφτά, αγόρασε αυτοκίνητο.]{lang="el"} – Obwohl er wusste, dass er kein
+  Geld hatte, kaufte er ein Auto.
 
 Das zweite [ενώ]{lang="el"} ist schon fast „obwohl“. Ob „während“ oder „dagegen“, entscheidet der
 Sinn, wie im Deutschen.
@@ -461,7 +463,7 @@ Sinn, wie im Deutschen.
 |---|---|---|
 | [αν και]{lang="el"} | [an ce] | obwohl |
 | [παρόλο που]{lang="el"} | [paˈrolo pu] | obwohl, obgleich |
-| [η τιμή, οι τιμές]{lang="el"} | [i tiˈmi], [i tiˈmes] | der Preis; die Ehre |
+| [ο φόρος]{lang="el"} | [o ˈforos] | die Steuer |
 | [πέφτω, έπεσα]{lang="el"} | [ˈpefto], [ˈepesa] | fallen, sinken |
 :::
 
@@ -540,13 +542,15 @@ Kaffee zurück.
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [η σχολή]{lang="el"} | [i sxoˈli] | die Fakultät, die Hochschule; [τελειώνω τη σχολή]{lang="el"} das Studium abschließen |
-| [η σύνταξη]{lang="el"} | [i ˈsindaksi] | die Rente |
-| [ο/η συνταξιούχος]{lang="el"} | [sindaˈksʝuxos] | der Rentner, die Rentnerin |
+| [η σύνταξη]{lang="el"} | [i ˈsidaksi] | die Rente |
+| [ο/η συνταξιούχος]{lang="el"} | [sidaˈksʝuxos] | der Rentner, die Rentnerin |
 | [το εγγόνι, τα εγγόνια]{lang="el"} | [to eŋˈgoni], [ta eŋˈgoɲa] | das Enkelkind |
 | [παραπονιέμαι, παραπονέθηκα]{lang="el"} | [parapoˈɲeme], [parapoˈneθika] | sich beschweren, klagen |
 | [μετανιώνω, μετάνιωσα]{lang="el"} | [metaˈɲono], [meˈtaɲosa] | bereuen |
 | [ο κόσμος]{lang="el"} (+ Verb im Singular) | [o ˈkozmos] | die Leute ([ο κόσμος έπινε]{lang="el"} die Leute tranken) |
 :::
+
+<!-- CHECK: IPA σύνταξη [ˈsidaksi], συνταξιούχος [sidaˈksʝuxos] nach Buchkonvention „ντ = [d]“ (wie τσάντα [ˈtsada]); bei συν- ist [nd] wohl häufiger – Konvention hier beibehalten oder [ˈsindaksi]? -->
 
 ### Nebensätze hören {#sec-nebensatz-hoeren}
 
@@ -620,8 +624,8 @@ Drei Stellen zum Lesen:
 
 - **[τόσα πολλά, ώστε …]{lang="el"}** „so viel, dass …“: [ώστε]{lang="el"} leitet eine Folge ein,
   mit normalem Verb. Zum Erkennen reicht es.
-- **[να μην μπορούσαν να πληρώνουν]{lang="el"}** steht nicht da, aber [δεν μπορούσαν να
-  πληρώνουν νοίκι]{lang="el"}: Film nach [να]{lang="el"}, weil die Miete jeden Monat fällig ist.
+- **[δεν μπορούσαν να πληρώνουν νοίκι]{lang="el"}**: Film nach [να]{lang="el"}, weil die Miete
+  jeden Monat fällig ist; [να πληρώσουν]{lang="el"} wäre eine einzelne Rechnung.
 - **[έλεγαν στους ηλικιωμένους να μη βγαίνουν]{lang="el"}**: [λέω να]{lang="el"} als
   Aufforderung, verneint mit [μη]{lang="el"}, Film für ein Verhalten.
 
@@ -723,7 +727,6 @@ Politics* (2020).
 | [το χρέος, τα χρέη]{lang="el"} | [to ˈxreos], [ta ˈxrei] | die Schuld (Geld) |
 | [το δάνειο]{lang="el"} | [to ˈðanio] | der Kredit, das Darlehen |
 | [δανείζομαι, δανείστηκα]{lang="el"} | [ðaˈnizome], [ðaˈnistika] | sich (Geld) leihen |
-| [ο φόρος]{lang="el"} | [o ˈforos] | die Steuer |
 | [μειώνω, μείωσα; μειώνομαι, μειώθηκα]{lang="el"} | [miˈono], [ˈmiosa]; [miˈonome], [miˈoθika] | kürzen, senken; sinken, gekürzt werden |
 | [άνεργος, -η, -ο]{lang="el"} | [ˈanerɣos] | arbeitslos |
 | [η ανεργία]{lang="el"} | [i anerˈʝia] | die Arbeitslosigkeit |
