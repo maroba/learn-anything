@@ -12,7 +12,7 @@
 | 04 Erzählen: Imperfekt und Aspekt | veröffentlicht | Welle 2; Audio vollständig |
 | 05 Der zweite Stamm in der Zukunft: θα und να | veröffentlicht | Welle 3; Audio läuft |
 | 06 Auf dem Markt: Nomen, Adjektive, Zahlen | veröffentlicht | Welle 2; Audio ausstehend |
-| 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | Konsistenz | Welle 3; überarbeitet |
+| 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | veröffentlicht | Welle 3; Audio ausstehend |
 | 11 Zeit: Uhrzeit, Datum, Jahreszahlen | im Review | Welle 3; Übungen fertig |
 | 10 Verben auf -μαι im Alltag | Entwurf | Welle 4 |
 
