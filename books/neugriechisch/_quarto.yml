@@ -18,6 +18,7 @@ book:
         text: "Bibliothek"
   chapters:
     - index.qmd
+    - chapters/01-auffrischung.qmd
     - chapters/02-aorist.qmd
 
 lang: de

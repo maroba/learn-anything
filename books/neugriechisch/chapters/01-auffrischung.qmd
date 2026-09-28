@@ -1,0 +1,12 @@
+---
+title: "Auffrischung: Klang und Präsens-Gerüst"
+---
+
+::: {.callout-note}
+## Dieses Kapitel entsteht gerade
+
+Hier geht es bald zügig durch alles, was du aus einem Anfängerkurs mitbringst: die Aussprache
+mit allen Buchstabenkombinationen ([μπ, ντ, γκ, τσ, τζ, αι, ει, οι, ου, αυ, ευ]{lang="el"}), die
+Betonung, das Präsens aller Verbklassen, [είμαι]{lang="el"} und [έχω]{lang="el"}, Artikel im
+Nominativ und Akkusativ und die ersten Wörter, mit denen Griechen ein Gespräch in Gang halten.
+:::

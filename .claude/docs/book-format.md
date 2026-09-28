@@ -51,6 +51,7 @@ Titel immer in der Buchsprache. Diese Typen haben eine feste Bedeutung:
 | Übung | `::: {.callout-note .exercise}` + `## Übung N.M` |
 | Hinweis zu einer Übung (eingeklappt) | `::: {.callout-tip collapse="true" .hint}` + `## Hinweis 1` |
 | Lösung (eingeklappt) | `::: {.callout-tip collapse="true" .solution}` + `## Lösung` |
+| Übersetzung eines Textes (eingeklappt) | `::: {.callout-note collapse="true" .translation}` + `## Übersetzung` |
 | Leserfrage | `::: {.callout-note .reader-question}` + `## Leserfrage: …` |
 | Wiederholung früheren Stoffs | `::: {.callout-note .review}` + `## Zur Wiederholung` |
 | Unsichere Aussage | `::: {.callout-caution .uncertain}` + `## Vorsicht` |

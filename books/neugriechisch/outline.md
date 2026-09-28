@@ -31,7 +31,7 @@ bis zwei Wochen pro Kapitel bei 5 Stunden pro Woche.
 
 ### 03 Die fünfzehn Unregelmäßigen
 - **Datei:** 03-unregelmaessige-aoriste
-- **Lernziele:** kann die Aoriste der häufigsten unregelmäßigen Verben (είδα, ήρθα, πήγα, είπα, βρήκα, ήπια, έφαγα, έμαθα, πήρα, έδωσα, βγήκα, μπήκα, ανέβηκα, κατέβηκα, έμεινα) erkennen und bilden; kann sie beim Hören erkennen
+- **Lernziele:** kann die Aoriste der häufigsten unregelmäßigen Verben (είδα, ήρθα, πήγα, είπα, βρήκα, ήπια, έφαγα, έμαθα, πήρα, έδωσα, βγήκα, μπήκα, ανέβηκα, κατέβηκα, έκανα) erkennen und bilden; kann sie beim Hören erkennen
 - **Voraussetzungen:** 02
 - **Lesezeit:** 40 min
 - **Inhalt:** Gruppen mit Eselsbrücken statt Liste; Sachthema: die Odyssee als Reisebericht in Alltagsgriechisch; Hörspur: Aoriste in schneller Rede
