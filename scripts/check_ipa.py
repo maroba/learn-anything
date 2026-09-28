@@ -144,7 +144,7 @@ def join_elisions(greek: str) -> str:
     """Merge elided forms into one phonological word.
     θ’ ανέβω → θανέβω (stress stays on the verb);
     να ’σαι → νάσαι, σ’ το ’πα → στόπα (the lost stressed vowel passes its stress to the small word)."""
-    greek = greek.replace("'", "’")
+    greek = greek.replace("'", "’").replace("…", " ")
     greek = re.sub(r"(\w)’\s+(?=\w)", r"\1", greek)  # final-vowel elision: θ’ ανέβω
     return re.sub(r"(\w+)\s+’(\w+)", lambda m: _stress_last_vowel(m.group(1)) + m.group(2), greek)
 
@@ -152,6 +152,7 @@ def join_elisions(greek: str) -> str:
 def matches(greek: str, ipa: str) -> bool:
     """True if the book's IPA fits the rules, word by word (as many words as the IPA gives)."""
     words = [w for w in re.split(r"\s+", join_elisions(greek).replace("’", "")) if w]
+    ipa = ipa.replace("…", " ")
     ipa_words = [w for w in ipa.split() if w]
     if len(ipa_words) == 1 and len(words) > 1:
         # IPA for a single word of a phrase: accept if it fits any of the words
