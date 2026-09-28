@@ -538,7 +538,8 @@ ein Wort verstanden hast:
 
 - **Aoriste ohne [-ce]:** [eˈlifθi, sineˈlifθi, ðiekˈsixθi] enden auf [-i], wo das Gespräch
   [-ice] hätte ([ˈlifθice]).
-- **[-u, -is, -on] direkt nach [ˈloɣo, eˈdos, ˈmeso]:** der Genitiv nach gelehrten Präpositionen.
+- **[tu, tis, ton] oder [-u, -as, -is] direkt nach [ˈloɣo, eˈdos, ˈmeso]:** der Genitiv nach
+  gelehrten Präpositionen ([ˈloɣo ksiraˈsias]).
 - **[-ˈomeni, -odes]:** gelehrte Partizipien, oft mit Artikel davor: [i erɣaˈzomeni],
   [i simeˈtexodes].
 
