@@ -12,7 +12,7 @@ title: "Wenn … dann: realer Konditional und Zeitsätze"
   [πριν, μέχρι να]{lang="el"} immer die [να]{lang="el"}-Form.
 :::
 
-## Αν δεν έχεις ΑΦΜ, δεν υπάρχεις {#sec-bedingung-einstieg}
+## [Αν δεν έχεις ΑΦΜ, δεν υπάρχεις]{lang="el"} {#sec-bedingung-einstieg}
 
 Thessaloniki, ein Café in der Oberstadt. Jemand ist vor einer Woche für eine neue Stelle
 hergezogen und trifft eine griechische Kollegin.
@@ -95,7 +95,7 @@ falls“ kennst du seit Kapitel 5 als Vokabel, und in früheren Kapiteln stand e
 φτάσουμε στις εφτά.]{lang="el"} (Kapitel 12). Jetzt kommt die Regel dazu. Achte im Dialog auf die Verben
 hinter [αν]{lang="el"}: [ξυπνήσεις, φτάσεις, ρωτήσουν, πιστέψουν, πέσεις]{lang="el"}. Das sind
 genau die Formen, die du von [θα]{lang="el"} und [να]{lang="el"} kennst. Nur zwei Verben stehen im
-Präsens: [έχεις]{lang="el"} und [είσαι]{lang="el"}, beide ohne Foto-Form.
+Präsens: [έχεις]{lang="el"} und [είσαι]{lang="el"}, beide ohne perfektiven Stamm.
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -108,11 +108,11 @@ Präsens: [έχεις]{lang="el"} und [είσαι]{lang="el"}, beide ohne Foto-F
 | [ο ιδιοκτήτης, η ιδιοκτήτρια]{lang="el"} | [o iðʝoˈktitis], [i iðʝoˈktitria] | der Eigentümer, die Eigentümerin; Vermieter(in) |
 | [νοικιάζω, νοίκιασα]{lang="el"} | [niˈcazo], [ˈnicasa] | mieten; vermieten |
 | [ζητάω, ζήτησα]{lang="el"} | [ziˈtao], [ˈzitisa] | verlangen, bitten um; fragen nach |
-| [το χαρτί, τα χαρτιά]{lang="el"} | [to xarˈti], [ta xarˈtʝa] | das Papier; Pl. auch: die Unterlagen |
+| [το χαρτί, τα χαρτιά]{lang="el"} | [to xarˈti], [ta xarˈtça] | das Papier; Pl. auch: die Unterlagen |
 | [το διαβατήριο]{lang="el"} | [to ðʝavaˈtirio] | der Reisepass |
 | [η διεύθυνση]{lang="el"} | [i ðiˈefθinsi] | die Adresse; die Leitung (einer Firma) |
 | [το γκισέ]{lang="el"} | [to ɟiˈse] | der Schalter |
-| [ο/η υπάλληλος]{lang="el"} | [iˈpalilos] | der/die Angestellte; am Amt: Beamter, Beamtin |
+| [ο/η υπάλληλος]{lang="el"} | [o/i iˈpalilos] | der/die Angestellte; am Amt: Beamter, Beamtin |
 | [Εξαρτάται.]{lang="el"} | [eksarˈtate] | Kommt drauf an. |
 :::
 
@@ -133,10 +133,10 @@ Präsens: [έχεις]{lang="el"} und [είσαι]{lang="el"}, beide ohne Foto-F
 
 Ein **Bedingungssatz** ([ο υποθετικός λόγος]{lang="el"}) hat zwei Teile: die **Bedingung** mit
 [αν]{lang="el"} und die **Folge** im Hauptsatz. Dieses Kapitel behandelt den **realen**
-Bedingungssatz: Die Bedingung kann wirklich eintreten. Den irrealen („wenn ich einen ΑΦΜ hätte“)
+Bedingungssatz: Die Bedingung kann wirklich eintreten. Den irrealen („wenn ich einen [ΑΦΜ]{lang="el"} hätte“)
 bringt Kapitel 24.
 
-Aus dem Spanischen und Französischen kennst du die Grundregel: Nach konditionalem *si* steht nie
+Aus dem Spanischen und Französischen kennst du die Grundregel: Nach konditionalem [*si*]{lang="es"} steht nie
 das Futur.
 [*Si llegas a las ocho, terminarás en una hora.*]{lang="es"} [*Si tu arrives à huit heures, tu
 finiras en une heure.*]{lang="fr"} Die Zukunft steckt nur im Hauptsatz. Griechisch macht es
@@ -166,8 +166,8 @@ sollte“. Griechisch trennt:
 - [Αν βρέχει, πάρε ομπρέλα.]{lang="el"} – Wenn es (gerade) regnet, nimm einen Schirm mit.
 - [Αν βρέξει αύριο, θα μείνουμε σπίτι.]{lang="el"} – Falls es morgen regnet, bleiben wir zu Hause.
 
-Oder mit dem Paar aus Kapitel 3, [ψάχνω]{lang="el"} (Vorgang) und [βρίσκω]{lang="el"}
-(Ergebnis):
+Oder mit [ψάχνω]{lang="el"} (Vorgang, Kapitel 2) und [βρίσκω]{lang="el"} (Ergebnis,
+Kapitel 3):
 
 - [Αν ψάχνεις σπίτι, ρώτα τον Νίκο.]{lang="el"} – Wenn du (gerade) eine Wohnung suchst, frag Nikos.
 - [Αν βρεις σπίτι, πες μου.]{lang="el"} – Wenn du eine Wohnung findest, sag mir Bescheid.
@@ -275,9 +275,9 @@ Fahrplan („falls du laut Plan morgen ankommst“), nicht nach einem offenen Er
 
 ### Kein [θα]{lang="el"} nach [αν]{lang="el"} {#sec-bedingung-kein-tha}
 
-Deutsch und Englisch verführen: „falls es morgen regnen wird“, *if it will rain*.
+Deutsch und Englisch verführen: „falls es morgen regnen wird“, [*if it will rain*]{lang="en"}.
 Standardgriechisch setzt hier kein [θα]{lang="el"}, so wie das Spanische kein Futur
-([*\*si lloverá*]{lang="es"}):
+(\*[*si lloverá*]{lang="es"}):
 
 - [Αν θα βρέξει αύριο, θα μείνουμε σπίτι.]{lang="el"} (nicht Standard)
 - [Αν βρέξει αύριο, θα μείνουμε σπίτι.]{lang="el"}
@@ -331,8 +331,8 @@ Drei Sätze sind Standard. Bei jedem [αν θα]{lang="el"}: Passt „ob“ oder
 ## Hinweis 2
 
 Zwei Fehler haben nichts mit [θα]{lang="el"} zu tun: ein falscher Aspekt und ein Wort, das
-hinter [αν]{lang="el"} nichts verloren hat. Satz 8 folgt derselben Regel wie
-[αν]{lang="el"} (Kapitel 16).
+hinter [αν]{lang="el"} nichts verloren hat. Satz 8 hat dasselbe Problem mit
+[όταν]{lang="el"} (Kapitel 16).
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -367,8 +367,8 @@ hinter [αν]{lang="el"} nichts verloren hat. Satz 8 folgt derselben Regel wie
 
 ## Wenn: [αν]{lang="el"} oder [όταν]{lang="el"}? {#sec-bedingung-an-otan}
 
-Das deutsche „wenn“ deckt zwei Dinge ab, für die Englisch *if/when*, Spanisch *si/cuando* und
-Französisch *si/quand* sagen. Griechisch trennt ebenfalls:
+Das deutsche „wenn“ deckt zwei Dinge ab, für die Englisch [*if/when*]{lang="en"}, Spanisch [*si/cuando*]{lang="es"} und
+Französisch [*si/quand*]{lang="fr"} sagen. Griechisch trennt ebenfalls:
 
 - [Όταν βγάλω ΑΦΜ, θα ανοίξω λογαριασμό.]{lang="el"} – Wenn ich die Steuernummer habe, eröffne
   ich ein Konto. (Das passiert, nur wann, ist offen.)
@@ -934,7 +934,7 @@ du einem Touristen raten?“) lösen viele [αν]{lang="el"} und [άμα]{lang="
 ## Übung 17.7: Hör-Auftrag
 
 Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) ein Straßeninterview mit Fragen
-nach Tipps oder Plänen (englische Suchwörter *advice, tips, plans*).
+nach Tipps oder Plänen (englische Suchwörter [*advice, tips, plans*]{lang="en"}).
 
 1. Hör drei bis vier Minuten **ohne Untertitel** und mach einen Strich für jedes [an],
    [ˈama] und [ˈotan].
@@ -985,7 +985,7 @@ Jedes Interview ist anders; so wertest du aus:
 ## Das Wichtigste {#sec-bedingung-wichtigste}
 
 - **Realer Bedingungssatz:** [αν]{lang="el"} + Bedingung, Hauptsatz = Folge. In der Bedingung
-  steht im Standard **kein [θα]{lang="el"}**, wie nach konditionalem spanischem *si*; die Folge nimmt [θα]{lang="el"}, Imperativ,
+  steht im Standard **kein [θα]{lang="el"}**, wie nach konditionalem spanischem [*si*]{lang="es"}; die Folge nimmt [θα]{lang="el"}, Imperativ,
   Präsens oder [πρέπει να]{lang="el"}.
 - **Aspekt nach [αν]{lang="el"}:** Präsens für Zustände und laufende Vorgänge
   ([αν ψάχνεις, αν έχεις]{lang="el"}), perfektive Form für ein Ereignis, das erst eintreten muss
@@ -1040,8 +1040,8 @@ ganz und zähl nebenbei die Bedingungen.
 ## Vorsicht
 
 Die Regeln sind vereinfacht (Stand 2026) und keine Rechtsauskunft; welche Unterlagen gerade
-gelten, steht auf gov.gr und aade.gr. Den ΑΦΜ kann man inzwischen auch online beantragen
-(myAADElive). Der ΑΜΚΑ setzt formal keinen ΑΦΜ voraus, die Reihenfolge in Regel 2 ist nur ein
+gelten, steht auf gov.gr und aade.gr. Den [ΑΦΜ]{lang="el"} kann man inzwischen auch online beantragen
+(myAADElive). Der [ΑΜΚΑ]{lang="el"} setzt formal keinen [ΑΦΜ]{lang="el"} voraus, die Reihenfolge in Regel 2 ist nur ein
 praktischer Tipp. Wer als EU-Bürger nur vorübergehend da ist, geht mit der Europäischen
 Krankenversicherungskarte zum Arzt. Auch die Erklärung des Gastgebers aus der Hörspur ist ein
 verbreiteter, aber nicht überall gleich gehandhabter Weg.
@@ -1078,7 +1078,7 @@ Wenn du EU-Bürger bist, bekommst du sie beim Finanzamt mit deinem Pass oder Per
 einem Adressnachweis.
 
 **2. Dann die Sozialversicherungsnummer.** Wenn du die Steuernummer hast, beantragst du auch den
-ΑΜΚΑ, die Sozialversicherungsnummer. Ohne sie kannst du weder arbeiten noch zu einem Arzt des
+[ΑΜΚΑ]{lang="el"}, die Sozialversicherungsnummer. Ohne sie kannst du weder arbeiten noch zu einem Arzt des
 öffentlichen Gesundheitssystems gehen.
 
 **3. Nach drei Monaten.** Wenn du länger als drei Monate in Griechenland bleibst, brauchst du auch
@@ -1094,7 +1094,7 @@ weggeworfen hast.
 
 **6. Das Handy ist dein Freund.** Seit 2020 bekommst du viele Bescheinigungen über gov.gr, ohne
 Schlange und ohne Stempel. Sobald du Zugangsdaten hast, probier es aus. Wenn du nicht
-weiterkommst, geh zu einem Bürgeramt (ΚΕΠ). Je mehr du online
+weiterkommst, geh zu einem Bürgeramt ([ΚΕΠ]{lang="el"}). Je mehr du online
 erledigst, desto weniger wirst du warten.
 
 **7. Geduld.** Wenn der Beamte dir sagt „Kommen Sie morgen wieder“, werd nicht wütend. Wenn du
@@ -1108,7 +1108,7 @@ fertig bist, weißt du etwas, das viele Griechen nicht wissen: wo jeder Schalter
 **Teil A.** Richtig oder falsch? Im Chat: „1r, 2f …“.
 
 1. Ohne Steuernummer bekommt man nicht einmal einen Handyvertrag.
-2. Den ΑΜΚΑ braucht man nur für den Arzt.
+2. Den [ΑΜΚΑ]{lang="el"} braucht man nur für den Arzt.
 3. EU-Bürger brauchen die Anmeldebescheinigung gleich nach der Ankunft.
 4. Die Anmeldebescheinigung stellt das Finanzamt aus.
 5. Wer ohne Termin kommt, erreicht meistens nichts.

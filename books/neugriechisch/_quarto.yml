@@ -37,6 +37,7 @@ book:
     - chapters/14-perfekt.qmd
     - chapters/15-relativsaetze.qmd
     - chapters/16-nebensaetze.qmd
+    - chapters/17-konditional-real.qmd
 
 lang: de
 

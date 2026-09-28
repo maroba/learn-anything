@@ -823,7 +823,7 @@ Aber alles Gute, und rufen Sie uns wieder an!
 |---|---|
 | [το κουίζ]{lang="el"} | das Quiz |
 | [περιγράφω, περιέγραψα]{lang="el"} | beschreiben |
-| [βρει]{lang="el"} | (wer) findet; [να]{lang="el"}-Form nach [όποιος]{lang="el"}, Kapitel 17 |
+| [βρει]{lang="el"} | (wer) findet; perfektive Form (ohne [να]{lang="el"}) nach [όποιος]{lang="el"}, Kapitel 17 |
 | [τα έχει χάσει όλα]{lang="el"} | hat alles verloren |
 | [η άμμος]{lang="el"} | der Sand (weiblich auf [-ος]{lang="el"}) |
 | [ο ποιητής]{lang="el"} | der Dichter |
