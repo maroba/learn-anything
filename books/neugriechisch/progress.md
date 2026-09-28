@@ -30,7 +30,7 @@
 | 24 Was wäre, wenn: Irrealis und Wünsche | veröffentlicht | Welle 10; Audio vollständig |
 | 25 Er muss gegangen sein: Vermutungen über die Vergangenheit | veröffentlicht | Welle 11; Audio vollständig |
 | 26 Wortbildung I: Präfixe und Verkleinerungen | veröffentlicht | Welle 12; Audio vollständig |
-| 27 Wortbildung II: die Sprache der Wissenschaft | Überarbeitung | Welle 13; beide Reviews da |
+| 27 Wortbildung II: die Sprache der Wissenschaft | Konsistenz | Welle 13; überarbeitet |
 | 28 Nachrichtensprache | im Review | Welle 13; Übungen fertig |
 | 29 Argumentieren | fertig | Welle 11; wartet auf 26–28 |
 | 30 Redewendungen | fertig | Welle 12; wartet auf 27–29 |
@@ -53,5 +53,4 @@
 - Zitat-Zeichensetzung (Punkt nach »): in älteren Kapiteln noch 14-mal innen (3 ×6, 4, 6, 8 ×2, 10, 12, 14, 16); bei Gelegenheit angleichen (Achtung: ändert Audio-Schlüssel in lang-Blöcken).
 - Kapitel 9: „auf dem Peloponnes“ → „auf der Peloponnes“ (Mehrheit im Buch, Glossar).
 - Kapitel 8: σου ευχαριστώ mit Sternchen → „nicht Standard“ (regional), wie Kapitel 23.
-- Kapitel 26 (veröffentlicht): „παραγγέλνω → παρήγγειλα“ zu absolut – ΛΚΝ: παραγγέλλω → παρήγγειλα, παραγγέλνω → παράγγειλα (Vokabel Z. ~1134); mit Änderungsvermerk korrigieren.
 - Audio: In Kapitel 7, 12, 13 (und 11) landen deutsche/französische Wörter in vertonten griechischen Blöcken (griechische Stimme liest sie). Prüfen und ggf. in `.no-audio` auslagern oder Tooling: fremdsprachige Spans bei der Synthese auslassen.

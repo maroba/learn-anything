@@ -1,5 +1,8 @@
 ---
 title: "Wortbildung I: Präfixe und Verkleinerungen"
+changes:
+  - date: 2026-09-28
+    note: "Aorist von παραγγέλνω berichtigt: παράγγειλα, gehoben παρήγγειλα (Vokabeln zu den Vorsilben)"
 ---
 
 ::: {.callout-note .review}
@@ -649,7 +652,7 @@ Die Verben mit festem Anfang aus Kapitel 3 ([ήρθα, ήπια, είδα]{lang=
 [ξανάρθα, παράπια, ξανάδα]{lang="el"}.
 
 Anders verhalten sich gelehrte Verben, bei denen das Augment ins Wortinnere rutscht:
-[παραγγέλνω → παρήγγειλα]{lang="el"}, [συμβαίνει → συνέβη]{lang="el"}. Die kommen in Kapitel 27.
+[παραγγέλλω → παρήγγειλα]{lang="el"}, [συμβαίνει → συνέβη]{lang="el"}. Die kommen in Kapitel 27.
 
 ::: {.callout-note .exercise}
 ## Übung 26.5: Vier Vorsilben
@@ -1131,5 +1134,5 @@ B: Zweimal Genuswechsel; zu [μπουκαλάκι]{lang="el"} gehört [το μπ
 | [η παρέα]{lang="el"} | [i paˈrea] | die Runde, die Freunde; Gesellschaft |
 | [η κουβέντα]{lang="el"} | [i kuˈveda] | das Gespräch, die Unterhaltung (umg.) |
 | [θολώνω, θόλωσα]{lang="el"} | [θoˈlono], [ˈθolosa] | trüb werden, sich trüben |
-| [παραγγέλνω, παρήγγειλα]{lang="el"} | [paraŋˈɟelno], [paˈriŋɟila] | bestellen |
+| [παραγγέλνω, παράγγειλα]{lang="el"} | [paraŋˈɟelno], [paˈraŋɟila] | bestellen (gehoben auch [παρήγγειλα]{lang="el"}, Kapitel 27) |
 :::
