@@ -243,7 +243,74 @@ Gespräch sagt man [πάρα πολύ]{lang="el"} „sehr, sehr“. [άριστ�
 die beste Schulnote, „ausgezeichnet“.
 :::
 
-<!-- EXERCISE: Komparativ und Superlativ mit πιο: kleine Faktentabelle zu drei Inseln (z.B. Kreta, Korfu, Naxos: Fläche, höchster Berg, Regen im Jahr, Einwohner), daraus laut Vergleichssätze mit από + Akkusativ bilden (inkl. πολύ/λίγο πιο, τόσο … όσο), dann Superlative mit Artikel und Genitiv (το πιο ψηλό βουνό της Κρήτης); Teil B: Komparativ oder Superlativ? (Artikel ja/nein, *πιο μεγάλο νησί της Ελλάδας); Formen bilden / Auswählen, Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 12.1: Drei Inseln im Vergleich
+
+Grob gerundet:
+
+| Insel | Fläche | höchster Berg | Regen im Jahr |
+|---|---|---|---|
+| [η Κρήτη]{lang="el"} | 8 300 km² | 2 456 m | ca. 500 mm |
+| [η Κέρκυρα]{lang="el"} | 600 km² | 900 m | ca. 1 100 mm |
+| [η Νάξος]{lang="el"} | 430 km² | 1 000 m | ca. 400 mm |
+
+<!-- CHECK: Werte gerundet (Kreta 8336 km², Heraklion ~500 mm; Korfu ~600 km², Pantokrator ~906 m; Naxos ~430 km², Zas ~1000 m, ~400 mm); Satz 7 hängt daran. -->
+
+**Teil A.** Sag laut auf Griechisch:
+
+1. Korfu ist viel grüner als Naxos.
+2. Naxos ist trockener als Korfu.
+3. Die Berge von Naxos sind etwas höher als die Berge von Korfu.
+4. Naxos ist nicht so groß wie Korfu.
+5. Der Psiloritis ist der höchste Berg Kretas.
+6. Naxos ist die trockenste der drei Inseln.
+
+(Worthilfen: [της Νάξου]{lang="el"} von Naxos; [ο Ψηλορείτης]{lang="el"};
+[από τα τρία νησιά]{lang="el"} von den drei Inseln)
+
+**Teil B.** Richtig oder falsch? Im Chat reicht „7r, 8f …“.
+
+::: {lang="el" .no-audio}
+7. Η Κρήτη είναι πιο μεγάλο νησί της Ελλάδας.
+8. Από τα δύο νησιά, η Νάξος είναι το πιο ξερό.
+9. Η Κέρκυρα είναι πιο πράσινη από η Νάξος.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Das Adjektiv richtet sich nach dem Nomen: in 3 nach [τα βουνά]{lang="el"}, in 5 nach
+[το βουνό]{lang="el"}. [η Νάξος]{lang="el"} ist weiblich, trotz [-ος]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+„Als“ ist [από]{lang="el"} + Akkusativ; nach [όσο]{lang="el"} bleibt der Nominativ. Der Artikel
+im Superlativ gehört zum Nomen dahinter.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+1. [Η Κέρκυρα είναι πολύ πιο πράσινη από τη Νάξο.]{lang="el"}
+2. [Η Νάξος είναι πιο ξερή από την Κέρκυρα.]{lang="el"}
+3. [Τα βουνά της Νάξου είναι λίγο πιο ψηλά από τα βουνά της Κέρκυρας.]{lang="el"}
+4. [Η Νάξος δεν είναι (τόσο) μεγάλη όσο η Κέρκυρα.]{lang="el"}
+5. [Ο Ψηλορείτης είναι το πιο ψηλό βουνό της Κρήτης.]{lang="el"}
+6. [Η Νάξος είναι το πιο ξερό από τα τρία νησιά.]{lang="el"} Auch: [Από τα τρία νησιά, το
+   πιο ξερό είναι η Νάξος.]{lang="el"}
+
+**Typische Fehler:** \*[πιο ξερός]{lang="el"} (Endung statt Genus); \*[όσο την
+Κέρκυρα]{lang="el"}; \*[ο πιο ψηλό βουνό]{lang="el"}: Der Artikel gehört zu [βουνό]{lang="el"},
+nicht zum Psiloritis.
+
+**Teil B: 7f, 8r, 9f.** In 7 fehlt der Artikel: [το πιο μεγάλο νησί]{lang="el"}. 8 heißt „das
+trockenere von beiden“. In 9 muss der Akkusativ stehen: [από τη Νάξο]{lang="el"}.
+:::
 
 ## Ein Wort statt zwei: [μεγαλύτερος, καλύτερος]{lang="el"} {#sec-vergleich-synthetisch}
 
@@ -320,7 +387,72 @@ als Unglücksseite galt, nannte man sie lieber „die bessere“.
 <!-- CHECK: Etymologie αριστερός als euphemistische Ableitung zu ἄριστος mit -τερος (Beekes/Chantraine); δεύτερος und ὕστερος mit Kontrastsuffix -τερος – Formulierung „nach der gängigen Deutung“ ausreichend? -->
 :::
 
-<!-- EXERCISE: Form mit πιο ↔ Form auf -τερος umformen (ψηλότερος, φτηνότερος, καλύτερος, χειρότερος, περισσότερος …), mit Betonung laut sagen; Teil B Fehler finden (*πιο καλύτερος, *μεγαλότερος, *ψηλοτέρους, fehlender Artikel im Superlativ, μεγαλύτερος für Alter); Umformen / Fehler finden, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 12.2: Ein Wort oder zwei?
+
+**Teil A.** Sag jeweils die andere Form laut, mit der richtigen Betonung.
+
+::: {lang="el"}
+1. πιο φτηνό
+2. πιο ζεστή
+3. πιο ωραίοι
+4. καλύτερος
+5. πιο πολλή βροχή
+6. ο χειρότερος καφές
+7. πιο σημαντικούς
+8. μικρότερη
+:::
+
+**Teil B.** Vier Sätze haben einen Fehler, einer ist richtig. Welcher? Im Chat reicht die Nummer.
+
+::: {lang="el" .no-audio}
+9. Αυτό το κρασί είναι πιο καλύτερο.
+10. Η Κρήτη είναι μεγαλότερη από την Κέρκυρα.
+11. Τα βουνά της Κρήτης είναι ψηλοτέρα από τα βουνά της Νάξου.
+12. Ο μεγαλύτερος αδερφός μου μένει στη Θεσσαλονίκη.
+13. Η Αθήνα είναι πιο μεγάλη πόλη της Ελλάδας.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Endung weg, [-ότερος]{lang="el"} dran, Betonung auf dem [-ό-]{lang="el"}. Vier Wörter in Teil A
+gehören zu den sechs Sonderformen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil B: doppelt gesteigert? Richtiger Stamm? Betonung an ihrem Platz? Artikel da? Und was
+heißt [μεγαλύτερος]{lang="el"} bei Menschen?
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+1. [φτηνότερο]{lang="el"} [ftiˈnotero]
+2. [ζεστότερη]{lang="el"} [zesˈtoteri]
+3. [ωραιότεροι]{lang="el"} [oreˈoteri]
+4. [πιο καλός]{lang="el"}
+5. [περισσότερη βροχή]{lang="el"}
+6. [ο πιο κακός καφές]{lang="el"}
+7. [σημαντικότερους]{lang="el"} [simadiˈkoterus]
+8. [πιο μικρή]{lang="el"}
+
+**Typische Fehler:** \*[ζεστότερος]{lang="el"} in 2, die Endung nicht angepasst;
+\*[σημαντικοτέρους]{lang="el"}, die Betonung gewandert.
+
+**Teil B: 12 ist richtig**, „mein älterer (ältester) Bruder“.
+
+- 9: doppelt gesteigert, richtig [καλύτερο]{lang="el"} oder [πιο καλό]{lang="el"}.
+- 10: [μεγαλύτερη]{lang="el"}, eine der sechs Sonderformen mit [-ύτερος]{lang="el"}.
+- 11: [ψηλότερα]{lang="el"}, die Betonung bleibt auf [-ό-]{lang="el"}.
+- 13: Superlativ ohne Artikel; richtig [η πιο μεγάλη πόλη]{lang="el"} oder [η μεγαλύτερη
+  πόλη]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -399,7 +531,61 @@ eine Antwort im Komparativ: [— Είσαι καλύτερα; — Καλύτερ
 besser? – Besser, danke.“ Nach [είμαι]{lang="el"} steht hier das Adverb, wie in
 [Είμαι καλά.]{lang="el"}
 
-<!-- EXERCISE: Adjektiv oder Adverb auswählen (καλός/καλά, ακριβός/ακριβά/ακριβώς, ζεστή/ζεστά/κάνει ζέστη, γρήγορος/γρήγορα), danach Komparativ des Adverbs einsetzen (καλύτερα, περισσότερο, αργότερα …) in kurzen Alltagssätzen zum Wetter und Reisen; Multiple Choice mit Nummern, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 12.3: Gut oder gut?
+
+**Teil A.** Welche Form passt? Im Chat reicht „1a, 2b …“.
+
+::: {lang="el" .no-audio}
+1. Η Άννα μαγειρεύει πολύ … a καλή · b καλά
+2. Το φαγητό της είναι πολύ … a καλό · b καλά
+3. Το ξενοδοχείο ήταν πολύ … a ακριβό · b ακριβά · c ακριβώς
+4. Το πλοίο φεύγει στις οχτώ … a ακριβό · b ακριβά · c ακριβώς
+5. Σήμερα … a κάνει ζέστη · b είναι ζεστή
+6. Η θάλασσα είναι ακόμα … a ζεστή · b ζεστά
+:::
+
+**Teil B.** Setz den Komparativ des Adverbs ein und sag den Satz laut.
+
+::: {lang="el" .no-audio}
+7. — Είσαι …; — …, ευχαριστώ. (besser)
+8. Στην Κέρκυρα βρέχει … από την Κρήτη. (mehr)
+9. Αν φύγουμε μισή ώρα …, θα φτάσουμε στις εφτά. (früher)
+10. Μίλα λίγο …, δεν ακούω! (lauter)
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Gehört das Wort zu einem Nomen, ist es ein Adjektiv und passt sich an; gehört es zum Verb, ist
+es ein Adverb.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[ακριβώς]{lang="el"} ist „genau“. Wetter ohne Ding: [κάνει ζέστη]{lang="el"} oder [είναι
+ζεστά]{lang="el"}. Teil B: Formen aus der Tabelle oben oder [πιο]{lang="el"} + Adverb.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1b, 2a, 3a, 4c, 5a, 6a.** 1: Wie jemand kocht, sagt das Adverb. 2, 3, 6: Das Wort
+beschreibt [το φαγητό, το ξενοδοχείο, η θάλασσα]{lang="el"}, also Adjektiv. 4: „um Punkt acht“;
+[ακριβά]{lang="el"} wäre „teuer“ ([πλήρωσα ακριβά]{lang="el"}). 5: [ζεστή]{lang="el"} bräuchte
+ein weibliches Nomen; [είναι ζεστά]{lang="el"} ginge auch.
+
+**Teil B**
+
+7. [— Είσαι καλύτερα; — Καλύτερα, ευχαριστώ.]{lang="el"} Nicht \*[καλύτερος]{lang="el"}: Beim
+   Befinden steht das Adverb.
+8. [περισσότερο]{lang="el"} oder [πιο πολύ]{lang="el"}; \*[περισσότερη]{lang="el"} ist das
+   Adjektiv ([περισσότερη βροχή]{lang="el"}).
+9. [νωρίτερα]{lang="el"}
+10. [πιο δυνατά]{lang="el"}
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -498,9 +684,122 @@ Diese Fehler machen fast alle, die Teil I hinter sich haben:
    [τον αγόρασα]{lang="el"}, nicht \*[την]{lang="el"} (Kapitel 8).
 :::
 
-<!-- EXERCISE: Zwischenbilanz Verbformen: drei Verben (z.B. διαβάζω, πίνω, φοβάμαι) laut durch alle Formen der Tabelle führen, jeweils in einem kurzen Satz mit Zeitangabe (χθες, κάθε μέρα, αύριο, τώρα!); Formen bilden, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 12.4: Drei Verben durch Teil I
 
-<!-- EXERCISE: Zwischenbilanz Fehler finden: zehn Sätze aus Inselgesprächen mit je höchstens einem Fehler aus allen Kapiteln 2–12 (Augment, Aspekt nach θα/να, Pronomenstellung inkl. Imperativ, Genitiv, Vokativ, -μαι-Aorist, Uhrzeit/Datum, πιο + Artikel); Fehler benennen und Kapitel zuordnen; Fehler finden, Schwierigkeit 3 -->
+Sag die Sätze laut auf Griechisch. Du brauchst nur [διαβάζω]{lang="el"}, [πίνω]{lang="el"} und
+[φοβάμαι]{lang="el"}, aber jedes Mal eine andere Form.
+
+1. Gestern habe ich das ganze Buch gelesen.
+2. Als Kind habe ich jeden Abend gelesen.
+3. Lies es! (das Buch)
+4. Lies ihn nicht! (den Brief, [το γράμμα]{lang="el"})
+5. Lies jeden Tag ein bisschen!
+6. Morgen früh trinke ich einen Kaffee mit dir.
+7. Im Sommer werde ich jeden Tag viel Wasser trinken.
+8. Trinkt es! (das Wasser)
+9. Als Kind hatte ich Angst vor dem Meer.
+10. Gestern Nacht auf dem Schiff bin ich erschrocken.
+11. Hab keine Angst!
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Die Stämme: [διαβάζω – διάβασα – διαβάσω]{lang="el"}, [πίνω – ήπια – πιω]{lang="el"},
+[φοβάμαι – φοβήθηκα – φοβηθώ]{lang="el"}, Imperfekt [φοβόμουν]{lang="el"}. Dann bei jedem Satz:
+einmal (Foto) oder Gewohnheit (Film)?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+3: Imperativ auf der drittletzten Silbe + Pronomen, also zweiter Akzent. 4: Verbot = [μην]{lang="el"}
++ [να]{lang="el"}-Form, Pronomen davor, Genus vom griechischen Nomen. 8: Der Foto-Plural von
+[πίνω]{lang="el"} ist unregelmäßig (Kapitel 9).
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [Χθες διάβασα όλο το βιβλίο.]{lang="el"} Aorist.
+2. [Όταν ήμουν παιδί, διάβαζα κάθε βράδυ.]{lang="el"} Imperfekt, Gewohnheit.
+3. [Διάβασέ το!]{lang="el"} Foto-Imperativ mit zweitem Akzent; ohne ihn stünde die Betonung auf
+   der viertletzten Silbe.
+4. [Μην το διαβάσεις!]{lang="el"} Foto, dieser eine Brief. Nicht \*[μην τον]{lang="el"}: Der Brief
+   ist griechisch sächlich. Nicht \*[Μη διάβασέ το]{lang="el"}: nach [μην]{lang="el"} nie ein
+   Imperativ.
+5. [Διάβαζε λίγο κάθε μέρα!]{lang="el"} Film-Imperativ, Gewohnheit.
+6. [Αύριο το πρωί θα πιω έναν καφέ μαζί σου.]{lang="el"} Ein Kaffee, Foto.
+   [θα πίνω]{lang="el"} klänge nach „ab morgen früh regelmäßig“.
+7. [Το καλοκαίρι θα πίνω πολύ νερό κάθε μέρα.]{lang="el"} [κάθε μέρα]{lang="el"} zieht den Film.
+8. [Πιείτε το!]{lang="el"} Singular [Πιες το!]{lang="el"}
+9. [Όταν ήμουν παιδί, φοβόμουν τη θάλασσα.]{lang="el"} Imperfekt, ein Zustand.
+10. [Χθες τη νύχτα στο πλοίο φοβήθηκα.]{lang="el"} Aorist: der Schreck als Moment.
+11. [Μη φοβάσαι!]{lang="el"} Film, wie fast immer beim Beruhigen. [Μη φοβηθείς]{lang="el"} geht
+    auch, vor etwas Bestimmtem, das gleich kommt.
+
+**Typische Fehler:** \*[θα ήπιω]{lang="el"} (Augment nach [θα]{lang="el"}); \*[φοβήθηκα]{lang="el"}
+in 9, das hieße „ich erschrak“; \*[διάβασα]{lang="el"} in 2.
+:::
+
+::: {.callout-note .exercise}
+## Übung 12.5: Elf Sätze von der Fähre
+
+Jeder Satz hat höchstens einen Fehler. Finde ihn, sag den Satz richtig und überleg, aus welchem
+Kapitel die Regel stammt. Im Chat reicht die Nummer des fehlerfreien Satzes.
+
+::: {lang="el" .no-audio}
+1. Πέρσι εκάναμε διακοπές στη Νάξο.
+2. Αύριο θα σου στέλνω τις φωτογραφίες.
+3. Το πλοίο φεύγει στις μία.
+4. Γιάννης, έλα να δεις το ηλιοβασίλεμα!
+5. Είδες τη Σαντορίνη από το πλοίο;
+6. Το εισιτήριο; Μου το δώσε, σε παρακαλώ.
+7. Χθες το βράδυ φοβάθηκα πολύ στο πλοίο.
+8. Το σπίτι η γιαγιάς μου είναι στη Νάξο.
+9. Η Νάξος είναι πιο μεγάλο νησί των Κυκλάδων.
+10. Όταν ήμουν μικρός, πήγα κάθε καλοκαίρι στην Κρήτη.
+11. Φτάνουμε στις δεκαπέντε Αύγουστος.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Die Fehler stammen aus: Augment, Aspekt nach [θα]{lang="el"}, Uhrzeit, Vokativ, Pronomen am
+Imperativ, Aorist auf [-θηκα]{lang="el"}, Genitiv, Superlativ, Imperfekt, Datum. Die
+Stolperstein-Liste oben deckt fünf davon ab.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Prüf bei jedem Satz zuerst die Artikel und Endungen, dann das Verb: Wie oft passiert es? Wo steht
+die Betonung? Der fehlerfreie Satz sieht für deutsche Ohren falsch aus.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [κάναμε]{lang="el"}: Das Augment steht nur, wenn es betont ist (Kapitel 2).
+2. [θα σου στείλω]{lang="el"}: einmal, also Foto. [θα σου στέλνω]{lang="el"} hieße „ich werde
+   dir (immer wieder) schicken“ (Kapitel 5).
+3. [στη μία]{lang="el"}: Ein Uhr steht im Singular (Kapitel 11).
+4. [Γιάννη]{lang="el"}: Vokativ (Kapitel 7).
+5. **Richtig.** „Hast du … gesehen?“ ist ein Aorist (Kapitel 2).
+6. [Δώσε μού το]{lang="el"} oder [Δώσ’ το μου]{lang="el"}: Nach dem bejahten Imperativ stehen die
+   Pronomen dahinter (Kapitel 8, 9). Davor nur im Verbot: [Μη μου το δώσεις.]{lang="el"}
+7. [φοβήθηκα]{lang="el"}, mit [-ή-]{lang="el"} wie [θυμήθηκα]{lang="el"} (Kapitel 10).
+8. [της γιαγιάς]{lang="el"}: Genitiv, „von“ (Kapitel 7).
+9. [το πιο μεγάλο νησί]{lang="el"} oder [το μεγαλύτερο]{lang="el"}: Superlativ braucht den
+   Artikel (Kapitel 12).
+10. [πήγαινα]{lang="el"}: jedes Jahr, Gewohnheit, Imperfekt (Kapitel 4).
+11. [στις δεκαπέντε Αυγούστου]{lang="el"}: Monat im Genitiv (Kapitel 11).
+
+Am häufigsten übersehen werden 6, weil das Pronomen vor dem Verb sonst richtig ist, und 10, weil
+das Deutsche beides mit „bin gefahren“ sagt.
+:::
 
 ## Hörspur: vergleichen auf der Straße {#sec-vergleich-hoerspur}
 
@@ -531,7 +830,45 @@ lesen:
 — Κανένα. Κάνει πολλή ζέστη. Φέτος θα πάω στο βουνό, στο Πήλιο.
 :::
 
-<!-- EXERCISE: Erst hören (.listen-Dialog oben): zweimal hören ohne Text, dann für jede der vier Antworten Insel/Ziel und den Grund notieren (Vergleichsform mitschreiben: πιο ήσυχη από, καλύτερα από, πιο μεγάλη απ’ ό,τι, περισσότερο/λιγότερο, πολλή ζέστη) und ein Imperfekt finden (πήγαινα); Verstehen / Zuordnen, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 12.6: Erst hören
+
+Hör die Umfrage zweimal mit ▶, ohne den Text aufzuklappen. Merk dir zu jeder der vier Antworten:
+welche Insel oder welches Ziel, und warum. Dann: Wer erzählt von einer Gewohnheit in der
+Vergangenheit, und an welcher Form hörst du das? Erst danach Text und Übersetzung aufklappen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Die Gründe stecken in den Vergleichen: [pço] vor einem Adjektiv, [ap] vor Artikel oder [ˈoti],
+eine betonte Silbe vor [-tera, -tero].
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Die dritte Antwort beginnt mit [ˈotan ˈimun ˈneos], „als ich jung war“; hör auf das Verb danach.
+Die vierte nennt keine Insel.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. **Sifnos:** ruhiger als Mykonos ([πιο ήσυχη από τη Μύκονο]{lang="el"}), und man isst dort
+   besser als irgendwo sonst ([καλύτερα]{lang="el"}, Adverb).
+2. **Lesbos**, die eigene Heimat: größer, als man denkt ([πιο μεγάλη απ’ ό,τι
+   νομίζετε]{lang="el"}), Wälder, heiße Quellen, [το καλύτερο ούζο]{lang="el"} (Superlativ).
+3. **Früher Ios, jetzt Andros:** mehr Wasser, weniger Leute ([περισσότερο νερό, λιγότερο
+   κόσμο]{lang="el"}). Die Gewohnheit ist [πήγαινα κάθε χρόνο]{lang="el"} [ˈpiʝena], Imperfekt.
+   [ήμουν]{lang="el"} hat nur eine Vergangenheit, [μεγάλωσα]{lang="el"} ist Aorist.
+4. **Keine Insel:** Es ist zu heiß ([κάνει πολλή ζέστη]{lang="el"}), deshalb Pilion,
+   [θα πάω]{lang="el"}.
+
+Oft überhört: [πήγαινα]{lang="el"} mit drei Silben gegen [πήγα]{lang="el"} mit zwei. Und
+[ποιο]{lang="el"} in der ersten Frage klingt wie [πιο]{lang="el"}, steht aber vor
+[είναι]{lang="el"}, nicht vor einem Adjektiv.
+:::
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -583,7 +920,48 @@ Beim schnellen Hören helfen drei Signale:
 Zum Schluss der Hör-Auftrag: ein ganzes Straßeninterview von [Easy Greek](https://www.youtube.com/@EasyGreekVideos)
 über Inseln und Sommer, in drei Durchgängen.
 
-<!-- EXERCISE: Hör-Auftrag, der erste längere: auf Easy Greek (nur Kanal-Link https://www.youtube.com/@EasyGreekVideos, keine Video-URL) nach νησί, διακοπές oder καλοκαίρι suchen, Video von 6–12 Minuten. Durchgang 1 ohne Untertitel (Bild abdecken): jeden erkannten Ortsnamen notieren und ob von früher (Imperfekt/Aorist) oder von Plänen (θα) gesprochen wird. Durchgang 2 mit griechischen Untertiteln: Liste prüfen, fünf Vergleiche (πιο …, -τερος, καλύτερα, περισσότερο) samt Vergleichsgröße sammeln. Durchgang 3: eine Antwort von höchstens einer Minute Satz für Satz nachsprechen (Shadowing). Auswertung ohne feste Lösung, mit Kriterien; typische Verwechslungen πιο/ποιο, καλά/καλύτερα, Aorist auf -ησα vs. Komparativ auf -τερα. Hör-Auftrag, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 12.7: Hör-Auftrag in drei Durchgängen
+
+Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) nach [νησί]{lang="el"},
+[διακοπές]{lang="el"} oder [καλοκαίρι]{lang="el"} ein Straßeninterview von sechs bis zwölf
+Minuten.
+
+**Durchgang 1, ohne Untertitel** (Bild abdecken): Notier auf einem Zettel jeden Ortsnamen, den du erkennst,
+und daneben V, wenn jemand von früher erzählt, oder Z, wenn es um Pläne geht.
+
+**Durchgang 2, mit griechischen Untertiteln:** Prüf deine Liste. Sammle fünf Vergleiche
+([πιο …]{lang="el"}, [-τερος]{lang="el"}, [καλύτερα]{lang="el"}, [περισσότερο]{lang="el"}) und
+jeweils, womit verglichen wird.
+
+**Durchgang 3:** Nimm eine Antwort von höchstens einer Minute und sprich sie Satz für Satz nach:
+anhalten, nachsprechen, weiter. Zum Schluss die ganze Antwort mitsprechen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Ortsnamen kommen meist nach [sto], [sti(n)] oder [aˈpo]. Pläne verrät das [θa] vor dem Verb,
+Erzählungen ein [ˈotan ˈimun] oder eine Jahreszahl.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Drei Verwechslungen: [pço] ist auch [ποιο]{lang="el"} „welches“; [kaˈla] ist nicht
+[kaˈlitera]; und ein Aorist auf [-isa] wie [ˈmilisa] ist kein Komparativ auf [-tera]: Das [t]
+entscheidet.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Keine feste Lösung. Gut gelaufen ist es, wenn in Durchgang 2 mindestens drei deiner Ortsnamen
+bestätigt werden und V/Z meist stimmt, wenn du fünf Vergleiche samt Vergleichsgröße hast
+(etwa [πιο ήσυχο από τη Μύκονο]{lang="el"}) und in Durchgang 3 beim letzten Mal das Tempo hältst.
+Hast du in Durchgang 1 kaum etwas erkannt, ist das bei spontaner Straßensprache normal; dann
+Durchgang 2 zweimal hören.
+:::
 
 ## Das Wichtigste {#sec-vergleich-wichtigste}
 
@@ -737,7 +1115,77 @@ wird dir das Ionische Meer besser gefallen. Und denk daran: Die beste Insel ist 
 beim nächsten Mal sehen wirst.
 :::
 
-<!-- EXERCISE: Lesetext „Ποιο νησί;“: Teil A richtig/falsch (7 Aussagen, u.a. Regen Korfu/Santorin, Wasser auf Naxos, Hitzewelle 2023, Rat für Hitzeempfindliche); Teil B Formen jagen: im Absatz über die Kykladen alle Vergangenheitsformen finden und Foto/Film begründen (περνούσαμε, είχαμε, φώναζε, ήμουν), im letzten Absatz Imperative und θα/να-Formen, im ganzen Text alle Vergleiche (Komparativ vs. Superlativ); Teil C laut lesen mit Aussprache (Ψηλορείτης, αφαλάτωση, κυπαρίσσια, πιο/ποιο); Verstehen / Formen bestimmen, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 12.8: Formen jagen in „[Ποιο νησί;]{lang="el"}“
+
+**Teil A.** Richtig oder falsch laut Text? Im Chat reicht „1r, 2f …“.
+
+1. Menschen leben auf etwa sechstausend griechischen Inseln.
+2. Auf Kreta kann man im April am selben Tag schwimmen und Schnee sehen.
+3. Die Kykladen haben viele Bäume.
+4. Im Haus der Großmutter auf Naxos war Wasser knapp.
+5. Korfu bekommt etwa dreimal so viel Regen wie Santorin.
+6. Die Hitzewelle im Juli 2023 dauerte knapp zwei Wochen.
+7. Wer Hitze schlecht verträgt, soll auf die Kykladen fahren.
+
+**Teil B.**
+
+8. Im Absatz über die Kykladen stehen vier Vergangenheitsformen. Welche? Foto oder Film, und
+   warum?
+9. Im letzten Absatz: Welche Imperative, welches Verbot, welche [θα]{lang="el"}- und
+   [να]{lang="el"}-Formen?
+10. Im ganzen Text stehen zwölf Vergleiche. Welche sind Superlative, welche Komparative?
+
+**Teil C.** Lies den Text laut und prüf mit ▶: [Ποιο νησί]{lang="el"} [pço niˈsi],
+[Ψηλορείτης]{lang="el"} [psiloˈritis], [Κυκλάδες]{lang="el"} [ciˈklaðes],
+[αφαλάτωση]{lang="el"} [afaˈlatosi], [κυπαρίσσια]{lang="el"} [cipaˈrisça].
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Genau auf [μόνο]{lang="el"}, [λίγα]{lang="el"} und [πάνω από]{lang="el"} achten.
+Teil B: Signalwörter wie [κάθε καλοκαίρι, κάθε μέρα]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[ήμουν]{lang="el"} und [είχαμε]{lang="el"} haben keine Foto-Form. Bei den Vergleichen: Artikel
+davor heißt Superlativ, [από]{lang="el"} oder [απ’ ό,τι]{lang="el"} dahinter meist Komparativ;
+auch [όλο και πιο]{lang="el"} und ein Adverb ohne „als“ zählen mit.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1f, 2r, 3f, 4r, 5r, 6f, 7f.** 1: Bewohnt sind nur etwas über hundert. 3: [λίγα
+δέντρα]{lang="el"}. 6: [πάνω από δύο εβδομάδες]{lang="el"}, also länger. 7: Für sie empfiehlt der
+Text das Ionische Meer; auf die Kykladen nur mit Hut.
+
+**Teil B**
+
+8. [ήμουν]{lang="el"} und [είχαμε]{lang="el"}: nur eine Vergangenheit, Zustand.
+   [περνούσαμε]{lang="el"} (jeden Sommer) und [φώναζε]{lang="el"} (jeden Tag): Film, Gewohnheit.
+   Kein Aorist: Der Absatz erzählt keine Handlung, er beschreibt, wie es war.
+9. Imperative: [διάλεξε]{lang="el"} (Foto), [πήγαινε]{lang="el"} (fester Film-Imperativ). Verbot:
+   [μην ξεχάσεις]{lang="el"} (Foto, dieses eine Mal). [να θυμάσαι]{lang="el"}: [να]{lang="el"}-Form
+   als Rat, Film, „denk immer daran“. [θα δεις]{lang="el"}: Foto. Bei [θα σου αρέσει]{lang="el"}
+   sehen Foto und Film gleich aus.
+10. **Superlative (6):** [το πιο ωραίο ελληνικό νησί; το μεγαλύτερο νησί της χώρας; τα
+    ψηλότερα βουνά; η μεγαλύτερη και η πιο εύφορη από τις Κυκλάδες; το καλύτερο
+    νησί]{lang="el"}. **Komparative (6):** [περισσότερο απ’ ό,τι στην Αθήνα; τρεις φορές
+    περισσότερη βροχή από τη Σαντορίνη; πιο «άδεια»; όλο και πιο μεγάλα; πιο γρήγορα από τον
+    μέσο όρο; θα σου αρέσει περισσότερο]{lang="el"}.
+
+Typische Falle: [τα ψηλότερα βουνά]{lang="el"} als Komparativ lesen, weil [-τερος]{lang="el"}
+darin steckt; der Artikel macht ihn zum Superlativ. Wer [παραπάνω]{lang="el"} („und mehr“)
+mitgezählt hat, liegt nicht falsch.
+
+**Teil C.** [Ψηλορείτης]{lang="el"} betont das [-ει-]{lang="el"}, [αφαλάτωση]{lang="el"} die
+drittletzte Silbe. In [κυπαρίσσια]{lang="el"} wird das [ι]{lang="el"} vor [α]{lang="el"} zum
+Gleitlaut: vier Silben, nicht fünf.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |

@@ -125,7 +125,7 @@ Artikel [στη]{lang="el"}: [Είναι μία.]{lang="el"} – [στη μία]
 ### Minuten: [και]{lang="el"} und [παρά]{lang="el"} {#sec-zeit-minuten}
 
 Minuten kommen mit [και]{lang="el"} dazu oder werden mit [παρά]{lang="el"} abgezogen, wie im
-Spanischen mit *y* und *menos*:
+Spanischen mit [*y*]{lang="es"} und [*menos*]{lang="es"}:
 
 | Uhr | Griechisch | Spanisch |
 |---|---|---|
@@ -161,7 +161,7 @@ Welche Tageshälfte gemeint ist, sagt die Tageszeit dahinter: [στις εννι
 [στις εννιά το βράδυ]{lang="el"}, [στις τρεις τη νύχτα]{lang="el"}. Das [μεσημέρι]{lang="el"}
 reicht bis in den Nachmittag (Kapitel 1); [στις δύο το μεσημέρι]{lang="el"} ist ganz normal.
 Zwölf Uhr ist [δώδεκα το μεσημέρι]{lang="el"} oder [δώδεκα τα μεσάνυχτα]{lang="el"}. Auf Schildern
-stehen dafür [π.μ.]{lang="el"} und [μ.μ.]{lang="el"}, „vor“ und „nach Mittag“ wie *a.m.* und *p.m.*
+stehen dafür [π.μ.]{lang="el"} und [μ.μ.]{lang="el"}, „vor“ und „nach Mittag“ wie [*a.m.*]{lang="en"} und [*p.m.*]{lang="en"}
 
 Fahrpläne, Ansagen und Nachrichten zählen bis 24: 19:30 heißt dort
 [δεκαεννέα και τριάντα]{lang="el"}. Im Gespräch rechnet man um: [στις εφτάμισι το
@@ -246,7 +246,6 @@ Zahlen haben eine weibliche Form, und kommt eine davon vor?
 | [ακριβώς]{lang="el"} | [akriˈvos] | genau, pünktlich |
 | [γύρω στις]{lang="el"} | [ˈʝiro stis] | gegen, ungefähr um |
 | [το πρωί]{lang="el"} | [to proˈi] | der Morgen; morgens |
-| [η νύχτα]{lang="el"} | [i ˈnixta] | die Nacht; [τη νύχτα]{lang="el"} nachts |
 | [τα μεσάνυχτα]{lang="el"} | [ta meˈsanixta] | Mitternacht |
 :::
 
@@ -330,7 +329,7 @@ dritte, den Genitiv:
 | [ο Δεκέμβριος]{lang="el"} | [ο Δεκέμβρης]{lang="el"} | [Δεκεμβρίου]{lang="el"} |
 
 Die Monate sind männlich. „Im März“ ist wieder der bloße Akkusativ: [τον Μάρτιο]{lang="el"}, im
-Gespräch [τον Μάρτη]{lang="el"}. Die dritte Spalte ist der gelehrte Genitiv aus Kapitel 7: aus
+Gespräch [τον Μάρτη]{lang="el"}. Die dritte Spalte ist ein gelehrter Genitiv, wie ihn Kapitel 7 bei [του Αγίου Γεωργίου]{lang="el"} gezeigt hat: aus
 [-ιος]{lang="el"} wird [-ίου]{lang="el"}, die Betonung wandert aufs [-ί-]{lang="el"}, wie bei
 [Γεώργιος – Γεωργίου]{lang="el"}; aus [Αύγουστος]{lang="el"} wird [Αυγούστου]{lang="el"}. Die
 Namenstage in Kapitel 7 ([στις 23 Απριλίου]{lang="el"}) waren also schon Daten.
@@ -630,7 +629,7 @@ Vier Blickrichtungen, vier Ausdrücke:
 | Deutsch | Griechisch | gezählt ab |
 |---|---|---|
 | vor zwei Stunden | [πριν από δύο ώρες]{lang="el"} | jetzt, zurück |
-| in zwei Stunden | [σε δύο ώρες]{lang="el"} (Kapitel 5) | jetzt, nach vorn |
+| in zwei Stunden | [σε δύο ώρες]{lang="el"} (vgl. Kapitel 5) | jetzt, nach vorn |
 | nach zwei Stunden, zwei Stunden später | [μετά από δύο ώρες]{lang="el"}, [δύο ώρες μετά]{lang="el"} | einem Ereignis in der Erzählung |
 | seit zwei Stunden | [εδώ και δύο ώρες]{lang="el"} | jetzt, zurück, dauert an |
 :::
@@ -757,7 +756,7 @@ Hör-Auftrag mit einer echten Sendung.
 
 Zuerst ein Lokalradio am Morgen des 28. Oktober, dann eine Durchsage im Bahnhof von Athen:
 
-::: {lang="el"}
+::: {lang="el" .listen}
 — Καλημέρα σας. Είναι εφτά και μισή, Τετάρτη, είκοσι οχτώ Οκτωβρίου, επέτειος του «Όχι». Στο
 κέντρο της πόλης η μαθητική παρέλαση αρχίζει στις έντεκα. Οι δρόμοι γύρω από την πλατεία θα είναι
 κλειστοί από τις εννιά μέχρι τις δύο το μεσημέρι. Τα λεωφορεία θα περνάνε από την παραλία.
@@ -818,10 +817,10 @@ Zahlen sind beim Hören schwerer als Wörter, weil der Zusammenhang nicht hilft:
 ::: {.callout-note .exercise}
 ## Übung 11.5: Was wurde durchgesagt?
 
-Hör die fünf Schnipsel zuerst mit ▶, ohne mitzulesen, dann lies mit. Wähl jeweils die richtige
-Antwort und sag sie in Alltagsform laut. Im Chat reicht „1a, 2…“.
+Hör die fünf Schnipsel zuerst mit ▶, ohne den Text aufzuklappen, dann lies
+mit. Wähl jeweils die richtige Antwort und sag sie in Alltagsform laut. Im Chat reicht „1a, 2…“.
 
-::: {lang="el"}
+::: {lang="el" .listen}
 1. Το πλοίο για Νάξο θα αναχωρήσει στις δεκατρείς και τριάντα.
 2. Η πτήση για Ηράκλειο θα αναχωρήσει από την έξοδο δεκατρία.
 3. Η πτήση θα αναχωρήσει με καθυστέρηση. Νέα ώρα αναχώρησης: είκοσι μία και σαράντα πέντε.
@@ -874,8 +873,8 @@ Wochentag nach dem Artikel wie mit [b].
 ::: {.callout-note .exercise}
 ## Übung 11.6: Hör-Auftrag
 
-**Schritt 1.** Hör das Radio und die Bahnhofsdurchsage oben mit ▶, ohne mitzulesen. Was
-erfährst du über Uhrzeit, Datum, Verspätung, Gleis und Ankunft?
+**Schritt 1.** Hör das Radio und die Bahnhofsdurchsage oben mit ▶, ohne den Text
+aufzuklappen. Was erfährst du über Uhrzeit, Datum, Verspätung, Gleis und Ankunft?
 
 **Schritt 2.** Such auf [ERTflix](https://www.ertflix.gr) nach [ειδήσεις]{lang="el"} und wähl
 eine Nachrichtensendung. Hör die ersten drei Minuten und merk dir jede Zeitangabe: Wochentag,

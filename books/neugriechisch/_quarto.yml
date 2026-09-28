@@ -29,6 +29,9 @@ book:
     - chapters/06-nomen-adjektive-zahlen.qmd
     - chapters/07-genitiv-anrede.qmd
     - chapters/08-schwache-pronomen.qmd
+    - chapters/09-imperativ.qmd
+    - chapters/10-deponentien.qmd
+    - chapters/11-zeit.qmd
 
 lang: de
 

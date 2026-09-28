@@ -13,11 +13,11 @@
 | 05 Der zweite Stamm in der Zukunft: θα und να | veröffentlicht | Welle 3; Audio vollständig |
 | 06 Auf dem Markt: Nomen, Adjektive, Zahlen | veröffentlicht | Welle 2; Audio vollständig |
 | 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | veröffentlicht | Welle 3; Audio vollständig |
-| 11 Zeit: Uhrzeit, Datum, Jahreszahlen | Konsistenz | Welle 3; erscheint nach 10 |
-| 10 Verben auf -μαι im Alltag | fertig | Welle 4; wartet auf 08, 09 |
+| 11 Zeit: Uhrzeit, Datum, Jahreszahlen | veröffentlicht | Welle 3; Audio ausstehend |
+| 10 Verben auf -μαι im Alltag | veröffentlicht | Welle 4; Audio ausstehend |
 | 12 Vergleichen und Zwischenbilanz | Übungen | Welle 6; Entwurf fertig |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
-| 09 Sag’s direkt: der Imperativ | Konsistenz | Welle 5; überarbeitet |
+| 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio läuft |
 
 ## Plan für /write all (Wellen nach Voraussetzungen)
 

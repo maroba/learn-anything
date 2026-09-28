@@ -1,5 +1,5 @@
 ---
-title: "Sag's direkt: der Imperativ"
+title: "Sag’s direkt: der Imperativ"
 ---
 
 ::: {.callout-note .review}
@@ -93,7 +93,7 @@ Das Rezept besteht fast nur aus Befehlen, und die meisten sehen vertraut aus:
 | [μην ανοίγεις]{lang="el"} | [ανοίγω]{lang="el"} | mach nicht (dauernd) auf! |
 
 [κόψε, γέμισε, ανακάτεψε]{lang="el"} klingen wie der Aorist „er schnitt, er füllte, er
-mischte“, nur ohne Augment. Das ist der **Imperativ** ([η προστακτική]{lang="el"}). Du benutzt ihn seit Kapitel 1 als festes Stück ([Έλα! Κοίτα! Δώσε μου …]{lang="el"}),
+mischte“, nur ohne Augment. Das ist der **Imperativ** ([η προστακτική]{lang="el"}). Du benutzt ihn seit den ersten Kapiteln als festes Stück ([Έλα! Κοίτα! Δώσε μου …]{lang="el"}),
 hier kommt das System dahinter: zwei Aspekte, Pronomen dahinter, Verbote ganz ohne Imperativ.
 
 **[Τα γεμιστά]{lang="el"}**, wörtlich „die Gefüllten“, von [γεμίζω]{lang="el"} „füllen“ (verwandt
@@ -179,7 +179,7 @@ lassen sich jetzt zerlegen: [Πάρτε! Δοκιμάστε! Διαλέξτε!]{
 ::: {.callout-important}
 ## Merke
 
-Der **perfektive Imperativ** (Foto) der regelmäßigen Verben:
+Der **Foto-Imperativ** (perfektiver Stamm) der regelmäßigen Verben:
 
 - **du:** er-Form des Aorists ohne Augment: [έγραψε → γράψε]{lang="el"},
   [τηλεφώνησε → τηλεφώνησε]{lang="el"}.
@@ -224,7 +224,7 @@ Vermieterin (Sie).
 ## Hinweis 1
 
 du: er-Form des Aorists, Augment weg. ihr: erst die [να]{lang="el"}-Form bilden
-([θα κλείσετε]{lang="el"}), dann [-ετε → -τε]{lang="el"}.
+([να κλείσετε]{lang="el"}), dann [-ετε → -τε]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -434,9 +434,9 @@ nimmt man oft das Foto: [Κοιτάξτε! Ακούστε!]{lang="el"}
 :::
 
 ::: {.callout-note .review}
-## Alte Bekannte, jetzt erklärt
+## Zur Wiederholung
 
-Diese Imperative stehen seit Kapitel 1 als feste Stücke im Buch:
+Diese Imperative stehen seit den ersten Kapiteln als feste Stücke im Buch:
 
 - **Foto, du:** [Έλα!]{lang="el"} (Kapitel 1), [Δοκίμασε! Βάλε μου … Δώσε μου …]{lang="el"}
   (Kapitel 6), [Μείνε μαζί μου. Βγάλε …!]{lang="el"} (Kapitel 3), [Πες μου. Πάρ’ το.]{lang="el"}
@@ -1027,7 +1027,7 @@ Präsens; ob Anweisung oder Feststellung, zeigt der Zusammenhang.
 ### Die Grammatik des Rufens {#sec-imperativ-rufe}
 
 - **[Άντε!]{lang="el"}** treibt an: „los, komm schon, na mach“. Es wird meist auf türkisch
-  *haydi* zurückgeführt, das auch im Balkan-*ajde* steckt. [Άντε, πάμε!]{lang="el"} ist das
+  [*haydi*]{lang="tr"} zurückgeführt, das auch im Balkan-*ajde* steckt. [Άντε, πάμε!]{lang="el"} ist das
   griechische Signal zum Aufbruch, [Άντε γεια!]{lang="el"} „Na dann tschüs!“ je nach Ton freundlich
   oder genervt.
 - **[Φτάνει!]{lang="el"}**, „es reicht“, ist gar kein Imperativ, sondern das Präsens von
@@ -1041,7 +1041,6 @@ Präsens; ob Anweisung oder Feststellung, zeigt der Zusammenhang.
   Zustand, der andauern soll.
 - **Satzakzent vorn:** Gerufene Imperative tragen ihn am Anfang:
   [**Μπεί**τε στο αυτοκίνητο!]{lang="el"}
-
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -1167,7 +1166,6 @@ Anna
 
 P.S. Lola hat um sieben gegessen. Wenn sie dir sagt, dass sie Hunger hat, glaub ihr nicht.
 :::
-
 
 ::: {.callout-note .exercise}
 ## Übung 9.8: Was der Text wirklich sagt
