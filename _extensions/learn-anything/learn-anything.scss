@@ -1,0 +1,119 @@
+/*-- scss:defaults --*/
+// Noto covers Latin, Greek (incl. polytonic), Cyrillic and many more scripts.
+$font-family-sans-serif: "Noto Sans", system-ui, sans-serif;
+$font-family-serif: "Noto Serif", Georgia, serif;
+$font-size-root: 18px;
+
+/*-- scss:rules --*/
+#quarto-document-content {
+  font-family: $font-family-serif;
+  line-height: 1.7;
+}
+
+#quarto-document-content h1,
+#quarto-document-content h2,
+#quarto-document-content h3,
+#quarto-document-content h4 {
+  font-family: $font-family-sans-serif;
+}
+
+// Paragraph reference marker (¶), added by learn-anything.js
+.la-ref-target {
+  position: relative;
+  scroll-margin-top: 5rem;
+}
+
+.la-ref {
+  position: absolute;
+  left: -1.6rem;
+  top: 0;
+  width: 1.3rem;
+  border: 0;
+  background: none;
+  padding: 0;
+  font-family: $font-family-sans-serif;
+  font-size: 0.95rem;
+  line-height: inherit;
+  color: $text-muted;
+  opacity: 0;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.la-ref-target:hover > .la-ref,
+.la-ref:focus-visible {
+  opacity: 0.8;
+}
+
+.la-ref:hover {
+  color: $primary;
+  opacity: 1;
+}
+
+li.la-ref-target > .la-ref {
+  left: -2.9rem;
+}
+
+// Touch devices have no hover: tapping a passage reveals its marker (see learn-anything.js).
+@media (hover: none) {
+  .la-active > .la-ref {
+    opacity: 0.8;
+  }
+}
+
+// On narrow screens the marker sits in the small page gutter.
+@media (max-width: 767.98px) {
+  .la-ref {
+    left: -1.15rem;
+    width: 1.1rem;
+  }
+
+  li.la-ref-target > .la-ref {
+    left: -2.4rem;
+  }
+}
+
+.la-flash {
+  animation: la-flash 2.5s ease-out;
+}
+
+@keyframes la-flash {
+  from { background-color: rgba($warning, 0.35); }
+  to   { background-color: transparent; }
+}
+
+.la-toast {
+  position: fixed;
+  left: 50%;
+  bottom: 1.5rem;
+  transform: translateX(-50%);
+  z-index: 2000;
+  padding: 0.5rem 1rem;
+  border-radius: 0.4rem;
+  background: $gray-900;
+  color: $white;
+  font-family: $font-family-sans-serif;
+  font-size: 0.9rem;
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.25);
+  opacity: 0;
+  transition: opacity 0.2s;
+  pointer-events: none;
+}
+
+.la-toast.la-show {
+  opacity: 1;
+}
+
+// Changelog box at the top of a chapter
+.la-new-badge {
+  display: inline-block;
+  margin-left: 0.4rem;
+  padding: 0 0.4rem;
+  border-radius: 0.25rem;
+  background: $success;
+  color: $white;
+  font-family: $font-family-sans-serif;
+  font-size: 0.75em;
+  font-weight: 600;
+  vertical-align: middle;
+}

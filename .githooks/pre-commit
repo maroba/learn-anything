@@ -1,0 +1,6 @@
+#!/bin/bash
+# Keep learner data out of the public repo (see DESIGN.md, section 2).
+# Activated via `git config core.hooksPath .githooks` (done by the SessionStart hook).
+mapfile -t staged < <(git diff --cached --name-only --diff-filter=ACR)
+[ ${#staged[@]} -eq 0 ] && exit 0
+exec "$(git rev-parse --show-toplevel)/.githooks/check-private-files" "${staged[@]}"

@@ -1,0 +1,9 @@
+# Build output
+_site/
+_book/
+.quarto/
+library/books.yml
+**/*_files/
+
+# Python
+__pycache__/

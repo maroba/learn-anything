@@ -1,0 +1,16 @@
+# Metadaten des Buchs. Wird von scripts/build.py (Bibliothek) und den Claude-Commands gelesen.
+title: "{{title}}"
+subtitle: "{{subtitle}}"
+slug: {{slug}}
+topic: "{{topic}}"
+# Sprache, in der das Buch erklärt (BCP-47, z.B. de, en, el, es).
+language: {{lang}}
+# Nur bei Sprachbüchern: die zu lernende Sprache (für Audio, Eingabehilfen, Immersion). Sonst leer.
+target-language: {{target_lang}}
+# languages | formal-sciences | natural-sciences | programming | humanities | practical
+archetype: {{archetype}}
+# interview | research | outline | sample | writing | complete
+status: interview
+# Erscheint erst in der Bibliothek, wenn true (spätestens mit dem Probekapitel).
+published: false
+created: {{date}}

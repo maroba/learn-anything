@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+
+website:
+  title: "learn-anything"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Bibliothek
+
+lang: de
+
+format:
+  learn-anything-html:
+    toc: false
+    number-sections: false

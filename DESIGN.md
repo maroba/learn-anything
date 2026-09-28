@@ -148,11 +148,12 @@ Notation feststehen.
 - Keine Übernahmen aus existierenden Lehrbüchern; Bilder selbst erzeugt oder frei lizenziert.
 - Unsicheres wird markiert statt souverän behauptet.
 
-## 12. Erstes Testthema: Griechisch
+## 12. Erstes Testthema: Neugriechisch
 
 Besonderheiten, die das System dabei abdecken muss:
 
-- Das Interview muss klären, welches Griechisch (Neugriechisch, Altgriechisch/attisch, Koine).
+- Entschieden: **Neugriechisch**. Das Interview soll trotzdem generell klären, welche Variante
+  eines Themas gemeint ist (bei Griechisch: Neu-, Altgriechisch, Koine).
 - Schrift und Alphabet als eigenes Lernproblem (interaktive Übungen, frühe Anki-Karten).
 - Audio: Browser haben meist eine `el-GR`-Stimme; für Altgriechisch gibt es keine, und die
   rekonstruierte Aussprache ist umstritten.
@@ -162,7 +163,7 @@ Besonderheiten, die das System dabei abdecken muss:
 
 ## 13. Umsetzungsplan
 
-1. **Infrastruktur:** Quarto-Bibliothek, Pages-Deployment, ¶-Referenzen, Änderungsvermerke,
+1. **Infrastruktur** (erledigt, 2026-09-28): Quarto-Bibliothek, Pages-Deployment, ¶-Referenzen, Änderungsvermerke,
    SessionStart-Hook, `CLAUDE.md`, Schutz-Hook für Lernerdaten.
 2. **Commands, Agents, Skills:** siehe Abschnitte 6–8; zunächst der Archetyp „Sprachen“.
 3. **Lern-Features:** Einstufungstest, Anki-Export, Audio, Eingabehilfe, Abhängigkeitsgraph,
@@ -179,4 +180,9 @@ Besonderheiten, die das System dabei abdecken muss:
 | 2026-09-28 | Mehrere Bücher in einem Repo. |
 | 2026-09-28 | Bücher öffentlich; Lernerdaten im privaten Repo `maroba/learn-anything-private`. |
 | 2026-09-28 | Alle Lern-Features aus Abschnitt 10 sind gewünscht. |
-| 2026-09-28 | Erstes Testthema: Griechisch. |
+| 2026-09-28 | Erstes Testthema: Neugriechisch. |
+| 2026-09-28 | Quarto-Version fest auf 1.10.18 (CI und SessionStart-Hook). |
+| 2026-09-28 | Gemeinsames Quarto-Format `learn-anything-html` als Extension in `_extensions/`; jedes Buch verlinkt es per Symlink. |
+| 2026-09-28 | ¶-Referenzen: IDs `<abschnitt>-p<n>` werden im Browser vergeben, die kopierte Referenz enthält zusätzlich einen Textausschnitt, über den Claude die Stelle im Quelltext eindeutig findet. Auf Touch-Geräten erscheint das ¶ nach Antippen des Absatzes. |
+| 2026-09-28 | Änderungsvermerke über `changes:` im Front Matter; „neu seit letztem Besuch“ per localStorage im Browser des Lesers (nichts davon landet im Repo). |
+| 2026-09-28 | Vorlagen für die privaten Dateien liegen im privaten Repo (`templates/book/`). |

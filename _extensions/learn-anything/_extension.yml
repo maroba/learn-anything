@@ -1,0 +1,18 @@
+title: learn-anything
+author: learn-anything
+version: 0.1.0
+quarto-required: ">=1.6.0"
+contributes:
+  formats:
+    html:
+      theme:
+        light: [cosmo, learn-anything.scss]
+        dark: [darkly, learn-anything.scss]
+      filters:
+        - learn-anything.lua
+      include-in-header: fonts.html
+      toc: true
+      toc-depth: 3
+      number-sections: true
+      smooth-scroll: true
+      code-copy: true

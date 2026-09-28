@@ -1,0 +1,24 @@
+project:
+  type: book
+  output-dir: _book
+  # Only the book itself is rendered, not the working files (STYLE.md, outline.md, ...).
+  render:
+    - index.qmd
+    - chapters/*.qmd
+
+book:
+  title: "{{title}}"
+  subtitle: "{{subtitle}}"
+  author: "learn-anything"
+  search: true
+  sidebar:
+    tools:
+      - icon: collection
+        href: ../index.html
+        text: "{{library_label}}"
+  chapters:
+    - index.qmd
+
+lang: {{lang}}
+
+format: learn-anything-html

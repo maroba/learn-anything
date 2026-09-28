@@ -1,0 +1,14 @@
+#!/bin/bash
+# Fails if any of the given paths looks like learner data, which belongs in the
+# private repo (maroba/learn-anything-private), never in this public one.
+# Used by the pre-commit hook and by CI.
+status=0
+for path in "$@"; do
+  case "$(basename "$path")" in
+    LEARNER.md|placement.md|questions.md|exercises.md)
+      echo "ERROR: '$path' looks like learner data. It belongs in learn-anything-private, not here." >&2
+      status=1
+      ;;
+  esac
+done
+exit $status

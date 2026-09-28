@@ -1,0 +1,19 @@
+---
+title: "Bibliothek"
+subtitle: "Lehrbücher zu beliebigen Themen, geschrieben mit Claude"
+listing:
+  contents: books.yml
+  type: grid
+  grid-columns: 2
+  categories: true
+  fields: [title, subtitle, description, categories]
+  feed: false
+---
+
+::: {.callout-tip appearance="simple"}
+## So liest Du mit Claude zusammen
+
+Fährst Du beim Lesen mit der Maus über einen Absatz, erscheint links ein **¶**. Ein Klick kopiert
+eine Referenz auf genau diese Stelle. Füge sie in Deinen Chat mit Claude ein und stelle Deine Frage
+oder bitte um eine Änderung. Auf dem Handy tippst Du zuerst auf den Absatz, dann auf das ¶.
+:::
