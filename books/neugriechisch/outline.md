@@ -245,10 +245,10 @@ bis zwei Wochen pro Kapitel bei 5 Stunden pro Woche.
 
 ### 33 Filme verstehen
 - **Datei:** 33-filme-verstehen
-- **Lernziele:** kann Strategien für Filme ohne Untertitel anwenden; kann Szenen aus ausgewählten griechischen Filmen im Wesentlichen verstehen
+- **Lernziele:** kann Strategien für Filme ohne Untertitel anwenden; kann Szenen selbst gewählter griechischer Filme mit dem Szenenleitfaden im Wesentlichen verstehen
 - **Voraussetzungen:** 21, 30, 31
 - **Lesezeit:** 45 min
-- **Inhalt:** ausgewählte Filme auf ERTflix mit Szenenleitfaden; Untertitel-Leiter bis ganz ohne; Sachthema: griechische Filmkomödie der 60er und das neue griechische Kino; Hörspur: Szenenarbeit
+- **Inhalt:** Szenenleitfaden und Suchweg zu Filmen auf ERTflix (keine festen Titel, weil der Katalog wechselt); Untertitel-Leiter bis ganz ohne; Sachthema: griechische Filmkomödie der 60er und das neue griechische Kino; Hörspur: Szenenarbeit
 
 ### 34 Abschluss und B2-Selbsttest
 - **Datei:** 34-abschluss-b2

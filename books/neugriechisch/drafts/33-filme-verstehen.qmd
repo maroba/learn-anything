@@ -149,6 +149,12 @@ Wer nur auf die Wörter hört, kämpft mit den Nachteilen. Wer Bild, Situation u
 mitliest, hat gegen einen Muttersprachler weniger Rückstand, als die Wortschatzlücke vermuten
 lässt.
 
+Ehrlich gerechnet bleibt trotzdem ein Rest. Der Europäische Referenzrahmen (GER) erwartet auf B2,
+dass man „die meisten Spielfilme verstehen“ kann, „sofern Standardsprache gesprochen wird“;
+Filme voller Umgangssprache und Redewendungen setzt er erst bei C1 an. Die alten Komödien und
+viele Serien liegen im Bereich von B2, schnelle Großstadtfilme oft darüber. Lücken dort sind kein
+Versagen der Methode, sondern genau das, was der GER erwarten lässt.
+
 ::: {.callout-note .exercise}
 ## Übung 33.1: Welche Szene?
 
@@ -217,11 +223,11 @@ An der Szene vom Anfang:
 
 | Frage | Antwort | woran erkennbar |
 |---|---|---|
-| 1 | Vermittlerin und Brautvater, vertraut | [σου, φωνάζεις]{lang="el"}, [κυρ-, κυρα-]{lang="el"} |
-| 2 | Sie will die Heirat samt Mitgift, er will nichts zahlen | [Τι ζητάει;]{lang="el"}, [αν γίνεται]{lang="el"} |
-| 3 | Der Bräutigam hat Roula gesehen | Aorist: [την είδε, την ερωτεύτηκε]{lang="el"} |
-| 4 | Aus „nichts“ wird ein Haus | [Βέβαια, βέβαια… Και]{lang="el"} |
-| 5 | Kochtopf behalten, Foto nicht | Schweigen über das Foto |
+| Wer mit wem? | Vermittlerin und Brautvater, vertraut | [σου, φωνάζεις]{lang="el"}, [κυρ, κυρα-]{lang="el"} |
+| Was will wer? | Sie will die Heirat samt Mitgift, er will nichts zahlen | [Τι ζητάει;]{lang="el"}, [αν γίνεται]{lang="el"} |
+| Was ist passiert? | Der Bräutigam hat Roula gesehen | Aorist: [την είδε, την ερωτεύτηκε]{lang="el"} |
+| Wo kippt es? | Aus „nichts“ wird ein Haus | [Βέβαια, βέβαια… Και]{lang="el"}; das kleine [σπιτάκι]{lang="el"} spielt die Forderung herunter (Kapitel 26) |
+| Pointe? | Kochtopf behalten, Foto nicht | Schweigen über das Foto |
 
 Die Spalte rechts ist der Kern der Methode: Für jede Frage gibt es Signale, und fast alle kennst
 du aus früheren Kapiteln. Hier ist das Buch als Hörhilfe, auf einer Seite:
@@ -229,18 +235,18 @@ du aus früheren Kapiteln. Hier ist das Buch als Hörhilfe, auf einer Seite:
 | Frage | Signale | Kapitel |
 |---|---|---|
 | Wer mit wem? | Anrede im Vokativ, [σας, -ετε]{lang="el"} oder [σου, -εις]{lang="el"}, [κύριε]{lang="el"} oder [ρε, μωρέ]{lang="el"} | 7, 21, 31 |
-| Was will wer? | Imperativ, [να]{lang="el"}-Satz, [μήπως]{lang="el"}, [θα μπορούσατε]{lang="el"}, Verbot mit [μην]{lang="el"} | 5, 9, 24, 31 |
+| Was will wer? | Imperativ, [να]{lang="el"}-Satz, [μήπως]{lang="el"}, [θα μπορούσατε]{lang="el"}, Verbot mit [μην]{lang="el"}, Verkleinerung als Weichmacher | 5, 9, 24, 26, 31 |
 | Was ist passiert? | Aoristendungen [-α, -αμε]{lang="el"}, Imperfekt als Hintergrund, [έχω/είχα]{lang="el"} + Form auf [-ει]{lang="el"} | 2, 4, 14 |
-| Was vermutet, bereut, wünscht wer? | [πρέπει να, μπορεί να]{lang="el"}, [θα]{lang="el"} + Aorist, [έπρεπε να, μακάρι να]{lang="el"}, [αν]{lang="el"} + Imperfekt | 22, 24, 25 |
+| zu 2 und 3: Was vermutet, bereut, wünscht wer? | [πρέπει να, μπορεί να]{lang="el"}, [θα]{lang="el"} + Aorist, [έπρεπε να, μακάρι να]{lang="el"}, [αν]{lang="el"} + Imperfekt | 22, 24, 25 |
 | Wo kippt es? | [αλλά, όμως, ξαφνικά]{lang="el"}, [Και;]{lang="el"}, Echo-Frage, ironisches [σιγά]{lang="el"} | 2, 18, 20, 29 |
-| Wo ist die Pointe? | Redewendung, halbes Sprichwort, Lachen oder Schweigen danach | 30 |
+| Wer weicht aus, wer korrigiert sich? | Diskursmarker: [δηλαδή, τέλος πάντων, κοίτα, έλα]{lang="el"} | 21 |
+| Pointe? | Redewendung, halbes Sprichwort, Lachen oder Schweigen danach | 30 |
 
 ::: {.callout-tip}
 ## Tipp
 
-Arbeite die Fragen in dieser Reihenfolge ab. Frage 1 beantwortet oft schon das Bild und die
-erste Anrede; Frage 2 steckt meist im ersten Imperativ oder in der ersten Frage. Wer 1 und 2 hat,
-versteht den Rest der Szene viel leichter, weil er weiß, worauf er wartet.
+Arbeite die Fragen in dieser Reihenfolge ab. Frage 1 beantworten oft schon Bild und erste
+Anrede, Frage 2 der erste Imperativ oder die erste Frage. Wer beide hat, weiß, worauf er wartet.
 :::
 
 ::: {.callout-note .exercise}
@@ -313,8 +319,7 @@ Verhältnis der beiden ändert.
 |---|---|---|
 | [η ατάκα]{lang="el"} | [i aˈtaka] | der schlagfertige Satz, die Pointe; der berühmte Satz (aus einem Film) |
 | [ο χαρακτήρας]{lang="el"} | [o xarakˈtiras] | die Figur (im Film); der Charakter |
-| [η πλοκή]{lang="el"} | [i ploˈci] | die Handlung (eines Films) |
-| [το σενάριο]{lang="el"} | [to seˈnario] | das Drehbuch |
+| [η πλοκή]{lang="el"} | [i ploˈci] | die Handlung (eines Films); [το σενάριο]{lang="el"} das Drehbuch |
 :::
 
 ## Lücken aushalten {#sec-filme-luecken}
@@ -329,8 +334,9 @@ klar wird. Zurückspulen lohnt sich erst, wenn du Frage 1 oder 2 des Leitfadens 
 **Die betonte Silbe festhalten** (Kapitel 21). Sie überlebt jedes Tempo. Aus [ˈpstevo] wird [πιστεύω]{lang="el"}, aus [ˈmuçi] ein [μου ’χει]{lang="el"}.
 
 **Das Verb zuerst.** Die Endung sagt Person und Zeit, bevor du weißt, welches Verb es ist: ein
-unbetontes [-ame] am Ende ist Vergangenheit, [θa] davor Zukunft oder Vermutung, [-ˈθika]
-ein Mediopassiv-Aorist (Kapitel 13).
+unbetontes [-ame] am Ende ist Vergangenheit; [θa] davor heißt Zukunft, Vermutung oder, mit
+Imperfekt, „würde“; ein [-θika] oder [-tika] mit der Betonung davor ([ˈxaθika]) ist ein
+Mediopassiv-Aorist (Kapitel 13).
 
 **Die kleinen Wörter mit großer Wirkung.** [δεν]{lang="el"} und [μην]{lang="el"} drehen den
 Sinn um, [αν]{lang="el"} macht aus einer Aussage eine Bedingung, [αλλά]{lang="el"} kündigt die
@@ -347,19 +353,8 @@ Die Hörfallen früherer Kapitel, gesammelt:
 - [ˈopote], [ˈpote], [poˈte]: [όποτε, πότε;, ποτέ]{lang="el"} (17); [oˈpote] ist
   [οπότε]{lang="el"} „also“ (25).
 - [-ˈmenos] am Wortende: Partizip; [-odas]: Gerundium (19).
-- [b, d, g] nach [to], [ti], [ðe]: oft ein [π, τ, κ]{lang="el"} mit Sandhi (21).
+- [(m)b, (n)d, (ŋ)g] nach [to], [ti], [ðe]: oft ein [π, τ, κ]{lang="el"} mit Sandhi (21).
 :::
-
-::: {.callout-caution .uncertain}
-## Vorsicht
-
-Wie viel eines Textes man verstehen muss, um ihm zu folgen, hängt stark von Text und Hörer ab;
-feste Prozentwerte, wie sie gelegentlich genannt werden, gelten meist fürs Lesen und lassen sich
-nicht einfach auf Filme übertragen. Als Maßstab taugt der Leitfaden besser: Kannst du die ersten
-drei Fragen beantworten, bist du der Szene gefolgt.
-:::
-
-<!-- CHECK: Aussage zu „Prozentwerten“ (Abdeckung 95–98 % beim Lesen, Nation/Laufer; für Filme/Hören teils niedriger angesetzt, Webb & Rodgers 2009) – vorsichtige Formulierung so vertretbar? -->
 
 ::: {.callout-note .exercise}
 ## Übung 33.3: Was stand in der Lücke?
@@ -401,8 +396,7 @@ Die Antwort steckt jeweils im nächsten Satz oder in der Reaktion.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Bei 3 zeigt [θα ερχόμουν]{lang="el"} die Satzart (Kapitel 24), bei 4 die Endung von
-[είναι]{lang="el"} die Person.
+Bei 3 zeigt [θα ερχόμουν]{lang="el"} die Satzart (Kapitel 24).
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -414,7 +408,7 @@ Bei 3 zeigt [θα ερχόμουν]{lang="el"} die Satzart (Kapitel 24), bei 4 d
    [Έμεινα σπίτι]{lang="el"}.
 2. [Εκείνος πήγε]{lang="el"}: Der Kollege war schon dort, also sind die Karten weitergegeben.
 3. [θα ερχόμουν]{lang="el"} verlangt den Irrealis: „Hättest du es mir früher gesagt, wäre ich
-   mitgekommen.“ Mit b) oder c) ergibt der Satz keinen Sinn.
+   mitgekommen.“ b) und c) passen nicht zum Zusammenhang.
 4. [είναι]{lang="el"}, nicht [είμαι]{lang="el"}: eine dritte Person; auf c) passt
    [Καλά είναι]{lang="el"} nicht.
 
@@ -427,12 +421,11 @@ Lücke.
 Zwischen Mitte der 1950er- und Anfang der 1970er-Jahre drehte das griechische Kino so viel wie
 nie davor und danach; man spricht von seiner goldenen Zeit. Den größten Namen hatte Finos Film,
 das Studio von Filopimin Finos ([Φιλοποίμην Φίνος]{lang="el"}) in Athen, das neben Melodramen und Musikfilmen vor allem
-Komödien herstellte, meist schwarzweiß, gegen Ende der Sechziger zunehmend in Farbe. Die Stars
+Komödien herstellte, meist schwarzweiß; die ersten Farbfilme kamen 1961, zur Regel wurde Farbe
+gegen Ende der Sechziger. Die Stars
 kennst du aus Kapitel 21: Thanasis Vengos, der hektische kleine Mann, dem alles schiefgeht, und
 Aliki Vougiouklaki, die Frau, die sich von niemandem etwas sagen lässt. Dazu kamen Komiker wie
 Kostas Voutsas oder Georgia Vasileiadou, die wie ein Sturm durch jede Szene fegten.
-
-<!-- CHECK: Finos Film gegründet 1943 von Filopimin Finos (hier bewusst ohne Jahr); „goldene Zeit“ ca. 1955–1970 als gängige Periodisierung; Farbe ab Ende der 1960er; Voutsas und Vasileiadou als Komiker dieser Zeit; Rollenbilder Vengos/Vougiouklaki so vertretbar? -->
 
 Viele dieser Filme beruhen auf Theaterkomödien, und das hörst du: Die Figuren sprechen schnell,
 aber **deutlich**, mit Bühnenaussprache, und jede Szene läuft auf eine Pointe zu. Die Handlung
@@ -445,11 +438,9 @@ einen Mann, und ein Bruder heiratete, so das Klischee, erst, wenn die Schwestern
 ## Vorsicht
 
 „Typen“ und „feste Muster“ sind eine Vereinfachung; es gibt unter diesen Filmen auch bittere und
-ungewöhnliche. Die Mitgift wurde 1983 mit dem neuen Familienrecht abgeschafft; als Thema der
-Komödien ist sie also ein Stück Sozialgeschichte, keine Gegenwart.
+ungewöhnliche. Die Mitgift wurde 1983 mit dem neuen Familienrecht als Rechtsinstitut
+abgeschafft; als Thema der Komödien ist sie also ein Stück Sozialgeschichte, keine Gegenwart.
 :::
-
-<!-- CHECK: Viele Komödien nach Theatervorlagen (z.B. Sakellarios, Giannakopoulos)? Mitgift durch Gesetz 1329/1983 abgeschafft? Klischee „Bruder heiratet erst nach den Schwestern“ als häufiges Filmmotiv vertretbar? -->
 
 Für dich hat das drei Folgen.
 
@@ -457,25 +448,23 @@ Für dich hat das drei Folgen.
 der Hauptstadt, vorhersagbare Handlung: Der Leitfaden greift hier leichter als irgendwo sonst.
 
 **Die Sprache ist sechzig Jahre alt.** Man siezt häufiger als heute und sagt [δεσποινίς]{lang="el"}
-zu jeder unverheirateten Frau; heute klingt das altmodisch oder ironisch. Chefs heißen [κύριε
-διευθυντά]{lang="el"}, mit einer älteren Vokativform auf [-ά]{lang="el"}, die sich in solchen
-Anreden gehalten hat; heute hört man auch [κύριε διευθυντή]{lang="el"} (Vokativ: Kapitel 7). Und wer sich wichtig
-machen will, redet Katharevousa wie Herr Pantelis.
-
-<!-- CHECK: Vokativ κύριε διευθυντά (älter, gelehrt) neben κύριε διευθυντή (heute üblich) – so korrekt dargestellt? -->
+zu jeder unverheirateten Frau; heute klingt das altmodisch oder ironisch. Und wer sich wichtig
+machen will, redet Katharevousa wie Herr Pantelis. Nicht alles Gelehrte ist aber veraltet: Den
+Chef reden die Filme mit [κύριε διευθυντά]{lang="el"} an, der älteren Vokativform auf
+[-ά]{lang="el"} wie [κύριε καθηγητά]{lang="el"} in Kapitel 31, und das ist bis heute die übliche
+höfliche Anrede an Amtsträger, auch im Brief ([Αξιότιμε κύριε διευθυντά]{lang="el"}).
+[Κύριε διευθυντή]{lang="el"} hört man auch, es klingt aber eher vertraulich, manchmal spöttisch.
 
 **Die [ατάκες]{lang="el"} leben weiter.** Griechen zitieren Sätze aus diesen Filmen im Alltag, als
-Kommentar, als Witz, in Memes, oft ohne zu sagen, woher sie stammen. Wer die Filme kennt,
-versteht eine zweite Ebene jedes Gesprächs; wer sie nicht kennt, erlebt Sätze, über die alle
-lachen außer ihm. Im Lesetext am Ende geht das einmal gut aus.
+Kommentar, als Witz, in Memes, oft ohne zu sagen, woher sie stammen. Wer die Filme nicht kennt,
+erlebt Sätze, über die alle lachen außer ihm. Im Lesetext am Ende geht das einmal gut aus.
 
 ::: {.callout-tip}
 ## Tipp
 
 Wenn am Tisch plötzlich alle über einen harmlosen Satz lachen und jemand ihn mit veränderter
-Stimme wiederholt, ist es fast sicher ein Zitat. Frag einfach: [Από ποια ταινία είναι
-αυτό;]{lang="el"} Die Frage allein bringt dir Sympathie und meist eine Nacherzählung der ganzen
-Szene.
+Stimme wiederholt, ist es fast sicher ein Zitat. Frag: [Από ποια ταινία είναι αυτό;]{lang="el"}
+Das bringt dir Sympathie und meist die ganze Szene, nacherzählt.
 :::
 
 ::: {.callout-note .exercise}
@@ -487,15 +476,15 @@ Szene.
 1. Ein junger Mann zu einer jungen Frau: [Δεσποινίς Ρούλα, θα μου επιτρέψετε να σας συνοδεύσω
    μέχρι το σπίτι σας;]{lang="el"} ([συνοδεύω]{lang="el"} begleiten)
 2. Ein kleiner Angestellter zum Chef: [Κύριε διευθυντά, ως εκ τούτου θέλω αύξηση!]{lang="el"}
-3. Ein Brautvater zur Mutter des Bräutigams: [Χωρίς προίκα; Ε, τότε δεν γίνεται τίποτα, κυρία
-   μου.]{lang="el"}
+3. Der Vater des Bräutigams zur Mutter der Braut: [Χωρίς προίκα; Ε, τότε δε γίνεται τίποτα,
+   κυρία μου.]{lang="el"}
 4. Heute im Büro, ein Kollege zu einer jungen Kollegin, die zu spät kommt:
    [Καλημέρα, δεσποινίς! Πάλι αργήσαμε;]{lang="el"}
 
 **Teil B.** Was sagt man heute statt 1 und 2?
 
 - Zu 1: x) [Να σε πάω μέχρι το σπίτι;]{lang="el"} · y) [Ρούλα, πάμε σπίτι μου;]{lang="el"}
-- Zu 2: x) [Ρε διευθυντή, θέλω αύξηση.]{lang="el"} · y) [Κύριε διευθυντή, θα ήθελα να μιλήσουμε
+- Zu 2: x) [Ρε διευθυντή, θέλω αύξηση.]{lang="el"} · y) [Κύριε διευθυντά, θα ήθελα να μιλήσουμε
   για μια αύξηση.]{lang="el"}
 
 Im Chat: „1H, 2…; 1x, 2…“.
@@ -521,7 +510,8 @@ Zu 3 steht etwas im Vorsicht-Kasten zur Mitgift. In 4 hilft das „wir“ in [α
 
 1. Siezen und Erlaubnis erbitten: damals formvollendet, heute steif.
 2. Das gelehrte [ως εκ τούτου]{lang="el"} soll wichtig klingen, der Rest ist eine nackte
-   Forderung; komisch wie bei Herrn Pantelis. [διευθυντά]{lang="el"} allein war bloß höflich.
+   Forderung. Komisch ist auch, dass „folglich“ ohne einen Grund davor steht, wie bei Herrn
+   Pantelis. [Κύριε διευθυντά]{lang="el"} allein ist bloß höflich, damals wie heute.
 3. Feilschen um die Mitgift, seit 1983 abgeschafft.
 4. Altmodisches [δεσποινίς]{lang="el"} plus gönnerhaftes „wir“: neckend oder herablassend,
    Ironie ist beides.
@@ -535,8 +525,7 @@ unverschämt; 2y verpackt die Forderung mit [θα ήθελα]{lang="el"} (Kapite
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [ασπρόμαυρος, -η, -ο]{lang="el"} | [asˈpromavros] | schwarzweiß |
-| [έγχρωμος, -η, -ο]{lang="el"} | [ˈeŋxromos] | farbig, in Farbe |
+| [ασπρόμαυρος, -η, -ο]{lang="el"} | [asˈpromavros] | schwarzweiß; Gegenteil [έγχρωμος]{lang="el"} [ˈeŋxromos] in Farbe |
 | [κωμικός, -ή, -ό]{lang="el"} | [komiˈkos] | komisch; [ο κωμικός]{lang="el"} der Komiker |
 | [ο τσιγκούνης, η τσιγκούνα]{lang="el"} | [o tsiˈgunis], [i tsiˈguna] | der Geizhals |
 | [ο διευθυντής]{lang="el"} | [o ðiefθiˈdis] | der Direktor, der Chef; Anrede [κύριε διευθυντά]{lang="el"} |
@@ -568,40 +557,37 @@ helfen Kapitel 21 und 31 am meisten, und hier ist Geduld mit Lücken am nötigst
 ::: {.callout-caution .uncertain}
 ## Vorsicht
 
-„Ausdrucksloses Spiel“ ist eine Beobachtung, die Kritiker für einige bekannte Filme dieser
-Richtung gemacht haben, keine Regel für alle. Die gemeinten Regisseurinnen und Regisseure
-arbeiten sehr unterschiedlich (Kapitel 15).
+„Ausdruckslos“ haben Kritiker einige bekannte Filme dieser Richtung genannt, nicht alle; die
+Regisseurinnen und Regisseure arbeiten sehr unterschiedlich (Kapitel 15).
 :::
-
-<!-- CHECK: Charakterisierung „flat/deadpan delivery, wenig Überlappen, lange Pausen“ für Teile der Greek Weird Wave so vertretbar? -->
 
 ::: {.callout-note .exercise}
 ## Übung 33.5: Ohne Melodie
 
-Vater und Tochter, im Stil des neuen Kinos. Die Synthesestimme spricht ohnehin fast ohne
-Ausdruck; hier passt das ausnahmsweise. Hör zweimal, dann entscheide nur über Wörter und
-Zusammenhang. Im Chat: „1a, 2…“.
+Vater und Tochter, im Stil des neuen Kinos; die Tochter fängt an. Die Synthesestimme spricht
+ohnehin fast ohne Ausdruck; hier passt das ausnahmsweise. Hör zweimal, dann entscheide nur über
+Wörter und Zusammenhang. Im Chat: „1a, 2…“.
 
 ::: {lang="el" .listen}
-— Βάζεις τρία πιάτα. Ποιος θα έρθει απόψε;
+[— Μπαμπά, βάζεις τρία πιάτα. Ποιος θα έρθει απόψε;]{.v1}
 
-— Ο Άρης.
+[— Ο Άρης.]{.v2}
 
-— Ποιος Άρης;
+[— Ποιος Άρης;]{.v1}
 
-— Ο γαμπρός σου.
+[— Ο γαμπρός σου.]{.v2}
 
-— Δεν έχω γαμπρό.
+[— Δεν έχω γαμπρό.]{.v1}
 
-— Από απόψε έχεις. Του το υποσχέθηκα.
+[— Από απόψε έχεις. Του το υποσχέθηκα.]{.v2}
 
-— Μήπως έπρεπε να με είχες ρωτήσει πρώτα;
+[— Μήπως έπρεπε να με είχες ρωτήσει πρώτα;]{.v1}
 
-— Σε ρωτάω τώρα. Σου αρέσει το όνομα Άρης;
+[— Σε ρωτάω τώρα. Σου αρέσει το όνομα Άρης;]{.v2}
 
-— Πολύ ωραίο όνομα. Για σκύλο.
+[— Πολύ ωραίο όνομα. Για σκύλο.]{.v1}
 
-— Ωραία. Θα του το πω.
+[— Ωραία. Θα του το πω.]{.v2}
 :::
 
 [υπόσχομαι, υποσχέθηκα]{lang="el"} versprechen.
@@ -630,9 +616,11 @@ danach.
 
 **1b, 2b, 3b, 4c.**
 
-1. [Δεν έχω γαμπρό]{lang="el"} kann „Ich habe keinen Schwager“ heißen; erst
-   [Από απόψε έχεις. Του το υποσχέθηκα.]{lang="el"} zeigt den versprochenen Bräutigam.
-   Schwiegersohn wäre er für den Vater ([ο γαμπρός μου]{lang="el"}), nicht mit [σου]{lang="el"}.
+1. Der Vater sagt zur Tochter [ο γαμπρός σου]{lang="el"}: „dein Bräutigam“. Ihr
+   [Δεν έχω γαμπρό]{lang="el"} könnte allein auch „Ich habe keinen Schwager“ heißen; erst
+   [Από απόψε έχεις. Του το υποσχέθηκα.]{lang="el"} zeigt, dass der Vater sie Aris
+   versprochen hat. Sein Schwiegersohn wäre Aris erst nach der Hochzeit, und dann hieße es
+   [ο γαμπρός μου]{lang="el"}.
 2. „Hättest du mich nicht vorher fragen sollen?“ [μήπως]{lang="el"} macht den Vorwurf nur
    höflicher. Komisch wird es, weil der Vater ihn als echte Frage nimmt.
 3. [Για σκύλο]{lang="el"} dreht das Lob nachträglich um. Ohne Melodie trägt der Folgesatz die
@@ -664,9 +652,8 @@ brauchst du dazu einen längeren Plan, in vier Stufen:
 4. **Ganz ohne.** Danach eine Inhaltsangabe lesen und prüfen, was du richtig hattest.
 
 Wann steigst du auf? Wenn du bei der Vorher-Messung, ohne Untertitel, in etwa vier von fünf
-Szenen die ersten drei Leitfaden-Fragen beantworten kannst. Das ist eine eigene Faustregel dieses
-Buchs, kein Maßstab aus der Forschung; sie sorgt aber dafür, dass du weder zu früh aufsteigst
-noch zu lange auf einer Stufe bleibst.
+Szenen die ersten drei Leitfaden-Fragen beantworten kannst. Das ist eine Faustregel dieses Buchs,
+kein Maßstab aus der Forschung.
 
 **Serien vor Filmen.** Eine Serie gibt dir, was ein Film nicht hat: dieselben Figuren, Orte und
 Wörter über viele Stunden. In der dritten Folge kennst du die Stimmen, in der zehnten die
@@ -684,29 +671,18 @@ eingehört hast.
   Notbremse → ganz ohne. Aufsteigen, wenn die Vorher-Messung meist klappt. Serien vor Filmen.
 :::
 
-::: {.callout-caution .uncertain}
-## Vorsicht
-
-Ehrlich gerechnet: Der Europäische Referenzrahmen (GER) beschreibt für B2, dass man „die meisten
-Filme in Standardsprache“ versteht; Filme mit viel Slang und Idiomatik setzt er erst bei C1 an.
-Die alten Komödien und viele Serien liegen im Bereich von B2, schnelle Großstadtfilme oft
-darüber. Dass du dort Lücken hast, ist kein Zeichen, dass die Methode versagt, sondern genau das,
-was der GER erwarten lässt.
-:::
-
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [το επεισόδιο]{lang="el"} | [to epiˈsoðio] | die Folge, die Episode |
-| [βάζω / βγάζω τους υπότιτλους]{lang="el"} | [ˈvazo / ˈvɣazo tus iˈpotitlus] | die Untertitel ein-/ausschalten |
-| [γυρίζω πίσω]{lang="el"} | [ʝiˈrizo ˈpiso] | zurückspulen; zurückgehen |
+| [βάζω / βγάζω τους υπότιτλους]{lang="el"} | [ˈvazo], [ˈvɣazo tus iˈpotitlus] | die Untertitel ein-/ausschalten |
+| [γυρίζω πίσω]{lang="el"} | [ʝiˈrizo ˈpiso] | zurückgehen; mit Objekt zurückspulen: [Γύρνα το πίσω.]{lang="el"} |
 :::
 
 ## Hörspur: Szenenarbeit {#sec-filme-hoerspur}
 
-Die ▶-Aufnahmen im Buch sind synthetische Stimmen: deutlich, gleichmäßig, ohne das
-Durcheinander eines echten Films. Hier sind sie das Übungsgelände für den Leitfaden; den echten
-Film bringt der Hör-Auftrag.
+Die ▶-Aufnahmen sind synthetisch: deutlich, gleichmäßig, ohne das Durcheinander eines echten
+Films, also ein Übungsgelände für den Leitfaden. Den echten Film bringt der Hör-Auftrag.
 
 Eine Szene, wie sie in einer heutigen Familienserie vorkommen könnte, ebenfalls erfunden. Zwei
 Geschwister räumen die Wohnung ihres verstorbenen Großvaters aus. Die Aufnahme hat zwei Stimmen,
@@ -718,9 +694,9 @@ Makler · [τα κοινόχρηστα]{lang="el"} die Nebenkosten (im Mehrfamil
 [το χαρτζιλίκι]{lang="el"} das Taschengeld.
 
 ::: {lang="el" .listen}
-— Νίκο, κοίτα τι βρήκα στη ντουλάπα. Βιντεοκασέτες. Καμιά πενηνταριά.
+— Νίκο, κοίτα τι βρήκα στην ντουλάπα. Βιντεοκασέτες. Καμιά πενηνταριά.
 
-— Άσ’ τες. Τα βίντεο είναι για πέταμα.
+— Σιγά τα λάχανα. Τα βίντεο είναι για πέταμα.
 
 — Για πέταμα; Κοίτα, γράφει «Κυριακή, τέσσερις η ώρα», με το χέρι του παππού. Θα τις έγραψε από
 την τηλεόραση.
@@ -740,7 +716,7 @@ Makler · [τα κοινόχρηστα]{lang="el"} die Nebenkosten (im Mehrfamil
 — Αύριο; Δεν πάει άλλο μ’ εσένα. Ούτε ένας μήνας δεν πέρασε.
 
 — Μαρίνα, τα κοινόχρηστα τα πληρώνω εγώ. Τον φόρο τον πληρώνω εγώ. Αν περιμέναμε εσένα, θα το
-πουλούσαμε το 2040.
+πουλούσαμε το δύο χιλιάδες σαράντα.
 
 — Καλά, καλά… Βάλε μία. Μόνο μία, την τελευταία.
 
@@ -759,7 +735,8 @@ Makler · [τα κοινόχρηστα]{lang="el"} die Nebenkosten (im Mehrfamil
 Hör die Szene oben höchstens zweimal, ohne aufzuklappen. Im Chat: „1b, 2…“.
 
 1. **Was will wer?** a) Beide wollen die Kassetten behalten · b) Nikos will bald verkaufen,
-   Marina warten
+   Marina warten. Was meint Nikos mit [Σιγά τα λάχανα]{lang="el"}, und was verrät Marinas
+   Antwort?
 2. **Was ist vorher passiert?** a) Der Großvater ist vor Kurzem gestorben · b) vor Jahren
 3. **Was hat der Makler gefragt?** a) nach dem Preis · b) ob jemand morgen um sechs die
    Wohnung sehen kann
@@ -774,7 +751,8 @@ Hör die Szene oben höchstens zweimal, ohne aufzuklappen. Im Chat: „1b, 2…�
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Am Telefon hörst du nur Antworten; jede verrät die Frage davor.
+Am Telefon hörst du nur Antworten; jede verrät die Frage davor. Für die Kohlköpfe gilt die
+Faustregel aus dem Kasten am Kapitelanfang.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -788,7 +766,10 @@ Wann genau sagte der Großvater seinen Satz?
 
 **1b, 2a, 3b, 4a.**
 
-1. Die Kassetten sind nur der Aufhänger. 2. [Ούτε ένας μήνας δεν πέρασε.]{lang="el"}
+1. Die Kassetten sind nur der Aufhänger. [Σιγά τα λάχανα]{lang="el"} (Kapitel 30): Kohlköpfe
+   sind nichts wert, also „Na und? Große Sache.“ Marinas Echo [Για πέταμα;]{lang="el"} zeigt,
+   dass es sie trifft.
+2. [Ούτε ένας μήνας δεν πέρασε.]{lang="el"}
 3. Die Echo-Frage [Αύριο στις έξι;]{lang="el"} und Nikos’ Erklärung danach. Gefragt hat er wohl
    auch, ob sie sich entschieden haben.
 4. Am Telefon siezt er ([σας, Μάλιστα]{lang="el"}). Marina zitiert ihn spöttisch („der Herr
@@ -807,7 +788,7 @@ Wann genau sagte der Großvater seinen Satz?
 
 — Nikos, schau, was ich im Schrank gefunden hab. Videokassetten. So um die fünfzig.
 
-— Lass die. Die Videos sind zum Wegwerfen.
+— Na und, große Sache. Die Videos sind zum Wegwerfen.
 
 — Zum Wegwerfen? Schau, da steht „Sonntag, vier Uhr“, in Opas Handschrift. Die hat er wohl vom
 Fernsehen aufgenommen.
@@ -845,67 +826,106 @@ würden wir sie 2040 verkaufen.
 
 | Griechisch | Deutsch |
 |---|---|
-| [η ντουλάπα]{lang="el"} | der Schrank |
+| [η ντουλάπα]{lang="el"} | der Schrank (Kapitel 4) |
 | [καμιά πενηνταριά]{lang="el"} | so um die fünfzig |
-| [Άσ’ τες.]{lang="el"} | Lass die (liegen). ([τες]{lang="el"}, Kapitel 9) |
 | [γράφω (από την τηλεόραση)]{lang="el"} | (vom Fernsehen) aufnehmen |
 | [Μάλιστα.]{lang="el"} | Jawohl. (Kapitel 7) |
 | [Δεν πάει άλλο.]{lang="el"} | Es geht so nicht weiter. (Kapitel 31) |
-| [ο φόρος]{lang="el"} | die Steuer |
+| [ο φόρος]{lang="el"} | die Steuer (Kapitel 16) |
 :::
 
 Der Film mit dem geizigen Vater ist erfunden, der Satz auch. Echt ist die Gewohnheit: Die alten
-Komödien liefen und laufen im Fernsehen gern am Wochenendnachmittag, und manche Familie hat sie
+Komödien liefen und laufen im Fernsehen nachmittags, gern am Wochenende, und manche Familie hat sie
 auf Kassette gesammelt.
-
-<!-- CHECK: „liefen und laufen im Fernsehen gern am Wochenendnachmittag“ – Kapitel 15 sagt „nachmittags“; so vertretbar? -->
 
 ### Echte Filme {#sec-filme-echte-filme}
 
 Für den Hör-Auftrag brauchst du einen echten Film oder eine Serie mit griechischen Untertiteln.
 Auf [ERTflix](https://www.ertflix.gr), der kostenlosen Plattform des öffentlichen Rundfunks (nach
 Anmeldung), sammelt die Rubrik [«Προσβασιμότητα για Όλους»]{lang="el"} Titel mit griechischen
-Untertiteln (Kapitel 21). Welche Filme gerade verfügbar sind, wechselt; such nach einer Komödie
-oder einer Familienserie in Standardsprache. Zypriotische Produktionen hebst du dir für später
-auf (Kapitel 32).
+Untertiteln (Kapitel 21). Was dort läuft, wechselt; deshalb nennt dieses Buch keine Titel. So
+findest du selbst einen:
 
-<!-- CHECK: Gibt es auf ERTflix aktuell ältere griechische Spielfilme (z.B. Komödien der 1960er) und eine eigene Kategorie dafür? Falls ja, zwei, drei konkrete, verifizierte Titel mit Rubrik nennen (Outline verspricht „ausgewählte Filme auf ERTflix mit Szenenleitfaden“); ohne Prüfung bleibt es bewusst allgemein. -->
+1. **Suchen.** In der Rubrik stöbern oder die Suche mit [κωμωδία]{lang="el"},
+   [ελληνική ταινία]{lang="el"} oder [σειρά]{lang="el"} füttern. Gute Zeichen in der
+   Beschreibung: ein Jahr zwischen 1955 und 1970, [ασπρόμαυρη]{lang="el"}, Finos Film, Vengos
+   oder Vougiouklaki. Zypriotische Produktionen hebst du dir für später auf (Kapitel 32).
+2. **Testen.** Schau die erste Dialogszene mit griechischen Untertiteln. Kannst du danach sagen,
+   wer mit wem spricht und was wer will, passt der Titel. Wenn nicht, nimm einen anderen;
+   Durchbeißen lohnt sich hier nicht.
+3. **Ausweichen.** Ist gerade keine passende Komödie da, nimm eine Folge einer heutigen
+   Familienserie. Serien sind ohnehin die bessere Wahl (@sec-filme-leiter).
+
+Für Stufe 1 und 4 der Leiter brauchst du eine Inhaltsangabe. Zu vielen griechischen Filmen und
+Serien gibt es einen Artikel in der griechischen Wikipedia, oft mit einer Zusammenfassung der
+Handlung. Wer ihn vorher liest, macht aus jedem Titel einen „Film, dessen Handlung du kennst“.
 
 ::: {.callout-note .exercise}
 ## Übung 33.7: Hör-Auftrag
 
-Nimm einen Film oder eine Serienfolge mit griechischen Untertiteln (@sec-filme-echte-filme),
-darin drei Dialogszenen von ein bis zwei Minuten. Pro Szene:
+**Teil A, vorher, laut.** Wie sagst du beim Filmabend auf Griechisch:
 
-1. **Ohne Untertitel** (Vorher-Messung): die fünf Leitfaden-Fragen, ein Punkt pro Frage.
+1. Hab ich nicht mitgekriegt. Spul ein Stück zurück.
+2. Mach die Untertitel an, ich komme durcheinander.
+3. Der Ton ist mies. Mach lauter, man hört die Dialoge nicht.
+4. Die Handlung ist nichts Besonderes, aber die Komiker sind toll.
+5. Ist das ironisch gemeint? Sie sieht so verlegen aus.
+6. Die Figuren sind ausdruckslos, und die Pausen sind länger als die Dialoge.
+7. In welcher Folge war das?
+
+**Teil B.** Nimm einen Film oder eine Serienfolge (@sec-filme-echte-filme), darin drei
+Dialogszenen von ein bis zwei Minuten. Pro Leitfaden-Frage gibt es einen Punkt, aber nur, wenn
+du ein Signal nennen kannst. Zähl getrennt: Fragen 1 bis 3 und Fragen 4 und 5. Pro Szene:
+
+1. **Ohne Untertitel** (Vorher-Messung).
 2. **Mit griechischen Untertiteln.**
 3. **Ohne Untertitel**, neu zählen.
 
-Notier dir eine [ατάκα]{lang="el"} oder Redewendung. Im Chat: „2 → 4, 1 → 3, 3 → 5“.
+Notier dir eine [ατάκα]{lang="el"} oder Redewendung. Im Chat: „A: 1 …; B: Szene 1: 2+0 → 3+1,
+Szene 2: …“ und die [ατάκα]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Nimm Szenen, in denen zwei, drei Leute reden, keine Verfolgungsjagd.
+A: „mitkriegen“ ist [πιάνω]{lang="el"}, „anmachen“ [βάζω]{lang="el"}. B: Nimm Szenen, in denen
+zwei, drei Leute reden, keine Verfolgungsjagd.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Einen Punkt gibt es nur, wenn du ein Signal nennen kannst.
+A: „man hört nicht“ ist das Mediopassiv [δεν ακούγονται]{lang="el"} (Kapitel 21), die Befehle
+sind Imperative (Kapitel 9). B: Findest du in der ersten Szene nichts zu Frage 1 und 2, ist der
+Titel zu schwer; wechsle ihn.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-So wertest du aus:
+**Teil A**, etwa:
 
-- **Aufsteigen?** Es zählt die Vorher-Messung, nur Fragen 1 bis 3 (@sec-filme-leiter). In allen
-  drei Szenen: nächste Stufe. In zwei: beim nächsten Film fünf Szenen messen.
-- **Kaum Sprung von 1 zu 3** bei niedrigen Zahlen: Die Szene ist zu schwer; nimm eine alte
-  Komödie oder eine Serie.
-- **Fragen 4 und 5** bleiben lange schwach; das ist normal.
+1. [Δεν το έπιασα. Γύρνα το λίγο πίσω.]{lang="el"}
+2. [Βάλε τους υπότιτλους, μπερδεύομαι.]{lang="el"} (auch [μπερδεύτηκα]{lang="el"}, „ich bin
+   durcheinandergekommen“)
+3. [Ο ήχος είναι χάλια. Ανέβασε την ένταση, δεν ακούγονται οι διάλογοι.]{lang="el"}
+4. [Η πλοκή δεν είναι τίποτα σπουδαίο, αλλά οι κωμικοί είναι υπέροχοι.]{lang="el"}
+5. [Είναι ειρωνικό αυτό; Φαίνεται τόσο αμήχανη.]{lang="el"}
+6. [Οι χαρακτήρες είναι ανέκφραστοι, και οι παύσεις είναι πιο μεγάλες από τους
+   διαλόγους.]{lang="el"}
+7. [Σε ποιο επεισόδιο ήταν αυτό;]{lang="el"}
+
+**Typischer Fehler:** bei 1 das [το]{lang="el"} weglassen. [Γύρνα πίσω]{lang="el"} allein heißt
+„Komm zurück“.
+
+**Teil B**, so wertest du aus:
+
+- **Aufsteigen?** Es zählt nur die erste Zahl der Vorher-Messung, Fragen 1 bis 3
+  (@sec-filme-leiter). Steht sie in allen drei Szenen auf 3: nächste Stufe. In zwei Szenen: beim
+  nächsten Film fünf Szenen messen.
+- **Kaum Sprung vom ersten zum dritten Durchgang** bei niedrigen Zahlen: Die Szene ist zu schwer;
+  nimm eine alte Komödie oder eine Serie.
+- **Fragen 4 und 5** (die zweite Zahl) bleiben lange schwach; das ist normal.
 :::
 
 ::: {.vocab}
@@ -922,13 +942,11 @@ So wertest du aus:
 - Filme sind schwer durch Tempo, Überlappen, Ton, eigene Welt und Ungesagtes; leicht durch Bild,
   Situation, Wiederholung und Reaktion. Lies alles mit, nicht nur die Wörter.
 - **Szenenleitfaden:** Wer mit wem? Was will wer? Was ist passiert? Wo kippt es? Was ist die
-  Pointe? Für jede Frage liefern frühere Kapitel die Signale: Anrede und Endungen, Imperativ und
-  [να]{lang="el"}, Aorist und Perfekt, Vermutung und Irrealis, [αλλά]{lang="el"} und
-  Echo-Frage, Redewendungen.
+  Pointe? Die Signale dafür kennst du aus früheren Kapiteln (Tabelle in @sec-filme-leitfaden).
 - **Lücken:** weiterhören, betonte Silbe, Verb zuerst, [δεν, μην, αν, αλλά]{lang="el"}.
 - **Alte Komödie:** deutlich, schnell, Typen und feste Muster; [δεσποινίς]{lang="el"},
-  [κύριε διευθυντά]{lang="el"}, [προίκα]{lang="el"}, Katharevousa als Angeberei. Ihre
-  **[ατάκες]{lang="el"}** werden bis heute zitiert.
+  [προίκα]{lang="el"}, Katharevousa als Angeberei; [κύριε διευθυντά]{lang="el"} ist dagegen bis
+  heute höflich. Ihre **[ατάκες]{lang="el"}** werden bis heute zitiert.
 - **Neues Kino:** oft ausdruckslos gesprochen, langsamer, aber ohne verräterische Melodie;
   realistische Serien schnell und umgangssprachlich.
 - **Leiter für Filme:** bekannter Film mit griechischen Untertiteln → neuer mit → ohne, mit
@@ -946,8 +964,8 @@ Eine Kolumne, wie sie in einer Sonntagsbeilage stehen könnte.
 Εμείς τα παιδιά θέλαμε κινούμενα σχέδια, αλλά η τηλεόραση ήταν της γιαγιάς.
 
 Η γιαγιά δεν έβλεπε απλώς τις ταινίες· τις έπαιζε μαζί με τους ηθοποιούς. Έλεγε τις ατάκες ένα
-δευτερόλεπτο πριν από αυτούς και γελούσε πριν από το αστείο. «Τώρα θα του πει ότι δεν έχει
-προίκα», μας έλεγε, «κι αυτός θα λιποθυμήσει». Και ο γαμπρός λιποθυμούσε.
+δευτερόλεπτο πριν από αυτούς και γελούσε πριν από το αστείο. «Τώρα η νύφη θα του πει ότι
+δεν έχει προίκα», μας έλεγε, «κι αυτός θα λιποθυμήσει». Και ο γαμπρός λιποθυμούσε.
 
 Τότε νόμιζα ότι η γιαγιά ήταν μάντισσα. Αργότερα κατάλαβα ότι τις είχε δει πενήντα φορές.
 
@@ -960,8 +978,8 @@ Eine Kolumne, wie sie in einer Sonntagsbeilage stehen könnte.
 πρώτες εβδομάδες βαριόταν. Μετά άρχισε να γελάει, και μάλιστα την ίδια στιγμή με εμάς.
 
 Τον περασμένο μήνα φάγαμε σε μια ταβέρνα με φίλους. Κάποιος παραπονέθηκε για τον λογαριασμό, και ο
-Γιόχαν, χωρίς να το σκεφτεί, είπε μια ατάκα από μια ταινία του ’60. Ποια; Θα σας την πω μια άλλη
-φορά. Το τραπέζι σώπασε για ένα δευτερόλεπτο και μετά ξεκαρδίστηκε.
+Γιόχαν, χωρίς να το σκεφτεί, είπε μια ατάκα από μια ταινία του εξήντα. Ποια; Θα σας την πω μια άλλη
+φορά. Ένα δευτερόλεπτο σιωπή. Και μετά όλο το τραπέζι ξεκαρδίστηκε.
 
 Αν ζούσε η γιαγιά, θα τον υιοθετούσε. Ή θα του έλεγε την ατάκα ένα δευτερόλεπτο πριν από αυτόν.
 :::
@@ -974,17 +992,16 @@ Eine Kolumne, wie sie in einer Sonntagsbeilage stehen könnte.
 | [ακριβώς]{lang="el"} | genau, pünktlich (Kapitel 12) |
 | [τα κινούμενα σχέδια]{lang="el"} | die Zeichentrickfilme |
 | [απλώς]{lang="el"} | bloß, einfach nur |
-| [το δευτερόλεπτο]{lang="el"} | die Sekunde |
+| [το δευτερόλεπτο]{lang="el"} | die Sekunde (Kapitel 21) |
 | [λιποθυμάω, λιποθύμησα]{lang="el"} | ohnmächtig werden |
 | [η μάντισσα]{lang="el"} | die Wahrsagerin, die Hellseherin |
 | [το Αμβούργο]{lang="el"} | Hamburg |
-| [η παρέα]{lang="el"} | die Runde, der Freundeskreis |
-| [η συνταγή]{lang="el"} | das Rezept |
+| [η παρέα]{lang="el"} | die Runde, der Freundeskreis (Kapitel 26) |
+| [η συνταγή]{lang="el"} | das Rezept (Kapitel 9) |
 | [βαριέμαι, βαρέθηκα]{lang="el"} | sich langweilen; Imperfekt [βαριόταν]{lang="el"} |
 | [και μάλιστα]{lang="el"} | und zwar, und sogar |
 | [παραπονιέμαι, παραπονέθηκα]{lang="el"} | sich beschweren (Kapitel 26) |
-| [του ’60]{lang="el"} | aus den Sechzigern (Kapitel 11) |
-| [σωπαίνω, σώπασα]{lang="el"} | verstummen |
+| [του εξήντα]{lang="el"} | aus den Sechzigern, geschrieben meist [του ’60]{lang="el"} (Kapitel 11) |
 | [υιοθετώ, υιοθέτησα]{lang="el"} | adoptieren |
 :::
 
@@ -998,7 +1015,7 @@ ein. Es lief immer ein alter griechischer Film, schwarzweiß, mit Vengos oder mi
 Wir Kinder wollten Zeichentrick, aber der Fernseher gehörte der Großmutter.
 
 Die Großmutter schaute die Filme nicht bloß; sie spielte sie mit den Schauspielern mit. Sie
-sagte die Sätze eine Sekunde vor ihnen und lachte vor dem Witz. „Jetzt sagt sie ihm, dass sie
+sagte die Sätze eine Sekunde vor ihnen und lachte vor dem Witz. „Jetzt sagt ihm die Braut, dass sie
 keine Mitgift hat“, sagte sie zu uns, „und er fällt in Ohnmacht.“ Und der Bräutigam fiel in
 Ohnmacht.
 
@@ -1016,8 +1033,8 @@ wir.
 
 Letzten Monat waren wir mit Freunden in einer Taverne essen. Jemand beschwerte sich über die
 Rechnung, und Johann sagte, ohne nachzudenken, einen Satz aus einem Film aus den Sechzigern.
-Welchen? Das erzähle ich Ihnen ein andermal. Der Tisch verstummte für eine Sekunde und lachte
-sich dann kaputt.
+Welchen? Das erzähle ich Ihnen ein andermal. Eine Sekunde Stille. Und dann lachte sich der ganze
+Tisch kaputt.
 
 Wenn die Großmutter noch lebte, würde sie ihn adoptieren. Oder sie würde ihm den Satz eine
 Sekunde vor ihm vorsagen.
@@ -1034,8 +1051,8 @@ Sekunde vor ihm vorsagen.
 4. Johann fand die Komödien von Anfang an lustig.
 5. Die Erzählerin verrät Johanns Satz.
 
-**Teil B.** Welche Stufen der Leiter und welche Hörtechniken aus Kapitel 21 stecken im
-Rezept-Absatz?
+**Teil B.** Welche Stufen der Untertitel-Leiter aus Kapitel 21 (pro Szene) und welche
+Hörtechniken stecken im Rezept-Absatz?
 
 **Teil C.** Warum [έβλεπε]{lang="el"}, aber [τις είχε δει]{lang="el"}? Und woran erkennst du an
 [Αν ζούσε η γιαγιά, θα τον υιοθετούσε]{lang="el"}, dass sie nicht mehr lebt?
@@ -1062,7 +1079,8 @@ C: Gewohnheit oder Ereignis (Kapitel 4), Vorvergangenheit (14), [αν]{lang="el"
 **A: 1f, 2f, 3r, 4f, 5f.** Belege: [είχε δει]{lang="el"}, [ήταν της γιαγιάς]{lang="el"},
 [καλύτερα από μένα]{lang="el"}, [βαριόταν]{lang="el"}, [μια άλλη φορά]{lang="el"}.
 
-**B:** Erst griechische Untertitel, dann ohne: Stufe 2 und 3 oder 4. Eine Szene immer wieder:
+**B:** Erst griechische Untertitel, dann ohne: Stufe 2 und 3; Stufe 1 lässt das Rezept aus.
+Eine Szene immer wieder:
 **intensiv**; mitsprechen: **Shadowing**.
 
 **C:** [έβλεπε]{lang="el"}: Imperfekt, die sonntägliche Gewohnheit; [είδε]{lang="el"} wäre ein
@@ -1071,6 +1089,6 @@ begriff ich“. [Αν ζούσε … θα υιοθετούσε]{lang="el"}: Irre
 lebte“, also lebt sie nicht. **Typischer Fehler:** [θα υιοθετούσε]{lang="el"} als Gewohnheit
 lesen.
 
-**Zugabe, etwa:** [Μια γιαγιά ήξερε απέξω τις ατάκες από παλιές κωμωδίες. Ο Γιόχαν έμαθε
+**Zugabe, etwa:** [Μια γιαγιά ήξερε απ’ έξω τις ατάκες από παλιές κωμωδίες. Ο Γιόχαν έμαθε
 ελληνικά με τις ίδιες ταινίες. Σε μια ταβέρνα είπε μια ατάκα, και όλοι γέλασαν.]{lang="el"}
 :::
