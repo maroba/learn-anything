@@ -413,7 +413,7 @@ den Rest:
 | [-ψα]{lang="el"} | [-φτηκα]{lang="el"} | [έγραψα → γράφτηκα]{lang="el"}, [έκρυψα → κρύφτηκα]{lang="el"} |
 | [-ξα]{lang="el"} | [-χτηκα]{lang="el"} | [άνοιξα → ανοίχτηκε]{lang="el"} „wurde geöffnet“, [έφτιαξα → φτιάχτηκα]{lang="el"} |
 | [-ησα]{lang="el"} | [-ήθηκα]{lang="el"} | [αγάπησα → αγαπήθηκα]{lang="el"}, [μελέτησα → μελετήθηκα]{lang="el"} |
-| [-ωσα]{lang="el"} | [-ώθηκα]{lang="el"} | [σήκωσα → σηκώθηκα]{lang="el"}, [έσωσα → σώθηκα]{lang="el"} |
+| [-ωσα]{lang="el"} | [-ώθηκα]{lang="el"} | [σήκωσα → σηκώθηκα]{lang="el"}, [πλήρωσα → πληρώθηκα]{lang="el"}, [έσωσα → σώθηκα]{lang="el"} |
 
 Die Logik ist dieselbe wie in Kapitel 2, rückwärts: [ψ]{lang="el"} war Lippenlaut +
 [σ]{lang="el"}, also kehrt der Lippenlaut als [φ]{lang="el"} zurück; [ξ]{lang="el"} war Kehllaut +
@@ -682,8 +682,8 @@ Und wie immer: Imperfekt ist Film, Aorist ist Foto. Beim Mediopassiv gibt das h�
 Wie in Kapitel 10 gibt es längere Formen im Gespräch: [βρισκόμουνα, βρισκότανε]{lang="el"}, in der
 sie-Form [βρισκόντουσαν]{lang="el"}. In Zeitungen dagegen steht für die er-Form der
 [-ούμαι]{lang="el"}-Gruppe manchmal eine alte Form auf [-είτο]{lang="el"}:
-[θεωρείτο]{lang="el"} „galt als“, während im Gespräch auch [θεωρούνταν]{lang="el"} und
-[χρησιμοποιόταν]{lang="el"} üblich sind. Bei der [-ιέμαι]{lang="el"}-Gruppe hörst du in der
+[θεωρείτο]{lang="el"} „galt als“; im Gespräch ist neben [χρησιμοποιούνταν]{lang="el"} auch
+[χρησιμοποιόταν]{lang="el"} üblich. Bei der [-ιέμαι]{lang="el"}-Gruppe hörst du in der
 sie-Form neben [κουνιόνταν]{lang="el"} auch [κουνιούνταν]{lang="el"}, nach dem Muster von
 [κοιμούνταν]{lang="el"} aus Kapitel 10. Das alles genügt zum Wiedererkennen.
 :::
