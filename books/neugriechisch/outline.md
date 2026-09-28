@@ -80,7 +80,7 @@ bis zwei Wochen pro Kapitel bei 5 Stunden pro Woche.
 
 ### 10 Verben auf -μαι im Alltag
 - **Datei:** 10-deponentien
-- **Lernziele:** kann die häufigsten Verben auf -μαι (έρχομαι, κάθομαι, θυμάμαι, φοβάμαι, κοιμάμαι, σκέφτομαι, γίνομαι) im Präsens, Aorist und Futur bilden
+- **Lernziele:** kann die häufigsten Verben auf -μαι (έρχομαι, κάθομαι, θυμάμαι, φοβάμαι, κοιμάμαι, σκέφτομαι, γίνομαι) im Präsens, Aorist und Futur bilden und im Imperfekt erkennen
 - **Voraussetzungen:** 05
 - **Lesezeit:** 40 min
 - **Inhalt:** Formen als Wortschatz vor dem Passiv-System; Sachthema: Erdbeben in Griechenland, Wissenschaft und Alltag; Hörspur: Erinnerungen an ein Beben
