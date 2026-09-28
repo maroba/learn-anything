@@ -33,6 +33,8 @@ book:
     - chapters/10-deponentien.qmd
     - chapters/11-zeit.qmd
     - chapters/12-steigerung-wiederholung.qmd
+    - chapters/13-mediopassiv.qmd
+    - chapters/14-perfekt.qmd
 
 lang: de
 
