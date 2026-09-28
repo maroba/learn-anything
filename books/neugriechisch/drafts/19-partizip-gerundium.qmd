@@ -96,7 +96,6 @@ wie etwas war und wie es geschah.
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [το φαράγγι]{lang="el"} | [to faˈraŋɟi] | die Schlucht |
-| [το χιλιόμετρο]{lang="el"} | [to çiˈʎometro] | der Kilometer |
 | [Είμαι πτώμα.]{lang="el"} | [ˈime ˈptoma] | Ich bin fix und fertig. (umg., wörtlich „eine Leiche“) |
 | [το παπούτσι]{lang="el"} | [to paˈputsi] | der Schuh |
 | [βρεγμένος, -η, -ο]{lang="el"} | [vreɣˈmenos] | nass |
@@ -105,9 +104,7 @@ wie etwas war und wie es geschah.
 | [ντυμένος, -η, -ο]{lang="el"} | [diˈmenos] | angezogen, gekleidet |
 | [το ποτάμι]{lang="el"} | [to poˈtami] | der Fluss, der Bach |
 | [ο βράχος]{lang="el"} | [o ˈvraxos] | der Felsen |
-| [το ζώο]{lang="el"} | [to ˈzoo] | das Tier |
 | [πηδάω, πήδηξα]{lang="el"} | [piˈðao], [ˈpiðiksa] | springen |
-| [ανάποδα]{lang="el"} | [aˈnapoða] | andersherum, verkehrt herum |
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -124,6 +121,8 @@ wie etwas war und wie es geschah.
 | [σαν να ’μουν]{lang="el"} | als wäre ich (wie [σαν να ’ταν χθες]{lang="el"}, Kapitel 10) |
 | [τα Ιμαλάια]{lang="el"} | der Himalaja |
 | [το καράβι]{lang="el"} | das Schiff (Kapitel 3) |
+| [το ζώο]{lang="el"} | das Tier |
+| [ανάποδα]{lang="el"} | andersherum, verkehrt herum |
 :::
 
 ## Das Partizip: [γραμμένος, κουρασμένος]{lang="el"} {#sec-partizip-bildung}
@@ -224,7 +223,6 @@ beiden, das Griechische trennt: [γράψει]{lang="el"} ist Teil einer Zeitfor
 | [χαμένος, -η, -ο]{lang="el"} | [xaˈmenos] | verloren; verirrt |
 | [κλειδώνω, κλείδωσα; κλειδωμένος]{lang="el"} | [kliˈðono], [ˈkliðosa]; [kliðoˈmenos] | abschließen; abgeschlossen |
 | [σπάω, έσπασα; σπασμένος]{lang="el"} | [ˈspao], [ˈespasa]; [spazˈmenos] | (zer)brechen; kaputt, gebrochen |
-| [καμένος, -η, -ο]{lang="el"} | [kaˈmenos] | verbrannt |
 | [αγαπημένος, -η, -ο]{lang="el"} | [aɣapiˈmenos] | Lieblings-; geliebt |
 | [θυμωμένος, -η, -ο]{lang="el"} | [θimoˈmenos] | wütend, sauer |
 | [ερωτευμένος, -η, -ο]{lang="el"} | [erotevˈmenos] | verliebt |
@@ -232,7 +230,6 @@ beiden, das Griechische trennt: [γράψει]{lang="el"} ist Teil einer Zeitfor
 | [ευτυχισμένος, -η, -ο]{lang="el"} | [eftiçizˈmenos] | glücklich |
 | [λυπημένος, -η, -ο]{lang="el"} | [lipiˈmenos] | traurig |
 | [ο πεζοπόρος, η πεζοπόρος]{lang="el"} | [o pezoˈporos], [i pezoˈporos] | der Wanderer, die Wanderin |
-| [λόγω]{lang="el"} + Gen. | [ˈloɣo] | wegen (Schilder, Nachrichten) |
 :::
 
 ## Zustand oder Ereignis? {#sec-partizip-zustand}
@@ -268,7 +265,7 @@ im Alltag die Normalform:
 - [κλεισμένος]{lang="el"} heißt „eingeschlossen“ oder „gebucht“: [ζει κλεισμένη στο
   σπίτι]{lang="el"} (Kapitel 15), [ένα κλεισμένο δωμάτιο]{lang="el"}.
 - [ανοιγμένος]{lang="el"} heißt „geöffnet, angebrochen“: [ένα ανοιγμένο μπουκάλι
-  κρασί]{lang="el"}.
+  κρασί]{lang="el"} „eine angebrochene Flasche Wein“.
 
 Also: Ein Laden ist [κλειστός]{lang="el"}, ein Tisch in der Taverne [κλεισμένος]{lang="el"}.
 
@@ -300,7 +297,6 @@ aufgeschrieben.“
 | [κλεισμένος, -η, -ο]{lang="el"} | [klizˈmenos] | gebucht, reserviert; eingeschlossen |
 | [ανοιγμένος, -η, -ο]{lang="el"} | [aniɣˈmenos] | geöffnet, angebrochen |
 | [Το έχω γραμμένο κάπου.]{lang="el"} | [to ˈexo ɣraˈmeno ˈkapu] | Ich hab’s irgendwo aufgeschrieben. |
-| [το μπουκάλι]{lang="el"} | [to buˈkali] | die Flasche |
 :::
 
 ## Das Gerundium: [περπατώντας]{lang="el"} {#sec-partizip-gerundium}
@@ -427,8 +423,6 @@ klingt etwas gehoben; im Gespräch sagt man es mit einem Nebensatz (Kapitel 16).
 | [Τρώγοντας έρχεται η όρεξη.]{lang="el"} | [ˈtroɣondas ˈerxete i ˈoreksi] | Der Appetit kommt beim Essen. |
 | [η όρεξη]{lang="el"} | [i ˈoreksi] | der Appetit; die Lust |
 | [τρέχω, έτρεξα]{lang="el"} | [ˈtrexo], [ˈetreksa] | rennen, laufen |
-| [το αδιάβροχο]{lang="el"} | [to aˈðʝavroxo] | die Regenjacke |
-| [το περπάτημα]{lang="el"} | [to perˈpatima] | das Gehen, Wandern |
 | [μην ξέροντας]{lang="el"} | [min ˈkserondas] | ohne zu wissen, weil man nicht weiß |
 :::
 
