@@ -85,7 +85,7 @@ Essen.
 Pastitsada.
 :::
 
-Die Kreterin hat recht, was die Größe angeht, und der Korfiot, was den Regen angeht; beim Essen
+Die Kreterin hat recht, was die Größe angeht, und der Korfiote, was den Regen angeht; beim Essen
 bleibt es unentschieden. Grammatisch drehen sich beide um dasselbe: vergleichen.
 
 | im Text | Deutsch | Bauart |
@@ -133,6 +133,8 @@ Hitze und Kälte sagt das Griechische [κάνει ζέστη]{lang="el"}, [κά�
 | [ο ντάκος]{lang="el"} | Dakos, Gerstenzwieback mit Tomate und Käse (Kreta) |
 | [το παξιμάδι]{lang="el"} | der Zwieback |
 :::
+
+<!-- CHECK: Reisezeiten im Dialog: Fähre Piräus–Heraklion ca. 9 h, Flug Athen–Heraklion ca. 50 min, Athen–Korfu ähnlich (ca. 1 h); Pastitsada als venezianisch-italienisch geprägtes Gericht Korfus. -->
 
 ## Grüner als, größer als: [πιο]{lang="el"} + Adjektiv {#sec-vergleich-pio}
 
