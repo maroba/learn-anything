@@ -216,13 +216,12 @@ f) [βοηθάω]{lang="el"}
 g) [ψήνω]{lang="el"}
 h) [ανακατεύω]{lang="el"}
 
-**Teil B.** Aus dem Bericht wird ein Auftrag: Mach aus jedem Satz einen Befehl, erst an einen
-Freund, dann an deine Vermieterin (Sie).
+**Teil B.** Mach aus jedem Satz einen Befehl, erst an einen Freund, dann an deine
+Vermieterin (Sie).
 
 1. [Έκλεισε την πόρτα.]{lang="el"}
 2. [Έριξε λίγο αλάτι.]{lang="el"}
 3. [Αγόρασε ψωμί.]{lang="el"}
-4. [Έγραψε ένα μήνυμα.]{lang="el"}
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -246,26 +245,26 @@ direkt vor [-στε, -ψτε, -ξτε]{lang="el"} betont.
 
 | | du | ihr, Sie |
 |---|---|---|
-| a) | [κλείσε]{lang="el"} [ˈklise] | [κλείστε]{lang="el"} [ˈkliste] |
-| b) | [διάβασε]{lang="el"} [ˈðʝavase] | [διαβάστε]{lang="el"} [ðʝaˈvaste] |
-| c) | [αγόρασε]{lang="el"} [aˈɣorase] | [αγοράστε]{lang="el"} [aɣoˈraste] |
-| d) | [ψάξε]{lang="el"} [ˈpsakse] | [ψάξτε]{lang="el"} [ˈpsakste] |
-| e) | [τηλεφώνησε]{lang="el"} [tileˈfonise] | [τηλεφωνήστε]{lang="el"} [tilefoˈniste] |
-| f) | [βοήθησε]{lang="el"} [voˈiθise] | [βοηθήστε]{lang="el"} [voiˈθiste] |
-| g) | [ψήσε]{lang="el"} [ˈpsise] | [ψήστε]{lang="el"} [ˈpsiste] |
-| h) | [ανακάτεψε]{lang="el"} [anaˈkatepse] | [ανακατέψτε]{lang="el"} [anakaˈtepste] |
+| a) | [κλείσε]{lang="el"} | [κλείστε]{lang="el"} |
+| b) | [διάβασε]{lang="el"} | [διαβάστε]{lang="el"} |
+| c) | [αγόρασε]{lang="el"} | [αγοράστε]{lang="el"} |
+| d) | [ψάξε]{lang="el"} | [ψάξτε]{lang="el"} |
+| e) | [τηλεφώνησε]{lang="el"} | [τηλεφωνήστε]{lang="el"} |
+| f) | [βοήθησε]{lang="el"} | [βοηθήστε]{lang="el"} |
+| g) | [ψήσε]{lang="el"} | [ψήστε]{lang="el"} |
+| h) | [ανακάτεψε]{lang="el"} | [ανακατέψτε]{lang="el"} |
 
 Bei d) und g) fällt die Präsens-Zutat [ν]{lang="el"}, bei h) wird [ευ]{lang="el"} wie im Aorist
 zu [ψ]{lang="el"}.
 
-**Teil B:** [Κλείσε / Κλείστε την πόρτα! Ρίξε / Ρίξτε λίγο αλάτι! Αγόρασε / Αγοράστε ψωμί!
-Γράψε / Γράψτε ένα μήνυμα!]{lang="el"} Bei 3 klingen Bericht und Befehl gleich; nur Situation
+**Teil B:** [Κλείσε / Κλείστε την πόρτα! Ρίξε / Ρίξτε λίγο αλάτι! Αγόρασε / Αγοράστε ψωμί!]{lang="el"}
+Bei 3 klingen Bericht und Befehl gleich; nur Situation
 und Tonfall entscheiden.
 
 **Typische Fehler:** \*[Έψαξε!]{lang="el"} mit Augment heißt „er suchte“.
 \*[Διαβάσε, τηλεφωνήσε]{lang="el"}: Betonung der [να]{lang="el"}-Form im Singular.
-\*[Διαβάσετε!]{lang="el"}: Das ist die [να]{lang="el"}-Form, nicht der Imperativ.
-[Ψάχνε]{lang="el"} ist kein Fehler, aber der Film-Imperativ (@sec-imperativ-aspekt).
+\*[Διαβάσετε!]{lang="el"}: die [να]{lang="el"}-Form. [Ψάχνε]{lang="el"} wäre der
+Film-Imperativ (@sec-imperativ-aspekt).
 :::
 
 ### Die Unregelmäßigen {#sec-imperativ-unregelmaessig}
@@ -309,20 +308,18 @@ Von den Aufzug-Verben aus Kapitel 3 fahren zwei eigene Wege:
 ::: {.callout-note .exercise}
 ## Übung 9.2: Zurufe
 
-Was rufst du? Sag jeden Zuruf erst zu einem Freund (du), dann höflich (Sie). In Klammern das
-Präsens.
+Sag jeden Zuruf erst zu einem Freund, dann höflich (Sie). In Klammern das Präsens.
 
 1. Jemand macht es spannend: „Sag schon!“ ([λέω]{lang="el"}, mit „mir“)
 2. Dein Gast hustet: „Trink etwas Wasser!“ ([πίνω]{lang="el"})
 3. Am Tisch: „Iss!“ ([τρώω]{lang="el"})
-4. Es klopft: „Komm rein!“ ([μπαίνω]{lang="el"})
-5. Im Taxi, am Ziel: „Steig hier aus!“ ([κατεβαίνω]{lang="el"})
-6. Im Treppenhaus: „Geh hoch in den ersten Stock!“ ([ανεβαίνω]{lang="el"})
-7. Du hältst den Teller hin: „Nimm eine Tomate!“ ([παίρνω]{lang="el"})
-8. Vom Balkon: „Komm!“ ([έρχομαι]{lang="el"})
-9. Jemand will schon gehen: „Bleib!“ ([μένω]{lang="el"})
-10. „Gib mir das Salz!“ ([δίνω]{lang="el"})
-11. „Geh nach Hause!“ ([πάω]{lang="el"})
+4. Im Taxi, am Ziel: „Steig hier aus!“ ([κατεβαίνω]{lang="el"})
+5. Im Treppenhaus: „Geh hoch in den ersten Stock!“ ([ανεβαίνω]{lang="el"})
+6. Du hältst den Teller hin: „Nimm eine Tomate!“ ([παίρνω]{lang="el"})
+7. Vom Balkon: „Komm!“ ([έρχομαι]{lang="el"})
+8. Jemand will schon gehen: „Bleib!“ ([μένω]{lang="el"})
+9. „Gib mir das Salz!“ ([δίνω]{lang="el"})
+10. „Geh nach Hause!“ ([πάω]{lang="el"})
 
 **Worthilfe:** [ο πρώτος όροφος]{lang="el"} der erste Stock.
 :::
@@ -338,8 +335,7 @@ Bauform A: [να]{lang="el"}-Form, [-εις → -ες]{lang="el"}, der Plural is
 ## Hinweis 2
 
 Drei Formen haben mit dem Aorist nichts zu tun. Bei einem Verb bleibt im Plural das
-[ε]{lang="el"} vor [-τε]{lang="el"}, bei zweien kommt der Plural von [-είτε]{lang="el"} wie bei
-Bauform A.
+[ε]{lang="el"} vor [-τε]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -350,21 +346,20 @@ Bauform A.
 | 1 | [Πες μου!]{lang="el"} | [Πείτε μου!]{lang="el"} |
 | 2 | [Πιες λίγο νερό!]{lang="el"} | [Πιείτε λίγο νερό!]{lang="el"} |
 | 3 | [Φάε!]{lang="el"} | [Φάτε!]{lang="el"} |
-| 4 | [Μπες!]{lang="el"} | [Μπείτε!]{lang="el"} |
-| 5 | [Κατέβα εδώ!]{lang="el"} | [Κατεβείτε εδώ!]{lang="el"} |
-| 6 | [Ανέβα στον πρώτο όροφο!]{lang="el"} | [Ανεβείτε …]{lang="el"} |
-| 7 | [Πάρε μια ντομάτα!]{lang="el"} | [Πάρτε …]{lang="el"} |
-| 8 | [Έλα!]{lang="el"} | [Ελάτε!]{lang="el"} |
-| 9 | [Μείνε!]{lang="el"} | [Μείνετε!]{lang="el"} |
-| 10 | [Δώσε μου το αλάτι!]{lang="el"} | [Δώστε μου …]{lang="el"} |
-| 11 | [Πήγαινε σπίτι!]{lang="el"} | [Πηγαίνετε σπίτι!]{lang="el"} |
+| 4 | [Κατέβα εδώ!]{lang="el"} | [Κατεβείτε εδώ!]{lang="el"} |
+| 5 | [Ανέβα στον πρώτο όροφο!]{lang="el"} | [Ανεβείτε …]{lang="el"} |
+| 6 | [Πάρε μια ντομάτα!]{lang="el"} | [Πάρτε …]{lang="el"} |
+| 7 | [Έλα!]{lang="el"} | [Ελάτε!]{lang="el"} |
+| 8 | [Μείνε!]{lang="el"} | [Μείνετε!]{lang="el"} |
+| 9 | [Δώσε μου το αλάτι!]{lang="el"} | [Δώστε μου …]{lang="el"} |
+| 10 | [Πήγαινε σπίτι!]{lang="el"} | [Πηγαίνετε σπίτι!]{lang="el"} |
 
-Bei 5 geht auch [Βγες / Βγείτε εδώ]{lang="el"}. Bei 1 passt außerdem der Film [Λέγε!]{lang="el"}
+Bei 4 geht auch [Βγες / Βγείτε εδώ]{lang="el"}. Bei 1 passt außerdem der Film [Λέγε!]{lang="el"}
 (@sec-imperativ-aspekt).
 
 **Typische Fehler:** \*[Είπε μου]{lang="el"} heißt „er sagte mir“, \*[Πέσε]{lang="el"} „fall
 hin!“ (von [πέφτω]{lang="el"}). \*[Πήγε]{lang="el"} ist „er ging“, \*[Ανέβηκε]{lang="el"} „er
-stieg hinauf“: Bauform-A-Aoriste taugen nicht als Imperativ. [Φάγε]{lang="el"} und
+stieg hinauf“. [Φάγε]{lang="el"} und
 [έλθε]{lang="el"} sind kein heutiger Standard. [Πάρε]{lang="el"} ist nur du, gesiezt
 [πάρτε]{lang="el"}; bei [μείνετε]{lang="el"} bleibt das [ε]{lang="el"}.
 :::
@@ -480,8 +475,8 @@ i) Mach das Fenster auf, es ist heiß.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Frag wie in Kapitel 4: eine bestimmte Handlung? Oder Gewohnheit, Regel, ein Verhalten, das
-gerade läuft? Die Signalwörter helfen.
+Eine bestimmte Handlung? Oder Gewohnheit, Regel, ein laufendes Verhalten? Achte auf
+Signalwörter.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -502,8 +497,7 @@ das Wie.
 - d) [Διάβαζε μια σελίδα κάθε βράδυ!]{lang="el"} [κάθε βράδυ]{lang="el"} zieht den Film.
 - e) [Τρώγε σιγά!]{lang="el"} Das Essen läuft, gemeint ist die Art.
 - f) [Δοκίμασε αυτό!]{lang="el"} oder [Δοκίμασέ το!]{lang="el"} (@sec-imperativ-pronomen)
-- g) [Πρόσεχε, ο δρόμος γλιστράει!]{lang="el"} Fester Film-Imperativ, auch wenn es um diese
-  eine Stelle geht.
+- g) [Πρόσεχε, ο δρόμος γλιστράει!]{lang="el"} Fester Film-Imperativ.
 - h) [Πλένετε πάντα τα χέρια σας πριν από το φαγητό.]{lang="el"} Regel, dazu
   [πάντα]{lang="el"}; der Plural ist das Präsens.
 - i) [Άνοιξε το παράθυρο, κάνει ζέστη.]{lang="el"}
@@ -619,8 +613,7 @@ Akzent aus, mit zweien nicht. Kurzformen ([πες, δώσ’]{lang="el"}) brauch
 4. [Φέρ’ τες.]{lang="el"} [ˈfertes]; [Φέρε τις]{lang="el"} ist auch zu hören.
 5. [Διάβασέ το.]{lang="el"} [ˈðʝavaˈse to]
 6. [Ρώτησέ τη.]{lang="el"} [ˈrotiˈse ti]
-7. [Κόψτε τις.]{lang="el"} oder [Κόψτε τες.]{lang="el"} Kein zweiter Akzent: [κόψτε]{lang="el"}
-   hat zwei Silben.
+7. [Κόψτε τις.]{lang="el"} oder [Κόψτε τες.]{lang="el"} Ohne zweiten Akzent.
 
 **Teil B** (beide Reihenfolgen sind richtig)
 
@@ -629,14 +622,12 @@ Akzent aus, mit zweien nicht. Kurzformen ([πες, δώσ’]{lang="el"}) brauch
 3. [Φέρτε μάς τα.]{lang="el"} / [Φέρτε τά μας.]{lang="el"}
 4. [Διάβασέ τους το.]{lang="el"} / [Διάβασέ το τους.]{lang="el"}
 
-Bei 1 und 3 bekommt das erste Pronomen den Akzent, weil der Imperativ auf der vorletzten Silbe
-betont ist und zwei Silben folgen; mit verkürztem [Δώσ’]{lang="el"} fällt das weg. Bei 4 reicht
-der zweite Akzent auf [διάβασέ]{lang="el"}.
+Bei 1 und 3 folgen dem zweisilbigen Imperativ zwei Silben, also Akzent aufs erste Pronomen;
+nach [Δώσ’]{lang="el"} nicht.
 
 **Typische Fehler:** \*[Δοκίμασε τη]{lang="el"} ohne zweiten Akzent; \*[Το πάρε]{lang="el"},
 \*[Μου το δώσε]{lang="el"} mit Pronomen davor (das gibt es nur beim Verbot); \*[Δώσε την
-το]{lang="el"}: Der Empfänger steht im Genitiv, [της]{lang="el"}; \*[Κόψτέ τις]{lang="el"}: ein
-Pronomen nach zweisilbigem Imperativ braucht keinen Akzent.
+το]{lang="el"}: Der Empfänger steht im Genitiv.
 :::
 
 ::: {.vocab}
@@ -982,22 +973,18 @@ Es sind sieben Imperative und zwei Verbote. Nur einer der Imperative ist Plural.
 **Schritt 1**
 
 - **Foto, ihr:** [Μπείτε]{lang="el"}, an die Kinder.
-- **Foto, du:** [άσε, βάλε, Κάνε ησυχία]{lang="el"}, die Mutter an Nikos. [κάνε]{lang="el"}
-  sähe im Film genauso aus, wie [έκανα]{lang="el"} in Kapitel 4.
+- **Foto, du:** [άσε, βάλε, Κάνε ησυχία]{lang="el"}, die Mutter an Nikos.
 - **Film:** [πρόσεχε]{lang="el"} (Mutter an Giorgos am Steuer), [σταμάτα]{lang="el"} (ein Kind
   an den Vater), [Κράτα λίγο]{lang="el"} (ein Elternteil ans Kind).
 - **Verbot, Film:** [Μη φωνάζεις]{lang="el"} (Giorgos an die Mutter), [μην τρέχεις]{lang="el"}
-  (sie an ihn). Gemeint ist ein Verhalten, nicht ein einzelner Schrei.
+  (sie an ihn). Gemeint ist ein Verhalten.
 - **kein Imperativ:** [Άντε]{lang="el"} (Antreiber), [πάμε]{lang="el"} (wir-Form im Präsens),
   [Φτάνει]{lang="el"} (Präsens von [φτάνω]{lang="el"}); mehr dazu in @sec-imperativ-rufe.
 
-Oft überhört: [άσε την]{lang="el"}, das zu [ˈasetin] verschmilzt.
-
 **Schritt 2:** Eine feste Zahl gibt es nicht; viele Rezepte mischen beide Formen. Der Foto-Plural
 endet auf [-στε, -ψτε, -ξτε]{lang="el"} mit Betonung direkt davor, die wir-Form auf
-[-ουμε]{lang="el"}. [θα βάλουμε]{lang="el"} „wir geben dazu“ zählt als wir-Form. Film-Plurale wie
-[ανακατεύετε]{lang="el"} klingen wie das Präsens; ob Anweisung oder Feststellung, zeigt der
-Zusammenhang.
+[-ουμε]{lang="el"}. Film-Plurale wie [ανακατεύετε]{lang="el"} klingen wie das
+Präsens; ob Anweisung oder Feststellung, zeigt der Zusammenhang.
 :::
 <!-- CHECK: „Viele griechische Rezepte (Kochbücher, Kochvideos) erklären in der 1. Person Plural Präsens (κόβουμε, βάζουμε)“ – als Tendenz zutreffend? -->
 
@@ -1230,8 +1217,8 @@ i) [πήγαινε]{lang="el"}
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Teil A: Achte auf [δύο φορές, όχι το μεσημέρι, το σήμα]{lang="el"} und das Υ.Γ. Teil B: jeden
-Tag, zehn Tage lang oder einmal? Teil C: Film-Plural = Präsens, Foto-Plural auf
+Teil A: Achte auf [δύο φορές, όχι το μεσημέρι, το σήμα]{lang="el"} und das
+[Υ.Γ.]{lang="el"} Teil B: jeden Tag, zehn Tage lang oder einmal? Teil C: Film-Plural = Präsens, Foto-Plural auf
 [-τε]{lang="el"}, und aus [σου]{lang="el"} wird [σας]{lang="el"}.
 :::
 
@@ -1245,10 +1232,8 @@ braucht einen zweiten Akzent.
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**Teil A: 1f, 2f, 3f, 4r, 5f, 6r, 7f.** Zu 1: [δύο φορές τη μέρα]{lang="el"}. Zu 2:
-[κάθε βράδυ, όχι το μεσημέρι]{lang="el"}. Zu 3: [στον φούρνο, όχι στα μικροκύματα]{lang="el"}.
-Zu 5: [Κανείς δεν μπορεί να πει όχι.]{lang="el"} Zu 6: [το σήμα έρχεται και φεύγει]{lang="el"}.
-Zu 7: [μην την πιστέψεις]{lang="el"}.
+**Teil A: 1f, 2f, 3f, 4r, 5f, 6r, 7f.** Zu 6: [το σήμα έρχεται και φεύγει]{lang="el"}.
+Zu 7: Das [Υ.Γ.]{lang="el"} sagt [μην την πιστέψεις]{lang="el"}.
 
 **Teil B: a2, b2, c4, d3, e4, f1, g3, h1, i2.** a und b sind Gewohnheit, c und e Regeln für die
 ganzen zehn Tage. d warnt vor dem einen Blick, g vor dem einen Versuch. f und h sind einmalige
@@ -1265,8 +1250,7 @@ weil „zweimal“ gezählt klingt. Aber zweimal am Tag, jeden Tag: Regelmäßig
 4. [Πιστέψτε με.]{lang="el"} Kein zweiter Akzent, die Betonung liegt schon auf der vorletzten
    Silbe.
 
-**Typische Fehler:** \*[Πίστεψτέ με]{lang="el"} mit Singularbetonung; [σου]{lang="el"} stehen
-lassen; \*[Πάρε το]{lang="el"} im Plural.
+**Typische Fehler:** \*[Πίστεψτέ με]{lang="el"}; [σου]{lang="el"} stehen lassen.
 :::
 
 ::: {.vocab}

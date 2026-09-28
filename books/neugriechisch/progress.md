@@ -17,7 +17,7 @@
 | 10 Verben auf -μαι im Alltag | fertig | Welle 4; wartet auf 08, 09 |
 | 12 Vergleichen und Zwischenbilanz | Entwurf | Welle 6 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | Konsistenz | Welle 4; überarbeitet |
-| 09 Sag’s direkt: der Imperativ | Übungen | Welle 5; Entwurf fertig |
+| 09 Sag’s direkt: der Imperativ | im Review | Welle 5; Übungen fertig |
 
 ## Plan für /write all (Wellen nach Voraussetzungen)
 
