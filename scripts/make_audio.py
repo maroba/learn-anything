@@ -207,7 +207,7 @@ def tts_luvvoice(text, voice, **_):
         _last_luvvoice_call = time.time()
         status, body = http_json(LUVVOICE_URL, {"text": text, "voice_id": voice},
                                  {"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
-        if status == 429:
+        if status == 429 or status >= 500:
             time.sleep(30 * (attempt + 1))
             continue
         break
