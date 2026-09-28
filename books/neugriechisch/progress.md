@@ -18,7 +18,7 @@
 | 12 Vergleichen und Zwischenbilanz | veröffentlicht | Welle 6; Audio vollständig |
 | 13 Es wurde gefunden: das Mediopassiv | veröffentlicht | Welle 7; Audio läuft |
 | 14 Hast du schon …? Perfekt und Plusquamperfekt | veröffentlicht | Welle 7; Audio läuft |
-| 15 Der Film, den ich gesehen habe: Relativsätze | Übungen | Welle 7; Entwurf fertig |
+| 15 Der Film, den ich gesehen habe: Relativsätze | im Review | Welle 7; Übungen fertig |
 | 16 Weil, obwohl, damit: Nebensätze | Entwurf | Welle 8 |
 | 19 Partizip und Gerundium | Entwurf | Welle 8 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
