@@ -39,6 +39,22 @@ ausführliche Lösungen, die auch erklären, welcher Fehler naheliegt und warum.
 **Vokabeltabellen** am Ende der Abschnitte fassen den neuen Wortschatz zusammen. Verben stehen
 dort immer mit zwei Formen, aus Gründen, die in Kapitel 2 klar werden.
 
+Griechische Texte, Dialoge und Vokabeln kannst du dir mit ▶ **vorlesen lassen**. Die Aufnahmen
+sind Sprachsynthese mit einer Frauen- und einer Männerstimme: gut für Aussprache und Betonung,
+aber kein Ersatz für echte Sprecher. Dafür gibt es die Hör-Aufträge.
+
+Der Weg in 34 Kapiteln:
+
+- **Kapitel 1–13:** Auffrischung, dann das Herzstück: Aspekt und Aorist, Imperfekt, [θα]{lang="el"}
+  und [να]{lang="el"}, dazu Nomen, Anrede, Pronomen, Imperativ, Zeitangaben und Mediopassiv.
+- **Kapitel 14–26:** alles, was fürs echte Gespräch fehlt: Perfekt, Relativ- und Nebensätze,
+  Bedingungen, indirekte Rede, Partizipien, gesprochene Sprache, Modalität, Irrealis, Vermutungen
+  und die ersten Regeln der Wortbildung.
+- **Kapitel 27–33:** die Sprache hinter dem Alltag: Wissenschaft, Nachrichten, Diskussionen,
+  Redewendungen, Register, Kreta und Zypern, Filme.
+- **Kapitel 34:** ein Selbsttest im Format der B2-Prüfung, mit Auswertung und Wegweiser zum
+  Weiterlernen.
+
 Aussprache steht in Lautschrift (IPA) mit einer deutschen Annäherung daneben, etwa
 [θ]{lang="el"} „wie englisch *think*“. Du musst IPA nicht perfekt beherrschen, die wenigen
 Zeichen, die du brauchst, erklärt Kapitel 1.

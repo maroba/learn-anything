@@ -51,21 +51,18 @@ fünf Teile mit je 20 Punkten:
 | Schreiben ([Παραγωγή γραπτού λόγου]{lang="el"}) | 85 Minuten | ein persönlicher und ein formeller Text, je etwa 200 Wörter |
 | Sprechen ([Παραγωγή προφορικού λόγου]{lang="el"}) | 15 Minuten pro Paar | Aufwärmfragen, Monolog zu einer Meinungsfrage, Diskussion mit einem zweiten Prüfling |
 
-Bestanden hat nur, wer **jeden Teil einzeln** besteht; ein schwacher Teil lässt sich nicht mit
-einem starken ausgleichen.
+Jeder Teil ist ab **60 %** bestanden, also ab 12 von 20 Punkten. Bestanden hat aber nur, wer
+**jeden Teil einzeln** besteht: Wer in einem Teil darunter bleibt, fällt insgesamt durch, egal
+wie gut die anderen sind.
 
 ::: {.callout-caution .uncertain}
 ## Vorsicht
 
-Die Angaben stammen aus der Übersicht „Δομή εξεταστικών θεμάτων Β2“ und dem Prüfungsleitfaden auf
-der Seite des ΚΕΓ (Stand der Übersicht: 2020). Wie viele Punkte ein Teil zum Bestehen braucht,
-nennt das ΚΕΓ öffentlich nur für das Schreiben (60 %). Termine und die jeweils angebotenen
-Stufen wechseln von Jahr zu Jahr. Wer die Prüfung wirklich ablegen will, prüft alles auf der
-[Seite des ΚΕΓ](https://www.greek-language.gr/certification/); dort gibt es auch vollständige
-Modellprüfungen mit Hörtexten.
+Termine und die jeweils angebotenen Stufen wechseln von Jahr zu Jahr; als dieses Kapitel
+entstand, war der nächste B2-Termin im Mai 2027. Wer die Prüfung wirklich ablegen will, prüft
+alles auf der [Seite des ΚΕΓ](https://www.greek-language.gr/certification/); dort gibt es auch
+vollständige Modellprüfungen mit Hörtexten.
 :::
-
-<!-- CHECK: Bestehensgrenze pro Fertigkeit beim B2-Zertifikat des ΚΕΓ (nur für Schreiben 60 % gefunden, Seite „Κριτήρια αξιολόγησης“); Übersicht „Δομή εξεταστικών θεμάτων Β2“ noch aktuell? -->
 
 Der Test in diesem Kapitel bildet drei der fünf Teile nach: **Lesen, Sprachgebrauch** (hier
 „Wortschatz und Grammatik“) und **Hören**. Die Aufgabentypen folgen der Übersicht des ΚΕΓ, die
@@ -75,16 +72,19 @@ Originalaufgaben. Vier Unterschiede solltest du kennen:
 - In der Prüfung ist alles auf Griechisch, auch die Fragen. Hier stehen Fragen und Anweisungen
   auf Deutsch, damit du am Griechischen scheiterst und nicht an der Aufgabenstellung.
 - Die Hörtexte liest eine synthetische Stimme, langsamer und sauberer als eine echte Aufnahme.
+  Das Hören im Original prüfst du deshalb zusätzlich selbst.
 - Wo die Prüfung freie Antworten verlangt (Notizen beim Hören, Wörter in der Zusammenfassung),
   gibt es hier Auswahllisten, damit alles mit Buchstaben abgebbar bleibt.
 - **Schreiben und Sprechen** kann ein Buch nicht bewerten. Dafür gibt es in
-  @sec-abschluss-selbsteinschaetzung eine Liste zur Selbsteinschätzung.
+  @sec-abschluss-selbsteinschaetzung Listen zur Selbsteinschätzung, eine davon fürs Hören.
 
 **So gehst du vor:** Nimm dir für jeden Teil einen eigenen Termin. Lesen 30 Minuten, Wortschatz
 und Grammatik 20 Minuten, Hören pro Text höchstens zwei Durchgänge. Kein Wörterbuch, keine
 Hinweise, nichts aufklappen, bis der Teil fertig ist. Die Antworten sind Buchstaben und
 Nummern; im Chat genügt „34.1: 1…, 2…“. Jede richtige Antwort ist einen Punkt wert, jeder
-Teil hat 20 Punkte wie in der Prüfung. Die Auswertung steht in @sec-abschluss-auswertung.
+Teil hat 20 Punkte wie in der Prüfung. Die Auswertung steht in @sec-abschluss-auswertung. Die
+Hinweise und die Tabellen „Wortschatz zum Text“ sind für den zweiten Durchgang gedacht, nachdem
+du gezählt hast; deshalb gibt es hier pro Übung nur einen Hinweis.
 
 ## Teil A: Lesen {#sec-abschluss-lesen}
 
@@ -113,7 +113,7 @@ Welcher Satzteil gehört in welche Lücke? Zwei Satzteile bleiben übrig. Im Cha
 φορτίο διατηρείται σε πολύ καλή κατάσταση, **(6)** να αποκαλύψει πολλά για το εμπόριο της εποχής.
 Οι εργασίες αναμένεται να συνεχιστούν τον Σεπτέμβριο.
 
-a) λόγω των ισχυρών ανέμων · b) σύμφωνα με ανακοίνωση · c) το οποίο πιθανότατα ·
+a) λόγω των ισχυρών ανέμων · b) σύμφωνα με ανακοίνωση · c) το οποίο πιθανότατα θα ·
 d) Παρά τους αιώνες που πέρασαν · e) οι οποίοι πιθανότατα · f) εφόσον το επιτρέψει ο καιρός ·
 g) με αποτέλεσμα να μπορεί · h) η οποία χρηματοδοτείται από το υπουργείο Πολιτισμού
 :::
@@ -134,16 +134,19 @@ Welcher Satzteil schaut nach vorn, obwohl der Satz in der Vergangenheit steht?
 1. **b)** Die Quelle steht in der Meldung hinten, mit Genitiv: „laut einer Mitteilung der Behörde
    für Unterwasserarchäologie“ (Kapitel 18, 28).
 2. **e)** [οι αμφορείς]{lang="el"} ist männlich Plural, also [οι οποίοι]{lang="el"}
-   (Kapitel 15). **c)** passt im Genus nirgends.
+   (Kapitel 15). **c)** ist sächlich Singular und passt nicht zu [αμφορείς]{lang="el"}.
 3. **h)** [η έρευνα]{lang="el"} → [η οποία]{lang="el"}, eingeschoben zwischen Kommas.
 4. **a)** [λόγω]{lang="el"} + Genitiv gibt den Grund (Kapitel 28). **f)** klingt nach Wetter, aber
    [εφόσον]{lang="el"} + perfektive Form blickt in die Zukunft (Kapitel 29); der Satz erzählt
    Vergangenes.
 5. **d)** [παρά]{lang="el"} + Akkusativ „trotz“ (Kapitel 29): trotz der Jahrhunderte gut erhalten.
-6. **g)** [με αποτέλεσμα να]{lang="el"} „sodass“ leitet die Folge ein.
+6. **g)** [με αποτέλεσμα να]{lang="el"} „mit der Folge, dass“, „sodass“ leitet die Folge ein.
+   Die Wendung ist neu, aber per Ausschluss lösbar: **c)** endet auf [θα]{lang="el"}, und
+   [θα να]{lang="el"} gibt es nicht.
 
-**Typischer Fehler:** 2c, weil [φορτίο]{lang="el"} sächlich ist. Das Relativpronomen richtet sich
-nach dem Wort direkt davor, [αμφορείς]{lang="el"}.
+**Typischer Fehler:** 2c, wer das Relativpronomen auf [φορτίο]{lang="el"} bezieht. Es richtet sich
+nach seinem Bezugswort, und das ist hier [αμφορείς]{lang="el"}, nicht [φορτίο]{lang="el"}; das
+Verb im Plural, [μετέφεραν]{lang="el"}, bestätigt es.
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -198,56 +201,59 @@ nach automatisiert wurden.
 Στάθηκα από κάτω μέχρι να νυχτώσει. Δε μας βλέπει, σκέφτηκα, αλλά ξέρει ότι είμαστε εδώ.
 :::
 
-<!-- CHECK: Griechische Leuchttürme gehören zur Υπηρεσία Φάρων des Πολεμικό Ναυτικό; „ένα γράμμα του Ναυτικού“ und Automatisierung mit Solarenergie so plausibel? -->
-
 ::: {.callout-note .exercise}
 ## Übung 34.2: Der Leuchtturmwärter
 
 Lies den Text einmal ganz, dann beantworte die Fragen. Im Chat: „1…, 2…“.
 
-1. Wie kam man auf die Insel? (a) mit der Fähre direkt (b) mit dem Schiff bis zum nächsten Hafen,
-   dann im Boot eines Fischers (c) nur bei Meltemi (d) im Boot des Onkels
-2. Was tat der Onkel abends? (a) Er schlief. (b) Er putzte die Scheiben. (c) Er stieg die Stufen
-   hinauf und zündete die Lampe an. (d) Er fuhr zum Fischen hinaus.
-3. Was meinte der Onkel mit dem Licht in der Ferne? (a) Das Schiff ist in Gefahr. (b) Das Schiff
+1. Was meinte der Onkel mit dem Licht in der Ferne? (a) Das Schiff ist in Gefahr. (b) Das Schiff
    braucht keinen Leuchtturm mehr. (c) Das Schiff sieht sie nicht, weiß aber, dass sie da sind,
    und das genügt. (d) Das Schiff bringt die Post.
-4. Warum fuhr der Erzähler mit fünfzehn nicht mehr hin? (a) Er hatte Streit mit dem Onkel.
+2. Warum fuhr der Erzähler mit fünfzehn nicht mehr hin? (a) Er hatte Streit mit dem Onkel.
    (b) Er hatte Freunde und andere Pläne in Athen. (c) Der Onkel wollte ihn nicht mehr. (d) Der
    Leuchtturm war geschlossen.
-5. Was war an dem Anruf des Onkels besonders? (a) Er hatte noch nie angerufen. (b) Er rief aus
+3. Was war an dem Anruf des Onkels besonders? (a) Er hatte noch nie angerufen. (b) Er rief aus
    Piräus an. (c) Er war krank. (d) Er rief mitten in der Nacht an.
-6. Warum fuhr der Erzähler zur letzten Nacht nicht hin? (a) wegen Prüfungen, oder das redete er
+4. Warum fuhr der Erzähler zur letzten Nacht nicht hin? (a) wegen Prüfungen, oder das redete er
    sich ein (b) wegen des Meltemi (c) weil kein Schiff fuhr (d) weil der Onkel abgesagt hatte
-7. Was bedauert der Erzähler? (a) dass er die Insel nie wieder besucht hat (b) dass er in der
+5. Was bedauert der Erzähler? (a) dass er die Insel nie wieder besucht hat (b) dass er in der
    letzten Nacht nicht dort war (c) dass er den Onkel nie angerufen hat (d) dass der Leuchtturm
    abgerissen wurde
+6. Warum wiederholt der Erzähler am Schluss den Satz des Onkels? (a) Er will zeigen, dass der
+   Onkel sich geirrt hat. (b) Er hat ihn auf einem Schild am Leuchtturm gelesen. (c) Er macht
+   sich über den automatischen Leuchtturm lustig. (d) Der Satz bekommt einen neuen Sinn: Jetzt
+   denkt der Erzähler dabei an den Onkel und an sich.
+7. Welcher Ton beschreibt den Text am besten? (a) anklagend (b) humorvoll (c) nüchtern und
+   bedauernd (d) sachlich-informierend
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis
 
-Frage 3 und 7 hängen am letzten Absatz. Achte in Frage 6 auf das, was nach [ή]{lang="el"} kommt.
+Frage 1: das Zitat im zweiten Absatz, das am Schluss wiederkehrt. Frage 5: der vorletzte
+Absatz. Achte in Frage 4 auf das, was nach [ή]{lang="el"} kommt.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**1b, 2c, 3c, 4b, 5a, 6a, 7b.**
+**1c, 2b, 3a, 4a, 5b, 6d, 7c.**
 
-1. [έπαιρνες το πλοίο … περίμενες τον ψαρά]{lang="el"}: das unpersönliche „du“ im Imperfekt, eine
-   Gewohnheit (Kapitel 4). [θα σε περνούσε]{lang="el"} ist Futur der Vergangenheit (Kapitel 24).
-2. Die Scheiben putzte er nachmittags; abends [ανέβαινε … για να ανάψει]{lang="el"}.
-3. Das Zitat wörtlich genommen. Der Satz kehrt am Ende zurück, jetzt über den Onkel.
-4. [Είχα φίλους στην Αθήνα, είχα άλλα σχέδια.]{lang="el"}
-5. [πράγμα που δεν είχε κάνει ποτέ]{lang="el"}: Plusquamperfekt, „was er noch nie getan hatte“
+1. Das Zitat wörtlich genommen: [Δε μας βλέπει, αλλά ξέρει ότι είμαστε εδώ. Αυτό φτάνει.]{lang="el"}
+2. [Είχα φίλους στην Αθήνα, είχα άλλα σχέδια.]{lang="el"}
+3. [πράγμα που δεν είχε κάνει ποτέ]{lang="el"}: Plusquamperfekt, „was er noch nie getan hatte“
    (Kapitel 14).
-6. [ή έτσι έλεγα στον εαυτό μου]{lang="el"}: Der Erzähler traut seinem eigenen Grund nicht.
-7. [Μακάρι να είχα πάει]{lang="el"}, ein unerfüllbarer Wunsch über Vergangenes, dazu der irreale
-   Bedingungssatz [Αν είχα ανέβει …, ίσως θα είχα καταλάβει]{lang="el"} (Kapitel 24, 25). (a) ist
+4. [ή έτσι έλεγα στον εαυτό μου]{lang="el"}: Der Erzähler traut seinem eigenen Grund nicht.
+5. [Μακάρι να είχα πάει]{lang="el"}, ein unerfüllbarer Wunsch über Vergangenes, dazu der irreale
+   Bedingungssatz [Αν είχα ανέβει …, ίσως θα είχα καταλάβει]{lang="el"} (Kapitel 24). (a) ist
    falsch: [Πέρσι ξαναπήγα.]{lang="el"}
+6. Im zweiten Absatz ist der Satz eine Beobachtung über ein Schiff. Am Schluss steht der
+   Erzähler allein unter dem leeren Leuchtturm, und das [μας]{lang="el"} schließt jetzt den toten
+   Onkel ein. Nichts im Text spricht für (a) bis (c).
+7. Der Erzähler klagt niemanden an, nicht einmal die Marine; er berichtet knapp und sagt einmal
+   offen, was er bereut. Witze gibt es keine, und für einen Sachtext ist er zu persönlich.
 
-**Typischer Fehler:** 7a, wer das [ξανα-]{lang="el"} in [ξαναπήγα]{lang="el"} überliest
+**Typischer Fehler:** 5a, wer das [ξανα-]{lang="el"} in [ξαναπήγα]{lang="el"} überliest
 (Kapitel 26).
 :::
 
@@ -297,13 +303,13 @@ Sortier die Wörter erst danach.
 
 | Griechisch | Deutsch |
 |---|---|
-| [ο φαροφύλακας]{lang="el"} | der Leuchtturmwärter ([ο φάρος]{lang="el"} + [φυλάω]{lang="el"}) |
+| [ο φαροφύλακας]{lang="el"} | der Leuchtturmwärter ([ο φάρος]{lang="el"} + [ο φύλακας]{lang="el"} der Wächter) |
 | [το ρεύμα]{lang="el"} | der Strom; die Strömung |
 | [η βάρκα]{lang="el"} | das (kleine) Boot |
 | [η λάμπα]{lang="el"} | die Lampe |
 | [η πολυκατοικία]{lang="el"} | der Wohnblock, das Mehrfamilienhaus |
 | [ο αφηγητής]{lang="el"} | der Erzähler |
-| [περνάω απέναντι]{lang="el"} | hinüberbringen, übersetzen |
+| [περνάω απέναντι]{lang="el"} | (jdn.) hinüberbringen; hinübergehen |
 | [ανάβω, άναψα]{lang="el"} | anzünden, einschalten; [ανάβει]{lang="el"} es geht an |
 | [πράγμα που]{lang="el"} | was (bezieht sich auf den ganzen Satz davor) |
 | [αναβοσβήνω]{lang="el"} | blinken ([ανάβω]{lang="el"} + [σβήνω]{lang="el"} ausmachen) |
@@ -363,15 +369,15 @@ Im Chat: „1…, 2…“.
 1. Κάθε καλοκαίρι τα ίδια νησιά δέχονται όλο και περισσότερους τους επισκέπτες.
    (a) τα (b) όλο (c) περισσότερους (d) τους
 2. Οι κάτοικοι, οι οποίοι που ζουν εκεί όλο τον χρόνο, παραπονιούνται για το νερό και τα ενοίκια.
-   (a) οι οποίοι (b) που (c) όλο (d) τα
+   (a) εκεί (b) που (c) όλο (d) τα
 3. Λόγω για της λειψυδρίας, κάποια νησιά φέρνουν ήδη νερό με πλοία.
    (a) για (b) της (c) ήδη (d) με
 4. Ο τουρισμός φέρνει χρήματα· τα περισσότερα από αυτά, όμως, δεν τα μένουν στο νησί.
-   (a) τα περισσότερα (b) όμως (c) τα (d) στο
-5. Κάποιοι λένε ότι ένα τέτοιο το μέτρο θα έβλαπτε την οικονομία.
+   (a) αυτά (b) όμως (c) τα (vor μένουν) (d) στο
+5. Αν δε θα μπει όμως ένα όριο, σε λίγα χρόνια τα νησιά θα μοιάζουν με θεματικά πάρκα.
+   (a) δε (b) θα (vor μπει) (c) όμως (d) θα (vor μοιάζουν)
+6. Κάποιοι λένε ότι ένα τέτοιο το μέτρο θα έβλαπτε την οικονομία.
    (a) ότι (b) το (c) θα (d) την
-6. Αν δεν θα μπει όμως ένα όριο, σε λίγα χρόνια τα νησιά θα μοιάζουν με θεματικά πάρκα.
-   (a) δεν (b) θα (vor μπει) (c) όμως (d) θα (vor μοιάζουν)
 7. Κανείς δε ζητάει να κλείσουν τα νησιά· ζητάμε μόνο να οργανωθεί ο τουρισμός πιο καλύτερα.
    (a) δε (b) να (vor κλείσουν) (c) μόνο (d) πιο
 :::
@@ -389,19 +395,25 @@ du es.
 
 **1d, 2b, 3a, 4c, 5b, 6b, 7d.**
 
-1. **[τους]{lang="el"}:** Ein Artikel steht, wenn überhaupt, vor dem Adjektiv ([τους περισσότερους
-   επισκέπτες]{lang="el"} „die meisten Besucher“), nie zwischen Adjektiv und Nomen (Kapitel 12).
-2. **[που]{lang="el"}:** [οι οποίοι]{lang="el"} oder [που]{lang="el"}, nie beides (Kapitel 15).
+1. **[τους]{lang="el"}:** [όλο και περισσότερους επισκέπτες]{lang="el"} „immer mehr Besucher“
+   steht ohne Artikel, und ohne Artikel vor dem Adjektiv steht auch keiner vor dem Nomen. Eine
+   betonte Doppelform mit zwei Artikeln gibt es zwar ([το μεγάλο το σπίτι]{lang="el"}), aber nur,
+   wenn schon vor dem Adjektiv einer steht. Nicht verwechseln: [τους περισσότερους
+   επισκέπτες]{lang="el"} heißt „die meisten Besucher“ (Kapitel 12).
+2. **[που]{lang="el"}:** [οι οποίοι]{lang="el"} oder [που]{lang="el"}, nicht beides (Kapitel 15);
+   zur Wahl steht nur [που]{lang="el"}.
 3. **[για]{lang="el"}:** [λόγω]{lang="el"} regiert selbst den Genitiv, ohne weitere Präposition
    (Kapitel 28).
 4. **[τα]{lang="el"}** vor [μένουν]{lang="el"}: „bleiben“ hat kein Objekt. Ohne [τα]{lang="el"}
    heißt es nach der Regel zum Schluss-ν [δε μένουν]{lang="el"}.
-5. **[το]{lang="el"}:** [ένα τέτοιο μέτρο]{lang="el"}, ein Artikel reicht.
-6. **b)** Nach [αν]{lang="el"} kein [θα]{lang="el"} (Kapitel 17). Das zweite [θα]{lang="el"} in der
-   Folge ist richtig.
+5. **b)** Im Bedingungssatz nach [αν]{lang="el"} steht in der Standardsprache kein
+   [θα]{lang="el"} (Kapitel 17). Ohne [θα]{lang="el"} bekommt das [δε]{lang="el"} sein ν zurück:
+   [Αν δεν μπει]{lang="el"}. Das zweite [θα]{lang="el"} in der Folge ist richtig.
+6. **[το]{lang="el"}:** [ένα τέτοιο μέτρο]{lang="el"}, ein Artikel reicht. Gemeint ist das
+   [όριο]{lang="el"} aus Satz 5.
 7. **[πιο]{lang="el"}:** [καλύτερα]{lang="el"} ist schon Komparativ (Kapitel 12).
 
-**Typischer Fehler:** 6d. Wer das falsche [θα]{lang="el"} sucht, sollte beide prüfen. Und 4b:
+**Typischer Fehler:** 5d. Wer das falsche [θα]{lang="el"} sucht, sollte beide prüfen. Und 4b:
 [όμως]{lang="el"} darf in der Satzmitte stehen (Kapitel 29).
 :::
 
@@ -414,7 +426,7 @@ Ein Sachtext mit sechs Lücken. Welche Form aus derselben Wortfamilie passt? Im 
 **Το Αστεροσκοπείο Αθηνών**
 
 Το Εθνικό Αστεροσκοπείο Αθηνών είναι το παλαιότερο **(1)** ίδρυμα της σύγχρονης Ελλάδας. Η
-**(2)** του ιδρύματος έγινε το 1842, με χρήματα του Γεωργίου Σίνα, ενός πλούσιου Έλληνα της Βιέννης. Το
+**(2)** του έγινε το 1842, με χρήματα του Γεωργίου Σίνα, ενός πλούσιου Έλληνα της Βιέννης. Το
 κτίριο, στον Λόφο των Νυμφών απέναντι από την Ακρόπολη, το σχεδίασε ο Δανός **(3)** Θεόφιλος
 Χάνσεν. Στην αρχή οι επιστήμονες έκαναν κυρίως **(4)** του ουρανού· αργότερα άρχισαν να καταγράφουν
 και τους σεισμούς και τον καιρό. Σήμερα το Αστεροσκοπείο μελετά τα **(5)** φαινόμενα αλλά και την
@@ -425,7 +437,7 @@ Ein Sachtext mit sechs Lücken. Welche Form aus derselben Wortfamilie passt? Im 
 3. (a) αρχιτεκτονική (b) αρχιτεκτονικός (c) αρχιτέκτονας (d) αρχιτέκτονα
 4. (a) παρατηρητές (b) παρατηρητήριο (c) παρατηρήσεις (d) παρατηρημένες
 5. (a) σεισμικά (b) σεισμός (c) σεισμολόγος (d) σεισμογράφος
-6. (a) προβλέπω (b) προβλέψεις (c) προβλήματα (d) προβλεπόμενες
+6. (a) προβλέπω (b) προβλέψεις (c) πρόβλεψη (d) προβλεπόμενες
 :::
 :::
 
@@ -442,20 +454,19 @@ Frag bei jeder Lücke zuerst: Nomen, Adjektiv oder Verb? Und welcher Artikel ste
 
 1. Zwischen Artikel und [ίδρυμα]{lang="el"} ein Adjektiv, sächlich: [ερευνητικό]{lang="el"}.
 2. [Η]{lang="el"} verlangt ein weibliches Nomen: [η ίδρυση]{lang="el"}, perfektiver Stamm
-   [ίδρυσ-]{lang="el"} + [-η]{lang="el"} (Kapitel 27).
+   [ίδρυσ-]{lang="el"} + [-η]{lang="el"} (Kapitel 27). Vor dem [του]{lang="el"} bekommt es einen
+   zweiten Akzent: [η ίδρυσή του]{lang="el"} (Kapitel 2).
 3. Der Architekt ist hier Subjekt, also Nominativ: [ο αρχιτέκτονας]{lang="el"}. **d)** ist der
    Akkusativ.
 4. Plural ohne Artikel nach [έκαναν]{lang="el"}: „Beobachtungen machen“. [το
    παρατηρητήριο]{lang="el"} ist die Sternwarte selbst.
 5. Adjektiv vor [φαινόμενα]{lang="el"}, sächlich Plural: [τα σεισμικά φαινόμενα]{lang="el"}.
 6. [στις]{lang="el"} verlangt ein weibliches Nomen im Plural: [οι προβλέψεις]{lang="el"}
-   (Kapitel 6, 27).
+   (Kapitel 6, 27). [πρόβλεψη]{lang="el"} ist das richtige Wort, aber im Singular.
 
 **Typischer Fehler:** 3d, weil deutsches „vom dänischen Architekten“ im Kopf mitläuft. Im
 Griechischen ist der Satz aktiv, [ο αρχιτέκτονας]{lang="el"} ist Subjekt.
 :::
-
-<!-- CHECK: Nationales Observatorium Athen: gegründet 1842, finanziert von Georgios Sinas (Bankier in Wien), Gebäude von Theophil Hansen auf dem Nymphenhügel; „ältestes Forschungsinstitut des modernen Griechenland“ so vertretbar? Erdbeben- und Wetteraufzeichnung „später“ -->
 
 ::: {.callout-note .exercise}
 ## Übung 34.6: Eine Anfrage
@@ -470,7 +481,7 @@ Im Chat: „1…, 2…“.
 
 **(1)** σχετικά με τις βραδινές επισκέψεις στο Κέντρο Επισκεπτών. Είμαστε ένας πολιτιστικός
 σύλλογος από τη Θεσσαλονίκη, και τον Οκτώβριο **(2)** στην Αθήνα για τρεις μέρες. **(3)** να
-επισκεφτούμε το Αστεροσκοπείο την Παρασκευή 17 Οκτωβρίου, **(4)** υπάρχει διαθεσιμότητα. Η ομάδα
+επισκεφτούμε το Αστεροσκοπείο την Παρασκευή 16 Οκτωβρίου, **(4)** υπάρχει διαθεσιμότητα. Η ομάδα
 μας αποτελείται από δεκαοκτώ άτομα, **(5)** τα τρία είναι παιδιά. Θα σας παρακαλούσα **(6)**
 ενημερώσετε για το κόστος και για το αν η ξενάγηση γίνεται και στα αγγλικά, αφού δύο από τα μέλη
 μας δε μιλούν ελληνικά.
@@ -488,7 +499,7 @@ g) βρεθήκαμε · h) να μας · i) οι οποίοι · j) θα βρ�
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis
 
-Zwei übrige Bausteine sind falsch im Register, drei in der Grammatik.
+Einer der übrigen Bausteine ist falsch im Register, vier in Grammatik oder Bedeutung.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -507,8 +518,6 @@ Zwei übrige Bausteine sind falsch im Register, drei in der Grammatik.
 7. [Με εκτίμηση]{lang="el"} nach [Αξιότιμη]{lang="el"}; [Φιλιά]{lang="el"} wäre die Überraschung
    aus Kapitel 31.
 :::
-
-<!-- CHECK: Hat das Nationale Observatorium Athen ein Besucherzentrum (Κέντρο Επισκεπτών Θησείου) mit Abendführungen? Falls nicht, im Text neutral „ein Besucherzentrum“ lassen. -->
 
 ::: {.callout-note collapse="true" .vocab-text}
 ## Wortschatz zum Text
@@ -554,7 +563,7 @@ Anker · [ο βυθός]{lang="el"} der Meeresgrund.
 
 — Για τρεις λόγους. Πρώτον, τα λιβάδια της παράγουν οξυγόνο και αποθηκεύουν άνθρακα. Δεύτερον,
 εκεί γεννιούνται και μεγαλώνουν πολλά ψάρια. Και τρίτον, προστατεύουν τις ακτές: τα φύλλα που
-βγαίνουν στην άμμο τον χειμώνα κρατάνε την παραλία στη θέση της.
+ξεβράζει η θάλασσα τον χειμώνα κρατάνε την παραλία στη θέση της.
 
 — Δηλαδή δεν πρέπει να τα μαζεύουμε;
 
@@ -575,46 +584,56 @@ Anker · [ο βυθός]{lang="el"} der Meeresgrund.
 — Κύριε Αλεξίου, σας ευχαριστούμε πολύ.
 :::
 
-<!-- CHECK: Posidonia oceanica: endemisch im Mittelmeer, blüht, Wiesen speichern Kohlenstoff, Kinderstube für Fische, angespülte Blätter (Banquettes) schützen Strände vor Erosion; Wachstum „wenige Zentimeter pro Jahr“; Ankerverbote über Posidonia-Wiesen in einigen Mittelmeerregionen (z.B. Balearen). -->
-
 ::: {.callout-note .exercise}
 ## Übung 34.7: Das Neptungras
 
-Richtig (r) oder falsch (f)? Im Chat: „1…, 2…“.
+Welche Antwort passt zum Interview? Im Chat: „1…, 2…“.
 
-1. Posidonia ist eine Alge.
-2. Sie wächst nur im Mittelmeer.
-3. Ihre Wiesen speichern Kohlenstoff.
-4. In den Wiesen wachsen viele Fische auf.
-5. Die Blätter am Strand sollte man wegräumen, damit der Sand liegen bleibt.
-6. Räumt man die Blätter mit Maschinen weg, nimmt das Meer später den Sand mit.
-7. Posidonia wächst schnell nach.
-8. Ein Anker kann in einer Minute zerstören, was in hundert Jahren gewachsen ist.
-9. Das Ankern über Posidonia ist im ganzen Mittelmeer verboten.
-10. Wo der Meeresgrund dunkel ist, ist Sand.
+1. Posidonia ist (a) eine Alge (b) eine Pflanze mit Wurzeln und Blüten (c) eine Alge mit
+   Blüten
+2. Sie wächst (a) im Mittelmeer und im Atlantik (b) an allen warmen Küsten (c) nur im
+   Mittelmeer
+3. Ihre Wiesen (a) speichern Kohlenstoff (b) verbrauchen viel Sauerstoff (c) filtern Salz aus
+   dem Wasser
+4. Für Fische sind die Wiesen (a) gefährlich (b) ein Ort, an dem sie geboren werden und
+   aufwachsen (c) nur im Winter wichtig
+5. Die Blätter am Strand (a) machen den Sand schmutzig (b) halten den Strand an seinem Platz
+   (c) schützen die Badenden vor der Sonne
+6. Was rät der Biologe zu den Blättern am Strand? (a) Man sollte sie idealerweise liegen lassen.
+   (b) Man sollte sie von Hand wegräumen. (c) Man sollte sie nur im Sommer wegräumen.
+7. Räumt die Gemeinde die Blätter mit Bulldozern weg, (a) wachsen schnell neue nach (b) wird
+   der Strand breiter (c) nimmt das Meer danach auch den Sand mit
+8. Posidonia wächst (a) ein paar Meter im Jahr (b) ein paar Zentimeter im Jahr (c) nur in
+   Jahren ohne Sturm
+9. Das Ankern über den Wiesen ist (a) in manchen Gegenden des Mittelmeers verboten (b) im ganzen
+   Mittelmeer verboten (c) nirgends verboten, aber unerwünscht
+10. Wo soll man mit einem Boot ankern? (a) wo der Grund dunkel ist (b) wo der Grund hell ist
+    (c) möglichst nah am Strand
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis
 
-Achte auf Einschränkungen: [μόνο, ιδανικά, κάποιες]{lang="el"}. Sie machen aus einer richtigen
-Aussage eine falsche.
+Achte auf Einschränkungen wie [ιδανικά, κάποιες]{lang="el"}: Sie entscheiden oft, welche Antwort
+stimmt.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**1f, 2r, 3r, 4r, 5f, 6r, 7f, 8r, 9f, 10f.**
+**1b, 2c, 3a, 4b, 5b, 6a, 7c, 8b, 9a, 10b.**
 
-1. [Δεν είναι. Είναι φυτό.]{lang="el"} Die Aufzählung davor bereitet den Widerspruch vor.
-5. und 6. [Ιδανικά όχι]{lang="el"}, dann der reale Bedingungssatz mit [αν]{lang="el"} + perfektiver
-   Form (Kapitel 17).
-7. [πάρα πολύ αργά, λίγα εκατοστά τον χρόνο]{lang="el"}.
-9. Nur [σε κάποιες περιοχές]{lang="el"}.
-10. Umgekehrt: hell ist Sand, dunkel ist Wiese.
+1. [Δεν είναι. Είναι φυτό, με ρίζες, φύλλα, ακόμα και λουλούδια.]{lang="el"} (c) mischt die
+   falsche Meinung mit der richtigen Beschreibung.
+2. [ζει μόνο στη Μεσόγειο]{lang="el"}.
+6. und 7. [Ιδανικά όχι]{lang="el"}, dann der reale Bedingungssatz mit [αν]{lang="el"} +
+   perfektiver Form (Kapitel 17).
+8. [πάρα πολύ αργά, λίγα εκατοστά τον χρόνο]{lang="el"}.
+9. [σε κάποιες περιοχές της Μεσογείου]{lang="el"}.
+10. Hell ist Sand, dunkel ist Wiese.
 
-**Typischer Fehler:** 1r, wer [φύκι]{lang="el"} hört und das [Δεν είναι]{lang="el"} danach
-verpasst. Verneinungen kommen im Griechischen oft als eigener kurzer Satz (Kapitel 21).
+**Typischer Fehler:** 1a, wer [φύκι]{lang="el"} hört und das kurze [Δεν είναι]{lang="el"}
+danach verpasst.
 :::
 
 ### Drei Freunde, eine Entscheidung {#sec-abschluss-freunde}
@@ -623,7 +642,7 @@ Drei Freunde auf einem Balkon in Athen: Danai, Stelios und Eleni. Die Aufnahme h
 Stimmen, eine männliche für Stelios und eine weibliche für **beide** Frauen. Wer spricht, verraten
 die Anrede und der Inhalt, wie in einem Film, in dem man die Gesichter nicht sieht.
 **Vor dem Hören:** [το Πήλιο]{lang="el"} das Pilion-Gebirge bei Volos · [ενθαρρύνω]{lang="el"}
-ermutigen · [η ψυχή]{lang="el"} die Seele; [δεν κυκλοφορεί ψυχή]{lang="el"} keine Menschenseele
+ermutigen · [η σκεπή]{lang="el"} das Dach · [η ψυχή]{lang="el"} die Seele; [δεν κυκλοφορεί ψυχή]{lang="el"} keine Menschenseele
 ist unterwegs.
 
 ::: {lang="el" .listen}
@@ -631,8 +650,8 @@ ist unterwegs.
 
 [— Σοβαρά, Δανάη; Κι η δουλειά σου;]{.v2}
 
-[— Η εταιρεία δέχτηκε να δουλεύω από το σπίτι. Αρκεί να έχω καλό ίντερνετ, και στο χωριό έχει, το
-έλεγξα.]{.v1}
+[— Από την εταιρεία μού είπαν ότι μπορώ να δουλεύω από το σπίτι, αρκεί να έχω καλό ίντερνετ.
+Και στο χωριό έχει, το έλεγξα.]{.v1}
 
 [— Έλα, ρε Δανάη, τέλειο! Εγώ πάντως σε ζηλεύω. Αν δεν είχα τα παιδιά στο σχολείο, θα είχα φύγει
 κι εγώ.]{.v1}
@@ -646,12 +665,12 @@ ist unterwegs.
 
 [— Το σπίτι της γιαγιάς είναι άδειο εδώ και δέκα χρόνια. Θα το φτιάξω σιγά σιγά.]{.v1}
 
-[— Και αν αρρωστήσεις; Το πιο κοντινό νοσοκομείο είναι στον Βόλο, μία ώρα με το αυτοκίνητο.
+[— Δέκα χρόνια άδειο; Πρέπει να έχει πέσει η μισή σκεπή. Και αν αρρωστήσεις; Το πιο κοντινό νοσοκομείο είναι στον Βόλο, μία ώρα με το αυτοκίνητο.
 Διάβασα κιόλας ότι πολλοί που έφυγαν με την πανδημία γύρισαν πίσω σε δύο χρόνια.]{.v2}
 
-[— Σιγά, Στέλιο! Μία ώρα κάνω κι εδώ για να πάω στη δουλειά, με την κίνηση.]{.v1}
+[— Σιγά τα λάχανα, Στέλιο! Μία ώρα κάνω κι εδώ για να πάω στη δουλειά, με την κίνηση.]{.v1}
 
-[— Εγώ πάντως, Δανάη, ένα πράγμα θα σου έλεγα: μην πουλήσεις το διαμέρισμα. Νοίκιασέ το για ένα
+[— Εγώ πάντως, Δανάη, ένα πράγμα θα σου έλεγα: μην πουλήσεις το διαμέρισμα. Νοίκιασέ το για έναν
 χρόνο και δες πώς θα σου πάει. Με τα ενοίκια που έχει τώρα η Αθήνα, θα βγάζεις και κάτι.]{.v1}
 
 [— Καλή ιδέα. Έτσι κι αλλιώς δεν ήθελα να το πουλήσω.]{.v1}
@@ -665,18 +684,22 @@ ist unterwegs.
 ::: {.callout-note .exercise}
 ## Übung 34.8: Wer sagt was?
 
-Danai (**D**), Stelios (**S**) oder Eleni (**E**)? Im Chat: „1…, 2…“.
+Für 1 bis 8: Danai (**D**), Stelios (**S**) oder Eleni (**E**)? Für 9 und 10: Welche Antwort
+passt? Im Chat: „1…, 2…“.
 
 1. hat die Entscheidung schon getroffen
 2. darf künftig von zu Hause arbeiten
 3. wäre ohne die Kinder schon weg
 4. warnt vor Regen, Schnee und leeren Straßen im Winter
 5. kennt das Dorf aus den Sommern bei der Großmutter
-6. sorgt sich um den Weg ins Krankenhaus
-7. hat gelesen, dass viele nach wenigen Jahren zurückkehren
-8. braucht schon jetzt eine Stunde zur Arbeit
-9. rät, die Wohnung zu vermieten statt zu verkaufen
-10. will jedes Wochenende zu Besuch kommen
+6. hat gelesen, dass viele nach wenigen Jahren zurückkehren
+7. rät, die Wohnung zu vermieten statt zu verkaufen
+8. will jedes Wochenende zu Besuch kommen
+9. Was sagt Stelios über das Haus der Großmutter? (a) Er weiß, dass das Dach halb eingestürzt
+   ist. (b) Er vermutet, dass das Dach inzwischen schwer beschädigt ist. (c) Er rät, das halbe
+   Dach abzureißen.
+10. Was meint Danai mit [Σιγά τα λάχανα]{lang="el"}? (a) Stelios soll leiser reden. (b) Sie will
+    im Dorf Gemüse anbauen. (c) Sie hält seinen Einwand für übertrieben.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -689,21 +712,27 @@ ist nie selbst gemeint.
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**1D, 2D, 3E, 4S, 5D, 6S, 7S, 8D, 9E, 10S.**
+**1D, 2D, 3E, 4S, 5D, 6S, 7E, 8S, 9b, 10c.**
 
-- 3: [Αν δεν είχα τα παιδιά …, θα είχα φύγει]{lang="el"}, irreal in der Vergangenheit
-  (Kapitel 24). Eleni erkennst du an [ρε Δανάη]{lang="el"}: Sie spricht Danai an.
-- 4, 6, 7: Stelios’ drei Einwände, jeder mit einem Signal: [έχεις περάσει ποτέ]{lang="el"}
-  (Perfekt der Erfahrung, Kapitel 14), [Και αν αρρωστήσεις;]{lang="el"}, [Διάβασα κιόλας]{lang="el"}.
-- 8: [Σιγά, Στέλιο!]{lang="el"}, das ironische „na und“ (Kapitel 21).
-- 9: [Εγώ πάντως, Δανάη]{lang="el"} (Kapitel 20); Rat mit [θα]{lang="el"} + Imperfekt
-  [θα σου έλεγα]{lang="el"} und Verbot [μην πουλήσεις]{lang="el"} (Kapitel 9, 31).
-- 10: Die Pointe. Der größte Zweifler kommt jedes Wochenende, angeblich nur wegen des Tsipouro;
+- 2: indirekte Rede, [μού είπαν ότι μπορώ]{lang="el"}, ohne Zeitverschiebung (Kapitel 18).
+- 3: [Αν δεν είχα τα παιδιά …, θα είχα φύγει]{lang="el"}, ein gemischter Irrealis: Die Bedingung
+  gilt jetzt ([αν]{lang="el"} + Imperfekt), die Folge liegt in der Vergangenheit ([θα είχα
+  φύγει]{lang="el"}, Kapitel 24). Eleni erkennst du an [ρε Δανάη]{lang="el"}: Sie spricht Danai an.
+- 4, 6: Stelios’ Einwände, jeder mit einem Signal: [έχεις περάσει ποτέ]{lang="el"} (Perfekt der
+  Erfahrung, Kapitel 14), [Διάβασα κιόλας]{lang="el"}.
+- 7: [Εγώ πάντως, Δανάη]{lang="el"} (Kapitel 20); Rat mit [θα]{lang="el"} + Imperfekt
+  [θα σου έλεγα]{lang="el"} und Verbot [μην πουλήσεις]{lang="el"} (Kapitel 9, 24).
+- 8: Die Pointe. Der größte Zweifler kommt jedes Wochenende, angeblich nur wegen des Tsipouro;
   Danai sagt voraus, dass er als Erster umzieht.
+- 9: [Πρέπει να έχει πέσει]{lang="el"} ist eine Vermutung über Vergangenes, „ist bestimmt
+  eingestürzt“ (Kapitel 22, 25), keine Tatsache und kein Rat.
+- 10: [Σιγά τα λάχανα]{lang="el"}, wörtlich „langsam, die Kohlköpfe“, heißt „Na und? Große Sache“
+  (Kapitel 30); [σιγά]{lang="el"} allein kann ebenso ironisch sein (Kapitel 20). Danais Beleg: eine
+  Stunde braucht sie in Athen auch.
 
-**Typischer Fehler:** 8E oder 9D, weil die Frauenstimme dreimal hintereinander spricht. Stelios
-hat Danai gefragt, also antwortet sie mit [Σιγά, Στέλιο!]{lang="el"}; Eleni beginnt mit der
-Anrede [Δανάη]{lang="el"}, und [Καλή ιδέα]{lang="el"} ist wieder Danai.
+**Typischer Fehler:** 7D oder 8E, weil die Frauenstimme dreimal hintereinander spricht. Eleni
+beginnt mit der Anrede [Δανάη]{lang="el"}, und [Καλή ιδέα]{lang="el"} ist wieder Danai. Bei 9
+führt ein wörtliches „muss“ zu (c); [πρέπει να]{lang="el"} mit Perfekt ist aber Vermutung.
 :::
 
 ::: {.callout-note collapse="true" .translation}
@@ -721,7 +750,7 @@ Pflanze, mit Wurzeln, Blättern, sogar Blüten, und sie lebt nur im Mittelmeer.
 
 — Aus drei Gründen. Erstens produzieren ihre Wiesen Sauerstoff und speichern Kohlenstoff.
 Zweitens werden dort viele Fische geboren und wachsen auf. Und drittens schützen sie die Küsten:
-Die Blätter, die im Winter an den Sand gespült werden, halten den Strand an seinem Platz.
+Die Blätter, die das Meer im Winter anspült, halten den Strand an seinem Platz.
 
 — Wir sollten sie also nicht wegräumen?
 
@@ -746,8 +775,8 @@ Mittelmeers verboten, über den Wiesen zu ankern.
 
 — Im Ernst, Danai? Und deine Arbeit?
 
-— Die Firma ist einverstanden, dass ich von zu Hause arbeite. Hauptsache, ich hab gutes Internet,
-und im Dorf gibt es das, hab ich geprüft.
+— Die Firma hat mir gesagt, dass ich von zu Hause arbeiten kann, Hauptsache, ich hab gutes
+Internet. Und im Dorf gibt es das, hab ich geprüft.
 
 — Mensch, Danai, super! Ich beneide dich jedenfalls. Hätte ich nicht die Kinder in der Schule,
 wäre ich auch längst weg.
@@ -761,11 +790,11 @@ Es regnet, es schneit, um sechs ist es dunkel, und keine Menschenseele ist unter
 
 — Omas Haus steht seit zehn Jahren leer. Ich richte es nach und nach her.
 
-— Und wenn du krank wirst? Das nächste Krankenhaus ist in Volos, eine Stunde mit dem Auto. Ich
+— Zehn Jahre leer? Da ist bestimmt das halbe Dach eingestürzt. Und wenn du krank wirst? Das nächste Krankenhaus ist in Volos, eine Stunde mit dem Auto. Ich
 hab außerdem gelesen, dass viele, die mit der Pandemie weggezogen sind, innerhalb von zwei Jahren
 zurückgekommen sind.
 
-— Na und, Stelios! Eine Stunde brauche ich hier auch zur Arbeit, mit dem Verkehr.
+— Na und, Stelios? Große Sache. Eine Stunde brauche ich hier auch zur Arbeit, mit dem Verkehr.
 
 — Ich würde dir jedenfalls eins sagen, Danai: Verkauf die Wohnung nicht. Vermiete sie für ein
 Jahr und schau, wie es dir geht. Bei den Mieten, die Athen jetzt hat, verdienst du sogar noch
@@ -776,7 +805,7 @@ was.
 — Schon gut, schon gut. Mach, was du willst. Aber damit du’s weißt: Ich komme jedes Wochenende.
 Wegen des Tsipouro, nicht wegen dir.
 
-— Du wirst sehen, Eleni. In einem Jahr zieht er als Erster hierher.
+— Du wirst sehen, Eleni. In einem Jahr zieht er als Erster um.
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -788,6 +817,7 @@ Wegen des Tsipouro, nicht wegen dir.
 | [η ρίζα]{lang="el"} | die Wurzel |
 | [αποθηκεύω]{lang="el"} | speichern, lagern ([η αποθήκη]{lang="el"}) |
 | [ο άνθρακας]{lang="el"} | der Kohlenstoff; die Kohle |
+| [ξεβράζω]{lang="el"} | (vom Meer) anspülen, an Land werfen |
 | [ρίχνω άγκυρα]{lang="el"} | ankern |
 | [ανοιχτόχρωμος, σκούρος]{lang="el"} | hell, dunkel (Farbe) |
 | [το σκάφος]{lang="el"} | das Boot, das Wasserfahrzeug |
@@ -799,11 +829,12 @@ Wegen des Tsipouro, nicht wegen dir.
 | [μετακομίζω, μετακόμισα]{lang="el"} | umziehen |
 :::
 
-## Schreiben und Sprechen: eine Selbsteinschätzung {#sec-abschluss-selbsteinschaetzung}
+## Schreiben, Sprechen, echtes Hören: eine Selbsteinschätzung {#sec-abschluss-selbsteinschaetzung}
 
 Die beiden produktiven Teile kann dieser Test nicht messen: Ob ein Text oder ein Gespräch
 gelingt, entscheidet ein Mensch, der zuhört oder liest. Was das Buch kann, ist eine ehrliche
-Liste. Die Punkte folgen den Aufgaben der Prüfung. Zähl, wie viele du mit „ja, ohne lange
+Liste. Die Punkte folgen den Aufgaben der Prüfung; eine dritte Liste prüft das Hören an echten
+Aufnahmen, denn die synthetische Stimme in Teil C schmeichelt. Zähl, wie viele du mit „ja, ohne lange
 nachzudenken“ beantwortest.
 
 **Schreiben** (in der Prüfung: ein persönlicher und ein formeller Text):
@@ -827,6 +858,18 @@ nachzudenken“ beantwortest.
 4. Ich kann, wenn mir ein Wort fehlt, es umschreiben, statt aufzugeben.
 5. Ich verstehe Rückfragen beim ersten Mal und kann selbst nachfragen ([Δηλαδή; Τι εννοείτε;]{lang="el"}).
 
+**Hören im Original** (schneller und unordentlicher als in Teil C):
+
+1. Ich verstehe ein Easy-Greek-Video mit griechischen Untertiteln im Wesentlichen und kann danach
+   sagen, worüber die Leute auf der Straße geredet haben.
+2. Ich folge einer Filmszene auf der zweiten Stufe der Untertitel-Leiter (griechische Untertitel)
+   und kann die Leitfaden-Fragen 1 bis 3 aus Kapitel 33 beantworten.
+3. Ich verstehe die Nachrichten von SBS Ελληνικά (Kapitel 28) in den Grundzügen: wer, was, wo.
+4. Ich erkenne im schnellen Gespräch Verschleifungen wie [πού ’σαι]{lang="el"} und Füllwörter,
+   ohne hängen zu bleiben (Kapitel 21).
+5. Ich merke, wenn jemand ironisch ist ([σιγά]{lang="el"}, [Σιγά τα λάχανα]{lang="el"}) oder eine
+   Redewendung benutzt, auch wenn ich sie nicht kenne (Kapitel 30).
+
 Vier oder fünf Ja pro Liste: Du bist dort vermutlich nah an B2. Weniger: Das ist bei Lernenden,
 die viel lesen und wenig sprechen, die Regel und kein Grund zur Sorge, aber der Bereich, in den
 die nächsten Monate gehören. Eine einfache Probe fürs Sprechen: Nimm dich mit dem Handy auf, wie
@@ -844,9 +887,9 @@ Zähl die Punkte pro Teil, jeweils höchstens 20:
 | Punkte in einem Teil | ungefähr |
 |---|---|
 | 17–20 | Dieser Teil sitzt, zumindest bei diesen Texten, auf B2-Niveau. |
-| 13–16 | B2 ist in Reichweite; die Fehler zeigen dir genau, wo. |
-| 9–12 | Ein solides B1. Die Kapitel aus der Tabelle unten noch einmal lesen, dann in einigen Wochen den Test wiederholen. |
-| unter 9 | Hier fehlt noch Grundlage; lies die Kapitel des Bereichs gründlich nach, bevor du weitermachst. |
+| 12–16 | Über der Bestehensgrenze der Prüfung (12 von 20), aber mit wenig Reserve; die Fehler zeigen dir genau, wo es noch hakt. |
+| 8–11 | Ein solides B1. Die Kapitel aus der Tabelle unten noch einmal lesen, dann in einigen Wochen den Test wiederholen. |
+| unter 8 | Hier fehlt noch Grundlage; lies die Kapitel des Bereichs gründlich nach, bevor du weitermachst. |
 
 Wie in der Prüfung zählt der **schwächste** Teil, nicht der Durchschnitt.
 
@@ -855,8 +898,10 @@ Wie in der Prüfung zählt der **schwächste** Teil, nicht der Durchschnitt.
 
 Der Schlüssel ist eine Einschätzung, keine Eichung. Der Test ist kürzer als die Prüfung, niemand
 hat ihn an einer Gruppe von Lernenden erprobt, und wer das Buch gelesen hat, kennt seinen Stil.
-Die synthetische Stimme ist leichter zu verstehen als die Aufnahmen der Prüfung. Einen
-belastbaren Maßstab bieten nur die Modellprüfungen des ΚΕΓ.
+Beim Hören wiegt das am schwersten: Die synthetische Stimme ist leichter zu verstehen als die
+Aufnahmen der Prüfung, und wer bei drei Antworten rät, trifft jede dritte. Ein Hörergebnis von 12
+oder 13 heißt deshalb eher „knapp darunter“. Einen belastbaren Maßstab bieten nur die
+Modellprüfungen des ΚΕΓ.
 :::
 
 **Wo nachlesen?** Fehler häufen sich meist in wenigen Bereichen:
@@ -865,15 +910,23 @@ belastbaren Maßstab bieten nur die Modellprüfungen des ΚΕΓ.
 |---|---|---|
 | [ο οποίος, που]{lang="el"} | 34.1, 34.4, 34.6 | 15 |
 | [θα, να]{lang="el"}, Aspekt | 34.3, 34.4, 34.6 | 5, 16, 17 |
-| Schwache Pronomen, Doppelung | 34.4 | 8, 20 |
-| Erzählzeiten, Irrealis, Wünsche | 34.2, 34.8 | 4, 14, 24, 25 |
-| Gelehrte Wörter, Nachrichtenstil | 34.1, 34.4 | 28 |
+| Schwache Pronomen, Doppelung | 34.4, 34.6 | 8, 20 |
+| Mediopassiv | 34.1, 34.3 | 13 |
+| Erzählzeiten | 34.2, 34.3 | 4, 14 |
+| Irrealis, Wünsche | 34.2, 34.8 | 24 |
+| Vermutungen, Modalität | 34.8 | 22, 25 |
+| Indirekte Rede | 34.1, 34.8 | 18 |
+| Partizip | 34.3 | 19 |
+| Präfixe, Wortbildung | 34.2, 34.5 | 26, 27 |
+| Gelehrte Wörter, Nachrichtenstil | 34.1, 34.4, 34.5 | 27, 28 |
 | Konnektoren | 34.1, 34.6 | 29 |
-| Steigerung, Artikel | 34.4 | 6, 12 |
-| Wortbildung, Endungen | 34.3, 34.5 | 6, 27 |
+| Endungen, Steigerung, Artikel | 34.4, 34.5 | 6, 12 |
+| Redewendungen, Ironie | 34.8 | 20, 30 |
 | Register, E-Mail | 34.6 | 31 |
 | Hören, sachlich | 34.7 | 18, 28 |
 | Hören, umgangssprachlich | 34.8 | 21, 33 |
+| Wortschatzlücken | alle | kein Kapitel, sondern Menge: siehe @sec-abschluss-weiter, dazu das ΛΚΝ |
+| Inhalt falsch, obwohl die Grammatik klar war | 34.2, 34.7 | die Texte „Zum Lesen“ am Kapitelende langsam lesen, dann viel Leichtes |
 
 ## Wie es weitergeht {#sec-abschluss-weiter}
 
@@ -887,21 +940,28 @@ Für jede Sorte gibt es eine Quelle, die du aus dem Buch kennst:
 - **[ERTflix](https://www.ertflix.gr):** Nachrichten, Dokumentationen, Serien und Filme des
   öffentlichen Rundfunks, viele mit griechischen Untertiteln (Kapitel 33).
 - **Das [Λεξικό της Κοινής Νεοελληνικής](https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/index.html)**
-  (ΛΚΝ) des Triantafyllidis-Instituts: das einsprachige Wörterbuch mit Betonung, Register und
-  Beispielen. Ab jetzt lohnt es sich, Wörter dort nachzuschlagen statt in einem zweisprachigen.
+  (ΛΚΝ) des Triantafyllidis-Instituts, das einsprachige Wörterbuch aus den Kapiteln 22 und 30.
+  Die Grundform ins Suchfeld eingeben; der Eintrag zeigt Betonung, Beugung, Stilmarken wie
+  umgangssprachlich oder gelehrt und Beispielsätze. Ab jetzt lohnt es sich, dort nachzuschlagen
+  statt in einem zweisprachigen Wörterbuch.
 - Die **[Seite des ΚΕΓ](https://www.greek-language.gr/certification/)** mit den
   Modellprüfungen, falls du das Zertifikat ablegen willst.
 
 Eine Woche, die funktioniert: zweimal ein Easy-Greek-Video intensiv, einmal einen SBS-Beitrag,
-eine Serienfolge auf ERTflix nach der Untertitel-Leiter aus Kapitel 33, jeden Tag die
-Anki-Karten. Und so oft es geht ein echtes Gespräch, am Telefon, im Tandem oder am Tisch einer
-Taverne.
+eine Serienfolge auf ERTflix mit den Stufen der Untertitel-Leiter aus Kapitel 21 (bei ganzen
+Filmen die Leiter für Filme aus Kapitel 33), jeden Tag die Anki-Karten. Fürs Sprechen, den
+wahrscheinlich schwächsten Teil, zwei feste Termine: einmal zehn Minuten Shadowing wie in
+Kapitel 21 und einmal eine zweiminütige Handy-Aufnahme zu einer Sprechfrage aus den
+Modellprüfungen des ΚΕΓ, am nächsten Tag angehört. Und so oft es geht ein echtes Gespräch, am
+Telefon, im Tandem oder am Tisch einer Taverne. Wer Abwechslung braucht, hört zwischendurch
+wieder Kretisch und Zypriotisch wie in Kapitel 32. Nach einigen Monaten lohnt sich ein zweiter Test, diesmal
+mit einer vollständigen Modellprüfung des ΚΕΓ.
 
 ## Das Wichtigste {#sec-abschluss-wichtigste}
 
 - Das B2-Zertifikat des ΚΕΓ prüft fünf Teile mit je 20 Punkten, und jeder muss einzeln bestanden
-  werden. Dieser Test bildet Lesen, Sprachgebrauch und Hören nach; Schreiben und Sprechen schätzt
-  du selbst ein.
+  werden, mit mindestens 60 %, also 12 Punkten. Dieser Test bildet Lesen, Sprachgebrauch und Hören nach; Schreiben, Sprechen und
+  das Hören echter Aufnahmen schätzt du selbst ein.
 - Der schwächste Teil zeigt, wo die nächsten Wochen hingehören; die Tabelle in
   @sec-abschluss-auswertung nennt die Kapitel dazu.
 - Nach dem Buch: Menge statt neuer Regeln. Hören mit Easy Greek, SBS und ERTflix, nachschlagen im
