@@ -26,7 +26,7 @@
 | 20 Mit Nachdruck: starke Pronomen und Doppelung | veröffentlicht | Welle 9; Audio vollständig |
 | 21 So spricht man wirklich: gesprochene Sprache | veröffentlicht | Welle 10; Audio läuft |
 | 22 Vielleicht, wahrscheinlich, sicher: Modalität | veröffentlicht | Welle 9; Audio läuft |
-| 23 Thessaloniki und Zwischenbilanz | im Review | Welle 11; Übungen fertig |
+| 23 Thessaloniki und Zwischenbilanz | Überarbeitung | Welle 11; beide Reviews da |
 | 24 Was wäre, wenn: Irrealis und Wünsche | fertig | Welle 10; wartet auf 23 |
 | 25 Er muss gegangen sein: Vermutungen über die Vergangenheit | Entwurf | Welle 11 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
@@ -45,3 +45,4 @@
 - Kapitel 16 (#sec-nebensatz-na-aspekt, „Die να-Form kennt keine Vergangenheit“): nach Veröffentlichung von 22 per /revise einen Vorverweis auf die Ausnahme (Kapitel 18 φέρεται να, Kapitel 22 πρέπει να έφυγε) setzen, mit Änderungsvermerk.
 - Zitat-Zeichensetzung (Punkt nach »): in älteren Kapiteln noch 14-mal innen (3 ×6, 4, 6, 8 ×2, 10, 12, 14, 16); bei Gelegenheit angleichen (Achtung: ändert Audio-Schlüssel in lang-Blöcken).
 - Kapitel 9: „auf dem Peloponnes“ → „auf der Peloponnes“ (Mehrheit im Buch, Glossar).
+- Kapitel 8: σου ευχαριστώ mit Sternchen → „nicht Standard“ (regional), wie Kapitel 23.
