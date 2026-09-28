@@ -633,7 +633,7 @@ ausgedehnt.
    [*estoy caminando*]{lang="es"})
 2. Kein Gerundium als Nomen: [Μου αρέσει να περπατάω στα βουνά.]{lang="el"} oder [Μου αρέσει το
    περπάτημα στα βουνά.]{lang="el"}
-3. [Μην ξέροντας τον δρόμο, γυρίσαμε πίσω.]{lang="el"}
+3. Verneinung mit [μην]{lang="el"}: [Μην ξέροντας τον δρόμο, γυρίσαμε πίσω.]{lang="el"}
 4. Pronomen dahinter: [Λέγοντάς το, έφυγε.]{lang="el"} Französisch [*en le disant*]{lang="fr"} verführt zur
    falschen Stellung.
 5. Der zweite Akzent fehlt: [λέγοντάς μου]{lang="el"}.
