@@ -1,0 +1,701 @@
+---
+title: "Wenn … dann: realer Konditional und Zeitsätze"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+- **[να]{lang="el"}-Form** (Kapitel 5): Foto aus dem perfektiven Stamm ohne Augment
+  ([να φτάσω, να βρεις, να ρωτήσουν]{lang="el"}), Film = Präsens ([να ψάχνω]{lang="el"}).
+- **Zeitsätze** (Kapitel 16): Nach [όταν, μόλις, αφού]{lang="el"} steht bei Zukunftsbezug die
+  perfektive Form **ohne [θα]{lang="el"}** ([Μόλις φτάσω, θα σε πάρω.]{lang="el"}); nach
+  [πριν, μέχρι να]{lang="el"} immer die [να]{lang="el"}-Form.
+:::
+
+## Αν δεν έχεις ΑΦΜ, δεν υπάρχεις {#sec-bedingung-einstieg}
+
+Thessaloniki, ein Café in der Oberstadt. Jemand ist vor einer Woche für eine neue Stelle
+hergezogen und trifft eine griechische Kollegin.
+
+::: {lang="el"}
+— Λοιπόν; Πώς πάει η μετακόμιση;
+
+— Άσ’ τα. Βρήκα διαμέρισμα στην Άνω Πόλη, με θέα σε όλη τη Θεσσαλονίκη. Αλλά ο ιδιοκτήτης
+ζητάει ΑΦΜ.
+
+— Φυσικά. Αν δεν έχεις ΑΦΜ, δεν υπάρχεις.
+
+— Και πού βγάζω ΑΦΜ;
+
+— Στην εφορία. Αν ξυπνήσεις νωρίς και είσαι εκεί στις οχτώ, θα τελειώσεις σε μια ώρα. Αν
+φτάσεις στις έντεκα, πάρε μαζί σου ένα βιβλίο.
+
+— Και τι χαρτιά θέλουν;
+
+— Διαβατήριο και κάτι με τη διεύθυνσή σου.
+
+— Τη διεύθυνσή μου; Για να έχω διεύθυνση, πρέπει να νοικιάσω το διαμέρισμα. Και για να το
+νοικιάσω, θέλω ΑΦΜ.
+
+— Καλώς ήρθες στην Ελλάδα.
+
+— Σοβαρά τώρα. Τι κάνω;
+
+— Μην ανησυχείς. Όταν φτάσεις στο γκισέ, χαμογέλα. Αν σε ρωτήσουν κάτι δύσκολο, πάρε με
+τηλέφωνο.
+
+— Κι αν δε με πιστέψουν;
+
+— Εξαρτάται. Αν πέσεις σε καλό υπάλληλο, θα σε βοηθήσει. Αν όχι, έχω έναν ξάδερφο στην εφορία.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Und? Wie läuft der Umzug?
+
+— Frag nicht. Ich habe eine Wohnung in der Oberstadt gefunden, mit Blick über ganz Thessaloniki.
+Aber der Vermieter will eine Steuernummer.
+
+— Natürlich. Wenn du keine Steuernummer hast, existierst du nicht.
+
+— Und wo bekomme ich eine?
+
+— Beim Finanzamt. Wenn du früh aufstehst und um acht dort bist, bist du in einer Stunde fertig.
+Wenn du um elf ankommst, nimm dir ein Buch mit.
+
+— Und welche Unterlagen wollen die?
+
+— Pass und irgendwas mit deiner Adresse.
+
+— Meiner Adresse? Um eine Adresse zu haben, muss ich die Wohnung mieten. Und um sie zu mieten,
+brauche ich die Steuernummer.
+
+— Willkommen in Griechenland.
+
+— Jetzt im Ernst. Was mache ich?
+
+— Keine Sorge. Wenn du am Schalter bist, lächle. Wenn sie dich etwas Schwieriges fragen, ruf
+mich an.
+
+— Und wenn sie mir nicht glauben?
+
+— Kommt drauf an. Wenn du an einen netten Beamten gerätst, hilft er dir. Wenn nicht, habe ich
+einen Cousin beim Finanzamt.
+:::
+
+Der **[ΑΦΜ]{lang="el"}** [afiˈmi] ([Αριθμός Φορολογικού Μητρώου]{lang="el"}) ist die neunstellige
+Steuernummer, und ohne ihn geht in Griechenland tatsächlich fast nichts: kein Mietvertrag, kein
+Bankkonto, kein Handyvertrag. Wer sich im Kreis geschickt fühlt, denkt an den Passierschein A38
+aus *Asterix erobert Rom*; die Auflösung dieses Kreises kommt in der Hörspur.
+
+Grammatisch ist der Dialog eine Kette von Bedingungen. Das kleine [αν]{lang="el"} [an] „wenn,
+falls“ kennst du seit Kapitel 5 als Vokabel, und in früheren Kapiteln stand es schon oft da:
+[Αν γίνει κάτι, πάρε με τηλέφωνο.]{lang="el"} (Kapitel 9), [Αν φύγουμε νωρίτερα, θα φτάσουμε
+στις εφτά.]{lang="el"} (Kapitel 12). Jetzt kommt die Regel dazu. Achte im Dialog auf die Verben
+hinter [αν]{lang="el"}: [ξυπνήσεις, φτάσεις, ρωτήσουν, πιστέψουν, πέσεις]{lang="el"}. Das sind
+genau die Formen, die du von [θα]{lang="el"} und [να]{lang="el"} kennst. Nur ein Verb steht im
+Präsens: [αν δεν έχεις]{lang="el"}.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο ΑΦΜ]{lang="el"} | [o afiˈmi] | die Steuernummer (umg. auch [το ΑΦΜ]{lang="el"}) |
+| [η εφορία]{lang="el"} | [i efoˈria] | das Finanzamt (umg.) |
+| [η μετακόμιση]{lang="el"} | [i metaˈkomisi] | der Umzug |
+| [μετακομίζω, μετακόμισα]{lang="el"} | [metakoˈmizo], [metaˈkomisa] | umziehen |
+| [το διαμέρισμα]{lang="el"} | [to ðʝaˈmerizma] | die Wohnung |
+| [ο ιδιοκτήτης, η ιδιοκτήτρια]{lang="el"} | [o iðʝoˈktitis], [i iðʝoˈktitria] | der Eigentümer, die Eigentümerin; Vermieter(in) |
+| [νοικιάζω, νοίκιασα]{lang="el"} | [niˈcazo], [ˈnicasa] | mieten; vermieten |
+| [ζητάω, ζήτησα]{lang="el"} | [ziˈtao], [ˈzitisa] | verlangen, bitten um; fragen nach |
+| [το χαρτί, τα χαρτιά]{lang="el"} | [to xarˈti], [ta xarˈtʝa] | das Papier; Pl. auch: die Unterlagen |
+| [το διαβατήριο]{lang="el"} | [to ðʝavaˈtirio] | der Reisepass |
+| [η διεύθυνση]{lang="el"} | [i ðiˈefθinsi] | die Adresse; die Leitung (einer Firma) |
+| [το γκισέ]{lang="el"} | [to ɟiˈse] | der Schalter |
+| [ο/η υπάλληλος]{lang="el"} | [iˈpalilos] | der/die Angestellte; am Amt: Beamter, Beamtin |
+| [Εξαρτάται.]{lang="el"} | [eksarˈtate] | Kommt drauf an. |
+:::
+
+<!-- CHECK: Genus von ΑΦΜ/ΑΜΚΑ: amtlich „ο ΑΦΜ“, „ο ΑΜΚΑ“ (ο αριθμός), umgangssprachlich häufig „το ΑΦΜ/ΑΜΚΑ“? Aussprache [afiˈmi] (als „αφιμί“) prüfen. -->
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η Άνω Πόλη]{lang="el"} | die Oberstadt von Thessaloniki (*Ano Poli*) |
+| [η θέα]{lang="el"} | die Aussicht |
+| [βγάζω ΑΦΜ]{lang="el"} | eine Steuernummer beantragen und bekommen |
+| [χαμογελάω, χαμογέλασα]{lang="el"} | lächeln |
+| [πέφτω σε]{lang="el"} | (zufällig) an jemanden geraten |
+| [ο ξάδερφος]{lang="el"} | der Cousin (Kapitel 7) |
+:::
+
+## Falls: der Bauplan mit [αν]{lang="el"} {#sec-bedingung-an}
+
+Ein **Bedingungssatz** ([ο υποθετικός λόγος]{lang="el"}) hat zwei Teile: die **Bedingung** mit
+[αν]{lang="el"} und die **Folge** im Hauptsatz. Dieses Kapitel behandelt den **realen**
+Bedingungssatz: Die Bedingung kann wirklich eintreten. Den irrealen („wenn ich einen ΑΦΜ hätte“)
+bringt Kapitel 24.
+
+Aus dem Spanischen und Französischen kennst du die Grundregel: Nach *si* steht nie das Futur.
+[*Si llegas a las ocho, terminarás en una hora.*]{lang="es"} [*Si tu arrives à huit heures, tu
+finiras en une heure.*]{lang="fr"} Die Zukunft steckt nur im Hauptsatz. Griechisch macht es
+genauso, mit einem Unterschied: Hinter [αν]{lang="el"} wählst du den Aspekt.
+
+| Bedingung | Folge |
+|---|---|
+| [Αν δεν έχεις ΑΦΜ,]{lang="el"} (Präsens) | [δεν υπάρχεις.]{lang="el"} (Präsens) |
+| [Αν ξυπνήσεις νωρίς,]{lang="el"} (Foto) | [θα τελειώσεις σε μια ώρα.]{lang="el"} ([θα]{lang="el"}) |
+| [Αν σε ρωτήσουν κάτι,]{lang="el"} (Foto) | [πάρε με τηλέφωνο.]{lang="el"} (Imperativ) |
+| [Αν χάσεις το χαρτί,]{lang="el"} (Foto) | [πρέπει να ξαναπάς.]{lang="el"} ([πρέπει να]{lang="el"}) |
+
+Im Foto steht hinter [αν]{lang="el"} die perfektive Form, die du von [θα]{lang="el"} und
+[να]{lang="el"} kennst: [αν ξυπνήσεις]{lang="el"} wie [να ξυπνήσεις]{lang="el"}, nur ohne
+[να]{lang="el"}. Die Folge nimmt, was der Sinn verlangt. Die Reihenfolge ist frei:
+[Θα σε βοηθήσω, αν μου πεις τι θέλεις.]{lang="el"} „Ich helfe dir, wenn du mir sagst, was du
+willst.“
+
+### Foto oder Film nach [αν]{lang="el"} {#sec-bedingung-aspekt}
+
+Spanisch sagt [*si llueve*]{lang="es"} für beides: „wenn es regnet“ und „falls es regnen
+sollte“. Griechisch trennt:
+
+- [Αν βρέχει, πάρε ομπρέλα.]{lang="el"} – Wenn es (gerade) regnet, nimm einen Schirm mit.
+- [Αν βρέξει αύριο, θα μείνουμε σπίτι.]{lang="el"} – Falls es morgen regnet, bleiben wir zu Hause.
+
+Oder mit dem Paar aus Kapitel 3, [ψάχνω]{lang="el"} (Vorgang) und [βρίσκω]{lang="el"}
+(Ergebnis):
+
+- [Αν ψάχνεις σπίτι, ρώτα τον Νίκο.]{lang="el"} – Wenn du (gerade) eine Wohnung suchst, frag Nikos.
+- [Αν βρεις σπίτι, πες μου.]{lang="el"} – Wenn du eine Wohnung findest, sag mir Bescheid.
+
+**Film** (Präsens) nimmst du, wenn die Bedingung ein Zustand ist oder etwas, das schon läuft oder
+sich wiederholt: [αν είσαι κουρασμένος, αν ψάχνεις, αν μου γράφεις κάθε εβδομάδα]{lang="el"}.
+Verben ohne perfektiven Stamm stehen ohnehin im Präsens: [αν έχεις χρόνο, αν ξέρεις]{lang="el"};
+ebenso fast immer [αν θέλεις, αν μπορείς]{lang="el"}.
+
+**Foto** nimmst du, wenn die Bedingung ein Ereignis ist, das erst eintreten muss, bevor die Folge
+kommt: [αν βρέξει, αν βρεις, αν σε ρωτήσουν]{lang="el"}. Das gilt meist für die Zukunft, aber
+auch für allgemeine Regeln. In Kapitel 7 stand über den Namenstag: [Αν το πει, γελάνε
+όλοι.]{lang="el"} „Wenn einer das sagt, lachen alle.“ Jedes Mal ein einzelnes Ereignis, danach
+die Folge.
+
+<!-- CHECK: Kapitel 7 Originalsatz lautet „Αν το πει, γελάει …“ – Zitat an den tatsächlichen Wortlaut anpassen. -->
+
+::: {.callout-important}
+## Merke
+
+- **Bedingung:** [αν]{lang="el"} + Präsens für einen Zustand oder Vorgang (Film), [αν]{lang="el"}
+  + perfektive Form für ein Ereignis, das erst eintreten muss (Foto). Faustregel: Erst passiert
+  es, dann folgt etwas: Foto.
+- **Folge:** [θα]{lang="el"}, Imperativ, Präsens oder [πρέπει να]{lang="el"}, je nach Sinn.
+:::
+
+**Und die Vergangenheit?** Weiß der Sprecher nicht, was passiert ist, steht nach [αν]{lang="el"}
+ganz normal der Aorist oder das Imperfekt: [Αν έφυγε στις οχτώ, τώρα είναι στην
+εφορία.]{lang="el"} „Wenn er um acht los ist, ist er jetzt beim Finanzamt.“ Anders klingt
+[Αν είχα ΑΦΜ, θα νοίκιαζα το σπίτι.]{lang="el"}: [θα]{lang="el"} + Imperfekt in der Folge ist das
+Signal für den irrealen Satz, „wenn ich hätte, würde ich“ (Kapitel 24). Bis dahin reicht es, ihn
+zu erkennen.
+
+<!-- EXERCISE: Aspekt nach αν wählen (Präsens oder perfektive Form), kurze Alltagssituationen rund um Umzug und Amt, Auswahl mit Begründung (1/2), inkl. Verben ohne Wahl (έχω, είμαι, ξέρω), Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η ομπρέλα]{lang="el"} | [i omˈbrela] | der Regenschirm |
+| [κουρασμένος, -η, -ο]{lang="el"} | [kurazˈmenos] | müde |
+:::
+
+### Kein [θα]{lang="el"} nach [αν]{lang="el"} {#sec-bedingung-kein-tha}
+
+Deutsch und Englisch verführen: „falls es morgen regnen wird“, *if it will rain*. Griechisch
+lässt das nicht zu, genauso wenig wie das Spanische ([*\*si lloverá*]{lang="es"}):
+
+- \*[Αν θα βρέξει αύριο, θα μείνουμε σπίτι.]{lang="el"}
+- [Αν βρέξει αύριο, θα μείνουμε σπίτι.]{lang="el"}
+
+Das [θα]{lang="el"} gehört in die Folge. Dieselbe Regel kennst du von [όταν]{lang="el"}
+(Kapitel 16).
+
+Es gibt aber ein [αν]{lang="el"}, hinter dem [θα]{lang="el"} richtig ist: [αν]{lang="el"} als
+„ob“. [Δεν ξέρω αν θα έρθει.]{lang="el"} „Ich weiß nicht, ob er kommt.“ Das Spanische macht es
+wieder genauso: [*No sé si vendrá.*]{lang="es"} Das Kapitel 10 hatte ein Beispiel: [Αν τον
+θυμάμαι;]{lang="el"} „Ob ich mich an ihn erinnere?“ Die Probe: Lässt sich „ob“ einsetzen, ist es
+eine indirekte Frage (Kapitel 18), und [θα]{lang="el"} darf stehen. Passt nur „falls“, kein
+[θα]{lang="el"}.
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Im Gespräch hörst du gelegentlich [αν θα]{lang="el"} auch in Bedingungen, meist wenn es um einen
+Plan geht, der schon jetzt feststeht: [Αν θα αργήσεις, πάρε με τηλέφωνο.]{lang="el"} „Falls du
+vorhast, später zu kommen, ruf an.“ Grammatiken beschreiben das als möglich, aber markiert. Du
+musst es verstehen, nicht nachahmen; [Αν αργήσεις]{lang="el"} ist immer richtig.
+:::
+
+<!-- CHECK: „αν θα“ in realen Bedingungssätzen (Absicht/Vorhersage im Moment des Sprechens): Beschreibung in HMP-CG prüfen; Beispiel „Αν θα αργήσεις, πάρε με τηλέφωνο“ idiomatisch? -->
+
+<!-- EXERCISE: Fehler finden und laut korrigieren (*αν θα, falscher Aspekt nach αν, θα in der Bedingung vs. αν = ob mit korrektem θα), 6–8 Sätze, Schwierigkeit 2 -->
+
+## Wenn: [αν]{lang="el"} oder [όταν]{lang="el"}? {#sec-bedingung-an-otan}
+
+Das deutsche „wenn“ deckt zwei Dinge ab, für die Englisch *if/when*, Spanisch *si/cuando* und
+Französisch *si/quand* sagen. Griechisch trennt ebenfalls:
+
+- [Όταν βγάλω ΑΦΜ, θα ανοίξω λογαριασμό.]{lang="el"} – Wenn ich die Steuernummer habe, eröffne
+  ich ein Konto. (Das passiert, nur wann, ist offen.)
+- [Αν δε μου δώσουν ΑΦΜ, θα γυρίσω στο Μόναχο.]{lang="el"} – Wenn sie mir keine geben, gehe ich
+  zurück nach München. (Vielleicht passiert es nicht.)
+
+Ein \*[Όταν δε μου δώσουν ΑΦΜ …]{lang="el"} klänge, als stünde die Ablehnung schon fest.
+
+Die Probe: Lässt sich „falls“ einsetzen, ohne dass sich der Sinn ändert, nimm [αν]{lang="el"}. Ist
+sicher, dass es passiert, nimm [όταν]{lang="el"}. Manchmal verrät die Wahl die Erwartung des
+Sprechers:
+
+- [Όταν έρθεις στη Θεσσαλονίκη, πάρε με τηλέφωνο.]{lang="el"} – Du kommst ja sowieso.
+- [Αν έρθεις ποτέ στη Θεσσαλονίκη, πάρε με τηλέφωνο.]{lang="el"} – Falls es dich je hierher verschlägt.
+
+In der Vergangenheit ist „wenn“ im Sinn von „jedes Mal, wenn“ immer [όταν]{lang="el"}, wie in
+Kapitel 4: [Όταν πήγαινα στην εφορία, περίμενα ώρες.]{lang="el"}
+
+Eine gute Nachricht zum Schluss: Hier ist Griechisch einfacher als Spanisch. Dort heißt es
+[*si llegas*]{lang="es"} (Indikativ), aber [*cuando llegues*]{lang="es"} (Subjuntivo). Griechisch
+nimmt nach beiden Wörtern dieselbe Form: [αν φτάσεις, όταν φτάσεις]{lang="el"}.
+
+::: {.callout-warning}
+## Achtung
+
+„Wenn“ ist nicht automatisch [αν]{lang="el"}. Bevor du [αν]{lang="el"} sagst, mach die
+„falls“-Probe: „Wenn ich in Rente bin“ ist [όταν]{lang="el"}, „wenn ich Glück habe“ ist
+[αν]{lang="el"}.
+:::
+
+<!-- EXERCISE: αν oder όταν? Deutsche wenn-Sätze aus der Umzugssituation zuordnen, mit falls-Probe, danach 3–4 Sätze mündlich übersetzen, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο λογαριασμός]{lang="el"} | [o loɣarʝazˈmos] | das Konto; die Rechnung |
+| [ανοίγω λογαριασμό]{lang="el"} | [aˈniɣo loɣarʝazˈmo] | ein Konto eröffnen |
+| [τυχερός, -ή, -ό]{lang="el"} | [tiçeˈros] | glücklich (mit Glück); [είμαι τυχερός]{lang="el"} Glück haben |
+:::
+
+## Der Plan in Schritten: Zeitsätze mit Zukunft {#sec-bedingung-zeit}
+
+Am Abend kommt eine Nachricht von der Kollegin:
+
+::: {lang="el"}
+Λοιπόν, το σχέδιο για αύριο. Μόλις ανοίξει η εφορία, μπες πρώτος. Αφού πάρεις ΑΦΜ, πήγαινε στην
+τράπεζα. Μέχρι να σου δώσουν κάρτα, πλήρωνε με μετρητά. Πριν υπογράψεις το συμβόλαιο, διάβασέ το
+προσεκτικά. Όσο είσαι στην ουρά, μη μιλάς για πολιτική. Και όταν τελειώσεις με όλα, κερνάς εσύ.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+Also, der Plan für morgen. Sobald das Finanzamt aufmacht, geh als Erster rein. Nachdem du die
+Steuernummer hast, geh zur Bank. Bis sie dir eine Karte geben, zahl bar. Bevor du den Vertrag
+unterschreibst, lies ihn gründlich. Solange du in der Schlange stehst, rede nicht über Politik.
+Und wenn du mit allem fertig bist, gibst du einen aus.
+:::
+
+Jeder Nebensatz zeigt in die Zukunft, keiner hat ein [θα]{lang="el"}. Die Zukunft steckt in den
+Hauptsätzen, hier lauter Imperative ([μπες, πήγαινε, πλήρωνε, διάβασέ το]{lang="el"}). Neu gegenüber
+Kapitel 16 ist die Frage nach dem Aspekt:
+
+- **Foto** für einen Schritt, der abgeschlossen sein muss, bevor der nächste kommt:
+  [μόλις ανοίξει, αφού πάρεις, όταν τελειώσεις]{lang="el"}. Das ist der Normalfall.
+- **Film** (Präsens) für einen Zustand, der eine Weile dauert: [όσο είσαι στην ουρά]{lang="el"}.
+
+Auch [όταν]{lang="el"} kann beides:
+
+- [Όταν φτάσεις στην εφορία, πάρε αριθμό.]{lang="el"} – Wenn du ankommst (dann), zieh eine Nummer.
+- [Όταν είσαι στην εφορία, μη βιάζεσαι.]{lang="el"} – Wenn (während) du dort bist, sei nicht in Eile.
+
+Spanisch unterscheidet ähnlich: [*cuando llegues*]{lang="es"}, aber [*cuando estés*]{lang="es"}.
+
+**[όσο]{lang="el"}** [ˈoso] kennst du aus [τόσο … όσο]{lang="el"} (Kapitel 12). Vor einem Satz heißt
+es „solange“ und nimmt fast immer das Präsens: [Όσο περιμένεις, συμπλήρωσε την
+αίτηση.]{lang="el"} „Solange du wartest, füll den Antrag aus.“ Verneint: [Όσο δεν έχεις ΑΦΜ, δεν
+υπάρχεις.]{lang="el"} „Solange du keine Steuernummer hast, existierst du nicht.“
+
+| Konjunktion | mit Zukunftsbezug | Beispiel |
+|---|---|---|
+| [όταν]{lang="el"} | Foto; Film für Zustände | [Όταν τελειώσεις, …]{lang="el"} |
+| [μόλις, αφού]{lang="el"} | Foto | [Αφού πάρεις ΑΦΜ, …]{lang="el"} |
+| [πριν, μέχρι να]{lang="el"} | Foto | [Πριν υπογράψεις, …]{lang="el"} |
+| [όσο]{lang="el"} | Präsens | [Όσο είσαι στην ουρά, …]{lang="el"} |
+| [αν]{lang="el"} | Foto; Film für Zustände | [Αν βρεις σπίτι, …]{lang="el"} |
+
+::: {.callout-important}
+## Merke
+
+Zeigt ein Nebensatz mit [αν, όταν, μόλις, αφού, πριν, μέχρι να, όσο]{lang="el"} in die Zukunft,
+steht darin **kein [θα]{lang="el"}**. Das [θα]{lang="el"} gehört in den Hauptsatz.
+:::
+
+<!-- EXERCISE: Lückentext „Checkliste für den Umzug“: Verben in die richtige Form nach όταν, μόλις, αφού, πριν, μέχρι να, όσο, αν setzen (perfektive Form / Präsens, kein θα), Begründung im Kopf, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το σχέδιο]{lang="el"} | [to ˈsçeðio] | der Plan |
+| [όσο]{lang="el"} | [ˈoso] | solange (+ Präsens) |
+| [το συμβόλαιο]{lang="el"} | [to simˈvoleo] | der Vertrag |
+| [προσεκτικά]{lang="el"} | [prosektiˈka] | sorgfältig, vorsichtig |
+| [η αίτηση]{lang="el"} | [i ˈetisi] | der Antrag; [κάνω αίτηση]{lang="el"} einen Antrag stellen |
+| [συμπληρώνω, συμπλήρωσα]{lang="el"} | [sibliˈrono], [siˈblirosa] | ausfüllen; ergänzen |
+| [κερνάω, κέρασα]{lang="el"} | [cerˈnao], [ˈcerasa] | einladen, ausgeben (Getränk, Essen) |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [μπες πρώτος]{lang="el"} | geh als Erster rein (Kapitel 9) |
+| [η κάρτα]{lang="el"} | die (Bank-)Karte |
+| [η πολιτική]{lang="el"} | die Politik |
+| [παίρνω αριθμό]{lang="el"} | eine Wartenummer ziehen |
+:::
+
+## Versteckte Bedingungen: [όποιος, ό,τι, όπου]{lang="el"} {#sec-bedingung-opoios}
+
+Im Quiz aus Kapitel 15 hieß es: [Όποιος βρει και τις τρεις, κερδίζει δύο
+εισιτήρια.]{lang="el"} „Wer alle drei findet, gewinnt zwei Karten.“ Da stand [βρει]{lang="el"},
+die perfektive Form, ohne [να]{lang="el"} und ohne [θα]{lang="el"}. Der Grund: In
+[όποιος]{lang="el"} steckt eine Bedingung. [Όποιος βρει …]{lang="el"} heißt „falls jemand
+findet, dann …“.
+
+Dasselbe gilt für die Verwandten auf [ό-]{lang="el"}, sobald sie auf etwas Künftiges oder
+Allgemeines zeigen:
+
+- [Ό,τι χρειαστείς, πάρε με τηλέφωνο.]{lang="el"} – Was immer du brauchst, ruf mich an.
+- [Όπου κι αν πας, θα σου ζητήσουν ΑΦΜ.]{lang="el"} – Wohin du auch gehst, man wird dich nach der
+  Steuernummer fragen.
+- [Όποτε περάσεις από εδώ, έλα για καφέ.]{lang="el"} – Wann immer du vorbeikommst, komm auf einen Kaffee.
+- [Ό,τι πεις.]{lang="el"} – Wie du meinst. (Kapitel 15: wörtlich „was immer du sagst“)
+
+Auch der Abschiedsgruß aus Kapitel 5, [Καλό ταξίδι, όπως κι αν έρθεις]{lang="el"} „wie auch
+immer du kommst“, gehört hierher. Ein [κι αν]{lang="el"} dahinter verstärkt das „auch immer“.
+
+Der Aspekt folgt denselben Regeln wie nach [αν]{lang="el"}: Foto für ein Ereignis, Präsens für
+Zustände und Allgemeines ([Όποιος μπορεί, κοιμάται.]{lang="el"} aus Kapitel 15;
+[Έλα όποτε θέλεις.]{lang="el"}). Spanisch setzt an genau diesen Stellen den Subjuntivo:
+[*quien encuentre, lo que necesites, donde vayas*]{lang="es"}.
+
+::: {.callout-tip}
+## Tipp
+
+Drei Wörter, die man leicht verwechselt: [όποτε]{lang="el"} [ˈopote] „wann immer“,
+[πότε;]{lang="el"} [ˈpote] „wann?“, [ποτέ]{lang="el"} [poˈte] „nie“ (Kapitel 1). Das
+[ό-]{lang="el"} am Anfang ist wie bei [όποιος, όπου, όπως]{lang="el"} das Zeichen für „-immer“.
+:::
+
+<!-- EXERCISE: Umformen: αν-Sätze in Sätze mit όποιος / ό,τι / όπου / όποτε umwandeln und umgekehrt, laut; plus Zuordnen deutscher Bedeutungen, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [όποτε]{lang="el"} | [ˈopote] | wann immer, jedes Mal wenn |
+| [όπου κι αν]{lang="el"} | [ˈopu c an] | wo(hin) auch immer |
+| [Ό,τι χρειαστείς.]{lang="el"} | [ˈoti xriaˈstis] | Was immer du brauchst (ich bin da). |
+:::
+
+## Mehr als „wenn“: [άμα, εκτός αν, αλλιώς]{lang="el"} {#sec-bedingung-varianten}
+
+Bedingungen haben im Griechischen noch ein paar Werkzeuge, die du in Gesprächen und Filmen
+ständig hörst:
+
+- **[άμα]{lang="el"}** [ˈama] ist umgangssprachlich für [αν]{lang="el"}, gelegentlich auch für
+  [όταν]{lang="el"}, mit denselben Formen: [Άμα δεν έχεις ΑΦΜ, ξέχνα το.]{lang="el"} „Wenn du
+  keine Steuernummer hast, vergiss es.“
+- **[εκτός αν]{lang="el"}** „es sei denn“: [Δε σου ανοίγουν λογαριασμό, εκτός αν έχεις
+  ΑΦΜ.]{lang="el"}
+- **[αν όχι]{lang="el"}** „wenn nicht“ und **[αλλιώς]{lang="el"}** „sonst“: [Έχεις ραντεβού; Αν
+  όχι, κλείσε ένα.]{lang="el"} [Φέρε το διαβατήριο, αλλιώς δε σε εξυπηρετούν.]{lang="el"}
+- **[Κι αν …;]{lang="el"}** „Und wenn …? Was, wenn …?“, wie [Κι αν αύριο έχει
+  απεργία;]{lang="el"} in Kapitel 5.
+- **[σε περίπτωση που]{lang="el"}** „falls, im Fall, dass“ klingt nach Amt:
+  [Σε περίπτωση που δεν έχετε κωδικούς, …]{lang="el"}
+- Feste Wendungen: **[αν χρειαστεί]{lang="el"}** „falls nötig“, **[αν θέλει ο Θεός]{lang="el"}**
+  „so Gott will“, und aus Kapitel 10 der Fatalismus [Αν είναι να γίνει, θα γίνει.]{lang="el"}
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [άμα]{lang="el"} | [ˈama] | wenn, falls (umg.) |
+| [εκτός αν]{lang="el"} | [ekˈtos an] | es sei denn |
+| [αν όχι]{lang="el"} | [an ˈoçi] | wenn nicht |
+| [αλλιώς]{lang="el"} | [aˈʎos] | sonst, andernfalls; anders |
+| [Κι αν …;]{lang="el"} | [c an] | Und wenn …? Was, wenn …? |
+| [σε περίπτωση που]{lang="el"} | [se peˈriptosi pu] | falls, im Fall, dass (formell) |
+| [αν χρειαστεί]{lang="el"} | [an xriaˈsti] | falls nötig |
+| [αν θέλει ο Θεός]{lang="el"} | [an ˈθeli o θeˈos] | so Gott will |
+| [εξυπηρετώ, εξυπηρέτησα]{lang="el"} | [eksipiriˈto], [eksipiˈretisa] | bedienen, (Kunden) betreuen; helfen |
+:::
+
+## Hörspur: Anruf beim Finanzamt {#sec-bedingung-hoerspur}
+
+Die ▶-Aufnahmen im Buch sind synthetische Stimmen; echte Menschen bringt der Hör-Auftrag am Ende
+des Abschnitts.
+
+Wer bei einer griechischen Behörde anruft, hört zuerst eine Ansage voller [αν]{lang="el"}. Danach,
+mit etwas Glück, einen Menschen. Erst hören, dann lesen.
+
+::: {lang="el" .listen}
+[— Καλώς ήρθατε στη γραμμή εξυπηρέτησης. Αν θέλετε πληροφορίες για ΑΦΜ, πατήστε ένα. Αν θέλετε
+να κλείσετε ραντεβού, πατήστε δύο. Για όλα τα άλλα θέματα, παραμείνετε στη γραμμή.]{.v1}
+
+[— Εφορία, καλημέρα σας.]{.v2}
+
+— Καλημέρα. Θέλω να βγάλω ΑΦΜ. Είμαι Γερμανίδα, μένω εδώ δύο εβδομάδες.
+
+— Μάλιστα. Αφού είστε πολίτης της Ευρωπαϊκής Ένωσης, είναι απλό. Θα χρειαστείτε διαβατήριο ή
+ταυτότητα και ένα αποδεικτικό διεύθυνσης.
+
+— Εδώ είναι το πρόβλημα. Δεν έχω ακόμα σπίτι στην Ελλάδα.
+
+— Δεν πειράζει. Αν δεν έχετε διεύθυνση εδώ, φέρτε κάτι με τη διεύθυνσή σας στη Γερμανία. Έναν
+λογαριασμό ρεύματος, ας πούμε.
+
+— Α, τέλεια. Και πρέπει να κλείσω ραντεβού;
+
+— Καλύτερα. Όποιος έρχεται χωρίς ραντεβού, περιμένει. Μόλις το κλείσετε, θα σας έρθει μήνυμα
+στο κινητό.
+
+— Κι αν αργήσω λίγο;
+
+— Αν αργήσετε πάνω από δέκα λεπτά, χάνετε τη σειρά σας. Και όταν έρθετε, να φέρετε φωτοτυπίες
+από όλα.
+
+— Εντάξει. Σας ευχαριστώ πολύ.
+
+— Παρακαλώ. Α, και κάτι ακόμα. Αν σας πουν στο γκισέ ότι λείπει κάποιο χαρτί, μην ανησυχήσετε.
+Πάρτε με τηλέφωνο και ζητήστε την κυρία Βούλα.
+
+— Εσείς είστε η κυρία Βούλα;
+
+— Εγώ είμαι ο κύριος Στέλιος. Αλλά η κυρία Βούλα τα ξέρει όλα.
+:::
+
+<!-- EXERCISE: Hörverstehen zum Telefonat (mit ▶, ohne den Text aufzuklappen): 5–6 Multiple-Choice-Fragen (Menü-Tasten, benötigte Papiere, Lösung des Adressproblems, Folge bei Verspätung, Rolle von Frau Voula), zweiter Durchgang: jedes αν/όταν/μόλις/όποιος zählen und Foto/Film bestimmen, Schwierigkeit 2 -->
+
+<!-- CHECK: EU-Bürger beim ΑΦΜ-Antrag: Pass/Ausweis + Adressnachweis; wird eine Adresse im Herkunftsland akzeptiert? Begriff „αποδεικτικό διεύθυνσης“ üblich? Verspätungsregel (10 Minuten) ist erfunden, nur als Beispiel. -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Willkommen bei der Service-Hotline. Wenn Sie Informationen zur Steuernummer wünschen, drücken
+Sie die Eins. Wenn Sie einen Termin vereinbaren möchten, drücken Sie die Zwei. Für alle anderen
+Anliegen bleiben Sie bitte in der Leitung.
+
+— Finanzamt, guten Morgen.
+
+— Guten Morgen. Ich möchte eine Steuernummer beantragen. Ich bin Deutsche und wohne seit zwei
+Wochen hier.
+
+— Gut. Da Sie Bürgerin der Europäischen Union sind, ist es einfach. Sie brauchen Pass oder
+Personalausweis und einen Adressnachweis.
+
+— Da liegt das Problem. Ich habe noch keine Wohnung in Griechenland.
+
+— Macht nichts. Wenn Sie hier keine Adresse haben, bringen Sie etwas mit Ihrer Adresse in
+Deutschland mit. Eine Stromrechnung zum Beispiel.
+
+— Ah, perfekt. Und muss ich einen Termin vereinbaren?
+
+— Besser ja. Wer ohne Termin kommt, wartet. Sobald Sie ihn vereinbart haben, bekommen Sie eine
+Nachricht aufs Handy.
+
+— Und wenn ich mich ein bisschen verspäte?
+
+— Wenn Sie mehr als zehn Minuten zu spät sind, verlieren Sie Ihren Platz. Und wenn Sie kommen,
+bringen Sie von allem Kopien mit.
+
+— In Ordnung. Vielen Dank.
+
+— Bitte. Ach, und noch etwas. Wenn man Ihnen am Schalter sagt, dass ein Papier fehlt, keine Sorge.
+Rufen Sie mich an und fragen Sie nach Frau Voula.
+
+— Sind Sie Frau Voula?
+
+— Ich bin Herr Stelios. Aber Frau Voula weiß alles.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η εξυπηρέτηση]{lang="el"} | der Service, die Kundenbetreuung |
+| [οι πληροφορίες]{lang="el"} | die Auskunft, Informationen |
+| [παραμένω]{lang="el"} | bleiben (gehoben) |
+| [η Γερμανίδα]{lang="el"} | die Deutsche |
+| [η Ευρωπαϊκή Ένωση (ΕΕ)]{lang="el"} | die Europäische Union (EU) |
+| [απλός, -ή, -ό]{lang="el"} | einfach |
+| [το αποδεικτικό διεύθυνσης]{lang="el"} | der Adressnachweis |
+| [ο λογαριασμός ρεύματος]{lang="el"} | die Stromrechnung |
+| [ας πούμε]{lang="el"} | sagen wir, zum Beispiel |
+| [λείπει]{lang="el"} | es fehlt (Kapitel 8) |
+:::
+
+So endet auch der Kreis aus dem Café: Eine Adresse im Herkunftsland reicht für den Anfang. Und die
+Frau Voula, die alles weiß, gibt es in irgendeiner Form in fast jeder griechischen Behörde.
+
+### Bedingungen hören {#sec-bedingung-hoeren}
+
+- **[an]** ist kurz und unbetont und verschmilzt mit dem nächsten Wort. Vor [π, τ, κ]{lang="el"}
+  wird das [ν]{lang="el"} angeglichen, wie bei [την πόλη]{lang="el"} [tim ˈboli] (Kapitel 2):
+  [αν πατήσετε]{lang="el"} klingt etwa [am baˈtisete].
+- **Die Melodie:** Die Bedingung endet mit gehobener oder schwebender Stimme, erst die Folge fällt
+  am Ende ab. Wer den Anstieg hört, weiß: Jetzt kommt das „dann“.
+- **Das Foto erkennst du** am [s], [ps] oder [ks] wie im Aorist, aber ohne Augment und mit
+  Präsensendung: [ˈftasis] ([φτάσεις]{lang="el"}) gegen [ˈftanis] ([φτάνεις]{lang="el"}).
+- **[άμα]{lang="el"}** [ˈama] ist betont und darum leichter zu hören als [αν]{lang="el"}.
+
+<!-- CHECK: Sandhi „αν πατήσετε“ [am baˈtisete] und Intonation der vorangestellten Bedingung (steigend/schwebend) prüfen. -->
+
+Echte Bedingungen im Gesprächstempo findest du auf [Easy
+Greek](https://www.youtube.com/@EasyGreekVideos): Fragen nach Plänen und Ratschlägen („Was würdest
+du einem Touristen raten?“) lösen viele [αν]{lang="el"} und [άμα]{lang="el"} aus.
+
+<!-- EXERCISE: Hör-Auftrag Easy Greek: Straßeninterview mit Rat- oder Planfragen wählen, 3–4 Minuten ohne Untertitel; Striche für αν/άμα/όταν, zwei αν-Sätze merken; mit griechischen Untertiteln prüfen und Aspekt nach αν bestimmen (Foto/Film; θα + Imperfekt als irreal erkennen und aussortieren), Schwierigkeit 1 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [κλείνω ραντεβού]{lang="el"} | [ˈklino radeˈvu] | einen Termin vereinbaren |
+| [πατάω, πάτησα]{lang="el"} | [paˈtao], [ˈpatisa] | drücken (Taste); treten |
+| [η γραμμή]{lang="el"} | [i ɣraˈmi] | die Linie; die (Telefon-)Leitung |
+| [ο πολίτης, η πολίτισσα]{lang="el"} | [o poˈlitis], [i poˈlitisa] | der Bürger, die Bürgerin; Staatsangehörige(r) |
+| [η φωτοτυπία]{lang="el"} | [i fototiˈpia] | die Fotokopie |
+| [η σειρά]{lang="el"} | [i siˈra] | die Reihe; [η σειρά μου]{lang="el"} ich bin dran; die (Fernseh-)Serie |
+| [Μισό λεπτό.]{lang="el"} | [miˈso lepˈto] | Moment bitte. |
+| [Με ακούτε;]{lang="el"} | [me aˈkute] | Hören Sie mich? (am Telefon) |
+:::
+
+## Das Wichtigste {#sec-bedingung-wichtigste}
+
+- **Realer Bedingungssatz:** [αν]{lang="el"} + Bedingung, Hauptsatz = Folge. In der Bedingung
+  **nie [θα]{lang="el"}**, wie nach spanisch *si*; die Folge nimmt [θα]{lang="el"}, Imperativ,
+  Präsens oder [πρέπει να]{lang="el"}.
+- **Aspekt nach [αν]{lang="el"}:** Präsens für Zustände und laufende Vorgänge
+  ([αν ψάχνεις, αν έχεις]{lang="el"}), perfektive Form für ein Ereignis, das erst eintreten muss
+  ([αν βρεις, αν βρέξει]{lang="el"}).
+- **„Wenn“:** [αν]{lang="el"}, wenn „falls“ passt; [όταν]{lang="el"}, wenn es sicher passiert.
+  Beide nehmen dieselben Formen.
+- **Zeitsätze mit Zukunft** ([όταν, μόλις, αφού, πριν, μέχρι να]{lang="el"}): perfektive Form für
+  Schritte, Präsens für Zustände; [όσο]{lang="el"} „solange“ + Präsens. Nirgends [θα]{lang="el"}.
+- **Versteckte Bedingungen:** [όποιος, ό,τι, όπου, όποτε]{lang="el"} + perfektive Form ohne
+  [να]{lang="el"}: [Όποιος βρει …, Ό,τι χρειαστείς …]{lang="el"}
+- **[αν θα]{lang="el"}** ist richtig, wenn [αν]{lang="el"} „ob“ heißt: [Δεν ξέρω αν θα
+  έρθει.]{lang="el"}
+- [θα]{lang="el"} + Imperfekt in der Folge ([θα νοίκιαζα]{lang="el"}) signalisiert den irrealen
+  Satz, Kapitel 24.
+
+## Zum Lesen: Sieben Regeln für Neuankömmlinge {#sec-bedingung-lesetext}
+
+Ein Ratgeber, wie er in griechischen Blogs für Rückkehrer und Zugezogene steht. Lies ihn einmal
+ganz und zähl nebenbei die Bedingungen.
+
+::: {lang="el"}
+**Μετακομίζεις στην Ελλάδα; Επτά κανόνες επιβίωσης**
+
+**1. Πρώτα ο ΑΦΜ.** Όποιος ζει στην Ελλάδα χωρίς ΑΦΜ, δεν υπάρχει. Χωρίς ΑΦΜ δε νοικιάζεις σπίτι,
+δεν ανοίγεις λογαριασμό και δεν παίρνεις καν συμβόλαιο για κινητό. Αν είσαι πολίτης της ΕΕ, τον
+βγάζεις στην εφορία με το διαβατήριο ή την ταυτότητά σου.
+
+**2. Μετά ο ΑΜΚΑ.** Όταν έχεις ΑΦΜ, βγάζεις και ΑΜΚΑ, τον αριθμό κοινωνικής ασφάλισης. Χωρίς αυτόν
+δεν μπορείς να δουλέψεις ούτε να πας σε γιατρό του δημόσιου συστήματος υγείας.
+
+**3. Μετά από τρεις μήνες.** Αν μείνεις στην Ελλάδα πάνω από τρεις μήνες, χρειάζεσαι και βεβαίωση
+εγγραφής πολίτη της ΕΕ. Τη δίνει η αστυνομία. Κλείσε ραντεβού νωρίς· μέχρι να έρθει η σειρά σου,
+μπορεί να περάσουν εβδομάδες.
+
+**4. Ραντεβού, ραντεβού, ραντεβού.** Σχεδόν κάθε υπηρεσία δουλεύει πια με ραντεβού. Όποιος πάει
+χωρίς ραντεβού, συνήθως γυρίζει σπίτι με άδεια χέρια.
+
+**5. Φωτοτυπίες από όλα.** Ό,τι χαρτί σου δώσουν, κράτα το και βγάλε φωτοτυπία. Αν σου ζητήσουν
+κάποτε ένα χαρτί που δεν έχεις, θα είναι σίγουρα αυτό που πέταξες.
+
+**6. Το κινητό είναι φίλος σου.** Από το 2020 πολλά πιστοποιητικά βγαίνουν από το gov.gr, χωρίς
+ουρά και χωρίς σφραγίδα. Μόλις πάρεις κωδικούς, δοκίμασέ το. Όσο περισσότερα κάνεις ηλεκτρονικά,
+τόσο λιγότερο θα περιμένεις.
+
+**7. Υπομονή.** Αν ο υπάλληλος σού πει «Ελάτε αύριο», μη θυμώσεις. Όταν έρθεις αύριο, μπορεί να
+είναι ο πιο εξυπηρετικός άνθρωπος της Ελλάδας. Και όταν τελειώσεις με όλα αυτά, θα ξέρεις κάτι
+που δεν ξέρουν πολλοί Έλληνες: πού βρίσκεται κάθε γκισέ της πόλης.
+:::
+
+<!-- CHECK: Faktenlage im Lesetext: ΑΜΚΑ nach ΑΦΜ, Voraussetzung für Arbeit und öffentliches Gesundheitssystem; Registrierungsbescheinigung für EU-Bürger nach drei Monaten bei der Polizei (Τμήμα Αλλοδαπών); gov.gr seit 2020 mit Bescheinigungen ohne Stempel; ΑΦΜ Voraussetzung für Handyvertrag. -->
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η επιβίωση]{lang="el"} | das Überleben |
+| [καν]{lang="el"} | nicht einmal (nach Verneinung) |
+| [η κοινωνική ασφάλιση]{lang="el"} | die Sozialversicherung |
+| [ούτε]{lang="el"} | auch nicht, noch |
+| [δημόσιος, -α, -ο]{lang="el"} | öffentlich, staatlich |
+| [η υγεία]{lang="el"} | die Gesundheit |
+| [η βεβαίωση εγγραφής]{lang="el"} | die Anmeldebescheinigung |
+| [με άδεια χέρια]{lang="el"} | mit leeren Händen |
+| [πετάω, πέταξα]{lang="el"} | wegwerfen (Kapitel 9) |
+| [όσο περισσότερα …, τόσο λιγότερο …]{lang="el"} | je mehr …, desto weniger … |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Du ziehst nach Griechenland? Sieben Überlebensregeln**
+
+**1. Zuerst die Steuernummer.** Wer in Griechenland ohne Steuernummer lebt, existiert nicht. Ohne
+sie mietest du keine Wohnung, eröffnest kein Konto und bekommst nicht einmal einen Handyvertrag.
+Wenn du EU-Bürger bist, bekommst du sie beim Finanzamt mit deinem Pass oder Personalausweis.
+
+**2. Dann die Sozialversicherungsnummer.** Wenn du die Steuernummer hast, beantragst du auch den
+ΑΜΚΑ, die Sozialversicherungsnummer. Ohne sie kannst du weder arbeiten noch zu einem Arzt des
+öffentlichen Gesundheitssystems gehen.
+
+**3. Nach drei Monaten.** Wenn du länger als drei Monate in Griechenland bleibst, brauchst du auch
+eine Anmeldebescheinigung für EU-Bürger. Die stellt die Polizei aus. Mach früh einen Termin; bis
+du dran bist, können Wochen vergehen.
+
+**4. Termin, Termin, Termin.** Fast jede Behörde arbeitet inzwischen mit Terminen. Wer ohne Termin
+hingeht, kehrt meistens mit leeren Händen heim.
+
+**5. Kopien von allem.** Welches Papier man dir auch gibt, heb es auf und mach eine Kopie. Wenn
+man dich irgendwann nach einem Papier fragt, das du nicht hast, ist es garantiert das, das du
+weggeworfen hast.
+
+**6. Das Handy ist dein Freund.** Seit 2020 bekommst du viele Bescheinigungen über gov.gr, ohne
+Schlange und ohne Stempel. Sobald du Zugangsdaten hast, probier es aus. Je mehr du online
+erledigst, desto weniger wirst du warten.
+
+**7. Geduld.** Wenn der Beamte dir sagt „Kommen Sie morgen wieder“, werd nicht wütend. Wenn du
+morgen kommst, ist er vielleicht der hilfsbereiteste Mensch Griechenlands. Und wenn du mit all dem
+fertig bist, weißt du etwas, das viele Griechen nicht wissen: wo jeder Schalter der Stadt ist.
+:::
+
+<!-- EXERCISE: Nach dem Lesen: A richtig/falsch zu 6–7 Aussagen; B alle Bedingungs- und Zeitsätze heraussuchen und Aspekt begründen (όταν έχεις = Zustand vs. όταν έρθεις; όποιος πάει, ό,τι χαρτί σου δώσουν); C drei Regeln laut für einen Freund umformulieren (Imperativ + αν/όταν/μόλις), Schwierigkeit 2–3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο ΑΜΚΑ]{lang="el"} | [o ˈamka] | die Sozialversicherungsnummer (umg. auch [το ΑΜΚΑ]{lang="el"}) |
+| [η βεβαίωση]{lang="el"} | [i veˈveosi] | die Bescheinigung |
+| [η αστυνομία]{lang="el"} | [i astinoˈmia] | die Polizei |
+| [η υπηρεσία]{lang="el"} | [i ipireˈsia] | die Behörde, das Amt; der Dienst |
+| [η σφραγίδα]{lang="el"} | [i sfraˈʝiða] | der Stempel |
+| [ο κωδικός, οι κωδικοί]{lang="el"} | [o koðiˈkos], [i koðiˈci] | der Code; Pl. die Zugangsdaten |
+| [ηλεκτρονικά]{lang="el"} | [ilektroniˈka] | online, elektronisch |
+| [θυμώνω, θύμωσα]{lang="el"} | [θiˈmono], [ˈθimosa] | wütend werden, sich ärgern |
+| [η υπομονή]{lang="el"} | [i ipomoˈni] | die Geduld; [κάνω υπομονή]{lang="el"} Geduld haben |
+| [εξυπηρετικός, -ή, -ό]{lang="el"} | [eksipiretiˈkos] | hilfsbereit, entgegenkommend |
+:::

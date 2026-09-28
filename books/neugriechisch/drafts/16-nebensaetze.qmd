@@ -24,7 +24,7 @@ Bürgersteig.
 ::: {lang="el"}
 [— Συγγνώμη, εσείς είστε ο τελευταίος;]{.v1}
 
-[— Εγώ. Αλλά μην ελπίζετε πολλά. Λένε ότι το μηχάνημα αδειάζει πριν έρθει το μεσημέρι.
+— Εγώ. Αλλά μην ελπίζετε πολλά. Λένε ότι το μηχάνημα αδειάζει πριν έρθει το μεσημέρι.
 
 — Και γιατί περιμένετε;
 
@@ -77,7 +77,8 @@ diesmal nicht auf sie gehört.
 — Tut mir leid, dass ich es Ihnen sagen muss, aber der Automat ist gerade leer geworden.
 :::
 
-Der letzte Satz kommt von weiter vorn in der Schlange. Szenen wie diese gab es im Sommer 2015
+Der letzte Satz kommt von einer Frau weiter vorn in der Schlange. Die Aufnahme hat nur zwei
+Stimmen, deshalb spricht sie mit der Stimme der Fragenden. Szenen wie diese gab es im Sommer 2015
 tausendfach; mehr dazu im Lesetext am Ende des Kapitels.
 
 Grammatisch ist das Gespräch eine Sammlung kleiner Wörter, die Sätze verbinden:
@@ -145,7 +146,7 @@ Konjunktionen:
 Links folgt ein Verb in jeder beliebigen Zeit, wie im Hauptsatz: [ότι θα ανοίξουν, όταν
 έκλεισαν, επειδή είμαι]{lang="el"}. Rechts folgt die [να]{lang="el"}-Form, die keine Zeit hat. In
 der linken Spalte steht, was Tatsache ist oder war; in der rechten, was erst sein soll, noch nicht
-ist oder gerade nicht geschieht.
+ist oder gerade nicht geschieht (eine Ausnahme bei Zukunftsbezug, siehe Merke).
 Das kennst du aus dem Spanischen: [*porque viene*]{lang="es"} mit Indikativ, aber
 [*para que venga, antes de que venga, sin que venga*]{lang="es"} mit Subjuntivo, im Französischen
 ebenso [*pour que, avant que, sans que*]{lang="fr"} + Subjonctif. Die rechte Spalte ist fast
@@ -157,6 +158,10 @@ Wort für Wort dieselbe Liste.
 - Im Nebensatz steht das Verb **nicht am Ende**. Pronomen und [δεν/μην]{lang="el"} direkt davor.
 - [για να, πριν, μέχρι να, χωρίς να]{lang="el"} verlangen die **[να]{lang="el"}-Form**, alle
   anderen Konjunktionen dieses Kapitels ein **normales Verb** in der Zeit, die der Sinn verlangt.
+- Einzige Ausnahme links: Liegt das Ereignis in der Zukunft, steht nach
+  [όταν, μόλις, αφού]{lang="el"} die Form ohne [θα]{lang="el"}, dieselbe wie nach
+  [να]{lang="el"}, nur ohne [να]{lang="el"}. Wie [*cuando llegues*]{lang="es"}: Was noch nicht
+  Tatsache ist, rutscht in die zeitlose Form.
 :::
 
 ## Dass: [ότι, πως]{lang="el"} und [που]{lang="el"} {#sec-nebensatz-oti}
