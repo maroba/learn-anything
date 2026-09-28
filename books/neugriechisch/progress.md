@@ -39,3 +39,4 @@
 - Kapitel 13: Imperfekt der -μαι-Verben aktiv aufgreifen (in outline.md ergänzt, Kapitel 10 verspricht es).
 - Hörübungen ohne sichtbaren Text sind jetzt möglich (`::: {lang="el" .listen}`): in Kapitel 11 (11.5, 11.6) nachrüsten, künftig in Hör-Aufträgen nutzen.
 - Vokabeltabellen: Glossar verlangt ab Kapitel 13 den Mediopassiv-Aorist bei passivfähigen Verben; fehlt bei καίω (14), κλειδώνω, σπάω, χαλάω (19). Regel lockern oder nachtragen.
+- Kapitel 16 (#sec-nebensatz-na-aspekt, „Die να-Form kennt keine Vergangenheit“): nach Veröffentlichung von 22 per /revise einen Vorverweis auf die Ausnahme (Kapitel 18 φέρεται να, Kapitel 22 πρέπει να έφυγε) setzen, mit Änderungsvermerk.

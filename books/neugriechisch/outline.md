@@ -189,7 +189,7 @@ bis zwei Wochen pro Kapitel bei 5 Stunden pro Woche.
 
 ### 25 Er muss gegangen sein: Vermutungen über die Vergangenheit
 - **Datei:** 25-vermutungen
-- **Lernziele:** kann Vermutungen über Vergangenes ausdrücken (πρέπει να έφυγε, μπορεί να το είχε ξεχάσει)
+- **Lernziele:** baut die Vermutungen aus Kapitel 22 (πρέπει να έφυγε, μπορεί να έβρεξε) aus: Plusquamperfekt (μπορεί να το είχε ξεχάσει), θα έχει φύγει / θα είχε φύγει (Kapitel 14), Indizienketten; kurze Wiederholung von 22 statt neuer Einführung
 - **Voraussetzungen:** 22, 24
 - **Lesezeit:** 35 min
 - **Inhalt:** Sachthema: Rätsel der Archäologie, der Untergang der minoischen Kultur und der Ausbruch von Thera; Hörspur: Dokumentation
