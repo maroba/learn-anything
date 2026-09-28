@@ -13,9 +13,10 @@ title: "Was wäre, wenn: Irrealis und Wünsche"
   Bedingung kein [θα]{lang="el"}: [Αν βρέξει, θα μείνουμε σπίτι.]{lang="el"}
 - **Futur der Vergangenheit** (Kapitel 18): [θα]{lang="el"} + Imperfekt, [Είπε ότι θα
   ερχόταν.]{lang="el"} „Er sagte, er würde kommen.“
-- **Wo steht die Zeit?** (Kapitel 22): Nach [πρέπει να]{lang="el"} als Vermutung darf eine
-  Vergangenheit stehen ([πρέπει να έφυγε]{lang="el"}), nach Wollen, Können, Müssen die zeitlose
-  [να]{lang="el"}-Form ([έπρεπε να φύγει]{lang="el"}).
+- **Wo steht die Zeit?** (Kapitel 22): Sagt der Ausdruck vor [να]{lang="el"}, wie sicher etwas
+  ist oder woher man es weiß, darf nach [να]{lang="el"} eine Vergangenheit stehen ([πρέπει να
+  έφυγε]{lang="el"}). Sagt er, was jemand will, kann oder muss oder wozu etwas dient, folgt die
+  zeitlose [να]{lang="el"}-Form ([έπρεπε να φύγει]{lang="el"}).
 :::
 
 ## Dienstag, 29. Mai {#sec-irrealis-einstieg}
@@ -175,7 +176,7 @@ zwischen [*if I win*]{lang="en"} und [*if I won*]{lang="en"}, und der Sprecher e
 fern er die Sache sieht.
 
 Das Augment bleibt nach [θα]{lang="el"} stehen, im Gespräch wird es aber oft verschluckt:
-[θα ’λεγα]{lang="el"} [θaˈleɣa], [θα ’κανα]{lang="el"} [θaˈkana]. Verneint wird wie immer:
+[θα ’λεγα]{lang="el"} [ˈθaleɣa], [θα ’κανα]{lang="el"} [ˈθakana]. Verneint wird wie immer:
 [Αν δεν ήταν τόσο ακριβό, θα το έπαιρνα.]{lang="el"} [Δε θα το έκανα.]{lang="el"}
 
 Die Bedingung muss nicht mit [αν]{lang="el"} dastehen. Den häufigsten irrealen Satz im Alltag
@@ -228,7 +229,7 @@ Imperfekt. Kein Aorist bleibt stehen, auch bei [αύριο]{lang="el"} nicht.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Imperfekt vom Präsensstamm: [μένω → έμενα, βλέπω → έβλεπα]{lang="el"}; Verben auf
+Imperfekt vom imperfektiven Stamm: [μένω → έμενα, βλέπω → έβλεπα]{lang="el"}; Verben auf
 [-άω/-ώ]{lang="el"} auf [-ούσα]{lang="el"}; [έρχομαι → ερχόμουν, ερχόσουν]{lang="el"}.
 :::
 
@@ -522,8 +523,8 @@ Das Erkennungszeichen ist das Augment oder die Vergangenheitsendung ([έ-φευ�
 [είχες]{lang="el"}, nicht der Aspekt: [φεύγεις]{lang="el"} ist Film und trotzdem zeitlos.
 
 Das widerspricht nicht der Regel aus Kapitel 22 („Wo steht die Zeit?“): Sagt der Ausdruck vor
-[να]{lang="el"}, was jemand will, kann oder muss, folgt die zeitlose [να]{lang="el"}-Form, solange
-es um Wirkliches geht. Das Imperfekt und das Plusquamperfekt hier sind dieselben wie in [αν
+[να]{lang="el"}, was jemand will, kann oder muss oder wozu etwas dient, folgt die zeitlose
+[να]{lang="el"}-Form, solange es um Wirkliches geht. Das Imperfekt und das Plusquamperfekt hier sind dieselben wie in [αν
 είχα]{lang="el"}: Sie zeigen nicht die Zeit, sondern das Unwirkliche. Der Aorist kann das nicht,
 deshalb bleibt \*[έπρεπε να έφυγε]{lang="el"} falsch. Das Unwirkliche nach [να]{lang="el"}
 begegnet dir vor allem nach [έπρεπε]{lang="el"} und [μακάρι]{lang="el"}, dazu nach
@@ -650,8 +651,8 @@ kann auch ein bloßes [να]{lang="el"} wünschen; [μακάρι]{lang="el"} mac
 ausdrücklich. Alle drei Stufen lohnt es sich, selbst zu bilden; sie kommen im Gespräch ständig vor.
 
 Die Herkunft ist fromm: [μακάριος]{lang="el"} hieß schon im Altgriechischen „glücklich“ und wurde
-später zum „selig“ der Seligpreisungen ([Μακάριοι οι …]{lang="el"}); [μακάρι]{lang="el"} geht
-wohl auf eine Wendung wie [μακάριόν εστι]{lang="el"} „es ist gesegnet“ zurück. [*Ojalá*]{lang="es"}
+später zum „selig“ der Seligpreisungen ([Μακάριοι οι …]{lang="grc"}); [μακάρι]{lang="el"} geht
+wohl auf eine Wendung wie [μακάριόν εστι]{lang="grc"} „es ist gesegnet“ zurück. [*Ojalá*]{lang="es"}
 kommt aus dem Arabischen, etwa „wenn Gott will“. Fromm klingt heute keins von beiden.
 
 Wie bei [έπρεπε να]{lang="el"} entscheidet die Vergangenheitsendung, nicht der Aspekt: [Μακάρι να
@@ -677,7 +678,7 @@ echte Vergangenheit.
 
 ## [Ας]{lang="el"}: lass uns, soll er doch, hätte ich doch {#sec-irrealis-as}
 
-[ας]{lang="el"} ist der abgeschliffene alte Imperativ [άφες]{lang="el"} „lass!“, verwandt mit
+[ας]{lang="el"} ist der abgeschliffene alte Imperativ [άφες]{lang="grc"} „lass!“, verwandt mit
 [άσε]{lang="el"} (Kapitel 9; [Άσ’ το]{lang="el"}, Kapitel 8) und [αφήνω]{lang="el"} (Kapitel 8).
 Es funktioniert wie das deutsche „lass uns“ und das englische [*let's*]{lang="en"}. Dahinter steht die
 zeitlose Form, ohne [να]{lang="el"}. Vor stimmhaftem Konsonanten klingt es [az]: [ας δούμε]{lang="el"}
@@ -708,7 +709,7 @@ ist, hat vermutlich keine Freunde mehr. Für eigene Wünsche und Selbstvorwürfe
 :::
 
 ::: {.callout-note .exercise}
-## Übung 24.5: Μακάρι und ας
+## Übung 24.5: [Μακάρι]{lang="el"} und [ας]{lang="el"}
 
 **Teil A.** Setz die passende Form ein. Gemeint ist: 1 hoffentlich, 2 wenn doch, 3 hätten wir
 doch, 4 hoffentlich, 5 wäre ich doch, 6 hätte ich doch, 7 hoffentlich.
@@ -801,7 +802,7 @@ Mitleid, sondern gern eine genaue Beschreibung dessen, was er verpasst hat.
 Vor dem Hören: Achte auf die Formen dieses Kapitels.
 
 - **[θα]{lang="el"} + Imperfekt** hat nach dem [θα]{lang="el"} ein Verb mit Vergangenheitsendung:
-  [θa erˈxomun], [θa ˈepsaxna]. Oft ist das Augment weg: [θaˈleɣa].
+  [θa erˈxomun], [θa ˈepsaxna]. Oft ist das Augment weg: [ˈθaleɣa].
 - **Plusquamperfekt:** [ˈixa]/[ˈiçe] und dahinter eine Form auf [-i]: [ˈixa aˈfisi],
   [ˈixa traˈviksi].
 - **[maˈkari na]** und **[as]** stehen am Satzanfang; danach entscheidet die Form, ob es ein
@@ -971,7 +972,7 @@ wish*]{lang="en"}).
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Das Augment wird oft verschluckt: [θaˈθela] für [θα ήθελα]{lang="el"}. [θα ήθελα]{lang="el"}
+Das Augment wird oft verschluckt: [ˈθaθela] für [θα ήθελα]{lang="el"}. [θα ήθελα]{lang="el"}
 zählt mit, auch wenn es nur höflich gemeint ist.
 :::
 
@@ -989,8 +990,8 @@ Jedes Interview ist anders; so wertest du aus:
 
 - **Zählung:** [θα ήθελα]{lang="el"} ist meist der häufigste Treffer, [μακάρι]{lang="el"} steht
   oft allein als Antwort. Die Bedingung fehlt häufig, weil die Frage sie schon gestellt hat.
-- **Falsche Striche:** [θα]{lang="el"} + zeitlose Form oder Präsens (Futur: [θa ˈpao],
-  [θa ˈkano]) ist Zukunft, kein Irrealis.
+- **Falsche Striche:** das Futur, [θα]{lang="el"} im Foto oder Film ([θa ˈpao],
+  [θa ˈkano]), ist Zukunft, kein Irrealis.
 - **Schritt 4**, zum Beispiel: [Αν κέρδιζα το λαχείο, θα ταξίδευα έναν χρόνο. Μετά θα ζούσα
   κοντά στη θάλασσα.]{lang="el"}
 
