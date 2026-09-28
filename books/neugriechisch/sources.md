@@ -95,6 +95,9 @@ Verwendung im Buch am Original prüfen.
 - **[GG-1998]** Alexandra Georgakopoulou, Dionysis Goutsos: „Conjunctions versus discourse markers
   in Greek: the interaction of frequency, position, and functions in context“, *Linguistics* 36
   (1998). Diskursmarker (και, αλλά, λοιπόν …) in gesprochener Sprache.
+- **[Sifianou-1992]** Maria Sifianou: *Politeness Phenomena in England and Greece. A
+  Cross-Cultural Perspective*, Oxford: Clarendon Press 1992. Höflichkeit im Vergleich
+  Griechisch–Englisch, u.a. direkte Imperative unter Vertrauten (Kapitel 9).
 
 ## Niveau, Curricula, Prüfungen
 

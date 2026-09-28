@@ -329,7 +329,7 @@ Bauform A: [να]{lang="el"}-Form, [-εις → -ες]{lang="el"}, der Plural is
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Vier Zurufe brauchen die Einzelgänger. Bei einem der übrigen Foto-Imperative bleibt im Plural
+Die Einzelgänger stecken in 3, 6, 7 und 10. Bei einem der übrigen Foto-Imperative bleibt im Plural
 das [ε]{lang="el"} vor [-τε]{lang="el"}.
 :::
 
@@ -967,7 +967,7 @@ Nur einer der Imperative ist Plural; zwei Befehle beginnen mit [μη(ν)]{lang="
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**Schritt 1**
+**Schritt 1:** sieben Imperative, zwei Verbote.
 
 - **Foto, ihr:** [Μπείτε]{lang="el"}, an die Kinder.
 - **Foto, du:** [άσε, βάλε, Κάνε ησυχία]{lang="el"}, die Mutter an Nikos.
