@@ -258,13 +258,11 @@ Vergangenheit.
 
 - a) Gewohnheit, „jeden Morgen“: [*comprábamos*]{lang="es"}, [*nous achetions*]{lang="fr"}.
 - b) Einmal passiert, die Geschichte geht weiter: [*perdimos*]{lang="es"}.
-- c) **Aorist**, obwohl es drei Wochen waren: [έμεινα]{lang="el"}-Typ, die Zeit als Ganzes
-  ([*nos quedamos*]{lang="es"}). Der häufigste Fehler.
-- d) Beschreibung des Rahmens: [έμενα]{lang="el"}-Typ ([*vivíamos*]{lang="es"}). Mit „drei Wochen
-  lang“ dazu würde es ein Foto wie in c).
+- c) **Aorist**, obwohl es drei Wochen waren: die Zeit als Ganzes, [*nos quedamos*]{lang="es"}.
+- d) Beschreibung des Rahmens: [*vivíamos*]{lang="es"}. Mit „drei Wochen lang“ würde es ein
+  Foto wie c).
 - e) Der Vorgang läuft, die Ankunft fällt hinein: [*remendaban*]{lang="es"}.
-  „Als wir ankamen“ wäre der Aorist.
-- f) [ήταν]{lang="el"}. „Es regnete“ wäre hier Film, Beschreibung.
+- f) [ήταν]{lang="el"}. „Es regnete“ wäre Film.
 - g) [ήξερα]{lang="el"}.
 - h) Ein Ereignis am Schluss der Geschichte: [*nos invitó*]{lang="es"}.
 
@@ -462,8 +460,8 @@ Die kurzen Verben holen ein [γ]{lang="el"} heraus, [πάω]{lang="el"} leiht si
 **Teil B:** Richtig ist nur **3**.
 
 1. \*[εγράφαμε]{lang="el"} → [γράφαμε]{lang="el"}: Augment unbetont.
-2. \*[έβλεψα]{lang="el"} → [έβλεπα]{lang="el"}: Ein [ψ]{lang="el"} gehört zum perfektiven
-   Stamm, und den hat [βλέπω]{lang="el"} gar nicht.
+2. \*[έβλεψα]{lang="el"} → [έβλεπα]{lang="el"}: [ψ]{lang="el"} wäre perfektiver Stamm, und
+   den bildet [βλέπω]{lang="el"} ganz anders.
 3. [έτρωγα]{lang="el"}: **richtig**.
 4. \*[ήθελαμε]{lang="el"} → [θέλαμε]{lang="el"}: Auch [η-]{lang="el"} fällt, wenn es unbetont
    wäre.
@@ -603,7 +601,8 @@ Typische Fehler: \*[ρώτουσε]{lang="el"} (Betonung zurückgeholt), \*[ετ
 4. [περπατούσε]{lang="el"}
 5. [πέρασε]{lang="el"}: Aorist von [περνάω]{lang="el"}, unregelmäßig.
 6. [περνούσαν]{lang="el"}: dasselbe Verb, im Imperfekt ganz regelmäßig.
-7. [έκανα]{lang="el"}: Imperfekt und Aorist zugleich, der Zusammenhang entscheidet.:::
+7. [έκανα]{lang="el"}: Imperfekt und Aorist zugleich, der Zusammenhang entscheidet.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -954,34 +953,18 @@ betont (4). In 7 wandern beide Verben in die Vergangenheit.
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-::: {lang="el"}
-1. Παλιά η γιαγιά **ξυπνούσε** κάθε πρωί στις πέντε.
-2. Παλιά **τρώγαμε** πάντα στην ίδια ταβέρνα.
-3. Παλιά ο παππούς μου **έλεγε** συχνά ιστορίες.
-4. Παλιά τα παιδιά **έπαιζαν** στη θάλασσα όλη μέρα.
-5. Παλιά κάθε βράδυ **πηγαίναμε** στο θερινό σινεμά.
-6. Παλιά συνήθως **περιμέναμε** το πλοίο στο λιμάνι.
-7. Παλιά δεν **ξέραμε** ποτέ τι ώρα **ήταν**.
-:::
+1. [ξυπνούσε]{lang="el"}, umg. auch [ξύπναγε]{lang="el"}.
+2. [τρώγαμε]{lang="el"}
+3. [έλεγε]{lang="el"}
+4. [έπαιζαν]{lang="el"}, umg. [παίζανε]{lang="el"}. Nicht [έπαιξαν]{lang="el"}: Das wäre ein
+   einziges Spiel.
+5. [πηγαίναμε]{lang="el"}. Typischer Fehler: [πήγαμε]{lang="el"}, der Aorist.
+6. [περιμέναμε]{lang="el"}: sieht aus wie der Aorist, hier ist es Film.
+7. [δεν ξέραμε ποτέ τι ώρα ήταν]{lang="el"}. Nicht \*[ήξεραμε]{lang="el"}, und das
+   [είναι]{lang="el"} rückt mit.
 
-- 1: umg. auch [ξύπναγε]{lang="el"}.
-- 4: umg. [παίζανε]{lang="el"}. Nicht [έπαιξαν]{lang="el"}: Das wäre ein einziges Spiel.
-- 5: [πήγαμε]{lang="el"} ist der typische Fehler, der Aorist von [πάω]{lang="el"}.
-- 6: [περιμέναμε]{lang="el"} sieht aus wie der Aorist; hier ist es Film.
-- 7: Nicht \*[ήξεραμε]{lang="el"}. Und das [είναι]{lang="el"} rückt mit: [ήταν]{lang="el"}.
-
-**Zugabe, zum Beispiel:**
-
-::: {lang="el"}
-… παίζαμε στον δρόμο μέχρι το βράδυ;
-
-… βλέπαμε τηλεόραση μόνο το Σάββατο;
-
-… η μητέρα μας έγραφε γράμματα στη γιαγιά;
-:::
-
-Prüf nur eins: Steht jedes Verb im Imperfekt? Einmalige Ereignisse gehören nicht in diese
-Listen.
+**Zugabe,** zum Beispiel [… παίζαμε στον δρόμο μέχρι το βράδυ;]{lang="el"} Prüf nur eins:
+Steht jedes Verb im Imperfekt? Einmalige Ereignisse gehören nicht in diese Listen.
 :::
 
 ::: {.vocab}
@@ -1135,12 +1118,12 @@ Lies die Geschichte laut und setz für jede Lücke Imperfekt oder Aorist ein. Sa
 Lücke kurz, warum: Foto oder Film?
 
 ::: {lang="el" .no-audio}
-Ήταν Αύγουστος του ’95, και (1: μένω, εμείς) ___ σε ένα χωριό στη Νάξο. Κάθε βράδυ (2: τρώω,
-εμείς) ___ στην ίδια ταβέρνα στο λιμάνι. Ένα βράδυ, ενώ (3: περιμένω, εμείς) ___ το φαγητό,
-(4: σβήνω) ___ όλα τα φώτα του χωριού. Κανείς δεν (5: ξέρω) ___ τι έγινε. Ένας γέρος (6: φέρνω)
-___ δύο κεριά από την κουζίνα. Γύρω μας όλοι (7: γελάω) ___ και (8: τραγουδάω) ___. Εμείς
-(9: μένω) ___ στην ταβέρνα μέχρι τις δύο. Εκείνο το καλοκαίρι τα φώτα (10: σβήνω) ___ άλλες δύο
-φορές, και κάθε φορά που (11: σβήνω) ___, ο γέρος (12: φέρνω) ___ τα κεριά του.
+Ήταν Αύγουστος του ’95, και (1: μένω, εμείς) \_\_\_ σε ένα χωριό στη Νάξο. Κάθε βράδυ (2: τρώω,
+εμείς) \_\_\_ στην ίδια ταβέρνα στο λιμάνι. Ένα βράδυ, ενώ (3: περιμένω, εμείς) \_\_\_ το φαγητό,
+(4: σβήνω) \_\_\_ όλα τα φώτα του χωριού. Κανείς δεν (5: ξέρω) \_\_\_ τι έγινε. Ένας γέρος (6: φέρνω)
+\_\_\_ δύο κεριά από την κουζίνα. Γύρω μας όλοι (7: γελάω) \_\_\_ και (8: τραγουδάω) \_\_\_. Εμείς
+(9: μένω) \_\_\_ στην ταβέρνα μέχρι τις δύο. Εκείνο το καλοκαίρι τα φώτα (10: σβήνω) \_\_\_ άλλες δύο
+φορές, και κάθε φορά που (11: σβήνω) \_\_\_, ο γέρος (12: φέρνω) \_\_\_ τα κεριά του.
 :::
 
 **Worthilfen:** [το κερί, τα κεριά]{lang="el"} die Kerze · [γελάω, γέλασα]{lang="el"} lachen ·
@@ -1163,15 +1146,6 @@ Achte auf [κάθε, ενώ, κάθε φορά που]{lang="el"} und auf gezäh
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
-
-::: {lang="el"}
-Ήταν Αύγουστος του ’95, και **μέναμε** σε ένα χωριό στη Νάξο. Κάθε βράδυ **τρώγαμε** στην ίδια
-ταβέρνα στο λιμάνι. Ένα βράδυ, ενώ **περιμέναμε** το φαγητό, **έσβησαν** όλα τα φώτα του χωριού.
-Κανείς δεν **ήξερε** τι έγινε. Ένας γέρος **έφερε** δύο κεριά από την κουζίνα. Γύρω μας όλοι
-**γελούσαν** και **τραγουδούσαν**. Εμείς **μείναμε** στην ταβέρνα μέχρι τις δύο. Εκείνο το
-καλοκαίρι τα φώτα **έσβησαν** άλλες δύο φορές, και κάθε φορά που **έσβηναν**, ο γέρος **έφερνε**
-τα κεριά του.
-:::
 
 - **1:** [μέναμε]{lang="el"}: Rahmen, Film.
 - **2:** [τρώγαμε]{lang="el"}: [κάθε βράδυ]{lang="el"}, Gewohnheit. Nicht \*[τρώαμε]{lang="el"}.
@@ -1386,9 +1360,8 @@ b) **Fünf:** [έφερνε, έπλενα, γελούσαν, γελούσα, ’
 mit nur einer Vergangenheit: [ήταν, είχα, είχαμε, ήξερα]{lang="el"}. Das [ήταν]{lang="el"} und
 [έκανες]{lang="el"} der Enkelin zählen nicht.
 
-Übersehen wird fast immer [μου το ’λεγε]{lang="el"} [mu to ˈleʝe], weil das [έ-]{lang="el"}
-verschluckt ist. Wer [ακούω, βλέπω]{lang="el"} mitgezählt hat, hat das erzählende Präsens für
-eine Vergangenheit gehalten.
+Übersehen wird fast immer [μου το ’λεγε]{lang="el"}, weil das [έ-]{lang="el"} verschluckt ist.
+[ακούω, βλέπω]{lang="el"} sind erzählendes Präsens, keine Vergangenheit.
 
 **Schritt 2:** Eine feste Zahl gibt es nicht. So wertest du aus:
 
@@ -1629,13 +1602,11 @@ kenne ich nicht. Wann genau und an welchen Stellen gedreht wurde, ist hier ausge
 
 **Teil A: richtig oder falsch?** Im Chat reicht „1r, 2f, …“.
 
-1. Die Erzählerin fuhr allein nach Amorgos.
-2. Im Zimmer gab es kein warmes Wasser.
-3. Sie rief jeden Tag ihre Eltern an.
-4. Der Junge sprang nur einmal von den Felsen.
-5. Die drei sahen beim Dreh zwei Stunden lang zu.
-6. Sie wussten sofort, welcher Film gedreht wurde.
-7. Letztes Jahr sprang die Erzählerin wieder ins Meer.
+1. Die Erzählerin rief jeden Tag ihre Eltern an.
+2. Der Junge sprang nur einmal von den Felsen.
+3. Die drei sahen beim Dreh zwei Stunden lang zu.
+4. Sie wussten sofort, welcher Film gedreht wurde.
+5. Letztes Jahr sprang die Erzählerin wieder ins Meer.
 
 **Teil B: Formen sortieren.** In den Absätzen [Οι μέρες ήταν…]{lang="el"} und
 [Ένα πρωί…]{lang="el"}: Welche Verben sind Imperfekt, welche Aorist, welche haben nur eine
@@ -1648,8 +1619,7 @@ in der wir-Form.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Teil A: Achte auf [μια φορά την εβδομάδα]{lang="el"}, [ξανά και ξανά]{lang="el"} und
-[δεν ξέραμε]{lang="el"}. Teil C: erst die Aoriste als Gerüst, dann Film dazwischen.
+Teil A: Achte auf [μια φορά την εβδομάδα]{lang="el"} und [ξανά και ξανά]{lang="el"}. Teil C: erst die Aoriste als Gerüst, dann Film dazwischen.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -1662,16 +1632,13 @@ Teil B: Im ersten Absatz stehen neun Imperfekte, im zweiten fünf Imperfekte und
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**Teil A: 1f, 2r, 3f, 4f, 5r, 6f, 7r.**
+**Teil A: 1f, 2f, 3r, 4f, 5r.**
 
-1. [με δύο φίλες]{lang="el"}
-2. [Ζεστό νερό δεν είχε.]{lang="el"}
-3. [Μια φορά την εβδομάδα]{lang="el"}: eine Regel, deshalb Imperfekt, aber eben nur wöchentlich.
-4. [βουτούσε ξανά και ξανά]{lang="el"}: Das Imperfekt allein sagt schon „immer wieder“.
-5. [Μείναμε εκεί δύο ώρες και κοιτάζαμε.]{lang="el"}
-6. [Δεν ξέραμε τι ταινία ήταν.]{lang="el"}
-7. [όταν βούτηξα στο νερό]{lang="el"}: ein Sprung, Foto. Wer 4 und 7 verwechselt, hat nur auf
-   das Verb geschaut, nicht auf die Form.
+1. [Μια φορά την εβδομάδα]{lang="el"}: eine Regel, deshalb Imperfekt, aber wöchentlich.
+2. [βουτούσε ξανά και ξανά]{lang="el"}: Das Imperfekt allein sagt schon „immer wieder“.
+3. [Μείναμε εκεί δύο ώρες και κοιτάζαμε.]{lang="el"}
+4. [Δεν ξέραμε τι ταινία ήταν.]{lang="el"}
+5. [όταν βούτηξα στο νερό]{lang="el"}: ein Sprung, Foto; in 2 dasselbe Verb als Film.
 
 **Teil B**
 
@@ -1696,8 +1663,8 @@ ist, was dabei lief.
 αργότερα η φίλη μας είδε την ταινία σε ένα θερινό σινεμά.
 :::
 
-Prüf bei deiner Fassung: Trägt jeder Aorist die Handlung einen Schritt weiter? Steht alles, was
-sich wiederholte oder im Hintergrund lief, im Imperfekt?
+Prüf bei deiner Fassung: Bringt jeder Aorist die Handlung weiter, und steht alles
+Wiederholte und alles im Hintergrund im Imperfekt?
 :::
 
 ::: {.vocab}
