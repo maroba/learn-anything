@@ -21,7 +21,7 @@
 | 15 Der Film, den ich gesehen habe: Relativsätze | veröffentlicht | Welle 7; Audio vollständig |
 | 16 Weil, obwohl, damit: Nebensätze | veröffentlicht | Welle 8; Audio läuft |
 | 17 Wenn … dann: realer Konditional und Zeitsätze | im Review | Welle 9; Übungen fertig |
-| 18 Er sagt, dass: indirekte Rede und indirekte Fragen | Übungen | Welle 9; Entwurf fertig |
+| 18 Er sagt, dass: indirekte Rede und indirekte Fragen | im Review | Welle 9; Übungen fertig |
 | 19 Müde, aber glücklich: Partizip und Gerundium | überarbeitet | Welle 8; Konsistenz nach 17, 18 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
