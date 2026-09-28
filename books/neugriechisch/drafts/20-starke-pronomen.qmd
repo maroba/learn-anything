@@ -200,20 +200,20 @@ Male [*moi aussi*]{lang="fr"} und hilft hier nicht. Und die Rückfrage heißt
 
 Am Tisch fällt ein Satz, du antwortest kurz. Welche Antwort passt? Im Chat: „1a, 2b, …“.
 
-1. [Δεν ξέρω τι να πω.]{lang="el"} – Ich auch nicht: (a) [Ούτε εγώ.]{lang="el"}
-   [(b) Ούτε εμένα.]{lang="el"}
-2. [Μου λείπει η θάλασσα.]{lang="el"} – Mir auch: (a) [Κι εγώ.]{lang="el"}
-   [(b) Κι εμένα.]{lang="el"}
-3. [Δε μου αρέσει το ούζο.]{lang="el"} – Mir auch nicht: (a) [Ούτε εγώ.]{lang="el"}
-   [(b) Ούτε εμένα. (c) Ούτε μου.]{lang="el"}
-4. [Ποιον κλήρωσαν;]{lang="el"} – Mich: (a) [Εγώ.]{lang="el"} (b) [Εμένα.]{lang="el"}
-   [(c) Με.]{lang="el"}
-5. Ist der Kaffee für mich? [Ο καφές είναι …]{lang="el"} (a) [για με;]{lang="el"}
-   [(b) για μένα; (c) για μου;]{lang="el"}
-6. [Μου αρέσει η Αίγινα.]{lang="el"} – Und dir? (a) [Κι εσύ;]{lang="el"}
-   [(b) Κι εσένα;]{lang="el"}
-7. Er sitzt neben mir: [Κάθεται …]{lang="el"} (a) [δίπλα μου.]{lang="el"}
-   [(b) δίπλα εμένα. (c) δίπλα σε μένα.]{lang="el"}
+1. [Δεν ξέρω τι να πω.]{lang="el"} – Ich auch nicht: (a) [Ούτε εγώ.]{lang="el"} (b)
+   [Ούτε εμένα.]{lang="el"}
+2. [Μου λείπει η θάλασσα.]{lang="el"} – Mir auch: (a) [Κι εγώ.]{lang="el"} (b)
+   [Κι εμένα.]{lang="el"}
+3. [Δε μου αρέσει το ούζο.]{lang="el"} – Mir auch nicht: (a) [Ούτε εγώ.]{lang="el"} (b)
+   [Ούτε εμένα.]{lang="el"} (c) [Ούτε μου.]{lang="el"}
+4. [Ποιον κλήρωσαν;]{lang="el"} – Mich: (a) [Εγώ.]{lang="el"} (b) [Εμένα.]{lang="el"} (c)
+   [Με.]{lang="el"}
+5. Ist der Kaffee für mich? [Ο καφές είναι …]{lang="el"} (a) [για με;]{lang="el"} (b)
+   [για μένα;]{lang="el"} (c) [για μου;]{lang="el"}
+6. [Μου αρέσει η Αίγινα.]{lang="el"} – Und dir? (a) [Κι εσύ;]{lang="el"} (b)
+   [Κι εσένα;]{lang="el"}
+7. Er sitzt neben mir: [Κάθεται …]{lang="el"} (a) [δίπλα μου.]{lang="el"} (b)
+   [δίπλα εμένα.]{lang="el"} (c) [δίπλα σε μένα.]{lang="el"}
 
 Dann laut übersetzen:
 
@@ -317,7 +317,59 @@ nicht ihn.“ Warum das so ist, zeigt @sec-emphase-ueberschrift.
   „mich kennt er“.
 :::
 
-<!-- EXERCISE: Lernziel: starkes und schwaches Pronomen kombinieren (εμένα μου, εσένα σε, αυτόν τον, εμάς μας), vorn und nachgestellt; Art: Sätze laut umformen („Betone die Person“) und kurze deutsche Sätze mit betontem Pronomen mündlich übersetzen (MIR gefällt’s nicht; DICH hat er angerufen, nicht mich; UNS fehlt das Meer); Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 20.2: Mir jedenfalls
+
+**Teil A.** Betone die Person: Sag jeden Satz laut mit starkem Pronomen vorn.
+
+1. [Μου λείπει η Αθήνα.]{lang="el"}
+2. [Σε περιμένουν.]{lang="el"}
+3. [Δεν τον ξέρω.]{lang="el"} (ihn)
+4. [Μας ρώτησαν.]{lang="el"}
+5. [Σας αρέσει;]{lang="el"}
+
+**Teil B.** Laut übersetzen; die Großbuchstaben tragen die Betonung.
+
+6. MIR gefällt das nicht.
+7. UNS fehlt das Meer.
+8. DICH hat er angerufen, nicht mich.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Das schwache Pronomen bleibt stehen, das starke kommt davor. Für „ihn“ nimmst du
+[αυτόν]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[δεν]{lang="el"} bleibt direkt vor dem schwachen Pronomen. In Satz 8: [τηλεφωνώ]{lang="el"} nimmt
+[σε]{lang="el"} (Kapitel 2), und nach einer Präposition steht nur das starke Pronomen.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [Εμένα μου λείπει η Αθήνα.]{lang="el"}
+2. [Εσένα σε περιμένουν.]{lang="el"}
+3. [Αυτόν δεν τον ξέρω.]{lang="el"}
+4. [Εμάς μας ρώτησαν.]{lang="el"}
+5. [Εσάς σας αρέσει;]{lang="el"}
+6. [Εμένα δε μου αρέσει (αυτό).]{lang="el"} Umgangssprachlich und etwas gereizt: [Δε μου αρέσει
+   εμένα αυτό.]{lang="el"}
+7. [Εμάς μας λείπει η θάλασσα.]{lang="el"}
+8. [Σε σένα τηλεφώνησε, όχι σε μένα.]{lang="el"} (auch [σ’ εσένα … σ’ εμένα]{lang="el"}). Hier gibt
+   es kein schwaches Pronomen zu verdoppeln, weil die Person hinter einer Präposition steht.
+
+**Typische Fehler:** \*[Εμάς λείπει]{lang="el"} (das schwache fehlt); \*[Εμείς μας
+λείπει]{lang="el"} (Subjekt ist das Meer, „uns“ ist Objekt); \*[Αυτόν τον δεν ξέρω]{lang="el"}
+(zwischen [δεν]{lang="el"} und Verb passt nur das schwache Pronomen).
+:::
+
+<!-- CHECK: Übung 20.2, Satz 8: „Σε σένα τηλεφώνησε, όχι σε μένα“ natürlich? Alternative mit Klitikon „Εσένα σε πήρε τηλέφωνο, όχι εμένα“ im Gespräch akzeptabel oder wegen des Kontrasts eher ohne „σε“? -->
+
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
