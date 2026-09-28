@@ -183,7 +183,7 @@ Auch das Mediopassiv aus Kapitel 13 folgt dem Muster: [θα γραφτεί → �
 
 **Nur mit [έχω]{lang="el"}.** Deutsch und Französisch nehmen bei vielen Verben der Bewegung „sein“:
 „sie ist gegangen“, [*elle est partie*]{lang="fr"}. Das Griechische nimmt immer
-[έχω]{lang="el"}, wie das Spanische immer *haber* nimmt: [Έχει φύγει.]{lang="el"} –
+[έχω]{lang="el"}, wie das Spanische immer [*haber*]{lang="es"} nimmt: [Έχει φύγει.]{lang="el"} –
 [*Ha salido.*]{lang="es"} Und wie im Spanischen ändert sich der zweite Teil nie, auch nicht, wenn eine
 Frau oder viele gegangen sind: [Έχουν φύγει.]{lang="el"} – [*Han salido.*]{lang="es"}
 
@@ -229,7 +229,7 @@ der Sprecher dort lebt, ob du gekommen bist: [Έχεις έρθει ποτέ σ�
 Griechische Grammatiken nennen die Form auf [-ει]{lang="el"} [απαρέμφατο]{lang="el"},
 „Infinitiv“. Das Altgriechische hatte echte Infinitive; im Mittelalter wurden sie durch
 [να]{lang="el"}-Sätze verdrängt (Kapitel 5). Nur in der Verbindung mit [έχω]{lang="el"} überlebte
-einer, und aus mittelgriechischem [γράψειν]{lang="el"} wurde, mit dem Verlust des Schluss-ν, [γράψει]{lang="el"}.
+einer, und aus mittelgriechischem [γράψειν]{lang="el"} wurde, mit dem Verlust des Schluss-[ν]{lang="el"}, [γράψει]{lang="el"}.
 Dass er heute genauso aussieht wie die er-Form der [θα]{lang="el"}-Form, ist also ein Zufall der
 Lautgeschichte, aber ein nützlicher. Die ältere Rechtschreibung hielt beide noch auseinander:
 [να γράψη]{lang="el"}, aber [έχω γράψει]{lang="el"}.
@@ -278,7 +278,7 @@ Die unregelmäßigen: [θα δει, θα φάει, θα έρθει, θα πει,
 8. [Δεν το έχω ξεχάσει.]{lang="el"}
 
 **Typische Fehler:** \*[έχω γράψω]{lang="el"}, \*[έχουμε δούμε]{lang="el"}: Person doppelt
-markiert. \*[έχουν ήρθει]{lang="el"}: Aoriststamm statt [έρθει]{lang="el"}. \*[Δεν έχω το
+markiert. \*[έχουν ήρθει]{lang="el"}: Aoristform statt [έρθει]{lang="el"}. \*[Δεν έχω το
 ξεχάσει]{lang="el"}: Pronomen zwischen den Teilen statt vor [έχω]{lang="el"}.
 :::
 
@@ -315,8 +315,8 @@ bis jetzt reichen: [σήμερα, φέτος, αυτή την εβδομάδα, 
 das Perfekt zu Hause: [Σήμερα έχω πιει τρεις καφέδες.]{lang="el"} Auch beim Erzählen kein Perfekt: Eine Kette von Ereignissen, bei
 der man „und dann?“ fragen kann, läuft im Aorist (Kapitel 4).
 
-Englisch hilft hier mehr als Deutsch, Französisch oder Spanisch: *I saw it yesterday*, nicht
-*I have seen it yesterday*. Wo das Englische das *simple past* verlangt, ist das griechische
+Englisch hilft hier mehr als Deutsch, Französisch oder Spanisch: [*I saw it yesterday*]{lang="en"}, nicht
+[*I have seen it yesterday*]{lang="en"}. Wo das Englische das *simple past* verlangt, ist das griechische
 Perfekt falsch.
 
 ### Wofür das Perfekt da ist {#sec-perfekt-aufgaben}
@@ -342,8 +342,8 @@ Zwei englische Gewohnheiten führen in die Irre:
 
 | Englisch | Griechisch | Beispiel |
 |---|---|---|
-| *I've just arrived.* | [μόλις]{lang="el"} + Aorist | [Μόλις έφτασα.]{lang="el"} |
-| *I've lived here for ten years.* | Präsens + [εδώ και]{lang="el"} | [Ζω στην Αθήνα εδώ και δέκα χρόνια.]{lang="el"} |
+| [*I've just arrived.*]{lang="en"} | [μόλις]{lang="el"} + Aorist | [Μόλις έφτασα.]{lang="el"} |
+| [*I've lived here for ten years.*]{lang="en"} | Präsens + [εδώ και]{lang="el"} | [Ζω στην Αθήνα εδώ και δέκα χρόνια.]{lang="el"} |
 
 [μόλις]{lang="el"} „gerade eben“ holt ein Ereignis ganz nah heran, bleibt aber normalerweise
 beim Aorist (Kapitel 3 und 7). [Μόλις έχω φτάσει]{lang="el"} kommt vor, eher geschrieben; im
@@ -391,8 +391,8 @@ Im Chat reicht „1A, 2P, …“.
 2. Warst du schon mal auf Kreta?
 3. Hast du schon gegessen?
 4. Wann bist du angekommen?
-5. Ich bin gerade angekommen. (*I've just arrived.*)
-6. Ich lerne seit zwei Jahren Griechisch. (*I've been learning Greek for two years.*)
+5. Ich bin gerade angekommen. ([*I've just arrived.*]{lang="en"})
+6. Ich lerne seit zwei Jahren Griechisch. ([*I've been learning Greek for two years.*]{lang="en"})
 7. Bis jetzt hat das Feuer 500 Stremmata verbrannt.
 8. Den Film habe ich 2019 im Kino gesehen.
 9. Es hat seit drei Monaten nicht geregnet.
@@ -408,7 +408,7 @@ man es auf Englisch sagen, *simple past* oder *present perfect*?
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Das Englische hilft nicht bei allem: *just* verlangt im britischen Englisch das *present perfect*, im Griechischen
+Das Englische hilft nicht bei allem: [*just*]{lang="en"} verlangt im britischen Englisch das *present perfect*, im Griechischen
 [μόλις]{lang="el"} + Aorist. Und was jetzt noch andauert, ist Präsens. Bei „schon“ im Gespräch
 denk an [Έφαγες;]{lang="el"}
 :::
@@ -482,7 +482,7 @@ sagte Kapitel 11 zu [εδώ και]{lang="el"}?
 - **5.** [πότε;]{lang="el"} verlangt den Aorist: [Πότε έφτασες;]{lang="el"}
 - **7.** Das Pronomen steht vor [έχω]{lang="el"}: [Το έχω διαβάσει.]{lang="el"}
 - **9.** Er wohnt noch dort, also Präsens: [Μένω στην Αθήνα εδώ και δέκα χρόνια.]{lang="el"} Das ist
-   die englische Falle *I've lived here for ten years*. Ohne [εδώ και]{lang="el"} wäre
+   die englische Falle [*I've lived here for ten years*]{lang="en"}. Ohne [εδώ και]{lang="el"} wäre
    [Έχω μείνει δέκα χρόνια στην Αθήνα.]{lang="el"} möglich, meint aber eher: irgendwann im Leben
    zehn Jahre dort gewohnt.
 
@@ -573,7 +573,7 @@ Die Zeitstempel-Regel betrifft nur das Perfekt mit [έχω]{lang="el"}. Das Plus
 im Gegenteil einen Bezugspunkt in der Vergangenheit und steht deshalb gern neben einem
 [όταν]{lang="el"}-Satz oder einem Datum.
 
-Englisch *had crossed*, Spanisch [*había pasado*]{lang="es"} funktionieren wie das Griechische,
+Englisch [*had crossed*]{lang="en"}, Spanisch [*había pasado*]{lang="es"} funktionieren wie das Griechische,
 und auch hier nur mit „haben“: [είχε φύγει]{lang="el"} „war gegangen“.
 
 **Mit [ξανα-]{lang="el"}: noch nie zuvor.** Die Vorsilbe [ξανα-]{lang="el"} „wieder“ (vgl.
@@ -710,7 +710,7 @@ die zweite. Im Chat: „1b, 2a, …“.
    **(c)** am Abend
 2. Wer hat Wasser abgeworfen? **(a)** sechs Flugzeuge und vier Hubschrauber · **(b)** achtzig
    Flugzeuge · **(c)** dreißig Hubschrauber
-3. Wie viel ist bis zum Abend verbrannt? **(a)** etwa 300 Stremmata · **(b)** etwa 3 000
+3. Wie viel ist bis zum Abend verbrannt? **(a)** etwa 300 Stremmata · **(b)** etwa 3000
    Stremmata · **(c)** etwa 30 000 Stremmata
 4. Was geschah in der Nacht? **(a)** Das Feuer erreichte das erste Dorf. · **(b)** Der Wind legte
    sich, die Front wurde vor dem Dorf gestoppt. · **(c)** Das Dorf wurde geräumt.
@@ -817,7 +817,7 @@ und springt mit dem Plusquamperfekt zurück ([είχε χάσει, είχαν μ
 Nachrichten sprechen gehobener als der Vater am Telefon. Sie sagen [η πυρκαγιά]{lang="el"}, wo man
 im Alltag [η φωτιά]{lang="el"} sagt, [ισχυροί άνεμοι]{lang="el"} statt [δυνατός αέρας]{lang="el"},
 [αεροσκάφη]{lang="el"} statt [αεροπλάνα]{lang="el"}. Und sie messen Flächen in **Stremmata**:
-[ένα στρέμμα]{lang="el"} sind 1 000 Quadratmeter, zehn ergeben einen Hektar. Wer
+[ένα στρέμμα]{lang="el"} sind 1000 Quadratmeter, zehn ergeben einen Hektar. Wer
 [τρεις χιλιάδες στρέμματα]{lang="el"} hört, rechnet also 300 Hektar.
 
 Oft hörst du dort auch das Perfekt des Mediopassivs: [έχουν καεί]{lang="el"} „sind verbrannt“,
@@ -882,7 +882,7 @@ Hälfte heißt: dieselbe Stelle noch einmal hören.
 | [η περιοχή]{lang="el"} | [i perioˈçi] | die Gegend, das Gebiet |
 | [ο κάτοικος]{lang="el"} | [o ˈkatikos] | der Einwohner, Bewohner |
 | [μέχρι στιγμής]{lang="el"} | [ˈmexri stiɣˈmis] | bisher (Nachrichten) |
-| [το στρέμμα, τα στρέμματα]{lang="el"} | [to ˈstrema], [ta ˈstremata] | das Stremma (1 000 m²) |
+| [το στρέμμα, τα στρέμματα]{lang="el"} | [to ˈstrema], [ta ˈstremata] | das Stremma (1000 m²) |
 | [καταφέρνω, κατάφερα]{lang="el"} | [kataˈferno], [kaˈtafera] | schaffen, es schaffen; [να καταφέρει]{lang="el"} |
 | [ο κίνδυνος]{lang="el"} | [o ˈcinðinos] | die Gefahr |
 | [η Πολιτική Προστασία]{lang="el"} | [i politiˈci prostaˈsia] | der Katastrophenschutz |
@@ -1062,7 +1062,7 @@ das Grundverb.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Teil B: Nicht jedes [έχει]{lang="el"} oder [είχαμε]{lang="el"} ist ein Perfekt. Es braucht eine
+Teil B: Nicht jedes [έχει]{lang="el"} oder [είχαμε]{lang="el"} ist ein Perfekt oder Plusquamperfekt. Es braucht eine
 Form auf [-ει]{lang="el"} dahinter; [έχει μια έκπληξη]{lang="el"} und [είχαμε μόνο
 κουβάδες]{lang="el"} zählen nicht.
 :::
@@ -1100,7 +1100,7 @@ fünfzehn Jahre, bis sie genug Zapfen trägt. Zu 6: [Το ’21 είχαμε μ�
    bestimmter Punkt in der Vergangenheit, nicht jedes Zeitwort.
 8. Die Jahreszahl gehört zum Hauptsatz: 2023 geschah der Brand, Aorist. Der Nebensatz blickt
    mit [ποτέ]{lang="el"} von jetzt auf alles, was die EU bisher erfasst hat: Perfekt, wie
-   *the largest fire the EU has ever recorded*.
+   [*the largest fire the EU has ever recorded*]{lang="en"}.
 :::
 
 ::: {.vocab}

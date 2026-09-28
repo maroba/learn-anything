@@ -377,7 +377,7 @@ wäscht sich nicht selbst. In B wird aus dem Akkusativ ein Nominativ: [έναν 
 2. [Τα βρήκαν σφουγγαράδες από τη Σύμη.]{lang="el"} oder [Σφουγγαράδες από τη Σύμη βρήκαν τα
    αγάλματα.]{lang="el"} Ohne [τα]{lang="el"} wird es
    zweideutig: [Τα αγάλματα βρήκαν …]{lang="el"} kann auch heißen „Die Statuen fanden …“, denn
-   Nominativ und Akkusativ Plural sind im Neutrum gleich. Mit Nomen und Pronomen: [Τα αγάλματα
+   Nominativ und Akkusativ Plural sind bei sächlichen Nomen gleich. Mit Nomen und Pronomen: [Τα αγάλματα
    τα βρήκαν σφουγγαράδες.]{lang="el"} (Doppelung, Kapitel 20)
 
 :::
@@ -430,7 +430,7 @@ zusätzlich den Vokal.
 Das Augment verschwindet, weil es nichts mehr zu tragen hat: [έγραψα]{lang="el"}, aber
 [γράφτηκα]{lang="el"}, [γρά-φτη-κα]{lang="el"} hat schon drei Silben.
 
-**Die Ausreißer** muss man lernen, aber es sind die häufigsten:
+**Die unregelmäßigen Aoriste** muss man lernen, aber es sind die häufigsten:
 
 | Aktiv | Aktiv-Aorist | Mediopassiv-Aorist |
 |---|---|---|
@@ -459,7 +459,7 @@ Neues?“, eine der häufigsten Begrüßungen unter Freunden.
   ([πιστεύτηκε]{lang="el"}), [-να]{lang="el"} wird [-θηκα]{lang="el"} ([ζεστάθηκα]{lang="el"}).
 - Endungen [-ηκα, -ηκες, -ηκε, -ήκαμε, -ήκατε, -ηκαν]{lang="el"}, Betonung auf der drittletzten
   Silbe, kein Augment.
-- Ausreißer: [βρέθηκα, χάθηκα, πλύθηκα, ντύθηκα, δόθηκε]{lang="el"}; das Mediopassiv von
+- Unregelmäßig: [βρέθηκα, χάθηκα, πλύθηκα, ντύθηκα, δόθηκε]{lang="el"}; das Mediopassiv von
   [κάνω]{lang="el"} ist [γίνομαι]{lang="el"}.
 :::
 
@@ -526,7 +526,7 @@ Die Aktiv-Aoriste: [κατασκεύασα, έκρυψα, έφτιαξα, μελ
 - f) [πληρωθήκαμε]{lang="el"}, Betonung wie bei [θυμηθήκαμε]{lang="el"}
 - g) [γνωριστήκαμε]{lang="el"}: [γνώρισα]{lang="el"} endet auf [-ισα]{lang="el"}, nicht auf
   [-ησα]{lang="el"}; also [σ → στ]{lang="el"}, nicht \*[γνωριθήκαμε]{lang="el"}.
-- h) [βρέθηκαν]{lang="el"}, der Ausreißer.
+- h) [βρέθηκαν]{lang="el"}, unregelmäßig.
 
 **B:**
 
@@ -599,8 +599,8 @@ g) Zieh dich an, wir gehen!
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Einmal, als Ganzes → Foto: Aoriststamm, betonte Endung ([θα βρεθώ]{lang="el"}). Wiederholt,
-Gewohnheit → Film: Präsensstamm ([να σηκώνομαι]{lang="el"}).
+Einmal, als Ganzes → Foto: perfektiver Stamm, betonte Endung ([θα βρεθώ]{lang="el"}). Wiederholt,
+Gewohnheit → Film: imperfektiver Stamm ([να σηκώνομαι]{lang="el"}).
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -780,7 +780,7 @@ Meeresgrund, [το Πολεμικό Ναυτικό]{lang="el"} die Kriegsmarine.
 ::: {.callout-note .exercise}
 ## Übung 13.6: Erst hören
 
-Hör den Text zweimal mit ▶, ohne ihn aufzuklappen.
+Hör den Text zweimal mit ▶, ohne den Text aufzuklappen.
 
 **A.** Richtig oder falsch? Im Chat reicht „a R, b F, …“.
 
@@ -979,7 +979,7 @@ Nachprüfen wiederzufinden ist ein guter Wert.
 - **Aorist** vom Aktiv-Aorist aus: [-σα → -στηκα, -ψα → -φτηκα, -ξα → -χτηκα, -ησα → -ήθηκα,
   -ωσα → -ώθηκα]{lang="el"}, meist; [-εύω]{lang="el"} behält [ευ]{lang="el"}
   ([πιστεύτηκε]{lang="el"}), [-να → -θηκα]{lang="el"} ([ζεστάθηκα]{lang="el"}). Drittletzte
-  Silbe, kein Augment. Ausreißer: [βρέθηκα, χάθηκα, πλύθηκα, ντύθηκα, δόθηκε]{lang="el"}; zu
+  Silbe, kein Augment. Unregelmäßig: [βρέθηκα, χάθηκα, πλύθηκα, ντύθηκα, δόθηκε]{lang="el"}; zu
   [κάνω]{lang="el"} gehört [γίνομαι]{lang="el"}.
 - **Futur, [να]{lang="el"}-Form:** [θα βρεθώ, να γραφτεί]{lang="el"}, betont auf der Endung;
   Film [θα βρίσκομαι]{lang="el"}.
@@ -1048,7 +1048,7 @@ mit ▶.
 - **„Computer“** ist ein Vergleich: ein mechanisches Rechengerät, das mit Zahnrädern
   astronomische Zyklen nachbildet, kein programmierbares Gerät.
 
-Zum Nachlesen: Jo Marchant, *Decoding the Heavens* (2008), und die Veröffentlichungen des
+Zum Nachlesen: Jo Marchant, [*Decoding the Heavens*]{lang="en"} (2008), und die Veröffentlichungen des
 Antikythera Mechanism Research Project.
 :::
 

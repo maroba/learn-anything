@@ -17,7 +17,7 @@
 | 10 Verben auf -μαι im Alltag | veröffentlicht | Welle 4; Audio vollständig |
 | 12 Vergleichen und Zwischenbilanz | veröffentlicht | Welle 6; Audio läuft |
 | 13 Es wurde gefunden: das Mediopassiv | Konsistenz | Welle 7; überarbeitet |
-| 14 Hast du schon …? Perfekt und Plusquamperfekt | Konsistenz | Welle 7; überarbeitet |
+| 14 Hast du schon …? Perfekt und Plusquamperfekt | fertig | Welle 7; wartet auf 13 |
 | 15 Der Film, den ich gesehen habe: Relativsätze | Entwurf | Welle 7 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
