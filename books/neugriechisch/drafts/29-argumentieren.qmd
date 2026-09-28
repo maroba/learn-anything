@@ -19,7 +19,7 @@ title: "Argumentieren"
 
 Im obersten Stock des Akropolismuseums in Athen sieht man durch eine Glaswand den Parthenon. Davor
 hängt sein Fries, in derselben Anordnung wie einst am Tempel: honigfarbener Marmor, dazwischen
-immer wieder schneeweiße Gipsabgüsse. Die Originale der weißen Stücke stehen im British Museum in
+immer wieder schneeweiße Gipsabgüsse. Die meisten Originale der weißen Stücke stehen im British Museum in
 London. Seit fast zweihundert Jahren fordert Griechenland sie zurück, und für dieses Kapitel ist
 das ein Glücksfall: Kaum ein Thema erzeugt so viele *aber*, *trotzdem* und *folglich*.
 
@@ -74,8 +74,8 @@ Beide Briefe sind höflich, beide begründen, und beide benutzen dieselben Werkz
 | [άρα]{lang="el"} | Folgerung | also |
 
 Mit diesen Wörtern kann man nicht nur behaupten, sondern zeigen, wie die eigenen Gründe
-zusammenhängen. Das ist Argumentieren. Vier davon klingen nach Zeitung, und das ist kein Zufall;
-dazu mehr in @sec-argument-abwaegen.
+zusammenhängen. Das ist Argumentieren. Die meisten davon klingen eher nach Zeitung als nach
+Küchentisch, und das ist kein Zufall; dazu mehr in @sec-argument-register.
 
 Schon der Name ist ein Argument. Griechisch heißen die Stücke [τα Γλυπτά του Παρθενώνα]{lang="el"}
 „die Skulpturen des Parthenon“, im Englischen lange [*Elgin Marbles*]{lang="en"}, nach dem Mann,
@@ -125,18 +125,24 @@ hat drei Silben, [άδεια]{lang="el"} [ˈaðʝa] „leer“ nur zwei.
 
 ## Aber, trotzdem, obwohl: [ωστόσο]{lang="el"} und [παρόλο που]{lang="el"} {#sec-argument-gegensatz}
 
-Eleni hält dagegen, Nikos räumt erst etwas ein und bleibt dann bei seiner Sicht. Für
-beides hat das Griechische zwei Sorten Wörter, genau wie das Deutsche: solche, die zwei
-Hauptsätze verbinden („jedoch, trotzdem“), und Konjunktionen, die einen Nebensatz einleiten
+Zwei Begriffe vorweg. Ein **Gegensatz** stellt zwei Dinge gegeneinander: „Das Museum sagt A,
+aber das Original fehlt.“ Eine **Einräumung** gibt etwas zu und bleibt trotzdem bei der eigenen
+Sicht: „Obwohl ich das verstehe, …“, „Zwar …, trotzdem …“. Eleni setzt einen Gegensatz, Nikos
+räumt ein. Für beides gibt es im Griechischen wie im Deutschen zwei Bauweisen: Wörter, die
+Hauptsätze verbinden („aber, trotzdem“), und Konjunktionen, die einen Nebensatz einleiten
 („obwohl“).
 
 | | verbindet Hauptsätze | leitet Nebensatz ein |
 |---|---|---|
-| neutral | [αλλά, όμως]{lang="el"} | [αν και]{lang="el"} |
-| nachdrücklicher, eher geschrieben | [ωστόσο]{lang="el"}, [παρ’ όλα αυτά]{lang="el"} | [παρόλο που]{lang="el"} |
+| **Gegensatz** „aber“ | [αλλά, όμως, ωστόσο]{lang="el"} | [ενώ]{lang="el"} (Kapitel 16) |
+| **Einräumung** „obwohl, trotzdem“ | [παρ’ όλα αυτά]{lang="el"} | [αν και, παρόλο που]{lang="el"} |
 
-**[ωστόσο]{lang="el"}** [osˈtoso] „jedoch, dennoch“ ist ein förmlicheres [όμως]{lang="el"}. Es
-eröffnet gern einen neuen Satz, mit Komma, oder steht nach dem ersten Satzglied:
+Die Grenze zwischen den Zeilen ist weich: [ωστόσο]{lang="el"} heißt auch „dennoch“ und räumt dann
+ein. Die Grenze zwischen den Spalten ist hart, denn an ihr hängt der Satzbau.
+
+**[ωστόσο]{lang="el"}** [osˈtoso] „jedoch, dennoch“ ist eher geschrieben und im Ton milder als
+[όμως]{lang="el"}. Es eröffnet gern einen neuen Satz, mit Komma, oder steht nach dem ersten
+Satzglied:
 
 - [Ο Έλγιν είχε κάποια άδεια. Ωστόσο, το πρωτότυπο δε βρέθηκε ποτέ.]{lang="el"}
 - [Το πρωτότυπο, ωστόσο, δε βρέθηκε ποτέ.]{lang="el"}
@@ -144,18 +150,19 @@ eröffnet gern einen neuen Satz, mit Komma, oder steht nach dem ersten Satzglied
 Englisch [*however*]{lang="en"}, französisch [*cependant*]{lang="fr"}, spanisch [*sin embargo*]{lang="es"} wandern genauso. Im Gespräch
 sagt man meist [όμως]{lang="el"}, und zwar lieber an zweiter Stelle: [Το πρωτότυπο όμως δε
 βρέθηκε.]{lang="el"} **[παρ’ όλα αυτά]{lang="el"}** [parˈola afˈta], wörtlich „trotz all dem“, ist
-das deutsche „trotzdem“ und in Gespräch wie Zeitung zu Hause. Viele schreiben es auch
+das deutsche „trotzdem“, neutral und in Gespräch wie Zeitung zu Hause. Viele schreiben es auch
 [παρόλα αυτά]{lang="el"}.
 
 **[παρόλο που]{lang="el"}** [paˈrolo pu] „obwohl“ leitet einen Nebensatz ein, mit normalem Verb in
-jeder Zeit, wie [αν και]{lang="el"}. Es klingt nachdrücklicher, etwa „obwohl doch, auch wenn
-feststeht, dass“:
+jeder Zeit, wie [αν και]{lang="el"}. Es klingt nachdrücklicher und etwas schriftlicher (Kapitel 16),
+etwa „obwohl doch, auch wenn feststeht, dass“:
 
 - [Παρόλο που τα γλυπτά είναι στο Λονδίνο εδώ και διακόσια χρόνια, πολλοί Έλληνες τα θεωρούν
   κομμάτι της Αθήνας.]{lang="el"}
 
-Nach [παρόλο που]{lang="el"} steht wie nach [αν και]{lang="el"} **nie [να]{lang="el"}**, auch wenn
-[*bien que*]{lang="fr"} + Subjonctif im Hinterkopf etwas anderes flüstert.
+Das [παρόλο]{lang="el"} ist französischem [*malgré tout*]{lang="fr"} „trotz allem“ nachgebildet.
+Trotzdem steht nach [παρόλο που]{lang="el"} wie nach [αν και]{lang="el"} **nie [να]{lang="el"}**,
+auch wenn [*bien que*]{lang="fr"} + Subjonctif im Hinterkopf etwas anderes flüstert.
 
 ::: {.callout-warning}
 ## Achtung
@@ -165,9 +172,12 @@ Nach [παρόλο που]{lang="el"} steht wie nach [αν και]{lang="el"} **
 
 - [Παρόλο που το μουσείο δεν μπορεί να τα δώσει, οι συζητήσεις συνεχίζονται.]{lang="el"}
 - [Το μουσείο δεν μπορεί να τα δώσει. Παρ’ όλα αυτά, οι συζητήσεις συνεχίζονται.]{lang="el"}
+
+Merksatz: [παρ’ όλα αυτά]{lang="el"} blickt zurück, [παρόλο που]{lang="el"} kündigt an.
 :::
 
-Drei Wendungen machen das Einräumen und Widersprechen komplett:
+Drei Wendungen machen das Einräumen komplett, die ersten beiden gehören in die Zeile
+„Einräumung“:
 
 - **[ναι μεν …, αλλά …]{lang="el"}** „zwar …, aber …“: Man gibt der Gegenseite einen Punkt und
   nimmt ihn im selben Atemzug zurück. Das Muster aus dem Tipp in Kapitel 20 als feste Formel.
@@ -175,8 +185,9 @@ Drei Wendungen machen das Einräumen und Widersprechen komplett:
   [Ναι μεν το Βρετανικό Μουσείο τα φύλαξε, αλλά δεν τα έφτιαξε.]{lang="el"} Das [μεν]{lang="el"}
   ist ein Überbleibsel des altgriechischen [μεν … δε]{lang="grc"}, mit dem Thukydides (Kapitel 20)
   ganze Seiten baute.
-- **[ακόμα κι αν]{lang="el"}** „selbst wenn“ nimmt die Formen von [αν]{lang="el"}: real mit der
-  zeitlosen Form ([Ακόμα κι αν αλλάξει ο νόμος, η συμφωνία δε θα είναι εύκολη.]{lang="el"}), irreal
+- **[ακόμα κι αν]{lang="el"}** „selbst wenn“ leitet einen Nebensatz ein und nimmt die Formen von
+  [αν]{lang="el"}: real wie in Kapitel 17, für ein kommendes Ereignis also das Foto ([Ακόμα κι αν
+  αλλάξει ο νόμος, η συμφωνία δε θα είναι εύκολη.]{lang="el"}), irreal
   mit dem Imperfekt wie in Kapitel 24 ([Κι αν ακόμα υπήρχε, θα ήταν άδεια των
   Οθωμανών.]{lang="el"}). Die Reihenfolge [κι αν ακόμα]{lang="el"} ist gleichwertig.
 - **[παρά]{lang="el"}** + Akkusativ „trotz“, vor allem in Nachrichten: [παρά τις
@@ -197,14 +208,12 @@ Sag jede Lösung laut, dann klapp auf.
    Αθήνα δεν έχει δανείσει ποτέ κανένα.]{lang="el"}
 
 **Teil B.** Verbinde mit [ναι μεν …, αλλά …]{lang="el"}, einmal für jede Seite:
-[Το Μουσείο της Ακρόπολης είναι δίπλα στον Παρθενώνα.]{lang="el"} · [Το Βρετανικό Μουσείο έχει
+[Το Μουσείο της Ακρόπολης είναι κάτω από την Ακρόπολη.]{lang="el"} · [Το Βρετανικό Μουσείο έχει
 πολύ περισσότερους επισκέπτες.]{lang="el"}
 
 **Teil C.** Sag mit [κι αν ακόμα]{lang="el"}: „Selbst wenn es das Gesetz nicht gäbe, wäre die
 Rückgabe eine politische Entscheidung.“
 :::
-
-<!-- CHECK: Leihgabe 2014 (Flussgott Ilissos an die Eremitage, St. Petersburg), seither keine an Athen; Besucherzahlen BM deutlich höher als Akropolismuseum -->
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
@@ -225,14 +234,14 @@ Die Verben bleiben, wie sie sind; nur Verbindungswort und Satzgrenze wandern. Te
 
 **Teil A**
 
-1. [Η Αθήνα έχει νέο μουσείο. Ωστόσο, τα γλυπτά δεν επέστρεψαν.]{lang="el"} Auch
-   [Παρ’ όλα αυτά, …]{lang="el"} oder [Τα γλυπτά, ωστόσο, …]{lang="el"}
+1. [Η Αθήνα έχει νέο μουσείο. Παρ’ όλα αυτά, τα γλυπτά δεν επέστρεψαν.]{lang="el"} Auch
+   [Ωστόσο, …]{lang="el"} (dann „dennoch“) oder [Τα γλυπτά, ωστόσο, …]{lang="el"}
 2. [Παρόλο που ο νόμος απαγορεύει την επιστροφή, οι συζητήσεις συνεχίζονται.]{lang="el"}
    [Αν και]{lang="el"} geht auch, gesprächiger.
 3. [Παρόλο που το Βρετανικό Μουσείο δάνεισε το 2014 ένα από τα γλυπτά σε μουσείο της Ρωσίας,
    στην Αθήνα δεν έχει δανείσει ποτέ κανένα.]{lang="el"} Aorist und Perfekt bleiben.
 
-**Teil B:** [Ναι μεν το Μουσείο της Ακρόπολης είναι δίπλα στον Παρθενώνα, αλλά το Βρετανικό
+**Teil B:** [Ναι μεν το Μουσείο της Ακρόπολης είναι κάτω από την Ακρόπολη, αλλά το Βρετανικό
 Μουσείο έχει πολύ περισσότερους επισκέπτες.]{lang="el"} Für die andere Seite die Hälften
 tauschen. Das Gewicht liegt immer auf dem [αλλά]{lang="el"}-Teil.
 
@@ -244,16 +253,15 @@ Auch [Ακόμα κι αν …]{lang="el"}.
 - *[Παρόλο που ο νόμος να απαγορεύει …]{lang="el"}: nie [να]{lang="el"}, wie nach
   [αν και]{lang="el"}.
 - [Παρ’ όλα αυτά ο νόμος απαγορεύει …, …]{lang="el"} heißt „Trotzdem verbietet das Gesetz …“ und
-  bezieht sich auf einen Satz davor. [παρ’ όλα αυτά]{lang="el"} blickt zurück,
-  [παρόλο που]{lang="el"} kündigt an.
+  bezieht sich auf einen Satz davor: [παρ’ όλα αυτά]{lang="el"} blickt zurück.
 :::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [ωστόσο]{lang="el"} | [osˈtoso] | jedoch, dennoch (eher geschrieben) |
-| [παρ’ όλα αυτά]{lang="el"} | [parˈola afˈta] | trotzdem |
-| [παρόλο που]{lang="el"} | [paˈrolo pu] | obwohl (nachdrücklich, eher geschrieben) |
+| [ωστόσο]{lang="el"} | [osˈtoso] | jedoch, dennoch (eher geschrieben, milder als [όμως]{lang="el"}) |
+| [παρ’ όλα αυτά]{lang="el"} | [parˈola afˈta] | trotzdem (neutral) |
+| [παρόλο που]{lang="el"} | [paˈrolo pu] | obwohl (nachdrücklich, etwas schriftlicher) |
 | [ναι μεν …, αλλά …]{lang="el"} | [ne men … aˈla] | zwar …, aber … |
 | [ακόμα κι αν]{lang="el"} | [aˈkoma ci an] | selbst wenn |
 | [παρά]{lang="el"} | [paˈra] | trotz (+ Akk.) |
@@ -286,7 +294,8 @@ Oft passen beide. Als Faustregel: [γι’ αυτό]{lang="el"} erzählt, [επ�
 ## Übung 29.2: Palermo und London
 
 Welches Wort gehört in die Lücke? (a) [ωστόσο]{lang="el"} (b) [παρόλο που]{lang="el"} (c)
-[άρα]{lang="el"} oder [επομένως]{lang="el"} (d) [γι’ αυτό]{lang="el"}. Im Chat: „1a, 2b, …“.
+[άρα]{lang="el"} oder [επομένως]{lang="el"} (d) [γι’ αυτό]{lang="el"} (e) [παρ’ όλα αυτά]{lang="el"}.
+Im Chat: „1a, 2b, …“.
 
 ::: {lang="el" .no-audio}
 Το 2022 ένα μικρό κομμάτι της ζωφόρου ήρθε από ένα μουσείο του Παλέρμο στο Μουσείο της Ακρόπολης. Στην αρχή ήταν δανεισμός. (1) …, λίγο αργότερα η Ιταλία αποφάσισε ότι το κομμάτι θα μείνει για πάντα στην Αθήνα. (2) … είναι μικρό, για πολλούς Έλληνες ήταν μια μεγάλη μέρα. Η Ιταλία έδειξε ότι μια επιστροφή είναι δυνατή· (3) …, λένε στην Αθήνα, μπορεί να την κάνει και το Λονδίνο.
@@ -295,35 +304,35 @@ Welches Wort gehört in die Lücke? (a) [ωστόσο]{lang="el"} (b) [παρό�
 :::
 :::
 
-<!-- CHECK: Palermo-Fragment Januar 2022 als Leihgabe nach Athen, danach dauerhaft von Italien überlassen (2023?); "λίγο αργότερα" bewusst vage -->
-
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Schau, was **nach** der Lücke kommt. Folgt nach einem Komma noch ein Hauptsatz, brauchst du ein
-Nebensatzwort. Sonst: Widerspricht der Satz dem vorigen, oder folgt er daraus?
+Schau, was **nach** der Lücke kommt. Steht dort erst ein ganzer Satz, dann ein Komma und dann noch
+ein Hauptsatz, brauchst du ein Nebensatzwort. Steht das Komma direkt nach der Lücke, ist es ein
+Hauptsatzwort. Dann: Widerspricht der Satz dem vorigen, räumt er etwas ein, oder folgt er daraus?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
 Lücke 4 steht zwischen zwei Kommas mitten im Satz; nur ein Wort wandert so. In 5 folgt eine
-Handlung, in 3 und 7 ein Schluss.
+Handlung, in 3 und 7 ein Schluss. In 8 gibt jemand etwas zu und bleibt dabei.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**1a, 2b, 3c, 4a, 5d, 6b, 7c, 8a.**
+**1a, 2b, 3c, 4a, 5d (auch c), 6b, 7c, 8e.**
 
 - 2 und 6: Nebensatz, Komma, Hauptsatz, also [Παρόλο που]{lang="el"}. [Ωστόσο]{lang="el"} ließe
   den Hauptsatz ohne Anschluss; der typische Fehler, weil beide „trotz“ meinen.
-- 4: [ωστόσο]{lang="el"} nach dem ersten Satzglied, wie [Το πρωτότυπο, ωστόσο, …]{lang="el"}.
+- 4: [ωστόσο]{lang="el"} nach dem ersten Satzglied, wie [Το πρωτότυπο, ωστόσο, …]{lang="el"};
+  (e) ist hier auch möglich.
 - 5: Grund, dann Handlung: [γι’ αυτό]{lang="el"}; (c) geht auch.
 - 3 und 7: Schlüsse, also (c); in 3, einem Zitat, klingt [άρα]{lang="el"} natürlicher.
   [γι’ αυτό]{lang="el"} wäre nicht falsch, erzählt aber eher, als dass es folgert.
-- 8: Uneinig, trotzdem Gespräche: [Ωστόσο]{lang="el"}; noch treffender wäre
-  [Παρ’ όλα αυτά]{lang="el"}.
+- 8: Uneinig, trotzdem Gespräche: eine Einräumung im Hauptsatz, also
+  [Παρ’ όλα αυτά]{lang="el"}. [Ωστόσο]{lang="el"} „dennoch“ ist nicht falsch.
 :::
 
 ::: {.vocab}
@@ -340,8 +349,8 @@ Handlung, in 3 und 7 ein Schluss.
 [εφόσον]{lang="el"} [eˈfoson] kommt in beiden Briefen vor, aber nicht mit derselben Bedeutung.
 
 **Bedingung, „sofern, vorausgesetzt dass“.** Dann verhält es sich wie [αν]{lang="el"} (Kapitel
-17): Präsens für Zustände, zeitlose Form für ein Ereignis, das erst eintreten muss, nie
-[θα]{lang="el"}.
+17): Präsens für Zustände, die perfektive Form (Foto) für ein Ereignis, das erst eintreten muss,
+im Standard kein [θα]{lang="el"}.
 
 - [Λύση θα βρεθεί μόνο εφόσον υποχωρήσουν λίγο και οι δύο πλευρές.]{lang="el"}
 - [Το μουσείο μπορεί να δανείσει τα γλυπτά, εφόσον η Ελλάδα αναγνωρίσει ότι ανήκουν σε
@@ -353,29 +362,31 @@ Handlung, in 3 und 7 ein Schluss.
 - [Εφόσον από το 2009 η Αθήνα έχει μουσείο, το παλιό επιχείρημα δεν ισχύει.]{lang="el"}
 - [Εφόσον ο Έλγιν πλήρωσε για τα γλυπτά, τα θεωρούσε δικά του.]{lang="el"}
 
-Welche Bedeutung gemeint ist, zeigt die „falls“-Probe aus Kapitel 17: Passt „falls“, ist es eine
-Bedingung; passt nur „da ja“, ein Grund. Die Form hilft mit. Nach einer zeitlosen Form
-([αναγνωρίσει, υποχωρήσουν]{lang="el"}) ist es fast immer eine Bedingung, nach einer Vergangenheit
-fast immer ein Grund; beim Präsens entscheidet der Zusammenhang. [Εφόσον το θέλετε, …]{lang="el"}
-kann beides heißen, „wenn Sie wollen“ und „da Sie es ja wollen“.
+Welche Bedeutung gemeint ist, zeigt die „falls“-Probe (vgl. „ob oder falls“ in Kapitel 17): Passt
+„falls“, ist es eine Bedingung; passt nur „da ja“, ein Grund. Die Form hilft mit. Folgt die
+perfektive Form wie nach [θα]{lang="el"} (Foto: [αναγνωρίσει, υποχωρήσουν]{lang="el"}), ist es fast
+immer eine Bedingung, folgt eine Vergangenheit, fast immer ein Grund; beim Präsens entscheidet der
+Zusammenhang. [Εφόσον το θέλετε, …]{lang="el"} kann beides heißen, „wenn Sie wollen“ und „da Sie es ja wollen“.
 
-In [εφόσον]{lang="el"} steckt [όσο]{lang="el"} „so viel wie“; wörtlich heißt es „insoweit“. Es
-gehört in Verträge, Hausordnungen und Pressekonferenzen. Im Alltag sagt man [αν]{lang="el"} oder
-[αφού]{lang="el"}; wer beim Kaffee [εφόσον]{lang="el"} sagt, klingt, als lese er die
-Geschäftsbedingungen vor. Förmlich ist auch [με την προϋπόθεση ότι …]{lang="el"} „unter der
-Voraussetzung, dass …“.
+In [εφόσον]{lang="el"} steckt altgriechisch [εφ’ όσον]{lang="grc"} „für so lange wie“. Den Weg von
+der Zeit zur Bedingung und zum Grund ist auch englisch [*as long as*]{lang="en"} gegangen. Das Wort
+ist gehobener als [αν]{lang="el"} und [αφού]{lang="el"}; man liest es in Verträgen, Hausordnungen
+und hört es in Pressekonferenzen. Im Alltag sagt man häufiger [αν]{lang="el"} oder
+[αφού]{lang="el"}, das begründende [εφόσον]{lang="el"} hört man aber auch beim Kaffee:
+[Εφόσον το λες εσύ …]{lang="el"} „Da du es ja sagst …“. Förmlich ist
+[με την προϋπόθεση ότι …]{lang="el"} „unter der Voraussetzung, dass …“; danach ist, anders als nach
+[εφόσον]{lang="el"}, [θα]{lang="el"} normal ([… ότι θα …]{lang="el"}), ebenso
+[με την προϋπόθεση να …]{lang="el"}.
 
 ::: {.callout-important}
 ## Merke
 
-- [εφόσον]{lang="el"} als **Bedingung** („sofern“): Formen wie nach [αν]{lang="el"}, also
-  zeitlose Form für Kommendes, kein [θα]{lang="el"}.
+- [εφόσον]{lang="el"} als **Bedingung** („sofern“): Formen wie nach [αν]{lang="el"}, also Foto
+  für ein kommendes Ereignis, im Standard kein [θα]{lang="el"}.
 - [εφόσον]{lang="el"} als **Grund** („da ja“): normales Verb in jeder Zeit, wie
   [αφού]{lang="el"}.
-- Beides ist förmlich; im Gespräch [αν]{lang="el"} und [αφού]{lang="el"}.
+- Beides ist gehobener; im Gespräch häufiger [αν]{lang="el"} und [αφού]{lang="el"}.
 :::
-
-<!-- CHECK: εφόσον mit beiden Lesarten (υποθετικός/αιτιολογικός) nach LKN; Registerangabe "förmlich"; Herleitung aus εφ’ όσον "insoweit" -->
 
 ::: {.callout-note .exercise}
 ## Übung 29.3: Sofern oder da ja?
@@ -388,12 +399,13 @@ Voraussetzung, dass …“.
 3. Εφόσον το μουσείο δεν πήρε απάντηση, η έκθεση άνοιξε χωρίς το γλυπτό.
 4. Εφόσον βρεθεί λύση, θα σας το πούμε αμέσως.
 5. Εφόσον η κυβέρνηση έχει ήδη πει «όχι», η συζήτηση τελείωσε.
-6. Τα παιδιά μπαίνουν μόνο εφόσον είναι μαζί τους ένας μεγάλος.
+6. Τα παιδιά μπαίνουν μόνο εφόσον τα συνοδεύει ένας ενήλικας.
 7. Εφόσον είστε όλοι εδώ, ας αρχίσουμε.
 8. Εφόσον το μουσείο δεν επιστρέψει το αντικείμενο στην ώρα του, δε θα του δανείσουμε τίποτα ξανά.
 :::
 
-([η αίθουσα]{lang="el"} der Saal)
+([η αίθουσα]{lang="el"} der Saal, [συνοδεύω]{lang="el"} begleiten, [ο ενήλικας]{lang="el"} der
+Erwachsene)
 
 **Teil B.** Sag 4, 5 und 7 so, wie man es beim Kaffee sagt.
 :::
@@ -401,7 +413,7 @@ Voraussetzung, dass …“.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Zeitlose Form spricht für Bedingung, Vergangenheit für Grund. Beim Präsens (2, 6, 7) entscheidet
+Foto (Form wie nach [θα]{lang="el"}) spricht für Bedingung, Vergangenheit für Grund. Beim Präsens (2, 6, 7) entscheidet
 die „falls“-Probe: Ist die Sache offen oder schon bekannt?
 :::
 
@@ -417,7 +429,7 @@ Teil B: Bedingung wird [αν]{lang="el"}, Grund [αφού]{lang="el"}.
 
 **Teil A: 1B, 2B, 3G, 4B, 5G, 6B, 7G, 8B.**
 
-- 1, 4, 8: zeitlose Form, das Ereignis steht aus.
+- 1, 4, 8: Foto, das Ereignis steht aus.
 - 3, 5: schon geschehen; „falls die Regierung schon Nein gesagt hat“ klingt schief.
 - 2, 6: Regeln für jeden Besucher, „falls“ passt. 7: „da Sie ja alle hier sind“; als Bedingung
   absurd.
@@ -429,14 +441,14 @@ Teil B: Bedingung wird [αν]{lang="el"}, Grund [αφού]{lang="el"}.
 - [Αφού είστε όλοι εδώ, ας αρχίσουμε.]{lang="el"}
 
 **Typische Fehler:** 2 und 6 als Grund lesen, weil Präsens steht; die Probe entscheidet. Und bei
-der Bedingung [θα]{lang="el"} einschieben: [εφόσον βρεθεί]{lang="el"}, nicht
+der Bedingung [θα]{lang="el"} einschieben: Standard ist [εφόσον βρεθεί]{lang="el"}, nicht
 [εφόσον θα βρεθεί]{lang="el"}.
 :::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [εφόσον]{lang="el"} | [eˈfoson] | sofern (+ Formen wie nach [αν]{lang="el"}); da ja (förmlich) |
+| [εφόσον]{lang="el"} | [eˈfoson] | sofern (+ Formen wie nach [αν]{lang="el"}); da ja (gehoben) |
 | [η προϋπόθεση]{lang="el"} | [i proiˈpoθesi] | die Voraussetzung, Bedingung |
 | [με την προϋπόθεση ότι]{lang="el"} | [me tim broiˈpoθesi ˈoti] | unter der Voraussetzung, dass (förmlich) |
 | [ο δανεισμός]{lang="el"} | [o ðanizˈmos] | die Leihgabe, das Leihen ([δανείζω]{lang="el"}, Kapitel 8) |
@@ -444,8 +456,8 @@ der Bedingung [θα]{lang="el"} einschieben: [εφόσον βρεθεί]{lang="e
 
 ## Abwägen: ein Gerüst für die eigene Meinung {#sec-argument-abwaegen}
 
-Griechische Schüler üben das Argumentieren jahrelang für den Aufsatz ([η έκθεση]{lang="el"}) der
-landesweiten Abschlussprüfung. Ein Absatz nach diesem Muster:
+Griechische Schüler üben das Argumentieren jahrelang für den Aufsatz ([η έκθεση]{lang="el"}) in
+der landesweiten Aufnahmeprüfung für die Universitäten ([οι Πανελλαδικές]{lang="el"}). Ein Absatz nach diesem Muster:
 
 ::: {lang="el"}
 Το ζήτημα είναι αν τα Γλυπτά του Παρθενώνα πρέπει να επιστρέψουν στην Αθήνα. Από τη μία πλευρά,
@@ -462,8 +474,8 @@ Die Frage ist, ob die Parthenon-Skulpturen nach Athen zurückkehren sollen. Auf 
 gehören sie zu einem Bauwerk, das es noch gibt. Außerdem gibt es seit 2009 ein Museum, das bereit
 ist, sie aufzunehmen. Auf der anderen Seite sind sie seit zweihundert Jahren in London, und
 schließlich erlaubt das Gesetz dem Museum nicht, sie abzugeben. Zusammengefasst: Die Frage ist
-nicht nur eine juristische, sondern auch eine politische; folglich werden die Lösung, wenn es eine
-gibt, die Regierungen finden.
+nicht nur eine juristische, sondern auch eine politische; folglich werden, wenn es eine Lösung
+gibt, die Regierungen sie finden.
 :::
 
 Das Gerüst:
@@ -472,13 +484,18 @@ Das Gerüst:
    Kapitel 18).
 2. **Seiten gegenüberstellen:** [από τη μία (πλευρά) … από την άλλη (πλευρά) …]{lang="el"}
 3. **Gründe stapeln:** [πρώτον …, δεύτερον …]{lang="el"}, [επιπλέον]{lang="el"} „außerdem“,
-   [άλλωστε]{lang="el"} (auch [εξάλλου]{lang="el"}) „schließlich ja“. [άλλωστε]{lang="el"} bringt
+   [άλλωστε]{lang="el"} oder gleichbedeutend [εξάλλου]{lang="el"} „schließlich ja“. Beide bringen
    einen Grund, den eigentlich jeder kennt, fast wie [αφού]{lang="el"} im Hauptsatz.
 4. **Schluss ziehen:** [Συνοψίζοντας, …]{lang="el"} „Zusammengefasst“ (ein Gerundium, Kapitel 19),
    dann [επομένως]{lang="el"} oder die eigene Meinung ([κατά τη γνώμη μου]{lang="el"}, Kapitel 20).
 
 Dazu kommt [όχι μόνο … αλλά και …]{lang="el"} „nicht nur …, sondern auch …“, das im Absatz als
 [δεν είναι μόνο … αλλά και …]{lang="el"} erscheint.
+
+Wer mündlich streitet, muss sich außerdem das Wort nehmen und es behalten. Höflich unterbricht man
+mit [Να σας διακόψω.]{lang="el"} [na sas ðʝaˈkopso] „Darf ich Sie unterbrechen?“, wörtlich „dass
+ich Sie unterbreche“; wer unterbrochen wird, antwortet [Αφήστε με να τελειώσω.]{lang="el"}
+[aˈfiste me na teˈlioso] „Lassen Sie mich ausreden.“
 
 ### Das Argument im Irrealis {#sec-argument-irrealis}
 
@@ -487,32 +504,35 @@ Das bekannteste Argument dieses Streits steht im Irrealis der Vergangenheit (Kap
 - [Αν ο Έλγιν δεν τα είχε πάρει, θα είχαν καταστραφεί.]{lang="el"} – Hätte Elgin sie nicht
   mitgenommen, wären sie zerstört worden.
 
-Wer so argumentiert, behauptet etwas, das sich nicht prüfen lässt. Darauf gibt es zwei übliche
-Antworten: den Zweifel mit Mitteln aus Kapitel 22 ([Αυτό δεν μπορεί να το ξέρει κανείς. Μπορεί
-ναι, μπορεί και όχι.]{lang="el"}) oder die Einräumung mit Widerspruch: [Ακόμα κι αν ήταν έτσι,
-αυτό δε σημαίνει ότι είναι δικά τους.]{lang="el"} „Selbst wenn es so wäre, heißt das nicht, dass
-sie ihnen gehören.“ Übrigens arbeiten beide Seiten mit dem Irrealis: Dieselbe Bedingung, [Αν είχαν μείνει στην
-Αθήνα, …]{lang="el"}, endet bei der einen mit Zerstörung, bei der anderen mit einem vollständigen
-Fries.
+Wer so argumentiert, behauptet etwas, das sich nicht prüfen lässt. Aus der Luft gegriffen ist es
+aber nicht: Auch die Stücke, die in Athen blieben, haben gelitten, zuletzt unter der
+Luftverschmutzung des 20. Jahrhunderts (Kasten in @sec-argument-lesetext). Übliche Antworten sind
+der Zweifel mit Mitteln aus Kapitel 22 ([Αυτό δεν μπορεί να το ξέρει κανείς. Μπορεί ναι, μπορεί
+και όχι.]{lang="el"}) oder die Einräumung mit Widerspruch: [Ακόμα κι αν ήταν έτσι, αυτό δε σημαίνει
+ότι είναι δικά τους.]{lang="el"} „Selbst wenn es so wäre, heißt das nicht, dass sie ihnen gehören.“
+
+Beide Seiten arbeiten mit dem Irrealis, und beide müssen sich dieselben Antworten gefallen lassen.
+Dieselbe Bedingung, [Αν είχαν μείνει στην Αθήνα, …]{lang="el"}, endet bei der einen mit
+Zerstörung, bei der anderen mit einem vollständigen Fries. Auf das zweite kann London genauso
+antworten: [Αυτό δεν μπορεί να το ξέρει κανείς.]{lang="el"}
 
 ### Gesprochen und geschrieben {#sec-argument-register}
 
-Viele dieser Wörter sind förmlich. Wer sie im Gespräch benutzt, klingt, als halte er eine Rede;
-wer sie in der Zeitung nicht benutzt, klingt wie ein Chat. Die Grenzen sind weich, und im
+Viele dieser Wörter sind eher geschrieben. Wer nur sie benutzt, klingt beim Kaffee wie ein
+Leitartikel; wer sie in der Zeitung meidet, klingt wie ein Chat. Die Grenzen sind weich, und im
 Fernsehen reden Politiker und Juristen oft wie gedruckt:
 
-| Aufgabe | im Gespräch | geschrieben, förmlich |
+| Aufgabe | eher im Gespräch | eher geschrieben, gehoben |
 |---|---|---|
-| Gegensatz | [αλλά, όμως]{lang="el"} | [ωστόσο]{lang="el"} |
+| Gegensatz | [αλλά, όμως]{lang="el"} | [ωστόσο]{lang="el"} (milder) |
 | Einräumung | [αν και]{lang="el"} | [παρόλο που]{lang="el"}, [παρά]{lang="el"} + Akk. |
-| Folgerung | [άρα, λοιπόν, οπότε]{lang="el"} | [επομένως, συνεπώς]{lang="el"} |
+| Folgerung | [λοιπόν, οπότε]{lang="el"} | [επομένως, συνεπώς]{lang="el"} |
 | Grund | [αφού, γιατί]{lang="el"} | [εφόσον, διότι]{lang="el"} (Kapitel 16) |
 | Bedingung | [αν]{lang="el"} | [εφόσον, με την προϋπόθεση ότι]{lang="el"} |
-| Aufzählen | [και, επίσης]{lang="el"} | [πρώτον, επιπλέον, εξάλλου]{lang="el"} |
+| Aufzählen | [και, επίσης]{lang="el"} | [πρώτον, επιπλέον]{lang="el"} |
 
-[άρα, παρ’ όλα αυτά, άλλωστε, ναι μεν … αλλά]{lang="el"} fühlen sich in beiden Spalten wohl.
-
-<!-- CHECK: Registerzuordnung der Tabelle (ωστόσο, παρόλο που, επομένως, εφόσον "eher geschrieben/förmlich"; άρα, παρ’ όλα αυτά, άλλωστε neutral) mit LKN abgleichen -->
+[άρα, παρ’ όλα αυτά, άλλωστε, εξάλλου, ναι μεν … αλλά]{lang="el"} fühlen sich in beiden Spalten
+wohl, und das begründende [εφόσον]{lang="el"} hört man auch im Gespräch.
 
 ::: {.callout-note .exercise}
 ## Übung 29.4: Vom Radio in die Zeitung und zurück
@@ -564,7 +584,7 @@ Das Verb nach [εφόσον]{lang="el"} bleibt, was es nach [αφού]{lang="el"
 
 Statt [Άρα]{lang="el"} auch [Οπότε]{lang="el"}. **Typischer Fehler:** beide [εφόσον]{lang="el"}
 gleich übersetzen. Das erste ist ein Grund (das Gesetz gibt es), das zweite eine Bedingung
-(zeitlose Form). [Αφού η Ελλάδα αναγνωρίσει …]{lang="el"} hieße zeitlich „sobald Griechenland
+(Foto). [Αφού η Ελλάδα αναγνωρίσει …]{lang="el"} hieße zeitlich „nachdem, erst wenn Griechenland
 anerkannt hat“.
 :::
 
@@ -741,7 +761,7 @@ Die Jahreszahlen sind deine Anker; danach aufs Verb achten.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Frage 6 hängt an einem [εφόσον]{lang="el"} mit zeitloser Form und an der Antwort
+Frage 6 hängt an einem [εφόσον]{lang="el"} mit Foto und an der Antwort
 [Αν δανειστείς κάτι …]{lang="el"}. Frage 8: Welche Worthilfe fällt?
 :::
 

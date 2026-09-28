@@ -31,6 +31,7 @@
 | 25 Er muss gegangen sein: Vermutungen über die Vergangenheit | veröffentlicht | Welle 11; Audio läuft |
 | 26 Wortbildung I: Präfixe und Verkleinerungen | im Review | Welle 12; Übungen fertig |
 | 29 Argumentieren | Überarbeitung | Welle 11; beide Reviews da |
+| 30 Redewendungen | Entwurf | Welle 12 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 
