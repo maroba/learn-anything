@@ -1,0 +1,705 @@
+---
+title: "Wortbildung I: Präfixe und Verkleinerungen"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+- **[ξανα-]{lang="el"}** „wieder“ (Kapitel 14): [ξαναλέω, ξαναήρθε, ξαναχτίστηκε]{lang="el"};
+  mit Perfekt „noch nie“: [Δεν το έχω ξαναδεί.]{lang="el"}
+- **Verkleinerungen**, bisher nebenbei: [μισή ωρίτσα]{lang="el"} (Kapitel 2),
+  [τα κολοκυθάκια, το ματσάκι]{lang="el"} (Kapitel 6), [ο Γιωργάκης]{lang="el"} (Kapitel 7).
+- **Augment und Betonung** (Kapitel 2): Im Aorist liegt die Betonung auf der drittletzten Silbe;
+  das [ε-]{lang="el"} kommt nur dazu, wenn sonst eine Silbe fehlt.
+:::
+
+## Sonntag bei der Großmutter {#sec-praefixe-einstieg}
+
+Ein Dorf auf Lesbos, Sonntagmittag. Der Enkel ist mit der Nachtfähre aus Piräus gekommen, die
+Großmutter steht schon in der Tür, der Großvater sitzt unter der Weinlaube.
+
+::: {lang="el"}
+— Ήρθες, αγοράκι μου! Έλα, κάτσε. Θα φας κάτι;
+
+— Γιαγιά, έφαγα στο καράβι.
+
+— Στο καράβι… Τι να φας στο καράβι; Θα σου φέρω ένα πιατάκι φασολάκια, λίγο ψωμάκι, ένα
+κομματάκι τυρί. Τίποτα σπουδαίο.
+
+— Ένα πιατάκι μόνο, ε;
+
+— Και δυο κεφτεδάκια, να τα δοκιμάσεις. Γιώργο, βάλε στο παιδί ένα ουζάκι.
+
+— Ούζο το μεσημέρι;
+
+— Ένα δαχτυλάκι, ρε, για τον μεζέ. Ούζο χωρίς μεζέ δεν πίνεται.
+:::
+
+Eine Stunde später.
+
+::: {lang="el"}
+— Γιαγιά, φτάνει. Παράφαγα.
+
+— Τι παράφαγες; Δυο μπουκίτσες έφαγες.
+
+— Να σου ξαναγεμίσω το ποτήρι;
+
+— Όχι, παππού, ευχαριστώ. Πάω να ξεκουραστώ λίγο.
+
+— Πήγαινε, χρυσό μου. Και το βράδυ σου κάνω ένα γιουβετσάκι.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Da bist du ja, mein Junge! Komm, setz dich. Isst du was?
+
+— Oma, ich hab auf dem Schiff gegessen.
+
+— Auf dem Schiff … Was soll man auf dem Schiff schon essen? Ich bring dir ein Tellerchen grüne
+Bohnen, ein bisschen Brot, ein Stückchen Käse. Nichts Besonderes.
+
+— Nur ein Tellerchen, ja?
+
+— Und zwei Fleischbällchen, zum Probieren. Giorgos, schenk dem Jungen ein Ouzo ein.
+
+— Ouzo am Mittag?
+
+— Einen Fingerbreit, Mensch, zum Essen. Ouzo ohne Meze trinkt man nicht.
+
+*(Eine Stunde später.)*
+
+— Oma, es reicht. Ich hab zu viel gegessen.
+
+— Was heißt zu viel? Zwei Häppchen hast du gegessen.
+
+— Soll ich dir nachschenken?
+
+— Nein, Opa, danke. Ich geh mich ein bisschen ausruhen.
+
+— Geh nur, mein Goldstück. Und heute Abend mach ich dir ein kleines Giouvetsi.
+:::
+
+Die Großmutter serviert nichts Kleines. Die Bohnen reichen für zwei, die
+[κεφτεδάκια]{lang="el"} haben normale Größe, und das Giouvetsi am Abend wird ein ganzes Blech.
+Trotzdem ist in ihrem Mund alles klein: [πιατάκι, ψωμάκι, κομματάκι, ουζάκι,
+μπουκίτσες]{lang="el"}. Solche Wörter heißen **Verkleinerungsformen** oder **Diminutive**
+([τα υποκοριστικά]{lang="el"}). Sie verkleinern hier nicht die Sache, sondern den Anspruch: Das
+ist doch nichts, iss nur. Wer das hört, weiß auch, dass Widerstand zwecklos ist.
+
+Die zweite Sorte Wortbildung steckt vorn in den Verben. [παρά-φαγα]{lang="el"} ist
+[έφαγα]{lang="el"} mit [παρα-]{lang="el"} „zu viel“, [ξανα-γεμίσω]{lang="el"} ist
+[γεμίσω]{lang="el"} mit [ξανα-]{lang="el"} „noch einmal“, und in [ξε-κουραστώ]{lang="el"}
+steckt [κουράζομαι]{lang="el"} „müde werden“ mit [ξε-]{lang="el"}, das die Müdigkeit rückgängig
+macht. Solche **Vorsilben** (Präfixe, [τα προθήματα]{lang="el"}) sind das zweite Thema. <!-- CHECK: Fachwort „πρόθημα/προθήματα“ für Präfix in griechischen Schulgrammatiken üblich? -->
+
+Das Ziel ist vor allem Verstehen: ein unbekanntes Wort zerlegen und seine Bedeutung erraten,
+und im Gespräch hören, was ein Diminutiv gerade tut.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο μεζές, οι μεζέδες]{lang="el"} | [o meˈzes], [i meˈzeðes] | kleines Gericht zum Getränk, Meze |
+| [το ούζο]{lang="el"} | [to ˈuzo] | der Ouzo |
+| [το πιατάκι]{lang="el"} | [to pʝaˈtaci] | das Tellerchen; die Untertasse |
+| [η μπουκιά]{lang="el"} | [i buˈca] | der Bissen, der Happen |
+| [παρατρώω, παράφαγα]{lang="el"} | [paraˈtroo], [paˈrafaɣa] | zu viel essen |
+| [ξαναγεμίζω, ξαναγέμισα]{lang="el"} | [ksanaʝeˈmizo], [ksanaˈʝemisa] | nachfüllen, nachschenken |
+| [ξεκουράζομαι, ξεκουράστηκα]{lang="el"} | [ksekuˈrazome], [ksekuˈrastika] | sich ausruhen |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [το καράβι]{lang="el"} | das Schiff |
+| [σπουδαίος, -α, -ο]{lang="el"} | bedeutend, besonders |
+| [οι κεφτέδες, τα κεφτεδάκια]{lang="el"} | die Fleischbällchen |
+| [το δαχτυλάκι]{lang="el"} | ein Fingerbreit ([το δάχτυλο]{lang="el"} der Finger) |
+| [δεν πίνεται]{lang="el"} | wird nicht getrunken, trinkt man nicht (Mediopassiv, Kapitel 13) |
+| [χρυσό μου]{lang="el"} | mein Goldstück ([χρυσός]{lang="el"} golden) |
+| [το γιουβέτσι, το γιουβετσάκι]{lang="el"} | Fleisch mit Kritharaki aus dem Ofen (Kapitel 1) |
+:::
+
+## Klein und sächlich: [-άκι]{lang="el"} {#sec-praefixe-aki}
+
+Die häufigste Verkleinerung hängt [-άκι]{lang="el"} an den Stamm. Das Grundwort verliert seine
+Endung, und was dabei herauskommt, ist immer sächlich, gleich welches Genus das Grundwort hatte:
+
+| Grundwort | Verkleinerung |
+|---|---|
+| [το ούζο]{lang="el"} | [το ουζάκι]{lang="el"} [uˈzaci] |
+| [το σπίτι]{lang="el"} | [το σπιτάκι]{lang="el"} [spiˈtaci] |
+| [ο δρόμος]{lang="el"} | [το δρομάκι]{lang="el"} [ðroˈmaci] |
+| [η κολοκύθα]{lang="el"} | [το κολοκυθάκι]{lang="el"} [kolociˈθaci] |
+| [ο καφές, οι καφέδες]{lang="el"} | [το καφεδάκι]{lang="el"} [kafeˈðaci] |
+| [ο μεζές, οι μεζέδες]{lang="el"} | [το μεζεδάκι]{lang="el"} [mezeˈðaci] |
+| [το πρόβλημα, του προβλήματος]{lang="el"} | [το προβληματάκι]{lang="el"} [provlimaˈtaci] |
+
+Drei Dinge fallen auf.
+
+**Das Genus wechselt.** Aus dem Kaffee ([ο]{lang="el"}) wird [το καφεδάκι]{lang="el"}, aus dem
+Kürbis ([η]{lang="el"}) [το κολοκυθάκι]{lang="el"}. Artikel und Adjektiv folgen der
+Verkleinerung, nicht dem Grundwort: [ένα ζεστό καφεδάκι]{lang="el"}, [δυο νόστιμα
+μεζεδάκια]{lang="el"}. Das Deutsche macht es genauso: *der Mann* wird zu *das Männchen*, *die
+Magd* zu *das Mädchen*. Spanisch dagegen behält das Genus ([*el cafecito, la casita*]{lang="es"});
+wie das Griechische das auch kann, zeigt der nächste Abschnitt.
+
+**Die Betonung liegt immer auf [-ά-]{lang="el"}**, egal wo sie im Grundwort war:
+[ˈuzo → uˈzaci]. Im Plural [-άκια]{lang="el"} gleitet das [ι]{lang="el"} zu [c]:
+[τα μεζεδάκια]{lang="el"} [ta mezeˈðaca]. Beim Hören ist dieses betonte [ˈaci]/[ˈaca] am
+Wortende ein verlässliches Signal.
+
+**Der Stamm kommt manchmal aus einer anderen Form.** Wörter wie [ο καφές, ο μεζές, ο
+ντολμάς]{lang="el"} haben im Plural ein [δ]{lang="el"} ([καφέδες]{lang="el"}), und das nimmt die
+Verkleinerung mit: [καφεδάκι, ντολμαδάκια]{lang="el"}. Wörter auf [-μα]{lang="el"} nehmen den
+Stamm des Genitivs: [του προβλήματος → προβληματάκι]{lang="el"}. Faustregel: Wo ein Wort beim
+Beugen länger wird, wird es auch beim Verkleinern länger.
+
+::: {.callout-important}
+## Merke
+
+- [-άκι]{lang="el"} macht aus jedem Nomen ein **sächliches** Wort: [ο καφές → το
+  καφεδάκι]{lang="el"}. Artikel und Adjektive richten sich danach.
+- Die Betonung liegt immer auf [-ά-]{lang="el"}: [-άκι]{lang="el"} [ˈaci], Plural
+  [-άκια]{lang="el"} [ˈaca].
+- Bei männlichen **Vornamen** bleibt das Genus: [-άκης]{lang="el"} ([ο Γιωργάκης, ο
+  Κωστάκης]{lang="el"}), Anrede [Γιωργάκη!]{lang="el"} wie jeder Name auf [-ης]{lang="el"}
+  (Kapitel 7).
+:::
+
+::: {.callout-warning}
+## Achtung
+
+- \*[ένας καφεδάκι]{lang="el"} → [ένα καφεδάκι]{lang="el"}. Wer vom Grundwort ausgeht, nimmt den
+  falschen Artikel.
+- \*[ο ουζάκι]{lang="el"}, \*[το ούζακι]{lang="el"}: Auch bei sächlichen Grundwörtern springt
+  die Betonung auf [-ά-]{lang="el"}.
+:::
+
+Die Nachnamen auf [-άκης]{lang="el"}, die man mit Kreta verbindet (Kapitel 7), sind ursprünglich
+genau solche Verkleinerungen: [Μανωλάκης]{lang="el"} war einmal „der kleine Manolis“ oder dessen
+Sohn. <!-- CHECK: Herkunft der Nachnamen auf -άκης aus Diminutiven (Patronymika) so vertretbar? -->
+
+<!-- EXERCISE: Verkleinerungen auf -άκι bilden und mit Artikel/Adjektiv laut sagen (Genuswechsel, Betonung auf -ά-, δ-Stamm bei καφές/μεζές, -ματ- bei -μα), z.B. ο καφές, ο δρόμος, το ποτήρι, το λεπτό, ο κεφτές, το πρόβλημα, η πατάτα; dazu drei Sätze mit Adjektiv (ένα ζεστό …); Formen bilden, Schwierigkeit 1–2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [-άκι, -άκια]{lang="el"} | [ˈaci], [ˈaca] | Verkleinerung, immer sächlich: [το σπιτάκι]{lang="el"} |
+| [το καφεδάκι]{lang="el"} | [to kafeˈðaci] | das Käffchen, ein Kaffee (umg.) |
+| [το σπιτάκι]{lang="el"} | [to spiˈtaci] | das Häuschen |
+| [το δρομάκι]{lang="el"} | [to ðroˈmaci] | die Gasse, das Sträßchen |
+| [Ένα λεπτάκι!]{lang="el"} | [ˈena lepˈtaci] | Einen kleinen Moment! |
+:::
+
+## Weiblich bleibt weiblich: [-ίτσα]{lang="el"} und [-ούλα]{lang="el"} {#sec-praefixe-itsa-oula}
+
+Weibliche Nomen können auch weiblich bleiben. Dann bekommen sie [-ίτσα]{lang="el"} oder
+[-ούλα]{lang="el"}, wieder mit der Betonung auf der Endung:
+
+| Grundwort | Verkleinerung |
+|---|---|
+| [η ώρα]{lang="el"} | [η ωρίτσα]{lang="el"} [oˈritsa] |
+| [η μπίρα]{lang="el"} | [η μπιρίτσα]{lang="el"} [biˈritsa] |
+| [η μπουκιά]{lang="el"} | [η μπουκίτσα]{lang="el"} [buˈcitsa] |
+| [η φέτα]{lang="el"} | [η φετούλα]{lang="el"} [feˈtula] |
+| [η στιγμή]{lang="el"} | [η στιγμούλα]{lang="el"} [stiɣˈmula] |
+| [η μάνα]{lang="el"} | [η μανούλα]{lang="el"} [maˈnula] |
+
+Welche der beiden Endungen ein Wort nimmt, lässt sich nicht vorhersagen; manche nehmen beide
+([η ελίτσα, η ελιούλα]{lang="el"}). Zum Verstehen reicht es, beide zu erkennen. Dieselben Endungen
+machen Vornamen zärtlich: [Μαρίτσα, Ελενίτσα, Κατερινούλα]{lang="el"}. Männlich heißt die Endung
+[-ούλης]{lang="el"}: [ο παππούλης]{lang="el"} „Opachen“. Auch Adjektive lassen sich verkleinern:
+[μικρός → μικρούλης, μικρούλα, μικρούλικο]{lang="el"} „klitzeklein“, [γλυκός → γλυκούλης]{lang="el"}
+„süß, niedlich“. Griechisch hat also beide Wege, den deutschen ([-άκι]{lang="el"}, sächlich) und den spanischen ([-ίτσα]{lang="el"}, Genus
+bleibt).
+
+Auch weibliche Wörter können den sächlichen Weg gehen, wie [η κολοκύθα → το
+κολοκυθάκι]{lang="el"}. Bei [η πατάτα]{lang="el"} entstehen so zwei Wörter: [οι
+πατατούλες]{lang="el"} sind kleine Kartoffeln, [τα πατατάκια]{lang="el"} Kartoffelchips.
+
+### Wenn das Kleine verschwindet {#sec-praefixe-versteinert}
+
+[τα πατατάκια]{lang="el"} sind kein Einzelfall. Viele Verkleinerungen sind zu eigenen Wörtern
+geworden und bedeuten nichts Kleines mehr:
+
+| Grundwort | Verkleinerung | heute |
+|---|---|---|
+| [η κολοκύθα]{lang="el"} Kürbis | [το κολοκυθάκι]{lang="el"} | Zucchini |
+| [τα φασόλια]{lang="el"} Bohnen (getrocknet) | [τα φασολάκια]{lang="el"} | grüne Bohnen |
+| [η σούβλα]{lang="el"} Bratspieß | [το σουβλάκι]{lang="el"} | Fleischspieß; Gyros-Pita |
+| [το πιάτο]{lang="el"} Teller | [το πιατάκι]{lang="el"} | auch: Untertasse |
+
+Wer auf dem Markt nach einem kleinen Kürbis fragt, bekommt also keine Zucchini.
+
+::: {.callout-note collapse="true"}
+## Exkurs: Das Brot war einmal ein Bisschen
+
+Schon das Altgriechische verkleinerte, meist mit [-ιον]{lang="grc"}. Einige dieser Wörter
+wurden so oft benutzt, dass sie das Kleine vergaßen und die Grundwörter verdrängten.
+[το παιδί]{lang="el"} kommt von [παιδίον]{lang="grc"} „Kindchen“, [το ψωμί]{lang="el"} von
+[ψωμίον]{lang="grc"} „Bisschen, kleiner Bissen“. Und [το ψάρι]{lang="el"} kommt von
+[οψάριον]{lang="grc"}, der Verkleinerung von [όψον]{lang="grc"}, dem, was man zum Brot aß; am
+Meer war das meist Fisch. Das Wort für Fisch war also einmal ein kleiner Meze. Dass so viele
+alltägliche sächliche Wörter auf [-ι]{lang="el"} enden, hat hier eine seiner Wurzeln.
+<!-- CHECK: Etymologien παιδί < παιδίον, ψωμί < ψωμίον (ψωμός „Bissen“), ψάρι < οψάριον < όψον; Aussage „eine der Wurzeln“ der Neutra auf -ι -->
+:::
+
+<!-- EXERCISE: Diminutive erkennen: zu 8–10 Verkleinerungen (z.B. η μπιρίτσα, το χταποδάκι, οι σαρδελίτσες, το ποτηράκι, η κουβεντούλα, ο Κωστάκης, τα παϊδάκια, το σουβλάκι) Grundwort mit Artikel nennen und sagen, ob das Genus gewechselt hat; dazu entscheiden, welche heute ein eigenes Wort ohne „klein“ sind; Zuordnen/Formen erkennen, Schwierigkeit 1–2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [-ίτσα, -ούλα]{lang="el"} | [ˈitsa], [ˈula] | Verkleinerung, bleibt weiblich: [η ωρίτσα, η φετούλα]{lang="el"} |
+| [η στιγμούλα]{lang="el"} | [i stiɣˈmula] | das Momentchen |
+| [ο παππούλης]{lang="el"} | [o paˈpulis] | das Opachen, der liebe Opa |
+| [μικρούλης, -α, -ικο]{lang="el"} | [miˈkrulis] | klitzeklein, winzig |
+| [τα πατατάκια]{lang="el"} | [ta pataˈtaca] | die Kartoffelchips |
+| [το σουβλάκι]{lang="el"} | [to suˈvlaci] | der Fleischspieß; Gyros-Pita |
+:::
+
+## Klein, lieb, harmlos, spöttisch: Diminutive deuten {#sec-praefixe-deuten}
+
+Was die Großmutter mit ihren Tellerchen meinte, war klar. Nicht immer ist es so einfach, denn ein
+Diminutiv kann ziemlich Verschiedenes tun. Vier Lesarten kommen immer wieder vor.
+
+**1. Klein.** Die wörtliche Bedeutung: [ένα σπιτάκι δίπλα στη θάλασσα]{lang="el"} „ein kleines
+Haus am Meer“, [ένα δρομάκι στην Πλάκα]{lang="el"} „eine Gasse in der Plaka“. Oft steht noch
+[μικρό]{lang="el"} davor, doppelt hält besser.
+
+**2. Zärtlich.** Zu Kindern, Tieren, Liebsten: [Γιαννάκη μου]{lang="el"}, [κουκλίτσα μου]{lang="el"}
+„mein Püppchen“ (zu einem kleinen Mädchen), [το γατάκι]{lang="el"}, [μανούλα]{lang="el"}. Hier
+ist nichts kleiner geworden, aber alles näher.
+
+**3. Beschwichtigend.** Das Diminutiv macht eine Bitte, ein Angebot, eine Zumutung kleiner. [Ένα
+λεπτάκι!]{lang="el"} am Telefon, [μισή ωρίτσα]{lang="el"} Lesen vor dem Schlafen (Kapitel 2),
+[ένα ουζάκι μόνο]{lang="el"} unter Freunden, [Θα πάρετε ένα γλυκάκι;]{lang="el"} beim Besuch. Wer
+so fragt, macht es dem anderen leicht, ja zu sagen, und sich selbst leicht, nicht aufdringlich zu
+wirken. Beim Bestellen unter Freunden gehört das zum Ton: [μια σαλατούλα, ένα κρασάκι]{lang="el"}.
+Dass das [λεπτάκι]{lang="el"} auf dem Amt zwanzig Minuten dauern kann, gehört zur Lesart dazu.
+
+**4. Spöttisch oder herabsetzend.** Auf etwas Großes angewandt, wird das Diminutiv ironisch. [Έχουμε
+ένα μικρό προβληματάκι.]{lang="el"} kann heißen: Wir haben ein ernstes Problem, und ich sage es
+dir schonend. Über einen Menschen gesagt, setzt es herab: [ο κυριούλης]{lang="el"} ist kein
+kleiner Herr, sondern ein Spießer, der sich wichtig nimmt. Und wer zur neuen Villa eines Bekannten
+[Ωραίο σπιτάκι]{lang="el"} sagt, lobt nicht, er stichelt.
+<!-- CHECK: κυριούλης als abwertend „Spießer, Kleinbürger“ (LKN: μειωτικό?) -->
+
+Welche Lesart gilt, entscheiden die Umstände: Wie groß ist die Sache wirklich? Spricht jemand mit
+einem Kind? Wird gerade etwas angeboten oder erbeten? Und wie klingt es? Wo die Sache offensichtlich
+nicht klein ist, fällt Lesart 1 weg; bei Angeboten und Bitten ist fast immer Lesart 3 im Spiel.
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Die vier Lesarten sind **Tendenzen**, keine Regeln, und oft wirken zwei zugleich: Das
+[ουζάκι]{lang="el"} der Großmutter ist beschwichtigend und zärtlich. Wie oft jemand
+verkleinert, hängt auch von Person, Region und Situation ab; Ältere und Menschen vom Land tun es
+im Ruf nach öfter, in Nachrichten und auf Ämtern (schriftlich) kommen Diminutive kaum vor, außer
+den Wörtern, die kein „klein“ mehr tragen. Wer im Zweifel ist, achtet auf die Stimme: Spott
+klingt anders als Fürsorge.
+<!-- CHECK: Aussagen zu Häufigkeit (Ältere, ländlich, Register) als Tendenz vertretbar? -->
+:::
+
+::: {.callout-tip}
+## Tipp
+
+Selbst verkleinern darfst du ruhig, am besten beim Bestellen und Anbieten: [ένα καφεδάκι, ένα
+λεπτάκι, μια μπιρίτσα]{lang="el"}. Das klingt freundlich und ungezwungen. Bei Menschen, die du
+nicht kennst, lass die zärtlichen Formen weg; [κουκλίτσα μου]{lang="el"} sagt man zu Kindern,
+nicht zur Kellnerin.
+:::
+
+<!-- EXERCISE: Diminutive im Gespräch deuten: 6–8 kurze Situationen mit je einer Äußerung (z.B. Beamtin „Ένα λεπτάκι“; Mutter zu Kind „Έλα, κουκλίτσα μου“; Gastgeberin „Ένα γλυκάκι μόνο“; Mechaniker „Έχουμε ένα μικρό προβληματάκι“ vor großer Reparatur; „Ωραίο σπιτάκι“ zu einer Villa; „ένα σπιτάκι στο βουνό“ Beschreibung), Multiple Choice klein/zärtlich/beschwichtigend/spöttisch, Mehrfachlesarten in der Lösung begründen; Schwierigkeit 2–3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το προβληματάκι]{lang="el"} | [to provlimaˈtaci] | das kleine Problem (oft schonend für ein großes) |
+| [ο κυριούλης]{lang="el"} | [o ciˈrʝulis] | der Spießer (abwertend) |
+| [κούκλα μου, κουκλίτσα μου]{lang="el"} | [ˈkukla mu], [kuˈklitsa mu] | mein Püppchen, Schätzchen (zu Kindern; unter Vertrauten) |
+| [γλυκούλης, -α, -ικο]{lang="el"} | [ɣliˈkulis] | süß, niedlich |
+| [το γλυκάκι]{lang="el"} | [to ɣliˈkaci] | etwas Süßes, eine kleine Süßigkeit |
+:::
+
+## Vorsilben: Bedeutung erschließen {#sec-praefixe-vorsilben}
+
+Vier Vorsilben tragen im Alltag viel. Die Methode ist immer dieselbe: Vorsilbe abtrennen, das
+bekannte Verb erkennen, beides zusammensetzen und die Bedeutung am Satz prüfen.
+
+Eine Regel gilt für alle: **Im Aorist zählt die Vorsilbe mit.** Die Betonung liegt wie immer auf
+der drittletzten Silbe (Kapitel 2); fällt sie auf die Vorsilbe, braucht es kein Augment mehr:
+[έφαγα → παράφαγα]{lang="el"}, [έγραψα → ξανάγραψα]{lang="el"}, [έφυγα → ξέφυγα]{lang="el"}. Wo
+das Augment zum unregelmäßigen Stamm gehört, bleibt es: [ξαναήρθα, ξαναείδα,
+παραήπια]{lang="el"}.
+<!-- CHECK: Formen ξανάγραψα, ξέφυγα, παράφαγα, ξαναήρθα, ξαναείδα, παραήπια als Standard; Regel „Augment fällt, wenn die Vorsilbe die Betonung trägt“ so haltbar? -->
+
+### [ξανα-]{lang="el"}: noch einmal {#sec-praefixe-ksana}
+
+Seit Kapitel 14 bekannt: [ξανα-]{lang="el"} ist das Adverb [ξανά]{lang="el"}, als Vorsilbe
+vor das Verb gezogen, und passt vor fast jedes Verb. [Γέμισέ το ξανά.]{lang="el"} und
+[Ξαναγέμισέ το.]{lang="el"} bedeuten dasselbe. Neben „noch einmal“ heißt es oft „neu, von vorn“
+wie englisch *re-*: [ξαναχτίστηκε]{lang="el"} „wurde wieder aufgebaut“ (Kapitel 23),
+[ξαναζεσταίνω]{lang="el"} „aufwärmen“. Das Wort wird dadurch lang, aber nie schwer: Wer
+[ksana] am Anfang hört, kann es abziehen und hat das Verb.
+
+### [ξε-]{lang="el"}: heraus, weg, rückgängig {#sec-praefixe-kse}
+
+[ξε-]{lang="el"} kommt von altgriechisch [εξ]{lang="grc"} „aus, heraus“, dem Verwandten von
+lateinisch *ex-*. Die wichtigste Bedeutung heute: **rückgängig machen**, wie deutsch *ent-* und
+*auf-*, spanisch *des-*, französisch *dé-*:
+
+| Verb | mit [ξε-]{lang="el"} |
+|---|---|
+| [κλειδώνω]{lang="el"} abschließen | [ξεκλειδώνω]{lang="el"} aufschließen |
+| [ντύνομαι]{lang="el"} sich anziehen | [ξεντύνομαι]{lang="el"} sich ausziehen |
+| [παγώνω]{lang="el"} gefrieren | [ξεπαγώνω]{lang="el"} auftauen |
+| [μπερδεύω]{lang="el"} verwirren | [ξεμπερδεύω]{lang="el"} entwirren; etwas hinter sich bringen |
+| [διψάω]{lang="el"} Durst haben | [ξεδιψάω]{lang="el"} den Durst löschen |
+| [κουράζομαι]{lang="el"} müde werden | [ξεκουράζομαι]{lang="el"} sich ausruhen |
+
+Spanisch sagt [*desvestirse*]{lang="es"}, Französisch [*décongeler*]{lang="fr"}. Die letzten beiden sind die schönsten: Man macht den Durst und die Müdigkeit rückgängig.
+[ξεμπερδεύω]{lang="el"} spricht man [ksebeˈrðevo]; auch nach der Vorsilbe ist [μπ]{lang="el"}
+ein [b].
+
+Die zweite Bedeutung ist die alte, **heraus, weg**: [φεύγω → ξεφεύγω]{lang="el"} „entkommen,
+entwischen“, [πλένω → ξεπλένω]{lang="el"} „ausspülen“, [χωρίζω → ξεχωρίζω]{lang="el"}
+„auseinanderhalten; herausragen“. Und in [ξεκινάω]{lang="el"} „aufbrechen“ bewegt sich
+([κινώ]{lang="el"}) etwas aus dem Stand heraus. Auch [ξεχνάω]{lang="el"} gehört wohl dazu: Es
+hängt mit [χάνω]{lang="el"} „verlieren“ zusammen, vergessen heißt also „aus dem Kopf verlieren“.
+<!-- CHECK: Etymologie ξεχνώ < *ξεχάνω (εκ + χάνω); sonst Satz streichen -->
+
+Wer ein [ξε-]{lang="el"}-Verb nicht kennt, probiert zuerst „rückgängig“, dann „heraus, weg“.
+Aber Vorsicht: Nicht jedes [ξε]{lang="el"} am Wortanfang ist eine Vorsilbe. In [ξέρω]{lang="el"}
+und [ξένος]{lang="el"} bleibt nach dem Abtrennen nichts Sinnvolles übrig.
+
+<!-- EXERCISE: Bedeutung unbekannter ξε-/ξανα-Verben erschließen: Verben wie ξεβιδώνω, ξεκουμπώνω, ξεφορτώνω, ξεβάφω, ξεκολλάω, ξαναδιαβάζω, ξαναρωτάω im Satzkontext den deutschen Bedeutungen zuordnen, mit Angabe der Lesart (rückgängig / heraus, weg / noch einmal); ein Gegenbeispiel ohne Vorsilbe (ξένος) einbauen; Zuordnen, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ξε-]{lang="el"} | [kse] | Vorsilbe: rückgängig (ent-, auf-); heraus, weg |
+| [ξεκλειδώνω, ξεκλείδωσα]{lang="el"} | [ksekliˈðono], [kseˈkliðosa] | aufschließen |
+| [ξεντύνομαι, ξεντύθηκα]{lang="el"} | [kseˈdinome], [kseˈdiθika] | sich ausziehen |
+| [ξεπαγώνω, ξεπάγωσα]{lang="el"} | [ksepaˈɣono], [kseˈpaɣosa] | auftauen |
+| [ξεμπερδεύω, ξεμπέρδεψα]{lang="el"} | [ksebeˈrðevo], [kseˈberðepsa] | entwirren; fertig werden mit (umg.) |
+| [ξεδιψάω, ξεδίψασα]{lang="el"} | [kseðiˈpsao], [kseˈðipsasa] | den Durst löschen |
+| [ξεφεύγω, ξέφυγα]{lang="el"} | [kseˈfevɣo], [ˈksefiɣa] | entkommen, entwischen |
+| [ξεπλένω, ξέπλυνα]{lang="el"} | [kseˈpleno], [ˈkseplina] | ausspülen |
+| [ξαναζεσταίνω, ξαναζέστανα]{lang="el"} | [ksanazeˈsteno], [ksanaˈzestana] | aufwärmen |
+:::
+
+### [παρα-]{lang="el"}: zu viel, daneben {#sec-praefixe-para}
+
+Die Großmutter hat es vorgemacht: [παράφαγες]{lang="el"}. Die häufigste Bedeutung von
+[παρα-]{lang="el"} im Alltag ist **zu viel, zu sehr**, wie deutsch *über-* in *sich überessen*:
+
+- [παρατρώω]{lang="el"} zu viel essen, [παραπίνω]{lang="el"} zu viel trinken
+- [παρακοιμάμαι]{lang="el"} zu lange schlafen, verschlafen: [Παρακοιμήθηκα και έχασα το
+  πλοίο.]{lang="el"}
+- [παραψήνω]{lang="el"} zu lange braten; das Partizip [παραψημένος]{lang="el"} „zu lange gebraten,
+  verbrannt“ (Kapitel 19)
+- umgangssprachlich sogar vor [είμαι]{lang="el"}: [Παραείναι ακριβό.]{lang="el"} „Das ist zu
+  teuer.“ <!-- CHECK: παραείναι umgangssprachlich üblich? -->
+
+Die zweite Bedeutung ist **daneben, verkehrt**: [παρακούω]{lang="el"} „sich verhören“,
+[παρεξηγώ]{lang="el"} „missverstehen; übelnehmen“ (vor Vokal [παρ-]{lang="el"}). Daraus die
+Formel, mit der man Kritik abfedert: [Μη με παρεξηγείς, αλλά …]{lang="el"} „Nimm’s mir nicht
+übel, aber …“. Und fast ein Wort für sich: [παραλίγο]{lang="el"} „beinahe“, wörtlich „um ein
+Weniges daneben“: [Παραλίγο να χάσω το πλοίο.]{lang="el"} „Fast hätte ich die Fähre verpasst.“
+
+In älteren Wörtern ist [παρα-]{lang="el"} nicht mehr zu erkennen: [παρακαλώ, η
+παραλία]{lang="el"}, auch nicht in [παραγγέλνω]{lang="el"} „bestellen“, und niemand bestellt dabei
+zu viel. Solche gelehrten Bildungen, mit [προ-, υπερ-, αντι-]{lang="el"} und vielen anderen, sind
+Thema von Kapitel 27.
+
+### [συν-]{lang="el"}: zusammen, mit {#sec-praefixe-syn}
+
+Zwei alte Bekannte: [ο συνάδελφος]{lang="el"} (Kapitel 15) ist der „Mit-Bruder“, der Kollege,
+[η συμπρωτεύουσα]{lang="el"} (Kapitel 23) die „Mit-Hauptstadt“. [συν-]{lang="el"} heißt „mit,
+zusammen“ und entspricht lateinisch *con-*. Wie *con-* passt es sich dem folgenden Laut an, und
+wer Spanisch oder Französisch kann, kennt das Spiel: *compañero*, *collègue*, *corresponder*,
+*cooperar*.
+
+| vor | Form | Beispiele |
+|---|---|---|
+| Vokal, [δ, τ, θ, ν]{lang="el"} … | [συν-]{lang="el"} | [ο συνάδελφος, συνεργάζομαι]{lang="el"} |
+| [π, β, φ, ψ, μ]{lang="el"} | [συμ-]{lang="el"} | [συμφωνώ, ο συμμαθητής]{lang="el"} |
+| [κ, γ, χ, ξ]{lang="el"} | [συγ-]{lang="el"} | [συγχωρώ, ο συγκάτοικος]{lang="el"} |
+| [λ]{lang="el"} | [συλ-]{lang="el"} | [η συλλογή]{lang="el"} (Sammlung) |
+| [σ, ζ]{lang="el"} | [συ-]{lang="el"} | [συζητάω, το σύστημα]{lang="el"} |
+
+Manche dieser Wörter lassen sich wie ein Rätsel lösen. [συμφωνώ]{lang="el"} ist „mit-stimmen“
+([η φωνή]{lang="el"} Stimme), also wörtlich *übereinstimmen*, und dieselbe Bildung steckt in der
+*Symphonie*. [συζητάω]{lang="el"} ist „zusammen suchen“ ([ζητάω]{lang="el"}). Und
+[Συγχαρητήρια!]{lang="el"} „Herzlichen Glückwunsch!“ ist die „Mit-Freude“ ([η χαρά]{lang="el"}).
+Zur Aussprache: [γχ]{lang="el"} ist [ŋx], [συγχωρώ]{lang="el"} [siŋxoˈro]; [γκ]{lang="el"} ist
+nach Buchkonvention [g], [συγκάτοικος]{lang="el"} [siˈgatikos]. [Συγγνώμη]{lang="el"}
+[siɣˈnomi] ist die Ausnahme aus Kapitel 1: Dort ist [γγ]{lang="el"} nur [ɣ].
+<!-- CHECK: συγχαρητήρια etymologisch zu χαρά (συγχαίρω) korrekt; Aussprache [siˈgatikos] nach Buchkonvention ok? -->
+
+<!-- EXERCISE: Gemischte Vorsilben: (A) unbekannte Wörter mit παρα-/συν-/ξε-/ξανα- zerlegen und Bedeutung erschließen (z.B. παραλέω, παραγεμίζω, ο συνεπιβάτης, ο συνομήλικος, ο συμπατριώτης, ξανασκέφτομαι); (B) Aorist mit Vorsilbe laut bilden und betonen (παρατρώω → ich, ξαναγράφω → ich, ξεφεύγω → er, παραπίνω → wir); (C) zwei Sätze mündlich übersetzen (Fast hätte ich die Fähre verpasst. Nimm’s mir nicht übel, aber …); Schwierigkeit 2–3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [παρα-]{lang="el"} | [para] | Vorsilbe: zu viel, zu sehr; daneben, falsch |
+| [παραπίνω, παραήπια]{lang="el"} | [paraˈpino], [paraˈipça] | zu viel trinken |
+| [παρακοιμάμαι, παρακοιμήθηκα]{lang="el"} | [paraciˈmame], [paraciˈmiθika] | verschlafen |
+| [παρεξηγώ, παρεξήγησα]{lang="el"} | [pareksiˈɣo], [pareˈksiʝisa] | missverstehen; übelnehmen |
+| [Μη με παρεξηγείς, αλλά …]{lang="el"} | [mi me pareksiˈʝis aˈla] | Nimm’s mir nicht übel, aber … |
+| [παραλίγο (να)]{lang="el"} | [paraˈliɣo] | beinahe, fast |
+| [συν-, συμ-, συγ-]{lang="el"} | [sin], [sim], [siŋ] | Vorsilbe: mit, zusammen |
+| [ο συμμαθητής, η συμμαθήτρια]{lang="el"} | [o simaθiˈtis], [i simaˈθitria] | der Mitschüler, die Mitschülerin |
+| [ο/η συγκάτοικος]{lang="el"} | [o siˈgatikos] | der Mitbewohner, die Mitbewohnerin |
+| [συνεργάζομαι, συνεργάστηκα]{lang="el"} | [sinerˈɣazome], [sinerˈɣastika] | zusammenarbeiten |
+| [συγχωρώ, συγχώρεσα]{lang="el"} | [siŋxoˈro], [siŋˈxoresa] | verzeihen; [Με συγχωρείτε.]{lang="el"} Entschuldigen Sie. |
+| [Συγχαρητήρια!]{lang="el"} | [siŋxariˈtirʝa] | Herzlichen Glückwunsch! |
+:::
+
+## Hörspur: eine Runde in der Ouzeri {#sec-praefixe-hoerspur}
+
+Die ▶-Aufnahmen im Buch sind synthetische Stimmen; echte Menschen bringt der Hör-Auftrag am Ende
+des Abschnitts.
+
+Freitagabend in einer Ouzeri ([το ουζερί]{lang="el"}) am Hafen von Piräus. Eleni und Stelios
+kommen jede Woche, der Kellner Manolis kennt sie. Am Tisch sprechen drei Personen, die Aufnahme
+hat aber nur **zwei Stimmen**: Eleni hat die Frauenstimme, Stelios und Manolis teilen sich die
+Männerstimme. Wer gerade spricht, verrät der Inhalt: Manolis fragt und bringt, die beiden bestellen.
+
+Vor dem Hören:
+
+- Achte auf das betonte [ˈaci]/[ˈaca] und [ˈitsa]/[ˈula] am Wortende. Fast alles, was bestellt
+  wird, kommt verkleinert.
+- Drei Vorsilben aus diesem Kapitel kommen vor: [ksana-], [para-] (zweimal) und in einer
+  Höflichkeitsformel [parek-].
+- Kellner sprechen Gäste oft in der wir-Form an: [Τι θα πάρουμε;]{lang="el"} heißt „Was darf’s
+  sein?“, nicht „Was nehmen wir?“.
+
+**Worthilfen:** [το καραφάκι]{lang="el"} Karäffchen (für Ouzo meist 200 ml) · [ο πάγος]{lang="el"}
+Eis · [στο πλάι]{lang="el"} daneben, extra · [σχάρας]{lang="el"} vom Grill · [η σαρδέλα]{lang="el"}
+Sardine · [η ρίγανη]{lang="el"} Oregano · [η μερίδα]{lang="el"} Portion · [άψογος]{lang="el"}
+tadellos · [ο μάγειρας]{lang="el"} Koch · [τα γενέθλια]{lang="el"} Geburtstag.
+<!-- CHECK: übliche Größe eines καραφάκι Ouzo in Ouzeris (200 ml?) -->
+
+::: {lang="el" .listen}
+[— Γεια σας, παιδιά! Τι θα πάρουμε απόψε;]{.v2}
+
+[— Καλησπέρα, Μανώλη. Κατάλογο δε θέλουμε. Ένα καραφάκι ούζο, με πάγο στο πλάι, και
+νεράκι.]{.v1}
+
+[— Ούζο Πλωμαρίου έχουμε σήμερα. Και μεζεδάκια;]{.v2}
+
+[— Ένα χταποδάκι σχάρας, σαρδελίτσες και μια φετούλα με λαδάκι και ρίγανη.]{.v1}
+
+[— Και κεφτεδάκια. Αλλά μικρή μερίδα, γιατί χθες παράφαγα.]{.v2}
+
+[— Μικρή μερίδα, λέει. Όπως την περασμένη Παρασκευή.]{.v1}
+
+[— Αμέσως. Ένα λεπτάκι και έρχομαι.]{.v2}
+
+[— Μανώλη, μας ξαναγεμίζεις το καραφάκι; Και φέρε μας κι ένα ψωμάκι ακόμα.]{.v1}
+
+[— Αμέσως. Το χταποδάκι πώς ήταν;]{.v2}
+
+[— Άψογο. Οι σαρδελίτσες όμως ήταν λίγο παραψημένες.]{.v1}
+
+[— Μη με παρεξηγείς, αλλά σήμερα η κουζίνα έχει ένα μικρό προβληματάκι. Ο μάγειρας έχει
+γενέθλια.]{.v2}
+
+[— Τότε κέρνα και τον μάγειρα ένα ουζάκι από μας. Στην υγειά του!]{.v1}
+:::
+
+<!-- EXERCISE: Hörverstehen zur Ouzeri-Szene: Dialog mit ▶ anhören, ohne den Text aufzuklappen, höchstens zweimal; nur Inhaltsfragen, Multiple Choice mit Antwort im Chat „1b, 2…“ (z.B. was als Getränk bestellt wird und wie das Eis kommt; woher der Ouzo stammt; welche drei Mezedes Eleni bestellt; warum Stelios eine kleine Portion will und wie Eleni darauf reagiert (ironisch); was nachbestellt wird; was mit den Sardinen nicht stimmte; welches „kleine Problem“ die Küche hat und was Eleni daraufhin tut); zweiter Durchgang mit Text: Diminutive nach Lesart deuten (beschwichtigend beim Bestellen, schonend-ironisch bei προβληματάκι); Schwierigkeit 2 -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Hallo, ihr zwei! Was darf’s heute Abend sein?
+
+— Guten Abend, Manolis. Die Karte brauchen wir nicht. Ein Karäffchen Ouzo, das Eis extra, und
+Wasser.
+
+— Heute haben wir Ouzo aus Plomari. Und ein paar Mezedes?
+
+— Einen gegrillten Oktopus, Sardinen und ein Stück Feta mit etwas Öl und Oregano.
+
+— Und Fleischbällchen. Aber eine kleine Portion, ich hab mich gestern überessen.
+
+— Eine kleine Portion, sagt er. Wie letzten Freitag.
+
+— Sofort. Einen Moment, ich komme gleich.
+
+— Manolis, füllst du uns das Karäffchen nach? Und bring uns noch ein bisschen Brot.
+
+— Sofort. Wie war der Oktopus?
+
+— Tadellos. Die Sardinen waren allerdings ein bisschen zu lange auf dem Grill.
+
+— Nimm’s mir nicht übel, aber die Küche hat heute ein kleines Problem. Der Koch hat Geburtstag.
+
+— Dann spendier auch dem Koch einen Ouzo von uns. Auf sein Wohl!
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [το ουζερί]{lang="el"} | die Ouzeri (Lokal für Ouzo und Mezedes; unveränderlich) |
+| [το χταπόδι, το χταποδάκι]{lang="el"} | der Oktopus |
+| [το λαδάκι]{lang="el"} | ein bisschen Olivenöl ([το λάδι]{lang="el"}) |
+| [την περασμένη Παρασκευή]{lang="el"} | letzten Freitag |
+| [κέρνα]{lang="el"} | spendier! (Imperativ von [κερνάω]{lang="el"}, Kapitel 17) |
+| [Στην υγειά του!]{lang="el"} | Auf sein Wohl! (Kapitel 7: [Στην υγειά σου!]{lang="el"}) |
+:::
+
+### Diminutive in echten Gesprächen {#sec-praefixe-hoeren}
+
+Wo über Essen geredet wird, wird verkleinert. [Easy
+Greek](https://www.youtube.com/@EasyGreekVideos) fragt auf der Straße immer wieder nach
+Lieblingsessen, Kochen und Ausgehen (englische Suchwörter [*food, cooking, taverna*]{lang="en"}).
+Dort hörst du, wie oft [-άκι]{lang="el"} ganz nebenbei fällt und wie selten jemand dabei etwas
+Kleines meint.
+
+<!-- EXERCISE: Hör-Auftrag Easy Greek: ein Straßeninterview über Essen/Ausgehen suchen; 3–4 Minuten ohne Untertitel hören und jedes betonte [ˈaci]/[ˈaca]/[ˈitsa]/[ˈula] am Wortende mit einem Strich zählen; dann mit griechischen Untertiteln prüfen und zwei Diminutive nach Lesart (klein/zärtlich/beschwichtigend/spöttisch) deuten; zwei Sätze nachsprechen; Auswertungshilfe statt fester Lösung (Falsche Treffer: σουβλάκι/κολοκυθάκι zählen mit, sind aber nicht klein; Wörter wie κεφάλι oder αγόρι zählen nicht); Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το καραφάκι]{lang="el"} | [to karaˈfaci] | das Karäffchen (für Ouzo, Tsipouro, Wein) |
+| [ο πάγος]{lang="el"} | [o ˈpaɣos] | das Eis (Eiswürfel); der Frost |
+| [η μερίδα]{lang="el"} | [i meˈriða] | die Portion |
+| [άψογος, -η, -ο]{lang="el"} | [ˈapsoɣos] | tadellos, einwandfrei |
+| [Τι θα πάρουμε;]{lang="el"} | [ti θa ˈparume] | Was darf’s sein? (Kellner, vertraut) |
+:::
+
+## Das Wichtigste {#sec-praefixe-wichtigste}
+
+- **[-άκι]{lang="el"}** macht jedes Nomen **sächlich**, Betonung immer auf [-ά-]{lang="el"}:
+  [ο καφές → το καφεδάκι, το ούζο → το ουζάκι]{lang="el"}. Der Stamm wächst mit, wo er beim
+  Beugen wächst ([καφέδες, προβλήματος]{lang="el"}). Wie deutsch *-chen*.
+- **[-ίτσα, -ούλα]{lang="el"}**: weiblich bleibt weiblich ([η ωρίτσα, η φετούλα]{lang="el"}),
+  wie spanisch *-ita*. Männliche Namen und Personen: [-άκης, -ούλης]{lang="el"}. Adjektive:
+  [μικρούλης, -α, -ικο]{lang="el"}.
+- Manche Verkleinerungen sind **eigene Wörter**: [το κολοκυθάκι, τα φασολάκια, τα πατατάκια, το
+  σουβλάκι]{lang="el"}.
+- **Deuten:** klein, zärtlich, beschwichtigend (Bitten, Angebote, Bestellen), spöttisch (auf
+  Großes, über Menschen). Tendenzen; oft wirken zwei zugleich.
+- **Vorsilben:** [ξανα-]{lang="el"} noch einmal, neu; [ξε-]{lang="el"} rückgängig, heraus, weg;
+  [παρα-]{lang="el"} zu viel, daneben; [συν-/συμ-/συγ-]{lang="el"} mit, zusammen, angepasst wie
+  lateinisch *con-*. Methode: abtrennen, Verb erkennen, am Satz prüfen.
+- **Aorist:** Die Vorsilbe zählt mit und kann das Augment ersetzen: [παράφαγα, ξέφυγα,
+  ξανάγραψα]{lang="el"}; aber [ξαναήρθα, παραήπια]{lang="el"}.
+
+## Zum Lesen: Ein Ouzo, zwei Mezedes {#sec-praefixe-lesetext}
+
+Ein Text, wie er in einem Reiseheft über griechische Trinkkultur stehen könnte. Was an den
+Tatsachen offen ist, steht in der Vorsicht-Box danach.
+
+::: {lang="el"}
+**Ένα ουζάκι, δυο μεζεδάκια**
+
+Στην Ελλάδα το ούζο δεν πίνεται μόνο του. Έρχεται πάντα με παρέα: με φίλους και με μεζέδες. Ένα
+πιατάκι ελιές, μια φετούλα, λίγο χταποδάκι, και η κουβέντα κρατάει ώρες.
+
+Το ούζο είναι απόσταγμα με γλυκάνισο. Στην Ευρωπαϊκή Ένωση το όνομα προστατεύεται: «ούζο»
+λέγεται μόνο το ποτό που φτιάχνεται στην Ελλάδα ή στην Κύπρο. Το πιο γνωστό έρχεται από τη Λέσβο,
+από το Πλωμάρι, ένα μικρό λιμάνι στον νότο του νησιού.
+
+Αν ρίξεις νερό στο ούζο, θολώνει και γίνεται άσπρο σαν γάλα. Ο γλυκάνισος έχει ένα αιθέριο έλαιο,
+την ανηθόλη, που διαλύεται στο οινόπνευμα αλλά όχι στο νερό. Με το νερό η ανηθόλη σχηματίζει
+μικρές σταγόνες, και το ποτήρι ασπρίζει. Οι φυσικοί μάλιστα το λένε «φαινόμενο του ούζου». Πολλοί
+βάζουν πρώτα νερό και μετά πάγο, γιατί στο πολύ κρύο η ανηθόλη κάνει κρυστάλλους.
+
+Το τσίπουρο είναι συγγενής του ούζου. Φτιάχνεται από τα στέμφυλα, ό,τι μένει από τα σταφύλια μετά
+το κρασί, με γλυκάνισο ή χωρίς. Στον Βόλο τα τσιπουράδικα έχουν τη δική τους παράδοση: κάθε
+καραφάκι έρχεται με έναν μεζέ, και κάθε φορά που το ξαναπαραγγέλνεις, ο μεζές είναι άλλος.
+Πολλοί μένουν μέχρι αργά, μόνο για να δουν τι θα έρθει μετά.
+
+Και τα υποκοριστικά; Στον κατάλογο ενός ουζερί σχεδόν όλα είναι μικρά: χταποδάκι, σαρδελίτσες,
+κεφτεδάκια, πατατούλες. Οι μερίδες δεν είναι πάντα μικρές. Το υποκοριστικό λέει κάτι άλλο:
+«Μην ανησυχείς, δεν είναι τίποτα σπουδαίο, κάτσε λίγο ακόμα». Στο τέλος, βέβαια, πολλοί έχουν
+παραφάει και παραπιεί, και ο λογαριασμός δεν είναι καθόλου μικρούλης.
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+- Der Schutz der Bezeichnung „Ouzo“ für Griechenland und Zypern steht im EU-Recht zu
+  Spirituosen; die Einzelheiten (seit wann, welche Herkunftsangaben wie „Ouzo aus Plomari“ eigens
+  geschützt sind) sind hier nicht nachgeprüft.
+- Die Trübung heißt in der Physik tatsächlich *Ouzo-Effekt* ([*ouzo effect*]{lang="en"}); ob die
+  griechische Fachsprache genau [«φαινόμενο του ούζου»]{lang="el"} sagt, ist nicht sicher.
+- „Erst Wasser, dann Eis“ ist eine verbreitete Trinkregel; ihre Begründung mit Kristallen wird
+  oft genannt, ist hier aber nicht überprüft.
+- Die Herkunft des Wortes *Ouzo* ist unklar. Eine beliebte Geschichte führt es auf italienisch
+  [*uso Massalia*]{lang="it"} „für Marseille“ zurück, das auf Exportkisten gestanden haben soll;
+  belegt ist das nicht.
+<!-- CHECK: EU-Schutz „Ouzo“ (VO (EU) 2019/787, Anhang; zuvor VO 110/2008) für Griechenland und Zypern; Plomari im Süden von Lesbos; Anethol löslich in Ethanol, unlöslich in Wasser (Ouzo-Effekt, Vitale & Katz 2003); Anethol kristallisiert bei Kälte (Schmelzpunkt ca. 21 °C); Tsipouro aus Trester (στέμφυλα), mit oder ohne Anis; Volos-Tsipouradika: zu jedem Fläschchen ein wechselnder Meze -->
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [το απόσταγμα]{lang="el"} | das Destillat |
+| [ο γλυκάνισος]{lang="el"} | der Anis |
+| [το αιθέριο έλαιο]{lang="el"} | das ätherische Öl |
+| [η ανηθόλη]{lang="el"} | das Anethol |
+| [διαλύομαι]{lang="el"} | sich auflösen |
+| [το οινόπνευμα]{lang="el"} | der Alkohol |
+| [η σταγόνα]{lang="el"} | der Tropfen |
+| [ασπρίζω]{lang="el"} | weiß werden |
+| [ο συγγενής]{lang="el"} | der Verwandte |
+| [τα στέμφυλα]{lang="el"} | der Trester |
+| [το τσιπουράδικο]{lang="el"} | Lokal für Tsipouro und Mezedes |
+| [ξαναπαραγγέλνω]{lang="el"} | nachbestellen ([παραγγέλνω]{lang="el"} bestellen) |
+| [ανησυχώ]{lang="el"} | sich Sorgen machen |
+| [έχουν παραφάει και παραπιεί]{lang="el"} | haben zu viel gegessen und getrunken (Perfekt) |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Ein Ouzo, zwei Mezedes**
+
+In Griechenland trinkt man Ouzo nicht für sich allein. Er kommt immer in Gesellschaft: mit
+Freunden und mit Mezedes. Ein Tellerchen Oliven, ein Stück Feta, ein bisschen Oktopus, und das
+Gespräch dauert Stunden.
+
+Ouzo ist ein Destillat mit Anis. In der Europäischen Union ist der Name geschützt: „Ouzo“ heißt
+nur das Getränk, das in Griechenland oder Zypern hergestellt wird. Der bekannteste kommt von
+Lesbos, aus Plomari, einem kleinen Hafenort im Süden der Insel.
+
+Wenn man Wasser in den Ouzo gibt, wird er trüb und weiß wie Milch. Der Anis enthält ein
+ätherisches Öl, das Anethol, das sich in Alkohol löst, aber nicht in Wasser. Mit Wasser bildet
+das Anethol kleine Tropfen, und das Glas wird weiß. Die Physiker nennen das sogar den
+„Ouzo-Effekt“. Viele geben zuerst Wasser und dann Eis hinein, weil das Anethol bei großer Kälte
+Kristalle bildet.
+
+Der Tsipouro ist ein Verwandter des Ouzo. Er wird aus Trester gemacht, dem, was nach dem Wein
+von den Trauben übrig bleibt, mit Anis oder ohne. In Volos haben die Tsipouro-Lokale ihre eigene
+Tradition: Zu jedem Karäffchen kommt ein Meze, und jedes Mal, wenn man nachbestellt, ist es ein
+anderer. Viele bleiben bis spät, nur um zu sehen, was als Nächstes kommt.
+
+Und die Verkleinerungen? Auf der Karte einer Ouzeri ist fast alles klein: Oktopus, Sardinen,
+Fleischbällchen, Kartoffeln. Die Portionen sind nicht immer klein. Die Verkleinerung sagt etwas
+anderes: „Keine Sorge, das ist nichts Besonderes, bleib noch ein bisschen.“ Am Ende haben
+natürlich viele zu viel gegessen und getrunken, und die Rechnung ist alles andere als klein.
+:::
+
+<!-- EXERCISE: Nach dem Lesen: (A) 6 Aussagen richtig/falsch zum Text (z.B. Ouzo darf überall in der EU hergestellt werden; Wasser macht Ouzo trüb, weil sich Anethol nicht in Wasser löst; Tsipouro wird aus Trester gemacht; in Volos gibt es zu jedem Karäffchen denselben Meze; die Portionen in der Ouzeri sind immer klein); (B) im Text alle Diminutive und Vorsilben-Wörter finden und bestimmen (Grundwort, Genuswechsel ja/nein, Lesart; ξαναπαραγγέλνω mit zwei Vorsilben, von denen nur ξανα- durchsichtig ist); (C) Gegenbeispiel παραγγέλνω erklären; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το τσίπουρο]{lang="el"} | [to ˈtsipuro] | der Tsipouro (Tresterbrand) |
+| [η παρέα]{lang="el"} | [i paˈrea] | die Runde, die Freunde; Gesellschaft |
+| [η κουβέντα]{lang="el"} | [i kuˈveda] | das Gespräch, die Unterhaltung (umg.) |
+| [θολώνω, θόλωσα]{lang="el"} | [θoˈlono], [ˈθolosa] | trüb werden, sich trüben |
+| [παραγγέλνω, παρήγγειλα]{lang="el"} | [paraŋˈɟelno], [paˈriŋɟila] | bestellen |
+:::

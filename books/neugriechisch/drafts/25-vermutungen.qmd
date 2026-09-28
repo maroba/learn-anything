@@ -374,8 +374,8 @@ steht vor [θα]{lang="el"}); [θα ξεχάσεις]{lang="el"}, das Futur „d
 ### Vermutung oder Irrealis? {#sec-vermutungen-lesarten}
 
 Im Dialog stehen zwei Sätze mit [θα]{lang="el"} + Plusquamperfekt nebeneinander, und keiner
-davon ist eine Vermutung: [Εγώ στη θέση τους θα είχα φύγει]{lang="el"} ist ein Irrealis mit
-mitgedachter Bedingung (Kapitel 24). Ein paar Stunden später, im Hotel, sagt dieselbe Person
+davon ist eine Vermutung: [Εγώ στη θέση τους θα είχα φύγει]{lang="el"} ist ein Irrealis, die
+Bedingung steckt ohne [αν]{lang="el"} in [στη θέση τους]{lang="el"} (Kapitel 24). Ein paar Stunden später, im Hotel, sagt dieselbe Person
 vielleicht: [Όταν έπεσε η στάχτη, θα είχαν ήδη φύγει.]{lang="el"} Gleiche Form, andere Aufgabe.
 Mit [θα]{lang="el"} + Imperfekt ist es noch bunter: Futur der Vergangenheit, Irrealis,
 Höflichkeit, und jetzt die Vermutung.
@@ -501,7 +501,7 @@ Die Verbindungswörter:
 
 | Griechisch | Deutsch | Stellung |
 |---|---|---|
-| [άρα]{lang="el"} | also, folglich | vor dem Schluss |
+| [άρα]{lang="el"} | also, folglich (Kapitel 4) | vor dem Schluss |
 | [οπότε]{lang="el"} | also, deshalb | verbindet Beleg und Schluss in einem Satz |
 | [αφού]{lang="el"} | da ja | vor dem Beleg |
 | [αυτό σημαίνει ότι]{lang="el"} | das heißt, dass | vor dem Schluss |
@@ -553,7 +553,7 @@ Der erste Satz klingt wie ein Beleg, ist aber ein Schluss: So kühn hat es Spyri
 [αποδυναμώνω]{lang="el"} „schwächen“ steht in 2 im Aorist, weil es um ein Ereignis geht, in 4 im
 Plusquamperfekt, weil es vor der Ankunft der Mykener schon geschehen war.
 
-Achte auf das Bindewort: [το πιθανότερο είναι ότι]{lang="el"} + normaler Satz, wie nach
+Achte darauf, was folgt: [το πιθανότερο είναι ότι]{lang="el"} + normaler Satz, wie nach
 [λέει ότι]{lang="el"}; [είναι (α)πίθανο να]{lang="el"} + Vergangenheit, wie nach
 [μπορεί να]{lang="el"}.
 
@@ -805,8 +805,8 @@ v. Chr.; die herkömmliche archäologische Datierung über Funde, die mit Ägypt
 lag eher um 1500 v. Chr. Mit der neuen Kalibrierkurve (IntCal20) passen dieselben Messungen auch
 ins 16. Jahrhundert, und ein zweiter Olivenfund (Therasia, 2023) spricht sogar für dessen Mitte.
 Der Abstand ist kleiner geworden, geklärt ist nichts. Wer „um 1600 v. Chr.“ liest, sollte sich ein „plus minus einige Jahrzehnte, vielleicht
-mehr“ dazudenken. Einen Überblick über den Stand bieten neuere Übersichtsartikel zur „Minoan
-eruption“, etwa in der englischen Wikipedia mit ihren Literaturangaben.
+mehr“ dazudenken. Einen Überblick über den Stand bieten neuere Übersichtsartikel zur „[Minoan
+eruption]{lang="en"}“, etwa in der englischen Wikipedia mit ihren Literaturangaben.
 :::
 
 ### Dokumentationen hören {#sec-vermutungen-hoeren}
@@ -855,7 +855,7 @@ Jede Dokumentation ist anders; so wertest du aus:
 - **Falsche Striche:** [πρέπει να]{lang="el"} mit zeitloser Form, ohne Augment und
   Vergangenheitsendung ([πρέπει να προστατέψουμε]{lang="el"}), ist eine Pflicht, keine Vermutung;
   [θa] mit zeitloser Form ([θa ˈvrume]) ist Futur.
-- **Schritt 4**, zum Beispiel: Beleg [Βρέθηκαν σπασμένα κεραμικά.]{lang="el"} Schluss im Film
+- **Schritt 4**, zum Beispiel: Beleg [Βρέθηκαν σπασμένα κεραμικά.]{lang="el"} Schluss in der Dokumentation
   [Πρέπει να έγινε σεισμός.]{lang="el"} Deine Stufe: [Μάλλον έγινε σεισμός.]{lang="el"}
 
 **Typischer Fehler:** beim Abschwächen die Zeit verlieren: [Μάλλον γίνεται σεισμός.]{lang="el"}
@@ -946,9 +946,9 @@ könnte.
 | [αποκρυπτογραφώ]{lang="el"} | entziffern |
 | [τα ερείπια]{lang="el"} | die Ruinen |
 | [συμβαίνει, συνέβη]{lang="el"} | geschehen, passieren (gehoben) |
-| [προτείνω, πρότεινα]{lang="el"} | vorschlagen |
+| [προτείνω, πρότεινα]{lang="el"} | vorschlagen (Kapitel 15) |
 | [το χωράφι]{lang="el"} | das Feld, der Acker |
-| [χάνομαι, χάθηκα]{lang="el"} | verloren gehen, untergehen |
+| [χάνομαι, χάθηκα]{lang="el"} | verloren gehen, untergehen (Kapitel 13) |
 | [λειτουργώ, λειτούργησα]{lang="el"} | in Betrieb sein, funktionieren |
 | [μεσολαβώ]{lang="el"} | dazwischenliegen |
 | [η δεκαετία]{lang="el"} | das Jahrzehnt (Kapitel 11) |
