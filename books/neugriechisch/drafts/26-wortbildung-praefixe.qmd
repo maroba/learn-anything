@@ -472,7 +472,7 @@ Typischer Fehler: jedes Diminutiv mit „klein“ übersetzen. Hier ist nur eine
 
 Vier Vorsilben tragen im Alltag viel. Die Methode ist immer dieselbe: Vorsilbe abtrennen, das
 bekannte Verb erkennen, beides zusammensetzen und die Bedeutung am Satz prüfen. Was die
-Vorsilben mit dem Augment machen, folgt nach den vier Vorsilben (@sec-praefixe-aorist).
+Vorsilben mit dem Augment machen, folgt im Anschluss an die vier Vorsilben.
 
 ### [ξανα-]{lang="el"}: noch einmal {#sec-praefixe-ksana}
 
@@ -669,7 +669,7 @@ Heimat.
 
 **B. Aorist, laut und richtig betont:** [παρατρώω]{lang="el"} ich · [ξαναγράφω]{lang="el"} ich ·
 [ξεφεύγω]{lang="el"} er · [ξεκλειδώνω]{lang="el"} du · [παραπίνω]{lang="el"} wir ·
-[ξαναέρχομαι]{lang="el"} (dasselbe Verb wie [ξανάρχομαι]{lang="el"} aus Kapitel 14) sie (Plural)
+[ξαναέρχομαι]{lang="el"} sie (Plural; dasselbe Verb wie [ξανάρχομαι]{lang="el"} aus Kapitel 14)
 
 **C. Laut übersetzen:** Fast hätte ich die Fähre verpasst. · Nimm’s mir nicht übel, aber das ist
 zu teuer. · Entschuldigen Sie, ich habe verschlafen.
@@ -708,14 +708,25 @@ D: [πλήρης]{lang="el"} heißt „voll“, [έχω]{lang="el"} auch „halt
 
 **B.** [παράφαγα, ξανάγραψα, ξέφυγε, ξεκλείδωσες, παραήπιαμε, ξαναήρθαν]{lang="el"}. In den
 ersten drei ersetzt die betonte Vorsilbe das Augment, [κλείδωσα]{lang="el"} hat ohnehin keins,
-in den letzten beiden bleibt das [ή-]{lang="el"} des Stamms. Häufige Fehlform: [ξαναέγραψα]{lang="el"}, Augment und Vorsilbe zugleich; Standard ist
-[ξανάγραψα]{lang="el"}.
+in den letzten beiden bleibt das [ή-]{lang="el"} des Stamms. Ebenfalls richtig, nur seltener:
+[παραέφαγα, ξαναέγραψα]{lang="el"}; umgangssprachlich auch [παράπιαμε, ξανάρθαν]{lang="el"}.
+Typischer Fehler: die Betonung auf der Silbe des Grundverbs lassen, \*[ξαναγράψα]{lang="el"}.
 
-**C.** [Παραλίγο να χάσω το πλοίο.]{lang="el"} · [Μη με παρεξηγείς, αλλά είναι πολύ
-ακριβό.]{lang="el"} (umgangssprachlich auch [παραείναι ακριβό]{lang="el"}) · [Με συγχωρείτε,
-παρακοιμήθηκα.]{lang="el"}
+**C.** [Παραλίγο να χάσω το πλοίο.]{lang="el"} · [Μη με παρεξηγείς, αλλά παραείναι
+ακριβό.]{lang="el"} (oder [είναι πολύ ακριβό]{lang="el"}; statt [παρεξηγείς]{lang="el"} geht auch
+[Μη με παρεξηγήσεις]{lang="el"}, Kapitel 9; zu Fremden [Μη με παρεξηγείτε /
+παρεξηγήσετε]{lang="el"}) · [Με συγχωρείτε, παρακοιμήθηκα.]{lang="el"}
+
+**D.** [ξε- + σπάω]{lang="el"}: „heraus-brechen“, ausbrechen. [συμ- + πληρώνω]{lang="el"}: Das
+Grundverb hieß einmal „voll machen“ ([πλήρης]{lang="el"}), also „voll machen mit“, ergänzen.
+[συν- + εχ-]{lang="el"}: „zusammenhalten“, ohne Lücke weitermachen. [ξε- + κινώ]{lang="el"}: aus
+dem Stand heraus. [παρα- + πον-]{lang="el"}: Hier steckt [ο πόνος]{lang="el"}, das
+[παρα-]{lang="el"} ist alt und weder „zu viel“ noch „daneben“. [το πρόβατο + -άκι]{lang="el"}:
+Schäfchen, auf dem Meer die Schaumkronen. Typischer Fehler: in [συμπληρώνω]{lang="el"} „bezahlen“
+suchen; die heutige Bedeutung von [πληρώνω]{lang="el"} ist jünger.
 :::
-<!-- CHECK: παραλέω „übertreiben“ (μην τα παραλές); συνομήλικος als συν + ομ- + ηλικ-; ξαναέγραψα als nicht-standard ohne Sternchen; Μη με παρεξηγήσετε neben παρεξηγείτε -->
+<!-- CHECK: συμπληρώνω < συμπληρώ/συμπληρόω (πλήρης), πληρώνω „zahlen“ jüngere Bedeutung von πληρόω „füllen, erfüllen“; συνεχίζω < συνεχής < συνέχω „zusammenhalten“; παραπονιέμαι < παράπονο (παρα + πόνος) -->
+
 
 
 ::: {.vocab}
@@ -750,15 +761,14 @@ Vor dem Hören:
 - Achte auf das betonte [ˈaci]/[ˈaca] und [ˈitsa]/[ˈula] am Wortende. Fast alles, was bestellt
   wird, kommt verkleinert.
 - Drei Vorsilben aus diesem Kapitel kommen vor: [ksana-], [para-] (zweimal) und in einer
-  Höflichkeitsformel [parek-].
+  Höflichkeitsformel [par-] in [pareksiˈʝis].
 - Kellner sprechen Gäste oft in der wir-Form an: [Τι θα πάρουμε;]{lang="el"} heißt „Was darf’s
   sein?“, nicht „Was nehmen wir?“.
 
-**Worthilfen:** [το καραφάκι]{lang="el"} Karäffchen (für Ouzo meist 200 ml) · [ο πάγος]{lang="el"}
+**Worthilfen:** [το καραφάκι]{lang="el"} Karäffchen (100 oder 200 ml, je nach Lokal) · [ο πάγος]{lang="el"}
 Eis · [στο πλάι]{lang="el"} daneben, extra · [σχάρας]{lang="el"} vom Grill · [η σαρδέλα]{lang="el"}
 Sardine · [η ρίγανη]{lang="el"} Oregano · [η μερίδα]{lang="el"} Portion · [άψογος]{lang="el"}
 tadellos · [ο μάγειρας]{lang="el"} Koch · [τα γενέθλια]{lang="el"} Geburtstag.
-<!-- CHECK: übliche Größe eines καραφάκι Ouzo in Ouzeris (200 ml?) -->
 
 ::: {lang="el" .listen}
 [— Γεια σας, παιδιά! Τι θα πάρουμε απόψε;]{.v2}
@@ -772,7 +782,7 @@ tadellos · [ο μάγειρας]{lang="el"} Koch · [τα γενέθλια]{lan
 
 [— Και κεφτεδάκια. Αλλά μικρή μερίδα, γιατί χθες παράφαγα.]{.v2}
 
-[— Μικρή μερίδα, λέει. Όπως την περασμένη Παρασκευή.]{.v1}
+[— Μικρή μερίδα, λέει ο Στέλιος. Όπως την περασμένη Παρασκευή.]{.v1}
 
 [— Αμέσως. Ένα λεπτάκι και έρχομαι.]{.v2}
 
@@ -796,7 +806,7 @@ Hör die Szene mit ▶, ohne den Text aufzuklappen, höchstens zweimal. Im Chat:
 1. Was wird zu trinken bestellt? a) eine Flasche Wein, b) ein Karäffchen Ouzo, Eis extra, und
    Wasser, c) Ouzo mit Eis im Glas.
 2. Woher kommt der Ouzo heute? a) aus Plomari, b) aus Volos, c) aus Piräus.
-3. Welche drei Mezedes werden zuerst bestellt? a) Oktopus, Sardinen, Feta, b) Oktopus,
+3. Welche drei Mezedes bestellt die Frau? a) Oktopus, Sardinen, Feta, b) Oktopus,
    Fleischbällchen, Feta, c) Sardinen, Kartoffeln, Feta.
 4. Warum soll die Portion Fleischbällchen klein sein? a) Der Besteller hat gestern zu viel
    gegessen. b) Er ist auf Diät. c) Die Küche hat nicht mehr viele.
@@ -813,14 +823,15 @@ mit Vorsilbe.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Frage 2: ein Ortsname im Genitiv, [plomaˈriu]. Frage 6: [parapsiˈmenes].
+Frage 2: Achte auf einen Ortsnamen im Genitiv. Frage 6: Eine Vorsilbe aus diesem Kapitel
+steckt im Adjektiv.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Zweiter Durchgang: Beim Bestellen und Anbieten ist fast immer Lesart c im Spiel. Ein Diminutiv
-verkleinert eine schlechte Nachricht.
+Zweiter Durchgang: Beim Bestellen und Anbieten ist fast immer Lesart c im Spiel, und auch eine
+schlechte Nachricht wird verkleinert.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -834,7 +845,8 @@ letzten Freitag war wohl nicht klein.
 - Beschwichtigend, der gesellige Ton beim Bestellen: [μεζεδάκια, νεράκι, χταποδάκι,
   σαρδελίτσες, φετούλα, κεφτεδάκια, ψωμάκι, λεπτάκι, ουζάκι]{lang="el"}; [λαδάκι]{lang="el"}
   auch wörtlich, ein bisschen Öl. [καραφάκι]{lang="el"} ist die normale Bestellgröße.
-- Schonend-ironisch: [ένα μικρό προβληματάκι]{lang="el"}; die Sardinen haben es verraten.
+- Ebenfalls beschwichtigend: [ένα μικρό προβληματάκι]{lang="el"} polstert die schlechte
+  Nachricht; höchstens etwas Ironie klingt mit, die Sardinen haben es ja verraten.
 
 Vorsilben: [παράφαγα]{lang="el"} (zu viel), [ξαναγεμίζεις]{lang="el"} (noch einmal),
 [παραψημένες]{lang="el"} (zu lange), [παρεξηγείς]{lang="el"} (daneben). Falle: [μικρή
@@ -855,7 +867,7 @@ Wasser.
 
 — Und Fleischbällchen. Aber eine kleine Portion, ich hab mich gestern überessen.
 
-— Eine kleine Portion, sagt er. Wie letzten Freitag.
+— Eine kleine Portion, sagt Stelios. Wie letzten Freitag.
 
 — Sofort. Einen Moment, ich komme gleich.
 
@@ -924,8 +936,10 @@ Jedes Interview ist anders; so wertest du aus:
 
 - **Striche ohne „klein“:** [σουβλάκι, κολοκυθάκια, φασολάκια, πατατάκια]{lang="el"} sind eigene
   Wörter.
-- **Falsche Striche:** [το κεφάλι, το αγόρι]{lang="el"} (kein [ˈaci]), [η πίτσα]{lang="el"}
-  (kein Grundwort dahinter).
+- **Falsche Striche:** [το τζάκι, το σπανάκι, το καπάκι]{lang="el"}, [το μεράκι]{lang="el"}
+  (Hingabe, Leidenschaft), [το σακάκι]{lang="el"} (Sakko) und [η πίτσα]{lang="el"}: Nach dem
+  Abtrennen bleibt kein Grundwort übrig.
+  <!-- CHECK: μεράκι < türk. merak; σακάκι: Herkunft (Lehnwort, kein Diminutiv von σάκος im heutigen Sprachgefühl?) -->
 - **Lesart:** Beim Essen überwiegt beschwichtigend und gesellig; zärtlich wird es, wenn von der
   Großmutter die Rede ist.
 :::
@@ -949,14 +963,18 @@ Jedes Interview ist anders; so wertest du aus:
   wie spanisch *-ita*. Männliche Namen und Personen: [-άκης, -ούλης]{lang="el"}. Adjektive:
   [μικρούλης, -α, -ικο]{lang="el"}.
 - Manche Verkleinerungen sind **eigene Wörter**: [το κολοκυθάκι, τα φασολάκια, τα πατατάκια, το
-  σουβλάκι]{lang="el"}.
+  σουβλάκι]{lang="el"}. Und nicht jedes [-άκι]{lang="el"} ist eine: [το τζάκι, το καπάκι]{lang="el"}.
 - **Deuten:** klein, zärtlich, beschwichtigend (Bitten, Angebote, Bestellen), spöttisch (auf
   Großes, über Menschen). Tendenzen; oft wirken zwei zugleich.
-- **Vorsilben:** [ξανα-]{lang="el"} noch einmal, neu; [ξε-]{lang="el"} rückgängig, heraus, weg;
+- **Aktiv** brauchst du [-άκι]{lang="el"} und die Floskeln [ένα λεπτάκι, ένα καφεδάκι, Μη με
+  παρεξηγείς, παραλίγο, Με συγχωρείτε, Συγχαρητήρια]{lang="el"}; alles andere zum Erkennen.
+- **Vorsilben:** [ξανα-]{lang="el"} noch einmal, neu; [ξε-]{lang="el"} rückgängig, heraus, weg,
+  seltener ganz und gar;
   [παρα-]{lang="el"} zu viel, daneben; [συν-/συμ-/συγ-]{lang="el"} mit, zusammen, angepasst wie
   lateinisch *con-*. Methode: abtrennen, Verb erkennen, am Satz prüfen.
-- **Aorist:** Die Vorsilbe zählt mit und kann das Augment ersetzen: [παράφαγα, ξέφυγα,
-  ξανάγραψα]{lang="el"}; aber [ξαναήρθα, παραήπια]{lang="el"}.
+- **Aorist:** Die Vorsilbe zählt mit und ersetzt meist das Augment: [παράφαγα, ξέφυγα,
+  ξανάγραψα]{lang="el"} (daneben auch [ξαναέγραψα]{lang="el"}). [ήρθα, ήπια]{lang="el"} bleiben
+  meist: [ξαναήρθα, παραήπια]{lang="el"}.
 
 ## Zum Lesen: Ein Ouzo, zwei Mezedes {#sec-praefixe-lesetext}
 
@@ -970,8 +988,8 @@ Tatsachen offen ist, steht in der Vorsicht-Box danach.
 πιατάκι ελιές, μια φετούλα, λίγο χταποδάκι, και η κουβέντα κρατάει ώρες.
 
 Το ούζο είναι απόσταγμα με γλυκάνισο. Στην Ευρωπαϊκή Ένωση το όνομα προστατεύεται: «ούζο»
-λέγεται μόνο το ποτό που φτιάχνεται στην Ελλάδα ή στην Κύπρο. Το πιο γνωστό έρχεται από τη Λέσβο,
-από το Πλωμάρι, ένα μικρό λιμάνι στον νότο του νησιού.
+λέγεται μόνο το ποτό που φτιάχνεται στην Ελλάδα ή στην Κύπρο. Πολύ ούζο έρχεται από τη Λέσβο,
+κυρίως από το Πλωμάρι, ένα μικρό λιμάνι στον νότο του νησιού.
 
 Αν ρίξεις νερό στο ούζο, θολώνει και γίνεται άσπρο σαν γάλα. Ο γλυκάνισος έχει ένα αιθέριο έλαιο,
 την ανηθόλη, που διαλύεται στο οινόπνευμα αλλά όχι στο νερό. Με το νερό η ανηθόλη σχηματίζει
@@ -980,7 +998,7 @@ Tatsachen offen ist, steht in der Vorsicht-Box danach.
 
 Το τσίπουρο είναι συγγενής του ούζου. Φτιάχνεται από τα στέμφυλα, ό,τι μένει από τα σταφύλια μετά
 το κρασί, με γλυκάνισο ή χωρίς. Στον Βόλο τα τσιπουράδικα έχουν τη δική τους παράδοση: κάθε
-καραφάκι έρχεται με έναν μεζέ, και κάθε φορά που το ξαναπαραγγέλνεις, ο μεζές είναι άλλος.
+μπουκαλάκι έρχεται με έναν μεζέ, και κάθε φορά που το ξαναπαραγγέλνεις, ο μεζές είναι άλλος.
 Πολλοί μένουν μέχρι αργά, μόνο για να δουν τι θα έρθει μετά.
 
 Και τα υποκοριστικά; Στον κατάλογο ενός ουζερί σχεδόν όλα είναι μικρά: χταποδάκι, σαρδελίτσες,
@@ -992,17 +1010,12 @@ Tatsachen offen ist, steht in der Vorsicht-Box danach.
 ::: {.callout-caution .uncertain}
 ## Vorsicht
 
-- Der Schutz der Bezeichnung „Ouzo“ für Griechenland und Zypern steht im EU-Recht zu
-  Spirituosen; die Einzelheiten (seit wann, welche Herkunftsangaben wie „Ouzo aus Plomari“ eigens
-  geschützt sind) sind hier nicht nachgeprüft.
-- Die Trübung heißt in der Physik tatsächlich *Ouzo-Effekt* ([*ouzo effect*]{lang="en"}); ob die
-  griechische Fachsprache genau [«φαινόμενο του ούζου»]{lang="el"} sagt, ist nicht sicher.
 - „Erst Wasser, dann Eis“ ist eine verbreitete Trinkregel; ihre Begründung mit Kristallen wird
   oft genannt, ist hier aber nicht überprüft.
-- Die Herkunft des Wortes *Ouzo* ist unklar. Eine beliebte Geschichte führt es auf italienisch
-  [*uso Massalia*]{lang="it"} „für Marseille“ zurück, das auf Exportkisten gestanden haben soll;
-  belegt ist das nicht.
-<!-- CHECK: EU-Schutz „Ouzo“ (VO (EU) 2019/787, Anhang; zuvor VO 110/2008) für Griechenland und Zypern; Plomari im Süden von Lesbos; Anethol löslich in Ethanol, unlöslich in Wasser (Ouzo-Effekt, Vitale & Katz 2003); Anethol kristallisiert bei Kälte (Schmelzpunkt ca. 21 °C); Tsipouro aus Trester (στέμφυλα), mit oder ohne Anis; Volos-Tsipouradika: zu jedem Fläschchen ein wechselnder Meze -->
+- Die Herkunft des Wortes *Ouzo* ist unklar. Genannt werden türkisch [*üzüm*]{lang="tr"} „Traube“
+  und eine beliebte Geschichte von italienisch [*uso Massalia*]{lang="it"} „für Marseille“ auf
+  Exportkisten; belegt ist die Geschichte nicht.
+<!-- CHECK: Plomari im Süden von Lesbos; Anethol kristallisiert bei Kälte (Schmelzpunkt ca. 21 °C); Tsipouro aus Trester (στέμφυλα), mit oder ohne Anis; Volos-Tsipouradika: zu jedem 50-ml-Fläschchen ein wechselnder Meze -->
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -1021,6 +1034,7 @@ Tatsachen offen ist, steht in der Vorsicht-Box danach.
 | [ο συγγενής]{lang="el"} | der Verwandte |
 | [τα στέμφυλα]{lang="el"} | der Trester |
 | [το τσιπουράδικο]{lang="el"} | Lokal für Tsipouro und Mezedes |
+| [το μπουκαλάκι]{lang="el"} | das Fläschchen (hier 50 ml Tsipouro) |
 | [ξαναπαραγγέλνω]{lang="el"} | nachbestellen ([παραγγέλνω]{lang="el"} bestellen) |
 | [ανησυχώ]{lang="el"} | sich Sorgen machen |
 | [έχουν παραφάει και παραπιεί]{lang="el"} | haben zu viel gegessen und getrunken (Perfekt) |
@@ -1036,8 +1050,8 @@ Freunden und mit Mezedes. Ein Tellerchen Oliven, ein Stück Feta, ein bisschen O
 Gespräch dauert Stunden.
 
 Ouzo ist ein Destillat mit Anis. In der Europäischen Union ist der Name geschützt: „Ouzo“ heißt
-nur das Getränk, das in Griechenland oder Zypern hergestellt wird. Der bekannteste kommt von
-Lesbos, aus Plomari, einem kleinen Hafenort im Süden der Insel.
+nur das Getränk, das in Griechenland oder Zypern hergestellt wird. Viel Ouzo kommt von Lesbos,
+besonders aus Plomari, einem kleinen Hafenort im Süden der Insel.
 
 Wenn man Wasser in den Ouzo gibt, wird er trüb und weiß wie Milch. Der Anis enthält ein
 ätherisches Öl, das Anethol, das sich in Alkohol löst, aber nicht in Wasser. Mit Wasser bildet
@@ -1047,7 +1061,7 @@ Kristalle bildet.
 
 Der Tsipouro ist ein Verwandter des Ouzo. Er wird aus Trester gemacht, dem, was nach dem Wein
 von den Trauben übrig bleibt, mit Anis oder ohne. In Volos haben die Tsipouro-Lokale ihre eigene
-Tradition: Zu jedem Karäffchen kommt ein Meze, und jedes Mal, wenn man nachbestellt, ist es ein
+Tradition: Zu jedem Fläschchen kommt ein Meze, und jedes Mal, wenn man nachbestellt, ist es ein
 anderer. Viele bleiben bis spät, nur um zu sehen, was als Nächstes kommt.
 
 Und die Verkleinerungen? Auf der Karte einer Ouzeri ist fast alles klein: Oktopus, Sardinen,
@@ -1062,10 +1076,10 @@ natürlich viele zu viel gegessen und getrunken, und die Rechnung ist alles ande
 **A. Richtig oder falsch?** Im Chat: „1r, 2f, …“.
 
 1. Ouzo darf in jedem Land der EU hergestellt werden.
-2. Der bekannteste Ouzo kommt aus einem Hafenort im Süden von Lesbos.
+2. Viel Ouzo kommt aus einem Hafenort im Süden von Lesbos.
 3. Ouzo wird mit Wasser trüb, weil sich das Anethol nicht in Wasser löst.
 4. Tsipouro wird aus Trester gemacht und enthält immer Anis.
-5. In Volos kommt zu jedem Karäffchen derselbe Meze.
+5. In Volos kommt zu jedem Fläschchen derselbe Meze.
 6. Die Portionen in einer Ouzeri sind laut Text immer klein.
 
 **B. Wortbildung.** Such die zehn verschiedenen Diminutive (Titel mitgezählt). Bei welchen hat
@@ -1082,7 +1096,7 @@ B: Ein Diminutiv ist ein Adjektiv im letzten Satz.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-B: Dreimal Genuswechsel; zu [καραφάκι]{lang="el"} gehört [η καράφα]{lang="el"}.
+B: Zweimal Genuswechsel; zu [μπουκαλάκι]{lang="el"} gehört [το μπουκάλι]{lang="el"}.
 [τσιπουράδικα]{lang="el"} ist kein Diminutiv.
 :::
 
@@ -1092,10 +1106,10 @@ B: Dreimal Genuswechsel; zu [καραφάκι]{lang="el"} gehört [η καράφ
 **A. 1f, 2r, 3r, 4f, 5f, 6f.** 1: nur Griechenland und Zypern. 5: [ο μεζές είναι
 άλλος]{lang="el"}, jedes Mal ein anderer.
 
-**B.** [ουζάκι, μεζεδάκια, πιατάκι, φετούλα, χταποδάκι, καραφάκι, σαρδελίτσες, κεφτεδάκια,
+**B.** [ουζάκι, μεζεδάκια, πιατάκι, φετούλα, χταποδάκι, μπουκαλάκι, σαρδελίτσες, κεφτεδάκια,
 πατατούλες, μικρούλης]{lang="el"}.
 
-- Genuswechsel: [ο μεζές, ο κεφτές, η καράφα]{lang="el"}. [ούζο, πιάτο, χταπόδι]{lang="el"}
+- Genuswechsel: [ο μεζές, ο κεφτές]{lang="el"}. [ούζο, πιάτο, χταπόδι, μπουκάλι]{lang="el"}
   sind schon sächlich, [-ούλα, -ίτσα]{lang="el"} bleiben weiblich.
 - [καθόλου μικρούλης]{lang="el"}: spöttisch, die Rechnung ist groß. Die übrigen deutet der Text
   selbst als beschwichtigend.
@@ -1107,7 +1121,6 @@ B: Dreimal Genuswechsel; zu [καραφάκι]{lang="el"} gehört [η καράφ
 [παραφάει, παραπιεί]{lang="el"}. Bonus: [ο συγγενής]{lang="el"}, [συγ-]{lang="el"} vor
 [γ]{lang="el"}, wörtlich „mit-geboren“.
 :::
-<!-- CHECK: συγγενής < συν + γένος „mit-geboren“ als Eselsbrücke vertretbar; -άδικο als Suffix für Lokale (ψαράδικο, τσιπουράδικο) -->
 
 
 ::: {.vocab}

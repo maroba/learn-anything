@@ -192,7 +192,72 @@ Echo-Pronomen (Kapitel 20):
 heute sagt man [τον Χριστό]{lang="el"}. Sprichwörter konservieren Grammatik wie Bernstein
 Insekten.
 
-<!-- EXERCISE: Formel, Redewendung oder Sprichwort erkennen (10 Wendungen aus diesem und früheren Kapiteln einordnen, Antwort als Buchstabe) + Teil B: τα-Wendungen in Person/Zeit/Aspekt bringen und laut sagen (z. B. „wir haben uns geeinigt“, „er wird sauer werden“, „ich hab’s vermasselt“ mit Aphärese), Formen bilden, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 30.1: Welche Sorte, welche Form?
+
+**Teil A.** Formel (F), Redewendung (R) oder Sprichwort (S)?
+
+1. [Σ’ το ’πα.]{lang="el"}
+2. [κάνω τα στραβά μάτια]{lang="el"}
+3. [Όποιος βιάζεται, σκοντάφτει.]{lang="el"}
+4. [Εύκολο να το λες.]{lang="el"}
+5. [Δε μου καίγεται καρφί.]{lang="el"}
+6. [Μετά Χριστόν προφήτης.]{lang="el"}
+7. [Άσ’ τα.]{lang="el"}
+8. [βάζω τα δυνατά μου]{lang="el"}
+9. [Κάθε πράγμα στον καιρό του κι ο κολιός τον Αύγουστο.]{lang="el"}
+10. [κάνω μια τρύπα στο νερό]{lang="el"}
+
+**Teil B.** Sag laut auf Griechisch:
+
+a) Keine Sorge, wir haben uns geeinigt.
+b) Wenn er die Rechnung sieht, wird er sauer.
+c) Entschuldigung, ich hab’s vermasselt. (verschliffen, wie man es spricht)
+d) Diesmal werde ich nicht sauer.
+e) Pack zusammen, wir gehen! (zu einer Person)
+
+Im Chat reicht Teil A: „1F, 2R, …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Lässt sich ein Verb in eine andere Person oder Zeit setzen, ohne dass die Wendung
+zerbricht? Dann ist es eine Redewendung. Teil B: Das [τα]{lang="el"} bleibt immer stehen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil A: je drei Formeln und Sprichwörter, vier Redewendungen. Teil B: In b) und d) geht es um
+ein einzelnes Ereignis, also Foto nach [θα]{lang="el"}. In e) steht das Pronomen hinter dem Verb.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1F, 2R, 3S, 4F, 5R, 6S, 7F, 8R, 9S, 10R.**
+
+- Nummer 5 sieht aus wie ein fertiger Satz, beugt sich aber: Im Einstieg hieß es [Δεν
+  **του** καίγεται καρφί.]{lang="el"} Also Redewendung.
+- Nummer 7 hat zwar ein [τα]{lang="el"}, wird aber als fertige Reaktion („Frag nicht.“) gelernt,
+  nicht in Zeiten gesetzt: Formel.
+- Nummer 6 hat kein Verb und ist trotzdem ein Sprichwort: ein ganzer Gedanke, der zitiert wird.
+
+**Teil B:**
+
+- a) [Μην ανησυχείς, τα βρήκαμε.]{lang="el"} Ohne [τα]{lang="el"} hieße
+  [βρήκαμε]{lang="el"} nur „wir haben gefunden“.
+- b) [Όταν δει τον λογαριασμό, θα τα πάρει.]{lang="el"} Mit [θα τα
+  παίρνει]{lang="el"} würde er jedes Mal sauer, eine Gewohnheit.
+- c) [Συγγνώμη, τα ’κανα θάλασσα.]{lang="el"} [ˈtakana]. Die Vollform [τα
+  έκανα]{lang="el"} ist genauso richtig, nur etwas sorgfältiger gesprochen.
+- d) [Αυτή τη φορά δε θα τα πάρω.]{lang="el"} Reihenfolge: [δε θα τα]{lang="el"} + Verb;
+  [*δε τα θα πάρω]{lang="el"} ist ungrammatisch.
+- e) [Μάζεψέ τα, φεύγουμε!]{lang="el"} Beim Imperativ wandert [τα]{lang="el"} hinter das Verb,
+  und [μάζεψε]{lang="el"} bekommt einen zweiten Akzent (Kapitel 9). Zu mehreren:
+  [Μαζέψτε τα!]{lang="el"}
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -264,9 +329,108 @@ Drei Fragen, in dieser Reihenfolge: Was macht das Bild? Worauf antwortet der Sat
 bekanntes Bild fühlt sich wie Verstehen an, auch wenn es in die Irre führt.
 :::
 
-<!-- EXERCISE: Bildlogik: 8 Wendungen (Mischung aus diesem Abschnitt und neuen, leicht erschließbaren, z. B. τρώω τον κόσμο, κάνω την πάπια) mit je drei Bedeutungen zur Wahl; Lösung erklärt das Bild, Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 30.2: Was macht das Bild?
 
-<!-- EXERCISE: Gleich, anders oder falsch? 8 griechische Wendungen je einer deutschen/englischen/spanischen Wendung gegenüberstellen und entscheiden: (1) gleiche Bedeutung, gleiches Bild, (2) gleiche Bedeutung, anderes Bild, (3) falscher Freund; mindestens zwei falsche Freunde (κάνω τα στραβά μάτια / schief ansehen; Τα ράσα … / Kleider machen Leute), Zuordnen, Schwierigkeit 2 -->
+Welche Bedeutung passt? Fünf Wendungen sind neu; erschließ sie über das Bild. Worthilfen: [η
+πάπια]{lang="el"} die Ente, [τα χαρτιά]{lang="el"} hier die Spielkarten, [τα φύκια]{lang="el"}
+der Seetang, [μεταξωτές κορδέλες]{lang="el"} Seidenbänder.
+
+1. [Πνίγεται σε μια κουταλιά νερό.]{lang="el"} a) Er ist sehr sparsam. b) Er verzweifelt an Kleinigkeiten. c) Er verträgt nichts.
+2. [Έφαγα τον κόσμο να σε βρω.]{lang="el"} a) Ich habe dich überall gesucht. b) Ich habe gegessen, bis du kamst. c) Ich habe dir alles versprochen.
+3. [Όποιος έχει τη μύγα, μυγιάζεται.]{lang="el"} a) Wer Ärger sucht, findet ihn. b) Kleine Sorgen wachsen. c) Wer sich getroffen fühlt, verrät sich.
+4. [Κάνει την πάπια.]{lang="el"} a) Er stellt sich dumm. b) Kritik perlt an ihm ab. c) Er redet ununterbrochen.
+5. [Ανοίξαμε τα χαρτιά μας.]{lang="el"} a) Wir haben die Post gelesen. b) Wir haben unsere Absichten offengelegt. c) Wir haben aufgegeben.
+6. [Μετά Χριστόν προφήτης.]{lang="el"} a) Der Prophet gilt nichts im eigenen Land. b) Alles braucht seine Zeit. c) Hinterher weiß es jeder.
+7. [Είναι στον κόσμο του.]{lang="el"} a) Er ist mit den Gedanken woanders. b) Er ist viel gereist. c) Er ist gerade zu Hause.
+8. [Μου πουλάει φύκια για μεταξωτές κορδέλες.]{lang="el"} a) Er macht Geschäfte am Hafen. b) Er will mich für dumm verkaufen. c) Er schenkt mir Kitsch.
+
+Im Chat: „1b, 2a, …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Frag bei jedem Bild: Was ist daran übertrieben, unmöglich oder wertlos? Genau das ist gemeint.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Bei 4 hilft das Bild kaum. Eine der Antworten stammt aus dem Englischen und meint dort etwas
+anderes. Bei 6 lockt ein Bibelwort, das auch von Propheten handelt.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1b, 2a, 3c, 4a, 5b, 6c, 7a, 8b.**
+
+- 1: Ertrinken in einem Löffel Wasser ist unmöglich, also: an Nichtigkeiten scheitern.
+- 2: „Die Welt aufessen“: alles abgrasen, jeden Winkel. Meist mit [να]{lang="el"} und dem Ziel
+  der Suche.
+- 4: [κάνω την πάπια]{lang="el"} heißt, sich unwissend stellen oder absichtlich schweigen. Das
+  Bild erklärt sich nicht von selbst. Antwort b ist englisch ([*like water off a duck’s
+  back*]{lang="en"}): gleiches Tier, andere Bedeutung, die dritte Frage aus dem Tipp.
+- 5: Beim Kartenspiel legt man die Karten auf den Tisch: [παίζω με ανοιχτά χαρτιά]{lang="el"}
+  wie „mit offenen Karten spielen“.
+- 6: Wer nach Christus weissagt, weissagt nichts. Antwort a ist das deutsche Bibelwort vom
+  Propheten im eigenen Land, ein ganz anderer Gedanke.
+- 8: Seetang ist wertlos und liegt überall am Strand; wer ihn als Seide verkauft, betrügt.
+:::
+
+::: {.callout-note .exercise}
+## Übung 30.3: Gleich, anders oder falsch?
+
+Vergleiche jeweils die griechische Wendung mit der daneben:
+
+1. gleiche Bedeutung, gleiches Bild
+2. gleiche Bedeutung, anderes Bild
+3. falscher Freund: ähnliches Bild, andere Bedeutung
+
+a) [ρίχνω λάδι στη φωτιά]{lang="el"} – Öl ins Feuer gießen
+b) [Βρέχει καρεκλοπόδαρα.]{lang="el"} – [*It’s raining cats and dogs.*]{lang="en"}
+c) [κάνω τα στραβά μάτια]{lang="el"} – jemanden schief ansehen
+d) [Ήταν κινέζικα.]{lang="el"} – [*It’s all Greek to me.*]{lang="en"}
+e) [Τα ράσα δεν κάνουν τον παπά.]{lang="el"} – Kleider machen Leute.
+f) [Το ’χω στην άκρη της γλώσσας μου.]{lang="el"} – [*Lo tengo en la punta de la lengua.*]{lang="es"}
+g) [Είπε ο γάιδαρος τον πετεινό κεφάλα.]{lang="el"} – [*The pot calling the kettle black.*]{lang="en"}
+h) [Έπεσα από τα σύννεφα.]{lang="el"} – Ich fiel aus allen Wolken.
+
+Im Chat: „a1, b2, …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Erst die Bedeutungen vergleichen, dann die Bilder. Ein falscher Freund fällt nur auf, wenn du die
+griechische Bedeutung wirklich kennst und nicht vom Bild her rätst.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Es gibt zwei falsche Freunde, drei gleiche und drei andere Bilder. Bei d): Welche Sprache ist
+jeweils die unverständliche?
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**a1, b2, c3, d2, e3, f1, g2, h1.**
+
+- c) ist der tückischste Fall: „schief ansehen“ heißt missbilligen, [κάνω τα στραβά
+  μάτια]{lang="el"} dagegen absichtlich *nicht* hinsehen. Wer es als Kritik versteht, versteht
+  das Gegenteil.
+- e) Die griechische Wendung sagt: Das Gewand macht nicht den Priester. „Kleider machen Leute“
+  behauptet das Gegenteil. Das richtige deutsche Gegenstück wäre „Die Kutte macht noch keinen
+  Mönch“, dann läge 1 vor.
+- d) Gleiche Bedeutung, aber Englisch schickt das Unverständliche nach Griechenland,
+  Griechisch nach China. Wer das Bild abstrakt nimmt („fremde Sprache“), kann 1 vertreten. Mit
+  dem spanischen [*me suena a chino*]{lang="es"} wäre es eindeutig 1.
+- b), g): Stuhlbeine statt Katzen und Hunde, Esel und Hahn statt Topf und Kessel: klassisch 2.
+- f) Wörtlich „an der Spitze der Zunge“, im Spanischen wie im Griechischen.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -336,7 +500,56 @@ Du erkennst sie meist daran, dass die Figuren auf einmal lauter werden.
   versteht niemand. Die Bilder der Nachbarsprache wandern selten mit.
 :::
 
-<!-- EXERCISE: Situation → passende Wendung laut auf Griechisch sagen (nur die acht aktiven Wendungen + όπως λέει κι η παροιμία): 7 kurze Alltagssituationen (z. B. Freundin wünscht Glück für die Prüfung; man hat Fahrkarten falsch gebucht; jemand fragt, wie gut man Griechisch spricht; man soll auf ein Kind aufpassen), mündlich übersetzen; Lösung mit Registerhinweis, welche Wendung zu flapsig wäre, Schwierigkeit 2–3 -->
+::: {.callout-note .exercise}
+## Übung 30.4: Was sagst du?
+
+Sag in jeder Situation laut einen passenden griechischen Satz. Nimm nur Wendungen aus der Liste
+„zum Selbstsagen“, bei Sprichwörtern gern mit [όπως λέει κι η παροιμία]{lang="el"}.
+
+1. Eine Freundin schreibt dir vor der Prüfung: „Du schaffst das bestimmt!“
+2. Du hast für euch beide die Fähre am falschen Tag gebucht und entschuldigst dich.
+3. Der Kellner fragt: [Μιλάτε ελληνικά;]{lang="el"}
+4. Die Nachbarin muss kurz weg und bittet dich, auf ihren kleinen Sohn aufzupassen. Du sagst
+   zu.
+5. Die Fähre fällt aus, ihr bleibt einen Tag länger auf der Insel und entdeckt das schönste
+   Dorf der Reise.
+6. Eine Kollegin fragt, ob du den Bericht bis Freitag schaffst. Versprechen kannst du es nicht.
+7. Jemand fragt dich mittags, ob du schon gegessen hast. Ja, schnell etwas zwischendurch.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Jede Situation passt zu genau einer der acht Wendungen; eine bleibt übrig.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Achte auf Person und Zeit: In 2 und 7 ist es schon passiert, in 4 und 6 steht es bevor. Das
+Possessivpronomen in [έχω τον νου μου]{lang="el"} richtet sich nach dem, der aufpasst.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [Από το στόμα σου και στου Θεού τ’ αυτί.]{lang="el"} Auch ein schlichtes [Να ’σαι
+   καλά!]{lang="el"} passt.
+2. [Συγγνώμη, τα ’κανα θάλασσα με το πλοίο.]{lang="el"} Über dich selbst ist das sympathisch.
+   Hätte der andere den Fehler gemacht, wäre [Τα ’κανες θάλασσα]{lang="el"} ein Vorwurf.
+3. [Κουτσά στραβά.]{lang="el"} Bescheiden, ehrlich und meist mit Lächeln quittiert.
+4. [Μην ανησυχείτε, θα έχω τον νου μου στο παιδί.]{lang="el"} (oder [ανησυχείς]{lang="el"},
+   wenn ihr euch duzt). Typischer Fehler: [τον νου
+   σου]{lang="el"} aus dem Imperativ übernehmen. Grammatisch, aber sinnlos: „deinen Verstand“.
+5. [Όπως λέει κι η παροιμία, κάθε εμπόδιο για καλό.]{lang="el"}
+6. [Δεν ξέρω, αλλά θα βάλω τα δυνατά μου.]{lang="el"} Foto nach [θα]{lang="el"}: ein
+   einmaliger Einsatz.
+7. [Ναι, έφαγα κάτι στο φτερό.]{lang="el"} Auch [στο πόδι]{lang="el"} passt, wenn du im
+   Stehen gegessen hast.
+
+Übrig bleibt [τα βρίσκω με]{lang="el"}. Die Wendungen nur zum Verstehen passen hier nicht: In 6
+wäre [Δε μου καίγεται καρφί]{lang="el"} nicht bloß flapsig, sondern ein Affront.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -462,7 +675,54 @@ Vor dem Hören:
 [— … Καλά. Χαλάλι σου, κορίτσι μου. Αλλά τα κουλούρια της Κυριακής θα μου τα φέρνεις τζάμπα.]{.v2}
 :::
 
-<!-- EXERCISE: Hörverstehen zur Szene: Auftrag „Hör die Szene mit ▶, ohne den Text aufzuklappen, höchstens zweimal. Im Chat: 1a, 2c …“; 7 Multiple-Choice-Fragen NUR zum Inhalt (was hat Eleni getan; wo und was will sie eröffnen; wie/wo hat sie gelernt; wusste die Mutter davon; womit kontert die Mutter das halbe Sprichwort des Vaters (erinnert an sein eigenes Geschäft 1988); woher kommt das Brot, das der Vater seit drei Monaten isst; was verlangt der Vater am Ende); keine Fragen zu Sandhi oder Intonation; Lösung zitiert die Stellen und nennt beiläufig die Wendungen; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 30.5: Erst hören
+
+Hör die Szene mit ▶, ohne den Text aufzuklappen, höchstens zweimal. Dann:
+
+1. Was hat Eleni getan? a) bei der Bank gekündigt b) ihr Studium abgebrochen c) den Laden des Vaters übernommen
+2. Was will sie eröffnen? a) ein Café in Athen b) eine Bäckerei auf Sifnos c) eine Bäckerei an der Ecke
+3. Wo hat sie das Handwerk gelernt? a) bei der Großmutter b) auf einer Kochschule c) samstags früh bei Frau Rini
+4. Wusste die Mutter davon? a) ja b) nein c) sie ahnte es
+5. Womit kontert die Mutter das halbe Sprichwort des Vaters? a) Sein Vater sagte dasselbe, als er 1988 seinen Laden aufmachte. b) Sie selbst hat 1988 gekündigt. c) Der Großvater war auch Bäcker.
+6. Woher kommt das Brot, das der Vater seit drei Monaten lobt? a) vom Bäcker an der Ecke b) aus der eigenen Küche c) von Frau Rini
+7. Was verlangt der Vater am Ende? a) dass sie zur Bank zurückgeht b) einen Anteil am Gewinn c) die Sonntagskringel umsonst
+
+Im Chat: „1a, 2c, …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Halte beim zweiten Hören nach Namen und Zahlen Ausschau: [Σίφνο, κυρα-Ρήνη, το ’88, τρεις
+μήνες]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Fragen 6 und 7 entscheiden sich in den letzten drei Zeilen: [δικό μας]{lang="el"} und
+[τζάμπα]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1a, 2b, 3c, 4a, 5a, 6b, 7c.**
+
+1. [Παραιτήθηκα από την τράπεζα.]{lang="el"}
+2. [Ανοίγω φούρνο στη Σίφνο, στο σπίτι του παππού.]{lang="el"} Präsens für die Zukunft.
+3. [Δύο χρόνια μάθαινα στον φούρνο της κυρα-Ρήνης, κάθε Σάββατο στις πέντε το πρωί.]{lang="el"}
+4. [Το ήξερα.]{lang="el"} Der Vater wirft ihr vor, sie habe [τα στραβά μάτια]{lang="el"}
+   gemacht.
+5. Der Vater beginnt [Όποιος ανακατεύεται με τα πίτουρα…]{lang="el"}, die Mutter ergänzt
+   [τον τρώνε οι κότες]{lang="el"} und erinnert an [το μαγαζί το ’88]{lang="el"}.
+6. [Από τον δικό μας φούρνο … Της κουζίνας.]{lang="el"} Eleni hat es zu Hause gebacken. Der
+   Bäcker an der Ecke (a) ist die falsche Vermutung des Vaters.
+7. [τα κουλούρια της Κυριακής θα μου τα φέρνεις τζάμπα]{lang="el"}, nach einem gnädigen
+   [Χαλάλι σου]{lang="el"}. Das Echo-Pronomen [τα]{lang="el"} greift die vorangestellten
+   Kringel auf.
+:::
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -534,7 +794,49 @@ Spitze gefallen ist), und nutze **griechische Untertitel**. Sie kürzen zwar (Ka
 feste Wendungen aber oft stehen, sodass du sie nachschlagen kannst. Filme und Serien
 findest du auf [ERTflix](https://www.ertflix.gr), manche mit griechischen Untertiteln.
 
-<!-- EXERCISE: Hör-Auftrag ERTflix (https://www.ertflix.gr): eine griechische Komödie oder Familienserie mit griechischen Untertiteln (CC) wählen, 10 Minuten Streit- oder Tischszene; (1) ohne Untertitel: Strich bei jedem Satz, bei dem man die Wörter, aber nicht den Sinn versteht; (2) mit griechischen Untertiteln: zwei solcher Stellen merken, im LKN nachschlagen, entscheiden, ob Formel, Redewendung oder Sprichwort; (3) prüfen, ob eine Wendung aus diesem Kapitel vorkam; Rückmeldung im Chat als Zahl + zwei Wendungen; keine erfundenen Titel oder URLs, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 30.6: Hör-Auftrag
+
+Wähl auf [ERTflix](https://www.ertflix.gr) eine griechische Komödie oder Familienserie mit
+griechischen Untertiteln und daraus zehn Minuten Streit- oder Tischszene.
+
+1. **Ohne Untertitel:** Mach einen Strich bei jedem Satz, bei dem du die Wörter verstehst, aber
+   nicht den Sinn.
+2. **Mit griechischen Untertiteln:** Merk dir zwei dieser Stellen, schlag sie im
+   [«Λεξικό της Κοινής Νεοελληνικής»]{lang="el"} nach und entscheide: Formel, Redewendung oder
+   Sprichwort?
+3. Kam eine Wendung aus diesem Kapitel vor?
+
+Im Chat: die Zahl der Striche und deine zwei Wendungen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Verdächtig sind Sätze, auf die das Gegenüber lacht, empört reagiert oder schweigt, und alles
+mit [όποιος]{lang="el"} am Anfang.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Im Wörterbuch steht eine Wendung meist beim tragenden Nomen, nicht beim Verb:
+[κάνω τα στραβά μάτια]{lang="el"} also unter [μάτι]{lang="el"}.
+<!-- CHECK: Stehen Wendungen im LKN in der Regel unter dem Nomen (z. B. „στραβά μάτια“ unter μάτι oder unter στραβός)? -->
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Eine feste Lösung gibt es nicht. Zur Einordnung:
+
+- **Zahl der Striche:** Fünf bis zehn in zehn Minuten Streit sind normal.
+- **Einordnen:** Lässt sich das Verb in eine andere Person oder Zeit setzen, ist es eine
+  Redewendung; ein unveränderlicher ganzer Satz mit Lebensweisheit ist ein Sprichwort; eine
+  fertige Reaktion ohne Bild eine Formel.
+- **Häufige Kandidaten** aus diesem Kapitel: [Άσ’ τα, Σιγά τα λάχανα, τα ’κανες θάλασσα, τα
+  πήρε, Σ’ το ’πα]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -666,7 +968,68 @@ wir die alle glauben würden.
 <!-- CHECK: Aristoteles EN VIII 1156b25–29; Cicero Laelius 19,67 (multos modios salis); Plutarch, Lacaenarum apophthegmata, Moralia 241F; κατεργάρης < κάτεργο laut LKN; venezianische Galeeren „oft auch“ mit Sträflingen gerudert (Byzanz: überwiegend freie Ruderer?); deutsche Wendung „einen Scheffel Salz mit jemandem gegessen haben“ -->
 :::
 
-<!-- EXERCISE: Leseverstehen zur Kolumne: Teil A richtig/falsch aus dem Text (7 Aussagen, u. a. Aristoteles erfand das Sprichwort [falsch: zitiert es als Sprichwort]; Schildflüchtige warfen den Schild weg; κατεργάρης heißt heute „Sträfling“ [falsch]; Herkunft von „Σιγά τα λάχανα“ ist geklärt [falsch]); Teil B: vier Wendungen aus dem ganzen Kapitel einer Herkunft zuordnen (Antike, Kirche, Seefahrt, osmanisch) und sagen, ob gesichert oder „gängige Erklärung“; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 30.7: Salz, Schild und Galeere
+
+**Teil A.** Richtig (R) oder falsch (F), laut Kolumne?
+
+1. Aristoteles hat das Salz-Sprichwort erfunden.
+2. Nach Aristoteles kennt man sich erst nach vielen gemeinsamen Mahlzeiten.
+3. Den Satz der Spartanerin überliefert Plutarch.
+4. Wer aus der Schlacht floh, warf den Schild weg, um schneller zu laufen.
+5. [Ή ταν ή επί τας]{lang="el"} sagt man heute nur in feierlichen Reden.
+6. Ein [κατεργάρης]{lang="el"} ist heute ein Sträfling.
+7. Woher [Σιγά τα λάχανα]{lang="el"} kommt, ist geklärt.
+
+**Teil B.** Aus welcher Welt stammt jede Wendung: Antike, Kirche, Seefahrt oder osmanische
+Zeit? Und was davon ist gesichert, was nur gängige Erklärung?
+
+a) [Φάγαμε μαζί ψωμί κι αλάτι.]{lang="el"}
+b) [Του έψαλα τον εξάψαλμο.]{lang="el"}
+c) [Κάθε κατεργάρης στον πάγκο του.]{lang="el"}
+d) [Χαλάλι σου!]{lang="el"}
+
+Im Chat: „A: 1F, …; B: a Antike, …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A, Satz 1: Achte in der Kolumne auf [ως παροιμία]{lang="el"}. Satz 5: auf
+[μισοαστεία]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil B: Bei einer der vier Wendungen ist ein Teil gesichert und ein anderer nicht. Lies dazu den
+Vorsicht-Kasten unter der Kolumne.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1F, 2R, 3R, 4R, 5F, 6F, 7F.**
+
+- 1: [Και το γράφει ως παροιμία· άρα ήταν παλιά ήδη τότε.]{lang="el"} Aristoteles zitiert, er
+  erfindet nicht.
+- 5: [μισοαστεία]{lang="el"}, halb im Scherz, vor einer Prüfung oder einem Treffen.
+- 6: Früher ruderten Sträflinge; heute ist ein [κατεργάρης]{lang="el"} ein Schlitzohr.
+- 7: [οι ιστορίες είναι πολλές και οι αποδείξεις καμία]{lang="el"}.
+
+**Teil B:**
+
+- a) **Antike**, gesichert: Aristoteles zitiert das Sprichwort, Cicero greift es auf.
+- b) **Kirche**, gesichert: der Hexapsalm aus dem Morgengottesdienst.
+- c) **Seefahrt**, halb und halb: Dass [κατεργάρης]{lang="el"} von [κάτεργο]{lang="el"} kommt,
+  steht in den Wörterbüchern. Dass die Wendung von der Rückkehr auf die Ruderbank stammt, ist
+  nur die gängige Erklärung.
+- d) **Osmanische Zeit**, gesichert durch die Wortgeschichte: türkisch
+  [*helal*]{lang="tr"}.
+
+Typischer Fehler: c) ganz als gesichert werten. Die Herkunft des Worts beweist nicht, wie die
+Wendung entstand.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
