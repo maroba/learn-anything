@@ -230,7 +230,7 @@ Die wir-Form ist bei beiden Mustern gleich gebaut: [-όμαστε]{lang="el"}, b
 - b) [θυμούνται]{lang="el"} [θiˈmude]
 - c) [γίνεσαι]{lang="el"} [ˈʝinese]
 - d) [κοιμάστε]{lang="el"} [ciˈmaste], umg. [κοιμόσαστε]{lang="el"}
-- e) [έρχεστε]{lang="el"} [ˈerxeste]
+- e) [έρχεστε]{lang="el"} [ˈerçeste]
 - f) [λυπόμαστε]{lang="el"} [liˈpomaste]
 - g) [κάθονται]{lang="el"} [ˈkaθode]
 - h) [φοβάται]{lang="el"} [foˈvate]
@@ -297,8 +297,8 @@ tragen weit:
   [βιάζομαι → βιάστηκα]{lang="el"} aus Kapitel 1. Und [σκέφτομαι]{lang="el"} hat den
   [τ]{lang="el"} schon im Stamm: [σκέφτηκα]{lang="el"}.
 
-Du hast solche Formen schon gelesen, ohne es zu merken: Schliemann [γεννήθηκε]{lang="el"}
-„wurde geboren“, sein Schatz [χάθηκε]{lang="el"} „ging verloren“ (Kapitel 2). Das sind echte
+Solche Formen standen schon in Kapitel 2: Schliemann [γεννήθηκε]{lang="el"}
+„wurde geboren“, sein Schatz [χάθηκε]{lang="el"} „ging verloren“. Das sind echte
 Passive; die Bildung ist dieselbe. Beim Hören ist [-θηκα]{lang="el"} [θika] das Signal:
 Vergangenheit eines Verbs auf [-μαι]{lang="el"}.
 
@@ -605,8 +605,8 @@ angekündigt: Es sind die von [ήμουν]{lang="el"}.
 Vor den Endungen steht ein betontes [-ό-]{lang="el"}, bei beiden Mustern, so wie das
 [-ού-]{lang="el"} in [μιλούσα]{lang="el"} (Kapitel 4). Nur die sie-Form tanzt aus der Reihe:
 [κάθονταν, έρχονταν]{lang="el"}, bei den [-άμαι]{lang="el"}-Verben [κοιμούνταν,
-θυμούνταν]{lang="el"}. Umgangssprachlich hörst du dafür [καθόντουσαν, κοιμόντουσαν]{lang="el"},
-ebenso [καθόμουνα, κοιμότανε]{lang="el"} wie bei [ήμουνα, ήτανε]{lang="el"}.
+θυμούνταν]{lang="el"}. Hier genügt es, die Formen zu erkennen; aktiv kommen sie mit dem
+Mediopassiv in Kapitel 13 wieder.
 
 So entsteht der klassische Erdbebensatz, Film und Foto in einem:
 
@@ -614,6 +614,21 @@ So entsteht der klassische Erdbebensatz, Film und Foto in einem:
 - [Καθόμασταν στο μπαλκόνι και ξαφνικά κουνήθηκε όλο το σπίτι.]{lang="el"} Wir saßen auf dem
   Balkon, und plötzlich wackelte das ganze Haus.
 - [Όταν ήμουν παιδί, φοβόμουν τους σεισμούς.]{lang="el"} Als Kind hatte ich Angst vor Erdbeben.
+
+::: {.callout-note}
+## Im Gespräch hörst du auch …
+
+Neben den Formen der Tabellen gibt es umgangssprachliche Varianten, meist eine Silbe länger:
+
+- ihr, Präsens: [καθόσαστε, φοβόσαστε, κοιμόσαστε]{lang="el"} für [κάθεστε, φοβάστε,
+  κοιμάστε]{lang="el"}
+- sie, Aorist: [θυμηθήκανε, σκεφτήκανε]{lang="el"} für [θυμήθηκαν, σκέφτηκαν]{lang="el"}, wie
+  [θέλανε]{lang="el"} in Kapitel 4
+- Imperfekt: [καθόμουνα, κοιμότανε]{lang="el"} wie [ήμουνα, ήτανε]{lang="el"}; sie-Form
+  [καθόντουσαν, κοιμόντουσαν]{lang="el"} für [κάθονταν, κοιμούνταν]{lang="el"}
+
+Verstehen genügt; selbst sprechen kannst du mit den Formen der Tabellen.
+:::
 
 ::: {.callout-note .exercise}
 ## Übung 10.5: Die Nacht, in der es wackelte
@@ -648,16 +663,17 @@ Erst die Kette suchen: Was passiert nacheinander? Alles andere ist Kulisse.
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**1a, 2a, 3b, 4b, 5b, 6b, 7a oder 7b, 8a.**
+**1a, 2a, 3b, 4b (4a möglich), 5b, 6b, 7a oder 7b, 8a.**
 
-- (1), (2) Kulisse: Er schläft noch, sie sitzt. [κοιμήθηκε]{lang="el"} hieße „er schlief ein“
-  und passt nicht zu [ήδη]{lang="el"}; das ist der häufigste Fehler.
+- (1), (2) Kulisse: Er schläft schon, sie sitzt. [κοιμήθηκε ήδη]{lang="el"} ist nicht unmöglich,
+  umgangssprachlich für „war schon eingeschlafen“ (sauber: [είχε ήδη κοιμηθεί]{lang="el"},
+  Kapitel 14), aber als Kulisse passt [κοιμόταν]{lang="el"}.
 - (3), (5), (6) Die Kette: Und dann? Das Beben kam, sie dachte an die Mutter, der Nachbar kam.
   [γινόταν]{lang="el"} wäre „war gerade im Gange“.
 - (4) [Φοβήθηκα]{lang="el"}: Die Angst setzt mit dem Beben ein, wie im Einstieg.
   [Φοβόμουν]{lang="el"} ist nicht unmöglich, hält aber die Kette an.
 - (7) [καθόμασταν]{lang="el"} erzählt die Nacht als Kulisse, [καθίσαμε]{lang="el"} fasst sie als
-  abgemessenes Ganzes.
+  abgeschlossenes Ganzes.
 - (8) [συνέχεια]{lang="el"}, „ständig“, verlangt den Film.
 :::
 
@@ -673,12 +689,13 @@ Erst die Kette suchen: Was passiert nacheinander? Alles andere ist Kulisse.
 ## Hörspur: Erinnerungen an ein Beben {#sec-mai-hoerspur}
 
 Die ▶-Aufnahmen im Buch sind synthetische Stimmen, deutlich und gleichmäßig; wie Griechen wirklich
-von Erlebtem erzählen, bringt der Hör-Auftrag am Ende.
+von Erlebtem erzählen, bringt Übung 10.7 am Ende des Abschnitts.
 
 Am 7. September 1999, kurz vor drei Uhr nachmittags, bebte in Athen die Erde. Wer damals
-erwachsen war, weiß noch, wo er war. Eine Tante erzählt es ihrem Neffen auf dem Balkon:
+erwachsen war, weiß noch, wo er war. Eine Tante erzählt es ihrem Neffen auf dem Balkon. Erst
+hören, dann lesen:
 
-::: {lang="el"}
+::: {lang="el" .listen}
 — Θεία, εσύ θυμάσαι τον σεισμό του ’99;
 
 — Αν τον θυμάμαι; Σαν να ’ταν χθες. Ήμουν στη δουλειά, στον τέταρτο όροφο. Καθόμουν στον
@@ -702,6 +719,47 @@ erwachsen war, weiß noch, wo er war. Eine Tante erzählt es ihrem Neffen auf de
 
 — Σοβαρά. Εκείνο το βράδυ κοιμηθήκαμε όλοι στο αυτοκίνητο. Εκτός από τη γιαγιά. «Αν είναι να
 γίνει κάτι, θα γίνει», είπε, και κοιμήθηκε στο κρεβάτι της.
+:::
+
+::: {.callout-note .exercise}
+## Übung 10.6: Erst hören
+
+Hör dir den Dialog zweimal mit ▶ an, ohne den Text aufzuklappen. Zähl die Formen der sieben
+Verben und ordne sie ein: Präsens, Imperfekt, Aorist oder [θα]{lang="el"}/[να]{lang="el"}-Form.
+Dann den Text aufklappen und nachzählen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Die Endung verrät die Form: [me], [se], [te] am Ende ist Präsens; betontes [ˈomun], [ˈotan]
+ist Imperfekt; [θika], [tika] ist Aorist; ein betontes [ˈθo], [ˈθi], [ˈto] am Ende ist die
+[θα]{lang="el"}- oder [να]{lang="el"}-Form. Bei den Ausreißern hilft das [θα]{lang="el"} oder
+[να]{lang="el"} davor.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[θυμάμαι]{lang="el"} kommt gleich am Anfang zweimal, [κοιμάμαι]{lang="el"} dreimal in drei
+verschiedenen Formen, [γίνομαι]{lang="el"} zweimal im letzten Satz.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**12 Formen.**
+
+- **Präsens (2):** [θυμάσαι, θυμάμαι]{lang="el"}
+- **Imperfekt (3):** [καθόμουν, σκεφτόμουν, κοιμόταν]{lang="el"}
+- **Aorist (4):** [φοβήθηκα, κάθισα, κοιμηθήκαμε, κοιμήθηκε]{lang="el"}
+- **[θα]{lang="el"}/[να]{lang="el"}-Form (3):** [να σκεφτώ, να γίνει, θα γίνει]{lang="el"}
+
+Nicht zu den sieben gehört [κουνιέται]{lang="el"} (Präsens von [κουνιέμαι]{lang="el"}). Wer
+[Έλα!]{lang="el"} mitgezählt hat, liegt nicht falsch: formal der Imperativ von
+[έρχομαι]{lang="el"}, hier aber Staunen. Überhört wird meist [κάθισα]{lang="el"}, das wie ein
+aktiver Aorist klingt, und [κοιμηθήκαμε]{lang="el"} gegen [κοιμήθηκε]{lang="el"}: Achte auf die
+betonte Silbe.
 :::
 
 ::: {.callout-note collapse="true" .translation}
@@ -735,6 +793,12 @@ soll, dann passiert es“, sagte sie, und schlief in ihrem Bett.
 Die Oma hält sich an den Mittagsschlaf aus Kapitel 1, und dass ganze Familien nach einem starken
 Beben im Auto oder im Park schlafen, ist in Griechenland keine Übertreibung.
 
+Am Ende stehen zwei Aoriste von [κοιμάμαι]{lang="el"}. [Κοιμηθήκαμε όλοι στο
+αυτοκίνητο]{lang="el"} fasst die ganze Nacht im Auto als abgeschlossenes Ganzes, „haben
+geschlafen“, ganz ohne Zeitangabe (@sec-mai-zustand). Bei der Oma, [κοιμήθηκε στο κρεβάτι
+της]{lang="el"}, schwingt beides mit: Sie legte sich hin, schlief ein und blieb die Nacht über
+dort.
+
 Zwischen den Verben stehen die Wendungen, mit denen man auf Griechisch erinnert:
 
 - **[Αν τον θυμάμαι;]{lang="el"}** „Ob ich mich erinnere?“ Wer eine Frage wiederholt, meint:
@@ -744,69 +808,6 @@ Zwischen den Verben stehen die Wendungen, mit denen man auf Griechisch erinnert:
   Kapitel 4: Zögern, bevor etwas Schwieriges kommt.
 - **[Αν είναι να γίνει, θα γίνει.]{lang="el"}** „Was passieren soll, passiert.“ Fatalismus in
   sechs Wörtern, zu hören bei Erdbeben, Prüfungen und Fähren im Meltemi.
-
-### [-θηκα]{lang="el"}, [-θώ]{lang="el"}, [-όμουν]{lang="el"} hören {#sec-mai-hoeren}
-
-Beim schnellen Hören entscheiden Endung und Betonung, welche Form du vor dir hast:
-
-| Du hörst | Form | Beispiel |
-|---|---|---|
-| [me], [se], [te] am Ende | Präsens | [θυμάμαι]{lang="el"} [θiˈmame] |
-| [ˈomun], [ˈotan] | Imperfekt | [κοιμόταν]{lang="el"} [ciˈmotan] |
-| [θika], [tika] | Aorist | [φοβήθηκα]{lang="el"} [foˈviθika] |
-| betontes [ˈθo], [ˈθi], [ˈto] | [θα]{lang="el"}- oder [να]{lang="el"}-Form | [να σκεφτώ]{lang="el"} [na scefˈto] |
-
-Die Falle: [φοβήθηκα]{lang="el"} [foˈviθika] und [φοβηθώ]{lang="el"} [foviˈθo] haben dieselben
-Konsonanten, aber die Betonung wandert ans Ende. Und [ερχόμαστε]{lang="el"} [erˈxomaste] „wir kommen“ klingt
-fast wie [ερχόμασταν]{lang="el"} [erˈxomastan] „wir kamen“: Achte auf das [-an] am Ende, wie bei
-[είμαστε]{lang="el"} und [ήμασταν]{lang="el"} in Kapitel 4.
-
-::: {.callout-note .exercise}
-## Übung 10.6: Hör-Auftrag
-
-**Schritt 1.** Hör dir den Dialog aus @sec-mai-hoerspur zweimal mit ▶ an, ohne mitzulesen. Zähl
-die Formen der sieben Verben und ordne sie ein: Präsens, Imperfekt, Aorist oder
-[θα]{lang="el"}/[να]{lang="el"}-Form. Dann im Text nachzählen.
-
-**Schritt 2.** Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) nach
-[θυμάσαι]{lang="el"} oder [παιδικά χρόνια]{lang="el"} ein Straßeninterview über Erinnerungen.
-Hör drei Minuten ohne Untertitel, mach Striche für [θυμάμαι/θυμάσαι]{lang="el"} und für Formen
-auf [θika], merk dir zwei davon. Dann mit griechischen Untertiteln prüfen.
-:::
-
-::: {.callout-tip collapse="true" .hint}
-## Hinweis 1
-
-Die Tabelle in @sec-mai-hoeren: [me/se/te] am Ende, [ˈomun/ˈotan], [θika], betontes [ˈθo/ˈθi].
-:::
-
-::: {.callout-tip collapse="true" .hint}
-## Hinweis 2
-
-[θυμάμαι]{lang="el"} kommt gleich am Anfang zweimal, [κοιμάμαι]{lang="el"} dreimal in drei
-verschiedenen Formen, [γίνομαι]{lang="el"} zweimal im letzten Satz.
-:::
-
-::: {.callout-tip collapse="true" .solution}
-## Lösung
-
-**Schritt 1: 12 Formen.**
-
-- **Präsens (2):** [θυμάσαι, θυμάμαι]{lang="el"}
-- **Imperfekt (3):** [καθόμουν, σκεφτόμουν, κοιμόταν]{lang="el"}
-- **Aorist (4):** [φοβήθηκα, κάθισα, κοιμηθήκαμε, κοιμήθηκε]{lang="el"}
-- **[θα]{lang="el"}/[να]{lang="el"}-Form (3):** [να σκεφτώ, να γίνει, θα γίνει]{lang="el"}
-
-Nicht zu den sieben gehört [κουνιέται]{lang="el"} (Präsens von [κουνιέμαι]{lang="el"}). Wer
-[Έλα!]{lang="el"} mitgezählt hat, liegt nicht falsch: formal der Imperativ von
-[έρχομαι]{lang="el"}, hier aber Staunen. Überhört wird meist [κάθισα]{lang="el"}, das wie ein
-aktiver Aorist klingt, und [κοιμηθήκαμε]{lang="el"} gegen [κοιμήθηκε]{lang="el"}: Achte auf die
-betonte Silbe.
-
-**Schritt 2:** Keine feste Zahl. Häufig fallen [θυμάμαι]{lang="el"} und
-[θυμήθηκα]{lang="el"} zusammen, weil beide gleich anfangen; die Endung entscheidet. Wer die
-Hälfte seiner Striche in den Untertiteln wiederfindet, ist gut dabei.
-:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -839,27 +840,80 @@ Hälfte seiner Striche in den Untertiteln wiederfindet, ist gut dabei.
 | [εκείνος, -η, -ο]{lang="el"} | jener; [εκείνο το βράδυ]{lang="el"} an jenem Abend |
 :::
 
+### [-θηκα]{lang="el"}, [-θώ]{lang="el"}, [-όμουν]{lang="el"} hören {#sec-mai-hoeren}
+
+Beim schnellen Hören entscheiden Endung und Betonung, welche Form du vor dir hast:
+
+| Du hörst | Form | Beispiel |
+|---|---|---|
+| [me], [se], [te] am Ende | Präsens | [θυμάμαι]{lang="el"} [θiˈmame] |
+| [ˈomun], [ˈotan] | Imperfekt | [κοιμόταν]{lang="el"} [ciˈmotan] |
+| [θika], [tika] | Aorist | [φοβήθηκα]{lang="el"} [foˈviθika] |
+| betontes [ˈθo], [ˈθi], [ˈto] | [θα]{lang="el"}- oder [να]{lang="el"}-Form | [να σκεφτώ]{lang="el"} [na scefˈto] |
+
+Die Falle: [φοβήθηκα]{lang="el"} [foˈviθika] und [φοβηθώ]{lang="el"} [foviˈθo] haben dieselben
+Konsonanten, aber die Betonung wandert ans Ende. Und [ερχόμαστε]{lang="el"} [erˈxomaste] „wir
+kommen“ klingt fast wie [ερχόμασταν]{lang="el"} [erˈxomastan] „wir kamen“: Achte auf das [-an] am Ende, wie bei
+[είμαστε]{lang="el"} und [ήμασταν]{lang="el"} in Kapitel 4.
+
+::: {.callout-note .exercise}
+## Übung 10.7: Griechen erzählen
+
+Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) nach [θυμάσαι]{lang="el"} oder
+[παιδικά χρόνια]{lang="el"} ein Straßeninterview über Erinnerungen. Die Videos haben eingebrannte
+Untertitel: Deck das Bild ab oder schau weg und hör drei Minuten nur zu. Mach Striche für
+[θυμάμαι/θυμάσαι]{lang="el"} und für Formen auf [θika], merk dir zwei davon. Dann mit Bild prüfen.
+Findest du kein passendes Interview, nimm ein beliebiges Straßeninterview und zähl nur die Striche
+für [θika].
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+[θυμάμαι]{lang="el"} [θiˈmame] und [θυμήθηκα]{lang="el"} [θiˈmiθika] fangen gleich an. Entscheidend
+ist, was nach [θiˈm-] kommt: [ame] oder [iθika].
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zähl jedes [θika] mit, auch von Verben außerhalb dieses Kapitels, etwa [γεννήθηκα]{lang="el"}
+„ich wurde geboren“. Erinnerungen beginnen oft mit [Θυμάμαι ότι …]{lang="el"} oder
+[Όταν ήμουν μικρός …]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Keine feste Zahl. Häufig fallen [θυμάμαι]{lang="el"} und [θυμήθηκα]{lang="el"} zusammen, weil
+beide gleich anfangen; die Endung entscheidet. Wer die Hälfte seiner Striche in den Untertiteln
+wiederfindet, ist gut dabei.
+:::
+
 ## Das Wichtigste {#sec-mai-wichtigste}
 
-- **Deponentien** haben nur Formen auf [-μαι]{lang="el"}, sind aber aktiv gemeint. Im
-  Deutschen sind viele reflexiv: sich setzen, sich fürchten, sich erinnern.
+- **Deponentien** kommen im Präsens nur auf [-μαι]{lang="el"} vor, sind aber aktiv gemeint;
+  manche haben im Aorist aktive Endungen ([ήρθα, έγινα, κάθισα]{lang="el"}). Im Deutschen sind
+  viele reflexiv: sich setzen, sich fürchten, sich erinnern.
 - **Präsens:** [κάθομαι, κάθεσαι, κάθεται, καθόμαστε, κάθεστε, κάθονται]{lang="el"};
   [φοβάμαι, φοβάσαι, φοβάται, φοβόμαστε, φοβάστε, φοβούνται]{lang="el"}. [-μαι]{lang="el"} klingt
   [me].
 - **Aorist** meist auf [-θηκα/-τηκα]{lang="el"}, Betonung auf der drittletzten Silbe;
-  Ausreißer mit aktivem Aorist: [ήρθα, έγινα, κάθισα/έκατσα]{lang="el"}.
+  Ausreißer mit aktivem Aorist: [ήρθα, έγινα, κάθισα]{lang="el"} (umg. [έκατσα]{lang="el"}).
 - **Futur, [να]{lang="el"}-Form:** aus [-ηκα]{lang="el"} wird [-ω]{lang="el"}, betont auf der
-  Endung: [θα θυμηθώ, να σκεφτώ]{lang="el"}; dazu [έρθω, γίνω, κάτσω]{lang="el"}. Film:
+  Endung: [θα θυμηθώ, να σκεφτώ]{lang="el"}; dazu [έρθω, γίνω, καθίσω]{lang="el"} (umg.
+  [κάτσω]{lang="el"}). Film:
   [θα θυμάμαι, να κάθεσαι]{lang="el"}.
 - **Zustand und Moment:** [φοβάμαι]{lang="el"} ich habe Angst, [φοβήθηκα]{lang="el"} ich
-  erschrak; [κοιμάμαι – κοιμήθηκα]{lang="el"} schlafen, einschlafen.
+  erschrak; [κοιμάμαι – κοιμήθηκα]{lang="el"} schlafen, einschlafen. Schließt der Zusammenhang
+  den Zustand ab, fasst der Aorist ihn als Ganzes: [κοιμηθήκαμε στο αυτοκίνητο]{lang="el"}.
 - **Imperfekt** mit den Endungen von [ήμουν]{lang="el"}: [καθόμουν, κοιμόταν]{lang="el"}; sie-Form
   [κάθονταν, κοιμούνταν]{lang="el"}.
 
 | Präsens | Aorist | Futur, [να]{lang="el"}-Form |
 |---|---|---|
 | [έρχομαι]{lang="el"} | [ήρθα]{lang="el"} | [έρθω]{lang="el"} |
-| [κάθομαι]{lang="el"} | [κάθισα, έκατσα]{lang="el"} | [καθίσω, κάτσω]{lang="el"} |
+| [κάθομαι]{lang="el"} | [κάθισα]{lang="el"}, umg. [έκατσα]{lang="el"} | [καθίσω]{lang="el"}, umg. [κάτσω]{lang="el"} |
 | [γίνομαι]{lang="el"} | [έγινα]{lang="el"} | [γίνω]{lang="el"} |
 | [σκέφτομαι]{lang="el"} | [σκέφτηκα]{lang="el"} | [σκεφτώ]{lang="el"} |
 | [θυμάμαι]{lang="el"} | [θυμήθηκα]{lang="el"} | [θυμηθώ]{lang="el"} |
@@ -900,7 +954,6 @@ einmal ganz, ohne nachzuschlagen, dann mit Wortschatz, dann mit ▶.
 «Ο σεισμός δε σκοτώνει. Τα κτίρια σκοτώνουν.»
 :::
 
-<!-- CHECK: (1) „die erdbebenreichste Region/Land Europas“ (σεισμογενέστερη χώρα της Ευρώπης); (2) afrikanische Platte taucht südlich von Kreta unter die Ägäis, „einige Zentimeter pro Jahr“; (3) Homer nennt Poseidon ἐννοσίγαιος, neugriechisch „Εννοσίγαιος“ als Schreibung; (4) 1953 Ionisches Beben: schwere Zerstörung auf Kefalonia, Zakynthos, Ithaka, danach starke Auswanderung (Athen, Australien, Amerika); (5) Thessaloniki 1978 als Anlass verschärfter Bauvorschriften (Zusatzbestimmungen 1984/85?); (6) Athen 7.9.1999, kurz vor 15 Uhr Ortszeit, 143 Tote; İzmit 17.8.1999 (drei Wochen früher); gegenseitige Rettungsteams, Begriff „σεισμική διπλωματία“; (7) Santorini-Schwarmbeben Jan./Febr. 2025, Tausende verließen die Insel; (8) Seismologen als bekannte Fernsehgesichter. Außerdem: Datum/Uhrzeit auch in der Einleitung zur Hörspur. -->
 
 ::: {.callout-caution .uncertain}
 ## Vorsicht
@@ -908,7 +961,8 @@ einmal ganz, ohne nachzuschlagen, dann mit Wortschatz, dann mit ▶.
 Der Text vereinfacht. Die Plattengrenze in der Ägäis ist verwickelter als „Afrika taucht unter
 Europa“; beteiligt sind auch die Anatolische und die Ägäische Platte. Ob die Annäherung zwischen
 Griechenland und der Türkei nach 1999 wirklich an den Beben hing oder schon vorher begonnen hatte,
-ist unter Historikern umstritten. Und der letzte Satz ist ein Merksatz der Seismologen, keine
+ist unter Historikern umstritten. Strenger wurden die Bauvorschriften auch nicht auf einen Schlag:
+Die neue Erdbebennorm kam 1984, nach den Beben von 1978 und 1981. Und der letzte Satz ist ein Merksatz der Seismologen, keine
 Statistik: Tödlich sind vor allem schlecht gebaute Häuser.
 :::
 
@@ -928,6 +982,7 @@ Zwei Muster helfen beim Lesen:
 | [χιλιάδες]{lang="el"} | Tausende |
 | [οι περισσότεροι]{lang="el"} | die meisten (Kapitel 1) |
 | [ο σεισμογράφος]{lang="el"} | der Seismograf |
+| [τους καταλαβαίνουν]{lang="el"} | bemerken sie ([τους]{lang="el"} = sie, Kapitel 8) |
 | [σεισμογενής]{lang="el"} | erdbebenreich, seismisch aktiv |
 | [νότια από]{lang="el"} | südlich von |
 | [αφρικανικός, -ή, -ό]{lang="el"} | afrikanisch |
@@ -935,6 +990,7 @@ Zwei Muster helfen beim Lesen:
 | [το εκατοστό]{lang="el"} | der Zentimeter |
 | [η εξήγηση]{lang="el"} | die Erklärung |
 | [ο Ποσειδώνας]{lang="el"} | Poseidon |
+| [τον λέει]{lang="el"} | nennt ihn ([τον]{lang="el"} = ihn, Kapitel 8) |
 | [η γη]{lang="el"} | die Erde |
 | [η χρονολογία]{lang="el"} | die Jahreszahl, das Datum |
 | [καταστρέφω, κατέστρεψα]{lang="el"} | zerstören (Kapitel 2) |
@@ -986,7 +1042,7 @@ Wann kommt das nächste große Beben? Niemand weiß es. Die Seismologen sagen je
 :::
 
 ::: {.callout-note .exercise}
-## Übung 10.7: Das Land, das wackelt
+## Übung 10.8: Das Land, das wackelt
 
 **Teil A: richtig oder falsch?** Beantworte aus dem griechischen Text, ohne Übersetzung.
 
@@ -1010,8 +1066,9 @@ Im Chat reicht für Teil A „1 r, 2 f, …“.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Teil A: Die Aussagen folgen dem Text der Reihe nach. Teil B: Such nach den Stämmen
-[γιν-, γίν-, θυμ-, ήρθ-, κάθ-, φοβ-, κοιμ-]{lang="el"}.
+Teil A: Die Aussagen folgen dem Text der Reihe nach. Teil B: Geh die sieben Verben der Reihe nach
+durch und such ihren Anfang im Text; bei [έρχομαι]{lang="el"} auch [ήρθ-]{lang="el"}, bei
+[γίνομαι]{lang="el"} auch [έγιν-]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .hint}

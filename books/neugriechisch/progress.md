@@ -14,7 +14,7 @@
 | 06 Auf dem Markt: Nomen, Adjektive, Zahlen | veröffentlicht | Welle 2; Audio vollständig |
 | 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | veröffentlicht | Welle 3; Audio läuft |
 | 11 Zeit: Uhrzeit, Datum, Jahreszahlen | überarbeitet | Welle 3; Konsistenzprüfung erst wenn 8–10 fertig (vocab-Dubletten), erscheint nach 10 |
-| 10 Verben auf -μαι im Alltag | Überarbeitung | Welle 4; beide Reviews da |
+| 10 Verben auf -μαι im Alltag | überarbeitet | Welle 4; Konsistenz, wenn 09 im Entwurf steht |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | im Review | Welle 4; Übungen fertig |
 | 09 Sag’s direkt: der Imperativ | Entwurf | Welle 5 |
 
@@ -25,4 +25,5 @@
 16: 33 · 17: 34 (höchstens drei Kapitel gleichzeitig)
 
 ## Offene TODOs
+- Kapitel 13: Imperfekt der -μαι-Verben aktiv aufgreifen (in outline.md ergänzt, Kapitel 10 verspricht es).
 - Hörübungen ohne sichtbaren Text sind jetzt möglich (`::: {lang="el" .listen}`): in Kapitel 11 (11.5, 11.6) nachrüsten, künftig in Hör-Aufträgen nutzen.

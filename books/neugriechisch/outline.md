@@ -103,7 +103,7 @@ bis zwei Wochen pro Kapitel bei 5 Stunden pro Woche.
 
 ### 13 Es wurde gefunden: das Mediopassiv
 - **Datei:** 13-mediopassiv
-- **Lernziele:** kann Präsens, Aorist (-θηκα) und Futur des Mediopassivs bilden; kann passive, reflexive und reziproke Bedeutungen unterscheiden
+- **Lernziele:** kann Präsens, Imperfekt (-όμουν, aktiv), Aorist (-θηκα) und Futur des Mediopassivs bilden; kann passive, reflexive und reziproke Bedeutungen unterscheiden
 - **Voraussetzungen:** 10, 12
 - **Lesezeit:** 50 min
 - **Inhalt:** Sachthema: der Mechanismus von Antikythera; Hörspur: Dokumentationston
