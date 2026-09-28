@@ -5,6 +5,9 @@ project:
   render:
     - index.qmd
     - chapters/*.qmd
+  # Recordings from scripts/make_audio.py
+  resources:
+    - audio/*
 
 book:
   title: "{{title}}"

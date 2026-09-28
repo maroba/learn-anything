@@ -73,7 +73,13 @@ scripts/build.py             baut alles nach _site/
 python3 scripts/new_book.py <slug> --title "…" --topic "…" --lang de [--target-lang el] --archetype languages
 python3 scripts/build.py --book <slug>   # ein Buch schnell prüfen (auch unveröffentlicht)
 python3 scripts/build.py                 # alles, wie die CI
+python3 scripts/make_audio.py <slug> [--chapter NN] [--dry-run]   # Audio für Zielsprachen-Text
 ```
+
+Audio wird beim Schreiben erzeugt (nie im Browser, damit kein API-Schlüssel öffentlich wird) und als
+MP3 unter `books/<slug>/audio/` committet; `manifest.json` ordnet Texte den Dateien zu. Anbieter und
+Stimme stehen in `book.yml` unter `audio:`, die Schlüssel als Umgebungsvariablen
+`LUVVOICE_API_KEY` / `OPENAI_API_KEY`. Ohne Aufnahme liest der Browser selbst vor.
 
 - **Veröffentlichen heißt: nach `main` pushen.** Claude darf direkt nach `main` pushen
   (`git push origin HEAD:main`). Die Action `.github/workflows/publish.yml` baut und deployt dann

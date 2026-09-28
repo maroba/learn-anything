@@ -134,3 +134,30 @@ li.la-ref-target > .la-ref {
   font-weight: 600;
   vertical-align: middle;
 }
+
+// Audio button next to target-language text, added by learn-anything.js
+.la-audio {
+  display: inline-block;
+  margin-left: 0.15rem;
+  padding: 0 0.3rem;
+  border: 1px solid rgba($primary, 0.35);
+  border-radius: 0.3rem;
+  background: none;
+  color: $primary;
+  font-family: $font-family-sans-serif;
+  font-size: 0.7em;
+  line-height: 1.5;
+  vertical-align: 0.15em;
+  cursor: pointer;
+}
+
+.la-audio:hover,
+.la-audio:focus-visible {
+  background: rgba($primary, 0.1);
+}
+
+// Browser speech synthesis instead of a recording: slightly subdued.
+.la-audio-tts {
+  border-style: dashed;
+  opacity: 0.75;
+}

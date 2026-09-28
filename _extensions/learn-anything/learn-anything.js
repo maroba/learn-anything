@@ -6,16 +6,20 @@
 //    pastes into the Claude chat, so Claude can find the exact spot in the source.
 // 2. Changelog: marks the chapter's changelog box as "new" if the chapter was
 //    revised since the reader's last visit (stored in localStorage only).
+// 3. Audio: text in the target language (vocabulary tables, blocks with a lang
+//    attribute) gets a ▶ button. It plays the pre-generated recording listed in
+//    <book>/audio/manifest.json (see scripts/make_audio.py) and falls back to the
+//    browser's own speech synthesis.
 (function () {
   "use strict";
 
   const STRINGS = {
-    de: { copy: "Referenz auf diese Stelle kopieren", copied: "Referenz kopiert – jetzt in den Chat einfügen", failed: "Kopieren fehlgeschlagen", paragraph: "Absatz", isNew: "neu" },
-    en: { copy: "Copy a reference to this passage", copied: "Reference copied – paste it into the chat", failed: "Copy failed", paragraph: "paragraph", isNew: "new" },
-    el: { copy: "Αντιγραφή αναφοράς σε αυτό το σημείο", copied: "Η αναφορά αντιγράφηκε – επικολλήστε τη στη συνομιλία", failed: "Η αντιγραφή απέτυχε", paragraph: "παράγραφος", isNew: "νέο" },
-    es: { copy: "Copiar una referencia a este pasaje", copied: "Referencia copiada – pégala en el chat", failed: "No se pudo copiar", paragraph: "párrafo", isNew: "nuevo" },
-    fr: { copy: "Copier une référence à ce passage", copied: "Référence copiée – collez-la dans le chat", failed: "Échec de la copie", paragraph: "paragraphe", isNew: "nouveau" },
-    it: { copy: "Copia un riferimento a questo passo", copied: "Riferimento copiato – incollalo nella chat", failed: "Copia non riuscita", paragraph: "paragrafo", isNew: "nuovo" },
+    de: { copy: "Referenz auf diese Stelle kopieren", copied: "Referenz kopiert – jetzt in den Chat einfügen", failed: "Kopieren fehlgeschlagen", paragraph: "Absatz", isNew: "neu", listen: "Anhören", noVoice: "Keine passende Stimme auf diesem Gerät" },
+    en: { copy: "Copy a reference to this passage", copied: "Reference copied – paste it into the chat", failed: "Copy failed", paragraph: "paragraph", isNew: "new", listen: "Listen", noVoice: "No suitable voice on this device" },
+    el: { copy: "Αντιγραφή αναφοράς σε αυτό το σημείο", copied: "Η αναφορά αντιγράφηκε – επικολλήστε τη στη συνομιλία", failed: "Η αντιγραφή απέτυχε", paragraph: "παράγραφος", isNew: "νέο", listen: "Ακρόαση", noVoice: "Δεν υπάρχει κατάλληλη φωνή σε αυτή τη συσκευή" },
+    es: { copy: "Copiar una referencia a este pasaje", copied: "Referencia copiada – pégala en el chat", failed: "No se pudo copiar", paragraph: "párrafo", isNew: "nuevo", listen: "Escuchar", noVoice: "No hay una voz adecuada en este dispositivo" },
+    fr: { copy: "Copier une référence à ce passage", copied: "Référence copiée – collez-la dans le chat", failed: "Échec de la copie", paragraph: "paragraphe", isNew: "nouveau", listen: "Écouter", noVoice: "Aucune voix adaptée sur cet appareil" },
+    it: { copy: "Copia un riferimento a questo passo", copied: "Riferimento copiato – incollalo nella chat", failed: "Copia non riuscita", paragraph: "paragrafo", isNew: "nuovo", listen: "Ascolta", noVoice: "Nessuna voce adatta su questo dispositivo" },
   };
   const lang = (document.documentElement.lang || "en").toLowerCase();
   const t = STRINGS[lang] || STRINGS[lang.slice(0, 2)] || STRINGS.en;
@@ -166,5 +170,87 @@
       badge.textContent = t.isNew;
       title.appendChild(badge);
     }
+  }
+
+  // Audio for target-language text.
+  const normalize = (s) => (s || "").replace(/\s+/g, " ").trim(); // same as make_audio.py
+  const plainText = (el) => {
+    const copy = el.cloneNode(true);
+    copy.querySelectorAll(".la-ref, .la-audio").forEach((n) => n.remove());
+    return normalize(copy.textContent);
+  };
+  const pageLang = lang.slice(0, 2);
+  const langOf = (el) => {
+    const tagged = el.closest("[lang]") && el.closest("[lang]") !== document.documentElement
+      ? el.closest("[lang]") : el.querySelector("[lang]");
+    return tagged ? tagged.getAttribute("lang") : null;
+  };
+
+  const targets = [];
+  content.querySelectorAll(".vocab table tbody tr td:first-child").forEach((cell) => {
+    const l = langOf(cell);
+    if (l && l.slice(0, 2) !== pageLang) targets.push({ el: cell, lang: l });
+  });
+  content.querySelectorAll("div[lang]").forEach((div) => {
+    const l = div.getAttribute("lang");
+    if (!l || l.slice(0, 2) === pageLang || div.closest(".no-audio")) return;
+    div.querySelectorAll(":scope > p").forEach((p) => targets.push({ el: p, lang: l }));
+  });
+
+  let player = null;
+  function stopAll() {
+    if (player) { player.pause(); player = null; }
+    if ("speechSynthesis" in window) window.speechSynthesis.cancel();
+  }
+
+  function speak(textToSay, voiceLang) {
+    const synth = window.speechSynthesis;
+    const voices = synth.getVoices();
+    const voice = voices.find((v) => v.lang.toLowerCase().startsWith(voiceLang.slice(0, 2)));
+    if (voices.length && !voice) { toast(t.noVoice); return; }
+    const u = new SpeechSynthesisUtterance(textToSay.replace(/^[—–-]\s*/, ""));
+    u.lang = voice ? voice.lang : voiceLang;
+    if (voice) u.voice = voice;
+    u.rate = 0.9;
+    synth.speak(u);
+  }
+
+  function addButtons(manifest) {
+    const offsetMeta = document.querySelector('meta[name="quarto:offset"]');
+    const base = (offsetMeta ? offsetMeta.content : "./") + "audio/";
+    const canSpeak = "speechSynthesis" in window;
+    targets.forEach(({ el, lang: voiceLang }) => {
+      const key = plainText(el);
+      const file = manifest[key];
+      if (!key || (!file && !canSpeak)) return;
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "la-audio" + (file ? "" : " la-audio-tts");
+      button.textContent = "▶";
+      button.title = t.listen;
+      button.setAttribute("aria-label", t.listen);
+      button.addEventListener("click", (event) => {
+        event.preventDefault();
+        event.stopPropagation();
+        stopAll();
+        if (file) {
+          player = new Audio(base + file);
+          player.play().catch(() => canSpeak && speak(key, voiceLang));
+        } else {
+          speak(key, voiceLang);
+        }
+      });
+      el.appendChild(document.createTextNode(" "));
+      el.appendChild(button);
+    });
+  }
+
+  if (targets.length) {
+    const offsetMeta = document.querySelector('meta[name="quarto:offset"]');
+    const url = (offsetMeta ? offsetMeta.content : "./") + "audio/manifest.json";
+    fetch(url)
+      .then((r) => (r.ok ? r.json() : {}))
+      .catch(() => ({}))
+      .then(addButtons);
   }
 })();

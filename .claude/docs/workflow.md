@@ -75,10 +75,15 @@ Das gilt auch für Commit-Messages und `progress.md`.
 
 1. `python3 scripts/build.py --book <slug>`: muss fehlerfrei und ohne neue Warnungen laufen.
    Bei Fehlern beheben, nicht veröffentlichen.
-2. Öffentliches Repo: committen, `git push origin HEAD:main`. Auch auf den aktuellen
+2. **Audio** (nur Bücher mit `audio:` in `book.yml`): nach der letzten inhaltlichen Änderung
+   `python3 scripts/make_audio.py <slug> --chapter NN` ausführen. Vertont werden nur neue oder
+   geänderte Texte. Fehlen die API-Schlüssel (`LUVVOICE_API_KEY`, `OPENAI_API_KEY`), trotzdem
+   veröffentlichen (der Browser liest dann selbst vor) und in `progress.md` „Audio fehlt“ notieren.
+   Dialogzeilen mit Lücken oder Texte, die nicht vorgelesen werden sollen, bekommen `.no-audio`.
+3. Öffentliches Repo: committen, `git push origin HEAD:main`. Auch auf den aktuellen
    Arbeitsbranch pushen, falls die Session einen vorgibt.
-3. Privates Repo, falls geändert: in `../learn-anything-private` committen und `git push origin main`.
-4. Dem Lerner den Link nennen:
+4. Privates Repo, falls geändert: in `../learn-anything-private` committen und `git push origin main`.
+5. Dem Lerner den Link nennen:
    `https://maroba.github.io/learn-anything/<slug>/chapters/NN-name.html`
    (live ca. eine Minute nach dem Push). Bei `published: false` erscheint das Buch nicht in
    der Bibliothek; `scripts/build.py` baut dann nur lokal. Deshalb spätestens beim Probekapitel
