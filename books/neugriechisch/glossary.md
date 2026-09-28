@@ -44,7 +44,7 @@
 ## Transliteration
 
 - Keine Transliteration als Aussprachehilfe.
-- Lateinschrift nur für Eigen- und Ortsnamen, nach ELOT 743 (*Thessaloniki*, *Chania*); in etymologischen Vergleichen die eingebürgerte deutsche Form (*Philosophie*).
+- Lateinschrift nur für Eigen- und Ortsnamen, nach ELOT 743 (*Thessaloniki*, *Chania*). **Eingebürgerte deutsche Namen haben Vorrang** (*Athen*, *Neapel*, *Mykene*, *Ithaka*, *Troja*, *Patras*, *Polyphem*); in etymologischen Vergleichen die eingebürgerte deutsche Form (*Philosophie*).
 
 ## Grammatikbegriffe
 
@@ -61,6 +61,7 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 | Futur | μέλλοντας | „Futur mit θα“, in beiden Aspekten | 05 |
 | να-Form (Konjunktiv) | υποτακτική | „να-Form“ als Arbeitsbegriff | 05 |
 | Imperativ | προστακτική | | 09 |
+| Vokativ (Anredeform) | κλητική | beim ersten Auftreten „Vokativ (Anredeform)“ | 07 |
 | Augment | αύξηση | | 02 |
 | Mediopassiv | παθητική φωνή | nicht „Passiv“ | 13 |
 | Deponens | αποθετικό ρήμα | | 10 |
@@ -101,3 +102,8 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 | Verbindungswörter | Erzählsequenz [πρώτα – μετά/ύστερα – αργότερα – ξαφνικά – στο τέλος – τελικά]{lang="el"} | 02 |
 | Hör-Auftrag | Übung mit externer Quelle am Ende der Hörspur; Schreibweise mit Bindestrich | 02 |
 | Zitierte Fremdsprachen | Spanische, französische, lateinische Beispiele kursiv und mit `lang="es"`, `"fr"`, `"la"`; Grammatiklabels (*indefinido*, passé composé, imparfait) ohne Auszeichnung | 02 |
+| Aufzug | Merkbild für [μπαίνω, βγαίνω, ανεβαίνω, κατεβαίνω]{lang="el"} „rein, raus, rauf, runter“, alle aus altem [βαίνω]{lang="el"}, Aorist auf [-ηκα]{lang="el"} (Eselsbrücke *Anabasis/Katabasis*) | 03 |
+| Stamm ohne Anfang | [δεις, πεις, βγεις]{lang="el"}: perfektiver Stamm ohne [εί-]{lang="el"} bzw. Augment; in 02/03 nur so benannt, erklärt in Kapitel 5 (να-Form) | 03 |
+| verschluckter Anfangsvokal | schnelle Rede nach [το, τα, μου, σου]{lang="el"}: [το ’πα, μου ’πε, τα ’φαγα, σ’ το ’πα]{lang="el"} mit Apostroph `’`; IPA [to ˈpa], [sto ˈpa]. Fachbegriffe (Elision, Aphärese) erst Kapitel 21 | 03 |
+| Diskursmarker (Aoriste) | [Είδες;]{lang="el"} (Siehst du? Na bitte.), [Σ’ το ’πα.]{lang="el"} (Hab ich dir doch gesagt.), [Είπαμε!]{lang="el"} (Wie besprochen! / Ist ja gut.), [Το ’μαθες;]{lang="el"} (Hast du schon gehört?) | 03 |
+| Namen aus der Odyssee | deutsche Formen: Odysseus, Penelope, Telemachos, Eumaios, Argos, Kirke, Kalypso, Polyphem, der Kyklop (Pl. Kyklopen), die Phaiaken, die Sirenen; Orte Ithaka, Troja, Thrakien | 03 |

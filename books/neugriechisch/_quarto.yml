@@ -23,6 +23,7 @@ book:
     - index.qmd
     - chapters/01-auffrischung.qmd
     - chapters/02-aorist.qmd
+    - chapters/03-unregelmaessige-aoriste.qmd
 
 lang: de
 

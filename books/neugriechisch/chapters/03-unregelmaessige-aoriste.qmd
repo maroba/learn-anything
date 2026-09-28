@@ -15,7 +15,7 @@ Aus Kapitel 2:
   [γράψαμε]{lang="el"}.
 :::
 
-## Καλώς ήρθες: zurück aus Ithaka {#sec-unreg-einstieg}
+## [Καλώς ήρθες]{lang="el"}: zurück aus Ithaka {#sec-unreg-einstieg}
 
 Anfang September, ein Architekturbüro in Patras. Eine Kollegin ist als Erste aus dem Urlaub zurück,
 braun gebrannt, und hat noch keine Zeit gehabt, ihren Computer einzuschalten.
@@ -329,7 +329,7 @@ Fürs Hören brauchst du das Präsens der kurzen Form: [πάω, πας, πάει
 **[έρχομαι, ήρθα]{lang="el"}: kommen.** Ein Verb auf [-μαι]{lang="el"} (Kapitel 10), aber mit
 einem Aorist ohne Besonderheiten: [ήρθα, ήρθες, ήρθε, ήρθαμε, ήρθατε, ήρθαν]{lang="el"}. In
 Nachrichten und in der Kirche hörst du die ältere Form [ήλθα]{lang="el"}, und auf Ortsschildern
-steht oft ΚΑΛΩΣ ΗΛΘΑΤΕ oder das feierlichere ΚΑΛΩΣ ΟΡΙΣΑΤΕ. Beides ist richtig, [ήρθα]{lang="el"}
+steht oft [ΚΑΛΩΣ ΗΛΘΑΤΕ]{lang="el"} oder das feierlichere [ΚΑΛΩΣ ΟΡΙΣΑΤΕ]{lang="el"}. Beides ist richtig, [ήρθα]{lang="el"}
 ist die Alltagsform. Wer gerufen wird, antwortet [Έρχομαι!]{lang="el"} wie *I'm coming*, nicht
 „ich gehe“ wie [*¡Voy!*]{lang="es"}.
 
@@ -426,7 +426,7 @@ Bitte lass mich vorbei. Ins Auto steigt man nur mit [μπαίνω]{lang="el"}, w
 [Χθες βγήκαμε]{lang="el"}, „gestern waren wir aus“, vermutlich nicht vor eins zurück.
 
 ::: {.callout-tip}
-## Tipp: Heureka
+## Tipp
 
 [βρίσκω, βρήκα]{lang="el"} „finden“ hat mit [βαίνω]{lang="el"} nichts zu tun, schließt sich
 aber der Endung an. Archimedes soll nackt durch Syrakus gelaufen sein und [εύρηκα]{lang="el"}
@@ -465,7 +465,7 @@ wie man in welches Verkehrsmittel steigt.
 7. Wann seid ihr gekommen?
 8. Sie (Plural) sind am Syntagma ausgestiegen.
 
-**Bausteine:** [στην Κεφαλονιά]{lang="el"} · [στο λεωφορείο]{lang="el"} ·
+**Worthilfen:** [στην Κεφαλονιά]{lang="el"} · [στο λεωφορείο]{lang="el"} ·
 [στο λιμάνι]{lang="el"} · [στο πλοίο]{lang="el"} · [στον Πόρο]{lang="el"} ·
 [στο αυτοκίνητο]{lang="el"} · [στο Σύνταγμα]{lang="el"} · [θέση]{lang="el"} ·
 [τα κλειδιά]{lang="el"} · [πότε]{lang="el"} wann.
@@ -633,7 +633,7 @@ heute.
 8. Habt ihr nichts getrunken?
 9. Hast du die Fähre genommen?
 
-**Hilfen:** [του]{lang="el"} ihm · [τους]{lang="el"} sie (Plural) · beide stehen vor dem Verb ·
+**Worthilfen:** [του]{lang="el"} ihm · [τους]{lang="el"} sie (Plural) · beide stehen vor dem Verb ·
 [το τυρί]{lang="el"} der Käse · [τρία ποτήρια]{lang="el"} drei Gläser ·
 [το νερό]{lang="el"} das Wasser · [δύο συντρόφους]{lang="el"} zwei Gefährten (Akkusativ) ·
 [το πρωί]{lang="el"} am Morgen · [οι φίλοι]{lang="el"} die Freunde.
@@ -1119,7 +1119,7 @@ Drei Formen sehen ungewohnt aus: [τα ’φαγα]{lang="el"}, [μου ’πε]
 [σ’ το ’πα]{lang="el"}. So schreibt man, was man hört. Nach [το, τα, μου, σου]{lang="el"}
 verschluckt die schnelle Rede oft den Anfangsvokal des Verbs, und war er betont, rutscht die
 Betonung auf die nächste Silbe. Bei den Aoristen trifft es genau das Augment und das
-[ει-]{lang="el"} oder [ή-]{lang="el"} der kurzen Formen.
+[εί-]{lang="el"} oder [ή-]{lang="el"} der kurzen Formen.
 
 | geschrieben | gesprochen | Deutsch |
 |---|---|---|
@@ -1261,7 +1261,7 @@ im Plural [ˈpiɣame], [ˈfaɣame], [ˈkaname], [ˈminame], umgangssprachlich au
 ## Hinweis 2
 
 Achte auf Formen, die kürzer klingen, als sie sind: [to ˈða], [mu ˈpe], [to ˈkana]. Und nicht
-jedes [ˈela] ist ein Aorist: [έλα]{lang="el"} „komm“ ist die Befehlsform von
+jedes [ˈela] ist ein Aorist: [έλα]{lang="el"} „komm“ ist der Imperativ von
 [έρχομαι]{lang="el"} (Kapitel 9). Im Baklava-Dialog steht neben vielen unregelmäßigen genau ein
 regelmäßiger Aorist.
 :::
@@ -1277,7 +1277,7 @@ regelmäßiger Aorist.
 [είδες]{lang="el"} · [’πα]{lang="el"}
 
 Dreizehn sind unregelmäßig, einer regelmäßig: [ρώτησα]{lang="el"} von [ρωτάω]{lang="el"}. Nicht
-mitgezählt: [ξέρω, ξέρει, έχει]{lang="el"} (Präsens) und [Έλα, Ρώτα]{lang="el"} (Befehlsformen).
+mitgezählt: [ξέρω, ξέρει, έχει]{lang="el"} (Präsens) und [Έλα, Ρώτα]{lang="el"} (Imperative).
 
 Wer beim Hören auf elf oder zwölf kam, hat fast immer die verschluckten Formen
 [τα ’φαγα, μου ’πε, σ’ το ’πα]{lang="el"} überhört. Genau dafür ist der Durchgang da.
@@ -1437,7 +1437,7 @@ Drei Muster helfen beim Lesen:
 | [γέρικος, -η, -ο]{lang="el"} | alt (bei Tieren, Bäumen) |
 | [κουνάω, κούνησα]{lang="el"} | bewegen, wedeln |
 | [η ουρά]{lang="el"} | der Schwanz |
-| [δεν μπόρεσε να σηκωθεί]{lang="el"} | er konnte nicht aufstehen (Kapitel 5, 10) |
+| [δεν μπόρεσε να σηκωθεί]{lang="el"} | er konnte nicht aufstehen (Kapitel 5, 13) |
 | [η στιγμή]{lang="el"} | der Augenblick |
 | [περιμένω, περίμενα]{lang="el"} | warten (Kapitel 1) |
 | [ο μνηστήρας]{lang="el"} | der Freier |
@@ -1484,9 +1484,9 @@ Augenblick gewartet.
 
 Der Bettler ging in den Palast. Die Freier lachten ihn aus, aber er sagte nichts.
 
-Am nächsten Tag holte Penelope den alten Bogen des Odysseus. Die Freier nahmen den Bogen einer nach dem anderen, aber keiner schaffte es auch nur,
-ihn zu spannen. Zum Schluss nahm ihn der Bettler. Er spannte ihn mühelos und schoss einen Pfeil
-durch zwölf Äxte. Dann tötete er mit Telemachos die Freier.
+Am nächsten Tag holte Penelope den alten Bogen des Odysseus. Die Freier nahmen den Bogen einer
+nach dem anderen, aber keiner schaffte es auch nur, ihn zu spannen. Zum Schluss nahm ihn der
+Bettler. Er spannte ihn mühelos und schoss einen Pfeil durch zwölf Äxte. Dann tötete er mit Telemachos die Freier.
 
 Penelope aber glaubte ihm nicht sofort. Sie sagte zur Amme: „Trag sein Bett aus der Kammer.“
 Odysseus wurde wütend: „Unser Bett geht nicht aus der Kammer. Ich habe es selbst gebaut, auf einem
@@ -1522,7 +1522,7 @@ du über die Odyssee schon weißt.
 das Präsens. Welche sind regelmäßig?
 
 **Teil C: nacherzählen.** Erzähl die Geschichte laut in fünf Sätzen, als Odysseus, in der
-ich-Form. Hilfe: [με]{lang="el"} mich (vor dem Verb) · [ο γιος μου]{lang="el"} mein Sohn.
+ich-Form. Worthilfen: [με]{lang="el"} mich (vor dem Verb) · [ο γιος μου]{lang="el"} mein Sohn.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -1605,9 +1605,9 @@ stehen, und [περίμενε]{lang="el"}, weil man es für ein Imperfekt halten
 
 Wer den Hund nicht weglassen mag: [Ο Άργος με είδε και πέθανε.]{lang="el"} Deine Fassung darf
 ganz anders aussehen. Prüf nur die Verben: Stimmen Stamm, Person und Betonung? Die häufigsten
-Stolpersteine sind hier \*[ανεβήκα]{lang="el"} (die Betonung wandert nur in der wir- und ihr-Form) und beim
-Perspektivwechsel ein stehen gebliebenes [τον γιο του]{lang="el"}: Aus „seinem“ Sohn wird
-[τον γιο μου]{lang="el"}.
+Stolpersteine sind hier \*[ανεβήκα]{lang="el"} (die Betonung wandert nur in der wir- und
+ihr-Form) und beim Perspektivwechsel ein stehen gebliebenes [τον γιο του]{lang="el"}: Aus
+„seinem“ Sohn wird [τον γιο μου]{lang="el"}.
 :::
 
 ::: {.vocab}
