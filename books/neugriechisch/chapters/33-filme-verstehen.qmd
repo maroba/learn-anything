@@ -189,7 +189,7 @@ eine Szene.
 
 **1B, 2A, 3C, 4D, 5E, 6B oder A.**
 
-1 ist die Alibi-Frage: Siezen, Vergangenheit, Zeitangabe. In 2 zeigt der Patient, was wehtut. 3: Duzen und Futur. 4: Verbot mit [μη]{lang="el"}, dann Imperativ;
+1 ist die Alibi-Frage: Siezen, Vergangenheit, Zeitangabe. In 2 fragt jemand in der Praxis nach dem Schmerz. 3: Duzen und Futur. 4: Verbot mit [μη]{lang="el"}, dann Imperativ;
 der andere will auflegen. 5: ein fehlendes Papier, ein neuer Termin. 6 passt in Verhör und Praxis,
 zur Not auch aufs Amt; hier entscheidet erst das Bild.
 
@@ -209,8 +209,8 @@ zur Not auch aufs Amt; hier entscheidet erst das Bild.
 
 ## Der Szenenleitfaden {#sec-filme-leitfaden}
 
-Eine Szene „verstehen“ heißt nicht, jedes Wort zu haben. Es heißt, fünf Fragen beantworten zu
-können:
+Eine Szene „verstehen“ heißt nicht, jedes Wort zu haben. Es heißt, die ersten drei dieser fünf Fragen beantworten
+zu können; die letzten beiden sind die Kür:
 
 1. **Wer spricht mit wem?** Welche Beziehung, welches Register?
 2. **Was will wer?** Jede Figur in einer Szene will etwas, sonst wäre sie nicht drin.
@@ -675,8 +675,8 @@ eingehört hast.
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [το επεισόδιο]{lang="el"} | [to epiˈsoðio] | die Folge, die Episode |
-| [βάζω / βγάζω τους υπότιτλους]{lang="el"} | [ˈvazo], [ˈvɣazo tus iˈpotitlus] | die Untertitel ein-/ausschalten |
-| [γυρίζω πίσω]{lang="el"} | [ʝiˈrizo ˈpiso] | zurückgehen; mit Objekt zurückspulen: [Γύρνα το πίσω.]{lang="el"} |
+| [βάζω, έβαλα / βγάζω, έβγαλα τους υπότιτλους]{lang="el"} | [ˈvazo], [ˈevala] / [ˈvɣazo], [ˈevɣala] [tus iˈpotitlus] | die Untertitel ein-/ausschalten |
+| [γυρίζω, γύρισα πίσω]{lang="el"} | [ʝiˈrizo], [ˈʝirisa] [ˈpiso] | zurückgehen; mit Objekt zurückspulen: [Γύρνα το πίσω.]{lang="el"} |
 :::
 
 ## Hörspur: Szenenarbeit {#sec-filme-hoerspur}
@@ -826,7 +826,7 @@ würden wir sie 2040 verkaufen.
 
 | Griechisch | Deutsch |
 |---|---|
-| [η ντουλάπα]{lang="el"} | der Schrank (Kapitel 4) |
+| [η ντουλάπα]{lang="el"} | der Kleiderschrank (Kapitel 4) |
 | [καμιά πενηνταριά]{lang="el"} | so um die fünfzig |
 | [γράφω (από την τηλεόραση)]{lang="el"} | (vom Fernsehen) aufnehmen |
 | [Μάλιστα.]{lang="el"} | Jawohl. (Kapitel 7) |
