@@ -51,7 +51,23 @@ die zu lernende Sprache (`target-language`).
   Spaltentitel in der Buchsprache, erste Spalte immer die Zielsprache. Diese Tabellen werden später
   automatisch zu Karteikarten (Anki) verarbeitet. Nomen mit Artikel, Verben in der Grundform
   plus auffälligen Formen, Adjektive in der Grundform.
-- Pro Kapitel etwa 30 bis 60 neue Wörter, je nach Niveau und Zeitbudget.
+- **Zwei Stufen:** `.vocab` enthält nur den **Kernwortschatz**, den der Lerner aktiv lernen soll
+  (wird zu Anki-Karten). Wörter, die nur zum Verstehen eines Textes oder Dialogs nötig sind, stehen
+  eingeklappt als **Wortschatz zum Text** und werden nicht zu Karten:
+
+  ```markdown
+  ::: {.callout-note collapse="true" .vocab-text}
+  ## Wortschatz zum Text
+  | Griechisch | Deutsch |
+  |---|---|
+  | [το οικόπεδο]{lang="el"} | das Baugrundstück |
+  :::
+  ```
+
+- **Kernwortschatz pro Kapitel höchstens etwa 50 bis 60 Einträge**, je nach Niveau und
+  Zeitbudget. Wortschatz, den der Lerner laut Profil oder aus früheren Kapiteln schon kennt, nicht
+  erneut in `.vocab` aufnehmen. Hochfrequente Wörter aus Texten gehören in den Kern, seltene in den
+  Textwortschatz.
 - Wörter in Wortfeldern und Situationen einführen, nicht alphabetisch. Eselsbrücken über Lehnwörter,
   Fremdwörter und Etymologie nutzen (für Griechisch besonders ergiebig), vor falschen Freunden
   warnen (`.callout-warning`).

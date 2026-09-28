@@ -51,6 +51,8 @@ Titel immer in der Buchsprache. Diese Typen haben eine feste Bedeutung:
 | Übung | `::: {.callout-note .exercise}` + `## Übung N.M` |
 | Hinweis zu einer Übung (eingeklappt) | `::: {.callout-tip collapse="true" .hint}` + `## Hinweis 1` |
 | Lösung (eingeklappt) | `::: {.callout-tip collapse="true" .solution}` + `## Lösung` |
+| Kernwortschatz (wird zu Anki-Karten) | `::: {.vocab}` mit Tabelle, kein Callout (siehe Archetyp-Skill) |
+| Wortschatz zum Text (eingeklappt, keine Karten) | `::: {.callout-note collapse="true" .vocab-text}` + `## Wortschatz zum Text` |
 | Übersetzung eines Textes (eingeklappt) | `::: {.callout-note collapse="true" .translation}` + `## Übersetzung` |
 | Leserfrage | `::: {.callout-note .reader-question}` + `## Leserfrage: …` |
 | Wiederholung früheren Stoffs | `::: {.callout-note .review}` + `## Zur Wiederholung` |

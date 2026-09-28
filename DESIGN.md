@@ -192,3 +192,4 @@ Besonderheiten, die das System dabei abdecken muss:
 | 2026-09-28 | Pipeline: Author setzt `EXERCISE`-Platzhalter, Exercise Designer füllt sie, dann Reviews parallel. |
 | 2026-09-28 | Feste Formate, die spätere Werkzeuge auslesen: `outline.md` (Datei, Lernziele, Voraussetzungen, Lesezeit) für den Abhängigkeitsgraphen, `.vocab`-Tabellen für Anki, `lang`-Auszeichnung für Audio. |
 | 2026-09-28 | Fragen beim Lesen: Antwort im Chat zuerst; Einarbeiten (Leserfrage-Box oder Überarbeitung) nur nach kurzer Rückfrage, außer der Lerner hat eine feste Vorliebe festgelegt. |
+| 2026-09-28 | Wortschatz in zwei Stufen: `.vocab` = Kernwortschatz (höchstens ca. 50–60 pro Kapitel, wird zu Anki-Karten), `.vocab-text` = eingeklappter Wortschatz zum Text (keine Karten). Anlass: Didaktik-Review des ersten Probekapitels. |
