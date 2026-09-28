@@ -322,14 +322,11 @@ Typische Fehler: „Oiböa“ und „Tauros“ wie im Deutschen. Der *Minotaurus
 |---|---|
 | [τα ορεκτικά]{lang="el"} | die Vorspeisen |
 | [το τζατζίκι]{lang="el"} | Joghurt mit Gurke und Knoblauch |
-| [η τυροκαυτερή]{lang="el"} | scharfe Käsecreme |
 | [τα ντολμαδάκια]{lang="el"} | gefüllte Weinblätter |
 | [η χωριάτικη (σαλάτα)]{lang="el"} | „Bauernsalat“, der griechische Salat |
 | [το γιουβέτσι]{lang="el"} | Fleisch mit Kritharaki aus dem Ofen |
 | [το μπιφτέκι]{lang="el"} | Hacksteak |
-| [τα παϊδάκια]{lang="el"} | Lammkoteletts |
 | [η μπριζόλα]{lang="el"} | das Kotelett |
-| [ο γαύρος]{lang="el"} | die Sardelle |
 | [τηγανητός, -ή, -ό]{lang="el"} | frittiert, gebraten |
 | [τα αυγά μάτια]{lang="el"} | Spiegeleier (wörtlich „Augen-Eier“) |
 | [το τσίπουρο]{lang="el"} | Tresterschnaps |
@@ -337,9 +334,6 @@ Typische Fehler: „Oiböa“ und „Tauros“ wie im Deutschen. Der *Minotaurus
 | [η γκαζόζα]{lang="el"} | süße Limonade mit Kohlensäure |
 | [το τσάι του βουνού]{lang="el"} | Bergtee |
 | [το γαλακτομπούρεκο]{lang="el"} | Grießcreme in Filoteig mit Sirup |
-| [η Δευτέρα, η Πέμπτη, η Παρασκευή]{lang="el"} | Montag, Donnerstag, Freitag (Kapitel 11) |
-| [ο έμπορος]{lang="el"} | der Kaufmann |
-| [το καΐκι]{lang="el"} | das Kaiki (Holzboot) |
 :::
 
 ## Ä, Ö und Eu: griechische Buchstaben im Deutschen {#sec-auffrischung-lehnwoerter}
@@ -685,7 +679,6 @@ Verben stehen in den Vokabeltabellen mit zwei Formen; die zweite ist der Aorist 
 | [η φασαρία]{lang="el"} | der Lärm, der Trubel |
 | [αν]{lang="el"} | wenn, falls |
 | [νωρίτερα]{lang="el"} | früher |
-| [οδηγώ]{lang="el"} | (Auto) fahren |
 | [παρκάρω]{lang="el"} | parken |
 | [πίσω από]{lang="el"} | hinter |
 | [το ισόγειο]{lang="el"} | das Erdgeschoss |
@@ -749,8 +742,8 @@ Der unbestimmte Artikel ist das Zahlwort „eins“: [ένας]{lang="el"}, Akku
 
 **Männliche Nomen verlieren im Akkusativ Singular ihr [-ς]{lang="el"}**: [ο δρόμος – τον
 δρόμο]{lang="el"}, [ο καφές – τον καφέ]{lang="el"}. Weibliche und sächliche ändern nur den
-Artikel: [την πίτα, το κουλούρι]{lang="el"}. Im Plural: [οι/τους δρόμοι/δρόμους]{lang="el"},
-[οι/τις πίτες]{lang="el"}, [τα κουλούρια]{lang="el"}; mehr Pluralendungen bringt Kapitel 6.
+Artikel: [την πίτα, το κουλούρι]{lang="el"}. Im Plural: [οι δρόμοι – τους δρόμους]{lang="el"},
+[οι πίτες – τις πίτες]{lang="el"}, [τα κουλούρια]{lang="el"}; mehr bringt Kapitel 6.
 
 Nach den gewöhnlichen Präpositionen steht ebenfalls der Akkusativ, auch wo das Deutsche den Dativ
 nimmt: [για τον δρόμο]{lang="el"}, [πίσω από την πλατεία]{lang="el"} (hinter dem Platz).
@@ -991,8 +984,8 @@ Häufigster Fehler: ein [εγώ]{lang="el"} in a) oder f), wo niemandem widerspr
 
 ## Hörspur: im Kafeneío {#sec-auffrischung-hoerspur}
 
-Alle griechischen Texte und Vokabeln kannst du mit ▶ anhören, gesprochen von synthetischen
-Stimmen: sauber, aber gleichmäßiger als echte Menschen. Echte Gespräche bringt der Hör-Auftrag.
+Alle griechischen Texte und Vokabeln kannst du mit ▶ anhören: synthetische Stimmen, sauber, aber
+gleichmäßiger als echte Menschen. Echte Gespräche bringt der Hör-Auftrag.
 
 Das [καφενείο]{lang="el"} ist das traditionelle griechische Café: Holzstühle, Mokka, Tavli, auf
 dem Dorf fast nur Männer über sechzig. Ein Sonntag, zuerst ein Telefonat kurz nach sechs:
@@ -1171,13 +1164,11 @@ komm“; gedehnt ist es Staunen. In 4 legt [τώρα]{lang="el"} es fest.
 
 | Griechisch | Deutsch |
 |---|---|
-| [το καφενείο]{lang="el"} | das traditionelle Café |
 | [επιτέλους]{lang="el"} | endlich |
 | [Συγγνώμη.]{lang="el"} | Entschuldigung. (Hier ist [γγ]{lang="el"} nur [ɣ].) |
 | [ο ύπνος]{lang="el"} | der Schlaf |
 | [η μελέτη]{lang="el"} | die Studie |
 | [σε]{lang="el"} (vor dem Verb) | dich |
-| [μισή ώρα]{lang="el"} | eine halbe Stunde |
 | [ξυπνάω]{lang="el"} | aufwachen (Kapitel 2) |
 | [σε δέκα λεπτά]{lang="el"} | in zehn Minuten ([το λεπτό]{lang="el"} die Minute) |
 | [ιερός, -ή, -ό]{lang="el"} | heilig |
@@ -1224,7 +1215,7 @@ Ganz im Präsens. Lies einmal ohne Hilfe, dann mit Wortschatz, dann laut, mit �
 
 Το μεσημέρι στην Ελλάδα δεν είναι στις δώδεκα. Αρχίζει κάπου στις δύο και κρατάει μέχρι τις πέντε. Τότε πολλές οικογένειες τρώνε το κυρίως φαγητό της μέρας. Μετά, όποιος μπορεί, κοιμάται. Ο μεσημεριανός ύπνος είναι παράδοση, αλλά στην Αθήνα γίνεται σπάνιος, γιατί οι περισσότεροι δουλεύουν μέχρι τις πέντε ή τις έξι. Στα χωριά και στα νησιά όμως ζει ακόμα. Εκεί, από τις τρεις μέχρι τις πέντε και μισή, δεν κάνεις φασαρία και δεν τηλεφωνείς σε κανέναν, αν δεν είναι επείγον.
 
-Το απόγευμα η πόλη ξυπνάει ξανά και ο κόσμος βγαίνει για βόλτα. Κατά τις εννιά πολλοί σκέφτονται για πρώτη φορά τι θα φάνε. Το βραδινό είναι στις δέκα, καμιά φορά και στις έντεκα. Τα παιδιά παίζουν στην πλατεία μέχρι τα μεσάνυχτα, και κανείς δε λέει «Είναι αργά, πάμε για ύπνο».
+Το απόγευμα η πόλη ξυπνάει ξανά και ο κόσμος βγαίνει για βόλτα. Κατά τις εννιά πολλοί σκέφτονται για πρώτη φορά τι θα φάνε. Το βραδινό είναι στις δέκα, καμιά φορά και στις έντεκα.
 
 Και ο φραπές; Κάθε Έλληνας ξέρει τον φραπέ, αλλά λίγοι ξέρουν την ιστορία του. Είμαστε στο 1957, στη Διεθνή Έκθεση Θεσσαλονίκης. Ο Δημήτρης Βακόνδιος, υπάλληλος της Nestlé, θέλει καφέ, αλλά δεν έχει ζεστό νερό. Βάζει λοιπόν στιγμιαίο καφέ, κρύο νερό και ζάχαρη σε ένα σέικερ και τα χτυπάει. Έτσι γεννιέται ο φραπές.
 
@@ -1263,7 +1254,6 @@ den Erinnerungen der Beteiligten.
 | [σκέφτομαι]{lang="el"} | denken, überlegen (Kapitel 10) |
 | [τι θα φάνε]{lang="el"} | was sie essen werden (Kapitel 5) |
 | [καμιά φορά]{lang="el"} | manchmal |
-| [τα μεσάνυχτα]{lang="el"} | Mitternacht |
 | [η Διεθνής Έκθεση Θεσσαλονίκης]{lang="el"} | die Internationale Messe Thessaloniki |
 | [ο υπάλληλος]{lang="el"} | der Angestellte |
 | [βάζω]{lang="el"} | tun, stellen, legen |
@@ -1293,8 +1283,7 @@ sechs keinen Lärm
 und ruft niemanden an, wenn es nicht dringend ist.
 
 Am späten Nachmittag wacht die Stadt wieder auf, und die Leute gehen zum Bummeln hinaus. Gegen neun überlegen viele zum ersten Mal, was sie essen werden. Abendessen ist um zehn,
-manchmal auch um elf. Die Kinder spielen bis Mitternacht auf dem Platz, und niemand sagt: „Es ist
-spät, ab ins Bett.“
+manchmal auch um elf.
 
 Und der Frappé? Jeder Grieche kennt den Frappé, aber wenige kennen seine Geschichte. Wir schreiben
 1957, auf der Internationalen Messe von Thessaloniki. Dimitris Vakondios, ein Angestellter von
@@ -1359,7 +1348,6 @@ beiden Vokale.
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [αργά]{lang="el"} | [arˈɣa] | spät; langsam |
-| [συχνά]{lang="el"} | [siˈxna] | oft |
 | [το βραδινό]{lang="el"} | [to vraðiˈno] | das Abendessen |
 | [η βόλτα]{lang="el"} | [i ˈvolta] | der Spaziergang, die Runde |
 | [ο μεσημεριανός ύπνος]{lang="el"} | [o mesimerʝaˈnos ˈipnos] | der Mittagsschlaf |
