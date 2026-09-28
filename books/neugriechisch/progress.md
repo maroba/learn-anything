@@ -12,7 +12,7 @@
 | 04 Erzählen: Imperfekt und Aspekt | veröffentlicht | Welle 2; Audio vollständig |
 | 05 Der zweite Stamm in der Zukunft: θα und να | veröffentlicht | Welle 3; Audio vollständig |
 | 06 Auf dem Markt: Nomen, Adjektive, Zahlen | veröffentlicht | Welle 2; Audio vollständig |
-| 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | veröffentlicht | Welle 3; Audio läuft |
+| 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | veröffentlicht | Welle 3; Audio vollständig |
 | 11 Zeit: Uhrzeit, Datum, Jahreszahlen | überarbeitet | Welle 3; Konsistenzprüfung erst wenn 8–10 fertig (vocab-Dubletten), erscheint nach 10 |
 | 10 Verben auf -μαι im Alltag | überarbeitet | Welle 4; Konsistenz, wenn 09 im Entwurf steht |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | im Review | Welle 4; Übungen fertig |
