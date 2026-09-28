@@ -103,14 +103,12 @@ Ereignis. Die andere ist neu:
 | [χορεύω]{lang="el"} | [χόρευα, χόρευε, χορεύαμε]{lang="el"} | ich tanzte, es tanzte, wir tanzten |
 | [κολυμπάω]{lang="el"} | [κολυμπούσαμε]{lang="el"} | wir schwammen |
 
-Die Endungen sind die des Aorists: [-α, -ε, -αμε, -αν]{lang="el"}. Der Stamm aber ist der des
-Präsens: [διαβάζ-αμε]{lang="el"}, nicht [διαβάσ-αμε]{lang="el"}; [παίζ-αμε]{lang="el"}, nicht
-[παίξ-αμε]{lang="el"}. Und [κολυμπάω]{lang="el"} baut etwas Eigenes mit [-ούσ-]{lang="el"}.
+Die Endungen sind die des Aorists, der Stamm aber ist der des Präsens: [διαβάζ-αμε]{lang="el"},
+nicht [διαβάσ-αμε]{lang="el"}. Und [κολυμπάω]{lang="el"} baut etwas Eigenes mit [-ούσ-]{lang="el"}.
 
 Das ist das **Imperfekt** ([ο παρατατικός]{lang="el"}): die Vergangenheit aus dem
-imperfektiven Stamm. Es erzählt nicht, was geschah, sondern wie es war. Der Vater sagt nicht
-„wir schwammen einmal“, sondern „so waren unsere Tage“. Dazwischen stehen
-[ήμουν, ήταν, είχε]{lang="el"}, die Verben mit nur einer Vergangenheit.
+imperfektiven Stamm. Der Vater sagt nicht „wir schwammen einmal“, sondern „so waren unsere
+Tage“.
 
 Zur Aussprache: In [κολυμπάω]{lang="el"} [koliˈbao] ist [μπ]{lang="el"} ein [b], kein „mp“;
 [κολυμπούσαμε]{lang="el"} [koliˈbusame]. [χορεύω]{lang="el"} [xoˈrevo] hat [ευ]{lang="el"} vor
@@ -137,7 +135,6 @@ In [το πανηγύρι]{lang="el"} [to paniˈʝiri] klingt [γ]{lang="el"} vo
 | Griechisch | Deutsch |
 |---|---|
 | [ο μπαμπάς]{lang="el"} | der Papa (Kapitel 3) |
-| [η κασέτα]{lang="el"} | die Kassette |
 | [η ντουλάπα]{lang="el"} | der Kleiderschrank |
 | [είκοσι χρονών]{lang="el"} | zwanzig Jahre alt |
 | [Τι καλοκαίρι…]{lang="el"} | Was für ein Sommer … |
@@ -150,14 +147,12 @@ In [το πανηγύρι]{lang="el"} [to paniˈʝiri] klingt [γ]{lang="el"} vo
 | [οι παππούδες]{lang="el"} | die Großväter (Plural von [ο παππούς]{lang="el"}) |
 | [εκεί που]{lang="el"} | gerade als, während (umg.) |
 | [το φως, τα φώτα]{lang="el"} | das Licht |
-| [ο μουσικός]{lang="el"} | der Musiker |
 | [το σκοτάδι]{lang="el"} | die Dunkelheit |
 | [σταματάω, σταμάτησα]{lang="el"} | aufhören; anhalten (Kapitel 2) |
 | [το κασετόφωνο]{lang="el"} | der Kassettenrekorder |
 | [γράφω]{lang="el"} | hier: aufnehmen (auf Kassette) |
 | [ο μήνας, δύο μήνες]{lang="el"} | der Monat, zwei Monate |
 | [χαλάω, χάλασα]{lang="el"} | kaputtgehen; kaputtmachen |
-| [το γουόκμαν]{lang="el"} | der Walkman |
 :::
 
 ## Foto und Film in der Vergangenheit {#sec-imperfekt-aspekt}
@@ -213,10 +208,9 @@ down to the sea* sind alle Imperfekt. Nur das einfache *we swam* lässt dich wie
 ::: {.callout-warning}
 ## Achtung
 
-Die Dauer entscheidet nicht, das gilt weiter aus Kapitel 2. [Έμεινα στην Ικαρία δύο
-μήνες.]{lang="el"} „Ich blieb zwei Monate auf Ikaria“ ist ein Foto, die zwei Monate als Ganzes.
-[Έμενα σε ένα δωμάτιο πάνω από ένα καφενείο.]{lang="el"} „Ich wohnte in einem Zimmer über einem
-Kafenion“ beschreibt, wie es war, während die Geschichte läuft: Film.
+Die Dauer entscheidet nicht (Kapitel 2). [Έμεινα στην Ικαρία δύο μήνες]{lang="el"} „Ich blieb
+zwei Monate“ ist ein Foto; [Έμενα πάνω από ένα καφενείο]{lang="el"} „Ich wohnte über einem
+Kafenion“ beschreibt den Rahmen: Film.
 :::
 
 ::: {.callout-note .exercise}
@@ -287,7 +281,6 @@ Deutschen genauso klingt wie „wir blieben“.
 |---|---|
 | [ο παρατατικός]{lang="el"} | das Imperfekt |
 | [παρατείνω]{lang="el"} | verlängern, in die Länge ziehen |
-| [ζεστός, -ή, -ό]{lang="el"} | warm, heiß (Kapitel 1) |
 | [ο ήλιος]{lang="el"} | die Sonne (Kapitel 3) |
 | [καίω, έκαψα]{lang="el"} | brennen; verbrennen; Imperfekt [έκαιγα]{lang="el"} |
 :::
@@ -344,9 +337,8 @@ Die Präsens-Zutaten, die im Aorist verschwinden, gehören zum imperfektiven Sta
 
 Zwei Verben machen es dir dafür zu leicht. Bei [κάνω]{lang="el"} sind Imperfekt und Aorist
 gleich: [έκανα, κάναμε]{lang="el"}. Bei [περιμένω]{lang="el"} ebenso: [περίμενα,
-περιμέναμε]{lang="el"}, wie Kapitel 3 schon angedeutet hat. [Τι έκανες;]{lang="el"} heißt also
-„Was hast du gemacht?“ oder „Was hast du damals so gemacht?“; das entscheidet der
-Zusammenhang, nicht die Form.
+περιμέναμε]{lang="el"}. [Τι έκανες;]{lang="el"} heißt also „Was hast du gemacht?“ oder „Was
+hast du damals so gemacht?“; das entscheidet der Zusammenhang.
 
 ### Die kurzen Verben: ein [γ]{lang="el"} taucht auf {#sec-imperfekt-kurze}
 
@@ -362,7 +354,7 @@ Die Verben mit Vokalstamm aus Kapitel 1 holen im Imperfekt ein [γ]{lang="el"} h
 
 Bei [λέω]{lang="el"} und [τρώω]{lang="el"} ist das [γ]{lang="el"} alt: Die Verben hießen früher
 [λέγω]{lang="el"} und [τρώγω]{lang="el"}, und in [ο λόγος]{lang="el"}, dem Wort, steckt es bis
-heute (vgl. *Dialog*). Die anderen haben sich dem Muster angeschlossen. [πάω]{lang="el"} hat
+heute. Die anderen haben sich angeschlossen. [πάω]{lang="el"} hat
 kein eigenes Imperfekt und leiht sich das von [πηγαίνω]{lang="el"}.
 
 ### Das Augment [η-]{lang="el"}: [ήθελα, ήξερα]{lang="el"} {#sec-imperfekt-eta}
@@ -537,8 +529,6 @@ Form mit [-αγ-]{lang="el"}: [ξύπναγα, περνάγαμε]{lang="el"}, e
   Augment kommt nie dazu.
 - [μιλούσαμε]{lang="el"}, nicht \*[μιλάσαμε]{lang="el"}: Das [α]{lang="el"} des Präsens
   verschwindet, [-ούσ-]{lang="el"} tritt an seine Stelle.
-- [περνάω]{lang="el"} hat im Aorist [πέρασα]{lang="el"}, im Imperfekt aber ganz normal
-  [περνούσα]{lang="el"}. Die Ausnahmen aus Kapitel 2 betreffen nur den perfektiven Stamm.
 :::
 
 ::: {.callout-note .exercise}
@@ -621,7 +611,6 @@ Typische Fehler: \*[ρώτουσε]{lang="el"} (Betonung zurückgeholt), \*[ετ
 | [η Νάξος]{lang="el"} | Naxos (feminin, wie fast alle Inseln auf [-ος]{lang="el"}) |
 | [ποτίζω, πότισα]{lang="el"} | gießen |
 | [ο κήπος]{lang="el"} | der Garten |
-| [η κουζίνα]{lang="el"} | die Küche (Kapitel 3) |
 | [αγγλικά]{lang="el"} | Englisch |
 | [ο τουρίστας, οι τουρίστες]{lang="el"} | der Tourist |
 | [το χέρι]{lang="el"} | die Hand |
@@ -651,11 +640,7 @@ sieht die andere schon eine Weile an.
 — Του Γιάννη! Ήσασταν μαζί τότε, έτσι;
 
 — Ήμασταν. Όλο το καλοκαίρι. Αλλά δεν είχαμε κοινή γλώσσα. Εγώ ήξερα δέκα λέξεις ελληνικά,
-εκείνος δέκα γερμανικά.
-
-— Και πώς μιλούσατε;
-
-— Με τα χέρια. Και είχαμε ένα λεξικό.
+εκείνος δέκα γερμανικά. Μιλούσαμε με τα χέρια και με ένα λεξικό.
 
 — Και τώρα;
 
@@ -674,11 +659,7 @@ sieht die andere schon eine Weile an.
 — Jannis! Ihr wart damals zusammen, oder?
 
 — Waren wir. Den ganzen Sommer. Aber wir hatten keine gemeinsame Sprache. Ich konnte zehn Wörter
-Griechisch, er zehn Deutsch.
-
-— Und wie habt ihr euch unterhalten?
-
-— Mit den Händen. Und wir hatten ein Wörterbuch.
+Griechisch, er zehn Deutsch. Wir redeten mit den Händen und mit einem Wörterbuch.
 
 — Und jetzt?
 
@@ -696,21 +677,18 @@ Kapitel 2 hat [ήμουν, ήταν, είχα, είχε]{lang="el"} geliefert, h
 | ihr, Sie | [ήσασταν]{lang="el"}, [ήσαστε]{lang="el"} | [είχατε]{lang="el"} |
 | sie | [ήταν]{lang="el"} | [είχαν]{lang="el"}, [είχανε]{lang="el"} |
 
-[είχα]{lang="el"} ist einfach: Endungen wie gewohnt, und das [εί-]{lang="el"} bleibt in allen
-Personen stehen, wie der feste Anfang von [είδα – είδαμε]{lang="el"}. Also
-[είχαμε]{lang="el"} [ˈixame], nie \*[χάμε]{lang="el"}.
+Bei [είχα]{lang="el"} bleibt das [εί-]{lang="el"} in allen Personen, wie bei [είδα –
+είδαμε]{lang="el"}: [είχαμε]{lang="el"} [ˈixame], nie \*[χάμε]{lang="el"}.
 
-[ήμουν]{lang="el"} hat eigene Endungen, [-μουν, -σουν, -ταν]{lang="el"}. Sie sind kein
-Sonderfall, sondern die Imperfektendungen der Verben auf [-μαι]{lang="el"}, und du triffst sie in
-Kapitel 10 wieder. Das [ή-]{lang="el"} bleibt überall. Umgangssprachlich hörst du auch
+[ήμουν]{lang="el"} hat eigene Endungen, [-μουν, -σουν, -ταν]{lang="el"}: die Imperfektendungen
+der Verben auf [-μαι]{lang="el"} (Kapitel 10). Das [ή-]{lang="el"} bleibt überall. Umgangssprachlich hörst du auch
 [ήμουνα, ήσουνα, ήτανε]{lang="el"}.
 
 ::: {.callout-warning}
 ## Achtung
 
 [ήμαστε]{lang="el"} „wir waren“ und [είμαστε]{lang="el"} „wir sind“ klingen gleich: beide
-[ˈimaste], denn [η]{lang="el"} und [ει]{lang="el"} sind beide [i]. Die Schrift unterscheidet sie,
-das Ohr nur über den Zusammenhang. Wer beim Sprechen eindeutig sein will, sagt
+[ˈimaste]. Wer beim Sprechen eindeutig sein will, sagt
 [ήμασταν]{lang="el"} [ˈimastan]; ebenso [ήσασταν]{lang="el"} statt [ήσαστε]{lang="el"}.
 :::
 
@@ -719,9 +697,8 @@ ja zu sagen, ohne [ναι]{lang="el"} zu sagen.
 
 ### Eine Form, zwei Blicke {#sec-imperfekt-eine-form}
 
-Formal sind [ήμουν, είχα, ήξερα]{lang="el"} Imperfekte. Weil es daneben keinen Aorist gibt,
-übernehmen sie beide Aufgaben: Film und Foto. Hier zwingt Spanisch dich zu einer Entscheidung, die
-Griechisch dir erspart:
+Formal sind [ήμουν, είχα, ήξερα]{lang="el"} Imperfekte. Weil es keinen Aorist daneben gibt,
+sind sie Film und Foto zugleich. Spanisch verlangt eine Entscheidung, die Griechisch dir erspart:
 
 | Spanisch | Griechisch |
 |---|---|
@@ -729,9 +706,9 @@ Griechisch dir erspart:
 | [*Tuve un accidente.*]{lang="es"} / [*Tenía una bici roja.*]{lang="es"} | [Είχα…]{lang="el"}, beide Male |
 | [*Estuve dos semanas en Sifnos.*]{lang="es"} / [*Estaba en Sifnos cuando…*]{lang="es"} | [Ήμουν…]{lang="el"}, beide Male |
 
-Manchmal braucht man aber wirklich ein Foto, einen Moment, in dem sich etwas ändert. Dann nimmt
-Griechisch ein anderes Verb. Wer Spanisch kann, kennt das Muster von [*supe*]{lang="es"} und
-[*conocí*]{lang="es"}, die im indefinido etwas anderes heißen als im imperfecto:
+Braucht man wirklich ein Foto, einen Moment, in dem sich etwas ändert, nimmt Griechisch ein
+anderes Verb, ähnlich wie Spanisch mit [*supe*]{lang="es"} und [*conocí*]{lang="es"} die
+Bedeutung wechselt:
 
 - **erfahren** statt wissen: [*supe la verdad*]{lang="es"} = [έμαθα την αλήθεια]{lang="el"}
   (Kapitel 3). [ήξερα]{lang="el"} heißt nur „ich wusste“.
@@ -763,7 +740,7 @@ Sag die Sätze laut auf Griechisch.
 5. Dort habe ich meinen Mann kennengelernt.
 6. Ich habe es gestern erfahren.
 
-**Worthilfe:** [το ξενοδοχείο]{lang="el"} das Hotel.
+**Worthilfe:** [το ξενοδοχείο]{lang="el"} das Hotel · [τα λεφτά]{lang="el"} das Geld (umg.).
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -783,9 +760,8 @@ bleiben überall, das [ή-]{lang="el"} von [ήξερα]{lang="el"} nicht.
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-1. [Ήσασταν στη Σίφνο το ’90; — Ήμασταν.]{lang="el"} Auch [Ήσαστε; — Ήμαστε.]{lang="el"}
-   [ήμαστε]{lang="el"} klingt wie [είμαστε]{lang="el"} „wir sind“; in der Kurzantwort ist
-   [ήμασταν]{lang="el"} deutlicher.
+1. [Ήσασταν στη Σίφνο το ’90; — Ήμασταν.]{lang="el"} Auch [Ήσαστε; — Ήμαστε.]{lang="el"},
+   aber [ήμασταν]{lang="el"} ist deutlicher (siehe Achtung oben).
 2. [Δεν είχαμε λεφτά για ξενοδοχείο.]{lang="el"} Nicht \*[χάμε]{lang="el"}: Das
    [εί-]{lang="el"} ist kein Augment.
 3. [Ξέρατε πού ήταν το καφενείο;]{lang="el"} Hier umgekehrt: nicht \*[ήξερατε]{lang="el"}.
@@ -812,7 +788,6 @@ bleiben überall, das [ή-]{lang="el"} von [ήξερα]{lang="el"} nicht.
 
 | Griechisch | Deutsch |
 |---|---|
-| [η Σίφνος]{lang="el"} | Sifnos |
 | [το ’86]{lang="el"} | ’86 (gesprochen [το ογδόντα έξι]{lang="el"}) |
 | [η Γερμανίδα]{lang="el"} | die Deutsche |
 | [κόκκινος, -η, -ο]{lang="el"} | rot |
@@ -823,7 +798,6 @@ bleiben überall, das [ή-]{lang="el"} von [ήξερα]{lang="el"} nicht.
 | [εκείνος]{lang="el"} | er (jener) |
 | [το λεξικό]{lang="el"} | das Wörterbuch |
 | [ο άντρας]{lang="el"} | der Mann; der Ehemann |
-| [ακόμα]{lang="el"} | noch (Kapitel 2) |
 | [το γράμμα]{lang="el"} | der Brief; der Buchstabe |
 :::
 
@@ -956,12 +930,9 @@ Steht jedes Verb im Imperfekt? Einmalige Ereignisse gehören nicht in diese List
 | [ο περιπτεράς]{lang="el"} | der Kioskbesitzer |
 | [οι γονείς]{lang="el"} | die Eltern |
 | [όλη μέρα]{lang="el"} | den ganzen Tag |
-| [ανησυχώ]{lang="el"} | sich Sorgen machen (Kapitel 1) |
-| [το ραδιόφωνο]{lang="el"} | das Radio |
 | [ο παραγωγός]{lang="el"} | hier: der Radiomoderator (eigentlich: Produzent) |
 | [κόβω]{lang="el"} | schneiden; hier: abwürgen (Kapitel 1) |
 | [γιατί]{lang="el"} | weil |
-| [η καθυστέρηση]{lang="el"} | die Verspätung (Kapitel 1) |
 | [θυμώνω]{lang="el"} | wütend werden, sich aufregen (Kapitel 3) |
 | [το θερινό σινεμά]{lang="el"} | das Freiluftkino |
 | [παίζω]{lang="el"} | hier: (einen Film) zeigen |
@@ -995,17 +966,14 @@ Uhr morgens an, nass, aber glücklich.
 Lies nur die Aoriste der Reihe nach: [κοιμηθήκαμε, πέρασε, έβρεξε, γέλασε, έφερε,
 φτάσαμε]{lang="el"}. Das ist die Handlung, ein Schritt nach dem anderen; nach jedem passt der
 „und dann?“-Test aus @sec-imperfekt-aspekt. Lies jetzt nur die Imperfekte: [έφευγε, φυσούσε, κουνούσε, έτρωγαν, έπιναν,
-έπαιζαν, έκλεινα, έβλεπε]{lang="el"}. Das ist die Stimmung, und keine dieser Formen bringt die
-Geschichte einen Schritt weiter. Dazu [ήταν, είχαμε]{lang="el"}, die für beides zuständig sind.
+έπαιζαν, έκλεινα, έβλεπε]{lang="el"}. Das ist die Stimmung. Dazu [ήταν, είχαμε]{lang="el"}, die für beides zuständig sind.
 
 Zwei Einzelheiten lohnen einen zweiten Blick:
 
-- [Το πλοίο έφευγε στις οχτώ.]{lang="el"} Der Fahrplan steht im Imperfekt: Es war vorgesehen, dass
-  es um acht fährt; ob es das tat, ist eine andere Frage. Spanisch und Französisch machen es
-  genauso: [*el barco salía a las ocho*]{lang="es"}, [*le bateau partait à huit heures*]{lang="fr"}.
-- [εκεί που έκλεινα τα μάτια μου]{lang="el"}: Der Film ist hier ein Vorgang, der nie zu Ende
-  kommt. Die Augen waren noch nicht zu, als die Welle kam. [έκλεισα]{lang="el"} hätte bedeutet,
-  dass sie zu waren.
+- [Το πλοίο έφευγε στις οχτώ.]{lang="el"} Der Fahrplan steht im Imperfekt: So war es
+  vorgesehen; ob es klappte, ist eine andere Frage. Wie [*el barco salía a las ocho*]{lang="es"}, [*le bateau partait à huit heures*]{lang="fr"}.
+- [εκεί που έκλεινα τα μάτια μου]{lang="el"}: Der Vorgang kommt nie zu Ende; die Augen waren noch
+  nicht zu, als die Welle kam. [έκλεισα]{lang="el"} hieße: Sie waren zu.
 
 ### Signalwörter {#sec-imperfekt-signalwoerter}
 
@@ -1013,20 +981,17 @@ Manche Wörter ziehen fast immer eine der beiden Formen nach sich:
 
 | eher Film (Imperfekt) | eher Foto (Aorist) |
 |---|---|
-| [κάθε μέρα, πάντα, συνήθως]{lang="el"} | [μια μέρα, ένα βράδυ]{lang="el"} |
-| [συχνά]{lang="el"} (oft), [παλιά]{lang="el"} (früher) | [ξαφνικά, αμέσως]{lang="el"} |
-| [κάθε φορά που]{lang="el"} (jedes Mal, wenn) | [μια φορά]{lang="el"} (einmal) |
-| [ενώ]{lang="el"} (während), [εκεί που]{lang="el"} (gerade als, umg.) | |
+| [κάθε μέρα, πάντα, συνήθως]{lang="el"}, [συχνά]{lang="el"} (oft), [παλιά]{lang="el"} (früher) | [μια μέρα, ένα βράδυ]{lang="el"} |
+| [ενώ]{lang="el"} (während), [εκεί που]{lang="el"} (gerade als, umg.) | [ξαφνικά, αμέσως]{lang="el"} |
 | [τότε]{lang="el"} (damals) | [τότε]{lang="el"} (da, daraufhin) |
-| [δύο φορές την εβδομάδα]{lang="el"} (Regel) | [δύο φορές]{lang="el"} (gezählt) |
+| [κάθε φορά που]{lang="el"} (jedes Mal, wenn), [δύο φορές την εβδομάδα]{lang="el"} (Regel) | [δύο φορές]{lang="el"} (gezählt) |
 | [όταν ήμουν παιδί]{lang="el"} | [όταν φτάσαμε]{lang="el"} |
 
-[όταν]{lang="el"} steht in beiden Spalten, und genau das ist die Warnung: Signalwörter helfen,
-entscheiden tut der Blick. Der deutlichste Fall ist das Zählen. [Κάθε χρόνο πηγαίναμε στην
-Ικαρία.]{lang="el"} „Jedes Jahr fuhren wir nach Ikaria“ ist eine Gewohnheit. [Πήγαμε τρεις φορές
-στην Ικαρία.]{lang="el"} „Wir waren dreimal auf Ikaria“ fasst alle Reisen zusammen, von außen,
-mit einer Zahl: ein Foto. Spanisch trennt genauso: [*íbamos cada año*]{lang="es"},
-[*fuimos tres veces*]{lang="es"}.
+[όταν]{lang="el"} und [τότε]{lang="el"} stehen in beiden Spalten, und genau das ist die Warnung:
+Signalwörter helfen, entscheiden tut der Blick. Am deutlichsten beim Zählen: [Κάθε χρόνο
+πηγαίναμε στην Ικαρία]{lang="el"} ist eine Gewohnheit, [Πήγαμε τρεις φορές στην
+Ικαρία]{lang="el"} „Wir waren dreimal auf Ikaria“ fasst alle Reisen mit einer Zahl zusammen: ein
+Foto, wie [*fuimos tres veces*]{lang="es"}.
 
 ::: {.callout-important}
 ## Merke
@@ -1036,14 +1001,6 @@ mit einer Zahl: ein Foto. Spanisch trennt genauso: [*íbamos cada año*]{lang="e
   unterbrochene Vorgänge.
 - Typisches Muster: [Ενώ / Εκεί που]{lang="el"} + Imperfekt, dann Aorist:
   [Ενώ κολυμπούσαμε, ήρθε ένα δελφίνι.]{lang="el"}
-:::
-
-::: {.callout-tip}
-## Tipp
-
-Wer beim Erzählen unsicher ist, reiht zuerst im Kopf die Aoriste auf, die Handlung, und
-entscheidet dann, was davor und dazwischen als Film laufen soll. So erzählen auch Griechen, nur
-schneller.
 :::
 
 ### Wo Spanisch und Französisch tragen, und wo nicht {#sec-imperfekt-vergleich}
@@ -1126,17 +1083,13 @@ Achte auf [κάθε, ενώ, κάθε φορά που]{lang="el"} und auf gezäh
 
 | Griechisch | Deutsch |
 |---|---|
-| [ο Ιούλιος]{lang="el"} | der Juli |
-| [η Φολέγανδρος]{lang="el"} | Folegandros |
 | [ο Πειραιάς, τον Πειραιά]{lang="el"} | Piräus |
-| [η καμπίνα]{lang="el"} | die Kabine |
 | [φυσάει, φύσηξε]{lang="el"} | es weht, es ist windig |
 | [το μελτέμι]{lang="el"} | der Meltemi (Nordwind im Sommer) |
 | [κοιμηθήκαμε]{lang="el"} | wir schliefen (Aorist von [κοιμάμαι]{lang="el"}, Kapitel 1) |
 | [το κατάστρωμα]{lang="el"} | das Deck (Kapitel 3) |
 | [κουνάω]{lang="el"} | hier: schaukeln (Kapitel 3) |
 | [γύρω μας]{lang="el"} | um uns herum |
-| [η κιθάρα]{lang="el"} | die Gitarre |
 | [κατά τις δύο]{lang="el"} | gegen zwei (Uhr) |
 | [το κύμα]{lang="el"} | die Welle |
 | [βρέχω, έβρεξα]{lang="el"} | nass machen; [βρέχει]{lang="el"} es regnet |
@@ -1216,16 +1169,15 @@ lachte … Sie sind einen Monat geblieben.
 — Ich bin schuld. Ich und mein Kaffee. Dein Großvater hat mir das immer gesagt.
 :::
 
-Die Großmutter wechselt mehrmals das Tempus. Sie beginnt mit dem Rahmen im Imperfekt
-([ήταν, είχα, έφερνε, έπλενα]{lang="el"}), und genau am Höhepunkt springt sie ins Präsens:
-[ακούω, βγαίνω, τι βλέπω;, κατεβαίνει, λέει]{lang="el"}. Das ist das **erzählende Präsens**
-([ιστορικός ενεστώτας]{lang="el"}). Deutsch kennt es auch („Geh ich raus, und was seh ich?“),
-Griechisch benutzt es aber viel häufiger, und zwar fast immer am selben Punkt: dort, wo die
-Geschichte spannend wird. Danach geht es im Aorist weiter ([έδωσα, έμειναν, ήρθαν]{lang="el"}),
+Die Großmutter beginnt mit dem Rahmen im Imperfekt ([ήταν, είχα, έφερνε, έπλενα]{lang="el"}), und
+genau am Höhepunkt springt sie ins Präsens: [ακούω, βγαίνω, τι βλέπω;, κατεβαίνει,
+λέει]{lang="el"}. Das ist das **erzählende Präsens** ([ιστορικός ενεστώτας]{lang="el"}). Deutsch
+kennt es auch („Geh ich raus, und was seh ich?“), Griechisch benutzt es viel häufiger, meist dort,
+wo es spannend wird. Danach geht es im Aorist weiter ([έδωσα, έμειναν, ήρθαν]{lang="el"}),
 mit einem kurzen Film dazwischen: [Αυτοί γελούσαν, εγώ γελούσα…]{lang="el"}
 
-Beim Hören heißt das: Wenn eine Erzählung in der Vergangenheit plötzlich ins Präsens kippt, spitz
-die Ohren, jetzt kommt die Pointe. Das Präsens heißt nicht, dass es heute passiert.
+Beim Hören heißt das: Kippt eine Erzählung plötzlich ins Präsens, kommt die Pointe, nicht die
+Gegenwart.
 
 Wer über früher redet, hat eigene Formeln:
 
@@ -1234,9 +1186,8 @@ Wer über früher redet, hat eigene Formeln:
 - [Άλλες εποχές.]{lang="el"} „Andere Zeiten.“ Mit einem Seufzer; der Schlusssatz vieler
   Erinnerungen.
 - [Σ’ το ’λεγα.]{lang="el"} „Ich hab’s dir ja immer gesagt.“ Das Imperfekt-Gegenstück zu
-  [Σ’ το ’πα]{lang="el"} aus Kapitel 3, mit demselben verschluckten Anfang: [σου το έλεγα]{lang="el"}.
-  Im Dialog steht [μου το ’λεγε]{lang="el"}, „er hat es mir immer gesagt“. Der Film macht aus
-  einer Bemerkung eine Dauerbemerkung.
+  [Σ’ το ’πα]{lang="el"} aus Kapitel 3, aus [σου το έλεγα]{lang="el"}. Im Dialog: [μου το
+  ’λεγε]{lang="el"}. Der Film macht aus einer Bemerkung eine Dauerbemerkung.
 
 ### Ein Laut entscheidet {#sec-imperfekt-hoeren}
 
@@ -1302,8 +1253,8 @@ mit nur einer Vergangenheit: [ήταν, είχα, είχαμε, ήξερα]{lang
 
 **Schritt 2:** Eine feste Zahl gibt es nicht. So wertest du aus:
 
-- **Treffer:** Was du gehört hast und in den Untertiteln wiederfindest. In Gesprächen über früher
-  ist [ήταν]{lang="el"} fast immer das häufigste Wort auf deiner Liste.
+- **Treffer:** was du gehört hast und in den Untertiteln wiederfindest; meist führt
+  [ήταν]{lang="el"}.
 - **Fehlalarme:** Präsensformen wie [μπορούμε, ακούμε, ζούμε]{lang="el"}: betontes [ˈu], aber
   ohne [s] danach, also kein Imperfekt. Und [ακούσαμε]{lang="el"} [aˈkusame]: Das [ου]{lang="el"}
   gehört zum Stamm, es ist der Aorist.
@@ -1334,7 +1285,6 @@ mit nur einer Vergangenheit: [ήταν, είχα, είχαμε, ήξερα]{lang
 | [το ψωμί]{lang="el"} | das Brot |
 | [η μηχανή]{lang="el"} | der Motor; das Motorrad |
 | [πορτοκαλί]{lang="el"} | orange (unveränderlich) |
-| [σαν]{lang="el"} | wie (Kapitel 3) |
 | [το κουτί]{lang="el"} | die Schachtel, die Kiste |
 | [γεμάτος, -η, -ο]{lang="el"} | voll (Kapitel 3) |
 | [τα παιδιά]{lang="el"} | die Kinder; hier: junge Leute |
@@ -1346,15 +1296,13 @@ mit nur einer Vergangenheit: [ήταν, είχα, είχαμε, ήξερα]{lang
 | [το τυρί]{lang="el"} | der Käse |
 | [η χρονιά]{lang="el"} | das Jahr (als erlebter Zeitraum) |
 | [φταίω για]{lang="el"} | schuld sein an |
-| [ο τουρισμός]{lang="el"} | der Tourismus |
 | [πάλι]{lang="el"} | wieder |
 :::
 
 ## Das Wichtigste {#sec-imperfekt-wichtigste}
 
-- Das **Imperfekt** ([παρατατικός]{lang="el"}) ist die Vergangenheit im **imperfektiven
-  Aspekt**, der Film: Gewohnheit, Wiederholung, Vorgang im Hintergrund, Beschreibung. Der
-  **Aorist** bleibt das Foto, das die Geschichte weiterbringt.
+- Das **Imperfekt** ([παρατατικός]{lang="el"}) ist der Film: Gewohnheit, Wiederholung, Vorgang im
+  Hintergrund, Beschreibung. Der **Aorist** bleibt das Foto; Test: „und dann?“
 - **Bildung bei Verben auf unbetontes [-ω]{lang="el"}:** imperfektiver Stamm + Endungen des Aorists,
   Betonung auf der drittletzten Silbe, Augment nur betont: [έγραφα – γράφαμε]{lang="el"};
   [η-]{lang="el"} bei [ήθελα, ήξερα]{lang="el"}.
@@ -1364,9 +1312,7 @@ mit nur einer Vergangenheit: [ήταν, είχα, είχαμε, ήξερα]{lang
 - **Verben auf [-άω]{lang="el"} und [-ώ]{lang="el"}:** [-ούσα, -ούσες, -ούσε, -ούσαμε,
   -ούσατε, -ούσαν]{lang="el"}, immer auf [-ού-]{lang="el"} betont, nie Augment. (Hören: bei
   [-άω]{lang="el"} umg. auch [ξύπναγα]{lang="el"}.)
-- **Eine Vergangenheit für beides:** [ήμουν, ήσουν, ήταν, ήμασταν, ήσασταν, ήταν]{lang="el"};
-  [είχα, είχες, είχε, είχαμε, είχατε, είχαν]{lang="el"}; [ήξερα]{lang="el"}. Für einen
-  Wendepunkt: [έμαθα, πήρα, γνώρισα]{lang="el"}. [έκανα, περίμενα]{lang="el"} sind Imperfekt und
+- **Eine Vergangenheit für beides:** [ήμουν, είχα, ήξερα]{lang="el"}. Für einen Wendepunkt: [έμαθα, πήρα, γνώρισα]{lang="el"}. [έκανα, περίμενα]{lang="el"} sind Imperfekt und
   Aorist zugleich.
 - **Erzählen:** Aoriste für die Handlung, Imperfekte für den Hintergrund; [ενώ, εκεί που]{lang="el"} +
   Imperfekt, dann Aorist. Gezählt ist Foto ([τρεις φορές]{lang="el"}), regelmäßig ist Film
@@ -1420,35 +1366,26 @@ Lies den Text einmal ganz, ohne nachzuschlagen, dann mit Wortschatz, dann mit �
 με κλιματισμό. Αλλά όταν βούτηξα στο νερό, ήταν το ίδιο γαλάζιο.
 :::
 
-Drei Muster helfen beim Lesen:
+Zwei Stellen zum Lesen:
 
 - **[υπήρχαν]{lang="el"}:** Vergangenheit von [υπάρχει]{lang="el"}: [υπήρχε,
   υπήρχαν]{lang="el"} [iˈpirçe], [iˈpirxan]. Der Aorist [υπήρξε]{lang="el"} kommt vor allem in
   Nachrichten vor.
 - **[περίμεναν]{lang="el"}:** Imperfekt oder Aorist? Die Form verrät es nicht. Die Großmütter
   warteten dort jeden Tag, bei jeder Fähre: Film.
-- **Dasselbe Verb, zwei Blicke:** [βουτούσε ξανά και ξανά]{lang="el"}, der Junge sprang immer
-  wieder, ist Film; [όταν βούτηξα]{lang="el"}, der eine Sprung vom letzten Jahr, ist Foto. Ebenso
-  [μείναμε εκεί δύο ώρες]{lang="el"}, die zwei Stunden als Ganzes, und darin
-  [κοιτάζαμε]{lang="el"}, das Zuschauen, das die ganze Zeit lief.
 
 ::: {.callout-note collapse="true" .vocab-text}
 ## Wortschatz zum Text
 
 | Griechisch | Deutsch |
 |---|---|
-| [η Αμοργός]{lang="el"} | Amorgos |
 | [η φίλη]{lang="el"} | die Freundin |
 | [το ταξίδι]{lang="el"} | die Reise, die Überfahrt |
 | [τα χαρτιά]{lang="el"} | die Spielkarten; die Papiere |
-| [το σάντουιτς]{lang="el"} | das Sandwich |
 | [η ταμπέλα]{lang="el"} | das Schild |
-| [το κρεβάτι]{lang="el"} | das Bett (Kapitel 3) |
 | [το παράθυρο]{lang="el"} | das Fenster; [που έβλεπε στη θάλασσα]{lang="el"} das aufs Meer ging |
 | [η βρύση]{lang="el"} | der Wasserhahn |
 | [Δε μας πείραζε.]{lang="el"} | Es störte uns nicht. ([Δεν πειράζει]{lang="el"}: Kapitel 1) |
-| [άδειος, -α, -ο]{lang="el"} | leer (Kapitel 1) |
-| [η ταβέρνα]{lang="el"} | die Taverne |
 | [ό,τι]{lang="el"} | was (auch immer) |
 | [η κυρία Ρηνιώ]{lang="el"} | Frau Rinio (Koseform von Ειρήνη) |
 | [η Χώρα]{lang="el"} | die Chora, der Hauptort einer Kykladeninsel |
@@ -1459,22 +1396,18 @@ Drei Muster helfen beim Lesen:
 | [ο όρμος]{lang="el"} | die Bucht |
 | [το μοναστήρι]{lang="el"} | das Kloster |
 | [ο βράχος, τα βράχια]{lang="el"} | der Felsen |
-| [η κάμερα]{lang="el"} | die Kamera |
 | [ο άνθρωπος, τους ανθρώπους]{lang="el"} | der Mensch |
 | [γυρίζω ταινία]{lang="el"} | einen Film drehen ([γυρίζω]{lang="el"}: Kapitel 2) |
 | [γαλλικός, -ή, -ό]{lang="el"} | französisch |
 | [το αγόρι]{lang="el"} | der Junge |
 | [το καπέλο]{lang="el"} | der Hut |
-| [φωνάζω]{lang="el"} | rufen (Kapitel 3) |
 | [στα γαλλικά]{lang="el"} | auf Französisch |
 | [κοιτάζω]{lang="el"} | anschauen, zuschauen (Kapitel 2) |
 | [η πιο ωραία]{lang="el"} | die schönste (mehr in Kapitel 12) |
 | [απέραντος, -η, -ο]{lang="el"} | endlos, unermesslich |
 | [η σκηνή]{lang="el"} | die Szene |
-| [αναγνωρίζω]{lang="el"} | wiedererkennen (Kapitel 3) |
 | [μετά την ταινία]{lang="el"} | nach dem Film |
 | [χιλιάδες]{lang="el"} | Tausende |
-| [το ξενοδοχείο]{lang="el"} | das Hotel |
 | [το στούντιο]{lang="el"} | das Apartment (Ferienwohnung) |
 | [ο κλιματισμός]{lang="el"} | die Klimaanlage |
 :::
@@ -1522,7 +1455,7 @@ dasselbe Blau.
 Die Erzählerin ist erfunden, der Film nicht: Luc Bessons *Le Grand Bleu* (deutsch *Im Rausch der
 Tiefe*, griechisch [Απέραντο γαλάζιο]{lang="el"}) kam 1988 ins Kino; die Szenen aus der Kindheit
 der Hauptfiguren wurden auf Amorgos gedreht, unter anderem beim Kloster
-[Παναγία Χοζοβιώτισσα]{lang="el"}, das an einer Felswand klebt. Wann genau und an welchen Stellen gedreht wurde, ist hier ausgeschmückt.
+[Παναγία Χοζοβιώτισσα]{lang="el"}, das an einer Felswand klebt. Die Einzelheiten des Drehs sind hier ausgeschmückt.
 :::
 
 ::: {.callout-note .exercise}
