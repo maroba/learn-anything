@@ -26,7 +26,7 @@ muss und alle sich ertappt fühlen.
 [— Καλημέρα! Μια ερώτηση για το κανάλι μας: ποια λέξη λέτε πιο συχνά απ’ όλες;]{.v1}
 
 [— Εγώ; Εεε… βασικά, δεν ξέρω. Βασικά… Α, όχι. Βασικά λέω «βασικά». Η μάνα μου μου ’χει πει: «Αν
-ξαναπείς “βασικά”, δε σου ξαναμαγειρεύω.»]{.v2}
+ξαναπείς “βασικά”, δε σου ξαναμαγειρεύω».]{.v2}
 
 [— Και; Σου μαγειρεύει ακόμα;]{.v1}
 
@@ -66,10 +66,10 @@ Schule oder „sozusagen“ in die Schule?
 
 — Und Sie selbst, gar kein Wort?
 
-— Ach wo. Ach, lass mal, was soll ich sagen … Na gut, das „μωρέ“. Das hab ich von meiner Mutter.
+— Ach wo. Ach, lass mal, was soll ich sagen … Na gut, das „[μωρέ]{lang="el"}“. Das hab ich von meiner Mutter.
 
 — Hör mal, frag mich. Ich sag „das heißt“. Ich will was sagen, find es nicht, und raus kommt „das
-heißt“. Das heißt … na ja, egal. Gleich kommt auch mein Mann; der sagt zu allem „έλα“. Komm, gehen
+heißt“. Das heißt … na ja, egal. Gleich kommt auch mein Mann; der sagt zu allem „[έλα]{lang="el"}“. Komm, gehen
 wir!
 :::
 
@@ -145,7 +145,7 @@ nebeneinander:
 | [θα ανέβω]{lang="el"} | [θ’ ανέβω]{lang="el"} [θaˈnevo] (5) | Ende von [θα]{lang="el"} |
 | [το άκουσα]{lang="el"} | [τ’ άκουσα]{lang="el"} [ˈtakusa] | Ende von [το]{lang="el"} |
 | [για αυτό]{lang="el"} | [γι’ αυτό]{lang="el"} [ʝafˈto] (1) | Ende von [για]{lang="el"} |
-| [το έχω]{lang="el"} | [το ’χω]{lang="el"} [ˈtoxo] (3) | Anfang von [έχω]{lang="el"} |
+| [το έχω]{lang="el"} | [το ’χω]{lang="el"} [ˈtoxo] (14) | Anfang von [έχω]{lang="el"} |
 | [μου έχει πει]{lang="el"} | [μου ’χει πει]{lang="el"} [ˈmuçi ˈpi] (14) | Anfang von [έχει]{lang="el"} |
 | [πού είσαι;]{lang="el"} | [πού ’σαι;]{lang="el"} [ˈpuse] | Anfang von [είσαι]{lang="el"} |
 | [τι είναι;]{lang="el"} | [τι ’ναι;]{lang="el"} [ˈtine] | Anfang von [είναι]{lang="el"} |
@@ -345,10 +345,10 @@ dann selten; vor [ξ, ψ]{lang="el"} fehlt sie in sorgfältiger Rede öfter.
 ## Exkurs: Istanbul, İznik und ein [ν]{lang="el"}
 
 Griechen nennen Konstantinopel bis heute oft einfach [η Πόλη]{lang="el"}, „die Stadt“. Die
-gängigste Herleitung von *Istanbul* führt auf eine mittelalterliche Alltagswendung zurück:
+gängigste Herleitung von [*Istanbul*]{lang="tr"} führt auf eine mittelalterliche Alltagswendung zurück:
 [(ει)ς την Πόλιν]{lang="el"} „in die Stadt“, gesprochen etwa [is tim ˈbolin] oder [s tim ˈboli].
-Das [b] von *Istanbul* wäre dann ein griechisches Sandhi-[b], das ein türkisches Ohr aus dem
-Gespräch mitgenommen hat. Nach demselben Muster wird *İznik* auf [εις Νίκαιαν]{lang="el"} „nach
+Das [b] von [*Istanbul*]{lang="tr"} wäre dann ein griechisches Sandhi-[b], das ein türkisches Ohr aus dem
+Gespräch mitgenommen hat. Nach demselben Muster wird [*İznik*]{lang="tr"} auf [εις Νίκαιαν]{lang="el"} „nach
 Nikaia“ zurückgeführt. Ganz unumstritten ist die Istanbul-Herleitung nicht, aber sie ist die
 verbreitetste.
 :::
@@ -383,7 +383,7 @@ Geschrieben: (1) [αν πας]{lang="el"} · (2) [δεν ξέρω]{lang="el"} ·
 
 **Teil B, sprich selbst.** Lies die drei Sätze laut und schnell, wie im Gespräch. Wo entsteht ein
 [b], [d] oder [g], und welcher Buchstabe steht dahinter? Vergleiche dann mit der Umschrift in der
-Lösung. Im Chat pro Satz Zahl und Buchstaben, etwa „1: 2 (τ, κ)“.
+Lösung. Im Chat pro Satz Zahl und Buchstaben, etwa „1: 2 ([τ, κ]{lang="el"})“.
 
 ::: {lang="el" .no-audio}
 1. Την Τρίτη πάμε στην Κρήτη.
@@ -446,8 +446,8 @@ die neuen:
 | erklären, abschwächen | [δηλαδή]{lang="el"} (11), [αυτό που λέμε]{lang="el"} (15), **[ας πούμε]{lang="el"}**, **[ξέρω ’γω]{lang="el"}** |
 | den Faden halten | [που λες]{lang="el"} (2), **[ξέρεις]{lang="el"}** |
 | reagieren | [έλα]{lang="el"} (1), [ναι, αλλά]{lang="el"} (1), [σοβαρά]{lang="el"} (2), [μη μου πεις]{lang="el"} (2), [άντε]{lang="el"} (9), [δηλαδή;]{lang="el"} (20), [σιγά μην]{lang="el"} (20), **[πλάκα κάνεις]{lang="el"}**, **[αμέ]{lang="el"}**, **[μπα]{lang="el"}**, **[καλά]{lang="el"}** |
-| abschließen, abwinken | [άσ’ το]{lang="el"} (8), [τι να σου πω]{lang="el"} (8), [τέλος πάντων]{lang="el"} (9), **[άσε]{lang="el"}**, **[ντάξει]{lang="el"}** |
-| Nähe zeigen | [ρε, βρε]{lang="el"} (7), **[μωρέ]{lang="el"}** |
+| abschließen, abwinken | [άσ’ το]{lang="el"} (8), [τι να σου πω]{lang="el"} (8), [τέλος πάντων]{lang="el"} (9), [άσε]{lang="el"} (9), **[ντάξει]{lang="el"}** |
+| Nähe zeigen | [ρε]{lang="el"} (3), [βρε]{lang="el"} (7), **[μωρέ]{lang="el"}** |
 
 Die neuen im Einzelnen:
 
@@ -630,7 +630,6 @@ Herrn, den man siezt, oder mit [Όχι!]{lang="el"} beginnen, das klingt schroff
 | [αμέ]{lang="el"} | [aˈme] | na klar (umg.) |
 | [μπα]{lang="el"} | [ba] | Nanu? (erstaunt); ach wo, nee (umg.) |
 | [καλά]{lang="el"} | [kaˈla] | gut; okay; [Καλά, καλά.]{lang="el"} ja, ja, schon gut |
-| [κοιτάξτε]{lang="el"} | [ciˈtakste] | schauen Sie; hören Sie (Marker beim Siezen) |
 | [απλός, -ή, -ό]{lang="el"} | [aˈplos] | einfach |
 :::
 
@@ -665,9 +664,9 @@ Man steigt nicht einmal im Leben auf, sondern bei jeder Szene neu: dieselbe Stel
 Stufe 2, dann auf Stufe 3. Wer wissen will, ob es etwas gebracht hat, hört die Stelle vorher
 einmal ohne Untertitel, als **Vorher-Messung**; so ist der Hör-Auftrag am Ende gebaut.
 
-Für Stufe 2 spricht auch ein bekanntes Experiment (Mitterer & McQueen 2009, *PLoS ONE*).
+Für Stufe 2 spricht auch ein bekanntes Experiment (Mitterer & McQueen 2009, [*PLoS ONE*]{lang="en"}).
 Niederländische Versuchspersonen, die schon gut Englisch konnten, sahen Szenen aus
-*Trainspotting* mit schottischem und aus *Kath & Kim* mit australischem Englisch. Mit englischen
+[*Trainspotting*]{lang="en"} mit schottischem und aus [*Kath & Kim*]{lang="en"} mit australischem Englisch. Mit englischen
 Untertiteln verstanden sie danach auch neue Sätze mit diesem Akzent besser. Niederländische
 Untertitel halfen nur bei den schon gesehenen Stellen; bei neuen Sätzen schadeten sie eher.
 
@@ -765,11 +764,11 @@ Kapitel 3.
 ## Lösung
 
 **1b, 2b, 3b, 4b, 5c.** Zu 4: [Τις ξέρω απ’ έξω. Δηλαδή… τέλος πάντων, τις έχω δει πολλές
-φορές.]{lang="el"} Zu 5: Die zweite Passantin zählt gerade das ungläubige „έλα“ auf, der Reporter
+φορές.]{lang="el"} Zu 5: Die zweite Passantin zählt gerade das ungläubige „[έλα]{lang="el"}“ auf, der Reporter
 liefert es prompt, daher ihr [Είδες;]{lang="el"}
 
-**Kurzformen:** [απ’ έξω]{lang="el"} = [από έξω]{lang="el"} (Elision), [τα ’χει]{lang="el"} =
-[τα έχει]{lang="el"} [ˈtaçi], [να ’ρθεις]{lang="el"} = [να έρθεις]{lang="el"} (beide Aphärese).
+**Kurzformen:** [απ’ έξω]{lang="el"} = [από έξω]{lang="el"} (Elision), [τα ’χει]{lang="el"} [ˈtaçi] =
+[τα έχει]{lang="el"}, [να ’ρθεις]{lang="el"} = [να έρθεις]{lang="el"} (beide Aphärese).
 
 **Marker:** [Βασικά]{lang="el"} und [Κοίτα]{lang="el"} eröffnen; [Δηλαδή…]{lang="el"} sucht und
 leitet die Korrektur ein (Zeit gewinnen oder erklären); [τέλος πάντων]{lang="el"} winkt ab;
@@ -788,12 +787,12 @@ er Fehler macht, macht nichts. Ich mache auf Englisch tausend.
 geredet haben: schnell, mit den Händen, alle durcheinander. Ich kann sie auswendig. Das heißt …
 na ja, ich hab sie oft gesehen.
 
-— Hör mal, er soll das „έλα“ lernen. Wenn er das „έλα“ versteht, hat er alles verstanden. „Έλα“
-am Telefon, „έλα“, damit du kommst, „έλα“, wenn du’s nicht glaubst …
+— Hör mal, er soll das „[έλα]{lang="el"}“ lernen. Wenn er das „[έλα]{lang="el"}“ versteht, hat er alles verstanden.
+„[Έλα]{lang="el"}“ am Telefon, „[έλα]{lang="el"}“, damit du kommst, „[έλα]{lang="el"}“, wenn du’s nicht glaubst …
 
 — Ach was!
 
-— Siehst du? Da hast du gleich noch ein „έλα“!
+— Siehst du? Da hast du gleich noch ein „[έλα]{lang="el"}“!
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -961,9 +960,10 @@ einer Minute vergessen sie die Kamera, und dann beginnt die echte Sprache: die �
 „sozusagen“, das Lachen, die Sätze, die nie zu Ende gehen.
 
 Meine Arbeit beginnt danach, im Büro, mit Kopfhörern. Ein Herr sagt etwas wie „dengsero“. Ich
-schreibe „δεν ξέρω“. Eine junge Frau sagt „θα ’ρθω“. Schreibe ich „θα ’ρθω“ oder „θα έρθω“? Unsere
+schreibe „[δεν ξέρω]{lang="el"}“. Eine junge Frau sagt „[θα ’ρθω]{lang="el"}“. Schreibe ich „[θα ’ρθω]{lang="el"}“
+oder „[θα έρθω]{lang="el"}“? Unsere
 Regel ist einfach: Wir schreiben, wie der Mensch spricht, aber es muss sich leicht lesen lassen.
-Also „θα ’ρθω“ ja, „dengsero“ nein.
+Also „[θα ’ρθω]{lang="el"}“ ja, „dengsero“ nein.
 
 Am schwierigsten ist aber die Zeit. Ein Untertitel hat zwei Zeilen mit je etwa vierzig Zeichen
 und bleibt drei, vier Sekunden auf dem Bildschirm, höchstens sieben. Griechen sprechen schneller, als man liest.
@@ -986,12 +986,12 @@ Richtig oder falsch? Im Chat: „1r, 2f, …“.
 1. Die meisten Passanten machen mit.
 2. Am Anfang sprechen sie wie Nachrichtensprecher.
 3. Die Untertitlerin schreibt alles wörtlich auf.
-4. «βασικά» streicht sie immer.
+4. [«βασικά»]{lang="el"} streicht sie immer.
 5. Ein Untertitel bleibt höchstens sieben Sekunden stehen.
-6. Das häufigste Wort ist «βασικά».
+6. Das häufigste Wort ist [«βασικά»]{lang="el"}.
 
 **Dann:** Nenn zu jeder Form mit Apostroph die Vollform. Welche Aussprache steckt hinter
-«δεγκζέρω»? **Zugabe:** Fass den Text laut in drei Sätzen zusammen, mit zwei Markern.
+[«δεγκζέρω»]{lang="el"}? **Zugabe:** Fass den Text laut in drei Sätzen zusammen, mit zwei Markern.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -1003,7 +1003,7 @@ Für 1 und 6 genügen der Anfang des zweiten und der letzte Absatz.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Für 4: [πάντα]{lang="el"} oder [όχι πάντα]{lang="el"}? «δεγκζέρω» schreibt ein Sandhi mit
+Für 4: [πάντα]{lang="el"} oder [όχι πάντα]{lang="el"}? [«δεγκζέρω»]{lang="el"} schreibt ein Sandhi mit
 Buchstaben.
 :::
 
@@ -1011,10 +1011,10 @@ Buchstaben.
 ## Lösung
 
 **1f, 2r, 3f, 4f, 5r, 6f.** Die Hälfte geht ([οι μισοί … φεύγουν]{lang="el"}); sie kürzt; immer
-gestrichen wird «εεε», nicht «βασικά»; das häufigste Wort ist «εεε».
+gestrichen wird [«εεε»]{lang="el"}, nicht [«βασικά»]{lang="el"}; das häufigste Wort ist [«εεε»]{lang="el"}.
 
 **Apostroph:** [θα ’ρθω]{lang="el"} = [θα έρθω]{lang="el"} (Aphärese); [απ’ ό,τι]{lang="el"} und
-zweimal [γι’ αυτό]{lang="el"} (Elision). **«δεγκζέρω»** ist [ðeŋ ˈgzero], [δεν ξέρω]{lang="el"}.
+zweimal [γι’ αυτό]{lang="el"} (Elision). **[«δεγκζέρω»]{lang="el"}** ist [ðeŋ ˈgzero], [δεν ξέρω]{lang="el"}.
 Die Marker selbst stehen nur in Anführungszeichen; die Autorin schreibt Schriftsprache
 ([άρα, όμως]{lang="el"}).
 

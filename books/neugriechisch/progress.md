@@ -24,8 +24,8 @@
 | 18 Er sagt, dass: indirekte Rede und indirekte Fragen | veröffentlicht | Welle 9; Audio vollständig |
 | 19 Müde, aber glücklich: Partizip und Gerundium | veröffentlicht | Welle 8; Audio vollständig |
 | 20 Mit Nachdruck: starke Pronomen und Doppelung | veröffentlicht | Welle 9; Audio läuft |
-| 21 So spricht man wirklich: gesprochene Sprache | Konsistenz | Welle 10; überarbeitet |
-| 22 Vielleicht, wahrscheinlich, sicher: Modalität | fertig | Welle 9; wartet auf 21 |
+| 21 So spricht man wirklich: gesprochene Sprache | veröffentlicht | Welle 10; Audio ausstehend |
+| 22 Vielleicht, wahrscheinlich, sicher: Modalität | veröffentlicht | Welle 9; Audio ausstehend |
 | 24 Was wäre, wenn: Irrealis und Wünsche | Übungen | Welle 10; Entwurf fertig |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
@@ -41,3 +41,5 @@
 - Hörübungen ohne sichtbaren Text sind jetzt möglich (`::: {lang="el" .listen}`): in Kapitel 11 (11.5, 11.6) nachrüsten, künftig in Hör-Aufträgen nutzen.
 - Vokabeltabellen: Glossar verlangt ab Kapitel 13 den Mediopassiv-Aorist bei passivfähigen Verben; fehlt bei καίω (14), κλειδώνω, σπάω, χαλάω (19). Regel lockern oder nachtragen.
 - Kapitel 16 (#sec-nebensatz-na-aspekt, „Die να-Form kennt keine Vergangenheit“): nach Veröffentlichung von 22 per /revise einen Vorverweis auf die Ausnahme (Kapitel 18 φέρεται να, Kapitel 22 πρέπει να έφυγε) setzen, mit Änderungsvermerk.
+- Zitat-Zeichensetzung (Punkt nach »): in älteren Kapiteln noch 14-mal innen (3 ×6, 4, 6, 8 ×2, 10, 12, 14, 16); bei Gelegenheit angleichen (Achtung: ändert Audio-Schlüssel in lang-Blöcken).
+- Kapitel 9: „auf dem Peloponnes“ → „auf der Peloponnes“ (Mehrheit im Buch, Glossar).

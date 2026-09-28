@@ -41,6 +41,8 @@ book:
     - chapters/18-indirekte-rede.qmd
     - chapters/19-partizip-gerundium.qmd
     - chapters/20-starke-pronomen.qmd
+    - chapters/21-gesprochene-sprache.qmd
+    - chapters/22-modalitaet.qmd
 
 lang: de
 

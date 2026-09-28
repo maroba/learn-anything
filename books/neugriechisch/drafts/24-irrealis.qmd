@@ -193,7 +193,62 @@ fragen.“ Das Imperfekt steht auch für einzelne und künftige Ereignisse.
   muss mit [θα πήγαινα]{lang="el"} weitermachen.
 :::
 
-<!-- EXERCISE: irreale Bedingungssätze der Gegenwart bilden; reale Sätze (Kapitel-17-Muster, Thema Istanbul-Reise, Hitze, Lotterie) laut ins Irreale umformen, dabei Verben ohne perfektiven Stamm, -ούσα-Imperfekt und ein Deponens (ερχόμουν) einbauen; ein Satz mit „Εγώ στη θέση σου“, Umformen, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 24.1: Schön wär’s
+
+Sechs Pläne für Istanbul, alle real wie in Kapitel 17. Mach sie laut irreal: Die Wirklichkeit
+spielt nicht mit.
+
+::: {lang="el"}
+1. Αν έχω χρόνο αύριο, θα πάω στο μουσείο.
+2. Αν δεν κάνει τόση ζέστη, θα περπατήσουμε ως τη θάλασσα.
+3. Αν ξέρει ο οδηγός αγγλικά, θα τον ρωτήσουμε.
+4. Αν έρθεις μαζί μας, θα δεις τα τείχη.
+5. Αν κερδίσω το λαχείο, θα μείνω έναν μήνα στην Πόλη.
+6. Αν μπορώ, θα σε πάρω τηλέφωνο από το ξενοδοχείο.
+:::
+
+Zum Schluss: Ein Freund will um zwölf Uhr mittags die ganze Landmauer ablaufen. Rat ihm ab, mit
+[Εγώ στη θέση σου …]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Beide Hälften rücken eine Stufe zurück: Bedingung ins Imperfekt, Folge [θα]{lang="el"} +
+Imperfekt. Kein Aorist bleibt stehen, auch [αύριο]{lang="el"} nicht.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Imperfekt vom Präsensstamm: [μένω → έμενα, βλέπω → έβλεπα]{lang="el"}; Verben auf
+[-άω/-ώ]{lang="el"} auf [-ούσα]{lang="el"}; [έρχομαι → ερχόμουν, ερχόσουν]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+::: {lang="el"}
+1. Αν είχα χρόνο αύριο, θα πήγαινα στο μουσείο.
+2. Αν δεν έκανε τόση ζέστη, θα περπατούσαμε ως τη θάλασσα.
+3. Αν ήξερε ο οδηγός αγγλικά, θα τον ρωτούσαμε.
+4. Αν ερχόσουν μαζί μας, θα έβλεπες τα τείχη.
+5. Αν κέρδιζα το λαχείο, θα έμενα έναν μήνα στην Πόλη.
+6. Αν μπορούσα, θα σε έπαιρνα τηλέφωνο από το ξενοδοχείο.
+:::
+
+Zu 1: [αύριο]{lang="el"} bleibt stehen, das Imperfekt zeigt den Abstand zur Wirklichkeit, nicht
+die Zeit. Zu 3: [ξέρω]{lang="el"} hat ohnehin nur [ήξερα]{lang="el"}. Zu 4: umgangssprachlich
+auch [ερχόσουνα]{lang="el"}. Im schnellen Gespräch [θα ’βλεπες, θα ’μενα]{lang="el"}.
+
+Zum Schluss, zum Beispiel: [Εγώ στη θέση σου θα πήγαινα το πρωί.]{lang="el"} Oder: [Εγώ στη
+θέση σου δε θα περπατούσα με τέτοια ζέστη.]{lang="el"} Jedes [θα]{lang="el"} + Imperfekt passt.
+
+**Typische Fehler:** die Folge stehen lassen ([αν ερχόσουν, θα δεις]{lang="el"}: halb irreal,
+halb real); \*[αν θα μπορούσα]{lang="el"}; [αν κέρδισα]{lang="el"} mit Aorist: Das ist eine echte
+Vergangenheit, „falls ich gewonnen habe“.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -261,7 +316,59 @@ Imperfekt; der Zusammenhang zeigt dann, dass Vergangenes gemeint ist.
 schon weg gewesen sein“); das ist Stoff für Kapitel 25.
 :::
 
-<!-- EXERCISE: irreale Bedingungssätze der Vergangenheit; eine Kette kontrafaktischer Sätze zu 1453 und zu einem verpassten Reisetag mündlich ins Griechische übersetzen (αν + Plusquamperfekt, θα + Plusquamperfekt), dazu zwei gemischte Sätze (Bedingung Vergangenheit, Folge jetzt) und ein Satz mit ξέρω/είμαι, der nur das Imperfekt zulässt; Lösung nennt die Imperfekt-Variante als ebenfalls richtig, Übersetzung, Schwierigkeit 3 -->
+::: {.callout-note .exercise}
+## Übung 24.2: Hätte, wäre, wenn
+
+Sprich die Sätze auf Griechisch. 1 bis 3 und 6 spielen ganz in der Vergangenheit, bei 4 und 5
+ist die Folge jetzt.
+
+1. Wenn die venezianische Flotte früher aufgebrochen wäre, wäre sie rechtzeitig angekommen.
+2. Wenn du um sieben aufgestanden wärst, hätten wir das Schiff nicht verpasst.
+3. Wenn wir einen Hut mitgenommen hätten, wären wir nicht so früh ins Hotel zurückgegangen.
+4. Wenn die Stadt nicht gefallen wäre, würde man hier heute Griechisch sprechen.
+5. Wenn ich Türkisch gelernt hätte, könnte ich jetzt die Speisekarte lesen.
+6. Wenn ich das gewusst hätte, wäre ich am Morgen gekommen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Vergangenheit: [αν]{lang="el"} + [είχα]{lang="el"} + Form auf [-ει]{lang="el"}, Folge
+[θα είχα]{lang="el"} + Form auf [-ει]{lang="el"}. Wo die Folge „jetzt“ meint, [θα]{lang="el"} +
+Imperfekt.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+„Wäre angekommen“ heißt trotzdem [θα είχε φτάσει]{lang="el"}: immer [έχω]{lang="el"}. Und in 6:
+Hat [ξέρω]{lang="el"} ein Plusquamperfekt?
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+::: {lang="el"}
+1. Αν ο στόλος της Βενετίας είχε φύγει νωρίτερα, θα είχε φτάσει έγκαιρα.
+2. Αν είχες ξυπνήσει στις επτά, δε θα είχαμε χάσει το πλοίο.
+3. Αν είχαμε φέρει καπέλο, δε θα είχαμε γυρίσει τόσο νωρίς στο ξενοδοχείο.
+4. Αν δεν είχε πέσει η Πόλη, σήμερα εδώ θα μιλούσαν ελληνικά.
+5. Αν είχα μάθει τουρκικά, τώρα θα μπορούσα να διαβάσω το μενού.
+6. Αν το ήξερα, θα είχα έρθει το πρωί.
+:::
+
+Zu 6: [ξέρω]{lang="el"} hat kein Plusquamperfekt, also [αν το ήξερα]{lang="el"}; der Zusammenhang
+macht es zur Vergangenheit. Zu 5: Nach [να]{lang="el"} die zeitlose Form, das „könnte“ steckt in
+[θα μπορούσα]{lang="el"}.
+
+**Ebenfalls richtig**, im Gespräch häufig: das Imperfekt statt des Plusquamperfekts, etwa
+[Αν ξυπνούσες στις επτά, δε θα χάναμε το πλοίο.]{lang="el"} Eindeutig vergangen ist es aber
+erst mit Plusquamperfekt.
+
+**Typische Fehler:** \*[θα ήταν φτάσει]{lang="el"} nach deutschem „wäre“ oder französischem
+[*serait arrivée*]{lang="fr"}; [θα έφτασε]{lang="el"} mit Aorist ist eine Vermutung („ist wohl
+angekommen“); in 4 und 5 auch die Folge ins Plusquamperfekt setzen, dann geht das „heute“ verloren.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -309,7 +416,53 @@ Vergangenheit ([είπε ότι θα ερχόταν]{lang="el"}), Irrealis ([α�
 ερχόταν]{lang="el"}), Höflichkeit ([θα ήθελα, θα μπορούσατε]{lang="el"}).
 :::
 
-<!-- EXERCISE: drei Aufgaben von θα + Imperfekt unterscheiden; 8–10 kurze Sätze (Reise, Behörde, Anruf, 1453) den Aufgaben a) Futur der Vergangenheit, b) Irrealis, c) Höflichkeit zuordnen, dazu zwei Distraktoren mit θα + Aorist (Vermutung) als d) „nichts davon“; Antwort im Chat als „1a, 2c …“, Zuordnen, Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 24.3: Welches „würde“?
+
+Ordne zu: a) Futur der Vergangenheit, b) Irrealis, c) Höflichkeit, d) nichts davon.
+Im Chat: „1a, 2c …“.
+
+::: {lang="el"}
+1. Ο Ουρβανός ήξερε ότι ο σουλτάνος θα τον πλήρωνε.
+2. Θα μπορούσατε να μου πείτε πού είναι το μουσείο;
+3. Αν δεν έκανε τόση ζέστη, θα καθόμασταν έξω.
+4. Ο Νίκος δεν ήρθε ακόμα. Θα έχασε το λεωφορείο.
+5. Θα ήθελα ένα ραντεβού για την Πέμπτη, παρακαλώ.
+6. Μου είπε ότι θα με έπαιρνε τηλέφωνο το απόγευμα.
+7. Θα σε έπαιρνα τηλέφωνο, αλλά τελείωσε η μπαταρία.
+8. Θα έλεγα ότι το πλοίο είναι καλύτερο από το λεωφορείο.
+9. Δεν απαντάει. Θα ξέχασε το κινητό στο σπίτι.
+10. Αν είχε κι ο Κωνσταντίνος κανόνια, θα άντεχε η Πόλη;
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Schau auf die Umgebung: [ήξερε ότι, είπε ότι]{lang="el"} davor, [αν]{lang="el"} oder
+[αλλά]{lang="el"} daneben, eine Bitte an Fremde.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zwei Sätze haben gar kein Imperfekt nach [θα]{lang="el"}: [έχασε, ξέχασε]{lang="el"} sind Aoriste.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1a, 2c, 3b, 4d, 5c, 6a, 7b, 8c, 9d, 10b.**
+
+- 1 und 6: Blick nach vorn von einem Punkt in der Vergangenheit, nach [ήξερε ότι, είπε ότι]{lang="el"}.
+- 7: der Plan, aus dem nichts wurde, „ich wollte ja anrufen“. Er steht zwischen a und b; mit
+  [αλλά]{lang="el"} zählt er zum Irrealis, a ist vertretbar.
+- 8: eine abgefederte Meinung, keine Bedingung dahinter.
+- 10: Imperfekt für 1453, der Irrealis der Vergangenheit im Gesprächsstil.
+- 4 und 9: [θα]{lang="el"} + Aorist ist eine Vermutung, „hat wohl verpasst, wohl vergessen“.
+
+**Typischer Fehler:** jedes [θα]{lang="el"} vor einer Vergangenheitsform für „würde“ halten.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -365,7 +518,62 @@ du nicht gekommen bist“, mit dem normalen Aorist nach [που]{lang="el"} wie 
   können“.
 :::
 
-<!-- EXERCISE: Bedauern und Vorwürfe ausdrücken; kurze Situationen (Freund verpasst Konzert, Fähre verpasst, Behörde ohne Termin, Mauern in der Mittagshitze) mit passender Reaktion laut beantworten: έπρεπε να + Imperfekt/Plusquamperfekt, θα μπορούσες να, θα έπρεπε να, Κρίμα που; plus Fehler finden in drei Sätzen (\*έπρεπε να έφυγε, \*θα έπρεπε να θα …), Reagieren und Fehler finden, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 24.4: Zu spät
+
+**Teil A.** Was sagst du? Laut, ein Satz genügt.
+
+1. Du warst gestern auf einem großartigen Konzert, ein Freund nicht.
+2. Ihr habt das Schiff nach Syros verpasst, weil ihr zu lange im Café saßt. Ihr ärgert euch über
+   euch selbst.
+3. Du stehst ohne Termin im Amt und wirst heimgeschickt. Das hättest du wissen müssen.
+4. Deine Freundin wusste, dass das Museum montags zu ist, und hat nichts gesagt. Mach ihr einen
+   Vorwurf.
+5. Eine Kollegin konnte nicht zu deinem Vortrag kommen. Du bedauerst es, ohne Vorwurf.
+
+**Teil B.** Jeder Satz hat einen Fehler. Finde und verbessere ihn.
+
+::: {lang="el" .no-audio}
+1. Έπρεπε να έφυγες νωρίτερα.
+2. Θα έπρεπε να θα είχαμε έρθει το πρωί.
+3. Κρίμα που δεν έρθεις.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Bedauern: [έπρεπε να]{lang="el"} + Imperfekt oder Plusquamperfekt. Vorwurf geht auch mit
+[θα μπορούσες να]{lang="el"}. Ohne Schuld: [Κρίμα που …]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil B: Der Aorist zeigt nach [να]{lang="el"} nichts Unwirkliches; nach [να]{lang="el"} steht nie
+[θα]{lang="el"}; nach [Κρίμα που]{lang="el"} ein normales Verb wie nach [λυπάμαι που]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A** (andere Verben sind natürlich möglich):
+
+1. [Έπρεπε να ήσουν εκεί!]{lang="el"}
+2. [Έπρεπε να είχαμε φύγει νωρίτερα.]{lang="el"} Weicher: [Θα έπρεπε να …]{lang="el"}
+   [Έπρεπε να φύγουμε νωρίτερα]{lang="el"} wäre doppeldeutig („wir mussten früher los“).
+3. [Έπρεπε να το ήξερα.]{lang="el"} Oder: [Έπρεπε να είχα κλείσει ραντεβού.]{lang="el"}
+4. [Θα μπορούσες να μου το πεις!]{lang="el"} Oder: [Έπρεπε να μου το είχες πει!]{lang="el"}
+5. [Κρίμα που δεν ήρθες.]{lang="el"} Das Bedauern steckt in [Κρίμα]{lang="el"}, das Verb ist ein
+   gewöhnlicher Aorist.
+
+**Teil B**
+
+1. [Έπρεπε να είχες φύγει νωρίτερα.]{lang="el"} Im Gespräch auch [έπρεπε να
+   έφευγες]{lang="el"}. [να φύγεις]{lang="el"} ist grammatisch, aber doppeldeutig.
+2. Das zweite [θα]{lang="el"} muss weg: [Θα έπρεπε να είχαμε έρθει το πρωί.]{lang="el"}
+3. [Κρίμα που δεν ήρθες.]{lang="el"} Nach [που]{lang="el"} steht keine zeitlose Form.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -451,7 +659,77 @@ ist, hat vermutlich keine Freunde mehr.
 \*[Ας να πάμε]{lang="el"}: [ας]{lang="el"} ersetzt das [να]{lang="el"}, es steht nicht daneben.
 :::
 
-<!-- EXERCISE: Wünsche mit μακάρι να und Aufforderungen/Bedauern mit ας; Teil A: für 6–8 Wünsche die richtige Form nach μακάρι να wählen (offen/unerfüllbar jetzt/unerfüllbar vorbei, Hilfe über span. ojalá venga/supiera/hubiera), Teil B: ας-Sätze den drei Gebrauchsweisen (Vorschlag, soll er doch, Bedauern) zuordnen, Teil C: drei Situationen laut mit ας oder μακάρι beantworten; Auswählen und Zuordnen, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 24.5: Μακάρι und ας
+
+**Teil A.** Setz die passende Form ein. Gemeint ist: 1 hoffentlich, 2 wenn doch, 3 hätten wir
+doch, 4 hoffentlich, 5 wäre ich doch, 6 hätte ich doch, 7 hoffentlich.
+
+::: {lang="el" .no-audio}
+1. Μακάρι να \_\_\_ (βρίσκω, εμείς) θέση στο πλοίο αύριο.
+2. Μακάρι να \_\_\_ (ξέρω, εγώ) τουρκικά.
+3. Μακάρι να \_\_\_ (φέρνω, εμείς) νερό.
+4. Μακάρι να \_\_\_ (είμαι) ανοιχτό το μουσείο αύριο.
+5. Μακάρι να \_\_\_ (είμαι, εγώ) είκοσι χρόνια μικρότερος.
+6. Μακάρι να μην του το \_\_\_ (λέω, εγώ).
+7. Μακάρι να με \_\_\_ (παίρνω, αυτή) τηλέφωνο σήμερα.
+:::
+
+**Teil B.** Vorschlag (V), soll er doch (S) oder Bedauern (B)? Im Chat: „1V, 2S …“.
+
+::: {lang="el"}
+1. Ας καθίσουμε λίγο στη σκιά.
+2. Αν δε θέλει να έρθει, ας μείνει σπίτι.
+3. Ας είχες φέρει καπέλο!
+4. Ας ρωτήσουμε κάποιον.
+5. Ας μου το έλεγες νωρίτερα!
+6. Ας είναι.
+:::
+
+**Teil C.** Antworte laut mit [μακάρι]{lang="el"} oder [ας]{lang="el"}.
+
+1. Jemand fragt: [Θα βρούμε εισιτήρια για τη συναυλία;]{lang="el"}
+2. Dein Handy ist dir gerade ins Meer gefallen. Was sagst du zu dir selbst?
+3. Vor dem Museum steht eine lange Schlange. Mach einen Vorschlag.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Kann der Wunsch noch in Erfüllung gehen? Spanisch hilft:
+[*ojalá venga / supiera / hubiera traído*]{lang="es"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Offen: zeitlose Form, bei [είμαι]{lang="el"} also [είναι]{lang="el"}. Jetzt unmöglich: Imperfekt.
+Vorbei: [είχα]{lang="el"} + Form auf [-ει]{lang="el"}. Teil B: Person und Form nach
+[ας]{lang="el"} entscheiden.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A:** 1 [βρούμε]{lang="el"}, 2 [ήξερα]{lang="el"}, 3 [είχαμε φέρει]{lang="el"},
+4 [είναι]{lang="el"}, 5 [ήμουν]{lang="el"}, 6 [είχα πει]{lang="el"} (im Gespräch auch
+[έλεγα]{lang="el"}), 7 [πάρει]{lang="el"}.
+
+In 1 und 7 wäre das Imperfekt ([να βρίσκαμε, να με έπαιρνε]{lang="el"}) nicht falsch, machte aber
+aus „hoffentlich“ ein hoffnungsloses „wenn doch“. Ebenso 4: [Μακάρι να ήταν ανοιχτό]{lang="el"}
+sagt, du weißt schon, dass es zu ist.
+
+**Teil B:** 1V, 2S, 3B, 4V, 5B, 6S. [Ας είναι]{lang="el"} ist das Achselzucken, „sei’s drum“.
+
+**Teil C**, zum Beispiel:
+
+1. [Μακάρι!]{lang="el"} oder [Μακάρι να βρούμε.]{lang="el"}
+2. [Μακάρι να το είχα αφήσει στο ξενοδοχείο!]{lang="el"} Schärfer: [Ας το είχα αφήσει στο
+   ξενοδοχείο!]{lang="el"}
+3. [Ας έρθουμε αύριο πιο νωρίς.]{lang="el"} Oder: [Ας πάμε πρώτα να φάμε κάτι.]{lang="el"}
+
+**Typischer Fehler:** \*[ας να έρθουμε]{lang="el"}; [ας]{lang="el"} ersetzt das [να]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -512,7 +790,64 @@ Vor dem Hören: Achte auf die Formen dieses Kapitels.
 — Ας με πάρει όσο θέλει. Εγώ θα είμαι στην πρώτη σειρά.
 :::
 
-<!-- EXERCISE: Hörverstehen der Hörspur mit ▶, ohne den Text aufzuklappen, höchstens zweimal; 6–7 Multiple-Choice-Fragen nur zum Inhalt (wer fehlte und warum, wer am Ende auf der Bühne spielte, ob Nikos Bescheid wusste, warum es kein Video gibt, wann und wo das nächste Konzert ist, was Nikos tun will, wenn der Chef anruft), keine Frage darf von Intonation abhängen; zweiter Durchgang mit Text: jedes θα + Imperfekt als Irrealis oder Futur der Vergangenheit bestimmen und jedes μακάρι/ας als offen oder Bedauern; Hörverstehen, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 24.6: Am Telefon
+
+Hör das Telefonat mit ▶, ohne den Text aufzuklappen, höchstens zweimal. Im Chat: „1b, 2…“.
+
+1. Wer ist am Ende auf die Bühne gestiegen? a) der Vater des Gitarristen, b) der Großvater des
+   Gitarristen, c) ein Gast aus Athen.
+2. Nikos sagt, er hätte es nicht gewusst. Was antwortet Eleni? a) Sie hat es ihm am Donnerstag
+   gesagt. b) Sie wusste es selbst nicht. c) Es stand im Internet.
+3. Warum war Nikos nicht da? a) Er war krank. b) Er hat verschlafen. c) Der Chef hat ihn um
+   sieben angerufen.
+4. Was wäre laut Nikos passiert, wenn er nein gesagt hätte? a) Er müsste jetzt Arbeit suchen.
+   b) Nichts. c) Er hätte eine andere Schicht bekommen.
+5. Warum gibt es kein Video? a) Filmen war verboten. b) Eleni hat es vergessen. c) Der Akku war
+   leer.
+6. Das nächste Konzert ist … a) nächste Woche in Thessaloniki. b) nächsten Monat in Athen.
+   c) nächsten Monat in Thessaloniki.
+7. Und wenn der Chef dann wieder anruft? a) Egal, Nikos sitzt in der ersten Reihe. b) Nikos geht
+   ran und sagt nein. c) Nikos lässt das Handy zu Hause.
+
+**Zweiter Durchgang, mit Text:** Bestimm jedes [θα]{lang="el"} + Imperfekt als Irrealis oder
+Futur der Vergangenheit, jedes [μακάρι]{lang="el"} und [ας]{lang="el"} als offen (Wunsch,
+Vorschlag, soll er doch) oder Bedauern.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Frage 2: Achte auf den Wochentag. Frage 6: [ton ˈalo ˈmina], [stin aˈθina]. Frage 7: die letzte Zeile.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zweiter Durchgang: fünfmal [θα]{lang="el"} + Imperfekt, zweimal [μακάρι]{lang="el"}, zweimal
+[ας]{lang="el"}. Achte darauf, was davorsteht: [ήξερα ότι, είπες ότι, αλλά, αν]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1b, 2a, 3c, 4a, 5c, 6b, 7a.**
+
+**Zweiter Durchgang**
+
+- Futur der Vergangenheit: [ήξερα ότι θα ερχόταν]{lang="el"}, [μου είπες ότι θα
+  ερχόσουν]{lang="el"}. Der ganze Satz [Αν ήξερα …, θα είχα αφήσει …]{lang="el"} ist trotzdem ein
+  Irrealis der Vergangenheit, mit [ήξερα]{lang="el"}, weil [ξέρω]{lang="el"} kein
+  Plusquamperfekt hat.
+- Irrealis: [θα ερχόμουν, αλλά]{lang="el"} (der geplatzte Plan), [θα μπορούσες να του
+  πεις]{lang="el"} (Vorwurf), [Αν έλεγα όχι, τώρα θα έψαχνα]{lang="el"}: gemischt, die Bedingung
+  vergangen (Imperfekt im Gesprächsstil), die Folge jetzt.
+- Bedauern: [Μακάρι να είχα τραβήξει]{lang="el"}. Offen: [Μακάρι να ξαναπαίξουν]{lang="el"},
+  [Ας πάμε μαζί]{lang="el"} (Vorschlag), [Ας με πάρει όσο θέλει]{lang="el"} (soll er doch).
+
+**Falle:** [Μου είχε τελειώσει η μπαταρία]{lang="el"} ist ein gewöhnliches Plusquamperfekt; der
+Akku war wirklich leer.
+:::
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -570,7 +905,49 @@ Greek](https://www.youtube.com/@EasyGreekVideos) immer wieder auf der Straße. B
 Nach [αν]{lang="el"} kommt eine Vergangenheitsform, danach ein [θα]{lang="el"} mit einer
 Vergangenheitsform. Besonders häufig sind [θα ήθελα, θα πήγαινα, θα έκανα, θα αγόραζα]{lang="el"}.
 
-<!-- EXERCISE: Hör-Auftrag mit echter Quelle; auf Easy Greek (https://www.youtube.com/@EasyGreekVideos, keine konkrete Video-URL) ein Straßeninterview mit Traum- oder Was-wäre-wenn-Fragen suchen (engl. Suchwörter what would you do, if you could, wish), 3–4 Minuten erst ohne, dann mit griechischen Untertiteln; Striche für θα + Imperfekt und μακάρι zählen, zwei Sätze nachsprechen, eigene Antwort auf die Frage laut in zwei irrealen Sätzen; offene Lösung mit Auswertungshilfe, Hör-Auftrag, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 24.7: Hör-Auftrag
+
+Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) ein Straßeninterview mit Traum-
+oder Was-wäre-wenn-Fragen (englische Suchwörter [*what would you do, if you could,
+wish*]{lang="en"}).
+
+1. Hör drei bis vier Minuten **ohne Untertitel** und mach einen Strich für jedes [θa] mit
+   Vergangenheitsform dahinter ([θa ˈiθela], [θa ˈpiɣena]) und für jedes [maˈkari].
+2. Hör dieselbe Stelle **mit griechischen Untertiteln** und prüf deine Striche.
+3. Merk dir zwei Sätze und sprich sie nach.
+4. Beantworte die Frage des Interviews selbst, laut, in zwei irrealen Sätzen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Das Augment wird oft verschluckt: [θaˈθela] für [θα ήθελα]{lang="el"}. [θα ήθελα]{lang="el"}
+zählt mit, auch wenn es nur höflich gemeint ist.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Schritt 4: [Αν]{lang="el"} + Imperfekt, dann [θα]{lang="el"} + Imperfekt. Brauchbar sind
+[θα πήγαινα, θα έκανα, θα αγόραζα, θα ζούσα]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Jedes Interview ist anders; so wertest du aus:
+
+- **Zählung:** [θα ήθελα]{lang="el"} ist meist der häufigste Treffer, [μακάρι]{lang="el"} steht
+  oft allein als Antwort. Die Bedingung fehlt häufig, weil die Frage sie schon gestellt hat.
+- **Falsche Striche:** [θα]{lang="el"} + Aorist oder Präsens ([θa ˈpao], [θa ˈkano]) ist Zukunft,
+  kein Irrealis.
+- **Schritt 4**, zum Beispiel: [Αν κέρδιζα το λαχείο, θα ταξίδευα έναν χρόνο. Μετά θα ζούσα
+  κοντά στη θάλασσα.]{lang="el"}
+
+**Typische Fehler:** \*[αν θα κέρδιζα]{lang="el"}; die Folge mit [θα]{lang="el"} + Aorist
+([θα ταξιδέψω]{lang="el"}).
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -715,4 +1092,64 @@ von vornherein fest. Könnten wir doch die fragen, die dabei waren. Lesen wir we
 geschrieben haben.
 :::
 
-<!-- EXERCISE: Leseverstehen und Formen im Lesetext; Teil A richtig/falsch zu Tatsachen und Gedankenspiel (u.a. Urban ging zuerst zum Kaiser; die Flotte kam rechtzeitig; die Kerkoporta-Geschichte gilt als sicher), Teil B alle irrealen Formen suchen und bestimmen (Gegenwart/Vergangenheit, Imperfekt als Vergangenheit in „Αν ήταν κλειστή“), Teil C: eigene kontrafaktische Frage zur Geschichte (z.B. „Was wäre, wenn Schliemann Troja nicht gefunden hätte?“) laut in drei irrealen Sätzen beantworten, Musterlösung; Verstehen und Sprechen, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 24.8: Nach dem Lesen
+
+**Teil A.** Richtig oder falsch? Im Chat: „1R, 2F …“.
+
+1. Urban ging zuerst zum Kaiser und dann zum Sultan.
+2. Konstantin bezahlte Urban nicht, weil er Kanonen für nutzlos hielt.
+3. Die venezianischen Schiffe kamen im April an.
+4. Dass jemand die Kerkoporta offen ließ, halten die Historiker für sicher.
+5. Laut Kolumne hätte es ohne die Gelehrten aus Konstantinopel wohl keine Renaissance gegeben.
+6. Der Sultan hatte mehr Geld als der Kaiser.
+
+**Teil B.** Such alle irrealen Formen. Ist Gegenwart oder Vergangenheit gemeint? Drei Stellen
+sehen ähnlich aus und sind nicht irreal; welche?
+
+**Teil C.** Was wäre, wenn Schliemann Troja nicht gefunden hätte? Antworte laut in drei irrealen
+Sätzen, einer davon mit der Folge heute.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Die Tatsachen stehen im Aorist; was nach [αν]{lang="el"} im Plusquamperfekt steht, ist
+nicht geschehen. Teil B: Ein Plusquamperfekt ohne [αν]{lang="el"} und [θα]{lang="el"} erzählt
+einfach, was vorher war.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil B: Nicht jedes [αν]{lang="el"} heißt „wenn“. Teil C: [ο Σλήμαν, η Τροία, σκάβω,
+βρίσκω]{lang="el"}; „die Folge heute“ ist [θα]{lang="el"} + Imperfekt.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A:** 1R, 2F (er hatte kein Geld), 3F ([Αν είχαν φτάσει τον Απρίλιο]{lang="el"}: sind sie
+eben nicht), 4F ([Πολλοί ιστορικοί αμφιβάλλουν]{lang="el"}), 5F ([Μάλλον ναι, απλώς λίγο
+αλλιώς]{lang="el"}), 6R.
+
+**Teil B**
+
+- Vergangenheit, Plusquamperfekt: [Κι αν δεν είχε πέσει]{lang="el"} (nur die Bedingung), [αν τον
+  είχε πληρώσει … δε θα είχαν χτυπήσει]{lang="el"}, [αν είχαν φτάσει … θα είχε
+  αντέξει]{lang="el"}, [θα είχαν φύγει οι λόγιοι]{lang="el"}.
+- Vergangenheit, aber Imperfekt: [αν ήταν κλειστή, θα άλλαζε]{lang="el"} ([είμαι]{lang="el"} hat
+  kein Plusquamperfekt), [αν η Πόλη δεν έπεφτε ποτέ]{lang="el"}, [θα γινόταν η
+  Αναγέννηση]{lang="el"}. Gemeint ist 1453 und danach.
+- Gegenwart: [θα υπήρχε σήμερα]{lang="el"} (gemischt), [Μακάρι να μπορούσαμε]{lang="el"}.
+- Nicht irreal: [δεν είχε χρήματα]{lang="el"} (Tatsache), [Πολλοί είχαν φύγει ήδη
+  πριν]{lang="el"} (dieselbe Form wie in der Frage davor, diesmal wirklich passiert), [για το αν
+  έγινε έτσι]{lang="el"} ([αν]{lang="el"} = ob). [Ας παίξουμε, ας διαβάσουμε]{lang="el"} sind
+  Vorschläge.
+
+**Teil C**, zum Beispiel: [Αν ο Σλήμαν δεν είχε βρει την Τροία, μάλλον θα την είχε βρει κάποιος
+άλλος. Αν δεν είχε σκάψει εκεί, σήμερα δε θα ήξερε όλος ο κόσμος το όνομά του. Και οι τουρίστες
+θα πήγαιναν κάπου αλλού.]{lang="el"}
+
+**Typischer Fehler:** [θα βρήκε]{lang="el"} mit Aorist heißt „hat wohl gefunden“, kein Irrealis.
+:::
