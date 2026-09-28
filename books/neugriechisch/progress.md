@@ -24,8 +24,8 @@
 | 18 Er sagt, dass: indirekte Rede und indirekte Fragen | veröffentlicht | Welle 9; Audio vollständig |
 | 19 Müde, aber glücklich: Partizip und Gerundium | veröffentlicht | Welle 8; Audio vollständig |
 | 20 Mit Nachdruck: starke Pronomen und Doppelung | veröffentlicht | Welle 9; Audio vollständig |
-| 21 So spricht man wirklich: gesprochene Sprache | veröffentlicht | Welle 10; Audio läuft |
-| 22 Vielleicht, wahrscheinlich, sicher: Modalität | veröffentlicht | Welle 9; Audio läuft |
+| 21 So spricht man wirklich: gesprochene Sprache | veröffentlicht | Welle 10; Audio vollständig |
+| 22 Vielleicht, wahrscheinlich, sicher: Modalität | veröffentlicht | Welle 9; Audio vollständig |
 | 23 Thessaloniki und Zwischenbilanz | Überarbeitung | Welle 11; beide Reviews da |
 | 24 Was wäre, wenn: Irrealis und Wünsche | fertig | Welle 10; wartet auf 23 |
 | 25 Er muss gegangen sein: Vermutungen über die Vergangenheit | Entwurf | Welle 11 |
