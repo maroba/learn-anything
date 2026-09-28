@@ -30,7 +30,7 @@
 | 24 Was wäre, wenn: Irrealis und Wünsche | veröffentlicht | Welle 10; Audio läuft |
 | 25 Er muss gegangen sein: Vermutungen über die Vergangenheit | Konsistenz | Welle 11; überarbeitet |
 | 26 Wortbildung I: Präfixe und Verkleinerungen | Entwurf | Welle 12 |
-| 29 Argumentieren | Übungen | Welle 11; Entwurf fertig |
+| 29 Argumentieren | im Review | Welle 11; Übungen fertig |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 
