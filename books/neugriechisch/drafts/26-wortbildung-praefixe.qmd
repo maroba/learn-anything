@@ -680,8 +680,8 @@ zwischen [συν-]{lang="el"} und [ηλικ-]{lang="el"} noch ein [ομ-]{lang="
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-B: [παρα-]{lang="el"} + [φάγα]{lang="el"}, [ξανα-]{lang="el"} + [γραψα]{lang="el"}: Die
-Vorsilbe liefert die fehlende Silbe, das [ε-]{lang="el"} fällt. Bei [ήπια, ήρθα]{lang="el"}
+B: In [έφαγα, έγραψα, έφυγε]{lang="el"} liefert das [ε-]{lang="el"} nur die fehlende Silbe.
+Mit Vorsilbe fehlt keine mehr. Bei [ήπια, ήρθα]{lang="el"}
 gehört das [ή-]{lang="el"} zum Stamm. C: [παραλίγο να]{lang="el"}, [Μη με παρεξηγείς]{lang="el"},
 [Με συγχωρείτε]{lang="el"}.
 :::
@@ -703,8 +703,9 @@ gehört das [ή-]{lang="el"} zum Stamm. C: [παραλίγο να]{lang="el"}, [
 **B.** [παράφαγα]{lang="el"} [paˈrafaɣa], [ξανάγραψα]{lang="el"} [ksaˈnaɣrapsa],
 [ξέφυγε]{lang="el"} [ˈksefiʝe], [ξεκλείδωσες]{lang="el"} [kseˈkliðoses],
 [παραήπιαμε]{lang="el"} [paraˈipçame], [ξαναήρθαν]{lang="el"} [ksanaˈirθan].
-Das Augment steht in keiner dieser Formen extra: Bei den ersten vier ersetzt es die Vorsilbe, bei
-den letzten beiden gehört [ή-]{lang="el"} zum Stamm. Häufige Fehlform: [ξαναέγραψα]{lang="el"},
+In den ersten drei Formen trägt die Vorsilbe die Betonung und ersetzt das Augment;
+[κλείδωσα]{lang="el"} braucht schon ohne Vorsilbe keins. In den letzten beiden gehört
+[ή-]{lang="el"} zum Stamm und bleibt. Häufige Fehlform: [ξαναέγραψα]{lang="el"},
 also Augment und Vorsilbe zugleich; die Standardform ist [ξανάγραψα]{lang="el"}.
 
 **C.** [Παραλίγο να χάσω το πλοίο.]{lang="el"} · [Μη με παρεξηγείς, αλλά είναι πολύ
