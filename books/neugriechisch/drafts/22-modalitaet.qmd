@@ -11,6 +11,8 @@ title: "Vielleicht, wahrscheinlich, sicher: Modalität"
   [έπρεπε]{lang="el"}; [μπορώ]{lang="el"} wird konjugiert.
 - **Kapitel 5 und 16:** Nach [θέλω, μπορώ, πρέπει]{lang="el"} im Sinn von Wollen, Können, Müssen
   und nach [για να]{lang="el"} steht keine Vergangenheit: \*[για να βρήκε]{lang="el"}.
+- **Kapitel 18:** [Ο ύποπτος φέρεται να ομολόγησε.]{lang="el"} „Der Verdächtige soll gestanden
+  haben.“ Dort stand schon einmal ein Aorist nach [να]{lang="el"}.
 - [ίσως]{lang="el"} „vielleicht“ (Kapitel 2), [μάλλον]{lang="el"} „wahrscheinlich“ (Kapitel 5).
 :::
 
@@ -99,18 +101,20 @@ die Sprecher meinen:
 
 Wie sicher etwas ist, wie nötig oder wie möglich: Das nennt die Grammatik **Modalität**. Zwei
 Überraschungen stecken schon in der Tabelle. [πρέπει να]{lang="el"} heißt nicht immer „müssen“,
-und nach [να]{lang="el"} steht mit [έφυγε]{lang="el"} ein Aorist, obwohl Kapitel 16 genau das
-verboten hat.
+und nach [να]{lang="el"} steht mit [έφυγε]{lang="el"} ein Aorist, obwohl die
+[να]{lang="el"}-Form laut Kapitel 16 keine Vergangenheit kennt.
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [αντέχω, άντεξα]{lang="el"} | [anˈdexo], [ˈandeksa] | aushalten, ertragen; [Δεν αντέχω άλλο.]{lang="el"} Ich halt’s nicht mehr aus. |
+| [αντέχω, άντεξα]{lang="el"} | [aˈdexo], [ˈadeksa] | aushalten, ertragen; [Δεν αντέχω άλλο.]{lang="el"} Ich halt’s nicht mehr aus. |
 | [λιώνω, έλιωσα]{lang="el"} | [ˈʎono], [ˈeʎosa] | schmelzen; (vor Hitze) zerfließen |
 | [προτιμώ, προτίμησα]{lang="el"} | [protiˈmo], [proˈtimisa] | vorziehen, lieber wollen; [προτιμώ να … παρά να …]{lang="el"} lieber …, als … |
 | [η πρόγνωση (του καιρού)]{lang="el"} | [i ˈproɣnosi] | die (Wetter-)Vorhersage |
 | [η ομπρέλα]{lang="el"} | [i oˈbrela] | der Regenschirm; der Sonnenschirm |
 | [η εφαρμογή]{lang="el"} | [i efarmoˈʝi] | die App, Anwendung |
+| [η δροσιά]{lang="el"} | [i ðroˈsça] | die Kühle, Abkühlung; [κάνει δροσιά]{lang="el"} es ist angenehm kühl |
+| [δροσερός, -ή, -ό]{lang="el"} | [ðroseˈros] | kühl, frisch (angenehm) |
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -154,19 +158,19 @@ Woran erkennst du, was gemeint ist? Am Zusammenhang, und oft hilft der Aspekt:
     unterwegs.
   - [Πρέπει να είναι στο γραφείο στις εννιά.]{lang="el"} – Er muss um neun im Büro sein.
 
-Eine Mischform ist die **Erwartung**: [Πρέπει να έρθει σε λίγο.]{lang="el"} „Er müsste gleich
-kommen.“ Foto, aber keine Pflicht, sondern das, was nach Lage der Dinge passieren sollte.
-<!-- CHECK: πρέπει να + perfektive Form als Erwartung über die nahe Zukunft („müsste gleich kommen“) – idiomatisch und so verbreitet? -->
+Ein Unterfall der Vermutung ist die **Erwartung**, die Vermutung über Kommendes: Die
+„wohl“-Probe passt, die Form ist aber Foto. [Πρέπει να έρθει σε λίγο.]{lang="el"} „Er müsste
+gleich kommen“, „er kommt wohl gleich“. Keine Pflicht, sondern das, was nach Lage der Dinge
+passieren sollte.
 
-**Verneint** wird die Vermutung zu „wohl nicht“: [Δεν πρέπει να είναι σπίτι· δεν έχει
-φως.]{lang="el"} „Sie ist wohl nicht zu Hause; es brennt kein Licht.“ Als Notwendigkeit hieße
+**Verneint** wird die Vermutung zu „wohl nicht“: [Δεν πρέπει να είναι σπίτι· τα φώτα είναι
+σβηστά.]{lang="el"} „Sie ist wohl nicht zu Hause; die Lichter sind aus.“ Als Notwendigkeit hieße
 derselbe Satz „Sie darf nicht zu Hause sein“ (Kapitel 5), und das ergibt hier keinen Sinn.
-<!-- CHECK: δεν πρέπει να + Präsens als epistemisches „wohl nicht“ – natürlich? -->
 
 **[θα πρέπει να]{lang="el"}** ist die weichere Variante, beliebt in Nachrichten und
-Wetterberichten: [Θα πρέπει να πίνετε πολύ νερό.]{lang="el"} „Sie sollten viel Wasser trinken.“
-[Θα πρέπει να είναι γύρω στους σαράντα βαθμούς.]{lang="el"} „Es dürften um die vierzig Grad
-sein.“
+Wetterberichten, für Rat wie für Vermutung: [Θα πρέπει να πίνετε πολύ νερό.]{lang="el"} „Sie
+sollten viel Wasser trinken.“ [Θα πρέπει να είναι γύρω στους σαράντα.]{lang="el"} „Es dürften um
+die vierzig Grad sein.“
 
 ::: {.callout-important}
 ## Merke
@@ -175,8 +179,9 @@ sein.“
   ausdrücken.
 - **„wohl“-Probe:** Passt im Deutschen „wohl“ oder „bestimmt“ statt „muss“, ist es eine
   Vermutung.
-- Tendenz: Film über das Jetzt → Vermutung; Foto → Notwendigkeit oder Erwartung. Bei
-  [είναι, έχει]{lang="el"} entscheidet der Zusammenhang.
+- Tendenz: Film über das Jetzt → Vermutung; Foto → Notwendigkeit, oder **Erwartung**
+  (Vermutung über Kommendes), wenn die „wohl“-Probe passt. Bei [είναι, έχει]{lang="el"}
+  entscheidet der Zusammenhang.
 :::
 
 ::: {.callout-note .exercise}
@@ -193,13 +198,15 @@ c) Ακούς τον αέρα; Πρέπει να φυσάει οχτώ μποφ�
 
 d) Με τέτοια ζέστη τα παιδιά πρέπει να πίνουν νερό κάθε ώρα.
 
-e) Το αυτοκίνητό της είναι έξω. Πρέπει να είναι σπίτι.
+e) Το αυτοκίνητό της είναι παρκαρμένο απέξω. Πρέπει να είναι σπίτι.
 
 f) Το πλοίο φεύγει στις εφτά και μισή. Πρέπει να είμαστε στο λιμάνι στις εφτά.
 
 g) Με τέτοιο μελτέμι, στη Νάξο θα πρέπει να κάνει δροσιά.
 
 h) Θα πρέπει να ρωτήσετε πρώτα στο λιμάνι.
+
+i) Το πλοίο έφυγε στις επτά. Πρέπει να φτάσει στις έντεκα.
 :::
 :::
 
@@ -212,28 +219,32 @@ Setz „wohl“ statt „muss“ ein. Ergibt der Satz dann noch Sinn, und zwar d
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Foto → eher N; Film über das Jetzt → eher V; Film für eine Gewohnheit → N. Bei e) und f)
-entscheidet nur der erste Satz: Liefert er ein Indiz oder einen Plan?
+Film über das Jetzt → eher V; Film für eine Gewohnheit → N; Foto → N, außer die
+„wohl“-Probe passt (Erwartung, also V). Bei e), f) und i) entscheidet der erste Satz: Liefert er
+ein Indiz oder einen Plan?
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**aV, bN, cV, dN, eV, fN, gV, hN.**
+**aV, bN, cV, dN, eV, fN, gV, hN, iV.**
 
 - **a), c)** Film über das Jetzt: „Sie fährt wohl gerade“, „Es weht wohl mit acht Beaufort“.
 - **b)** Foto, etwas soll erst geschehen: „Wir müssen die Fenster früh schließen.“
 - **d)** Film, aber als Gewohnheit („jede Stunde“): Notwendigkeit. Die Falle der Übung.
-- **e), f)** Beide mit [είναι]{lang="el"}. In e) ist das Auto ein Indiz („Sie ist wohl zu Hause“),
-  in f) steht ein Fahrplan davor („Wir müssen um sieben am Hafen sein“).
+- **e), f)** Beide mit [είναι]{lang="el"}. In e) ist das geparkte ([παρκαρμένο]{lang="el"}) Auto
+  ein Indiz („Sie ist wohl zu Hause“), in f) steht ein Fahrplan davor („Wir müssen um sieben am
+  Hafen sein“).
 - **g)** „Auf Naxos dürfte es kühl sein.“ **h)** Derselbe Ausdruck als Rat mit Foto: „Sie sollten erst
   am Hafen fragen.“
+- **i)** Foto, aber niemand verlangt vom Schiff etwas: Erwartung, „Es müsste um elf ankommen“.
+  Wer N gewählt hat, hat die „wohl“-Probe übersprungen.
 :::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [πρέπει να κοιμάται]{lang="el"} | [ˈprepi na kiˈmate] | sie schläft wohl (Vermutung) |
+| [πρέπει να κοιμάται]{lang="el"} | [ˈprepi na ciˈmate] | sie schläft wohl (Vermutung) |
 | [θα πρέπει να]{lang="el"} | [θa ˈprepi na] | sollte; dürfte (weicher als [πρέπει]{lang="el"}) |
 | [στον δρόμο]{lang="el"} | [ston ˈðromo] | unterwegs |
 | [το μωρό]{lang="el"} | [to moˈro] | das Baby |
@@ -241,16 +252,32 @@ entscheidet nur der erste Satz: Liefert er ein Indiz oder einen Plan?
 
 ## Sie ist wohl schon weg: Vermutungen über Vergangenes {#sec-modal-vergangenheit}
 
-[Πρέπει να έφυγε ήδη για το χωριό.]{lang="el"} Ein Aorist nach [να]{lang="el"}. Kapitel 5 und 16
-haben gesagt: Die [να]{lang="el"}-Form kennt keine Vergangenheit. Das gilt weiter, für Wollen,
-Können, Müssen und Zwecke. Die **Vermutung** aber ist die angekündigte Ausnahme: Hier folgt nach
-[να]{lang="el"} ein ganz normales Verb wie nach [ότι]{lang="el"}, in jeder Zeit. Streng genommen
-ist das gar keine [να]{lang="el"}-Form mehr.
+[Πρέπει να έφυγε ήδη για το χωριό.]{lang="el"} Ein Aorist nach [να]{lang="el"}. Das hast du
+schon gesehen: [Ο ύποπτος φέρεται να ομολόγησε]{lang="el"} „soll gestanden haben“ (Kapitel 18).
+Kapitel 5 hat vorsichtig „im Sinn von Wollen, Können, Müssen“ gesagt; hier ist der Grund. Es
+kommt darauf an, **wo die Zeit steht**, und das hängt am Ausdruck vor [να]{lang="el"}:
 
-Die Wahl zwischen den Vergangenheiten ist dieselbe wie beim Erzählen:
+::: {.callout-important}
+## Wo steht die Zeit?
 
-| Vermutung | Deutsch | Blick |
+Sagt der Ausdruck vor [να]{lang="el"}, **wie sicher** etwas ist oder **woher man es weiß**, darf
+nach [να]{lang="el"} eine Vergangenheit stehen. Sagt er, was jemand **will, kann oder muss** oder
+**wozu** etwas dient, folgt die zeitlose [να]{lang="el"}-Form.
+:::
+
+Zur ersten Gruppe gehören [πρέπει να]{lang="el"} als Vermutung, [μπορεί να, ίσως να, ενδέχεται
+να, (δεν) αποκλείεται να]{lang="el"} (alle in diesem Kapitel) und [φέρεται να]{lang="el"}. Nach
+ihnen steht ein Verb wie nach [ότι]{lang="el"}: im Präsens oder in jeder Vergangenheit, aber nie
+mit [θα]{lang="el"}. Zur zweiten gehören [θέλω, μπορώ, πρέπει]{lang="el"} als Pflicht und
+[για να]{lang="el"}. Wünsche mit [μακάρι να]{lang="el"} folgen in Kapitel 24.
+
+Erkennen kannst du die Vergangenheit an der Form nach [να]{lang="el"}: Augment und Endung
+([έ-φυγ-ε]{lang="el"}, [κοιμ-όταν]{lang="el"}) oder [έχει]{lang="el"} + Form auf
+[-ει]{lang="el"}. Die Wahl zwischen den Vergangenheiten ist dieselbe wie beim Erzählen:
+
+| [πρέπει να]{lang="el"} … | Deutsch | Blick |
 |---|---|---|
+| [πρέπει να φύγει]{lang="el"} | sie muss gehen | zeitlose Form: Notwendigkeit |
 | [πρέπει να έφυγε]{lang="el"} | sie ist wohl gefahren | Aorist: ein Ereignis |
 | [πρέπει να κοιμόταν]{lang="el"} | sie hat wohl (gerade) geschlafen | Imperfekt: Zustand, Hintergrund |
 | [πρέπει να έχει φύγει]{lang="el"} | sie ist wohl schon weg | Perfekt: Das Ergebnis zählt jetzt |
@@ -262,8 +289,8 @@ Die Wahl zwischen den Vergangenheiten ist dieselbe wie beim Erzählen:
 - [Το σπίτι είναι κλειστό. Πρέπει να έχουν φύγει για τις διακοπές.]{lang="el"} – Das Haus ist
   zu. Sie sind wohl in den Urlaub gefahren.
 
-Und der Unterschied zu [έπρεπε]{lang="el"}, der Vergangenheit von [πρέπει]{lang="el"}? Es kommt
-darauf an, **wo die Zeit steht**:
+Und der Unterschied zu [έπρεπε]{lang="el"}, der Vergangenheit von [πρέπει]{lang="el"}? Auch hier
+entscheidet, wo die Zeit steht:
 
 - [Έπρεπε να φύγει νωρίς.]{lang="el"} – Sie musste früh los. (Notwendigkeit damals; je nach
   Zusammenhang auch „Sie hätte früh losfahren sollen“, mehr dazu in Kapitel 24.)
@@ -288,7 +315,8 @@ left*]{lang="en"}.
 ## Achtung
 
 - \*[Μπορούσα να πήγα.]{lang="el"}, \*[Θέλω να έφυγα.]{lang="el"}, \*[για να βρήκε]{lang="el"}
-  bleiben falsch. Die Ausnahme gilt nur für die Vermutung.
+  bleiben falsch: Können, Wollen, Zweck. Die Vergangenheit nach [να]{lang="el"} gilt für
+  Vermutung und Möglichkeit.
 - \*[Πρέπει να θα έρθει.]{lang="el"}: [θα]{lang="el"} steht nie nach [να]{lang="el"}.
 :::
 
@@ -354,7 +382,8 @@ f) Πρέπει να ήταν ακριβό ξενοδοχείο.
   eingeschlafen.“
 - **f)** [ήταν]{lang="el"}, keine Wahl.
 
-**Typische Fehler:** \*[Έπρεπε να έφυγε]{lang="el"}: Die Vergangenheit steht doppelt.
+**Typische Fehler:** \*[Έπρεπε να έφυγε]{lang="el"}: Nach [έπρεπε]{lang="el"} steht kein Aorist.
+([έπρεπε να ήσουν]{lang="el"} „du hättest dabei sein sollen“ kommt in Kapitel 24.)
 [Πρέπει να φύγει]{lang="el"} für a) ist grammatisch, heißt aber „Sie muss gehen“.
 :::
 
@@ -370,7 +399,7 @@ f) Πρέπει να ήταν ακριβό ξενοδοχείο.
 ## Kann sein: [μπορεί να]{lang="el"} {#sec-modal-mporei}
 
 [Μπορεί να μη φύγει καν το πλοίο.]{lang="el"} Das Schiff „kann“ hier gar nichts. Dieses
-[μπορεί]{lang="el"} ist eine feste Form wie [πρέπει]{lang="el"}: Es ändert sich nie und heißt
+[μπορεί]{lang="el"} ist eine feste Form wie [πρέπει]{lang="el"}: Es ändert die Person nie und heißt
 „es kann sein, dass“, also „vielleicht“. Spanisch sagt genauso [*puede que no salga el
 barco*]{lang="es"}, Französisch [*il se peut que*]{lang="fr"}.
 
@@ -381,8 +410,12 @@ Am deutlichsten wird der Unterschied, wenn die Person nicht passt:
 - [Μπορείς να μου πεις;]{lang="el"} – Kannst du es mir sagen?
 - [Μπορεί να σου πει.]{lang="el"} – Vielleicht sagt er es dir. Oder: Er kann es dir sagen.
 
-In der dritten Person ist der Satz also doppeldeutig. Steht [μπορεί]{lang="el"} ganz vorn, ist
-meist „vielleicht“ gemeint; sonst entscheidet der Zusammenhang.
+In der dritten Person ist der Satz also doppeldeutig. Diese Indizien helfen:
+
+- Das Subjekt kann gar nicht handeln (Wetter, Schiff, Temperatur) → „vielleicht“.
+- Die Person passt nicht zur Form: ich oder du, aber [μπορεί]{lang="el"} → „vielleicht“.
+- Nach [να]{lang="el"} steht eine Vergangenheit → sicher „vielleicht“.
+- Sonst entscheidet der Zusammenhang.
 
 **Der Aspekt** verschiebt die Zeit, genau wie bei [πρέπει]{lang="el"}:
 
@@ -400,8 +433,11 @@ nach [πρέπει να]{lang="el"}: nie \*[μπορεί να θα]{lang="el"}.
 
 - [Μπορεί να μην έρθει.]{lang="el"} – Vielleicht kommt er nicht. ([μη(ν)]{lang="el"} nach
   [να]{lang="el"}, wie immer)
-- [Δεν μπορεί να έφυγε χωρίς να μας πει.]{lang="el"} – Sie kann nicht gegangen sein, ohne es uns
-  zu sagen.
+- [Δεν μπορεί να έρθει.]{lang="el"} – Er kann nicht kommen.
+
+Mit einer Vergangenheit nach [να]{lang="el"} bleibt für [δεν μπορεί]{lang="el"} nur „es kann
+nicht sein“: [Δεν μπορεί να έφυγε χωρίς να μας πει.]{lang="el"} „Sie kann nicht gegangen sein,
+ohne es uns zu sagen.“
 
 Im Gespräch hörst du [μπορεί]{lang="el"} oft ganz allein: [Μπορεί.]{lang="el"} „Kann sein.“
 [Μπορεί ναι, μπορεί όχι.]{lang="el"} „Vielleicht ja, vielleicht nein.“ [Δεν μπορεί!]{lang="el"}
@@ -412,8 +448,9 @@ Im Gespräch hörst du [μπορεί]{lang="el"} oft ganz allein: [Μπορεί.
 ## Achtung
 
 - \*[Μπορώ να το είπα.]{lang="el"} ist falsch, [Μπορεί να το είπα.]{lang="el"} dagegen richtig:
-  „Kann sein, dass ich es gesagt habe.“ Nur das feste [μπορεί]{lang="el"} verträgt eine
-  Vergangenheit nach [να]{lang="el"}.
+  „Kann sein, dass ich es gesagt habe.“ Von [μπορώ/μπορεί]{lang="el"} verträgt nur das feste
+  [μπορεί]{lang="el"} eine Vergangenheit nach [να]{lang="el"}: Es sagt, wie sicher etwas ist,
+  nicht, was jemand kann.
 - \*[Μπορούν να βρέξει.]{lang="el"}: Das „vielleicht“ hat nur die Form [μπορεί]{lang="el"}.
 :::
 
@@ -460,15 +497,16 @@ fällt dessen Anfangsvokal: [μπορεί να ’ναι]{lang="el"} [boˈri ˈn
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-„Vielleicht“ heißt immer [μπορεί]{lang="el"}, egal wer handelt. Dann wähl die Form nach
+Für „vielleicht“ + [να]{lang="el"} heißt es [μπορεί]{lang="el"}, egal wer handelt. Dann wähl die Form nach
 [να]{lang="el"}: Ereignis, das kommen kann, jetzt oder vorbei?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Teil B: Drei Sätze sind falsch. Eine Vergangenheit nach [να]{lang="el"} verträgt nur das feste
-[μπορεί]{lang="el"}, und [θα]{lang="el"} steht nie nach [να]{lang="el"}.
+Teil B: Drei Sätze sind falsch. Von [μπορώ/μπορεί]{lang="el"} verträgt nur das feste
+[μπορεί]{lang="el"} eine Vergangenheit nach [να]{lang="el"}, und [θα]{lang="el"} steht nie nach
+[να]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -477,18 +515,19 @@ Teil B: Drei Sätze sind falsch. Eine Vergangenheit nach [να]{lang="el"} vertr
 **Teil A: a2, b2, c1.**
 
 - **a)** (1) ist grammatisch, heißt aber „Sie können heute Abend kommen“. (3) geht nie.
-- **b)** Film über das Jetzt. (1) wäre „Vielleicht schläft sie (später) ein bisschen“, (3)
+- **b)** Film über das Jetzt. (1) wäre „Vielleicht schläft sie (später)“, (3)
   „Vielleicht hat sie geschlafen / ist eingeschlafen“.
-- **c)** (2) spricht von einem Können damals, nicht von einer Vermutung jetzt; (3) passt nicht zu
-  [χθες]{lang="el"}.
+- **c)** (2) ist grammatisch, aber eine Möglichkeit aus damaliger Sicht: „Es konnte (jederzeit)
+  regnen“, keine Vermutung jetzt über gestern. (3) passt nicht zu [χθες]{lang="el"}.
 
 **Teil B: 1, 2 und 5 sind falsch.**
 
-- 1\. [Μπορεί να το ξέχασα.]{lang="el"} „Vielleicht habe ich es vergessen.“ Das „ich“ zieht
-  zu \*[μπορώ]{lang="el"}, der häufigste Fehler hier.
+- 1\. [Μπορεί να το ξέχασα.]{lang="el"} „Vielleicht habe ich es vergessen.“ Das „ich“ verleitet
+  zu \*[Μπορώ να το ξέχασα]{lang="el"}, dem häufigsten Fehler hier.
 - 2\. [Μπορεί να βρέξει αύριο.]{lang="el"}
-- 5\. [Μπορούσαμε να πάμε στην Τήνο.]{lang="el"} Können damals, also keine Vergangenheit nach
-  [να]{lang="el"}.
+- 5\. Je nach Absicht: [Μπορούσαμε να πάμε στην Τήνο.]{lang="el"} „Wir konnten nach Tinos
+  fahren“ (Können damals, also zeitlose Form) oder [Μπορεί να πήγαμε στην Τήνο.]{lang="el"}
+  „Vielleicht sind wir nach Tinos gefahren“ (Vermutung, also Vergangenheit nach [να]{lang="el"}).
 - 3, 4, 6 sind richtig (4: [μην]{lang="el"} vor Vokal).
 :::
 
@@ -512,20 +551,23 @@ brauchen nichts: vor den Satz stellen, fertig. Das Verb steht in der Zeit, die g
   wahrscheinlich gefahren. Eher nicht.
 - [Σίγουρα θα κάνει ζέστη.]{lang="el"} – Es wird sicher heiß.
 
-Eine Besonderheit hat [ίσως]{lang="el"} mit der Zukunft. Alle drei Varianten hörst du:
-[Ίσως θα βρέξει.]{lang="el"} [Ίσως βρέξει.]{lang="el"} [Ίσως να βρέξει.]{lang="el"} Die mittlere
-nimmt die zeitlose Form aus Kapitel 16, wie nach [όταν]{lang="el"}. Mit [μάλλον]{lang="el"} und
-[σίγουρα]{lang="el"} steht vor der Zukunft immer [θα]{lang="el"}.
+Eine Besonderheit hat [ίσως]{lang="el"} mit der Zukunft. Oft folgt die zeitlose Form aus
+Kapitel 16, mit oder ohne [να]{lang="el"}: [Ίσως βρέξει.]{lang="el"} [Ίσως να βρέξει.]{lang="el"}
+Auch [Ίσως θα βρέξει.]{lang="el"} kommt vor und ist nicht falsch. Verneint ist [Ίσως να μη
+φύγει.]{lang="el"} am sichersten, [Ίσως δε φύγει.]{lang="el"} geht auch; \*[Ίσως να δε
+φύγει]{lang="el"} ist falsch, denn nach [να]{lang="el"} steht [μη(ν)]{lang="el"}. Und weil
+[ίσως να]{lang="el"} sagt, wie sicher etwas ist, verträgt es auch eine Vergangenheit: [Ίσως (να) το
+έχεις ήδη ακούσει.]{lang="el"} „Vielleicht hast du es schon gehört.“ Mit [μάλλον]{lang="el"} und
+[σίγουρα]{lang="el"} steht vor der Zukunft [θα]{lang="el"}.
 
 ::: {.callout-caution .uncertain}
 ## Vorsicht
 
-Wie häufig die drei Formen nach [ίσως]{lang="el"} jeweils sind und ob eine davon als weniger
-standardsprachlich gilt, ist nicht sicher geklärt; Grammatiken nennen mehrere Möglichkeiten. Wer
-auf Nummer sicher gehen will, sagt für die Zukunft [μπορεί να βρέξει]{lang="el"} oder
-[μάλλον θα βρέξει]{lang="el"}.
+Das große Wörterbuch der Standardsprache ([Λεξικό της Κοινής Νεοελληνικής]{lang="el"}) belegt
+[ίσως βρούμε]{lang="el"} und [ίσως (να) έχεις ακούσει]{lang="el"}. Wie häufig die Varianten
+jeweils sind und wie förmlich sie wirken, ist weniger klar. Wer auf Nummer sicher gehen will,
+sagt für die Zukunft [μπορεί να βρέξει]{lang="el"} oder [μάλλον θα βρέξει]{lang="el"}.
 :::
-<!-- CHECK: ίσως + zeitlose Form (Ίσως βρέξει), ίσως να + να-Form, ίσως θα + Futur: alle standardsprachlich? relative Häufigkeit? Kapitel 13 (Übung 13.x e) nennt „Ίσως δε θα βρεθεί“ als richtig. -->
 
 [μάλλον]{lang="el"} hat eine zweite Bedeutung, aus der die erste entstanden ist: „eher,
 vielmehr“. [Αύριο, ή μάλλον μεθαύριο.]{lang="el"} „Morgen, oder besser gesagt übermorgen.“
@@ -533,7 +575,8 @@ vielmehr“. [Αύριο, ή μάλλον μεθαύριο.]{lang="el"} „Morge
 **Auch [θα]{lang="el"} kann vermuten**, genau wie das deutsche „wird wohl“: [Θα είναι στο χωριό
 τώρα.]{lang="el"} „Sie wird jetzt im Dorf sein.“ Spanisch kennt das als Futur der
 Wahrscheinlichkeit: [*Estará en el pueblo.*]{lang="es"} Am häufigsten geschieht das mit
-[είναι, έχει]{lang="el"} und anderen Zustandsverben.
+[είναι, έχει]{lang="el"} und anderen Zustandsverben. Mit dem Perfekt kennst du es aus Kapitel 14:
+[θα έχει φύγει]{lang="el"} „er wird wohl schon weg sein“.
 
 Und weil man im Gespräch selten ganze Sätze braucht, hier die kurzen Antworten auf
 [— Θα έρθει;]{lang="el"}: [Σίγουρα. – Μάλλον. – Ίσως. – Μπορεί. – Δε νομίζω. – Μάλλον όχι. –
@@ -544,7 +587,8 @@ Und weil man im Gespräch selten ganze Sätze braucht, hier die kurzen Antworten
 
 - [ίσως, μάλλον, σίγουρα]{lang="el"} + normaler Satz in jeder Zeit; vor der Zukunft
   [μάλλον θα, σίγουρα θα]{lang="el"}.
-- Nach [ίσως]{lang="el"} ist für die Zukunft auch die zeitlose Form üblich: [ίσως βρέξει]{lang="el"}.
+- Nach [ίσως]{lang="el"} ist für die Zukunft auch die zeitlose Form möglich, mit oder ohne
+  [να]{lang="el"}: [ίσως (να) βρέξει]{lang="el"}.
 - [θα]{lang="el"} + Präsens kann vermuten: [Θα είναι σπίτι.]{lang="el"} „Er wird (wohl) zu Hause sein.“
 :::
 
@@ -603,18 +647,18 @@ f) Σίγουρα θα κάνει ζέστη.
 g) Αποκλείεται.
 :::
 
-- **a)** Film über das Jetzt. \*[Πρέπει να κοιμηθεί]{lang="el"} wäre „Er muss schlafen“.
+- **a)** Film über das Jetzt. [Πρέπει να κοιμηθεί]{lang="el"} ist grammatisch, hieße aber „Er
+  muss schlafen“.
   [Θα κοιμάται]{lang="el"} geht auch.
 - **b)** \*[Μάλλον φύγει]{lang="el"} ohne [θα]{lang="el"} ist falsch.
 - **c)** [μη]{lang="el"} ohne [ν]{lang="el"} vor [φ]{lang="el"}; \*[μπορεί να δε φύγει]{lang="el"}
-  ist falsch. Mit [ίσως]{lang="el"} gibt es mehrere Varianten (siehe Vorsicht-Kasten).
+  ist falsch. Mit [ίσως]{lang="el"}: [Ίσως να μη φύγει]{lang="el"} (am sichersten) oder
+  [Ίσως δε φύγει]{lang="el"}, aber nicht \*[Ίσως να δε φύγει]{lang="el"}.
 - **d)** Eine Stufe sicherer wäre [Πρέπει να έβρεξε.]{lang="el"}
 - **e)** [θα]{lang="el"} + Präsens von [είναι]{lang="el"}: „Sie wird (wohl) im Büro sein.“
 - **f)** Auch [Σίγουρα θα έχει σαράντα δύο.]{lang="el"}
 - **g)** Genauso gut, eine Stufe weicher: [Μάλλον όχι.]{lang="el"} [Δε νομίζω.]{lang="el"}
 :::
-<!-- CHECK: Übung 22.4 c) – verneinte Varianten mit ίσως (ίσως δε φύγει / ίσως να μη φύγει / ίσως δε θα φύγει): welche konkret nennen? Hängt an der CHECK-Frage zu ίσως + Zukunft. -->
-
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -637,7 +681,7 @@ dieses Kapitels:
 | [πρέπει να]{lang="el"} (Vermutung) | muss wohl | fast sicher, aus Indizien geschlossen |
 | [μάλλον, πιθανότατα]{lang="el"}; [θα]{lang="el"} (Vermutung) | wahrscheinlich; wird wohl | eher ja |
 | [ίσως, μπορεί να, πιθανόν]{lang="el"} | vielleicht, möglicherweise | offen |
-| [δεν αποκλείεται (να)]{lang="el"} | nicht ausgeschlossen | möglich, eher nicht erwartet |
+| [δεν αποκλείεται (να)]{lang="el"} | nicht ausgeschlossen | möglich (vorsichtig formuliert) |
 | [μάλλον όχι; δε νομίζω]{lang="el"} | eher nicht | eher nein |
 | [αποκλείεται (να)]{lang="el"} | ausgeschlossen | nein |
 
@@ -661,7 +705,9 @@ In Vorhersagen und Nachrichten kommen förmlichere Wörter dazu:
 - **[αναμένεται να]{lang="el"}** „es wird erwartet, dass“: [Η θερμοκρασία αναμένεται να φτάσει
   τους σαράντα δύο βαθμούς.]{lang="el"}
 
-Nach all diesen Ausdrücken mit [να]{lang="el"} steht für ein künftiges Ereignis das Foto.
+Nach all diesen Ausdrücken mit [να]{lang="el"} steht für ein künftiges Ereignis meist das Foto,
+für einen Zustand der Film: [ενδέχεται να φυσάει όλη μέρα]{lang="el"} „es kann den ganzen Tag
+wehen“.
 
 ::: {.callout-note .exercise}
 ## Übung 22.5: Von 0 bis 100
@@ -697,13 +743,14 @@ Nur das Signalwort zählt, der Rest des Satzes nicht. Übersetz es und leg es au
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-„Nicht ausgeschlossen“ ist vorsichtiger als „vielleicht“: möglich, aber nicht erwartet.
+„Nicht ausgeschlossen“ heißt „möglich“, nur vorsichtiger formuliert. Es liegt bei „vielleicht“
+oder knapp darunter.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**a1, b2, c3, d4, e4, f5, g3, h1 oder h2.**
+**a1, b2, c3, d3 oder d4, e4, f5, g3, h1 oder h2.**
 
 Das ist eine Tendenz, keine Messung. Vertretbar ist auch:
 
@@ -759,7 +806,7 @@ dankbar. Die Reihenfolge ist fast immer: Region, Himmel, Wind, Temperatur.
   (*Hydrargyrum*).
 - **Modalität:** Achte auf die förmlichen Wörter [αναμένεται, ενδέχεται, δεν
   αποκλείονται]{lang="el"}. Alle drei sind auf der drittletzten Silbe betont, das Ende ist
-  unbetont und schnell gesprochen: [anaˈmenete], [enˈðeçete], [apoˈklionde]. Die Endung
+  unbetont und schnell gesprochen: [anaˈmenete], [enˈðeçete], [apoˈkliode]. Die Endung
   [-ται]{lang="el"} kennst du aus dem Mediopassiv (Kapitel 13).
 
 Beaufort misst die Windstärke, und die Zahlen sind im Sommer in jeder Vorhersage: 6 Beaufort ist
@@ -911,7 +958,7 @@ gibt es keinen Meltemi; dann heißt der Wind oft [νότιοι]{lang="el"} „s�
 ## Hinweis 2
 
 Die förmlichen Wörter sind vorn betont und hinten schnell: [anaˈmenete], [enˈðeçete],
-[apoˈklionde]. Hörst du nur „…mene…“ oder „…ðeçe…“, zählt der Strich.
+[apoˈkliode]. Hörst du nur „…mene…“ oder „…ðeçe…“, zählt der Strich.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -1107,7 +1154,7 @@ bis 2021 ([μέχρι το 2021]{lang="el"}). 5: umgekehrt, über dem Balkan hoc
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [σπάνια]{lang="el"} | [ˈspaɲa] | selten |
-| [πάντως]{lang="el"} | [ˈpandos] | jedenfalls, immerhin |
+| [πάντως]{lang="el"} | [ˈpados] | jedenfalls, immerhin |
 | [πέφτω έξω, έπεσα έξω]{lang="el"} | [ˈpefto ˈekso], [ˈepesa ˈekso] | danebenliegen, sich irren (umg.) |
 | [η διαφορά]{lang="el"} | [i ðiafoˈra] | der Unterschied |
 | [συχνός, -ή, -ό]{lang="el"} | [sixˈnos] | häufig |

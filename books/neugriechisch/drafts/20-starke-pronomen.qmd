@@ -168,8 +168,8 @@ nicht an eine Präposition:
 - [Σε μένα το έδωσε.]{lang="el"} (auch [σ’ εμένα]{lang="el"}) – *Mir* hat er es gegeben.
 
 Nach einer Präposition fällt oft das [ε-]{lang="el"}: [για μένα, με σένα]{lang="el"} [ʝa ˈmena],
-[me ˈsena], im Plural [για μας, με σας]{lang="el"} [ʝa ˈmas], [me ˈsas]. Das ist die betonte Form
-ohne [ε-]{lang="el"}, kein schwaches Pronomen, auch wenn sie im Plural gleich aussieht. [για
+[me ˈsena], im Plural [για μας, με σας]{lang="el"} [ʝa ˈmas], [me ˈsas]. Diese Kurzform ist die
+starke Form ohne [ε-]{lang="el"}, kein schwaches Pronomen, auch wenn sie im Plural gleich aussieht. [για
 εμένα]{lang="el"} ist genauso richtig.
 
 Vorsicht bei Ortswörtern. [μαζί μου]{lang="el"} kennst du aus Kapitel 4: Hinter [μαζί, δίπλα,
@@ -231,7 +231,7 @@ Spanisch hilft: [*yo tampoco*]{lang="es"} oder [*a mí tampoco*]{lang="es"}?
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Schwache Pronomen stehen nie allein und nie nach einer Präposition; dort steht die betonte Form,
+Schwache Pronomen stehen nie allein und nie nach einer Präposition; dort steht die starke Form,
 im Plural auch ohne [ε-]{lang="el"} ([για μας]{lang="el"}). Hinter [δίπλα, πίσω]{lang="el"} steht
 dagegen das schwache im Genitiv.
 :::
@@ -456,7 +456,7 @@ der Satz falsch oder wird zum Scheinwerfer), **üblich**, **möglich (umg.)** un
 
 Zu einigen Zeilen:
 
-- **[όλα]{lang="el"}:** [Τα ξέρει όλα]{lang="el"} „Sie weiß alles“, wie bei der Frau Voula in
+- **[όλα]{lang="el"}:** [Τα ξέρει όλα]{lang="el"} „Sie weiß alles“, wie bei Frau Voula in
   Kapitel 17; \*[Ξέρει όλα]{lang="el"} klingt falsch. Mit Nomen ist es anders: [Διάβασα όλα τα
   βιβλία.]{lang="el"}
 - **Indirekte Objekte:** [Στη μητέρα μου δεν το λέγαμε ποτέ]{lang="el"} (Kapitel 8) geht auch ohne
@@ -498,7 +498,7 @@ Im Zweifel drei Fragen der Reihe nach: Unbestimmt oder Gegensatz? → nein. Vorn
 
 Stell das Objekt nach vorn und gib ihm ein Echo-Pronomen vor dem Verb. Laut sprechen.
 
-1. [Διάβασα την Πολιτεία του Πλάτωνα.]{lang="el"} (Platons *Staat*)
+1. [Διάβασα την «Πολιτεία» του Πλάτωνα.]{lang="el"} (Platons *Politeia*, *Der Staat*)
 2. [Δεν ξέρω τον βουλευτή.]{lang="el"}
 3. [Έφερα το κρασί.]{lang="el"}
 4. [Αγόρασα τις ντομάτες.]{lang="el"}
@@ -511,7 +511,7 @@ Stell das Objekt nach vorn und gib ihm ein Echo-Pronomen vor dem Verb. Laut spre
 ## Hinweis 1
 
 Das Echo-Pronomen klingt fast wie der Artikel: [τον βουλευτή … τον]{lang="el"}, [τις ντομάτες …
-τις]{lang="el"}. Das Schluss-ν folgt der üblichen Regel.
+τις]{lang="el"}. Das Schluss-[ν]{lang="el"} folgt der üblichen Regel.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -524,13 +524,14 @@ Genitiv; in 7 kommt das Objekt direkt hinter [ότι]{lang="el"}.
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-1. [Την Πολιτεία του Πλάτωνα τη διάβασα.]{lang="el"} ([τη]{lang="el"} vor [δ]{lang="el"} ohne ν)
+1. [Την «Πολιτεία» του Πλάτωνα τη διάβασα.]{lang="el"} ([τη]{lang="el"} vor [δ]{lang="el"} ohne
+   [ν]{lang="el"})
 2. [Τον βουλευτή δεν τον ξέρω.]{lang="el"} [δεν]{lang="el"} steht wie immer vor dem schwachen
    Pronomen.
 3. [Το κρασί το έφερα.]{lang="el"} Nicht [τον]{lang="el"} nach „den Wein“.
 4. [Τις ντομάτες τις αγόρασα.]{lang="el"}
 5. [Τη θάλασσα δεν την έχω δει ακόμα.]{lang="el"} Typischer Fehler: [το]{lang="el"} nach „das
-   Meer“. [την]{lang="el"} behält vor Vokal das ν.
+   Meer“. [την]{lang="el"} behält vor Vokal das [ν]{lang="el"}.
 6. [Στον Νίκο του έδωσα το κλειδί.]{lang="el"} Auch ohne [του]{lang="el"}: Beim indirekten Objekt
    ist das Echo-Pronomen üblich, nicht nötig. Ist auch der Schlüssel bekannt: [Στον Νίκο του το
    έδωσα.]{lang="el"}
@@ -671,7 +672,7 @@ Zwei streiten am Tisch über die Wahlpflicht. Übersetz Zeile für Zeile laut, m
 
 **Worthilfen:** [η υποχρεωτική ψήφος]{lang="el"} die Wahlpflicht · [ψηφίζω]{lang="el"} wählen ·
 [αναγκάζω]{lang="el"} zwingen · [σκέφτομαι]{lang="el"} denken · [όποιος]{lang="el"} wer (auch
-immer), Kapitel 17
+immer), Kapitel 15
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -917,11 +918,11 @@ Meinungsfragen beginnen erstaunlich viele Antworten mit [Εγώ …]{lang="el"} 
 …]{lang="el"}.
 
 ::: {.callout-note .exercise}
-## Übung 20.7: Εγώ … Εμένα … auf der Straße
+## Übung 20.7: [Εγώ … Εμένα …]{lang="el"} auf der Straße
 
 Such auf dem YouTube-Kanal [Easy Greek](https://www.youtube.com/@EasyGreekVideos) ein
-Straßeninterview (Suche: *Easy Greek street interview*), am besten mit einer Meinungsfrage. Nimm drei bis vier
-Minuten. Die Untertitel sind ins Bild eingeblendet, griechisch und englisch.
+Straßeninterview (Suche: [*Easy Greek street interview*]{lang="en"}), am besten mit einer
+Meinungsfrage. Nimm drei bis vier Minuten. Die Untertitel sind ins Bild eingeblendet, griechisch und englisch.
 
 1. **Ohne Untertitel** (deck den unteren Rand ab): Mach einen Strich für jede Antwort, die mit
    [εγώ, εμένα, εσύ]{lang="el"} oder [εσένα]{lang="el"} beginnt. Merk dir ein Beispiel für [εμένα
@@ -999,9 +1000,9 @@ Ein Wort, das ganz Europa kennt, und eine Tischsitte, die ganz Griechenland kenn
 ρόλο, ένας πολίτης σαν εσένα και σαν εμένα. Όταν ένας υπουργός λέει «εδώ είμαι ως ιδιώτης», δεν
 εννοεί ότι είναι βλάκας. Εννοεί ότι δεν ήρθε ως υπουργός.
 
-Στην αρχαία Αθήνα ιδιώτης ήταν ο πολίτης που δεν ήταν άρχοντας, ο απλός πολίτης. Ο Περικλής δεν λέει τη λέξη, αλλά στον Επιτάφιο, όπως τον γράφει ο
-Θουκυδίδης, λέει: «Εμείς τον πολίτη που δεν ασχολείται με τα κοινά δεν τον λέμε ήσυχο. Τον λέμε
-άχρηστο.» Ήδη τότε ιδιώτης ήταν και αυτός που δεν είναι ειδικός. Από εκεί βγήκε ο αμαθής, και με
+Στην αρχαία Αθήνα ιδιώτης ήταν ο πολίτης που δεν ήταν άρχοντας, ο απλός πολίτης. Ο Περικλής δε
+λέει τη λέξη, αλλά στον Επιτάφιο, όπως τον γράφει ο Θουκυδίδης, λέει: «Εμείς τον πολίτη που δεν
+ασχολείται με τα κοινά δεν τον λέμε ήσυχο. Τον λέμε άχρηστο». Ήδη τότε ιδιώτης ήταν και αυτός που δεν είναι ειδικός. Από εκεί βγήκε ο αμαθής, και με
 αυτή τη σημασία η λέξη πέρασε στα λατινικά και από εκεί σε όλη την Ευρώπη.
 
 Σήμερα κανείς δε σε αναγκάζει να ασχοληθείς με την πολιτική. Σε πολλά ελληνικά τραπέζια όμως
@@ -1011,11 +1012,11 @@ Ein Wort, das ganz Europa kennt, und eine Tischsitte, die ganz Griechenland kenn
 
 Κάποιοι κανόνες υπάρχουν πάντως. Πρώτον, τη γνώμη σου τη λες. Αν πεις «Εμένα δε με ενδιαφέρει η
 πολιτική», κάποιος θα σου απαντήσει: «Εσύ δεν ασχολείσαι με την πολιτική. Η πολιτική όμως
-ασχολείται με σένα.» Δεύτερον, όποιος φωνάζει πιο δυνατά δεν έχει απαραίτητα δίκιο. Τρίτον, τον
+ασχολείται με σένα». Δεύτερον, όποιος φωνάζει πιο δυνατά δεν έχει απαραίτητα δίκιο. Τρίτον, τον
 λογαριασμό τον πληρώνει όποιος έχασε τη συζήτηση. Επειδή όμως κανείς δεν παραδέχεται ότι έχασε,
 τον πληρώνουν όλοι μαζί.
 
-Κι εγώ; Όταν εμένα με ρωτάνε τι ψηφίζω, απαντάω: «Την ψήφο μου την ξέρει μόνο η κάλπη.»
+Κι εγώ; Όταν εμένα με ρωτάνε τι ψηφίζω, απαντάω: «Την ψήφο μου την ξέρει μόνο η κάλπη».
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -1045,16 +1046,16 @@ Ein Wort, das ganz Europa kennt, und eine Tischsitte, die ganz Griechenland kenn
 
 **Der Idiot**
 
-Das Wort „ιδιώτης“ kennen alle Europäer, aber mit einer anderen Bedeutung. Im Deutschen, im
+Das Wort „[ιδιώτης]{lang="el"}“ kennen alle Europäer, aber mit einer anderen Bedeutung. Im Deutschen, im
 Englischen und im Französischen ist der „Idiot“ ein Dummkopf. Im Griechischen ist er einfach ein
 Mensch ohne öffentliche Rolle, ein Bürger wie du und ich. Wenn ein Minister sagt: „Ich bin als
 Privatmann hier“, meint er nicht, dass er ein Dummkopf ist. Er meint, dass er nicht als Minister
 gekommen ist.
 
-Im antiken Athen war ein ιδιώτης ein Bürger ohne Amt, ein einfacher Bürger. Perikles verwendet das Wort nicht, aber in der Gefallenenrede,
-wie Thukydides sie aufschreibt, sagt er: „Wir nennen den Bürger, der sich nicht um die
-Angelegenheiten der Gemeinschaft kümmert, nicht ruhig. Wir nennen ihn nutzlos.“ Schon damals war
-ιδιώτης auch jemand, der kein Fachmann ist. Daraus wurde der Unwissende, und in dieser Bedeutung
+Im antiken Athen war ein [ιδιώτης]{lang="el"} ein Bürger ohne Amt, ein einfacher Bürger. Perikles
+verwendet das Wort nicht, aber in der Gefallenenrede, wie Thukydides sie aufschreibt, sagt er: „Wir
+nennen den Bürger, der sich nicht um die Angelegenheiten der Gemeinschaft kümmert, nicht ruhig. Wir
+nennen ihn nutzlos.“ Schon damals war [ιδιώτης]{lang="el"} auch jemand, der kein Fachmann ist. Daraus wurde der Unwissende, und in dieser Bedeutung
 kam das Wort ins Lateinische und von dort nach ganz Europa.
 
 Heute zwingt dich niemand, dich mit Politik zu beschäftigen. An vielen griechischen Tischen gibt es
@@ -1136,7 +1137,7 @@ Das Echo-Pronomen hat dieselbe Form wie der Artikel des Objekts. In 9: Wer ist S
 5. **f.** Seine Stimme kennt nur die Urne.
 6. [τον πολίτη]{lang="el"}. Ein Relativsatz trennt Objekt und Echo-Pronomen, das Echo-Pronomen
    bleibt.
-7. [την πολιτική]{lang="el"}: [τη]{lang="el"} vor [σ]{lang="el"} ohne ν.
+7. [την πολιτική]{lang="el"}: [τη]{lang="el"} vor [σ]{lang="el"} ohne [ν]{lang="el"}.
 8. [την ψήφο]{lang="el"}: [η ψήφος]{lang="el"} ist weiblich, trotz [-ος]{lang="el"}. Wer vom
    Aussehen auf [τον]{lang="el"} schließt, liegt falsch; der Artikel [την]{lang="el"} zeigt es.
 9. Subjekt ist [η πολιτική]{lang="el"}; „mich“ ist Objekt ([με ενδιαφέρει]{lang="el"}), also die
