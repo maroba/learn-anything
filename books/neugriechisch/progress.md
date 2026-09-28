@@ -31,7 +31,7 @@
 | 25 Er muss gegangen sein: Vermutungen über die Vergangenheit | veröffentlicht | Welle 11; Audio vollständig |
 | 26 Wortbildung I: Präfixe und Verkleinerungen | veröffentlicht | Welle 12; Audio vollständig |
 | 27 Wortbildung II: die Sprache der Wissenschaft | Überarbeitung | Welle 13; beide Reviews da |
-| 28 Nachrichtensprache | Übungen | Welle 13; Entwurf fertig |
+| 28 Nachrichtensprache | im Review | Welle 13; Übungen fertig |
 | 29 Argumentieren | fertig | Welle 11; wartet auf 26–28 |
 | 30 Redewendungen | fertig | Welle 12; wartet auf 27–29 |
 | 31 Vom Amt bis zur Taverne: Register und Höflichkeit | Entwurf | Welle 14 |

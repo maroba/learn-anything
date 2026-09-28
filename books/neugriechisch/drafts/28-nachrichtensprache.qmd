@@ -197,7 +197,65 @@ geschah.
 | [προχώρησε σε]{lang="el"} | [η κυβέρνηση προχώρησε σε αλλαγές]{lang="el"} | die Regierung nahm Änderungen vor |
 | [έλαβε χώρα]{lang="el"} | [η συνάντηση έλαβε χώρα …]{lang="el"} | das Treffen fand … statt (Stufe 3) |
 
-<!-- EXERCISE: Nominalstil rückübersetzen: acht kurze Nachrichtenzeilen (Nominalgruppen mit Genitiv, auch Zwillinge wie άφιξη/λήψη/πτώση) mündlich in einen Gesprächssatz mit Verb umformen (αυξάνονται οι τιμές …), dazu umgekehrt zwei Gesprächssätze in Nachrichtennomen; Lösung mit Varianten und typischem Fehler (Genitiv als Besitzer statt als Subjekt lesen), Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 28.1: Rückwärts übersetzen
+
+Mach aus jeder Nachrichtenzeile einen Gesprächssatz mit Verb und sag ihn laut, wie
+[η αύξηση των τιμών → αυξάνονται οι τιμές]{lang="el"}.
+
+::: {lang="el"}
+1. η μείωση των φόρων
+2. η άφιξη των πρώτων τουριστών
+3. η πτώση των τιμών
+4. η λήψη νέων μέτρων
+5. η ψήφιση του νόμου
+6. το κλείσιμο του λιμανιού
+7. η αναχώρηση του πλοίου
+8. η ανακοίνωση του υπουργείου
+:::
+
+Dann umgekehrt, vom Kafenion in die Nachrichten: [αυξάνεται η ανεργία]{lang="el"} und
+[ανεβαίνουν οι τιμές]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Nomen → Verb, Genitiv → Subjekt oder Objekt. Frag bei jedem Genitiv: Tut er etwas, oder
+geschieht ihm etwas?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Vier Zeilen enthalten Zwillinge: [άφιξη, πτώση, λήψη, αναχώρηση]{lang="el"} gehören zu
+[φτάνω, πέφτω, παίρνω, φεύγω]{lang="el"}. In Zeile 8 ist der Genitiv der Handelnde.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+::: {lang="el" .no-audio}
+1. μειώνονται οι φόροι (auch: μειώνουν τους φόρους)
+2. φτάνουν οι πρώτοι τουρίστες
+3. πέφτουν οι τιμές
+4. παίρνουν νέα μέτρα
+5. ψηφίζουν τον νόμο (auch: ψηφίζεται ο νόμος)
+6. κλείνει το λιμάνι (auch: κλείνουν το λιμάνι)
+7. φεύγει το πλοίο
+8. το υπουργείο ανακοινώνει (auch: ανακοίνωσε)
+:::
+
+Umgekehrt: [η αύξηση της ανεργίας]{lang="el"}; [η άνοδος των τιμών]{lang="el"}, ebenso richtig
+[η αύξηση των τιμών]{lang="el"}. Zeitform und Aktiv/Passiv legt das Nomen nicht fest; jede
+passende Variante zählt.
+
+**Typische Fehler:** Den Genitiv als Besitzer lesen: [η ανακοίνωση του υπουργείου]{lang="el"}
+ist keine Mitteilung, die dem Ministerium gehört, sondern eine, die es macht; bei
+[η ανακοίνωση της απόφασης]{lang="el"} wird dagegen die Entscheidung bekannt gegeben. Bei 4 den
+gelehrten Zwilling nehmen: [λαμβάνονται νέα μέτρα]{lang="el"} ist richtig, aber Nachrichtenton;
+im Kafenion sagt man [παίρνουν]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -260,7 +318,69 @@ Grund von“, von [η βάση]{lang="el"}. Andere stecken in festen Wendungen m
 
 <!-- CHECK: λόγω und βάσει als erstarrte Dative von λόγος / βάσις; ενόψει aus εν + όψει; „μεταξύ μας“ als Alltagsausnahme zur Genitiv-Faustregel; εναντίον + Gen. ebenfalls umgangssprachlich üblich (εναντίον μου) – ggf. als zweite Ausnahme nennen -->
 
-<!-- EXERCISE: gelehrte Präpositionen verstehen und einstufen: acht Sätze aus Nachrichten, Schildern und Alltag (λόγω, κατά + Akk./Gen., εντός, εκτός, ενώπιον, μέσω, υπέρ, βάσει); jeweils Bedeutung wählen (Multiple Choice) und Alltagsentsprechung laut sagen; Falle κατά + Akk. vs. Gen., Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 28.2: Was heißt das kleine Wort?
+
+Ordne jedem fett gedruckten Wort seine Bedeutung zu (im Chat z.B. „1d, 2a …“). Zwei Bedeutungen
+bleiben übrig. Dann sag den Satz laut so, wie man ihn im Gespräch sagen würde.
+
+::: {lang="el"}
+1. Το μουσείο είναι κλειστό **λόγω** απεργίας.
+2. **Κατά** τον δήμαρχο, το νερό θα φτάσει για όλο το καλοκαίρι.
+3. Δεκαπέντε βουλευτές ψήφισαν **κατά** του νόμου.
+4. Τα αποτελέσματα αναμένονται **εντός** της εβδομάδας.
+5. Ο υπουργός μίλησε **ενώπιον** της Βουλής.
+6. Πετάμε για Χανιά **μέσω** Αθήνας.
+7. Η πλειοψηφία ψήφισε **υπέρ** της πρότασης.
+8. **Βάσει** του νόμου, τα μαγαζιά κλείνουν στις εννιά.
+:::
+
+Bedeutungen: a) gegen · b) wegen · c) innerhalb · d) laut · e) auf Grund von · f) außerhalb · g) über,
+via · h) vor · i) während · j) für
+
+([ο δήμαρχος]{lang="el"} der Bürgermeister, [ο βουλευτής]{lang="el"} der Abgeordnete,
+[η πλειοψηφία]{lang="el"} die Mehrheit)
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Fang mit dem an, was du von Schildern und Reisen kennst: [λόγω]{lang="el"} von der Ladentür,
+[μέσω]{lang="el"} von der Flugroute. [βάσει]{lang="el"} steckt in [η βάση]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Bei [κατά]{lang="el"} entscheidet der Kasus danach: [τον δήμαρχο]{lang="el"} ist Akkusativ,
+[του νόμου]{lang="el"} Genitiv.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1b, 2d, 3a, 4c, 5h, 6g, 7j, 8e; übrig bleiben f (außerhalb, [εκτός]{lang="el"}) und i
+(während, [κατά τη διάρκεια]{lang="el"}).
+
+Gesprächsfassungen, jeweils eine von mehreren:
+
+::: {lang="el" .no-audio}
+1. Το μουσείο είναι κλειστό γιατί έχουν απεργία. (λόγω απεργίας geht auch, Stufe 1)
+2. Ο δήμαρχος λέει ότι το νερό θα φτάσει. / Σύμφωνα με τον δήμαρχο …
+3. Δεκαπέντε βουλευτές ψήφισαν ενάντια στον νόμο.
+4. Τα αποτελέσματα θα βγουν μέσα στην εβδομάδα.
+5. Ο υπουργός μίλησε στη Βουλή.
+6. Πετάμε για Χανιά μέσω Αθήνας. (bleibt, Stufe 1)
+7. Οι περισσότεροι ψήφισαν για την πρόταση.
+8. Σύμφωνα με τον νόμο, τα μαγαζιά κλείνουν στις εννιά.
+:::
+
+**Typischer Fehler:** Satz 2 und 3 vertauschen. Beide Male steht [κατά]{lang="el"} vor einer
+Person oder Sache, aber nur der Genitiv macht daraus „gegen“. Wer [κατά τον δήμαρχο]{lang="el"}
+als „gegen den Bürgermeister“ liest, dreht die Meldung um.
+:::
+
+<!-- CHECK: Übung 28.2: „το νερό θα φτάσει για όλο το καλοκαίρι“ (φτάνω = ausreichen) idiomatisch; „ενάντια στον νόμο“ und „μίλησε στη Βουλή“ als Alltagsentsprechungen -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -327,7 +447,76 @@ Die Regel „Augment nur, wenn betont“ aus Kapitel 2 bleibt für dein eigenes 
 Gruppe gelehrter Formen, die du hörst und liest, aber nicht bildest.
 :::
 
-<!-- EXERCISE: Nachrichtenaoriste zurückführen: acht Formen in Meldungssätzen (συνελήφθησαν, ελήφθησαν, εξελέγη, διεξήχθη, υπεγράφη, εστάλη, απεβίωσε, προέβη) dem Präsens und der Alltagsform zuordnen (Zuordnen mit Nummern), dann zwei Sätze laut in Alltagssprache umformulieren; Falle: εξελέγη vs. εξηγήθηκε, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 28.3: Zurück zum Präsens
+
+Ordne jede fette Form ihrem Präsens zu (im Chat „1c, 2f …“); ein Präsens bleibt übrig. Nenne
+dazu die Alltagsform.
+
+::: {lang="el"}
+1. Δύο άτομα **συνελήφθησαν** χθες στον Πειραιά.
+2. **Ελήφθησαν** νέα μέτρα για τη λειψυδρία.
+3. **Εξελέγη** νέα πρόεδρος του συλλόγου.
+4. Η συνάντηση **διεξήχθη** στη Θεσσαλονίκη.
+5. **Υπεγράφη** η συμφωνία για το νέο λιμάνι.
+6. **Εστάλη** επιστολή στο υπουργείο.
+7. **Απεβίωσε** σε ηλικία 90 ετών γνωστός ζωγράφος της Σύρου.
+8. Η αστυνομία **προέβη** σε ελέγχους.
+:::
+
+Präsensformen: a) [υπογράφω]{lang="el"} · b) [εξηγώ]{lang="el"} · c) [λαμβάνω]{lang="el"} · d)
+[προβαίνω]{lang="el"} · e) [συλλαμβάνω]{lang="el"} · f) [στέλνω]{lang="el"} · g)
+[αποβιώνω]{lang="el"} · h) [εκλέγω]{lang="el"} · i) [διεξάγω]{lang="el"}
+
+Zum Schluss Satz 1 und 3 laut so, wie du sie am Telefon erzählen würdest.
+
+([η λειψυδρία]{lang="el"} die Wasserknappheit, [ο σύλλογος]{lang="el"} der Verein,
+[90 ετών]{lang="el"} gehoben für [90 χρονών]{lang="el"}, [ο ζωγράφος]{lang="el"} der Maler)
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Augment und Endung abziehen, Vorsilbe merken: [συν-ε-λήφ-θησαν]{lang="el"},
+[εξ-ε-λέγ-η]{lang="el"}, [απ-ε-βίω-σε]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[εξ-]{lang="el"} ist [εκ-]{lang="el"} vor Vokal; der Vokal nach [εξ-]{lang="el"} in
+[εξελέγη]{lang="el"} ist das Augment. [δι-εξ-ή-χθη]{lang="el"}: [η]{lang="el"} aus
+[ε]{lang="el"} + [α]{lang="el"} wie in Kapitel 27.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1e, 2c, 3h, 4i, 5a, 6f, 7g, 8d; übrig bleibt b.
+
+::: {lang="el" .no-audio}
+1. συλλήφθηκαν (umgangssprachlich: τους έπιασαν)
+2. λήφθηκαν, πάρθηκαν (oder aktiv: πήραν νέα μέτρα)
+3. εκλέχτηκε
+4. διεξάχθηκε, έγινε
+5. υπογράφτηκε
+6. στάλθηκε (oder aktiv: έστειλαν)
+7. πέθανε
+8. έκανε ελέγχους
+:::
+
+Am Telefon etwa: [Χθες έπιασαν δύο άτομα στον Πειραιά.]{lang="el"} und [Ο σύλλογος έχει νέα
+πρόεδρο.]{lang="el"} oder [Εκλέχτηκε νέα πρόεδρος στον σύλλογο.]{lang="el"}
+
+**Die Falle:** [εξελέγη]{lang="el"} zu [εξηγώ]{lang="el"} „erklären“ stellen, weil beide mit
+[εξ-]{lang="el"} beginnen. Der Aorist von [εξηγώ]{lang="el"} heißt [εξήγησα]{lang="el"},
+passiv [εξηγήθηκε]{lang="el"}, und hat kein [λ]{lang="el"}. Das [λεγ-]{lang="el"} in
+[εξελέγη]{lang="el"} ist dasselbe wie in [εκλογές]{lang="el"} „Wahlen“. Bei 7 und 8 hilft der
+Kontext: [σε ηλικία 90 ετών]{lang="el"} steht in Todesmeldungen, [προέβη σε]{lang="el"} + Nomen
+ist ein Funktionsverb wie [προχώρησε σε]{lang="el"}.
+:::
+
+<!-- CHECK: Übung 28.3: „Εξελέγη νέα πρόεδρος του συλλόγου“; „σε ηλικία 90 ετών“; „προέβη σε ελέγχους“; Alltagsform „διεξάχθηκε“ neben „έγινε“ -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -384,7 +573,72 @@ und hängt an einem Nomen, das Imperfekt ist ein Verb, meist ohne Artikel in der
 
 <!-- CHECK: Herleitung des Gerundiums -οντας aus dem altgriechischen Partizip (Akk. -οντα + -ς) als „ist entstanden“ vertretbar? ισχύουσα [isˈçiusa], διοικούσα [ðiiˈkusa], τραυματισθέντες [travmatisˈθedes] -->
 
-<!-- EXERCISE: gelehrte Partizipien erkennen: zehn Nachrichtenzeilen, in jeder ein Partizip (-όμενος/-ούμενος, -ων/-ουσα/-οντες, -θείς/-θέντες) oder eine Täuschung (μιλούσα, επόμενος, κουρασμένος); Typ bestimmen (1/2/3 oder „kein gelehrtes Partizip“) und eine Umschreibung mit Relativsatz wählen (ο συλληφθείς = αυτός που συνελήφθη); Schwierigkeit 3 -->
+::: {.callout-note .exercise}
+## Übung 28.4: Partizip oder Täuschung?
+
+Bestimme bei jedem fetten Wort den Typ (im Chat „1A, 2C …“) und sag es als Relativsatz mit
+[που]{lang="el"}, wie [ο συλληφθείς → αυτός που συνελήφθη]{lang="el"}.
+
+A: [-όμενος, -ούμενος]{lang="el"} · B: [-ων, -ουσα, -οντες]{lang="el"} ·
+C: [-θείς, -θέντες]{lang="el"} · D: kein gelehrtes Partizip
+
+::: {lang="el"}
+1. Απεργούν σήμερα οι **εργαζόμενοι** του λιμανιού.
+2. Ο **συλληφθείς** είναι 30 χρονών.
+3. Σύμφωνα με την **ισχύουσα** νομοθεσία, αυτό απαγορεύεται.
+4. Του **μιλούσα** μισή ώρα, αλλά δεν άκουγε.
+5. Οι **τραυματισθέντες** μεταφέρθηκαν στο νοσοκομείο.
+6. Οι **συμμετέχοντες** στη σύσκεψη συμφώνησαν.
+7. Οι **κουρασμένοι** επιβάτες περίμεναν στο λιμάνι.
+8. Αυξάνονται οι τιμές των **εισαγόμενων** προϊόντων.
+9. Η **διοικούσα** επιτροπή αποφάσισε.
+10. Ο **κατηγορούμενος** αρνείται τα πάντα.
+:::
+
+([τα προϊόντα]{lang="el"} die Waren, [αρνείται]{lang="el"} bestreitet)
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Hör auf die Betonung: [-ˈomenos] ist gelehrt, [-ˈmenos] Alltag.
+[-θεί-, -θέντ-]{lang="el"} ist immer Typ C.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Steht ein Artikel davor und ein Nomen dahinter oder in der Nähe? Dann ist [-ούσα]{lang="el"}
+ein Partizip, sonst ein Imperfekt (siehe Achtung-Box).
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1A, 2C, 3B, 4D, 5C, 6B, 7D, 8A, 9B, 10A.
+
+::: {lang="el" .no-audio}
+1. αυτοί που εργάζονται (δουλεύουν) στο λιμάνι
+2. αυτός που συνελήφθη (συλλήφθηκε)
+3. η νομοθεσία που ισχύει
+4. —
+5. αυτοί που τραυματίστηκαν
+6. αυτοί που συμμετείχαν (πήραν μέρος) στη σύσκεψη
+7. οι επιβάτες που ήταν κουρασμένοι
+8. τα προϊόντα που εισάγονται (έρχονται από το εξωτερικό)
+9. η επιτροπή που διοικεί
+10. αυτός που κατηγορείται
+:::
+
+**Typische Fehler:** 4 für Typ B halten: [μιλούσα]{lang="el"} ist Imperfekt, „ich sprach“, ohne
+Artikel und Nomen. 7 für Typ A halten: [κουρασμένοι]{lang="el"} ist betont auf
+[-μέ-]{lang="el"}, das Alltagspartizip aus Kapitel 19. Bei 6 verlangt [συμφώνησαν]{lang="el"}
+die Vergangenheit im Relativsatz, obwohl das Partizip ein Präsens ist: Es bedeutet nur
+„gleichzeitig“. Bei 1 und 10 ist das Partizip längst ein Nomen (der Arbeitnehmer, der Angeklagte);
+der Relativsatz zeigt nur, woher es kommt.
+:::
+
+<!-- CHECK: Übung 28.4, Satz 8: Gen. Pl. εισαγόμενων vs. gelehrt εισαγομένων – beide in der Presse üblich? -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -420,7 +674,76 @@ Mediopassivs. Oft steht auch das Objekt vorn, ohne Echo-Pronomen: [Νέα μέτ
 κυβέρνηση]{lang="el"}. Das ist die Stellung des „Scheinwerfers“ aus Kapitel 20, hier aber ohne
 Gegensatz: Die Schlagzeile zeigt einfach das Neue zuerst.
 
-<!-- EXERCISE: Schlagzeilen verstehen: sechs Schlagzeilen (alle vier Muster) den passenden Anfangssätzen von Meldungen zuordnen, dann jede laut als vollständigen Gesprächssatz sagen (είναι ergänzen, Nomen zum Verb machen, 45χρονος als „ein Mann von 45“); Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 28.5: Schlagzeile sucht Meldung
+
+Ordne jeder Schlagzeile den Anfang ihrer Meldung zu (im Chat „1D, 2A …“). Dann sag jede
+Schlagzeile als vollständigen Gesprächssatz.
+
+::: {lang="el"}
+1. Κλειστά τα σχολεία της Φλώρινας λόγω χιονιού
+2. Πτώση 3% στην τιμή της βενζίνης
+3. Συνελήφθη 38χρονος για κλοπή στον Πειραιά
+4. Σεισμολόγοι: «Δεν υπάρχει λόγος ανησυχίας»
+5. Ψηφίστηκε το νομοσχέδιο για τη λειψυδρία
+6. Νέα μέτρα για τα δάση ανακοινώνει η κυβέρνηση
+:::
+
+::: {lang="el"}
+**A** Ήρεμοι εμφανίζονται οι ειδικοί μετά τον χθεσινό σεισμό των 4,5 Ρίχτερ στην Κρήτη.
+
+**B** Τη σύλληψη ενός 38χρονου στο λιμάνι ανακοίνωσε σήμερα η αστυνομία.
+
+**C** Πέντε μέτρα για την προστασία των δασών από τη φωτιά παρουσίασε σήμερα ο υπουργός.
+
+**D** Χωρίς μαθήματα μένουν σήμερα οι μαθητές στη Φλώρινα, όπου το χιόνι έφτασε τα 40 εκατοστά.
+
+**E** Με 160 ψήφους υπέρ πέρασε χθες από τη Βουλή ο νόμος για το νερό.
+
+**F** Φθηνότερη κατά τρία τοις εκατό είναι από σήμερα η βενζίνη σε όλη τη χώρα.
+:::
+
+([η βενζίνη]{lang="el"} das Benzin, [η κλοπή]{lang="el"} der Diebstahl, [η ανησυχία]{lang="el"}
+die Sorge, [εμφανίζονται]{lang="el"} zeigen sich, [τα εκατοστά]{lang="el"} die Zentimeter)
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Such in jeder Meldung das Wort, das die Schlagzeile aufgreift oder umschreibt:
+[σύλληψη – συνελήφθη]{lang="el"}, [νερό – λειψυδρία]{lang="el"}, [ειδικοί – σεισμολόγοι]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Für die Gesprächssätze: Bei Muster 1 [είναι]{lang="el"} ergänzen, bei Muster 2 das Nomen zum Verb
+machen (Übung 28.1), bei Muster 4 [λένε ότι]{lang="el"} einsetzen. [38χρονος]{lang="el"} wird
+„ein Mann von 38“.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1D, 2F, 3B, 4A, 5E, 6C.
+
+::: {lang="el" .no-audio}
+1. Τα σχολεία στη Φλώρινα είναι κλειστά, γιατί χιονίζει.
+2. Η τιμή της βενζίνης έπεσε τρία τοις εκατό. / Η βενζίνη έγινε πιο φτηνή.
+3. Έπιασαν στον Πειραιά έναν άντρα 38 χρονών, επειδή έκλεψε.
+4. Οι σεισμολόγοι λένε ότι δεν χρειάζεται να ανησυχούμε.
+5. Η Βουλή ψήφισε τον νόμο για τη λειψυδρία.
+6. Η κυβέρνηση ανακοινώνει νέα μέτρα για τα δάση.
+:::
+
+Andere Wortstellungen und [λόγω χιονιού]{lang="el"} (Stufe 1) sind ebenso richtig.
+**Typische Fehler:** Bei 6 [τα μέτρα]{lang="el"} für das Subjekt halten, weil sie vorn stehen;
+das Verb [ανακοινώνει]{lang="el"} ist Singular und gehört zu [η κυβέρνηση]{lang="el"}. Bei 3
+[38χρονος]{lang="el"} als Datum oder Uhrzeit lesen. Auch die Meldungen B und C stellen das
+Objekt nach vorn, ohne Echo-Pronomen, wie Schlagzeile 6.
+:::
+
+<!-- CHECK: Übung 28.5: „Ήρεμοι εμφανίζονται οι ειδικοί“ idiomatisch? „πέρασε από τη Βουλή ο νόμος“; Lesung 38χρονος = τριανταοχτάχρονος -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -486,7 +809,53 @@ Vor dem Hören:
 
 <!-- CHECK: Hörspur: „Στη Βοιωτία τώρα, όπου …“ als Überleitung idiomatisch? „κηρύχθηκαν σε κατάσταση έκτακτης ανάγκης“ (Wortstellung in Titel und Meldung); „δεύτερη μονάδα αφαλάτωσης“; „οδηγήθηκε ενώπιον του εισαγγελέα“ vs. üblicher „οδηγήθηκε στον εισαγγελέα“ -->
 
-<!-- EXERCISE: Hörverstehen der Sendung: direkt nach dem Block, mit ▶ hören, ohne den Text aufzuklappen, höchstens zweimal; sechs bis sieben Inhaltsfragen (Multiple Choice, Antwort im Chat „1a, 2b …“) zu: Grund des Notstands, wo die Entscheidung fiel, was diese Woche erwartet wird, was die Gemeinde fordert, was die Hotelbesitzerin will, was beim 52-Jährigen gefunden wurde und wie er verkauft haben soll, Temperatur morgen; nur Inhaltsfragen, keine Formfragen; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 28.6: Die Sendung verstehen
+
+Hör die Sendung mit ▶, ohne den Text aufzuklappen, höchstens zweimal. Beantworte dann die
+Fragen (im Chat „1b, 2a …“), erst danach Text und Übersetzung.
+
+1. Warum gilt auf zwei Inseln der Notstand? a) Waldbrände · b) Wassermangel · c) ein Erdbeben
+2. Wo fiel die Entscheidung? a) im Ministerium · b) im Gemeinderat · c) im Parlament
+3. Was wird noch diese Woche erwartet? a) Regen · b) eine Entsalzungsanlage · c) zwei
+   Tankschiffe
+4. Was fordert die Gemeinde? a) weniger Touristen · b) eine zweite Entsalzungsanlage · c) Geld
+   für neue Wasserspeicher
+5. Was will die Hotelbesitzerin? a) Entsalzung statt Versprechungen · b) mehr Tankschiffe · c) dass
+   die Touristen Wasser sparen
+6. Was wurde beim 52-Jährigen gefunden, und wie soll er verkauft haben? a) zwanzig Statuen, auf
+   Märkten · b) über zweihundert Münzen, über das Internet · c) zweitausend Münzen, ins Ausland
+7. Wie wird das Wetter ab morgen? a) kühler · b) bis zu 35 Grad · c) Regen auf den Kykladen
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Die Schlagzeilen am Anfang verraten schon Frage 1 und das Thema von 6 und 7. Achte auf
+[λόγω]{lang="el"}, [εντός της εβδομάδας]{lang="el"} und [ζητά]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Frage 3 und 4 hängen an zwei Verben: [αναμένεται]{lang="el"} „wird erwartet“, [ζητά]{lang="el"}
+„fordert“. Bei 6 zählen [διακόσια]{lang="el"} und [μέσω]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1b ([λόγω λειψυδρίας]{lang="el"}), 2a ([σύσκεψη που διεξήχθη το πρωί στο υπουργείο]{lang="el"}),
+3c ([αναμένεται η άφιξη δύο υδροφόρων]{lang="el"}), 4b ([ο δήμος ζητά μια δεύτερη μονάδα
+αφαλάτωσης]{lang="el"}), 5a ([Θέλουμε αφαλάτωση, όχι υποσχέσεις.]{lang="el"}), 6b ([πάνω από
+διακόσια αρχαία νομίσματα … μέσω διαδικτύου]{lang="el"}), 7b ([με τον υδράργυρο να φτάνει τους 35
+βαθμούς]{lang="el"}).
+
+**Typische Fehler:** 3 und 4 vertauschen: Die Tankschiffe kommen sicher, die Anlage ist nur
+eine Forderung. Bei 5 b wählen, weil die Tankschiffe gerade vorkamen; die Hotelbesitzerin will
+aber eine dauerhafte Lösung. Wer bei 6 schwankt, hört noch einmal auf
+[διακόσια]{lang="el"} [ðiaˈkosia]: [δύο χιλιάδες]{lang="el"} klingt ganz anders.
+:::
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -554,7 +923,47 @@ Zwei frei zugängliche Quellen passen zu diesem Kapitel:
   für Griechen in Australien, also über Australien und Griechenland. Ohne Bild ist es schwerer
   als Fernsehnachrichten, dafür hörst du einen anderen Sprecherkreis.
 
-<!-- EXERCISE: Hör-Auftrag mit echter Quelle: ein Δελτίο Ειδήσεων von SBS Ελληνικά (Link https://www.sbs.com.au/language/greek/el) oder die ersten fünf Minuten einer Nachrichtensendung auf ERTflix (https://www.ertflix.gr); (1) ohne Untertitel den Bauplan mitschreiben im Kopf: Wie viele Meldungen, wo ist der Übergang (Ortswechsel, „Περισσότερα από …“), gibt es einen O-Ton?; (2) Striche für Nominalstil-Nomen auf [-ση]/[-ξη]/[-ψη] und für λόγω/κατά/σύμφωνα με; (3) bei ERTflix mit Untertiteln prüfen, bei SBS ein zweites Mal hören; Auswertung ohne feste Lösung; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 28.7: Hör-Auftrag
+
+Nimm ein [Δελτίο Ειδήσεων]{lang="el"} von [SBS Ελληνικά](https://www.sbs.com.au/language/greek/el)
+oder die ersten fünf Minuten einer Nachrichtensendung auf [ERTflix](https://www.ertflix.gr).
+
+1. **Ohne Untertitel, nur der Bauplan:** Wie viele Meldungen sind es? Wo wechselt das Thema,
+   und woran hast du es gehört? Gibt es einen O-Ton?
+2. **Beim zweiten Hören Striche machen**, an den Fingern oder auf Papier: einen für jedes Nomen
+   auf [-ση, -ξη, -ψη]{lang="el"}, einen für jedes [λόγω, κατά, σύμφωνα με]{lang="el"}.
+3. **Prüfen:** Bei ERTflix mit griechischen Untertiteln, falls vorhanden. Bei SBS ein drittes
+   Mal hören und zu jeder Meldung ein Stichwort nennen, Ort oder Thema.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Themenwechsel hörst du an Pausen, an einem neuen Ort vorn im Satz ([Στην … τώρα]{lang="el"})
+und an Übergaben wie [Περισσότερα από …]{lang="el"}. Das Wetter kommt meist zuletzt.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Die Nomen enden auf unbetontes [-si], [-ksi], [-psi]: [aˈpofasi], [ˈafiksi], [ˈlipsi]. Der
+Genitiv dahinter klingt auf [-u, -as, -is, -on]. [ˈloɣo] und [kaˈta] sind kurz, hör auf den
+Genitiv danach.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Keine feste Lösung. **Gutes Ergebnis:** Die Zahl der Meldungen stimmt auf eine genau, und du
+kannst für mehr als die Hälfte ein Stichwort nennen. Die Striche müssen nicht stimmen; wichtig
+ist, ob dir auffällt, wo die [-ση]{lang="el"}-Nomen dicht stehen: vermutlich in den Schlagzeilen
+und im Sprechertext, seltener im O-Ton. Hast du bei SBS kaum etwas verstanden, liegt das eher am fehlenden Bild als an
+dir: Nimm dann eine ERTflix-Sendung mit Untertiteln und komm später zurück.
+
+**Zweifelsfall:** Ein Nomen zählt, wenn du ein Verb dahinter erkennst ([η απόφαση –
+αποφασίζω]{lang="el"}); [η φύση]{lang="el"} „die Natur“ zählt nicht.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -668,4 +1077,69 @@ geschnappt‘. Zu Hause reden wir aber wie alle.“
 | [πιάνω, έπιασα]{lang="el"} | fassen; (umg.) schnappen, festnehmen |
 :::
 
-<!-- EXERCISE: Nach dem Lesen: Teil A richtig/falsch zum Inhalt (sechs Aussagen: Dauer der Konferenz pro Vorschlag, Länge der Beiträge, Grund für den Themenwechsel, Seismologe, was die Zuschauer sehen, Sprache zu Hause); Teil B im Text je zwei Beispiele suchen für Nominalstil, gelehrte Präposition mit Genitiv, gelehrtes Partizip, Funktionsverb (σημειώνεται); Teil C drei Sätze laut in Kafenion-Griechisch sagen; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 28.8: Nach dem Lesen
+
+**A. Richtig oder falsch?** (im Chat „1r, 2f …“)
+
+1. In der Morgenkonferenz hat jeder Vorschlag zehn Minuten.
+2. Kein Beitrag dauert länger als drei Minuten.
+3. Am Abend ändert sich das erste Thema wegen einer Festnahme.
+4. Ein Seismologe wird ins Studio gebeten.
+5. Die Zuschauer sehen, wie die Sendung entsteht.
+6. Zu Hause sprechen die Journalisten so wie in den Nachrichten.
+
+**B. Such im Text:** zwei Beispiele für Nominalstil, zwei gelehrte Präpositionen mit Genitiv,
+ein gelehrtes Partizip, zwei Funktionsverben.
+
+**C. Ins Kafenion:** Sag diese drei Sätze laut so, wie man sie am Tisch erzählt.
+
+::: {lang="el"}
+1. Στην αίθουσα σύσκεψης του σταθμού διεξάγεται η πρωινή συνάντηση της σύνταξης.
+2. Λόγω της έλλειψης χρόνου, κανένα ρεπορτάζ δεν ξεπερνά τα δύο λεπτά.
+3. Στις οχτώ και μισή σημειώνεται σεισμός 4,6 Ρίχτερ στην Εύβοια.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Für B: Nominalstil erkennst du an [-ση, -ξη, -ψη]{lang="el"} mit Genitiv, Funktionsverben daran,
+dass die Handlung im Nomen daneben steckt.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Vorsicht bei [κατά τη διάρκειά της]{lang="el"}: Welcher Kasus folgt direkt auf
+[κατά]{lang="el"}? Für C: Nomen zu Verben machen (Übung 28.1), [λόγω]{lang="el"} zu
+[επειδή]{lang="el"}, Funktionsverb durch [γίνεται]{lang="el"} ersetzen.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**A:** 1r, 2f (zwei Minuten), 3f (ein Erdbeben), 4r, 5f (sie sehen nur die halbe Stunde), 6f
+([Στο σπίτι όμως μιλάμε όπως όλοι.]{lang="el"}).
+
+**B:** Nominalstil: [η επιλογή των θεμάτων, η ψήφιση ενός νομοσχεδίου, η άνοδος της
+θερμοκρασίας, η έλλειψη χρόνου]{lang="el"}. Präpositionen: [εκτός σταθμού, μέσω δορυφόρου, λόγω
+της έλλειψης, εντός λίγων λεπτών]{lang="el"}. Partizip: [οι συμμετέχοντες]{lang="el"}, das einzige
+im Text. Funktionsverben: [διεξάγεται (η συνάντηση), γίνεται (η επιλογή), σημειώνεται
+(σεισμός)]{lang="el"}.
+
+**Die Falle:** [κατά τη διάρκειά της]{lang="el"} ist [κατά]{lang="el"} + Akkusativ
+„während“; der Genitiv [της]{lang="el"} hängt an [διάρκεια]{lang="el"}. Und
+[προηγήθηκαν]{lang="el"} ist kein Partizip, sondern ein Aorist.
+
+**C**, je eine von mehreren Möglichkeiten:
+
+::: {lang="el" .no-audio}
+1. Το πρωί οι δημοσιογράφοι μαζεύονται στην αίθουσα και κάνουν σύσκεψη.
+2. Επειδή δεν έχουν χρόνο, κανένα ρεπορτάζ δεν είναι πάνω από δύο λεπτά.
+3. Στις οχτώμισι γίνεται σεισμός στην Εύβοια, 4,6 Ρίχτερ.
+:::
+
+In 3 ist [γίνεται]{lang="el"} auch Funktionsverb, aber ein alltägliches; genauso gut:
+[έγινε σεισμός]{lang="el"}, wenn du im Nachhinein erzählst.
+:::
