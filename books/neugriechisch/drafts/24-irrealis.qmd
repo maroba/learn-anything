@@ -107,7 +107,6 @@ klärt @sec-irrealis-drei-aufgaben.
 |---|---|---|
 | [σαν σήμερα]{lang="el"} | [san ˈsimera] | heute vor … Jahren, an diesem Tag |
 | [φαντάζομαι, φαντάστηκα]{lang="el"} | [faˈdazome], [faˈdastika] | sich vorstellen; annehmen; [Φαντάσου!]{lang="el"} Stell dir vor! |
-| [ο αυτοκράτορας]{lang="el"} | [o aftoˈkratoras] | der Kaiser |
 | [το κανόνι]{lang="el"} | [to kaˈnoni] | die Kanone |
 | [Ποιος ξέρει;]{lang="el"} | [pços ˈkseri] | Wer weiß? |
 | [μακάρι]{lang="el"} | [maˈkari] | hoffentlich; + [να]{lang="el"} + Vergangenheit: wenn doch, hätte ich doch |
