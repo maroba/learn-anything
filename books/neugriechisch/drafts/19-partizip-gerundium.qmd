@@ -731,7 +731,7 @@ lange von dort bis zum See?
 
 **Teil C.** Zweiter Durchgang: Zähl die Gerundien ([-odas]) und die Partizipien ([-ˈmeno]).
 
-Im Chat etwa: „c e d a b, 3/1; 1f, 2r, …; 4 und 1“.
+Im Chat im Format „a b c d e, 2/2; 1r, 2f, …; 3 und 3“.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
