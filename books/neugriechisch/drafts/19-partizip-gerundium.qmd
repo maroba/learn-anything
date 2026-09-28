@@ -414,20 +414,23 @@ das Partizip richtet sich nach dem Objekt.
 **a1, b2, c3, d2, e2, f1, g2, h4.**
 
 - a) [Η πόρτα του καταφυγίου κλειδώθηκε στις δέκα.]{lang="el"} Zeitstempel, Ereignis.
-- b) [Τώρα είναι κλειδωμένη.]{lang="el"} Weiblich wie [η πόρτα]{lang="el"}.
+- b) [Τώρα είναι κλειδωμένη.]{lang="el"} Weiblich wie [η πόρτα]{lang="el"}. [κλειστή]{lang="el"}
+  hieße nur „zu“; „abgeschlossen“, mit Schlüssel, ist [κλειδωμένη]{lang="el"}.
 - c) [Το φαράγγι είναι κλειστό λόγω βροχής.]{lang="el"} Als Schlagzeile: [Κλειστό το
   φαράγγι.]{lang="el"}
 - d) [Το κρεβάτι στο καταφύγιο είναι κλεισμένο.]{lang="el"} Hier gerade nicht
-  [κλειστό]{lang="el"}: Ein „geschlossenes“ Bett gibt es nicht, ein gebuchtes schon.
+  [κλειστό]{lang="el"}: Ein „geschlossenes“ Bett gibt es nicht, ein gebuchtes schon. Ebenso
+  üblich: [κρατημένο]{lang="el"} „reserviert“.
 - e) [Το μενού είναι γραμμένο μόνο στα ελληνικά.]{lang="el"}
-- f) [Το μονοπάτι σημαδεύτηκε το 2010.]{lang="el"}
+- f) [Το μονοπάτι σημαδεύτηκε το 2010.]{lang="el"} Auf Wanderkarten und Schildern steht die
+  gehobene Form: [σηματοδοτημένο μονοπάτι]{lang="el"} „markierter Weg“.
 - g) [Μετά από οκτώ ώρες είμαστε κουρασμένοι.]{lang="el"}
 - h) [Τα έχω κλεισμένα.]{lang="el"} Auch richtig ist das Perfekt [Τα έχω κλείσει.]{lang="el"};
   es meldet eher die erledigte Handlung.
 
 **Typische Fehler:** \*[είναι κλείσει, είναι κλειδωθεί]{lang="el"}: Die Form auf
 [-ει]{lang="el"} steht nur nach [έχω]{lang="el"}, nach [είμαι]{lang="el"} kommt das Partizip.
-Bei a) \*[ήταν κλειδωμένη στις δέκα]{lang="el"} ist grammatisch möglich, heißt aber „war um zehn
+Bei a) passt [ήταν κλειδωμένη στις δέκα]{lang="el"} hier nicht: Es ist grammatisch möglich, heißt aber „war um zehn
 (schon) abgeschlossen“, beschreibt also den Zustand, nicht das Abschließen. Bei h) nicht
 \*[κλεισμένος]{lang="el"} nach dem Sprecher: Das Partizip richtet sich nach [τα
 εισιτήρια]{lang="el"}.

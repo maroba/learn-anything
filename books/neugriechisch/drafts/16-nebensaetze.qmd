@@ -738,16 +738,17 @@ verschiebt den Sinn nur leicht.
 8. [Αν και ο μισθός του είναι μικρός, βοηθάει τους γονείς του.]{lang="el"}
 9. [Μείναμε, αν και θέλαμε να φύγουμε.]{lang="el"} Das [να]{lang="el"} gehört zu
    [θέλαμε]{lang="el"}, nicht zu [αν και]{lang="el"}.
+10. [Πληρώνω πολύ νοίκι, ενώ ο αδερφός μου μένει με τους γονείς μας.]{lang="el"} Auch
+    [… στο σπίτι των γονιών μας]{lang="el"}. Zwei Tatsachen im Kontrast, also normales Verb.
 
-**Typischer Fehler:** \*[αν και να …]{lang="el"} nach dem Muster *bien que* + Subjonctif. In 7
-und 9 geht auch [ενώ]{lang="el"}; [παρόλο που]{lang="el"} passt überall.
+**Typischer Fehler:** \*[αν και να …]{lang="el"} nach dem Muster *bien que* + Subjonctif. In 7,
+8 und 9 geht auch [ενώ]{lang="el"}.
 :::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [αν και]{lang="el"} | [an ce] | obwohl |
-| [παρόλο που]{lang="el"} | [paˈrolo pu] | obwohl, obgleich |
 | [ο φόρος]{lang="el"} | [o ˈforos] | die Steuer |
 | [πέφτω, έπεσα]{lang="el"} | [ˈpefto], [ˈepesa] | fallen, sinken |
 :::
