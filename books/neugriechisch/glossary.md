@@ -11,6 +11,10 @@
 - Griechisches Fragezeichen als `;`, Hochpunkt `·`, Anführungszeichen in griechischen Texten «…», Apostroph bei Elision `’` (το ’χω).
 - Grundform ist die standardneutrale Form nach dem Standardwörterbuch des Triantafyllidis-Instituts; Varianten markieren (αγαπάω/αγαπώ).
 - Jedes griechische Wort und jeder griechische Satz mit `lang="el"` auszeichnen.
+- **Schluss-ν** (δε/δεν, μη/μην, τη/την, το/τον): nach der Regel der Schulgrammatik – das ν bleibt vor
+  Vokal und vor κ π τ ξ ψ μπ ντ γκ τσ τζ, sonst fällt es (δε λέει, την πόλη, τη μητέρα). τον und
+  έναν behalten es immer. Einmal in Kapitel 1 erklären und erwähnen, dass viele im Alltag δεν immer
+  schreiben; das ist kein Fehler. Im Buch einheitlich nach der Regel.
 
 ## Aussprache
 
@@ -31,6 +35,11 @@
 | ζ | stimmhaft wie *s* in *Rose* |
 | σ | immer stimmlos wie *ss* in *Tasse* |
 | ρ | getippt wie span. *pero* |
+| [c] (κ vor e/i) | wie *k* in *Kiel* mit einem Hauch *j* |
+| [ɟ] (γκ/γγ vor e/i) | wie *g* in *Gier* mit einem Hauch *j* |
+| [ʎ] (λι vor Vokal) | wie *lj* in *Million*, verschmolzen |
+| [ɲ] (νι vor Vokal) | wie span. *ñ* |
+| [ŋ] (γ vor κ/γ/χ) | wie *ng* in *Engel*; γγ = [ŋg] |
 
 ## Transliteration
 

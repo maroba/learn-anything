@@ -225,7 +225,90 @@ drittletzten Silbe, und wo es nur zwei gibt, auf der ersten.
 Die umgangssprachlichen Formen der dritten Person Plural auf [-ανε]{lang="el"} hörst du hier
 besonders oft: [πήγανε, ήρθανε, είδανε, κάνανε]{lang="el"}.
 
-<!-- EXERCISE: Übung 3.1 – Lernziel: Bauform der unregelmäßigen Aoriste erkennen und wir-/ihr-/sie-Formen richtig bilden (Augment bleibt bei zweisilbigen, fällt bei έ-, Betonung wandert bei ανέβηκα); Art: Teil A Formen laut bilden (ich → wir/sie), Teil B Fehler finden in einer Liste (u.a. *δαμε, *έκαναμε, *ανέβηκαμε, richtige Formen dazwischen), Antwort mit Nummern möglich; nur Verben aus diesem Abschnitt und dem Einstieg (πάω, κάνω, έρχομαι, βλέπω, λέω, βρίσκω, ανεβαίνω, φεύγω), Präsens vorgeben; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 3.1: Welche Bauform?
+
+**Teil A: umformen.** Präsens und ich-Form sind vorgegeben. Bring die Form in die neue Person,
+sag sie laut mit Betonung und nenn die Bauform (1, 2 oder 3).
+
+a) [πάω]{lang="el"}, [πήγα]{lang="el"} → wir
+b) [κάνω]{lang="el"}, [έκανα]{lang="el"} → wir
+c) [έρχομαι]{lang="el"}, [ήρθα]{lang="el"} → sie (Plural), beide Formen
+d) [βλέπω]{lang="el"}, [είδα]{lang="el"} → ihr
+e) [ανεβαίνω]{lang="el"}, [ανέβηκα]{lang="el"} → wir
+f) [λέω]{lang="el"}, [είπα]{lang="el"} → wir
+g) [φεύγω]{lang="el"}, [έφυγα]{lang="el"} → sie (Plural), beide Formen
+h) [βρίσκω]{lang="el"}, [βρήκα]{lang="el"} → ihr
+
+**Teil B: Fehler finden.** Welche Formen sind falsch, und wie heißen sie richtig? (Im Chat
+reichen die Nummern der falschen.)
+
+::: {lang="el" .no-audio}
+1. δαμε
+2. κάναμε
+3. έκαναμε
+4. πήγαμε
+5. ανέβηκαμε
+6. ρθατε
+7. έφυγαν
+8. έφυγαμε
+9. βρήκανε
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Erst die ich-Form ansehen: zwei Silben (Bauform 1), betontes [έ-]{lang="el"} vorn (Bauform 2)
+oder eine Vorsilbe vor dem betonten [έ]{lang="el"} (Bauform 3)? Dann Silben zählen, von hinten.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Weg darf nur ein betontes [έ-]{lang="el"}, das im Plural keine Aufgabe mehr hat. [ή-]{lang="el"}
+und [εί-]{lang="el"} gehören zum Stamm. In Teil B sind genau vier Formen richtig.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+- a) [πήγαμε]{lang="el"} [ˈpiɣame], Bauform 1: Der Anfang bleibt.
+- b) [κάναμε]{lang="el"} [ˈkaname], Bauform 2: [-αμε]{lang="el"} bringt die dritte Silbe mit,
+  das Augment fällt.
+- c) [ήρθαν]{lang="el"} [ˈirθan], umg. [ήρθανε]{lang="el"} [ˈirθane], Bauform 1. Beide Formen
+  betont auf [ή-]{lang="el"}.
+- d) [είδατε]{lang="el"} [ˈiðate], Bauform 1.
+- e) [ανεβήκαμε]{lang="el"} [aneˈvikame], Bauform 3: Die Betonung rückt mit auf die
+  drittletzte Silbe.
+- f) [είπαμε]{lang="el"} [ˈipame], Bauform 1.
+- g) [έφυγαν]{lang="el"} [ˈefiʝan], umg. [φύγανε]{lang="el"} [ˈfiʝane], Bauform 2. Wie
+  [έγραψαν – γράψανε]{lang="el"} in Kapitel 2: Die neutrale Form hat ohne Augment nur zwei
+  Silben, also bleibt es; die lange Form braucht es nicht.
+- h) [βρήκατε]{lang="el"} [ˈvrikate], Bauform 1.
+
+Typische Fehler: \*[ανέβηκαμε]{lang="el"} mit der Betonung der ich-Form, bei a) [πάμε]{lang="el"},
+das Präsens „wir gehen“, und bei g) die neutrale Form ohne Augment.
+
+**Teil B:** Richtig sind **2, 4, 7 und 9**.
+
+1. \*[δαμε]{lang="el"} → [είδαμε]{lang="el"}: [εί-]{lang="el"} ist kein Augment, sondern Teil
+   des Stamms.
+2. [κάναμε]{lang="el"}: **richtig**.
+3. \*[έκαναμε]{lang="el"} → [κάναμε]{lang="el"}: Das Augment wäre unbetont.
+4. [πήγαμε]{lang="el"}: **richtig**.
+5. \*[ανέβηκαμε]{lang="el"} → [ανεβήκαμε]{lang="el"}: Betonung auf der viertletzten Silbe gibt
+   es nicht.
+6. \*[ρθατε]{lang="el"} → [ήρθατε]{lang="el"}: wie 1.
+7. [έφυγαν]{lang="el"}: **richtig**, ohne Augment blieben nur zwei Silben.
+8. \*[έφυγαμε]{lang="el"} → [φύγαμε]{lang="el"}: wie 3.
+9. [βρήκανε]{lang="el"}: **richtig**, die umgangssprachliche Form von [βρήκαν]{lang="el"}.
+
+Wer 1 und 6 für richtig hielt, hat die Regel aus Kapitel 2 zu gründlich gelernt: Sie gilt für
+das Augment, und die zweisilbigen Formen haben keins mehr, das man weglassen könnte.
+:::
 
 ## Gehen, kommen, weg: [πήγα, ήρθα, έφυγα]{lang="el"} {#sec-unreg-unterwegs}
 
@@ -399,7 +482,85 @@ Normal gesagt heißt es: [Τελικά βρήκα τα κλειδιά στο ψ�
 der Antwort auf das Willkommen, [Καλώς σε βρήκα]{lang="el"}, und im Satz, den jeder Mensch
 irgendwann einmal ruft: [Το βρήκα!]{lang="el"} „Ich hab's!“
 
-<!-- EXERCISE: Übung 3.2 – Lernziel: Aoriste von πάω, έρχομαι, φεύγω, μπαίνω, βγαίνω, ανεβαίνω, κατεβαίνω, βρίσκω abrufen und im Satz verwenden, inkl. Gebrauch bei Verkehrsmitteln (ανεβαίνω/κατεβαίνω στο λεωφορείο, μπαίνω στο αυτοκίνητο) und βγαίνω = ausgehen; Art: Teil A Gegenteil nennen (μπήκα ↔ βγήκα, ανέβηκα ↔ κατέβηκα, πήγα ↔ ήρθα) in verschiedenen Personen, Teil B kurze Sätze einer Reise mündlich übersetzen (Deutsch → Griechisch, wir-Formen mit Betonung); Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 3.2: Rein, raus, hin, her
+
+**Teil A: das Gegenteil.** Sag laut das Gegenteil, in derselben Person.
+
+a) [μπήκα]{lang="el"}
+b) [ανεβήκαμε]{lang="el"}
+c) [ήρθες]{lang="el"}
+d) [κατέβηκαν]{lang="el"}
+e) [βγήκατε]{lang="el"}
+f) [πήγαμε]{lang="el"}
+g) [ανέβηκε]{lang="el"}
+
+**Teil B: mündlich übersetzen.** Eine Reise in der wir-Form. Achte auf die Betonung und darauf,
+wie man in welches Verkehrsmittel steigt.
+
+1. Wir sind nach Kefalonia gefahren.
+2. Wir sind in den Bus gestiegen und am Hafen ausgestiegen.
+3. Auf dem Schiff haben wir keinen Platz gefunden.
+4. In Poros sind wir ins Auto gestiegen.
+5. Am Abend waren wir aus.
+6. Hast du die Schlüssel gefunden?
+7. Wann seid ihr gekommen?
+8. Sie (Plural) sind am Syntagma ausgestiegen.
+
+**Bausteine:** [στην Κεφαλονιά]{lang="el"} · [στο λεωφορείο]{lang="el"} ·
+[στο λιμάνι]{lang="el"} · [στο πλοίο]{lang="el"} · [στον Πόρο]{lang="el"} ·
+[στο αυτοκίνητο]{lang="el"} · [στο Σύνταγμα]{lang="el"} · [θέση]{lang="el"} ·
+[τα κλειδιά]{lang="el"} · [πότε]{lang="el"} wann.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Der Aufzug hat vier Knöpfe: [μπήκα]{lang="el"} rein, [βγήκα]{lang="el"} raus,
+[ανέβηκα]{lang="el"} rauf, [κατέβηκα]{lang="el"} runter. Dazu das Paar *go* und *come*:
+[πήγα]{lang="el"}, [ήρθα]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+In Bus und Schiff steigt man „hinauf“ und „hinab“, ins Auto „geht man hinein“. „Aus sein“ ist
+[βγαίνω]{lang="el"}. Bei den Formen mit Vorsilbe wandert die Betonung im Plural:
+[ανεβήκαμε]{lang="el"}, aber [κατέβηκαν]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+- a) [βγήκα]{lang="el"}
+- b) [κατεβήκαμε]{lang="el"} [kateˈvikame]
+- c) [πήγες]{lang="el"}; wenn „weggehen“ gemeint ist, auch [έφυγες]{lang="el"}.
+- d) [ανέβηκαν]{lang="el"} [aˈnevikan], umg. [ανεβήκανε]{lang="el"}
+- e) [μπήκατε]{lang="el"}
+- f) [ήρθαμε]{lang="el"}
+- g) [κατέβηκε]{lang="el"}
+
+**Teil B**
+
+1. [Πήγαμε στην Κεφαλονιά.]{lang="el"} [πάω]{lang="el"} fragt nicht nach Fähre oder Flugzeug.
+2. [Ανεβήκαμε στο λεωφορείο και κατεβήκαμε στο λιμάνι.]{lang="el"} [Μπήκαμε στο λεωφορείο]{lang="el"}
+   hört man auch, die typische Wendung ist aber [ανεβαίνω]{lang="el"}.
+3. [Στο πλοίο δεν βρήκαμε θέση.]{lang="el"}
+4. [Στον Πόρο μπήκαμε στο αυτοκίνητο.]{lang="el"} Ins Auto: [μπαίνω]{lang="el"}, nicht
+   [ανεβαίνω]{lang="el"}.
+5. [Το βράδυ βγήκαμε.]{lang="el"} Mehr braucht es nicht; [βγήκαμε]{lang="el"} allein heißt
+   schon „wir waren aus“.
+6. [Βρήκες τα κλειδιά;]{lang="el"}
+7. [Πότε ήρθατε;]{lang="el"} [ˈpote ˈirθate]: [ή-]{lang="el"} bleibt.
+8. [Κατέβηκαν στο Σύνταγμα.]{lang="el"} [kaˈtevikan], umg. [Κατεβήκανε]{lang="el"}
+   [kateˈvikane].
+
+Typische Fehler: \*[ανέβηκαμε]{lang="el"} und \*[κατέβηκαμε]{lang="el"} mit der Betonung der
+ich-Form; \*[έρθατε]{lang="el"}, wo das [ή]{lang="el"} zum [έ]{lang="el"} des Präsens
+zurückgerutscht ist.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -506,7 +667,71 @@ der Sprache: [Πήρα το πλοίο.]{lang="el"} „Ich habe die Fähre genom
 
 <!-- CHECK: συμπόσιον zur Wurzel von πίνω (πο-/πι-); ἀνέκδοτος "nicht herausgegeben" zu ἐκδίδωμι/δίδωμι; Sarkophag-Deutung (Plinius) -->
 
-<!-- EXERCISE: Übung 3.3 – Lernziel: έφαγα, ήπια, έδωσα, πήρα (und Wiederholung μπήκα/βγήκα/βρήκα/ήρθα) in allen Personen abrufen; Art: mündlich übersetzen Deutsch → Griechisch, kurze Sätze vom griechischen Tisch und aus der Kyklopen-Szene aus Sicht der Gefährten (wir-Formen, sie-Formen: „Wir haben Käse gefunden und gegessen“, „Er hat drei Gläser getrunken“, „Hast du die Fähre genommen?“, „Was hast du ihm gegeben?“); Lösung mit Varianten (Pronomen vor dem Verb nur als Hilfe vorgeben); Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 3.3: Was auf den Tisch kam
+
+Mündlich übersetzen. Die ersten Sätze erzählen die Gefährten des Odysseus, die letzten spielen
+heute.
+
+1. Wir haben Käse gefunden und gegessen.
+2. Er hat drei Gläser Wein getrunken.
+3. Was hast du ihm gegeben? – Wein.
+4. Wir haben ihm Wein gegeben, nicht Wasser.
+5. Er hat zwei Gefährten genommen und sie gefressen.
+6. Am Morgen sind wir aus der Höhle hinaus.
+7. Die Freunde sind gekommen, haben gegessen und sind gegangen.
+8. Habt ihr nichts getrunken?
+9. Hast du die Fähre genommen?
+
+**Hilfen:** [του]{lang="el"} ihm · [τους]{lang="el"} sie (Plural) · beide stehen vor dem Verb ·
+[το τυρί]{lang="el"} der Käse · [τρία ποτήρια]{lang="el"} drei Gläser ·
+[το νερό]{lang="el"} das Wasser · [δύο συντρόφους]{lang="el"} zwei Gefährten (Akkusativ) ·
+[το πρωί]{lang="el"} am Morgen · [οι φίλοι]{lang="el"} die Freunde.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Zuerst das Verb: [τρώω → έφαγα]{lang="el"}, [πίνω → ήπια]{lang="el"},
+[δίνω → έδωσα]{lang="el"}, [παίρνω → πήρα]{lang="el"}. Dann die Person, dann die Bauform:
+Bleibt der Anfang, oder fällt ein betontes [έ-]{lang="el"}?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[ήπια]{lang="el"} und [πήρα]{lang="el"} sind zweisilbig und behalten ihren Anfang in allen
+Personen. [έφαγα]{lang="el"} und [έδωσα]{lang="el"} verlieren das [έ-]{lang="el"} vor
+[-αμε, -ατε]{lang="el"}, behalten es aber in [έφαγαν]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [Βρήκαμε τυρί και φάγαμε.]{lang="el"} Auch [τυριά]{lang="el"} wie im Text. Wer „ihn“
+   mitsagen will: [και το φάγαμε]{lang="el"} (Kapitel 8).
+2. [Ήπιε τρία ποτήρια κρασί.]{lang="el"} [ˈipçe]. Kein „von“: Mengen stehen direkt vor dem
+   Nomen, wie in *drei Gläser Wein*.
+3. [Τι του έδωσες; – Κρασί.]{lang="el"}
+4. [Του δώσαμε κρασί, όχι νερό.]{lang="el"} [ˈðosame]: Bauform 2, das Augment fällt.
+5. [Πήρε δύο συντρόφους και τους έφαγε.]{lang="el"} [παίρνω]{lang="el"} heißt auch
+   „packen, sich schnappen“.
+6. [Το πρωί βγήκαμε από τη σπηλιά.]{lang="el"}
+7. [Οι φίλοι ήρθαν, έφαγαν και έφυγαν.]{lang="el"} Umgangssprachlich
+   [ήρθανε, φάγανε και φύγανε]{lang="el"}. Achte auf [έφαγαν, έφυγαν]{lang="el"}: Ohne Augment
+   blieben zwei Silben.
+8. [Δεν ήπιατε τίποτα;]{lang="el"} [ˈipçate]
+9. [Πήρες το πλοίο;]{lang="el"}
+
+Typische Fehler: \*[εφάγαμε]{lang="el"} oder \*[έφαγαμε]{lang="el"} (Augment stehen gelassen),
+\*[πίαμε]{lang="el"} (das [ή]{lang="el"} weggenommen, als wäre es ein Augment),
+\*[έπινα]{lang="el"} statt [ήπια]{lang="el"}: [έπινα]{lang="el"} gibt es, aber es ist die
+Film-Form „ich trank (gerade, gewöhnlich)“ aus Kapitel 4, gebaut aus dem imperfektiven Stamm.
+
+Nebenbei: Satz 9 hat eine zweite Lesart. [Πήρες …;]{lang="el"} ist auch „Hast du …
+bekommen?“, etwa [Πήρες το μήνυμά μου;]{lang="el"} Bei [το πλοίο]{lang="el"} ist die Sache
+aber klar.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -617,7 +842,76 @@ mit Frauenköpfen.
 
 <!-- CHECK: Od. 12.184–191 Inhalt; Knochenhaufen Od. 12.45–46; Homer beschreibt das Aussehen nicht, frühe Darstellungen als Vogel-Frauen -->
 
-<!-- EXERCISE: Übung 3.4 – Lernziel: είδα, είπα, έμαθα sicher dem Präsens zuordnen und von Präsensformen unterscheiden (βλέπω/είδα, λέω/είπα, μαθαίνω/έμαθα), μαθαίνω in der Bedeutung „erfahren“; Art: Auswählen mit Begründung (Multiple Choice mit Nummern): kurze Alltagssätze mit Lücke, je drei Optionen (Präsens, Aorist, falsch gebildete Form wie *έβλεψα, *έλεξα, *μαθαίναμε); dazu zwei Sätze „ich habe erfahren, dass …“ zum laut Übersetzen; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 3.4: Gesehen, gesagt, erfahren
+
+**Teil A: auswählen.** Welche Form passt? Eine ist Präsens, eine Aorist, eine gibt es nicht.
+Begründe deine Wahl im Kopf (im Chat reicht „1c, 2a, …“).
+
+::: {lang="el" .no-audio}
+1. Χθες το βράδυ ___ μια ταινία. (a) βλέπω (b) έβλεψα (c) είδα
+2. Κάθε πρωί ___ τη θάλασσα από το μπαλκόνι. (a) βλέπω (b) είδα (c) έβλεψα
+3. Χθες ___ στη μητέρα μου ότι έρχομαι. (a) λέω (b) είπα (c) έλεξα
+4. Πού ___ τόσο καλά ελληνικά; (a) μαθαίνεις (b) μάθες (c) έμαθες
+5. Μόλις ___ ότι ο Νίκος έφυγε από την εταιρεία. (a) έμαθα (b) μάθα (c) μαθαίνω
+6. Ο παππούς μου πάντα ___: «Σιγά σιγά». (a) είπε (b) λέει (c) έλεξε
+7. Χθες ___ τον Γιώργο στο λιμάνι. (a) βλέπουμε (b) δαμε (c) είδαμε
+:::
+
+**Worthilfen:** [η ταινία]{lang="el"} der Film · [το μπαλκόνι]{lang="el"} der Balkon ·
+[τόσο]{lang="el"} so · [μόλις]{lang="el"} gerade eben · [πάντα]{lang="el"} immer ·
+[σιγά σιγά]{lang="el"} immer mit der Ruhe, nach und nach.
+
+**Teil B: „Ich habe gehört, dass …“** Übersetze laut.
+
+1. Ich habe gehört, dass Odysseus weg ist.
+2. Wir haben gestern erfahren, dass ihr gekommen seid.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Die Zeitangabe entscheidet: [χθες, μόλις]{lang="el"} erzählen ein Ereignis,
+[κάθε πρωί, πάντα]{lang="el"} beschreiben, was immer so ist. Die falschen Formen sehen
+plausibel aus, stehen aber in keinem Wörterbuch.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Die falschen Formen tun so, als wären [βλέπω]{lang="el"} und [λέω]{lang="el"} regelmäßig, oder
+sie amputieren den Anfang. Und „hören, dass“ im Sinne von „erfahren“ ist
+meist [μαθαίνω]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1c, 2a, 3b, 4c, 5a, 6b, 7c.**
+
+1. [είδα]{lang="el"}: Gestern, ein Film, ganz gesehen. \*[έβλεψα]{lang="el"} wäre der Aorist,
+   wenn [βλέπω]{lang="el"} regelmäßig wäre wie [γράφω → έγραψα]{lang="el"}. Ist es nicht.
+2. [βλέπω]{lang="el"}: jeden Morgen, also Präsens. \*[έβλεψα]{lang="el"} gibt es auch hier nicht.
+3. [είπα]{lang="el"}: [χθες]{lang="el"} verlangt die Vergangenheit. \*[έλεξα]{lang="el"} ist ein
+   Phantom nach dem Muster von [ψάχνω → έψαξα]{lang="el"}.
+4. [έμαθες]{lang="el"}: So gut spricht man erst, wenn das Lernen als Ganzes hinter einem liegt.
+   [Πού μαθαίνεις ελληνικά;]{lang="el"} „Wo lernst du Griechisch?“ ist auch ein richtiger Satz,
+   passt aber schlecht zu [τόσο καλά]{lang="el"}. \*[μάθες]{lang="el"} hat nur zwei Silben und
+   braucht das Augment.
+5. [έμαθα]{lang="el"}: hier „ich habe erfahren“. \*[μάθα]{lang="el"}: wie in 4.
+6. [λέει]{lang="el"}: [πάντα]{lang="el"}, eine Gewohnheit, also Präsens. Für „er hat immer
+   gesagt“ bräuchte es das Imperfekt (Kapitel 4), nicht [είπε]{lang="el"}.
+7. [είδαμε]{lang="el"}. \*[δαμε]{lang="el"} ist der Klassiker aus diesem Kapitel.
+
+**Teil B**
+
+1. [Έμαθα ότι ο Οδυσσέας έφυγε.]{lang="el"} Das deutsche Präsens „weg ist“ wird zum Aorist:
+   Er ist gegangen. Umgangssprachlich auch [Άκουσα ότι …]{lang="el"}, wörtlich „ich habe
+   gehört“.
+2. [Χθες μάθαμε ότι ήρθατε.]{lang="el"} Zwei Bauformen in einem Satz:
+   [μάθαμε]{lang="el"} ohne Augment, [ήρθατε]{lang="el"} mit festem Anfang. Das Wort
+   [χθες]{lang="el"} darf auch hinter das Verb: [Μάθαμε χθες ότι ήρθατε.]{lang="el"}
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -718,7 +1012,86 @@ Präsens auf [-αίνω]{lang="el"} ([μπήκα ← μπαίνω]{lang="el"}), 
 auch mit [-αίνω]{lang="el"}.
 :::
 
-<!-- EXERCISE: Übung 3.5 – Lernziel: alle sechzehn Aoriste des Kapitels (plus έφυγα, έμεινα) aus dem Präsens bilden und in einer Erzählung verwenden, Bauform und Betonung beachten; Art: Sätze laut umformen – ein kurzer Urlaubsbericht im Präsens (πάω, μένω, βλέπω, τρώω, πίνω, κάνω, μαθαίνω …) soll als Erzählung von gestern bzw. letztem Sommer im Aorist erzählt werden, teils ich-, teils wir-Form; Lösung mit typischen Fehlern (*δαμε, *έκαναμε, *πεθανα ohne Betonung, *έβλεψα, *έπινα statt ήπια); Schwierigkeit 3 -->
+::: {.callout-note .exercise}
+## Übung 3.5: Letzten Sommer auf Ithaka
+
+**Teil A: erzählen.** Jemand hat seinen Ausflug im Präsens notiert, als liefe er gerade ab.
+Erzähl denselben Tag laut in der Vergangenheit, als wäre er letzten Sommer gewesen. Jeder Satz
+ist ein Ereignis, also Aorist; Person und alles andere bleiben.
+
+::: {lang="el"}
+1. Το πρωί πάμε στο λιμάνι και παίρνουμε το πλοίο για την Ιθάκη.
+2. Στο πλοίο πίνω έναν καφέ.
+3. Στην Ιθάκη βγαίνουμε από το πλοίο και ανεβαίνουμε σε έναν λόφο.
+4. Πάνω βλέπουμε μόνο πέτρες.
+5. Ένας γέρος λέει μια ιστορία για τον Οδυσσέα.
+6. Το μεσημέρι τρώμε ψάρι σε μια ταβέρνα.
+7. Μετά κατεβαίνουμε στη θάλασσα και κάνουμε μπάνιο.
+8. Το βράδυ δεν φεύγουμε· μένουμε στο νησί.
+9. Μαθαίνω πολλά για την Ιθάκη.
+:::
+
+**Worthilfen:** [ο καφές]{lang="el"} der Kaffee · [η ιστορία]{lang="el"} die Geschichte ·
+[το ψάρι]{lang="el"} der Fisch · [η ταβέρνα]{lang="el"} die Taverne ·
+[κάνω μπάνιο]{lang="el"} baden (im Meer) · [πολλά]{lang="el"} viel, vieles.
+
+**Teil B: noch drei Verben.** Bilde laut:
+
+a) [πεθαίνω]{lang="el"} → er, dann wir
+b) [μένω]{lang="el"} → sie (Plural), beide Formen
+c) [τρώω]{lang="el"} → ihr
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Erst jedes Präsens in die ich-Form des Aorists übersetzen, die du auswendig kennst
+([πάμε → πήγα]{lang="el"}), dann in die Person des Satzes. Die Tabelle in „Das Wichtigste“ ist
+erlaubt, aber erst nach dem ersten Versuch.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Von den wir-Formen behalten vier ihren Anfang ([πήγαμε, πήραμε, βγήκαμε, είδαμε]{lang="el"}),
+vier verlieren ein betontes [έ-]{lang="el"} (von [τρώω, κάνω, φεύγω, μένω]{lang="el"}), und
+zwei verschieben die Betonung ([ανεβαίνω, κατεβαίνω]{lang="el"}).
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+1. [Το πρωί **πήγαμε** στο λιμάνι και **πήραμε** το πλοίο για την Ιθάκη.]{lang="el"}
+2. [Στο πλοίο **ήπια** έναν καφέ.]{lang="el"}
+3. [Στην Ιθάκη **βγήκαμε** από το πλοίο και **ανεβήκαμε** σε έναν λόφο.]{lang="el"}
+4. [Πάνω **είδαμε** μόνο πέτρες.]{lang="el"}
+5. [Ένας γέρος **είπε** μια ιστορία για τον Οδυσσέα.]{lang="el"}
+6. [Το μεσημέρι **φάγαμε** ψάρι σε μια ταβέρνα.]{lang="el"}
+7. [Μετά **κατεβήκαμε** στη θάλασσα και **κάναμε** μπάνιο.]{lang="el"}
+8. [Το βράδυ δεν **φύγαμε**· **μείναμε** στο νησί.]{lang="el"}
+9. [**Έμαθα** πολλά για την Ιθάκη.]{lang="el"}
+
+Typische Fehler, nach Häufigkeit:
+
+- \*[δαμε]{lang="el"} (4) und \*[πάγαμε]{lang="el"} (1): Der feste Anfang wurde behandelt wie
+  ein Augment oder aus dem Präsens übernommen.
+- \*[έκαναμε, έφαγαμε, έμειναμε]{lang="el"} (6–8): Das Augment ist unbetont und muss weg.
+- \*[ανέβηκαμε, κατέβηκαμε]{lang="el"} (3, 7): Die Betonung muss auf die drittletzte Silbe.
+- \*[βλέψαμε]{lang="el"} (4): regelmäßig gebildet wie [γράψαμε]{lang="el"}, gibt es nicht.
+- [έπινα]{lang="el"} statt [ήπια]{lang="el"} (2): Die Form gibt es, aber aus dem
+  imperfektiven Stamm, als Film (Kapitel 4). Hier ist der Kaffee ausgetrunken.
+- In 8 bleibt [δεν]{lang="el"} einfach vor dem Verb: [δεν φύγαμε]{lang="el"}.
+
+**Teil B**
+
+- a) [πέθανε]{lang="el"} [ˈpeθane], [πεθάναμε]{lang="el"} [peˈθaname]. Kein Augment, die
+  Betonung wandert wie bei [διάβασα – διαβάσαμε]{lang="el"}. Falsch: \*[πέθαναμε]{lang="el"}
+  (viertletzte Silbe) und \*[έπεθανα]{lang="el"}: Drei Silben sind schon da.
+- b) [έμειναν]{lang="el"} [ˈeminan], umg. [μείνανε]{lang="el"} [ˈminane].
+- c) [φάγατε]{lang="el"} [ˈfaɣate].
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -853,9 +1226,155 @@ Einige dieser Aoriste leben ein Zweitleben als Diskursmarker, und die hörst du 
   oder „Ist ja gut, hab's verstanden.“
 - [Το ’μαθες;]{lang="el"} „Hast du schon gehört?“ Danach kommt Klatsch.
 
-<!-- EXERCISE: Übung 3.6 – Lernziel: elidierte Aoristformen beim Hören und Lesen auflösen (το ’δα, μου ’πε, σ’ το ’πα, τα ’φαγα, το ’κανα, μου ’ρθε) und Präsens/Aorist-Paare am Klang unterscheiden (πάμε/πήγαμε, τρώμε/φάγαμε, λέμε/είπαμε, βλέπουμε/είδαμε); Art: Hörbild entschlüsseln – Schnellsprech-Sätze in Standardform zurückführen und dem Präsens zuordnen, dazu Zuordnen „Präsens oder Aorist?“ nach IPA-Umschrift; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 3.6: Was das Ohr verschluckt
 
-<!-- EXERCISE: Übung 3.7 – Hör-Auftrag – Lernziel: unregelmäßige Aoriste in echter, schneller Rede erkennen; Art: Hör-Auftrag mit Easy Greek (https://www.youtube.com/@EasyGreekVideos), Straßeninterview über Urlaub/Ferien (auf dem Kanal nach „διακοπές“ suchen; Anschluss an Übung 2.6, die zur Wiederholung nach Kapitel 3 auffordert): erst den Baklava-Dialog oben zweimal mit ▶ ohne mitzulesen hören und die Aoriste zählen (Lösung: exakte Zahl), dann die ersten drei Minuten des Interviews ohne Untertitel mit Strichliste für πήγα/πήγαμε, ήρθα, είδα, έφαγα, ήπια, έκανα, έμεινα, danach mit griechischen Untertiteln prüfen; Auswertungshinweise statt fester Lösung für das Interview; keine erfundenen Video-URLs; Schwierigkeit 2 -->
+**Teil A: auflösen.** So klingen die Sätze in schneller Rede. Sag jeden in der geschriebenen
+Vollform, nenn das Präsens des Verbs und übersetze.
+
+1. [Το ’δες;]{lang="el"}
+2. [Μου ’πε ότι έρχεται.]{lang="el"}
+3. [Σ’ το ’πα!]{lang="el"}
+4. [Δεν τα ’φαγα εγώ.]{lang="el"}
+5. [Ποιος το ’κανε;]{lang="el"}
+6. [Μου ’ρθε μια ιδέα.]{lang="el"}
+7. [Το ’μαθες;]{lang="el"}
+
+**Teil B: Präsens oder Aorist?** Nur der Klang ist gegeben. Entscheide P oder A und nenn das
+Verb (im Chat reicht „1A, 2P, …“).
+
+1. [ˈiðame]
+2. [ˈpame]
+3. [ˈfaɣame]
+4. [ˈleme]
+5. [ˈtrome]
+6. [ˈipame]
+7. [ˈpiɣame]
+8. [ˈvlepume]
+9. [ˈipçame]
+10. [ˈpinume]
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Vor dem Apostroph fehlt ein Vokal, meist das [έ-]{lang="el"} oder das
+[εί-, ή-]{lang="el"} des Aorists. Setz ihn wieder ein und betone ihn.
+
+Teil B: Die Aoristform ist fast immer eine Silbe länger als das Präsens.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil A: [’πε]{lang="el"} und [’πα]{lang="el"} gehören zu [λέω]{lang="el"},
+[’δες]{lang="el"} zu [βλέπω]{lang="el"}, [’ρθε]{lang="el"} zu [έρχομαι]{lang="el"}.
+
+Teil B: Zweisilbige Formen auf [-me] sind hier alle Präsens, und [-ume] ist immer Präsens.
+Genau fünf sind Aorist.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+1. [Το είδες;]{lang="el"} ← [βλέπω]{lang="el"}: „Hast du's gesehen?“
+2. [Μου είπε ότι έρχεται.]{lang="el"} ← [λέω]{lang="el"}: „Er/sie hat mir gesagt, dass er/sie
+   kommt.“ Das Präsens [έρχεται]{lang="el"} bleibt, wie im Deutschen.
+3. [Σου το είπα!]{lang="el"} ← [λέω]{lang="el"}: „Hab ich dir doch gesagt!“ Hier verlieren
+   gleich zwei Wörter ihren Vokal.
+4. [Δεν τα έφαγα εγώ.]{lang="el"} ← [τρώω]{lang="el"}: „Ich hab sie nicht gegessen.“ Das
+   betonte [εγώ]{lang="el"} am Ende: „*ich* nicht“.
+5. [Ποιος το έκανε;]{lang="el"} ← [κάνω]{lang="el"}: „Wer hat das gemacht?“
+6. [Μου ήρθε μια ιδέα.]{lang="el"} ← [έρχομαι]{lang="el"}: „Mir ist eine Idee gekommen.“
+7. [Το έμαθες;]{lang="el"} ← [μαθαίνω]{lang="el"}: „Hast du schon gehört?“
+
+Typischer Fehler: [’πε]{lang="el"} für eine Form von [πάω]{lang="el"} halten. [πάω]{lang="el"}
+beginnt mit [π]{lang="el"}, verliert also nichts; [’πε]{lang="el"} hat vorn etwas verloren.
+
+**Teil B: 1A, 2P, 3A, 4P, 5P, 6A, 7A, 8P, 9A, 10P.**
+
+1. [είδαμε]{lang="el"}, A: wir sahen (Präsens [βλέπουμε]{lang="el"}, Nr. 8)
+2. [πάμε]{lang="el"}, P: wir gehen; lass uns gehen
+3. [φάγαμε]{lang="el"}, A: wir aßen
+4. [λέμε]{lang="el"}, P: wir sagen
+5. [τρώμε]{lang="el"}, P: wir essen
+6. [είπαμε]{lang="el"}, A: wir sagten; als Diskursmarker „Wie besprochen!“
+7. [πήγαμε]{lang="el"}, A: wir gingen
+8. [βλέπουμε]{lang="el"}, P: wir sehen
+9. [ήπιαμε]{lang="el"}, A: wir tranken. Das [ç] ist das Erkennungszeichen.
+10. [πίνουμε]{lang="el"}, P: wir trinken
+
+Die gefährlichsten Paare sind 2 und 7: [ˈpame] und [ˈpiɣame] beginnen gleich, und in schneller
+Rede wird das [ɣ] schwach. Auf die Silbenzahl hören.
+:::
+
+::: {.callout-note .exercise}
+## Übung 3.7: Hör-Auftrag
+
+Die Wiederholung, die Übung 2.6 versprochen hat, jetzt mit geschultem Ohr.
+
+**Schritt 1: der Baklava.** Hör dir den Dialog aus @sec-unreg-hoerspur zweimal mit ▶ an, ohne
+mitzulesen, und zähl die Aoriste. Erst danach im Text nachzählen.
+
+**Schritt 2: ein echtes Gespräch.** Such auf dem YouTube-Kanal
+[Easy Greek](https://www.youtube.com/@EasyGreekVideos) nach [διακοπές]{lang="el"} und wähl ein
+Straßeninterview über den Urlaub, am besten ein anderes als bei Übung 2.6.
+
+1. Hör die ersten drei Minuten, ohne auf die Untertitel zu schauen. Sie sind bei Easy Greek
+   meist fest ins Bild eingeblendet, also Bildschirm wegdrehen oder die Augen schließen.
+2. Mach eine Strichliste für sieben Verben, egal in welcher Person:
+   [πήγα, ήρθα, είδα, έφαγα, ήπια, έκανα, έμεινα]{lang="el"}.
+3. Spul zurück und prüf die Liste mit den griechischen Untertiteln.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Die Klangbilder der sieben: [ˈpiɣa], [ˈirθa], [ˈiða], [ˈefaɣa], [ˈipça], [ˈekana], [ˈemina],
+im Plural [ˈpiɣame], [ˈfaɣame], [ˈkaname], [ˈminame], umgangssprachlich auch [ˈpiɣane],
+[ˈirθane].
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Achte auf Formen, die kürzer klingen, als sie sind: [to ˈða], [mu ˈpe], [to ˈkana]. Und nicht
+jedes [ˈela] ist ein Aorist: [έλα]{lang="el"} „komm“ ist die Befehlsform von
+[έρχομαι]{lang="el"} (Kapitel 9). Im Baklava-Dialog steht neben vielen unregelmäßigen genau ein
+regelmäßiger Aorist.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Schritt 1: 14 Aoriste.**
+
+[έφαγε]{lang="el"} · [είδα]{lang="el"} · [είδα]{lang="el"} · [μπήκες]{lang="el"} ·
+[μπήκα]{lang="el"} · [ήπια]{lang="el"} · [βγήκα]{lang="el"} · [έφαγα]{lang="el"} ·
+[έκανε]{lang="el"} · [’φαγα]{lang="el"} · [ρώτησα]{lang="el"} · [’πε]{lang="el"} ·
+[είδες]{lang="el"} · [’πα]{lang="el"}
+
+Dreizehn sind unregelmäßig, einer regelmäßig: [ρώτησα]{lang="el"} von [ρωτάω]{lang="el"}. Nicht
+mitgezählt: [ξέρω, ξέρει, έχει]{lang="el"} (Präsens) und [Έλα, Ρώτα]{lang="el"} (Befehlsformen).
+
+Wer beim Hören auf elf oder zwölf kam, hat fast immer die verschluckten Formen
+[τα ’φαγα, μου ’πε, σ’ το ’πα]{lang="el"} überhört. Genau dafür ist der Durchgang da.
+
+**Schritt 2:** Jedes Interview ist anders, eine feste Zahl gibt es nicht. So wertest du aus:
+
+- **Treffer und Fehlalarme:** Was du gehört hast und in den Untertiteln wiederfindest, ist ein
+  Treffer. Häufigste Fehlalarme sind Präsensformen mit ähnlichem Anfang, [πάμε]{lang="el"} statt
+  [πήγαμε]{lang="el"}, [κάνω]{lang="el"} statt [έκανα]{lang="el"}.
+- **Übersehenes:** Meist sind es die Formen mit verschlucktem Anfang und die Plurale auf
+  [-ανε]{lang="el"}.
+- **Welche Verben häufen sich?** In Urlaubsinterviews fast immer [πήγα]{lang="el"} und
+  [έκανα]{lang="el"}, oft in der Frage [Τι έκανες;]{lang="el"} Wenn deine Liste das zeigt, hast
+  du richtig gehört.
+- Wer mehr als die Hälfte seiner Striche in den Untertiteln wiederfindet, ist für den ersten
+  echten Durchgang gut dabei.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -1085,7 +1604,112 @@ aufbrichst zur Fahrt nach Ithaka“. Zwei Wörter darin kennst du jetzt von inne
 
 <!-- CHECK: Kavafis, „Ιθάκη“, veröffentlicht 1911; erste Zeile wörtlich „Σα βγεις στον πηγαιμό για την Ιθάκη,“ -->
 
-<!-- EXERCISE: Übung 3.8 – Lernziel: den Lesetext verstehen und die Aoriste darin dem Präsens zuordnen (alle Bauformen); Art: Teil A richtig/falsch zum Text (nummeriert, u.a. Eumaios erkennt ihn / Argos erkennt ihn / die Freier spannen den Bogen / Penelope glaubt sofort), Teil B Aoriste jagen in zwei Absätzen (Absatz „Ο ζητιάνος ανέβηκε …“ und „Την άλλη μέρα …“) und zu jedem laut das Präsens nennen, Hinweis auf Fallen (αναγνώρισε regelmäßig, περίμενε, ήταν nicht mitzählen), Teil C die Geschichte in fünf Sätzen laut nacherzählen aus Sicht des Odysseus (ich-Form), Musterlösung zum Vergleich; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 3.8: Was der Text wirklich sagt
+
+**Teil A: richtig oder falsch?** Antworte aus dem griechischen Text heraus, nicht aus dem, was
+du über die Odyssee schon weißt.
+
+1. Odysseus wachte auf dem Schiff der Phaiaken auf.
+2. Als er aufwachte, erkannte er seine Insel sofort.
+3. Eumaios erkannte ihn nicht, gab ihm aber zu essen.
+4. Bei Eumaios traf Odysseus seinen Sohn.
+5. Der Hund Argos erkannte den Bettler sofort.
+6. Argos sprang auf und lief ihm entgegen.
+7. Die Freier konnten den Bogen spannen, aber keiner schoss durch die Äxte.
+8. Penelope erkannte Odysseus an etwas, das nur die beiden wussten.
+
+**Teil B: Aoriste jagen.** In den Absätzen, die mit [Ο ζητιάνος ανέβηκε]{lang="el"} und
+[Την άλλη μέρα]{lang="el"} beginnen, stehen fünfzehn Aoriste. Finde sie und nenn zu jedem laut
+das Präsens. Welche sind regelmäßig?
+
+**Teil C: nacherzählen.** Erzähl die Geschichte laut in fünf Sätzen, als Odysseus, in der
+ich-Form. Hilfe: [με]{lang="el"} mich (vor dem Verb) · [ο γιος μου]{lang="el"} mein Sohn.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Achte auf [δεν]{lang="el"}, [ούτε]{lang="el"} und [αμέσως]{lang="el"}.
+
+Teil B: Aoriste stehen hier fast alle in der dritten Person, auf [-ε]{lang="el"}. Präsens
+oder Aorist? Die Betonung weit vorn und die Stämme aus diesem Kapitel verraten es.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil A: Die Aussagen 1, 6 und 7 hängen je an einem Satz: [Σε όλο το ταξίδι δεν
+ξύπνησε]{lang="el"}, [δεν μπόρεσε να σηκωθεί]{lang="el"}, [κανένας δεν μπόρεσε ούτε να το
+τεντώσει]{lang="el"}.
+
+Teil B: Acht Aoriste im ersten Absatz, sieben im zweiten. [είπε]{lang="el"} kommt zweimal vor.
+Nicht mitzählen: [ήταν]{lang="el"} (nur eine Vergangenheit) und [να σηκωθεί]{lang="el"} (eine
+[να]{lang="el"}-Form). [μπόρεσε]{lang="el"} kommt von [μπορώ]{lang="el"} „können“.
+
+Teil C: Nimm die Stationen Phaiaken, Eumaios, Stadt und Palast, Bogen, Penelope.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1 falsch, 2 falsch, 3 richtig, 4 richtig, 5 richtig, 6 falsch, 7 falsch, 8 richtig.**
+
+1. [Σε όλο το ταξίδι δεν ξύπνησε.]{lang="el"} Er hat die ganze Fahrt verschlafen.
+2. [δεν αναγνώρισε το νησί του]{lang="el"}
+3. [Ο Εύμαιος δεν τον αναγνώρισε, αλλά του έδωσε φαγητό και κρασί.]{lang="el"}
+4. [Εκεί βρήκε και τον γιο του]{lang="el"}: Das [βρήκε]{lang="el"} heißt hier „traf an“,
+   wie in [Καλώς σε βρήκα]{lang="el"}.
+5. [τον αναγνώρισε αμέσως]{lang="el"}
+6. [δεν μπόρεσε να σηκωθεί]{lang="el"}: Er wedelte nur mit dem Schwanz.
+7. Die Stolperstelle: [κανένας δεν μπόρεσε ούτε να το τεντώσει]{lang="el"}, keiner konnte ihn
+   auch nur spannen.
+8. [Αυτό το μυστικό ήταν μόνο δικό τους.]{lang="el"} Das Bett auf dem lebenden Olivenbaum.
+
+**Teil B**
+
+Absatz [Ο ζητιάνος ανέβηκε]{lang="el"}:
+
+- [ανέβηκε]{lang="el"} ← [ανεβαίνω]{lang="el"}: Bauform 3
+- [αναγνώρισε]{lang="el"} ← [αναγνωρίζω]{lang="el"}: **regelmäßig**, [-ίζω → -ισα]{lang="el"}
+  wie [αρχίζω → άρχισα]{lang="el"}
+- [έδωσε]{lang="el"} ← [δίνω]{lang="el"}
+- [έφαγε]{lang="el"} ← [τρώω]{lang="el"}
+- [ήπιε]{lang="el"} ← [πίνω]{lang="el"}
+- [είπε]{lang="el"} ← [λέω]{lang="el"}
+- [βρήκε]{lang="el"} ← [βρίσκω]{lang="el"}
+- [είπε]{lang="el"} ← [λέω]{lang="el"}, zum zweiten Mal
+
+Absatz [Την άλλη μέρα]{lang="el"}:
+
+- [κατέβηκε]{lang="el"} ← [κατεβαίνω]{lang="el"}
+- [είδε]{lang="el"} ← [βλέπω]{lang="el"}
+- [αναγνώρισε]{lang="el"} ← [αναγνωρίζω]{lang="el"}: **regelmäßig**
+- [κούνησε]{lang="el"} ← [κουνάω]{lang="el"}: **regelmäßig**, wie [ρωτάω → ρώτησα]{lang="el"}
+- [μπόρεσε]{lang="el"} ← [μπορώ]{lang="el"}: **regelmäßig**, mit [-εσα]{lang="el"} statt
+  [-ησα]{lang="el"}
+- [πέθανε]{lang="el"} ← [πεθαίνω]{lang="el"}
+- [περίμενε]{lang="el"} ← [περιμένω]{lang="el"}: ohne [σ]{lang="el"}, wie
+  [έμεινα]{lang="el"}
+
+Leicht übersehen: [κούνησε]{lang="el"} und [μπόρεσε]{lang="el"}, weil sie mitten im Satz
+stehen, und [περίμενε]{lang="el"}, weil es aussieht wie etwas anderes. Fälschlich mitgezählt:
+[ήταν]{lang="el"} und [να σηκωθεί]{lang="el"}.
+
+**Teil C: eine Musterlösung**
+
+::: {lang="el"}
+Οι Φαίακες με πήγαν στην Ιθάκη. Ανέβηκα στην καλύβα του Εύμαιου, έφαγα, ήπια και βρήκα τον
+γιο μου. Την άλλη μέρα κατέβηκα στην πόλη και μπήκα στο παλάτι. Πήρα το τόξο και σκότωσα τους
+μνηστήρες. Στο τέλος η Πηνελόπη με αναγνώρισε.
+:::
+
+Wer den Hund nicht weglassen mag: [Ο Άργος με είδε και πέθανε.]{lang="el"} Deine Fassung darf
+ganz anders aussehen. Prüf nur die Verben: Stimmen Stamm, Person und Betonung? Die häufigsten
+Stolpersteine sind hier \*[ανεβήκα]{lang="el"} (die Betonung wandert nur im Plural) und beim
+Perspektivwechsel ein stehen gebliebenes [τον γιο του]{lang="el"}: Aus „seinem“ Sohn wird
+[τον γιο μου]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
