@@ -185,7 +185,8 @@ def check(path: str) -> int:
             continue
         seen.add((greek, ipa))
         # Only the first form of entries like "γράφω, έγραψα" / "[ˈɣrafo], [ˈeɣrapsa]"
-        first_greek = re.sub(r"[;.!?«»]", "", greek.split(",")[0]).strip()
+        # ό,τι is one word despite its comma
+        first_greek = re.sub(r"[;.!?«»]", "", re.sub(r"([όΌ]),(τι)", r"\1\2", greek).split(",")[0]).strip()
         first_ipa = ipa.split("],")[0].split(",")[0]
         if not first_greek or not re.search(r"[α-ωά-ώ]", first_greek.lower()):
             continue
