@@ -6,6 +6,6 @@
 
 | Kapitel | Status | Notizen |
 |---|---|---|
-| 02 Der zweite Stamm: der Aorist | geplant | Probekapitel |
+| 02 Der zweite Stamm: der Aorist | Entwurf | Probekapitel |
 
 ## Offene TODOs

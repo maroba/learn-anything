@@ -1,3 +1,54 @@
 # Vorwort {.unnumbered}
 
-<!-- Vorwort: Worum geht es, für wen ist das Buch, wie liest man es. Wird nach der Outline geschrieben. -->
+[Έλα, πάμε!]{lang="el"} Komm, los geht's.
+
+Dieses Buch ist für alle, die einen Griechischkurs hinter sich haben, das Alphabet lesen können,
+ein paar Sätze im Präsens zustande bringen und jetzt mehr wollen: sich mit Griechen wirklich
+unterhalten, nicht nur einen [φραπέ]{lang="el"} bestellen. Und irgendwann einen griechischen Film
+schauen, ohne ständig auf die Untertitel zu starren.
+
+## Was dich erwartet {#sec-vorwort-erwartung .unnumbered}
+
+Das Buch führt dich vom soliden Anfängerniveau bis zur Stufe **B2** des Europäischen
+Referenzrahmens. Das ist die Stufe, auf der man sich spontan und fließend unterhält und die meisten
+Filme in Standardsprache versteht. Der Weg dahin ist lang, und wir wollen ehrlich sein: Mit etwa
+fünf Stunden pro Woche brauchst du dafür eher Jahre als Monate. Dafür gibt es unterwegs viel zu
+entdecken.
+
+Ein paar Grundsätze:
+
+- **Das Herzstück zuerst.** Fast die ganze griechische Verbgrammatik hängt an einer einzigen Idee,
+  dem Aspekt. Deshalb kommt sie früh und gründlich, gleich nach einer kurzen Auffrischung.
+- **Echte Situationen statt Kursbuch.** Du wirst hier niemanden nach seinem Namen und seiner
+  Herkunft fragen müssen. Die Texte handeln von Geschichte und Wissenschaft, von Essen, Musik,
+  Film und Politik, und die Gespräche klingen so, wie in Griechenland tatsächlich gesprochen wird.
+- **Erklärt wird auf Deutsch.** Griechisch lernst du aus den Texten, Dialogen und Beispielen, die
+  von Kapitel zu Kapitel länger und authentischer werden.
+- **Deine anderen Sprachen helfen mit.** Wer Spanisch, Französisch oder Englisch kann, hat für
+  vieles schon ein Gefühl. Wo das trägt, bauen wir darauf auf, und wo es in die Irre führt, sagen
+  wir es.
+
+## Wie man dieses Buch liest {#sec-vorwort-lesen .unnumbered}
+
+Jedes Kapitel hat ein **Sachthema** und eine **Hörspur**: Neben der Grammatik lernst du etwas über
+Griechenland und trainierst das Ohr für gesprochene Sprache. Ab und zu gibt es Hör-Aufträge mit
+frei zugänglichen Quellen wie der Mediathek des griechischen Fernsehens.
+
+Die **Übungen** löst du im Kopf oder laut. Darunter findest du eingeklappte Hinweise und
+ausführliche Lösungen, die auch erklären, welcher Fehler naheliegt und warum. Die
+**Vokabeltabellen** am Ende der Abschnitte fassen den neuen Wortschatz zusammen. Verben stehen
+dort immer mit zwei Formen, aus Gründen, die in Kapitel 2 klar werden.
+
+Aussprache steht in Lautschrift (IPA) mit einer deutschen Annäherung daneben, etwa
+[θ]{lang="el"} „wie englisch *think*“. Du musst IPA nicht perfekt beherrschen, die wenigen
+Zeichen, die du brauchst, erklärt Kapitel 1.
+
+## Fragen beim Lesen {#sec-vorwort-fragen .unnumbered}
+
+Dieses Buch entsteht im Gespräch. Fährst du mit der Maus über einen Absatz, erscheint links ein
+**¶**; auf dem Handy tippst du zuerst auf den Absatz. Ein Klick darauf kopiert eine Referenz auf
+genau diese Stelle. Füge sie im Chat mit Claude ein und stell deine Frage oder schlag eine
+Änderung vor. Gute Fragen landen manchmal als „Leserfrage“ im Buch, und Kapitel, die überarbeitet
+wurden, tragen oben einen Hinweis darauf.
+
+[Καλή αρχή!]{lang="el"} Einen guten Anfang!
