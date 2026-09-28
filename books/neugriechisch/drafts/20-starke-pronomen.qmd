@@ -475,7 +475,49 @@ Zu einigen Zeilen:
   ξέρω]{lang="el"}.
 :::
 
-<!-- EXERCISE: Lernziel: bestimmtes Objekt nach vorn holen und mit dem passenden schwachen Pronomen wieder aufnehmen (Genus nach griechischem Nomen, Plural, Genitiv beim indirekten Objekt, auch im Nebensatz); Art: Sätze laut umformen („Mach das Objekt zur Überschrift“), z.B. Διάβασα την Πολιτεία του Πλάτωνα → Την Πολιτεία του Πλάτωνα τη διάβασα; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 20.3: Mach das Objekt zur Überschrift
+
+Stell das Objekt nach vorn und nimm es vor dem Verb wieder auf. Laut sprechen.
+
+1. [Διάβασα την Πολιτεία του Πλάτωνα.]{lang="el"} (Platons *Staat*)
+2. [Δεν ξέρω τον βουλευτή.]{lang="el"}
+3. [Έφερα το κρασί.]{lang="el"}
+4. [Αγόρασα τις ντομάτες.]{lang="el"}
+5. [Δεν είδα ακόμα τη θάλασσα.]{lang="el"}
+6. [Έδωσα το κλειδί στον Νίκο.]{lang="el"} Hier wird [στον Νίκο]{lang="el"} zur Überschrift.
+7. [Είμαι σίγουρη ότι ο Νίκος έφερε το κρασί.]{lang="el"} Das Objekt im Nebensatz.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Das Pronomen klingt fast wie der Artikel: [τον βουλευτή … τον]{lang="el"}, [τις ντομάτες …
+τις]{lang="el"}. Das Schluss-ν folgt der üblichen Regel.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[η θάλασσα]{lang="el"} ist weiblich, egal was das Deutsche sagt. In 6 steht das Echo im Genitiv;
+in 7 kommt das Objekt direkt hinter [ότι]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [Την Πολιτεία του Πλάτωνα τη διάβασα.]{lang="el"} ([τη]{lang="el"} vor [δ]{lang="el"} ohne ν)
+2. [Τον βουλευτή δεν τον ξέρω.]{lang="el"} [δεν]{lang="el"} steht wie immer vor dem schwachen
+   Pronomen.
+3. [Το κρασί το έφερα.]{lang="el"} Nicht [τον]{lang="el"} nach „den Wein“.
+4. [Τις ντομάτες τις αγόρασα.]{lang="el"}
+5. [Τη θάλασσα δεν την είδα ακόμα.]{lang="el"} Typischer Fehler: [το]{lang="el"} nach „das Meer“.
+   [την]{lang="el"} behält vor Vokal das ν.
+6. [Στον Νίκο (του) έδωσα το κλειδί.]{lang="el"} Beim indirekten Objekt ist [του]{lang="el"}
+   häufig, aber nicht nötig. Ist auch der Schlüssel bekannt: [Στον Νίκο του το έδωσα.]{lang="el"}
+7. [Είμαι σίγουρη ότι το κρασί το έφερε ο Νίκος.]{lang="el"} Nikos rückt als neue Information ans
+   Ende. Auch möglich: [ότι το κρασί ο Νίκος το έφερε]{lang="el"}.
+:::
 
 <!-- EXERCISE: Lernziel: Überschrift und Scheinwerfer unterscheiden; Doppelung nötig/üblich/falsch beurteilen; Art: Auswählen mit Begründung (a mit, b ohne Pronomen zu kleinen Kontexten wie „Wer hat den Wein gebracht?“ vs. „Hat Nikos den Wein oder das Brot gebracht?“) und Fehler finden (*Εμένα αρέσει, *Ξέρει όλα, *Το βιβλίο διάβασα neutral, falsches Genus im Pronomen); Schwierigkeit 3 -->
 
