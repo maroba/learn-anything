@@ -591,9 +591,9 @@ Nomen, gemeint sind trotzdem Paprika.
    deutsche „sind gut“ ohne Endung sind die beiden typischen Fehler.
 4. [κρητικούς]{lang="el"}: männlich, Akkusativ Plural, weil Objekt.
 5. [μεγάλο]{lang="el"}: [πρόβλημα]{lang="el"} ist sächlich, trotz des [-α]{lang="el"}.
-   \*[μεγάλη]{lang="el"} ist der Fehler, zu dem die Endung verführt; *el problema* auch.
-6. [ωραία]{lang="el"}: weiblich, und nach dem Vokal [αι]{lang="el"} kommt [-α]{lang="el"}, nicht
-   [-η]{lang="el"}.
+   \*[μεγάλη]{lang="el"} ist der Fehler, zu dem die Endung verführt, und [*el problema*]{lang="es"} auch.
+6. [ωραία]{lang="el"}: weiblich, und nach dem Vokal im Stamm ([ωραι-]{lang="el"}) kommt
+   [-α]{lang="el"}, nicht [-η]{lang="el"}.
 7. [ακριβά]{lang="el"}: sächlich Plural, wie [τα καρπούζια]{lang="el"}.
 8. [πολλά]{lang="el"}: sächlich Plural, mit doppeltem [λλ]{lang="el"}.
 9. [πολύ]{lang="el"}: Hier steht „sehr“ vor einem Adjektiv, also unverändert.
