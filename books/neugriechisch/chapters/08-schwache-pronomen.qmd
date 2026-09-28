@@ -195,7 +195,7 @@ statt [σου λέω]{lang="el"}, [με αρέσει]{lang="el"} statt [μου �
 :::
 
 Dazu drei deutsche Fallen, nur das Pronomen plus Verb: *Die Platte kaufe ich.* *Den Film
-habe ich gesehen* ([είδα]{lang="el"}, Kapitel 4). *Die Sonne sehe ich* ([βλέπω]{lang="el"}).
+habe ich gesehen* ([είδα]{lang="el"}, Kapitel 3). *Die Sonne sehe ich* ([βλέπω]{lang="el"}).
 
 **Teil B.** Pronomen, Besitzwort, Artikel oder Präposition? (im Chat: „1 Pronomen, …“)
 
@@ -245,7 +245,7 @@ Präposition ([σε λίγο]{lang="el"} „gleich“).
 | [με ξέρει, σε ξέρει]{lang="el"} | [me ˈkseri], [se ˈkseri] | er/sie kennt mich, dich |
 | [τον, τη(ν), το]{lang="el"} | [ton], [ti(n)], [to] | ihn, sie, es |
 | [μας βλέπει, σας βλέπει]{lang="el"} | [mas ˈvlepi], [sas ˈvlepi] | er/sie sieht uns, euch (Sie) |
-| [τους είδα, τις είδα, τα είδα]{lang="el"} | [tus ˈiða], [tis ˈiða], [ta ˈiða] | ich habe sie gesehen (Pl.: m., f., n.) |
+| [τους είδα, τις είδα, τα είδα]{lang="el"} | [tus ˈiða], [tis ˈiða], [ta ˈiða] | ich habe sie gesehen (Pl.: männlich, weiblich, sächlich) |
 | [μου λέει, σου δίνω]{lang="el"} | [mu ˈlei], [su ˈðino] | er/sie sagt mir; ich gebe dir |
 | [του έδωσα, της έδωσα]{lang="el"} | [tu ˈeðosa], [tis ˈeðosa] | ich habe ihm, ihr gegeben |
 | [τους έδωσα]{lang="el"} | [tus ˈeðosa] | ich habe ihnen gegeben |
@@ -542,7 +542,7 @@ Dreh jeden Satz erst ins Spanische oder Französische: [*me gusta*]{lang="es"},
 
 Die Person, die mag oder vermisst, steht im Genitiv vor dem Verb. Das Verb richtet sich nach dem
 Gemochten: ein Konzert [άρεσε]{lang="el"}, Lieder [άρεσαν]{lang="el"}, „du“ [αρέσεις]{lang="el"},
-„ich“ [αρέσω]{lang="el"}. In 7 ist „ihr“ Subjekt: Aorist von [λείπω]{lang="el"}, zweite Person Plural.
+„ich“ [αρέσω]{lang="el"}. In 7 ist „ihr“ Subjekt: Aorist von [λείπω]{lang="el"}, ihr-Form.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -687,14 +687,14 @@ bekannten traditionellen Volkslieds ([Σ’ το ’πα και σ’ το ξα�
 sie gesprochen, nicht gesungen. Erst hören, dann lesen.
 
 ::: {lang="el" .listen}
-Μου ’πες «θα γυρίσω», και σε πίστεψα·
-μου ’δωσες το χέρι σου και το κράτησα.
-Τώρα μου λείπεις και δε μου μιλάς·
+Μου ’πες «θα γυρίσω», και σε πίστεψα·\
+μου ’δωσες το χέρι σου και το κράτησα.\
+Τώρα μου λείπεις και δε μου μιλάς·\
 πες μου, μάτια μου, πού πας;
 
-Δώσε μου κρασί, να το πιω, να σε ξεχάσω.
-Το ’πια, μα σε θυμάμαι πιο πολύ.
-Σ’ το ’πα μια φορά και σ’ το ξαναλέω:
+Δώσε μου κρασί, να το πιω, να σε ξεχάσω.\
+Το ’πια, μα σε θυμάμαι πιο πολύ.\
+Σ’ το ’πα μια φορά και σ’ το ξαναλέω:\
 χωρίς εσένα δεν μπορώ.
 :::
 
@@ -736,28 +736,28 @@ sechs verschluckte Vokale. [σε πίστεψα]{lang="el"} in Zeile 1 klingt en
 Jetzt der Text zum Mitlesen:
 
 ::: {lang="el"}
-Μου ’πες «θα γυρίσω», και σε πίστεψα·
-μου ’δωσες το χέρι σου και το κράτησα.
-Τώρα μου λείπεις και δε μου μιλάς·
+Μου ’πες «θα γυρίσω», και σε πίστεψα·\
+μου ’δωσες το χέρι σου και το κράτησα.\
+Τώρα μου λείπεις και δε μου μιλάς·\
 πες μου, μάτια μου, πού πας;
 
-Δώσε μου κρασί, να το πιω, να σε ξεχάσω.
-Το ’πια, μα σε θυμάμαι πιο πολύ.
-Σ’ το ’πα μια φορά και σ’ το ξαναλέω:
+Δώσε μου κρασί, να το πιω, να σε ξεχάσω.\
+Το ’πια, μα σε θυμάμαι πιο πολύ.\
+Σ’ το ’πα μια φορά και σ’ το ξαναλέω:\
 χωρίς εσένα δεν μπορώ.
 :::
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
 
-Du hast mir gesagt „Ich komm zurück“, und ich hab dir geglaubt;
-du hast mir deine Hand gegeben, und ich hab sie gehalten.
-Jetzt fehlst du mir, und du sprichst nicht mit mir;
+Du hast mir gesagt „Ich komm zurück“, und ich hab dir geglaubt;\
+du hast mir deine Hand gegeben, und ich hab sie gehalten.\
+Jetzt fehlst du mir, und du sprichst nicht mit mir;\
 sag mir, mein Schatz, wohin gehst du?
 
-Gib mir Wein, damit ich ihn trinke, damit ich dich vergesse.
-Ich hab ihn getrunken, doch ich denk an dich nur umso mehr.
-Ich hab’s dir einmal gesagt, und ich sag’s dir noch mal:
+Gib mir Wein, damit ich ihn trinke, damit ich dich vergesse.\
+Ich hab ihn getrunken, doch ich denk an dich nur umso mehr.\
+Ich hab’s dir einmal gesagt, und ich sag’s dir noch mal:\
 Ohne dich kann ich nicht.
 :::
 
@@ -984,7 +984,7 @@ Als 1967 die Junta kam, verbot sie seine Musik. Wir aber hörten ihn heimlich. E
 mir eine Platte aus Paris, und wir haben sie in der ganzen Nachbarschaft verliehen.
 
 Heute tanzen die Touristen Sirtaki und halten es für einen antiken Tanz. Dabei hat man ihn für
-einen Film gemacht, „Alexis Sorbas“, 1964. Sag’s ihnen nicht. Sie mögen ihn.
+einen Film gemacht, *Alexis Sorbas*, 1964. Sag’s ihnen nicht. Sie mögen ihn.
 
 Hör dir jetzt das hier an. Das mag ich am liebsten. Sag, gefällt es dir auch?
 :::
