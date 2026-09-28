@@ -91,6 +91,7 @@ books/<slug>/
 | Iteration | `/feedback <…>` | Anpassung; jede Einigung wird in `STYLE.md` festgeschrieben. |
 | Schreiben | `/write [kapitel\|all]` | Schreiben, Review, Publizieren; über mehrere Sessions fortsetzbar dank `progress.md`. |
 | Begleitung | `/ask`, `/revise` | Fragen beantworten, einarbeiten, überarbeiten |
+| Übungen | `/check <Nr>: <Lösung>` | Lösung korrigieren, Fehlermuster privat merken |
 | Überblick | `/status` | Stand des Buchs |
 
 ## 7. Agents
@@ -165,7 +166,7 @@ Besonderheiten, die das System dabei abdecken muss:
 
 1. **Infrastruktur** (erledigt, 2026-09-28): Quarto-Bibliothek, Pages-Deployment, ¶-Referenzen, Änderungsvermerke,
    SessionStart-Hook, `CLAUDE.md`, Schutz-Hook für Lernerdaten.
-2. **Commands, Agents, Skills:** siehe Abschnitte 6–8; zunächst der Archetyp „Sprachen“.
+2. **Commands, Agents, Skills** (erledigt, 2026-09-28): siehe Abschnitte 6–8; zunächst der Archetyp „Sprachen“.
 3. **Lern-Features:** Einstufungstest, Anki-Export, Audio, Eingabehilfe, Abhängigkeitsgraph,
    interaktive Übungen.
 4. **Echter Durchlauf mit Griechisch** und Verbesserungen aus den Erfahrungen.
@@ -186,3 +187,8 @@ Besonderheiten, die das System dabei abdecken muss:
 | 2026-09-28 | ¶-Referenzen: IDs `<abschnitt>-p<n>` werden im Browser vergeben, die kopierte Referenz enthält zusätzlich einen Textausschnitt, über den Claude die Stelle im Quelltext eindeutig findet. Auf Touch-Geräten erscheint das ¶ nach Antippen des Absatzes. |
 | 2026-09-28 | Änderungsvermerke über `changes:` im Front Matter; „neu seit letztem Besuch“ per localStorage im Browser des Lesers (nichts davon landet im Repo). |
 | 2026-09-28 | Vorlagen für die privaten Dateien liegen im privaten Repo (`templates/book/`). |
+| 2026-09-28 | Commands als Skills in `.claude/skills/`, gemeinsame Abläufe in `.claude/docs/workflow.md`, technisches Kapitelformat in `.claude/docs/book-format.md`. |
+| 2026-09-28 | Zusätzlicher Command `/check` für Übungslösungen im Chat (Grundlage für das adaptive Buch). |
+| 2026-09-28 | Pipeline: Author setzt `EXERCISE`-Platzhalter, Exercise Designer füllt sie, dann Reviews parallel. |
+| 2026-09-28 | Feste Formate, die spätere Werkzeuge auslesen: `outline.md` (Datei, Lernziele, Voraussetzungen, Lesezeit) für den Abhängigkeitsgraphen, `.vocab`-Tabellen für Anki, `lang`-Auszeichnung für Audio. |
+| 2026-09-28 | Fragen beim Lesen: Antwort im Chat zuerst; Einarbeiten (Leserfrage-Box oder Überarbeitung) nur nach kurzer Rückfrage, außer der Lerner hat eine feste Vorliebe festgelegt. |

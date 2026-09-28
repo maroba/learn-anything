@@ -22,6 +22,38 @@ ihrer `book.yml` unter `language` steht.
 - Ein pre-commit-Hook (`.githooks/`) und die CI verweigern Dateien wie `LEARNER.md`. Den Hook nie
   mit `--no-verify` umgehen.
 
+## Commands, Agents, Skills
+
+Der Lebenszyklus eines Buchs (Details in DESIGN.md, Abschnitt 6):
+
+| Command | Zweck |
+|---|---|
+| `/new-book <Thema>` | Interview, Buch anlegen, Einstufungstest, Recherche |
+| `/outline` | Kapitelplan entwerfen und abstimmen |
+| `/sample` | Probekapitel schreiben und veröffentlichen |
+| `/feedback` | Stil anhand des Probekapitels abstimmen, Einigungen in STYLE.md |
+| `/write [n\|next\|all]` | Kapitel schreiben und einzeln veröffentlichen |
+| `/ask` | Frage beim Lesen beantworten, ggf. einarbeiten (auch ohne `/ask`, z.B. bei „📍“-Referenzen) |
+| `/revise` | Änderungswunsch umsetzen, mit Änderungsvermerk |
+| `/check` | Übungslösung korrigieren, Fehlermuster merken |
+| `/status` | Überblick und nächster Schritt |
+
+Die Commands liegen als Skills unter `.claude/skills/<name>/SKILL.md` und stützen sich auf zwei
+gemeinsame Dokumente, die vor der Arbeit an einem Buch zu lesen sind:
+
+- `.claude/docs/workflow.md`: Buchauswahl, Kontext laden, Kapitel-Pipeline, Lernerprofil,
+  Veröffentlichen, Status
+- `.claude/docs/book-format.md`: technisches Format der Kapitel (Anker, Callouts, Übungen,
+  `lang`-Auszeichnung, Änderungsvermerke)
+
+Agents (`.claude/agents/`): `researcher`, `author`, `didactics-reviewer`, `technical-reviewer`,
+`consistency-editor`, `exercise-designer`. Archetyp-Skills mit allgemeiner Didaktik:
+`.claude/skills/archetype-<archetyp>/`. `distill-domain-skill` macht aus einem fertigen Buch einen
+neuen Skill.
+
+`python3 scripts/check_claude_config.py` prüft das Front Matter aller Agents und Skills (läuft auch
+in der CI). Beschreibungen mit Doppelpunkt in Anführungszeichen setzen.
+
 ## Aufbau
 
 ```
