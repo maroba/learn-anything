@@ -11,7 +11,7 @@
 | 03 Die unregelmäßigen Aoriste | veröffentlicht | Welle 1; Audio vollständig |
 | 04 Erzählen: Imperfekt und Aspekt | veröffentlicht | Welle 2; Audio läuft |
 | 05 Der zweite Stamm in der Zukunft: θα und να | im Review | Welle 3; Übungen fertig, Reviews laufen |
-| 06 Auf dem Markt: Nomen, Adjektive, Zahlen | Konsistenz | Welle 2; überarbeitet, erscheint nach Kapitel 5 |
+| 06 Auf dem Markt: Nomen, Adjektive, Zahlen | fertig, wartet auf 05 | Welle 2; überarbeitet, erscheint nach Kapitel 5 |
 | 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | Entwurf | Welle 3 |
 
 ## Plan für /write all (Wellen nach Voraussetzungen)

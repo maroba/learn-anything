@@ -128,3 +128,16 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 | Diskursmarker (Erinnern) | [Θυμάστε/Θυμάσαι τότε που…;]{lang="el"} (Wisst ihr/Weißt du noch, als …?), [Άλλες εποχές.]{lang="el"} (Andere Zeiten.), [Σ’ το ’λεγα.]{lang="el"} (Hab ich dir ja immer gesagt.), [Τι να κάνω;]{lang="el"} (Was soll(te) ich machen?, als Ganzes gelernt, να-Form erst 05) | 04 |
 | Vorname [Γιάννης]{lang="el"} | nach ELOT 743 *Giannis* (nicht „Jannis“); Vornamen in Übersetzungen generell nach ELOT | 04 |
 | eingedeutschte Sachwörter | *Tavli* ([το τάβλι]{lang="el"}), *Kaiki* ([το καΐκι]{lang="el"}), *Chora* ([η Χώρα]{lang="el"}, Hauptort einer Kykladeninsel), *Meltemi*, *Raki* (der), *Taverne* | 04 |
+| männlich / weiblich / sächlich | Genusbezeichnung im Fließtext und in Tabellen; nicht „Maskulinum/Femininum/Neutrum“ bzw. „maskulin/feminin“ | 06 |
+| Imperativ | für [Κοίτα, Πάρτε, δοκιμάστε]{lang="el"} usw. auch vor Kapitel 9 „Imperativ“, nicht „Befehlsform“ | 06 |
+| kurzer *j*-Laut | unbetontes [ι]{lang="el"} zwischen Konsonant und Vokal ([τα παιδιά]{lang="el"} [ta peˈðʝa]); nicht „Gleitlaut“ | 01 |
+| verschmelzen ([σε]{lang="el"} + Artikel) | [στον, στη(ν), στο, στους, στις, στα]{lang="el"}: „[σε]{lang="el"} verschmilzt mit dem Artikel“ (nicht „zusammengezogen“) | 01 |
+| Nomenklassen nach Endung | männlich [-ος, -ας, -ης]{lang="el"}, weiblich [-α, -η]{lang="el"}, sächlich [-ο, -ι, -μα]{lang="el"}; „die Endung verrät Genus und Plural“; drei Fragen: Genus? Plural? Wandert die Betonung? | 06 |
+| [-δ-]{lang="el"}-Silbe | Plural [ο ψαράς – οι ψαράδες, η γιαγιά – οι γιαγιάδες]{lang="el"}; Schreibweise mit Bindestrichen | 06 |
+| die Betonung wandert | Standardformulierung für Akzentverschiebung ([πρόβλημα – προβλήματα, άνθρωποι – ανθρώπους, ανάλυση – αναλύσεις]{lang="el"}) | 06 |
+| weibliche Nomen auf [-ος]{lang="el"} | [η μέθοδος, η έξοδος, η περίοδος, η διάλεκτος, η άσφαλτος]{lang="el"}: deklinieren wie [ο άνθρωπος]{lang="el"}, weibliches Adjektiv | 06 |
+| Internationalismen | Fachbegriff ab 06 (in 01 „internationale Wörter“); Genusregel [-μα]{lang="el"} sächlich, [-ση, -ξη, -ψη, -ία]{lang="el"} weiblich, [-ισμός]{lang="el"} männlich | 06 |
+| Zahlen mit Genus | „eins, drei, vier“: [ένας/μία/ένα, τρεις/τρία, τέσσερις/τέσσερα]{lang="el"}; Preise sächlich, Uhrzeiten weiblich; „anderthalb“ [ενάμισης, μιάμιση, ενάμισι]{lang="el"} | 06 |
+| Laiki | eingedeutschte Schreibweise für [η λαϊκή (αγορά)]{lang="el"}, der Wochenmarkt; im Text „die Laiki“, nicht kursiv | 06 |
+| Ortsnamen Athen | nach ELOT 743: *Exarcheia* (nicht „Exarchia“), *Thiseio*, *Kallidromiou*-Straße; *Megara*, *Naxos* | 06 |
+| Zitierte Fremdsprachen (Ergänzung) | Herkunftswörter ebenfalls kursiv und ausgezeichnet: `lang="it"` (*patata*), `"tr"` (*manav*), `"pl"` (*ogórek*), `"nah"` (*tomatl*) | 06 |
