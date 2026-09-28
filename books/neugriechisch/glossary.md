@@ -43,30 +43,30 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 
 | Begriff im Buch | griechisch | Anmerkung | eingeführt in |
 |---|---|---|---|
-| imperfektiver Aspekt | εξακολουθητικός | Vorgang, Wiederholung („Film“) | 03 |
-| perfektiver Aspekt | συνοπτικός | Handlung als Ganzes („Foto“) | 03 |
-| perfektiver Stamm | – | nicht „Aoriststamm“; das Synonym einmal nennen | 03 |
-| Präsens | ενεστώτας | | 02 |
-| Imperfekt | παρατατικός | | 05 |
-| Aorist | αόριστος | erklärt als Vergangenheit im perfektiven Aspekt | 03 |
-| Futur | μέλλοντας | „Futur mit θα“, in beiden Aspekten | 06 |
-| να-Form (Konjunktiv) | υποτακτική | „να-Form“ als Arbeitsbegriff | 06 |
-| Imperativ | προστακτική | | 10 |
-| Augment | αύξηση | | 03 |
-| Mediopassiv | παθητική φωνή | nicht „Passiv“ | 14 |
-| Deponens | αποθετικό ρήμα | | 11 |
-| Perfekt, Plusquamperfekt | παρακείμενος, υπερσυντέλικος | | 15 |
-| schwache Pronomen (Klitika) | αδύνατοι τύποι | | 09 |
-| starke Pronomen | δυνατοί τύποι | | 21 |
-| Partizip (auf -μένος) | μετοχή | | 20 |
-| Gerundium (auf -οντας) | μετοχή ενεστώτα | | 20 |
-| Diskursmarker | – | λοιπόν, έλα, ρε, δηλαδή … | 02 |
+| imperfektiver Aspekt | εξακολουθητικός | Vorgang, Wiederholung („Film“) | 02 |
+| perfektiver Aspekt | συνοπτικός | Handlung als Ganzes („Foto“) | 02 |
+| perfektiver Stamm | – | nicht „Aoriststamm“; das Synonym einmal nennen | 02 |
+| Präsens | ενεστώτας | | 01 |
+| Imperfekt | παρατατικός | | 04 |
+| Aorist | αόριστος | erklärt als Vergangenheit im perfektiven Aspekt | 02 |
+| Futur | μέλλοντας | „Futur mit θα“, in beiden Aspekten | 05 |
+| να-Form (Konjunktiv) | υποτακτική | „να-Form“ als Arbeitsbegriff | 05 |
+| Imperativ | προστακτική | | 09 |
+| Augment | αύξηση | | 02 |
+| Mediopassiv | παθητική φωνή | nicht „Passiv“ | 13 |
+| Deponens | αποθετικό ρήμα | | 10 |
+| Perfekt, Plusquamperfekt | παρακείμενος, υπερσυντέλικος | | 14 |
+| schwache Pronomen (Klitika) | αδύνατοι τύποι | | 08 |
+| starke Pronomen | δυνατοί τύποι | | 20 |
+| Partizip (auf -μένος) | μετοχή | | 19 |
+| Gerundium (auf -οντας) | μετοχή ενεστώτα | | 19 |
+| Diskursmarker | – | λοιπόν, έλα, ρε, δηλαδή … | 01 |
 
 ## Vokabeltabellen
 
 - Spalten: Griechisch | Aussprache | Deutsch; in einem `::: {.vocab}`-Block (siehe archetype-languages).
 - Nomen mit Artikel; auffällige Pluralformen und Betonungswechsel dazu.
-- Verben: 1. Person Präsens **und** Aorist (βλέπω, είδα); ab Kapitel 14 auch Aorist des Mediopassivs.
+- Verben: 1. Person Präsens **und** Aorist (βλέπω, είδα); ab Kapitel 13 auch Aorist des Mediopassivs.
 - Adjektive: καλός, -ή, -ό.
 - Registermarken in der Spalte Deutsch: (umg.), (salopp), (gehoben), (formell).
 

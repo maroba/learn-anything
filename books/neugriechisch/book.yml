@@ -10,7 +10,7 @@ target-language: el
 # languages | formal-sciences | natural-sciences | programming | humanities | practical
 archetype: languages
 # interview | research | outline | sample | writing | complete
-status: outline
+status: sample
 # Erscheint erst in der Bibliothek, wenn true (spätestens mit dem Probekapitel).
 published: false
 created: 2026-09-28
