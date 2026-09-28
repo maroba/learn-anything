@@ -24,6 +24,7 @@ tatsächlich, statt es plausibel zu finden.
 - **Naturwissenschaften:** Größenordnungen, Einheiten, Vorzeichen, Konventionen (z.B. Metrik-
   Signatur), numerische Werte gegen verlässliche Quellen.
 - **Programmieren:** jeden Codeblock ausführen, Ausgaben vergleichen, Versionen beachten.
+- **Sprachen (Neugriechisch):** zuerst `python3 scripts/check_ipa.py <Datei>` ausführen; es vergleicht jede IPA-Angabe mit einer regelbasierten Umschrift und meldet Abweichungen (Synizese wie [ðʝa] und Sandhi sind erwartbare Fehlalarme, fehlende Palatale [c ç ʝ], falsche Betonung oder δ als [d] sind echte Fehler).
 - **Sprachen:** Grammatik, Rechtschreibung, Akzente und Diakritika, Flexionsformen, Aussprache-
   angaben, Transliteration nach der im Glossar festgelegten Konvention; Natürlichkeit der
   Beispielsätze (würde ein Muttersprachler das so sagen?); Übersetzungen in beide Richtungen.

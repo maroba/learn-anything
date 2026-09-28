@@ -1332,6 +1332,6 @@ etwa [Πέμπτη]{lang="el"} [ˈpempti] „Donnerstag“.]
 | [όμως]{lang="el"} | [ˈomos] | aber, jedoch |
 | [σχεδόν]{lang="el"} | [sçeˈðon] | fast |
 | [ίσως]{lang="el"} | [ˈisos] | vielleicht |
-| [δυστυχώς]{lang="el"} | [distiˈxos] | leider |
+| [δυστυχώς]{lang="el"} | [ðistiˈxos] | leider |
 | [κανείς]{lang="el"} | [kaˈnis] | niemand (mit [δεν]{lang="el"}); jemand |
 :::

@@ -280,7 +280,7 @@ vier Formen richtig.
 - g) [έφυγαν]{lang="el"} [ˈefiɣan], umg. [φύγανε]{lang="el"} [ˈfiɣane], Bauform B. Wie
   [έγραψαν – γράψανε]{lang="el"} in Kapitel 2: Die neutrale Form hat ohne Augment nur zwei
   Silben, also bleibt es; die lange Form braucht es nicht.
-- h) [βρήκατε]{lang="el"} [ˈvrikate], Bauform 1.
+- h) [βρήκατε]{lang="el"} [ˈvrikate], Bauform A.
 
 Typische Fehler: \*[ανέβηκαμε]{lang="el"} mit der Betonung der ich-Form, bei a) [πάμε]{lang="el"},
 das Präsens „wir gehen“, und bei g) die neutrale Form ohne Augment.
@@ -350,7 +350,8 @@ geht das Griechische mit dem Englischen, nicht mit dem Spanischen: Wer gerufen w
 [Έρχομαι!]{lang="el"} wie *I'm coming*, nicht „ich gehe“ wie [*¡Voy!*]{lang="es"}.
 
 **[φεύγω, έφυγα]{lang="el"}: weggehen, abfahren, abreisen.** Aus [ευ]{lang="el"} wird
-[υ]{lang="el"}, der Rest ist Bauform B: [έφυγα, φύγαμε]{lang="el"}. [Φεύγω!]{lang="el"} sagt, wer aufsteht und geht; [Έφυγε.]{lang="el"}
+[υ]{lang="el"}, der Rest ist Bauform B: [έφυγα, φύγαμε]{lang="el"}. [Φεύγω!]{lang="el"} sagt,
+wer aufsteht und geht; [Έφυγε.]{lang="el"}
 heißt „er ist schon weg“. In Nachrichten ist [έφυγε από τη ζωή]{lang="el"}, „er ist aus dem Leben
 gegangen“, die höfliche Art zu sagen, dass jemand gestorben ist.
 
@@ -510,7 +511,8 @@ Der Aufzug hat vier Knöpfe: [μπήκα]{lang="el"} rein, [βγήκα]{lang="el
 ## Hinweis 2
 
 Einsteigen: [ανεβαίνω]{lang="el"} oder [μπαίνω]{lang="el"}, beides üblich; aussteigen meist
-[κατεβαίνω]{lang="el"}; ins Auto nur [μπαίνω]{lang="el"}. „Aus sein“ ist [βγαίνω]{lang="el"}. Bei den Formen mit Vorsilbe wandert die Betonung im Plural:
+[κατεβαίνω]{lang="el"}; ins Auto nur [μπαίνω]{lang="el"}. „Aus sein“ ist [βγαίνω]{lang="el"}.
+Bei den Formen mit Vorsilbe wandert die Betonung in der wir- und ihr-Form:
 [ανεβήκαμε]{lang="el"}, aber [κατέβηκαν]{lang="el"}.
 :::
 
@@ -968,7 +970,7 @@ gewohnt?“ ist die dritte Urlaubsfrage nach [Πού πήγες;]{lang="el"} und
 *Thanatos*, der Tod in Person. Das Angebot der Kalypso heißt auf Griechisch
 [αθάνατος]{lang="el"}, „un-sterblich“, und so heißen bis heute viele Griechen:
 [Θανάσης]{lang="el"}, lang [Αθανάσιος]{lang="el"}, ist ein Unsterblicher, mindestens dem Namen
-nach. [πέθανα]{lang="el"} hat drei Silben und kein Augment, im Plural wandert die Betonung:
+nach. [πέθανα]{lang="el"} hat drei Silben und kein Augment, in der wir-Form wandert die Betonung:
 [πεθάναμε]{lang="el"}. Aus Kapitel 2 kennst du schon [Ο Σλήμαν πέθανε στη Νάπολη.]{lang="el"}
 
 Nur zum Wiedererkennen: Nach demselben Muster gehen [στέλνω → έστειλα]{lang="el"} (schicken,
@@ -1386,14 +1388,15 @@ Wer beim Hören auf elf oder zwölf kam, hat fast immer die verschluckten Formen
 
 - Die häufigsten Verben haben einen **unregelmäßigen perfektiven Stamm**, meist ohne
   [σ]{lang="el"}. Die **Endungen** sind dieselben wie in Kapitel 2.
-- **Bauform 1, zwei Silben:** Der Anfang bleibt in allen Personen: [πήγα – πήγαμε]{lang="el"},
-  [είδα – είδαμε]{lang="el"}.
-- **Bauform 2, Augment wie gehabt:** [έκανα – κάναμε]{lang="el"}, [έφαγα – φάγαμε]{lang="el"};
-  ohne Augment [πέθανα – πεθάναμε]{lang="el"}.
-- **Bauform 3, mit Vorsilbe:** [ανέβηκα – ανεβήκαμε]{lang="el"}.
-- **Gruppen mit Eselsbrücken:** der Aufzug [μπήκα, βγήκα, ανέβηκα, κατέβηκα]{lang="el"}
-  ([-βαίνω → -βηκα]{lang="el"}) plus Heureka [βρήκα]{lang="el"}; am Tisch [έφαγα]{lang="el"}
-  (Sarkophag), [ήπια]{lang="el"} (Symposion), [έδωσα]{lang="el"} (Dosis), [πήρα]{lang="el"};
+- **Bauform A, fester Anfang:** zweisilbig, die erste Silbe bleibt in allen Personen:
+  [πήγα – πήγαμε]{lang="el"}, [είδα – είδαμε]{lang="el"}.
+- **Bauform B, Regel aus Kapitel 2:** Betonung auf der drittletzten Silbe, Augment nur betont:
+  [έκανα – κάναμε]{lang="el"} (aber [έκαναν]{lang="el"}); ohne Augment
+  [πέθανα – πεθάναμε]{lang="el"}, [ανέβηκα – ανεβήκαμε]{lang="el"}.
+- **Gruppen mit Merkhilfen:** der Aufzug [μπήκα, βγήκα, ανέβηκα, κατέβηκα]{lang="el"}
+  ([-βαίνω → -βηκα]{lang="el"}, Anabasis) plus Heureka [βρήκα]{lang="el"}; am Tisch
+  [έφαγα]{lang="el"} (Sarkophag, [φαγητό]{lang="el"}), [ήπια]{lang="el"}, [έδωσα]{lang="el"}
+  (Dosis), [πήρα]{lang="el"};
   sehen und sagen [είδα]{lang="el"} (Video, Idee), [είπα]{lang="el"} (Epos), [έμαθα]{lang="el"}
   (Mathematik); [πέθανα]{lang="el"} (Thanatos).
 - **Schnelle Rede** verschluckt den Anfangsvokal nach [το, τα, μου, σου]{lang="el"}:
@@ -1664,7 +1667,7 @@ stehen, und [περίμενε]{lang="el"}, weil man es für ein Imperfekt halten
 
 Wer den Hund nicht weglassen mag: [Ο Άργος με είδε και πέθανε.]{lang="el"} Deine Fassung darf
 ganz anders aussehen. Prüf nur die Verben: Stimmen Stamm, Person und Betonung? Die häufigsten
-Stolpersteine sind hier \*[ανεβήκα]{lang="el"} (die Betonung wandert nur im Plural) und beim
+Stolpersteine sind hier \*[ανεβήκα]{lang="el"} (die Betonung wandert nur in der wir- und ihr-Form) und beim
 Perspektivwechsel ein stehen gebliebenes [τον γιο του]{lang="el"}: Aus „seinem“ Sohn wird
 [τον γιο μου]{lang="el"}.
 :::
