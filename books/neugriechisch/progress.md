@@ -32,7 +32,7 @@
 | 26 Wortbildung I: Präfixe und Verkleinerungen | Konsistenz | Welle 12; überarbeitet, CHECK-Nachprüfung |
 | 29 Argumentieren | fertig | Welle 11; wartet auf 26–28 |
 | 30 Redewendungen | im Review | Welle 12; Übungen fertig |
-| 32 Kreta und Zypern hören | Entwurf | Welle 12 |
+| 32 Kreta und Zypern hören | Übungen | Welle 12; Entwurf fertig |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 

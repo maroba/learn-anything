@@ -14,7 +14,8 @@ title: "Wortbildung I: Präfixe und Verkleinerungen"
   κουτάκι]{lang="el"} (9).
 - **Augment und Betonung** (Kapitel 2): Im Aorist liegt die Betonung auf der drittletzten Silbe;
   das [ε-]{lang="el"} kommt nur dazu, wenn sonst eine Silbe fehlt. Die Verben mit festem Anfang
-  aus Kapitel 3 ([ήρθα, είδα, ήπια]{lang="el"}) behalten ihr [ή-/εί-]{lang="el"} ohnehin.
+  aus Kapitel 3 ([ήρθα, είδα, ήπια]{lang="el"}) behalten ihr [ή-/εί-]{lang="el"} auch im Plural
+  ([ήρθαμε, είδαμε]{lang="el"}).
 :::
 
 ## Sonntag bei der Großmutter {#sec-praefixe-einstieg}
@@ -187,11 +188,11 @@ Beugen länger wird, wird es auch beim Verkleinern länger.
 
 Nicht jedes [-άκι]{lang="el"} ist aber ein Diminutiv. Bleibt nach dem Abtrennen kein Grundwort
 übrig, ist es heute keins: Hinter [το τζάκι]{lang="el"} (Kapitel 16), [το σπανάκι]{lang="el"}
-(23) und [το καπάκι]{lang="el"} (9) stecken Lehnwörter, meist aus dem Türkischen; [το
-μουστάκι]{lang="el"} (3) und [το χαντάκι]{lang="el"} (2) waren vor langer Zeit Verkleinerungen,
-ihre Grundwörter sind verschwunden. Ein Grenzfall ist [το συρτάκι]{lang="el"} (8): abgeleitet vom
-Tanz [ο συρτός]{lang="el"}, heute der Name eines eigenen Tanzes.
-<!-- CHECK: Etymologien τζάκι < türk. ocak, σπανάκι < türk. ıspanak (bzw. mittelgr. σπανάκιον), καπάκι < türk. kapak, μουστάκι < μυστάκιον (Dim. von μύσταξ), χαντάκι < mittelgr. χανδάκιον (Dim. von χάνδαξ), συρτάκι < συρτός + -άκι -->
+(23) und [το καπάκι]{lang="el"} (9) stecken Lehnwörter, [τζάκι]{lang="el"} und
+[καπάκι]{lang="el"} aus dem Türkischen, [σπανάκι]{lang="el"} über das Mittellateinische aus dem
+Arabischen; [το μουστάκι]{lang="el"} (3) und [το χαντάκι]{lang="el"} (2) waren vor langer Zeit
+Verkleinerungen, ihre Grundwörter sind verschwunden. Ein Grenzfall ist [το συρτάκι]{lang="el"}
+(8): abgeleitet vom Tanz [ο συρτός]{lang="el"}, heute der Name eines eigenen Tanzes.
 
 ::: {.callout-note .exercise}
 ## Übung 26.1: Alles wird sächlich
@@ -223,7 +224,7 @@ Drei Wörter werden länger: [οι κεφτέδες]{lang="el"}, [ο φραπέ�
 [το κεφτεδάκι, το δρομάκι, το ποτηράκι, το λεπτάκι, το νεράκι, το πατατάκι, το προβληματάκι,
 το φραπεδάκι]{lang="el"}
 
-- [κεφτεδάκι, φραπεδάκι]{lang="el"} nehmen das [δ]{lang="el"} des Plurals mit,
+- [κεφτεδάκι, φραπεδάκι]{lang="el"} nehmen die [-δ-]{lang="el"}-Silbe des Plurals mit,
   [προβληματάκι]{lang="el"} den Genitivstamm.
 - Die Betonung wandert auch bei sächlichen Grundwörtern: [poˈtiri → potiˈraci].
 - [το πατατάκι]{lang="el"} ist richtig gebildet, heißt aber meist „Kartoffelchip“ (nächster
@@ -396,11 +397,11 @@ nicht klein ist, fällt Lesart 1 weg; bei Angeboten und Bitten ist fast immer Le
 
 Die vier Lesarten sind **Tendenzen**, keine Regeln, und oft wirken zwei zugleich: Das
 [ουζάκι]{lang="el"} der Großmutter ist beschwichtigend und zärtlich. Wie oft jemand
-verkleinert, hängt auch von Person, Region und Situation ab; Ältere und Menschen vom Land tun es
-im Ruf nach öfter, in Nachrichten und auf Ämtern (schriftlich) kommen Diminutive kaum vor, außer
-den Wörtern, die kein „klein“ mehr tragen. Wer im Zweifel ist, achtet auf die Stimme: Spott
+verkleinert, hängt auch von Person, Region und Situation ab. Ältere und Menschen vom Land tun es
+im Ruf nach öfter; in der Alltagssprache verkleinern aber alle Altersgruppen, besonders beim
+Anbieten und Bestellen. In Nachrichten und auf Ämtern (schriftlich) kommen Diminutive kaum vor,
+außer den Wörtern, die kein „klein“ mehr tragen. Wer im Zweifel ist, achtet auf die Stimme: Spott
 klingt anders als Fürsorge.
-<!-- CHECK: Aussagen zu Häufigkeit (Ältere, ländlich, Register) als Tendenz vertretbar? -->
 :::
 
 ::: {.callout-tip}
@@ -421,7 +422,7 @@ Zwei Buchstaben sind erlaubt. Im Chat: „1c, 2b, …“.
 1. Die Beamtin am Schalter, das Telefon klingelt: [Ένα λεπτάκι.]{lang="el"}
 2. Eine Mutter auf dem Spielplatz zu ihrer Tochter: [Έλα, κουκλίτσα μου, πάμε σπίτι.]{lang="el"}
 3. Die Gastgeberin nach einem großen Essen: [Ένα γλυκάκι μόνο. Το έφτιαξα εγώ.]{lang="el"}
-4. Der Mechaniker, bevor er 1 200 Euro nennt: [Έχουμε ένα μικρό προβληματάκι.]{lang="el"}
+4. Der Mechaniker, bevor er 1200 Euro nennt: [Έχουμε ένα μικρό προβληματάκι.]{lang="el"}
 5. Ein Gast mit säuerlicher Miene vor der neuen Villa mit Pool: [Ωραίο σπιτάκι.]{lang="el"}
 6. Eine Freundin über den Urlaub: [Νοικιάσαμε ένα σπιτάκι στο βουνό, δύο δωμάτια όλο κι
    όλο.]{lang="el"}
@@ -479,15 +480,15 @@ Vorsilben mit dem Augment machen, folgt im Anschluss an die vier Vorsilben.
 Seit Kapitel 14 bekannt: [ξανα-]{lang="el"} ist das Adverb [ξανά]{lang="el"}, als Vorsilbe
 vor das Verb gezogen, und passt vor fast jedes Verb. [Γέμισέ το ξανά.]{lang="el"} und
 [Ξαναγέμισέ το.]{lang="el"} bedeuten dasselbe. Neben „noch einmal“ heißt es oft „neu, von vorn“
-wie englisch *re-*: [ξαναχτίστηκε]{lang="el"} „wurde wieder aufgebaut“ (Kapitel 23),
+wie englisch [*re-*]{lang="en"}: [ξαναχτίστηκε]{lang="el"} „wurde wieder aufgebaut“ (Kapitel 23),
 [ξαναζεσταίνω]{lang="el"} „aufwärmen“. Das Wort wird dadurch lang, aber nie schwer: Wer
 [ksana] am Anfang hört, kann es abziehen und hat das Verb.
 
 ### [ξε-]{lang="el"}: heraus, weg, rückgängig {#sec-praefixe-kse}
 
 [ξε-]{lang="el"} kommt von altgriechisch [εξ]{lang="grc"} „aus, heraus“, dem Verwandten von
-lateinisch *ex-*. Die wichtigste Bedeutung heute: **rückgängig machen**, wie deutsch *ent-* und
-*auf-*, spanisch *des-*, französisch *dé-*:
+lateinisch [*ex-*]{lang="la"}. Die wichtigste Bedeutung heute: **rückgängig machen**, wie deutsch *ent-* und
+*auf-*, spanisch [*des-*]{lang="es"}, französisch [*dé-*]{lang="fr"}:
 
 | Verb | mit [ξε-]{lang="el"} |
 |---|---|
@@ -499,7 +500,7 @@ lateinisch *ex-*. Die wichtigste Bedeutung heute: **rückgängig machen**, wie d
 | [κουράζομαι]{lang="el"} müde werden | [ξεκουράζομαι]{lang="el"} sich ausruhen |
 
 Spanisch sagt [*desvestirse*]{lang="es"}, Französisch [*décongeler*]{lang="fr"}. Die letzten beiden sind die schönsten: Man macht den Durst und die Müdigkeit rückgängig.
-[ξεμπερδεύω]{lang="el"} spricht man [ksebeˈrðevo]; auch nach der Vorsilbe ist [μπ]{lang="el"}
+[ξεμπερδεύω]{lang="el"} spricht man [kseberˈðevo]; auch nach der Vorsilbe ist [μπ]{lang="el"}
 ein [b].
 
 Die zweite Bedeutung ist die alte, **heraus, weg**: [φεύγω → ξεφεύγω]{lang="el"} „entkommen,
@@ -579,7 +580,7 @@ aber verliert das Hemd in der Sonne seine eigene Farbe. Betonung wie bei [ξέφ
 | [ξεκλειδώνω, ξεκλείδωσα]{lang="el"} | [ksekliˈðono], [kseˈkliðosa] | aufschließen |
 | [ξεντύνομαι, ξεντύθηκα]{lang="el"} | [kseˈdinome], [kseˈdiθika] | sich ausziehen |
 | [ξεπαγώνω, ξεπάγωσα]{lang="el"} | [ksepaˈɣono], [kseˈpaɣosa] | auftauen |
-| [ξεμπερδεύω, ξεμπέρδεψα]{lang="el"} | [ksebeˈrðevo], [kseˈberðepsa] | entwirren; fertig werden mit (umg.) |
+| [ξεμπερδεύω, ξεμπέρδεψα]{lang="el"} | [kseberˈðevo], [kseˈberðepsa] | entwirren; fertig werden mit (umg.) |
 | [ξεδιψάω, ξεδίψασα]{lang="el"} | [kseðiˈpsao], [kseˈðipsasa] | den Durst löschen |
 | [ξεφεύγω, ξέφυγα]{lang="el"} | [kseˈfevɣo], [ˈksefiɣa] | entkommen, entwischen |
 | [ξεπλένω, ξέπλυνα]{lang="el"} | [kseˈpleno], [ˈkseplina] | ausspülen |
@@ -613,9 +614,9 @@ Thema von Kapitel 27.
 
 Zwei alte Bekannte: [ο συνάδελφος]{lang="el"} (Kapitel 15) ist der „Mit-Bruder“, der Kollege,
 [η συμπρωτεύουσα]{lang="el"} (Kapitel 23) die „Mit-Hauptstadt“. [συν-]{lang="el"} heißt „mit,
-zusammen“ und entspricht lateinisch *con-*. Wie *con-* passt es sich dem folgenden Laut an, und
-wer Spanisch oder Französisch kann, kennt das Spiel: *compañero*, *collègue*, *corresponder*,
-*cooperar*.
+zusammen“ und entspricht lateinisch [*con-*]{lang="la"}. Wie [*con-*]{lang="la"} passt es sich dem folgenden Laut an, und
+wer Spanisch oder Französisch kann, kennt das Spiel: [*compañero*]{lang="es"}, [*collègue*]{lang="fr"},
+[*corresponder*]{lang="es"}, [*cooperar*]{lang="es"}.
 
 | vor | Form | Beispiele |
 |---|---|---|
@@ -644,8 +645,8 @@ Das ist eine Tendenz, keine feste Regel: Das Wörterbuch verzeichnet daneben auc
 [ξαναέγραψα, παραέφαγα]{lang="el"}, mit Vorsilbe und Augment.
 
 Die Verben mit festem Anfang aus Kapitel 3 ([ήρθα, ήπια, είδα]{lang="el"}) behalten ihr
-[ή-/εί-]{lang="el"} meist: [ξαναήρθα, παραήπια, ξαναείδα]{lang="el"}. Umgangssprachlich hört man
-auch [ξανάρθα, παράπια, ξανάδα]{lang="el"}.
+[ή-/εί-]{lang="el"} oft: [ξαναήρθα, παραήπια, ξαναείδα]{lang="el"}. Genauso üblich sind
+[ξανάρθα, παράπια, ξανάδα]{lang="el"}.
 
 Anders verhalten sich gelehrte Verben, bei denen das Augment ins Wortinnere rutscht:
 [παραγγέλνω → παρήγγειλα]{lang="el"}, [συμβαίνει → συνέβη]{lang="el"}. Die kommen in Kapitel 27.
@@ -685,8 +686,8 @@ zu teuer. · Entschuldigen Sie, ich habe verschlafen.
 
 A: [παρα-]{lang="el"} vor [κάνω, λέω]{lang="el"} heißt „zu viel“. In 4 steckt noch
 [ομ-]{lang="el"} „gleich“ (wie *homogen*). B: Betonung auf die drittletzte Silbe; das
-[ε-]{lang="el"} kommt nur dazu, wenn sonst eine Silbe fehlt. [ήρθα, ήπια]{lang="el"} bleiben meist,
-wie sie sind. D: [σπάω]{lang="el"} zerbrechen, [ο πόνος]{lang="el"} Schmerz, [το
+[ε-]{lang="el"} kommt nur dazu, wenn sonst eine Silbe fehlt. [ήρθα, ήπια]{lang="el"} behalten oft
+ihr [ή-]{lang="el"}, müssen aber nicht. D: [σπάω]{lang="el"} zerbrechen, [ο πόνος]{lang="el"} Schmerz, [το
 πρόβατο]{lang="el"} Schaf.
 :::
 
@@ -695,7 +696,8 @@ wie sie sind. D: [σπάω]{lang="el"} zerbrechen, [ο πόνος]{lang="el"} Sc
 
 B: In [έφαγα, έγραψα, έφυγε]{lang="el"} liefert das [ε-]{lang="el"} nur die fehlende Silbe; mit
 Vorsilbe fehlt keine mehr. C: [παραλίγο να, Μη με παρεξηγείς, Με συγχωρείτε]{lang="el"}.
-D: [πλήρης]{lang="el"} heißt „voll“, [έχω]{lang="el"} auch „halten“.
+D: [πλήρης]{lang="el"} heißt „voll“, [έχω]{lang="el"} auch „halten“. In
+[παραπονιέμαι]{lang="el"} ist [παρα-]{lang="el"} weder „zu viel“ noch „daneben“: Es verstärkt.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -708,8 +710,8 @@ D: [πλήρης]{lang="el"} heißt „voll“, [έχω]{lang="el"} auch „halt
 
 **B.** [παράφαγα, ξανάγραψα, ξέφυγε, ξεκλείδωσες, παραήπιαμε, ξαναήρθαν]{lang="el"}. In den
 ersten drei ersetzt die betonte Vorsilbe das Augment, [κλείδωσα]{lang="el"} hat ohnehin keins,
-in den letzten beiden bleibt das [ή-]{lang="el"} des Stamms. Ebenfalls richtig, nur seltener:
-[παραέφαγα, ξαναέγραψα]{lang="el"}; umgangssprachlich auch [παράπιαμε, ξανάρθαν]{lang="el"}.
+in den letzten beiden bleibt das [ή-]{lang="el"} des Stamms; ebenso richtig sind [παράπιαμε,
+ξανάρθαν]{lang="el"}. Ebenfalls richtig, nur seltener: [παραέφαγα, ξαναέγραψα]{lang="el"}.
 Typischer Fehler: die Betonung auf der Silbe des Grundverbs lassen, \*[ξαναγράψα]{lang="el"}.
 
 **C.** [Παραλίγο να χάσω το πλοίο.]{lang="el"} · [Μη με παρεξηγείς, αλλά παραείναι
@@ -720,13 +722,13 @@ Typischer Fehler: die Betonung auf der Silbe des Grundverbs lassen, \*[ξανα�
 **D.** [ξε- + σπάω]{lang="el"}: „heraus-brechen“, ausbrechen. [συμ- + πληρώνω]{lang="el"}: Das
 Grundverb hieß einmal „voll machen“ ([πλήρης]{lang="el"}), also „voll machen mit“, ergänzen.
 [συν- + εχ-]{lang="el"}: „zusammenhalten“, ohne Lücke weitermachen. [ξε- + κινώ]{lang="el"}: aus
-dem Stand heraus. [παρα- + πον-]{lang="el"}: Hier steckt [ο πόνος]{lang="el"}, das
-[παρα-]{lang="el"} ist alt und weder „zu viel“ noch „daneben“. [το πρόβατο + -άκι]{lang="el"}:
+dem Stand heraus. [παρα- + πον-]{lang="el"}: Hier steckt [ο πόνος]{lang="el"} (über
+[πονώ]{lang="el"} „quälen“). Das [παρα-]{lang="el"} verstärkt: [παραπονώ]{lang="el"} hieß im
+Mittelgriechischen „schwer bedrücken“. Das Nomen [το παράπονο]{lang="el"} ist erst aus dem Verb
+gebildet. [το πρόβατο + -άκι]{lang="el"}:
 Schäfchen, auf dem Meer die Schaumkronen. Typischer Fehler: in [συμπληρώνω]{lang="el"} „bezahlen“
 suchen; die heutige Bedeutung von [πληρώνω]{lang="el"} ist jünger.
 :::
-<!-- CHECK: συμπληρώνω < συμπληρώ/συμπληρόω (πλήρης), πληρώνω „zahlen“ jüngere Bedeutung von πληρόω „füllen, erfüllen“; συνεχίζω < συνεχής < συνέχω „zusammenhalten“; παραπονιέμαι < παράπονο (παρα + πόνος) -->
-
 
 
 ::: {.vocab}
@@ -830,8 +832,8 @@ steckt im Adjektiv.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Zweiter Durchgang: Beim Bestellen und Anbieten ist fast immer Lesart c im Spiel, und auch eine
-schlechte Nachricht wird verkleinert.
+Zweiter Durchgang: Beim Bestellen und Anbieten ist fast immer Lesart 3 (beschwichtigend) im
+Spiel, und auch eine schlechte Nachricht wird verkleinert.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -934,12 +936,11 @@ Schritt 3: Ist die Sache klein? Wird etwas angeboten, bestellt, empfohlen?
 
 Jedes Interview ist anders; so wertest du aus:
 
-- **Striche ohne „klein“:** [σουβλάκι, κολοκυθάκια, φασολάκια, πατατάκια]{lang="el"} sind eigene
-  Wörter.
+- **Striche ohne „klein“:** [σουβλάκι, κολοκυθάκια, φασολάκια, πατατάκια]{lang="el"},
+  [σακάκι]{lang="el"} (Sakko, eigentlich „Säckchen“) sind eigene Wörter.
 - **Falsche Striche:** [το τζάκι, το σπανάκι, το καπάκι]{lang="el"}, [το μεράκι]{lang="el"}
-  (Hingabe, Leidenschaft), [το σακάκι]{lang="el"} (Sakko) und [η πίτσα]{lang="el"}: Nach dem
-  Abtrennen bleibt kein Grundwort übrig.
-  <!-- CHECK: μεράκι < türk. merak; σακάκι: Herkunft (Lehnwort, kein Diminutiv von σάκος im heutigen Sprachgefühl?) -->
+  (Hingabe, Leidenschaft) und [η πίτσα]{lang="el"}: Nach dem Abtrennen bleibt kein Grundwort
+  übrig.
 - **Lesart:** Beim Essen überwiegt beschwichtigend und gesellig; zärtlich wird es, wenn von der
   Großmutter die Rede ist.
 :::
@@ -960,7 +961,7 @@ Jedes Interview ist anders; so wertest du aus:
   [ο καφές → το καφεδάκι, το ούζο → το ουζάκι]{lang="el"}. Der Stamm wächst mit, wo er beim
   Beugen wächst ([καφέδες, προβλήματος]{lang="el"}). Wie deutsch *-chen*.
 - **[-ίτσα, -ούλα]{lang="el"}**: weiblich bleibt weiblich ([η ωρίτσα, η φετούλα]{lang="el"}),
-  wie spanisch *-ita*. Männliche Namen und Personen: [-άκης, -ούλης]{lang="el"}. Adjektive:
+  wie spanisch [*-ita*]{lang="es"}. Männliche Namen und Personen: [-άκης, -ούλης]{lang="el"}. Adjektive:
   [μικρούλης, -α, -ικο]{lang="el"}.
 - Manche Verkleinerungen sind **eigene Wörter**: [το κολοκυθάκι, τα φασολάκια, τα πατατάκια, το
   σουβλάκι]{lang="el"}. Und nicht jedes [-άκι]{lang="el"} ist eine: [το τζάκι, το καπάκι]{lang="el"}.
@@ -971,10 +972,11 @@ Jedes Interview ist anders; so wertest du aus:
 - **Vorsilben:** [ξανα-]{lang="el"} noch einmal, neu; [ξε-]{lang="el"} rückgängig, heraus, weg,
   seltener ganz und gar;
   [παρα-]{lang="el"} zu viel, daneben; [συν-/συμ-/συγ-]{lang="el"} mit, zusammen, angepasst wie
-  lateinisch *con-*. Methode: abtrennen, Verb erkennen, am Satz prüfen.
+  lateinisch [*con-*]{lang="la"}. Methode: abtrennen, Verb erkennen, am Satz prüfen.
 - **Aorist:** Die Vorsilbe zählt mit und ersetzt meist das Augment: [παράφαγα, ξέφυγα,
-  ξανάγραψα]{lang="el"} (daneben auch [ξαναέγραψα]{lang="el"}). [ήρθα, ήπια]{lang="el"} bleiben
-  meist: [ξαναήρθα, παραήπια]{lang="el"}.
+  ξανάγραψα]{lang="el"} (daneben auch [ξαναέγραψα]{lang="el"}). [ήρθα, ήπια]{lang="el"} behalten
+  ihr [ή-]{lang="el"} oft: [ξαναήρθα, παραήπια]{lang="el"}; genauso üblich sind [ξανάρθα,
+  παράπια]{lang="el"}.
 
 ## Zum Lesen: Ein Ouzo, zwei Mezedes {#sec-praefixe-lesetext}
 
@@ -1015,7 +1017,6 @@ Tatsachen offen ist, steht in der Vorsicht-Box danach.
 - Die Herkunft des Wortes *Ouzo* ist unklar. Genannt werden türkisch [*üzüm*]{lang="tr"} „Traube“
   und eine beliebte Geschichte von italienisch [*uso Massalia*]{lang="it"} „für Marseille“ auf
   Exportkisten; belegt ist die Geschichte nicht.
-<!-- CHECK: Plomari im Süden von Lesbos; Anethol kristallisiert bei Kälte (Schmelzpunkt ca. 21 °C); Tsipouro aus Trester (στέμφυλα), mit oder ohne Anis; Volos-Tsipouradika: zu jedem 50-ml-Fläschchen ein wechselnder Meze -->
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -1126,7 +1127,7 @@ B: Zweimal Genuswechsel; zu [μπουκαλάκι]{lang="el"} gehört [το μπ
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [το τσίπουρο]{lang="el"} | [to ˈtsipuro] | der Tsipouro (Tresterbrand) |
+| [το τσίπουρο]{lang="el"} | [to ˈtsipuro] | der Tsipouro (Tresterschnaps) |
 | [η παρέα]{lang="el"} | [i paˈrea] | die Runde, die Freunde; Gesellschaft |
 | [η κουβέντα]{lang="el"} | [i kuˈveda] | das Gespräch, die Unterhaltung (umg.) |
 | [θολώνω, θόλωσα]{lang="el"} | [θoˈlono], [ˈθolosa] | trüb werden, sich trüben |
