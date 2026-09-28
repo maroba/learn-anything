@@ -566,10 +566,10 @@ Trenn bei g das [ξε]{lang="el"} ab: Bleibt ein Wort übrig? Bei d verliert etw
 - Noch einmal: f, h; h kann je nach Ton auch „Frag mich nie wieder!“ heißen.
 - g: [ξένος]{lang="el"} hat keine Vorsilbe, übrig bliebe nur [-νος]{lang="el"}.
 
-Typischer Fehler: d als „abfärben“ lesen; das Hemd verliert seine eigene Farbe. Betonung wie bei
-[ξέφυγε]{lang="el"}: [ξέβαψε]{lang="el"}.
+Typischer Fehler: d als „abfärben“ lesen. Das kann [ξεβάφω]{lang="el"} zwar auch heißen, hier
+aber verliert das Hemd in der Sonne seine eigene Farbe. Betonung wie bei [ξέφυγε]{lang="el"}:
+[ξέβαψε]{lang="el"}.
 :::
-<!-- CHECK: ξεβάφω intransitiv „verblassen, Farbe verlieren“ (auch „abfärben“?); ξεκολλάω intransitiv „sich lösen“ -->
 
 
 ::: {.vocab}
