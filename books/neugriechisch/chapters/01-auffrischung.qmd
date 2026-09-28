@@ -2,11 +2,1335 @@
 title: "Auffrischung: Klang und Präsens-Gerüst"
 ---
 
-::: {.callout-note}
-## Dieses Kapitel entsteht gerade
+Ein zügiger Durchgang durch das, was ein Anfängerkurs hinterlässt: Klang, Präsens, Artikel,
+nicht von null erklärt, sondern so, dass es beim Sprechen sitzt. Neu sind die Lautschrift des
+Buchs und die ersten Wörter, mit denen Griechen ein Gespräch steuern. Wer die Digraphen sicher kann, springt direkt zu Übung 1.1.
 
-Hier geht es bald zügig durch alles, was du aus einem Anfängerkurs mitbringst: die Aussprache
-mit allen Buchstabenkombinationen ([μπ, ντ, γκ, τσ, τζ, αι, ει, οι, ου, αυ, ευ]{lang="el"}), die
-Betonung, das Präsens aller Verbklassen, [είμαι]{lang="el"} und [έχω]{lang="el"}, Artikel im
-Nominativ und Akkusativ und die ersten Wörter, mit denen Griechen ein Gespräch in Gang halten.
+## Ankunft in Piräus {#sec-auffrischung-einstieg}
+
+Sieben Uhr morgens im [λιμάνι]{lang="el"} von Piräus, dem Hafen Athens, vor der Anzeigetafel:
+
+**[ΑΝΑΧΩΡΗΣΕΙΣ]{lang="el"}**
+
+| [ΩΡΑ]{lang="el"} | [ΠΡΟΟΡΙΣΜΟΣ]{lang="el"} | [ΠΥΛΗ]{lang="el"} | |
+|---|---|---|---|
+| [07:25]{lang="el"} | [ΠΑΡΟΣ – ΝΑΞΟΣ – ΣΑΝΤΟΡΙΝΗ]{lang="el"} | [Ε7]{lang="el"} | [ΕΠΙΒΙΒΑΣΗ]{lang="el"} |
+| [07:30]{lang="el"} | [ΑΙΓΙΝΑ]{lang="el"} | [Ε8]{lang="el"} | [ΕΠΙΒΙΒΑΣΗ]{lang="el"} |
+| [07:40]{lang="el"} | [ΣΥΡΟΣ – ΤΗΝΟΣ – ΜΥΚΟΝΟΣ]{lang="el"} | [Ε7]{lang="el"} | [ΚΑΘΥΣΤΕΡΗΣΗ]{lang="el"} |
+| [08:00]{lang="el"} | [ΣΕΡΙΦΟΣ – ΣΙΦΝΟΣ – ΜΗΛΟΣ]{lang="el"} | [Ε6]{lang="el"} | [ΑΚΥΡΩΣΗ]{lang="el"} |
+
+Daneben: [ΕΙΣΙΤΗΡΙΑ]{lang="el"}, [ΑΙΘΟΥΣΑ ΑΝΑΜΟΝΗΣ]{lang="el"}, [ΕΞΟΔΟΣ]{lang="el"}, und am
+Kiosk, zum Glück, [ΑΝΟΙΧΤΟ]{lang="el"}.
+
+Großbuchstaben tragen im Griechischen **keinen Akzent**; wo die Betonung sitzt, muss man
+wissen: [η καθυστέρηση]{lang="el"} [i kaθiˈsterisi], „die Verspätung“, und
+[η ακύρωση]{lang="el"} [i aˈcirosi], die Annullierung (im Sommer oft wegen des Meltemi, des
+Nordwinds der Ägäis; Kapitel 5). [ΣΑΝΤΟΡΙΝΗ]{lang="el"} ist [sadoˈrini], denn [ντ]{lang="el"}
+ist ein [d], und [η Αίγινα]{lang="el"} [i ˈeʝina], denn [αι]{lang="el"} ist ein [e]. Zwei
+Buchstaben, ein Laut: Solche Paare heißen **Digraphen**, und sie sind die häufigste Quelle
+falscher Aussprache bei allen, die Griechisch aus Büchern lernen.
+
+| Schild | im Wörterbuch | Deutsch |
+|---|---|---|
+| [ΠΡΟΟΡΙΣΜΟΣ]{lang="el"} | [ο προορισμός]{lang="el"} [o prooriˈzmos] | das Reiseziel |
+| [ΕΠΙΒΙΒΑΣΗ]{lang="el"} | [η επιβίβαση]{lang="el"} [i epiˈvivasi] | das Boarding |
+| [ΕΙΣΙΤΗΡΙΑ]{lang="el"} | [το εισιτήριο]{lang="el"} [to isiˈtirio] | die Fahrkarte |
+| [ΑΙΘΟΥΣΑ ΑΝΑΜΟΝΗΣ]{lang="el"} | [η αίθουσα αναμονής]{lang="el"} [i ˈeθusa anamoˈnis] | der Warteraum |
+| [ΕΞΟΔΟΣ]{lang="el"} | [η έξοδος]{lang="el"} [i ˈeksoðos] | der Ausgang |
+| [ΑΝΟΙΧΤΟ]{lang="el"} | [ανοιχτός, -ή, -ό]{lang="el"} [anixˈtos] | geöffnet |
+
+In [ο προορισμός]{lang="el"} werden beide [ο]{lang="el"} gesprochen. Und
+[η έξοδος]{lang="el"} ist feminin, obwohl es auf [-ος]{lang="el"} endet, ebenso
+[η είσοδος]{lang="el"} (Eingang) und [η μέθοδος]{lang="el"}. Alle drei enthalten
+[η οδός]{lang="el"}, „der Weg“: Der *Exodus* ist der Weg hinaus.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το λιμάνι]{lang="el"} | [to liˈmani] | der Hafen |
+| [το πλοίο]{lang="el"} | [to ˈplio] | das Schiff, die Fähre |
+| [η αναχώρηση]{lang="el"} | [i anaˈxorisi] | die Abfahrt, der Abflug |
+| [η καθυστέρηση]{lang="el"} | [i kaθiˈsterisi] | die Verspätung |
+| [το εισιτήριο]{lang="el"} | [to isiˈtirio] | die Fahrkarte, Eintrittskarte |
+| [η έξοδος]{lang="el"} | [i ˈeksoðos] | der Ausgang |
+| [ανοιχτός, -ή, -ό]{lang="el"} | [anixˈtos] | offen, geöffnet |
+| [κλειστός, -ή, -ό]{lang="el"} | [kliˈstos] | geschlossen |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [οι αναχωρήσεις]{lang="el"} | die Abfahrten |
+| [η ώρα, η πύλη]{lang="el"} | die Uhrzeit; das Tor, Gate |
+| [η ακύρωση]{lang="el"} | die Absage, Annullierung |
+| [η είσοδος]{lang="el"} | der Eingang |
+| [η μέθοδος]{lang="el"} | die Methode |
+| [η οδός]{lang="el"} | die Straße (in Adressen) |
+:::
+
+## Die Lautschrift dieses Buchs {#sec-auffrischung-ipa}
+
+Hinter jedem neuen Wort steht seine Aussprache im Internationalen Phonetischen Alphabet (IPA),
+in einfacher Form: [to liˈmani]. Die meisten Zeichen haben ihren gewohnten Wert.
+
+- Der **Strich ˈ** steht **vor** der betonten Silbe: [liˈmani] ist li-MA-ni. Betont ist immer
+  eine der letzten drei Silben (@sec-auffrischung-akzent-regeln).
+- **Fünf Vokale** [a e i o u], alle kurz und klar. Ein [e] am Wortende ist ein volles [e], kein
+  gemurmeltes wie in deutsch *Tasse*.
+- [p t k] **ohne Hauch**, wie im Französischen: Deutsch *Tee* hat nach dem [t] einen
+  Luftstoß, [η ταβέρνα]{lang="el"} [i taˈverna] nicht.
+
+Die Sonderzeichen stehen für Laute, die das Deutsche nicht hat oder anders schreibt:
+
+| IPA | Buchstabe | klingt wie | Beispiel |
+|---|---|---|---|
+| [θ] | [θ]{lang="el"} | engl. *think* | [η θάλασσα]{lang="el"} [i ˈθalasa] |
+| [ð] | [δ]{lang="el"} | engl. *this* | [ο δρόμος]{lang="el"} [o ˈðromos] |
+| [ɣ] | [γ]{lang="el"} vor a, o, u | span. *g* in [*agua*]{lang="es"} | [το γάλα]{lang="el"} [to ˈɣala] |
+| [ʝ] | [γ]{lang="el"} vor e, i | *j* in *ja* | [γεια]{lang="el"} [ʝa] |
+| [x] | [χ]{lang="el"} vor a, o, u | *ach* | [η χαρά]{lang="el"} [i xaˈra] |
+| [ç] | [χ]{lang="el"} vor e, i | *ich* | [το χέρι]{lang="el"} [to ˈçeri] |
+| [z] | [ζ]{lang="el"} | stimmhaft wie *s* in *Rose* | [η ζάχαρη]{lang="el"} [i ˈzaxari] |
+| [s] | [σ, ς]{lang="el"} | stimmlos wie *ss* in *Tasse*; vor stimmhaftem Konsonanten [z] | [η σαλάτα]{lang="el"} [i saˈlata], [ο κόσμος]{lang="el"} [o ˈkozmos] |
+| [r] | [ρ]{lang="el"} | getippt wie span. [*pero*]{lang="es"} | [το ρολόι]{lang="el"} [to roˈloi] |
+
+„Vor e, i“ heißt: vor allem, was wie [e] oder [i] klingt, also auch vor
+[αι, η, υ, ει, οι]{lang="el"}. Ebenso wird [κ]{lang="el"} dort zu [c]: [και]{lang="el"} [ce].
+
+::: {.callout-note collapse="true"}
+## Exkurs: Weiche Konsonanten zum Nachschlagen
+
+| IPA | wann | klingt wie | Beispiel |
+|---|---|---|---|
+| [c] | [κ]{lang="el"} vor e, i | *k* in *Kiel* mit einem Hauch *j* | [και]{lang="el"} [ce] |
+| [ɟ] | [γκ]{lang="el"} vor e, i | *g* in *Gier* mit einem Hauch *j* | [το γκισέ]{lang="el"} [to ɟiˈse] |
+| [ʎ] | [λ]{lang="el"} + unbetontes [ι, ει, οι]{lang="el"} … + Vokal | *lj* in *Million*, verschmolzen | [ο ήλιος]{lang="el"} [o ˈiʎos] |
+| [ɲ] | [ν]{lang="el"} + unbetontes [ι, ει, οι]{lang="el"} … + Vokal | span. *ñ* | [τα χρόνια]{lang="el"} [ta ˈxroɲa] |
+| [ŋ] | [γ]{lang="el"} vor [κ, γ, χ]{lang="el"} | *ng* in *Engel* | [η Αγγλία]{lang="el"} [i aŋˈglia] |
+:::
+
+Ein unbetontes [ι]{lang="el"} (auch [ει, οι]{lang="el"}) zwischen Konsonant und Vokal wird
+meist zu einem kurzen *j*-Laut ohne eigene Silbe: [τα παιδιά]{lang="el"} [ta peˈðʝa] hat zwei
+Silben. Gelehrte Wörter behalten oft beide (@sec-auffrischung-internationalismen).
+
+## Zwei Buchstaben, ein Laut: die Digraphen {#sec-auffrischung-digraphen}
+
+Mittags in einer Dorftaverne auf Naxos. Die englische Spalte der Speisekarte ist so frei
+übersetzt, dass man lieber die griechische liest.
+
+::: {lang="el"}
+**Ταβέρνα «Η Γκόλφω»**
+
+Ορεκτικά: τζατζίκι, τυροκαυτερή, ντολμαδάκια, μελιτζανοσαλάτα.
+
+Σαλάτες: χωριάτικη, ντομάτα αγγούρι.
+
+Κυρίως πιάτα: μουσακάς, γιουβέτσι, μπιφτέκι, παϊδάκια, χοιρινή μπριζόλα, γαύρος τηγανητός, αυγά μάτια με πατάτες.
+
+Ποτά: μπίρα, ρετσίνα, τσίπουρο, λευκό κρασί χύμα, γκαζόζα, τσάι του βουνού.
+
+Γλυκά: γαλακτομπούρεκο, γιαούρτι με μέλι και καρύδια.
+
+Κλειστό κάθε Δευτέρα.
+:::
+
+Auf der Karte stehen alle Digraphen des Griechischen.
+
+### Vokale: [αι, ει, οι, ου]{lang="el"} {#sec-auffrischung-vokal-digraphen}
+
+| Schreibung | Laut | Beispiel |
+|---|---|---|
+| [αι]{lang="el"} | [e] | [και]{lang="el"} [ce], [η Αίγινα]{lang="el"} [i ˈeʝina] |
+| [ει, οι]{lang="el"} | [i] | [κλειστό]{lang="el"} [kliˈsto], [χοιρινή]{lang="el"} [çiriˈni] |
+| [ου]{lang="el"} | [u] | [το βουνό]{lang="el"} [to vuˈno], [το γιαούρτι]{lang="el"} [to ʝaˈurti] |
+
+Für [i] gibt es damit sechs Schreibungen ([ι, η, υ, ει, οι, υι]{lang="el"}). Beim Lesen hilft
+das sogar, denn die Schreibung trägt oft Grammatik: [-ει]{lang="el"} am Verb ist die dritte
+Person ([τρώει]{lang="el"}), [οι]{lang="el"} vor einem Nomen der Plural-Artikel.
+
+### Konsonanten: [μπ, ντ, γκ, τσ, τζ]{lang="el"} {#sec-auffrischung-konsonant-digraphen}
+
+| Schreibung | Laut | Beispiel |
+|---|---|---|
+| [μπ]{lang="el"} | [b] | [η μπίρα]{lang="el"} [i ˈbira], [η μπριζόλα]{lang="el"} [i briˈzola] |
+| [ντ]{lang="el"} | [d] | [η ντομάτα]{lang="el"} [i doˈmata], [τα ντολμαδάκια]{lang="el"} [ta dolmaˈðaca] |
+| [γκ]{lang="el"} | [g] | [η γκαζόζα]{lang="el"} [i gaˈzoza] (Limonade) |
+| [γγ]{lang="el"} | [ŋg] | [το αγγούρι]{lang="el"} [to aŋˈguri] (Gurke) |
+| [τσ]{lang="el"} | [ts] | [η ρετσίνα]{lang="el"} [i reˈtsina], [η πίτσα]{lang="el"} [i ˈpitsa] |
+| [τζ]{lang="el"} | [dz] | [το τζατζίκι]{lang="el"} [to dzaˈdzici] |
+
+Im Wortinneren sprechen viele einen leichten Nasal mit: [ο έμπορος]{lang="el"} (der Kaufmann)
+klingt dann [ˈemboros] statt [ˈeboros]. Beides ist richtig; das Buch schreibt immer [b d g].
+
+::: {.callout-warning}
+## Achtung
+
+Ein hörbares [p] oder [t] bei [μπ, ντ]{lang="el"} ist falsch. Ausnahmen sind wenige gelehrte
+Wörter, allen voran [η Πέμπτη]{lang="el"} [i ˈpempti], der Donnerstag („der fünfte“ Tag, vom
+Sonntag an gezählt). Und [ζ]{lang="el"} ist nie „ts“: [η ζώνη]{lang="el"} (Gürtel) ist [ˈzoni];
+das deutsche *z* schreibt man [τσ]{lang="el"}.
+:::
+
+### Akzent und Trema trennen {#sec-auffrischung-trema}
+
+Zwei Vokale, die sonst einen Digraphen bilden würden, werden getrennt gesprochen, wenn der
+**Akzent auf dem ersten** liegt oder der zweite ein **Trema** trägt (zwei Punkte,
+[τα διαλυτικά]{lang="el"}):
+
+| verschmolzen | getrennt |
+|---|---|
+| [και]{lang="el"} [ce] | [το τσάι]{lang="el"} [to ˈtsai] |
+| [τα παιδιά]{lang="el"} [ta peˈðʝa] | [τα παϊδάκια]{lang="el"} [ta paiˈðaca] (Lammkoteletts) |
+| [είμαι]{lang="el"} [ˈime] | [το ρολόι]{lang="el"} [to roˈloi] (die Uhr) |
+
+Liegt der Akzent auf dem zweiten Vokal, braucht es beides: [το καΐκι]{lang="el"} [to kaˈici], das
+hölzerne Fischerboot. Das Trema bleibt auch in Großbuchstaben: [ΚΑΪΚΙ]{lang="el"}.
+
+::: {.callout-note .exercise}
+## Übung 1.1: Lesen ohne Akzent
+
+**Teil A.** Wörter von Schildern und Bussen. Lies jedes laut, dann wähle die Umschrift. Die
+Betonung ist vorgegeben; es geht um die Buchstaben.
+
+a) [ΑΦΙΞΕΙΣ]{lang="el"} (Ankünfte): 1 [aˈfikseis] · 2 [aˈfiksis] · 3 [aˈfiksais]
+b) [ΚΕΝΤΡΟ]{lang="el"} (Zentrum): 1 [ˈkentro] · 2 [ˈcetro] · 3 [ˈcedro]
+c) [ΜΠΑΝΙΑ]{lang="el"} (Bäder): 1 [ˈbaɲa] · 2 [ˈmpania] · 3 [ˈpaɲa]
+d) [ΠΑΝΤΟΠΩΛΕΙΟ]{lang="el"} (Lebensmittelladen): 1 [pantopoˈlio] · 2 [padopoˈleo] · 3 [padopoˈlio]
+e) [ΠΡΩΤΕΪΝΗ]{lang="el"} (Protein): 1 [protiˈni] · 2 [proteˈini] · 3 [proteˈni]
+
+**Teil B.** Welche Aussprache ist richtig?
+
+a) [το εμπόριο]{lang="el"} (der Handel): 1 [to emˈporio] · 2 [to eˈborio] · 3 [to ˈeborio]
+b) [η τσέπη]{lang="el"} (die Tasche an Kleidung): 1 [i ˈtsepi] · 2 [i ˈzepi] · 3 [i tseˈpi]
+c) [η οικογένεια]{lang="el"} (die Familie): 1 [i oikoˈgenia] · 2 [i ikoˈʝeɲa] · 3 [i ˈikoʝeɲa]
+d) [η Πέμπτη]{lang="el"}: 1 [i ˈbembti] · 2 [i ˈpempti] · 3 [i ˈpebti]
+
+Im Chat reicht „A: a2, b3 …; B: a2 …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+A: Die Wörter sind neu, die Buchstabenpaare nicht. Zerleg jedes Wort erst in Digraphen und
+einzelne Buchstaben. B: Hier zählt auch die Betonung.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+A: [κ]{lang="el"} vor [e] ist [c]; für [νι]{lang="el"} vor Vokal sieh im Exkurs „Weiche
+Konsonanten“ nach; das Trema trennt. B: Ein hörbares [p] oder [t] ist bei
+[μπ, ντ]{lang="el"} falsch, mit einer Ausnahme. Die Betonung steht nie vor der drittletzten Silbe.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**A: a2, b3, c1, d3, e2.**
+
+- a) [οι αφίξεις]{lang="el"}: [ει]{lang="el"} ist [i], nie „ei“ oder „ai“.
+- b) [το κέντρο]{lang="el"}: [κ]{lang="el"} vor [e] ist [c], [ντ]{lang="el"} ist [d] (mit
+  leichtem Nasal [ˈcendro]). [ˈkentro] ist die deutsche Lesart.
+- c) [τα μπάνια]{lang="el"}: [νια]{lang="el"} verschmilzt zu [ɲa]; zwei Silben.
+- d) [το παντοπωλείο]{lang="el"}: [ντ]{lang="el"} [d], [ει]{lang="el"} [i].
+- e) [η πρωτεΐνη]{lang="el"}: Das Trema trennt, [e-i].
+
+**B: a2, b1, c2, d2.** a) Mit leichtem Nasal [emˈborio] ebenfalls richtig, [p] nie. b) [τσ]{lang="el"}
+ist das deutsche *z*; [z] wäre [ζ]{lang="el"}. c) [οι]{lang="el"} ist [i], [γ]{lang="el"} vor
+[e] ist [ʝ], [νεια]{lang="el"} wird [ɲa]; 3 betont die viertletzte Silbe, und die gibt es nicht.
+d) Die Ausnahme mit echtem [mp].
+
+Typische Fehler: [ει]{lang="el"} als „ei“ lesen; bei [ντ]{lang="el"} ein [t] sprechen.
+:::
+
+### Die Wechselhaften: [αυ, ευ]{lang="el"} {#sec-auffrischung-av-ev}
+
+[αυ]{lang="el"} und [ευ]{lang="el"} sind keine Vokale, sondern Vokal plus Konsonant. Welcher
+Konsonant, hängt vom nächsten Laut ab:
+
+- vor einem Vokal oder einem **stimmhaften** Konsonanten: [av], [ev].
+  [ο γαύρος]{lang="el"} [o ˈɣavros] (Sardelle), [το αυγό]{lang="el"} [to avˈɣo],
+  [η Παρασκευή]{lang="el"} [i parasceˈvi] (Freitag).
+- vor einem **stimmlosen** Konsonanten ([θ κ ξ π σ τ φ χ ψ]{lang="el"}): [af], [ef].
+  [η τυροκαυτερή]{lang="el"} [i tirokafteˈri] (scharfe Käsecreme), [λευκό]{lang="el"}
+  [lefˈko] (weiß), [η Δευτέρα]{lang="el"} [i ðefˈtera] (Montag).
+
+Das [υ]{lang="el"} passt sich seinem Nachbarn an; in Kapitel 2 wird so aus [ev] und [s] ein
+[eps].
+
+::: {.callout-warning}
+## Achtung
+
+[ευ]{lang="el"} ist nie „oi“: der Euro ist [το ευρώ]{lang="el"} [to evˈro]. [αυ]{lang="el"} ist
+nie „au“: [αύριο]{lang="el"} (morgen) ist [ˈavrio].
+:::
+
+::: {.callout-note .exercise}
+## Übung 1.2: [av] oder [af]?
+
+Sprich jedes Wort laut und sortiere: [av]/[ev] oder [af]/[ef]?
+
+[η Εύβοια]{lang="el"} (Euböa) · [φεύγω]{lang="el"} (ich fahre ab) · [αυτός]{lang="el"} (er) ·
+[ευγενικός]{lang="el"} (höflich) · [ο ταύρος]{lang="el"} (der Stier) · [η ευκαιρία]{lang="el"}
+(die Gelegenheit) · [ο ναύτης]{lang="el"} (der Seemann) · [το αυτοκίνητο]{lang="el"} (das Auto)
+
+Im Chat reicht „av: …; af: …“ mit den Nummern 1 bis 8.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Entscheidend ist allein der Laut **nach** dem [υ]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Stimmlos sind nur [θ κ ξ π σ τ φ χ ψ]{lang="el"}. [β, γ, δ, ζ, λ, μ, ν, ρ]{lang="el"} und alle
+Vokale zählen als stimmhaft.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**[av]/[ev]:** [η Εύβοια]{lang="el"} [i ˈevia], [φεύγω]{lang="el"} [ˈfevɣo],
+[ευγενικός]{lang="el"} [evʝeniˈkos], [ο ταύρος]{lang="el"} [o ˈtavros].
+**[af]/[ef]:** [αυτός]{lang="el"} [afˈtos], [η ευκαιρία]{lang="el"} [i efceˈria],
+[ο ναύτης]{lang="el"} [o ˈnaftis], [το αυτοκίνητο]{lang="el"} [to aftoˈcinito].
+
+Typische Fehler: „Oiböa“ und „Tauros“ wie im Deutschen. Der *Minotaurus* ist übrigens der
+[Μινώταυρος]{lang="el"}, der „Stier des Minos“.
+:::
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το αυγό]{lang="el"} | [to avˈɣo] | das Ei |
+| [λευκός, -ή, -ό]{lang="el"} | [lefˈkos] | weiß |
+| [ο κόσμος]{lang="el"} | [o ˈkozmos] | die Welt; die Leute |
+| [αύριο]{lang="el"} | [ˈavrio] | morgen |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [τα ορεκτικά]{lang="el"} | die Vorspeisen |
+| [το τζατζίκι]{lang="el"} | Joghurt mit Gurke und Knoblauch |
+| [τα ντολμαδάκια]{lang="el"} | gefüllte Weinblätter |
+| [η χωριάτικη (σαλάτα)]{lang="el"} | „Bauernsalat“, der griechische Salat |
+| [το γιουβέτσι]{lang="el"} | Fleisch mit Kritharaki aus dem Ofen |
+| [το μπιφτέκι]{lang="el"} | Hacksteak |
+| [η μπριζόλα]{lang="el"} | das Kotelett |
+| [τηγανητός, -ή, -ό]{lang="el"} | frittiert, gebraten |
+| [τα αυγά μάτια]{lang="el"} | Spiegeleier (wörtlich „Augen-Eier“) |
+| [το τσίπουρο]{lang="el"} | Tresterschnaps |
+| [χύμα]{lang="el"} | offen (Wein vom Fass) |
+| [η γκαζόζα]{lang="el"} | süße Limonade mit Kohlensäure |
+| [το τσάι του βουνού]{lang="el"} | Bergtee |
+| [το γαλακτομπούρεκο]{lang="el"} | Grießcreme in Filoteig mit Sirup |
+:::
+
+## Ä, Ö und Eu: griechische Buchstaben im Deutschen {#sec-auffrischung-lehnwoerter}
+
+Die Digraphen stecken auch in deutschen Wörtern. Die Römer schrieben [αι]{lang="el"} als *ae* und [οι]{lang="el"} als *oe*; daraus wurden Ä
+und Ö. Die *Ökonomie* ist [η οικονομία]{lang="el"} [i ikonoˈmia], die Verwaltung des Hauses
+([ο οίκος]{lang="el"}), die *Ästhetik* [η αισθητική]{lang="el"} [i esθitiˈci]. Damals waren
+[αι, οι]{lang="el"} noch Doppellaute; das Deutsche hat einen älteren Stand festgehalten. Ebenso:
+*Euphorie* – [η ευφορία]{lang="el"} [i efoˈria], *Autonomie* – [η αυτονομία]{lang="el"}
+[i aftonoˈmia], *Physik* – [η φυσική]{lang="el"} [i fisiˈci].
+
+::: {.callout-tip}
+## Tipp
+
+*Ö* → [οι]{lang="el"} [i], *Ä* → [αι]{lang="el"} [e], *y* → [υ]{lang="el"} [i],
+*Eu-, Au-* → [ευ, αυ]{lang="el"}. Die Betonung dagegen musst du fast immer neu lernen.
+:::
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η οικονομία]{lang="el"} | [i ikonoˈmia] | die Wirtschaft |
+:::
+
+## Wo die Betonung sitzt {#sec-auffrischung-betonung}
+
+Die Betonung ist im Griechischen frei und unterscheidet Wörter:
+
+::: {lang="el"}
+— Πότε φεύγει το πλοίο;
+
+— Ποτέ δε φεύγει στην ώρα του.
+:::
+
+„Wann fährt das Schiff ab?“ – „Es fährt nie pünktlich ab.“ [πότε]{lang="el"} [ˈpote] heißt
+„wann“, [ποτέ]{lang="el"} [poˈte] „nie“. Ebenso: [ο γέρος]{lang="el"} (der alte Mann) –
+[γερός]{lang="el"} (kräftig); [ο νόμος]{lang="el"} (das Gesetz) – [ο νομός]{lang="el"} (der
+Verwaltungsbezirk); [μόνος]{lang="el"} (allein) – [μονός]{lang="el"} (einfach, ungerade: ein
+[μονό κρεβάτι]{lang="el"} ist ein Einzelbett, ein [μονός αριθμός]{lang="el"} eine ungerade Zahl).
+
+### Drei Regeln für den Akzent {#sec-auffrischung-akzent-regeln}
+
+1. **Jedes mehrsilbige Wort trägt einen Akzent** ([ο τόνος]{lang="el"}), in aller Regel genau
+   einen (eine Ausnahme mit zwei kommt in Kapitel 2). Raten musst du nur bei Großbuchstaben.
+2. **Einsilbige Wörter tragen keinen**, außer wo er zwei gleich geschriebene Wörter trennt:
+   [πού;]{lang="el"} „wo?“ gegen [που]{lang="el"} „der, die, das; wo“ (im Relativsatz),
+   [πώς;]{lang="el"} „wie?“ gegen [πως]{lang="el"} „dass“, [ή]{lang="el"} „oder“ gegen
+   [η]{lang="el"}.
+3. **Betont ist immer eine der letzten drei Silben**: [ποτέ]{lang="el"}, [ώρα]{lang="el"},
+   [η θάλασσα]{lang="el"}. Wird eine Form länger, wandert die Betonung mit.
+
+### Internationale Wörter, griechisch betont {#sec-auffrischung-internationalismen}
+
+Das Deutsche betont seine griechischen Wörter nach eigenen Regeln. Sprich laut:
+
+::: {lang="el"}
+η δημοκρατία, η φιλοσοφία, η ιδέα, η ενέργεια
+
+το τηλέφωνο, το πρόβλημα, το πρόγραμμα, η ατμόσφαιρα
+:::
+
+Die erste Reihe klingt fast deutsch, nur [η ενέργεια]{lang="el"} [i eˈnerʝia] nicht: betont auf
+-νέρ-, nicht hinten wie *Energie*. Es ist das gelehrte Wort aus @sec-auffrischung-ipa: Das
+[ια]{lang="el"} bleibt zwei Silben, [e-ner-ʝi-a]. Die zweite Reihe betont die drittletzte Silbe:
+[tiˈlefono], [ˈprovlima], [ˈproɣrama], [atˈmosfera].
+
+::: {.callout-warning}
+## Achtung
+
+Die häufigste Betonungsfalle sind Wörter, die du „schon kennst“. Wer *probLIma* sagt, wird oft
+nicht verstanden: Für das Ohr zählt die Betonung mehr als ein falscher Vokal.
+:::
+
+::: {.callout-note .exercise}
+## Übung 1.3: Wann, nie, wo?
+
+**Teil A.** Welches Wort gehört in die Lücke, 1 oder 2?
+
+a) Am Schalter: „Wann fährt die Fähre nach Ägina?“ [… φεύγει το πλοίο;]{lang="el"}
+(1 [Πότε]{lang="el"} · 2 [Ποτέ]{lang="el"})
+b) Ein Stammgast über die Fähre: „Die fährt nie pünktlich.“ [… δε φεύγει στην ώρα του.]{lang="el"}
+(1 [Πότε]{lang="el"} · 2 [Ποτέ]{lang="el"})
+c) An der Rezeption, Hochsaison: „Wir haben ein einziges Zimmer.“ [Έχουμε ένα … δωμάτιο.]{lang="el"}
+(1 [μόνο]{lang="el"} · 2 [μονό]{lang="el"})
+d) „Wo ist der Warteraum?“ [… είναι η αίθουσα αναμονής;]{lang="el"}
+(1 [Πού]{lang="el"} · 2 [Που]{lang="el"})
+e) „Sie sagt, dass das Schiff Verspätung hat.“ [Λέει … το πλοίο έχει καθυστέρηση.]{lang="el"}
+(1 [πώς]{lang="el"} · 2 [πως]{lang="el"})
+
+**Teil B.** Die Akzente fehlen. Sprich jedes Wort laut mit griechischer Betonung.
+
+::: {lang="el" .no-audio}
+τηλεφωνο · προβλημα · ιδεα · οικονομια · μουσικη · θεατρο
+:::
+
+Im Chat reicht „A: a1, b2 …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+A: Übersetz die Lücke zuerst ins Deutsche: „wann“ oder „nie“, „wo?“ oder „dass“? B: Misstrau vor
+allem den Wörtern, die du aus dem Deutschen kennst.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+A: Einsilbige Fragewörter tragen einen Akzent, ihre Doppelgänger nicht. B: Drei Wörter werden
+auf der drittletzten Silbe betont, zwei auf der vorletzten, eins auf der letzten.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**A: a1, b2, c1, d1, e2.**
+In c) heißt [ένα μόνο δωμάτιο]{lang="el"} „nur ein Zimmer“; [μονό]{lang="el"} („einfach“) passt
+zu [κρεβάτι]{lang="el"}. Ein Einzelzimmer heißt übrigens [μονόκλινο]{lang="el"}. In e) wäre [πώς]{lang="el"} „wie?“.
+
+**B.**
+
+- drittletzte Silbe: [το τηλέφωνο]{lang="el"} [tiˈlefono], [το πρόβλημα]{lang="el"}
+  [ˈprovlima], [το θέατρο]{lang="el"} [ˈθeatro]
+- vorletzte: [η ιδέα]{lang="el"} [iˈðea], [η οικονομία]{lang="el"} [ikonoˈmia]
+- letzte: [η μουσική]{lang="el"} [musiˈci]
+
+Die Fallen sind *Telefon*, *Problem* und *Theater*. Bei [οικονομία]{lang="el"} liegt der Ton
+auf dem [i], nicht auf dem [a].
+:::
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [πότε;]{lang="el"} | [ˈpote] | wann? |
+| [ποτέ]{lang="el"} | [poˈte] | nie; jemals |
+| [ο γέρος]{lang="el"} | [o ˈʝeros] | der alte Mann |
+| [μόνος, -η, -ο]{lang="el"} | [ˈmonos] | allein |
+| [που]{lang="el"} | [pu] | der, die, das (Relativwort); wo (im Relativsatz) |
+| [πως]{lang="el"} | [pos] | dass |
+| [η ιδέα]{lang="el"} | [i iˈðea] | die Idee |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [φεύγω]{lang="el"} | abfahren, weggehen |
+| [στην ώρα του]{lang="el"} | pünktlich (wörtlich „zu seiner Stunde“) |
+| [ο νόμος, ο νομός]{lang="el"} | das Gesetz, der Verwaltungsbezirk |
+| [γερός, -ή, -ό]{lang="el"} | kräftig, robust |
+| [μονός, -ή, -ό]{lang="el"} | einfach, einzeln; ungerade |
+| [το κρεβάτι]{lang="el"} | das Bett |
+| [το δωμάτιο]{lang="el"} | das Zimmer |
+| [ο τόνος]{lang="el"} | der Akzent (auch: die Tonne, der Thunfisch) |
+:::
+
+## Das Präsens: ein Gerüst für alle Verben {#sec-auffrischung-praesens}
+
+Eine Nachricht auf dem Küchentisch einer Ferienwohnung in Athen, an Gäste aus Thessaloniki:
+
+::: {lang="el"}
+Καλώς ήρθατε! Λίγα πρακτικά πράγματα για τη γειτονιά:
+
+Ο φούρνος στη γωνία ανοίγει στις έξι το πρωί. Το φαρμακείο κλείνει στις δύο και μισή.
+
+Από τις τρεις μέχρι τις πέντε και μισή οι γείτονες κοιμούνται. Σας παρακαλώ, όχι φασαρία στο μπαλκόνι.
+
+Οι ταβέρνες ανοίγουν στις οχτώ, αλλά πριν από τις δέκα δεν τρώει κανείς. Αν πεινάτε νωρίτερα, πάτε στην πλατεία: εκεί έχει σουβλάκια όλη μέρα.
+
+Αν οδηγείτε, παρκάρετε στον δρόμο πίσω από την πλατεία. Εγώ μένω στο ισόγειο. Αν χρειάζεστε κάτι, χτυπάτε την πόρτα μου. Μιλάω και αγγλικά.
+
+Καλή διαμονή!
+
+Ελένη
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+Herzlich willkommen! Ein paar praktische Dinge zur Nachbarschaft:
+
+Die Bäckerei an der Ecke macht um sechs Uhr morgens auf. Die Apotheke schließt um halb drei.
+
+Von drei bis halb sechs schlafen die Nachbarn. Bitte keinen Lärm auf dem Balkon.
+
+Die Tavernen öffnen um acht, aber vor zehn isst niemand. Wenn ihr früher Hunger habt, geht auf
+den Platz: Dort gibt es den ganzen Tag Souvlaki.
+
+Wenn ihr mit dem Auto da seid, parkt in der Straße hinter dem Platz. Ich wohne im Erdgeschoss.
+Wenn ihr etwas braucht, klopft an meine Tür. Ich spreche auch Englisch.
+
+Einen schönen Aufenthalt!
+
+Eleni
+:::
+
+Nachmittags Schlaf, Abendessen ab zehn: ein griechischer Tag (mehr im Lesetext). In den Zeilen
+steckt fast das ganze Präsens ([ο ενεστώτας]{lang="el"}). Die drei großen Muster:
+
+| Person | wohnen | sprechen | können |
+|---|---|---|---|
+| ich | [μέν**ω**]{lang="el"} | [μιλ**άω**]{lang="el"} | [μπορ**ώ**]{lang="el"} |
+| du | [μέν**εις**]{lang="el"} | [μιλ**άς**]{lang="el"} | [μπορ**είς**]{lang="el"} |
+| er, sie, es | [μέν**ει**]{lang="el"} | [μιλ**άει**]{lang="el"} | [μπορ**εί**]{lang="el"} |
+| wir | [μέν**ουμε**]{lang="el"} | [μιλ**άμε**]{lang="el"} | [μπορ**ούμε**]{lang="el"} |
+| ihr, Sie | [μέν**ετε**]{lang="el"} | [μιλ**άτε**]{lang="el"} | [μπορ**είτε**]{lang="el"} |
+| sie | [μέν**ουν**]{lang="el"} | [μιλ**άνε**]{lang="el"} | [μπορ**ούν**]{lang="el"} |
+
+[μένω]{lang="el"} steht für die größte Gruppe, stammbetont; die beiden anderen sind endbetont.
+Die [μιλάω]{lang="el"}-Verben haben knappere Nebenformen, vor allem in der Schrift:
+[μιλώ, μιλά, μιλούν]{lang="el"}; falsch ist keine. Die Vokabeltabellen führen sie auf
+[-άω]{lang="el"}. Die 3. Person Plural bekommt im Gespräch oft ein [-ε]{lang="el"}:
+[μένουνε, μπορούνε]{lang="el"}. Aus dem Text: [ανοίγει]{lang="el"} wie [μένω]{lang="el"},
+[πεινάτε]{lang="el"} wie [μιλάω]{lang="el"}, [οδηγείτε]{lang="el"} wie [μπορώ]{lang="el"}.
+
+::: {.callout-warning}
+## Achtung
+
+Die Endungen der beiden endbetonten Muster nicht mischen: [μιλάμε]{lang="el"}, aber
+[μπορούμε]{lang="el"}; [μιλάς]{lang="el"}, aber [μπορείς]{lang="el"}. \*[μποράμε]{lang="el"} und
+\*[μιλείς]{lang="el"} hört man von Lernenden oft, von Griechen nie. Das Muster verrät die
+du-Form.
+:::
+
+### Die kurzen: [λέω, τρώω, πάω, ακούω]{lang="el"} {#sec-auffrischung-praesens-kurz}
+
+Einige häufige Verben mit Vokalstamm gehen wie [μιλάω]{lang="el"}, nur ohne [α]{lang="el"}:
+[λέω, λες, λέει, λέμε, λέτε, λένε]{lang="el"} (sagen); ebenso [τρώω]{lang="el"} (essen),
+[πάω]{lang="el"} (gehen), [ακούω]{lang="el"} (hören). [Πάμε!]{lang="el"} heißt auch „Los!“.
+
+### Die Verben auf [-μαι]{lang="el"}: ein erster Überblick {#sec-auffrischung-praesens-mai}
+
+[κοιμούνται]{lang="el"} „sie schlafen“ und [χρειάζεστε]{lang="el"} „ihr braucht“ gehören zu den
+Verben auf [-μαι]{lang="el"}:
+
+| Person | kommen | schlafen |
+|---|---|---|
+| ich | [έρχ**ομαι**]{lang="el"} | [κοιμ**άμαι**]{lang="el"} |
+| du | [έρχ**εσαι**]{lang="el"} | [κοιμ**άσαι**]{lang="el"} |
+| er, sie, es | [έρχ**εται**]{lang="el"} | [κοιμ**άται**]{lang="el"} |
+| wir | [ερχ**όμαστε**]{lang="el"} | [κοιμ**όμαστε**]{lang="el"} |
+| ihr, Sie | [έρχ**εστε**]{lang="el"} | [κοιμ**άστε**]{lang="el"} |
+| sie | [έρχ**ονται**]{lang="el"} | [κοιμ**ούνται**]{lang="el"} |
+
+Vorerst reicht es, sie zu erkennen und die häufigsten zu benutzen ([Έρχομαι!]{lang="el"} „Ich
+komme!“); das System folgt in Kapitel 10 und 13. In [ερχόμαστε]{lang="el"} rückt die Betonung
+nach, sonst stünde sie auf der viertletzten Silbe.
+
+### [είμαι]{lang="el"} und [έχω]{lang="el"} {#sec-auffrischung-eimai-echo}
+
+| | sein | haben |
+|---|---|---|
+| Singular | [είμαι, είσαι, είναι]{lang="el"} | [έχω, έχεις, έχει]{lang="el"} |
+| Plural | [είμαστε, είστε, είναι]{lang="el"} | [έχουμε, έχετε, έχουν]{lang="el"} |
+
+[είναι]{lang="el"} heißt „er, sie, es ist“ und „sie sind“. [έχει]{lang="el"} heißt im Gespräch
+oft „es gibt“, wie spanisch [*hay*]{lang="es"}: [Εκεί έχει σουβλάκια.]{lang="el"} Neutraler ist
+[υπάρχει]{lang="el"}, Plural [υπάρχουν]{lang="el"}.
+
+::: {.callout-note .exercise}
+## Übung 1.4: Formen im Kopf
+
+Bilde die Form und sag sie laut, mit Betonung. Deck die Tabellen oben ab.
+
+a) [μένω]{lang="el"} → wir
+b) [μιλάω]{lang="el"} → sie (Plural)
+c) [μπορώ]{lang="el"} → ihr
+d) [τρώω]{lang="el"} → er
+e) [έρχομαι]{lang="el"} → wir
+f) [κοιμάμαι]{lang="el"} → du
+g) [είμαι]{lang="el"} → ihr
+h) [έχω]{lang="el"} → sie (Plural)
+i) [οδηγώ]{lang="el"} (Auto fahren) → du
+j) [παρκάρω]{lang="el"} → sie (Plural)
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Erst das Muster bestimmen: unbetontes [-ω]{lang="el"}, [-άω]{lang="el"}, [-ώ]{lang="el"},
+kurzer Vokalstamm oder [-μαι]{lang="el"}?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[οδηγώ]{lang="el"} geht wie [μπορώ]{lang="el"}. Bei e) Silben zählen: Die Betonung darf nicht
+weiter nach vorn als bis zur drittletzten.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+- a) [μένουμε]{lang="el"} [ˈmenume]
+- b) [μιλάνε]{lang="el"} [miˈlane], auch [μιλούν]{lang="el"} [miˈlun]
+- c) [μπορείτε]{lang="el"} [boˈrite]
+- d) [τρώει]{lang="el"} [ˈtroi]
+- e) [ερχόμαστε]{lang="el"} [erˈxomaste]
+- f) [κοιμάσαι]{lang="el"} [ciˈmase]
+- g) [είστε]{lang="el"} [ˈiste], umg. [είσαστε]{lang="el"} [ˈisaste]
+- h) [έχουν]{lang="el"} [ˈexun] oder [έχουνε]{lang="el"} [ˈexune]
+- i) [οδηγείς]{lang="el"} [oðiˈʝis]
+- j) [παρκάρουν]{lang="el"} [parˈkarun] oder [παρκάρουνε]{lang="el"} [parˈkarune]
+
+**Typische Fehler:** die endbetonten Muster mischen (\*[μποράτε]{lang="el"},
+\*[οδηγάς]{lang="el"}); \*[έρχομαστε]{lang="el"}; bei j) die Endung betonen, obwohl
+[παρκάρω]{lang="el"} stammbetont ist.
+:::
+
+Verben stehen in den Vokabeltabellen mit zwei Formen; die zweite ist der Aorist (Kapitel 2).
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [μένω, έμεινα]{lang="el"} | [ˈmeno], [ˈemina] | wohnen; bleiben |
+| [πεινάω, πείνασα]{lang="el"} | [piˈnao], [ˈpinasa] | Hunger haben |
+| [κοιμάμαι, κοιμήθηκα]{lang="el"} | [ciˈmame], [ciˈmiθika] | schlafen |
+| [χρειάζομαι, χρειάστηκα]{lang="el"} | [xriˈazome], [xriˈastika] | brauchen |
+| [υπάρχει, υπάρχουν]{lang="el"} | [iˈparçi], [iˈparxun] | es gibt |
+| [η γειτονιά]{lang="el"} | [i ʝitoˈɲa] | die Nachbarschaft, das Viertel |
+| [ο γείτονας, η γειτόνισσα]{lang="el"} | [o ˈʝitonas], [i ʝiˈtonisa] | der Nachbar, die Nachbarin |
+| [ο φούρνος]{lang="el"} | [o ˈfurnos] | die Bäckerei; der Ofen |
+| [το φαρμακείο]{lang="el"} | [to farmaˈcio] | die Apotheke |
+| [η πλατεία]{lang="el"} | [i plaˈtia] | der Platz (in der Stadt) |
+| [νωρίς]{lang="el"} | [noˈris] | früh |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [Καλώς ήρθατε!]{lang="el"} | Herzlich willkommen! (zu mehreren) |
+| [η γωνία]{lang="el"} | die Ecke |
+| [το πρωί]{lang="el"} | der Morgen; morgens |
+| [μισός, -ή, -ό]{lang="el"} | halb; [δύο και μισή]{lang="el"} halb drei |
+| [η φασαρία]{lang="el"} | der Lärm, der Trubel |
+| [αν]{lang="el"} | wenn, falls |
+| [νωρίτερα]{lang="el"} | früher |
+| [παρκάρω]{lang="el"} | parken |
+| [πίσω από]{lang="el"} | hinter |
+| [το ισόγειο]{lang="el"} | das Erdgeschoss |
+| [χτυπάω την πόρτα]{lang="el"} | an die Tür klopfen |
+| [μου]{lang="el"} (nach dem Nomen) | mein; ebenso [σου]{lang="el"} dein, [του]{lang="el"} sein (Kapitel 7) |
+| [η διαμονή]{lang="el"} | der Aufenthalt |
+:::
+
+## Der Artikel und zwei Fälle {#sec-auffrischung-artikel}
+
+Halb sieben am nächsten Morgen, in der Bäckerei an der Ecke, die auch Kaffee verkauft.
+
+::: {lang="el"}
+— Καλημέρα. Τι θα πάρετε;
+
+— Καλημέρα. Μια σπανακόπιτα και έναν καφέ, παρακαλώ.
+
+— Τον καφέ ζεστό ή κρύο;
+
+— Ζεστό. Και ένα κουλούρι για τον δρόμο.
+
+— Κάτι άλλο;
+
+— Όχι, αυτά. Πόσο κάνει;
+
+— Τέσσερα και πενήντα.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Guten Morgen. Was darf's sein?
+
+— Guten Morgen. Eine Spinattasche und einen Kaffee, bitte.
+
+— Den Kaffee heiß oder kalt?
+
+— Heiß. Und einen Sesamkringel für unterwegs.
+
+— Sonst noch etwas?
+
+— Nein, das war's. Was macht das?
+
+— Vier fünfzig.
+:::
+
+Wer bestellt, braucht den **Akkusativ** ([η αιτιατική]{lang="el"}), denn im Kopf steht ein
+„ich möchte“ davor: [(θέλω) έναν καφέ]{lang="el"}. Das Subjekt steht im **Nominativ**
+([η ονομαστική]{lang="el"}): [Ο καφές είναι κρύος.]{lang="el"}
+
+| | männlich | weiblich | sächlich |
+|---|---|---|---|
+| Nominativ Sg. | [ο]{lang="el"} | [η]{lang="el"} | [το]{lang="el"} |
+| Akkusativ Sg. | [τον]{lang="el"} | [τη(ν)]{lang="el"} | [το]{lang="el"} |
+| Nominativ Pl. | [οι]{lang="el"} | [οι]{lang="el"} | [τα]{lang="el"} |
+| Akkusativ Pl. | [τους]{lang="el"} | [τις]{lang="el"} | [τα]{lang="el"} |
+
+Der unbestimmte Artikel ist das Zahlwort „eins“: [ένας]{lang="el"}, Akkusativ
+[έναν]{lang="el"} (männlich); [μια]{lang="el"} oder [μία]{lang="el"} (weiblich);
+[ένα]{lang="el"} (sächlich). Einen Plural hat er nicht: [Θέλω ντομάτες.]{lang="el"}
+
+**Männliche Nomen verlieren im Akkusativ Singular ihr [-ς]{lang="el"}**: [ο δρόμος – τον
+δρόμο]{lang="el"}, [ο καφές – τον καφέ]{lang="el"}. Weibliche und sächliche ändern nur den
+Artikel: [την πίτα, το κουλούρι]{lang="el"}. Im Plural: [οι δρόμοι – τους δρόμους]{lang="el"},
+[οι πίτες – τις πίτες]{lang="el"}, [τα κουλούρια]{lang="el"}; mehr bringt Kapitel 6.
+
+Nach den gewöhnlichen Präpositionen steht ebenfalls der Akkusativ, auch wo das Deutsche den Dativ
+nimmt: [για τον δρόμο]{lang="el"}, [πίσω από την πλατεία]{lang="el"} (hinter dem Platz).
+[σε]{lang="el"} (in, an, zu) verschmilzt dabei mit dem Artikel: [στο μπαλκόνι, στη γωνία,
+στον δρόμο, στις δέκα]{lang="el"}, alle aus Elenis Nachricht.
+
+### Das wackelnde [ν]{lang="el"} {#sec-auffrischung-schluss-n}
+
+[την πίτα]{lang="el"}, aber [τη σπανακόπιτα]{lang="el"}: Bei [την]{lang="el"}, [δεν]{lang="el"}
+und [μην]{lang="el"} bleibt das **Schluss-[ν]{lang="el"}** nur **vor einem Vokal** und **vor
+Verschlusslauten**, bei denen der Mund kurz ganz schließt: [κ π τ]{lang="el"},
+[ξ ψ]{lang="el"}, [μπ ντ γκ τσ τζ]{lang="el"}. Sonst fällt es weg:
+
+- [την Αθήνα, την πόρτα, την Κυριακή]{lang="el"}
+- [τη μέρα, τη γειτονιά, τη σπανακόπιτα]{lang="el"}
+
+[τον]{lang="el"} und [έναν]{lang="el"} behalten ihr [ν]{lang="el"} immer; sonst wären sie von
+[το]{lang="el"} und [ένα]{lang="el"} nicht zu unterscheiden. Im Gespräch verändert das
+[ν]{lang="el"} seinen Nachbarn: [την πόρτα]{lang="el"} klingt wie [tim ˈborta] (Kapitel 21).
+
+::: {.callout-note .exercise}
+## Übung 1.5: Beim Bäcker
+
+Sag auf Griechisch, laut. Suchen heißt [ψάχνω]{lang="el"}.
+
+a) Einen Kaffee und zwei Kringel, bitte.
+b) Den Kaffee kalt, bitte.
+c) Wo ist die Apotheke?
+d) Ich suche die Straße hinter dem Platz.
+e) Ich suche die Nachbarin, nicht den Nachbarn.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Was bestellt oder gesucht wird, steht im Akkusativ; nach Präpositionen wie [από]{lang="el"}
+ebenfalls. Welches Genus hat das Nomen auf Griechisch, nicht auf Deutsch?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Männliche Nomen verlieren im Akkusativ ihr [-ς]{lang="el"}. Prüf bei jedem [την]{lang="el"}
+den Laut danach und wende die Regel aus @sec-auffrischung-schluss-n an.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+- a) [Έναν καφέ και δύο κουλούρια, παρακαλώ.]{lang="el"} Man hört auch
+  [Ένας καφές, παρακαλώ]{lang="el"} als bloße Nennung; \*[έναν καφές]{lang="el"} nie.
+- b) [Τον καφέ κρύο, παρακαλώ.]{lang="el"} Auch das Adjektiv steht im Akkusativ.
+- c) [Πού είναι το φαρμακείο;]{lang="el"} Sächlich, anders als die deutsche Apotheke.
+- d) [Ψάχνω τον δρόμο πίσω από την πλατεία.]{lang="el"} Akkusativ nach [από]{lang="el"};
+  [ν]{lang="el"} vor [π]{lang="el"} bleibt, \*[τη πλατεία]{lang="el"} ist falsch.
+- e) [Ψάχνω τη γειτόνισσα, όχι τον γείτονα.]{lang="el"} Vor [γ]{lang="el"} fällt das
+  [ν]{lang="el"}, bei [τον]{lang="el"} nie; [ο γείτονας]{lang="el"} verliert sein
+  [-ς]{lang="el"}.
+:::
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Κάτι άλλο;]{lang="el"} | [ˈkati ˈalo] | Sonst noch etwas? |
+| [ο δρόμος]{lang="el"} | [o ˈðromos] | die Straße; der Weg |
+| [ζεστός, -ή, -ό]{lang="el"} | [zeˈstos] | heiß, warm |
+| [κρύος, -α, -ο]{lang="el"} | [ˈkrios] | kalt |
+| [σε]{lang="el"} | [se] | in, an, zu; [στο, στη(ν), στον]{lang="el"} in dem, an der … |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η σπανακόπιτα]{lang="el"} | die Spinattasche |
+| [Τι θα πάρετε;]{lang="el"} | Was darf's sein? (wörtlich: Was werden Sie nehmen?) |
+| [Πόσο κάνει;]{lang="el"} | Was kostet das? |
+| [η πίτα]{lang="el"} | die gefüllte Teigtasche; das Fladenbrot |
+| [το κουλούρι]{lang="el"} | der Sesamkringel |
+| [για τον δρόμο]{lang="el"} | für unterwegs |
+| [αυτά]{lang="el"} | das war's (wörtlich „diese“) |
+:::
+
+## Ohne „ich“, mit „nicht“: Pro-Drop, [δεν]{lang="el"} und [μην]{lang="el"} {#sec-auffrischung-verneinung}
+
+Nachrichten zwischen zwei Freunden, später am Nachmittag:
+
+::: {lang="el"}
+— Απόψε τρώμε στου Μανώλη, στις δέκα. Έρχεσαι;
+
+— Δεν ξέρω. Δουλεύω μέχρι τις εννιά και μισή.
+
+— Δεν πειράζει. Εμείς δε βιαζόμαστε.
+
+— Καλά, έρχομαι. Αλλά μη με περιμένετε για φαγητό.
+
+— Μην ανησυχείς. Στις δέκα δεν έχει κανέναν ακόμα.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Heute Abend essen wir bei Manolis, um zehn. Kommst du?
+
+— Weiß nicht. Ich arbeite bis halb zehn.
+
+— Macht nichts. Wir haben es nicht eilig.
+
+— Gut, ich komme. Aber wartet mit dem Essen nicht auf mich.
+
+— Keine Sorge. Um zehn ist da noch niemand.
+:::
+
+### Pro-Drop: das Subjekt steckt in der Endung {#sec-auffrischung-pro-drop}
+
+Kein „ich“, kein „du“, und trotzdem ist klar, wer gemeint ist: Wie im Spanischen
+([*¿Vienes? – No sé.*]{lang="es"}) verrät die Endung die Person. Das heißt **Pro-Drop**
+([*pronoun dropping*]{lang="en"}). Die Pronomen gibt es trotzdem:
+
+[εγώ, εσύ, αυτός/αυτή/αυτό]{lang="el"} (ich, du, er/sie/es), [εμείς, εσείς,
+αυτοί/αυτές/αυτά]{lang="el"} (wir, ihr/Sie, sie).
+
+Sie stehen nur, wenn eine Person **hervorgehoben** oder **einer anderen gegenübergestellt**
+wird: [Εμείς δε βιαζόμαστε]{lang="el"}, *wir* jedenfalls haben es nicht eilig. Wer sie aus
+Gewohnheit setzt, klingt wie spanisch [*Yo trabajo… Yo vengo…*]{lang="es"}.
+
+### [δεν]{lang="el"} und [μη(ν)]{lang="el"} {#sec-auffrischung-den-min}
+
+**[δεν]{lang="el"}** verneint eine Aussage und steht vor dem Verb, nie am Satzende:
+[Δεν ξέρω.]{lang="el"} [Δε βιαζόμαστε.]{lang="el"} Dazwischen passen nur [θα]{lang="el"} und
+kleine Objektwörter wie [το]{lang="el"} „es“: [Δεν το ξέρω.]{lang="el"} (Kapitel 5 und 8).
+
+**[μη(ν)]{lang="el"}** steht bei **Verboten und Bitten** und nach [να]{lang="el"}:
+[Μην ανησυχείς.]{lang="el"} Mach dir keine Sorgen. [Προσπαθώ να μην πίνω καφέ μετά τις
+έξι.]{lang="el"} Ich versuche, nach sechs keinen Kaffee zu trinken.
+
+Für das [ν]{lang="el"} gilt die Regel aus @sec-auffrischung-schluss-n: [μην ανησυχείς]{lang="el"},
+aber [μη με]{lang="el"}; [δεν ξέρω]{lang="el"}, aber [δε βιαζόμαστε]{lang="el"}. Viele schreiben
+im Alltag [δεν]{lang="el"} immer; das ist kein Fehler. Das Buch folgt der Regel.
+
+::: {.callout-tip}
+## Tipp
+
+Die schnelle Probe: Kann der Satz wahr oder falsch sein? Dann [δεν]{lang="el"}. Ist er Wunsch,
+Bitte, Verbot? Dann [μην]{lang="el"}. [να]{lang="el"} und Imperativ folgen in Kapitel 5 und 9.
+:::
+
+### Doppelte Verneinung, wie im Spanischen {#sec-auffrischung-doppelte-verneinung}
+
+[Στις δέκα δεν έχει κανέναν.]{lang="el"} Wörtlich „Um zehn gibt es nicht niemanden“: Zwei
+Verneinungen verstärken sich, wie in [*No hay nadie*]{lang="es"}. Ebenso [Δεν ξέρω
+τίποτα.]{lang="el"} (Ich weiß nichts) und [Δεν τρώω ποτέ πριν από τις δέκα.]{lang="el"}
+
+„Niemand“ als Subjekt heißt [κανείς]{lang="el"} ([Δεν έρχεται κανείς]{lang="el"}), als Objekt
+[κανέναν]{lang="el"}, auch nach [έχει]{lang="el"} „es gibt“, denn was es gibt, steht im
+Akkusativ. Ohne [δεν]{lang="el"} stehen [τίποτα, ποτέ, κανείς]{lang="el"} als Kurzantwort
+([— Τι θέλεις; — Τίποτα.]{lang="el"}) und in Fragen, wo sie „etwas, jemals, jemand“ heißen.
+
+::: {.callout-warning}
+## Achtung
+
+[Όχι]{lang="el"} ist die Antwort „nein“; [δεν]{lang="el"} braucht ein Verb:
+[— Πεινάς; — Όχι, δεν πεινάω.]{lang="el"} Und [ναι]{lang="el"} [ne] heißt „ja“.
+:::
+
+::: {.callout-note .exercise}
+## Übung 1.6: Nicht so
+
+Sag auf Griechisch, laut. Pronomen nur, wo sie nötig sind.
+
+a) Er kommt nicht.
+b) Ich trinke Tee, du trinkst Kaffee.
+c) Um zehn isst niemand.
+d) „Habt ihr Hunger?“ – „Nein, wir haben keinen Hunger.“
+e) Wartet nicht auf mich, ich arbeite bis neun.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Kann der Satz wahr oder falsch sein? Dann [δεν]{lang="el"}. Bitte oder Verbot? Dann
+[μην]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+„Niemand“ braucht zusätzlich [δεν]{lang="el"}; ist es Subjekt oder Objekt? Ein Satz enthält einen
+Gegensatz zwischen zwei Personen.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+- a) [Δεν έρχεται.]{lang="el"}
+- b) [Εγώ πίνω τσάι, εσύ πίνεις καφέ.]{lang="el"} Hier gehören die Pronomen hin: Sie stellen zwei
+  Personen gegenüber.
+- c) [Στις δέκα δεν τρώει κανείς.]{lang="el"} Auch [Κανείς δεν τρώει στις δέκα.]{lang="el"}
+  [κανείς]{lang="el"}, nicht [κανέναν]{lang="el"}: „niemand“ ist hier Subjekt (wer isst?). Ohne
+  [δεν]{lang="el"} kippt die Bedeutung: [Στις δέκα τρώει κανείς]{lang="el"} heißt eher „Um zehn
+  isst man“.
+- d) [— Πεινάτε; — Όχι, δεν πεινάμε.]{lang="el"} \*[Όχι πεινάμε]{lang="el"} geht nicht:
+  [όχι]{lang="el"} antwortet, [δεν]{lang="el"} verneint das Verb.
+- e) [Μη με περιμένετε, δουλεύω μέχρι τις εννιά.]{lang="el"} Bitte, also [μη]{lang="el"}, und
+  vor [μ]{lang="el"} ohne [ν]{lang="el"}.
+
+Häufigster Fehler: ein [εγώ]{lang="el"} in a) oder e), wo niemandem widersprochen wird.
+:::
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Δεν πειράζει.]{lang="el"} | [ðem biˈrazi] | Macht nichts. (gesprochen mit [mb], siehe Schluss-[ν]{lang="el"}) |
+| [βιάζομαι, βιάστηκα]{lang="el"} | [ˈvʝazome], [ˈvʝastika] | es eilig haben |
+| [περιμένω, περίμενα]{lang="el"} | [periˈmeno], [peˈrimena] | warten (auf) |
+| [ανησυχώ, ανησύχησα]{lang="el"} | [anisiˈxo], [aniˈsiçisa] | sich Sorgen machen |
+| [γελάω, γέλασα]{lang="el"} | [ʝeˈlao], [ˈʝelasa] | lachen |
+| [τίποτα]{lang="el"} | [ˈtipota] | nichts (mit [δεν]{lang="el"}); etwas |
+| [κανείς, κανέναν]{lang="el"} | [kaˈnis], [kaˈnenan] | niemand (mit [δεν]{lang="el"}); jemand |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [στου Μανώλη]{lang="el"} | bei Manolis (in seiner Taverne) |
+| [προσπαθώ]{lang="el"} | versuchen |
+| [το φαγητό]{lang="el"} | das Essen |
+| [μέχρι]{lang="el"} | bis |
+| [καλά]{lang="el"} | gut, in Ordnung |
+| [με]{lang="el"} | mich (vor dem Verb) |
+| [ακόμα]{lang="el"} | noch |
+:::
+
+## Hörspur: im Kafenion {#sec-auffrischung-hoerspur}
+
+Alle griechischen Texte und Vokabeln kannst du mit ▶ anhören: synthetische Stimmen, sauber, aber
+gleichmäßiger als echte Menschen. Echte Gespräche bringt der Hör-Auftrag.
+
+Das [καφενείο]{lang="el"} ist das traditionelle griechische Café: Holzstühle, Mokka, Tavli, auf
+dem Dorf fast nur Männer über sechzig. Ein Sonntag, zuerst ein Telefonat kurz nach sechs:
+
+::: {lang="el"}
+— Έλα.
+
+— Έλα, πού είσαι; Σε περιμένω μισή ώρα.
+
+— Συγγνώμη, τώρα ξυπνάω.
+
+— Τώρα ξυπνάς; Είναι έξι!
+
+— Ναι, αλλά είναι Κυριακή. Σε δέκα λεπτά είμαι εκεί.
+
+— Έλα, γρήγορα.
+:::
+
+Zwanzig Minuten später (griechische zehn Minuten), am Tisch auf dem Platz:
+
+::: {lang="el"}
+— Λοιπόν, εδώ είμαι.
+
+— Επιτέλους. Κάθε μέρα κοιμάσαι το μεσημέρι;
+
+— Κάθε μέρα. Από τις τρεις μέχρι τις έξι. Είναι ιερό.
+
+— Είσαι σαράντα χρονών και κοιμάσαι σαν τον παππού μου.
+
+— Ναι, αλλά ο παππούς σου είναι ενενήντα και ακόμα κόβει ξύλα.
+
+— Έλα τώρα. Αυτό είναι από τη δουλειά στα χωράφια, όχι από τον ύπνο.
+
+— Μη γελάς. Υπάρχει και μελέτη. Οι άνθρωποι που κοιμούνται το μεσημέρι έχουν λιγότερα προβλήματα με την καρδιά.
+
+— Ναι, αλλά στην Αθήνα δεν κοιμάται κανείς το μεσημέρι.
+
+— Γι’ αυτό είναι όλοι τόσο νευρικοί στην Αθήνα.
+
+— Έλα, ο καφές σου κρυώνει.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Ja, hallo.
+
+— Hallo, wo bist du? Ich warte seit einer halben Stunde auf dich.
+
+— Entschuldige, ich wache gerade auf.
+
+— Du wachst jetzt erst auf? Es ist sechs!
+
+— Ja, aber es ist Sonntag. In zehn Minuten bin ich da.
+
+— Komm, beeil dich.
+
+*Im Kafenion:*
+
+— So, da bin ich.
+
+— Endlich. Schläfst du jeden Tag mittags?
+
+— Jeden Tag. Von drei bis sechs. Das ist heilig.
+
+— Du bist vierzig und schläfst wie mein Opa.
+
+— Ja, aber dein Opa ist neunzig und hackt immer noch Holz.
+
+— Ach komm. Das kommt von der Arbeit auf den Feldern, nicht vom Schlafen.
+
+— Lach nicht. Es gibt sogar eine Studie. Menschen, die mittags schlafen, haben weniger Probleme
+mit dem Herzen.
+
+— Ja, aber in Athen schläft mittags niemand.
+
+— Deshalb sind in Athen auch alle so nervös.
+
+— Na komm, dein Kaffee wird kalt.
+:::
+
+Die Studie gibt es: Griechische Erwachsene mit regelmäßigem Mittagsschlaf starben seltener an
+Herzkrankheiten (2007). Ob der Schlaf die Ursache ist, lässt sie offen; im Kafenion ist die Frage
+entschieden.
+
+### Drei Wörter, die das Gespräch steuern {#sec-auffrischung-diskursmarker}
+
+Was die Szenen lebendig macht, sind **Diskursmarker**: kleine Wörter, die nichts über die Welt
+sagen, aber alles darüber, wie das Gespräch läuft.
+
+**[Έλα]{lang="el"}** ist wörtlich „Komm!“ und hat viele Rollen:
+
+- Am Telefon, wenn man sieht, wer anruft: [Έλα.]{lang="el"} „Hallo, du.“ (Bei Fremden
+  [Ναι;]{lang="el"} oder [Παρακαλώ.]{lang="el"})
+- Zum Antreiben: [Έλα, γρήγορα.]{lang="el"} „Los, mach schnell.“
+- Als Widerspruch mit einem Lächeln: [Έλα τώρα.]{lang="el"} „Ach komm, jetzt hör aber auf.“
+- Als Staunen, gedehnt und steigend: [Έλα!]{lang="el"} „Ach was!“ (in Kapitel 2 wieder)
+
+**[Λοιπόν]{lang="el"}** [liˈpon] heißt „also“. Am Anfang eröffnet es und beansprucht das Wort:
+[Λοιπόν, εδώ είμαι.]{lang="el"} Allein und fragend, [Λοιπόν;]{lang="el"}, heißt es „Na? Und?“. In
+der Mitte zieht es eine Folgerung: [Δεν έχει ζεστό νερό· βάζει λοιπόν κρύο.]{lang="el"} „Es gibt
+kein heißes Wasser, also nimmt er kaltes.“
+
+**[Ναι, αλλά]{lang="el"}** ist „ja, aber“: keine Zustimmung, sondern ein Polster vor dem
+Widerspruch. Ein direktes [Όχι]{lang="el"} ist deutlich härter.
+
+::: {.callout-note .exercise}
+## Übung 1.7: Kleine Wörter
+
+**Teil A.** Welche Rolle hat [έλα]{lang="el"} bzw. [λοιπόν]{lang="el"}? (A) Begrüßung am
+Telefon · (B) Antreiben · (C) „ach komm“ · (D) Staunen · (E) Eröffnung · (F) Folgerung
+
+1. Das Handy klingelt, auf dem Display steht „Nikos“: [— Έλα.]{lang="el"}
+2. [— Το πλοίο φεύγει σε δέκα λεπτά! Έλα, γρήγορα!]{lang="el"}
+3. [— Ο παππούς μου είναι ενενήντα και κόβει ακόμα ξύλα. — Έλα!]{lang="el"} (gedehnt, mit
+   großen Augen)
+4. [— Κοιμάμαι κάθε μεσημέρι. Είναι ιερό. — Έλα τώρα.]{lang="el"}
+5. [— Λοιπόν, τι τρώμε απόψε;]{lang="el"}
+6. [— Το φαρμακείο κλείνει στις δύο και μισή. — Πάμε λοιπόν τώρα.]{lang="el"}
+
+**Teil B: Hör-Auftrag.** Wähle auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) ein
+beliebiges Straßeninterview.
+
+1. **Mit griechischen Untertiteln**, die ersten zwei Minuten: Halte bei fünf Wörtern mit
+   [μπ, ντ, γκ, τσ, τζ, αυ]{lang="el"} oder [ευ]{lang="el"} an, sprich sie nach und vergleiche.
+2. **Ohne Untertitel**, dieselben zwei Minuten: Zähl, wie oft [λοιπόν]{lang="el"} und
+   [ναι, αλλά]{lang="el"} fallen. Prüf die Zählung danach mit Untertiteln.
+
+Im Chat reicht „A: 1A, 2B …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+A: Achte darauf, wo das Wort steht: am Anfang, allein oder mitten im Satz? B: Hörst du bei
+[μπ, ντ]{lang="el"} ein [b, d] mit oder ohne leichtes [m, n] davor? Beides kommt vor.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+A: [τώρα]{lang="el"} macht aus [έλα]{lang="el"} Widerspruch. B: [ναι]{lang="el"} [ne] nicht mit
+[να]{lang="el"} [na] verwechseln, das oft vor Verben steht.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**A: 1A, 2B, 3D, 4C, 5E, 6F.** In 3 wäre ein kurzes, skeptisches [Έλα!]{lang="el"} auch „ach
+komm“; gedehnt ist es Staunen. In 4 legt [τώρα]{lang="el"} es fest.
+
+**B.** Jedes Interview ist anders; so wertest du aus:
+
+- **Digraphen:** Ein [p] oder [t], wo das Original [b] oder [d] hat, ist der typische Fehler;
+  dann das Wort langsam, danach im Tempo wiederholen.
+- **Marker:** Wichtiger als die Zahl ist der Ort. [Λοιπόν]{lang="el"} eröffnet eine Antwort,
+  [ναι, αλλά]{lang="el"} leitet einen Einwand ein. Häufigster Zählfehler: jedes [να]{lang="el"}
+  als [ναι]{lang="el"} werten.
+:::
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [λοιπόν]{lang="el"} | [liˈpon] | also; na? (eröffnet, folgert) |
+| [έλα]{lang="el"} | [ˈela] | komm; hallo (am Telefon); los; ach was; [έλα τώρα]{lang="el"} ach komm (umg.) |
+| [ναι, αλλά]{lang="el"} | [ne aˈla] | ja, aber (höflicher Widerspruch) |
+| [το μεσημέρι]{lang="el"} | [to mesiˈmeri] | der Mittag (etwa 13–17 Uhr); mittags |
+| [η καρδιά]{lang="el"} | [i karˈðʝa] | das Herz |
+| [ο παππούς]{lang="el"} | [o paˈpus] | der Großvater |
+| [κρυώνω, κρύωσα]{lang="el"} | [kriˈono], [ˈkriosa] | kalt werden; frieren |
+| [γι’ αυτό]{lang="el"} | [ʝafˈto] | deshalb |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [επιτέλους]{lang="el"} | endlich |
+| [Συγγνώμη.]{lang="el"} | Entschuldigung. (Hier ist [γγ]{lang="el"} nur [ɣ].) |
+| [ο ύπνος]{lang="el"} | der Schlaf |
+| [η μελέτη]{lang="el"} | die Studie |
+| [σε]{lang="el"} (vor dem Verb) | dich |
+| [ξυπνάω]{lang="el"} | aufwachen (Kapitel 2) |
+| [σε δέκα λεπτά]{lang="el"} | in zehn Minuten ([το λεπτό]{lang="el"} die Minute) |
+| [ιερός, -ή, -ό]{lang="el"} | heilig |
+| [σαράντα χρονών]{lang="el"} | vierzig Jahre alt |
+| [μου, σου]{lang="el"} (nach dem Nomen) | mein, dein |
+| [κόβω ξύλα]{lang="el"} | Holz hacken |
+| [η δουλειά]{lang="el"} | die Arbeit |
+| [το χωράφι]{lang="el"} | das Feld, der Acker |
+| [λιγότερος, -η, -ο]{lang="el"} | weniger |
+| [τόσο]{lang="el"} | so (sehr) |
+| [νευρικός, -ή, -ό]{lang="el"} | nervös, gereizt |
+:::
+
+## Das Wichtigste {#sec-auffrischung-wichtigste}
+
+- **Digraphen** sind ein Laut: [αι]{lang="el"} [e], [ει, οι]{lang="el"} [i], [ου]{lang="el"}
+  [u], [μπ, ντ, γκ]{lang="el"} [b, d, g], [τσ, τζ]{lang="el"} [ts, dz]. [αυ, ευ]{lang="el"} ist
+  [av, ev] oder vor stimmlosem Konsonanten [af, ef]. Akzent vorn oder Trema trennt.
+- **Betonung**: immer auf einer der letzten drei Silben; sie unterscheidet Wörter
+  ([πότε/ποτέ]{lang="el"}).
+- **Präsens**: [μένω]{lang="el"} stammbetont, [μιλάω]{lang="el"} und [μπορώ]{lang="el"}
+  endbetont; Endungen nicht mischen.
+- **Artikel**: [ο/τον, η/τη(ν), το/το]{lang="el"}; Akkusativ auch nach Präpositionen,
+  [σε]{lang="el"} + Artikel = [στο, στη(ν), στον]{lang="el"}. Schluss-[ν]{lang="el"} nur vor
+  Vokal und Verschlusslaut; [τον, έναν]{lang="el"} immer.
+- **Pro-Drop, Verneinung**: Pronomen nur für Betonung oder Gegensatz; [δεν]{lang="el"} für
+  Aussagen, [μην]{lang="el"} für Verbote und Bitten; doppelte Verneinung wie im Spanischen.
+- **Diskursmarker**: [λοιπόν]{lang="el"} eröffnet und folgert, [έλα]{lang="el"} begrüßt, treibt
+  an, staunt, widerspricht; [ναι, αλλά]{lang="el"} widerspricht höflich.
+
+## Zum Lesen: Ein Tag nach griechischer Uhr {#sec-auffrischung-lesetext}
+
+Ganz im Präsens. Lies einmal ohne Hilfe, dann mit Wortschatz, dann laut, mit ▶ als Kontrolle.
+
+::: {lang="el"}
+**Τι ώρα τρώτε εσείς;**
+
+Κάθε Γερμανός στην Αθήνα κάνει κάποια στιγμή την ίδια ερώτηση: «Τι ώρα τρώτε εσείς;» Η απάντηση είναι απλή: αργά. Πολύ αργά.
+
+Η μέρα αρχίζει με καφέ. Πολλοί Έλληνες δεν τρώνε πρωινό· πίνουν έναν καφέ στο πόδι και φεύγουν για τη δουλειά.
+
+Το μεσημέρι στην Ελλάδα δεν είναι στις δώδεκα. Αρχίζει κάπου στις δύο και κρατάει μέχρι τις πέντε. Τότε πολλές οικογένειες τρώνε το κυρίως φαγητό της μέρας. Μετά, όποιος μπορεί, κοιμάται. Ο μεσημεριανός ύπνος είναι παράδοση, αλλά στην Αθήνα γίνεται σπάνιος, γιατί οι περισσότεροι δουλεύουν μέχρι τις πέντε ή τις έξι. Στα χωριά και στα νησιά όμως ζει ακόμα. Εκεί, από τις τρεις μέχρι τις πέντε και μισή, δεν κάνεις φασαρία και δεν τηλεφωνείς σε κανέναν, αν δεν είναι επείγον.
+
+Το απόγευμα η πόλη ξυπνάει ξανά και ο κόσμος βγαίνει για βόλτα. Κατά τις εννιά πολλοί σκέφτονται για πρώτη φορά τι θα φάνε. Το βραδινό είναι στις δέκα, καμιά φορά και στις έντεκα.
+
+Και ο φραπές; Κάθε Έλληνας ξέρει τον φραπέ, αλλά λίγοι ξέρουν την ιστορία του. Είμαστε στο 1957, στη Διεθνή Έκθεση Θεσσαλονίκης. Ο Δημήτρης Βακόνδιος, υπάλληλος της Nestlé, θέλει καφέ, αλλά δεν έχει ζεστό νερό. Βάζει λοιπόν στιγμιαίο καφέ, κρύο νερό και ζάχαρη σε ένα σέικερ και τα χτυπάει. Έτσι γεννιέται ο φραπές.
+
+Λοιπόν, αν είσαι στην Ελλάδα, μην κλείνεις τραπέζι για τις επτά. Στις επτά η ταβέρνα είναι άδεια, και τρως μόνος.
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Der „griechische Tag“ ist ein Durchschnitt; in Athen arbeiten viele durchgehend. Die
+Ruhezeiten ([ώρες κοινής ησυχίας]{lang="el"}) regelt eine landesweite Polizeiverordnung: im
+Sommer (1. April bis 30. September) 15:00–17:30 und 23:00–07:00 Uhr, im Winter 15:30–17:30 und
+22:00–07:30 Uhr. Die Frappé-Geschichte wird überall so erzählt, stammt aber im Wesentlichen aus
+den Erinnerungen der Beteiligten.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [κάποια στιγμή]{lang="el"} | irgendwann |
+| [η ερώτηση, η απάντηση]{lang="el"} | die Frage, die Antwort |
+| [το πρωινό]{lang="el"} | das Frühstück |
+| [στο πόδι]{lang="el"} | im Stehen, auf die Schnelle |
+| [κρατάω]{lang="el"} | dauern |
+| [όποιος]{lang="el"} | wer (auch immer) |
+| [η παράδοση]{lang="el"} | die Tradition |
+| [γίνομαι]{lang="el"} | werden (Kapitel 10) |
+| [σπάνιος, -α, -ο]{lang="el"} | selten |
+| [γιατί]{lang="el"} | weil; warum |
+| [οι περισσότεροι]{lang="el"} | die meisten |
+| [επείγον]{lang="el"} | dringend |
+| [βγαίνω]{lang="el"} | hinausgehen, ausgehen (Kapitel 3) |
+| [κατά τις εννιά]{lang="el"} | gegen neun |
+| [σκέφτομαι]{lang="el"} | denken, überlegen (Kapitel 10) |
+| [τι θα φάνε]{lang="el"} | was sie essen werden (Kapitel 5) |
+| [καμιά φορά]{lang="el"} | manchmal |
+| [η Διεθνής Έκθεση Θεσσαλονίκης]{lang="el"} | die Internationale Messe Thessaloniki |
+| [ο υπάλληλος]{lang="el"} | der Angestellte |
+| [βάζω]{lang="el"} | tun, stellen, legen |
+| [στιγμιαίος, -α, -ο]{lang="el"} | Instant- (wörtlich „augenblicklich“) |
+| [τα χτυπάει]{lang="el"} | schüttelt sie ([τα]{lang="el"} „sie“, Kapitel 8) |
+| [γεννιέται]{lang="el"} | wird geboren, entsteht |
+| [κλείνω τραπέζι]{lang="el"} | einen Tisch reservieren |
+| [άδειος, -α, -ο]{lang="el"} | leer |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Wann esst ihr eigentlich?**
+
+Jeder Deutsche in Athen stellt irgendwann dieselbe Frage: „Wann esst *ihr* eigentlich?“ Die
+Antwort ist einfach: spät. Sehr spät.
+
+Der Tag beginnt mit Kaffee. Viele Griechen frühstücken nicht; sie trinken im Stehen einen Kaffee
+und gehen zur Arbeit.
+
+Der Mittag ist in Griechenland nicht um zwölf. Er beginnt irgendwann um zwei und dauert bis fünf.
+Dann essen viele Familien die Hauptmahlzeit des Tages. Danach schläft, wer kann. Der
+Mittagsschlaf ist Tradition, aber in Athen wird er selten, weil die meisten bis fünf oder sechs
+arbeiten. In den Dörfern und auf den Inseln lebt er aber noch. Dort macht man von drei bis halb
+sechs keinen Lärm
+und ruft niemanden an, wenn es nicht dringend ist.
+
+Am späten Nachmittag wacht die Stadt wieder auf, und die Leute gehen zum Bummeln hinaus. Gegen neun überlegen viele zum ersten Mal, was sie essen werden. Abendessen ist um zehn,
+manchmal auch um elf.
+
+Und der Frappé? Jeder Grieche kennt den Frappé, aber wenige kennen seine Geschichte. Wir schreiben
+1957, auf der Internationalen Messe von Thessaloniki. Dimitris Vakondios, ein Angestellter von
+Nestlé, will einen Kaffee, hat aber kein heißes Wasser. Also gibt er Instantkaffee, kaltes Wasser
+und Zucker in einen Shaker und schüttelt alles. So entsteht der Frappé.
+
+Also: Wenn du in Griechenland bist, reservier keinen Tisch für sieben. Um sieben ist die Taverne
+leer, und du isst allein.
+:::
+
+In [Τι ώρα τρώτε εσείς;]{lang="el"} ist [εσείς]{lang="el"} Kontrast: *ihr*, im Gegensatz zu uns.
+In [δεν τηλεφωνείς σε κανέναν]{lang="el"} heißt „du“ so viel wie „man“, und
+[κανέναν]{lang="el"} steht nach der Präposition im Akkusativ. Die Frappé-Geschichte spielt 1957;
+in Kapitel 2 erzählst du so etwas im Aorist.
+
+::: {.callout-note .exercise}
+## Übung 1.8: Nach griechischer Uhr
+
+Richtig oder falsch?
+
+1. Viele Griechen frühstücken ausgiebig.
+2. Der Mittag beginnt in Griechenland um zwölf.
+3. In Athen wird der Mittagsschlaf selten.
+4. Der Frappé entstand, weil kein heißes Wasser da war.
+5. Um sieben ist die Taverne voll.
+
+Im Chat reicht „1f, 2r …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Die Aussagen folgen der Reihenfolge des Textes.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Achte auf die Verneinungen: [δεν τρώνε]{lang="el"}, [δεν είναι στις δώδεκα]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1f** ([δεν τρώνε πρωινό]{lang="el"}), **2f** (etwa um zwei), **3r**, **4r**, **5f** (leer).
+Wer bei 2 „richtig“ gewählt hat, hat das [δεν]{lang="el"} überhört: [Το μεσημέρι … δεν είναι
+στις δώδεκα.]{lang="el"}
+
+Zum lauten Lesen: [οικογένειες]{lang="el"} [ikoˈʝeɲes], [σκέφτονται]{lang="el"} [ˈsceftode]
+(auch [ˈsceftonde]), [επείγον]{lang="el"} [eˈpiɣon], [σέικερ]{lang="el"} [ˈseicer]: Der Akzent
+auf [ε]{lang="el"} trennt, also kein [ει]{lang="el"} = [i], sondern [e] + [i], fast wie englisch
+[eɪ]; realistisch [ˈsejcer].
+:::
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [αργά]{lang="el"} | [arˈɣa] | spät; langsam |
+| [το βραδινό]{lang="el"} | [to vraðiˈno] | das Abendessen |
+| [η βόλτα]{lang="el"} | [i ˈvolta] | der Spaziergang, die Runde |
+| [ο μεσημεριανός ύπνος]{lang="el"} | [o mesimerʝaˈnos ˈipnos] | der Mittagsschlaf |
 :::

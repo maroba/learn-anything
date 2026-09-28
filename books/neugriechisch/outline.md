@@ -18,7 +18,7 @@ bis zwei Wochen pro Kapitel bei 5 Stunden pro Woche.
 - **Lernziele:** kann alle Digraphen (μπ, ντ, γκ, τσ, τζ, αι, ει, οι, ου, αυ, ευ) sicher aussprechen und die Betonung aus dem Akzent ablesen; kann IPA und die deutschen Annäherungen des Buchs lesen; kann Präsensformen aller Verbklassen (-ω, -άω/-ώ, -ώ, -μαι im Überblick) sowie είμαι und έχω bilden; kann Nomen mit Artikel im Nominativ und Akkusativ verwenden; kann Sätze ohne Subjektpronomen bilden und mit δεν/μην verneinen; versteht λοιπόν, έλα, ναι αλλά im Gespräch
 - **Voraussetzungen:** keine
 - **Lesezeit:** 45 min
-- **Inhalt:** zügig und auf aktives Können ausgerichtet: Lesen an echten Vorlagen (Schilder, Speisekarte, Fährplan), Digraphen als eigene Laute, Betonung und Minimalpaare (πότε/ποτέ); Präsens aller Verbklassen, Artikelsystem in einer Übersicht, Pro-Drop wie im Spanischen; Sachthema: der griechische Tagesrhythmus (Mittagsruhe, Abendessen um zehn) und griechische Wörter in unseren Sprachen; Hörspur: Kafeneío-Gespräch, erste Diskursmarker
+- **Inhalt:** zügig und auf aktives Können ausgerichtet: Lesen an echten Vorlagen (Schilder, Speisekarte, Fährplan), Digraphen als eigene Laute, Betonung und Minimalpaare (πότε/ποτέ); Präsens aller Verbklassen, Artikelsystem in einer Übersicht, Pro-Drop wie im Spanischen; Sachthema: der griechische Tagesrhythmus (Mittagsruhe, Abendessen um zehn) und griechische Wörter in unseren Sprachen; Hörspur: Kafenion-Gespräch, erste Diskursmarker
 
 ## Teil I: Das Grundgerüst (A1 → A2)
 

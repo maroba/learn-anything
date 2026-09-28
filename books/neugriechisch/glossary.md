@@ -56,6 +56,8 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 | perfektiver Aspekt | συνοπτικός | Handlung als Ganzes („Foto“) | 02 |
 | perfektiver Stamm | – | nicht „Aoriststamm“; das Synonym einmal nennen | 02 |
 | Präsens | ενεστώτας | | 01 |
+| Nominativ | ονομαστική | | 01 |
+| Akkusativ | αιτιατική | auch nach Präpositionen | 01 |
 | Imperfekt | παρατατικός | | 04 |
 | Aorist | αόριστος | erklärt als Vergangenheit im perfektiven Aspekt | 02 |
 | Futur | μέλλοντας | „Futur mit θα“, in beiden Aspekten | 05 |
@@ -85,6 +87,15 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 
 | Begriff | Bedeutung / Schreibweise | eingeführt in |
 |---|---|---|
+| Digraph | zwei Buchstaben, ein Laut: Vokal-Digraphen [αι, ει, οι, ου]{lang="el"}, Konsonanten-Digraphen [μπ, ντ, γκ, τσ, τζ]{lang="el"} (dazu [γγ]{lang="el"} [ŋg]). [αυ, ευ]{lang="el"} sind „Vokal plus Konsonant“ ([av/af, ev/ef]), nicht Vokal-Digraphen | 01 |
+| Trema, Akzent | [τα διαλυτικά]{lang="el"} (ϊ, ϋ) trennen zwei Vokale; im Fließtext „Akzent“ ([ο τόνος]{lang="el"}) | 01 |
+| stimmhaft / stimmlos | Regel für [αυ, ευ]{lang="el"}: stimmlos sind [θ κ ξ π σ τ φ χ ψ]{lang="el"}, alles andere und Vokale stimmhaft | 01 |
+| Verschlusslaut | Begründung der Schluss-ν-Regel: [κ π τ ξ ψ μπ ντ γκ τσ τζ]{lang="el"} | 01 |
+| Schluss-ν | Name im Buch für das [ν]{lang="el"} von [την, δεν, μην]{lang="el"} (Abschnittstitel in 01: „Das wackelnde ν“); Regel siehe oben | 01 |
+| stammbetont / endbetont | die drei Präsensmuster: [μένω]{lang="el"} stammbetont; [μιλάω]{lang="el"} und [μπορώ]{lang="el"} endbetont. Musterverben immer diese drei | 01 |
+| Pro-Drop | Weglassen der Subjektpronomen; im Fließtext auch „ohne Subjektpronomen“ | 01 |
+| Diskursmarker (Gespräch) | [λοιπόν]{lang="el"} (eröffnet, folgert), [έλα]{lang="el"} (Telefon, Antreiben, Staunen, [έλα τώρα]{lang="el"} Widerspruch), [ναι, αλλά]{lang="el"} (höflicher Widerspruch) | 01 |
+| Kafenion | eingedeutschte Schreibweise für [το καφενείο]{lang="el"} (nicht „Kafeneío“) | 01 |
 | Stamm: imperfektiver / perfektiver Stamm | Das Präsens kommt aus dem imperfektiven, Aorist, Futur (perfektiv) und να-Form aus dem perfektiven Stamm. Nicht „Präsensstamm“, nicht „Aoriststamm“ (nur einmal in 02 als Synonym genannt). „Der zweite Stamm“ nur als Titel-Formel (Kapiteltitel 02, 05), im Fließtext „perfektiver Stamm“. Stämme mit Bindestrich: [διαβασ-]{lang="el"} | 02 |
 | Foto / Film | Bild für den Aspekt: perfektiv = Foto (als Ganzes, von außen), imperfektiv = Film (Vorgang, Wiederholung, Gewohnheit, Hintergrund). Immer diese beiden Wörter, keine anderen Metaphern | 02 |
 | Vergangenheit im perfektiven Aspekt | Standarderklärung von „Aorist“; „als Ganzes“ heißt nicht „kurz“ | 02 |

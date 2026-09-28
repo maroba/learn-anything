@@ -311,8 +311,8 @@ und landet im Plural wieder, wo sie im Präsens war ([δια-βά-σα-με]{lan
 ## Merke
 
 1. Im Aorist der regelmäßigen Verben steht die Betonung auf der **drittletzten Silbe**.
-2. **Silben zählen:** Jeder Vokal und jeder Vokal-Digraph ([οι, ει, αι, ου, αυ, ευ]{lang="el"}) bildet
-   eine Silbe. Unbetontes [ι]{lang="el"} vor einem Vokal ist meist keine eigene Silbe:
+2. **Silben zählen:** Jeder Vokal und jeder Vokal-Digraph ([οι, ει, αι, ου]{lang="el"}) bildet eine
+   Silbe, ebenso [αυ, ευ]{lang="el"} (Vokal plus Konsonant, siehe Kapitel 1). Unbetontes [ι]{lang="el"} vor einem Vokal ist meist keine eigene Silbe:
    [διά-βα-σα]{lang="el"}, [μά-τια]{lang="el"}.
 3. Hat die Form ohne Augment nur **zwei Silben**, kommt vorn ein betontes [ε-]{lang="el"}
    dazu: [έγραψα, έκλεισα, έσκαψα]{lang="el"}.
