@@ -33,7 +33,7 @@
 | 27 Wortbildung II: die Sprache der Wissenschaft | Übungen | Welle 13; Entwurf fertig |
 | 29 Argumentieren | fertig | Welle 11; wartet auf 26–28 |
 | 30 Redewendungen | Konsistenz | Welle 12; überarbeitet |
-| 32 Kreta und Zypern hören | Überarbeitung | Welle 12; beide Reviews da |
+| 32 Kreta und Zypern hören | überarbeitet | Welle 12; Konsistenz nach 30 (Glossar) |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 

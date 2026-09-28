@@ -23,11 +23,11 @@ Ein Kafenion in einem Dorf bei Chania, Samstagabend. An einem Tisch sitzt eine S
 mit ihrem Großvater, in der Ecke stimmt jemand eine Lyra.
 
 ::: {lang="el"}
-— Ίντα θα πιεις, κοπέλα μου; Ρακή;
+[— Ίντα θα πιεις, κοπέλα μου; Ρακή;]{.v2}
 
 — Ρακή, παππού. Μικρή.
 
-— Ντα ίντα θα πει «μικρή»; Εδώ κιανείς δεν πίνει μικρή ρακή.
+— Ε, ίντα θα πει «μικρή»; Εδώ κιανείς δεν πίνει μικρή ρακή.
 
 — Καλά, καλά. Γιατί κάθονται όλοι έτσι; Περιμένουν κάτι;
 
@@ -36,15 +36,15 @@ mit ihrem Großvater, in der Ecke stimmt jemand eine Lyra.
 
 Am Nebentisch singt ein Mann zur Lyra, ohne jemanden anzusehen:
 
-::: {lang="el"}
+::: {lang="el" .no-audio}
 Σου στέλνω μήνυμα πρωί, σου στέλνω και το βράδυ,\
 κι εσύ κρατάς το κινητό κλειστό μες στο σκοτάδι.
 :::
 
 ::: {lang="el"}
-[— Χα! Για μένα το ’πε αυτό;]{.v2}
+[— Χα! Για μένα το ’πε αυτό;]{.v1}
 
-— Για κιανένα δεν το ’πε, και για όλους μας. Ετσά είναι η μαντινάδα. Τώρα τη βρήκε, στο τραπέζι.
+— Για κιανένα δεν το ’πε, και για όλους μας. Ετσά είναι η μαντινάδα. Τώρα την έφτιαξε.
 
 — Και τώρα τι γίνεται;
 
@@ -55,10 +55,10 @@ Die Enkelin überlegt kurz, dann antwortet sie, halb gesungen:
 
 ::: {lang="el"}
 Δεν το κρατώ κλειστό, καλέ, για να σε τυραννήσω·\
-γιατ’ αν ακούσω τη φωνή, ποτέ δε θα σ’ αφήσω.
+γιατ’ αν σ’ ακούσω μια φορά, ποτέ δε θα σ’ αφήσω.
 :::
 
-Der Großvater lacht: [Ντα Κρητικιά είσαι τελικά!]{lang="el"}
+Der Großvater lacht: [Α, Κρητικιά είσαι τελικά!]{lang="el"}
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -79,16 +79,16 @@ und du hältst dein Handy aus, ganz tief im Dunkel.*
 — Ha! Hat er das über mich gesagt?
 
 — Über keinen hat er es gesagt, und über uns alle. So ist das mit der Mantinada. Die hat er
-jetzt erst erfunden, hier am Tisch.
+eben erst gemacht.
 
 — Und jetzt?
 
 — Jetzt antwortest du ihm, wenn du es kannst.
 
 *Ich lass es nicht aus, mein Lieber, um dich zu quälen;\
-denn hör ich deine Stimme, lass ich dich nie wieder gehen.*
+denn hör ich dich ein einziges Mal, lass ich dich nie wieder gehen.*
 
-Na, dann bist du ja doch eine Kreterin!
+Ah, du bist ja doch eine Kreterin!
 :::
 
 Die Studentin spricht Athener Standard, der Großvater Kretisch, und beide verstehen sich ohne
@@ -117,8 +117,6 @@ Auf Kreta leben gut 600 000 Menschen. Wer von hier kommt, spricht mit Fremden me
 untereinander oft Kretisch, [τα κρητικά]{lang="el"}, in Heraklion wie in den Bergdörfern, dort nur
 stärker. Das Kretische ist dem Standard nah; zum Erkennen genügen ein Laut und eine Handvoll Wörter.
 
-<!-- CHECK: Einwohnerzahl Kreta (Zensus 2021: rund 620 000?) -->
-
 ### [tʃ] statt [c]: der kretische Zischlaut {#sec-kz-kreta-laut}
 
 Im Standard werden [κ, χ, γ]{lang="el"} vor [e] und [i] weich (Kapitel 1). Auf Kreta gehen sie
@@ -144,7 +142,8 @@ aus:
 
 Das bekannteste Beispiel ist das kleinste Wort: [και]{lang="el"} „und“. Wenn du in einem Gespräch
 immer wieder ein [tʃe] oder [tʃi] hörst, sitzt du wahrscheinlich neben jemandem aus Kreta. In
-Chats und Kommentaren schreiben manche das auch so: [τσαι, τσι]{lang="el"}.
+Chats und Kommentaren schreiben manche das auch so: [τσαι, τσι]{lang="el"}. Aber Vorsicht: [τσι]{lang="el"}
+kann auf Kreta auch für den Artikel [τις, τους]{lang="el"} stehen.
 
 Für das Hören heißt das: **Ein *tsch* vor [e] oder [i] ist fast immer ein [κ]{lang="el"}**, ein *sch*
 ein [χ]{lang="el"}. Nicht verwechseln mit dem [τσ]{lang="el"} des Standards, einem scharfen [ts]
@@ -157,8 +156,9 @@ Der Zischlaut ist eine **Tendenz**. Wie stark er ist, hängt von Gegend, Alter u
 der Kamera sprechen viele Kreter fast Standard. Phonetiker hören auf Kreta außerdem eine etwas
 weichere Variante als auf Zypern und schreiben sie [tɕ ɕ ʑ]; das Buch schreibt für beide Inseln
 [tʃ ʃ ʒ]. Dieselbe Erscheinung gibt es auch auf Kythira, in der Mani und auf einigen Inseln der
-südlichen Ägäis. Überblick: Peter Trudgill, „[Modern Greek Dialects]{lang="en"}“ (2003), frei
-zugänglich auf der [Πύλη για την Ελληνική Γλώσσα]{lang="el"} des Zentrums für Griechische Sprache.
+südlichen Ägäis. Überblick: Peter Trudgills Aufsatz zur Einteilung der neugriechischen Dialekte
+([*Journal of Greek Linguistics*]{lang="en"} 4, 2003); eine Kurzfassung ist frei zugänglich auf der
+[Πύλη για την Ελληνική Γλώσσα]{lang="el"} des Zentrums für Griechische Sprache.
 :::
 
 ### Kretische Wörter {#sec-kz-kreta-woerter}
@@ -170,10 +170,9 @@ du sie nicht, und von Fremden wirkt es eher komisch.
 |---|---|---|
 | [ίντα]{lang="el"} | [τι]{lang="el"} | was |
 | [γιάντα]{lang="el"} | [γιατί]{lang="el"} | warum |
-| [ντα]{lang="el"} | [λοιπόν, ε]{lang="el"} | na, also (Einleitung) |
 | [κιανείς, κιανένας]{lang="el"} | [κανείς, κανένας]{lang="el"} | keiner; jemand |
 | [ετσά]{lang="el"} | [έτσι]{lang="el"} | so |
-| [μπλιο]{lang="el"} | [πια]{lang="el"} | (nicht) mehr |
+| [μπλιο]{lang="el"} | [πια]{lang="el"} | (meist verneint) nicht mehr |
 | [κατέχω]{lang="el"} | [ξέρω]{lang="el"} | wissen, kennen |
 | [θωρώ]{lang="el"} | [βλέπω]{lang="el"} | sehen |
 
@@ -183,9 +182,9 @@ behauptet nichts über seinen Besitz; er weiß es nur nicht.
 
 [ίντα]{lang="el"} ist das wichtigste Wort in diesem Kapitel, denn es gilt auf beiden Inseln: Auch
 auf Zypern und auf vielen Inseln der Ägäis fragt man [Ίντα;]{lang="el"}. Dasselbe gilt für
-[θωρώ]{lang="el"}. Es ist ein altes Wort, verwandt mit dem *Theater*, dem Ort, an dem man zuschaut.
-
-<!-- CHECK: γιάντα < για + ίντα; Schreibung τσαι/τσι für kretisches και/κι in Chats; ντα als kretische Partikel „na, also“ (Bedeutung, Schreibung); κιανείς/κιανένας als kretisch; ετσά auf Kreta (für Zypern belegt: el.wikipedia „Κυπριακή διάλεκτος“, ετσά < ετσιδά); μπλιο (en.wikipedia „Cretan Greek“); ίντα-Zone Kreta, Zypern, Kykladen, Dodekanes (el.wikipedia); θωρώ auf Kreta (Erotokritos: εθώρου) und Zypern; Herleitung θωρώ < θεωρώ, verwandt mit θέατρο -->
+[θωρώ]{lang="el"}. Es ist dasselbe Wort wie [θεωρώ]{lang="el"} „halten für“ (Kapitel 13), nur
+zusammengezogen, und ursprünglich hieß es „anschauen“. Über [η θέα]{lang="el"} „der Anblick“ ist
+es mit dem *Theater* verwandt, dem Ort, an dem man zuschaut.
 
 ::: {.callout-note .exercise}
 ## Übung 32.1: Welcher Buchstabe zischt?
@@ -235,7 +234,7 @@ bleibt auch auf Kreta [ˈexume].
 ## Übung 32.2: Kretisch in Standard
 
 Sag jeden Satz laut in Standard und übersetze ihn. Im Chat: die Nummer des Satzes, den man am
-leichtesten falsch übersetzt, und warum.
+leichtesten falsch übersetzt.
 
 ::: {lang="el" .no-audio}
 1. Ίντα θωρείς εκεί πάνω;
@@ -270,11 +269,11 @@ Ein Wort gibt es auch im Standard, dort mit anderer Bedeutung.
 5. [Δεν πίνω πια ρακή.]{lang="el"} „Ich trinke keinen Raki mehr.“
 6. [Έτσι είναι η ζωή.]{lang="el"} „So ist das Leben.“
 
-**Die Falle ist 3**, auch 4: Im Standard ist [κατέχω]{lang="el"} gehoben und heißt „besitzen,
-innehaben“ ([κατέχει μια θέση]{lang="el"} „hat eine Stelle inne“), bei Fächern auch
-„beherrschen“. „Besitzt du Manolis?“ ergibt keinen Sinn; auf Kreta heißt es „kennen, wissen“.
-Bei 5 nicht an [πιο]{lang="el"} „mehr“ im Vergleich denken: [μπλιο]{lang="el"} ist das „nicht mehr“
-der Verneinung.
+**Die Falle ist 3**, auch 4: Im Standard heißt [κατέχω]{lang="el"} meist „besitzen, innehaben“
+([κατέχει μια θέση]{lang="el"} „hat eine Stelle inne“), bei Fächern „beherrschen“; volkstümlich
+auch „wissen“. Auf Kreta ist es das Alltagswort für „wissen, kennen“. „Besitzt du Manolis?“ ergibt
+keinen Sinn. Bei 5 nicht an [πιο]{lang="el"} „mehr“ im Vergleich denken: [μπλιο]{lang="el"}
+entspricht hier [πια]{lang="el"} und steht meist mit Verneinung, „nicht mehr“.
 :::
 
 ::: {.vocab}
@@ -313,8 +312,9 @@ Drei Regeln stecken darin:
 1. **Wie gesprochen gezählt:** [κι εσύ]{lang="el"} sind zwei Silben, [ceˈsi], nicht drei.
    Zusammenstoßende Vokale verschmelzen, wie beim Sprechen (Kapitel 21).
 2. **Betonung meist auf den geraden Silben:** [στέλ]{lang="el"} ist die zweite, [μή]{lang="el"} die
-   vierte, [ί]{lang="el"} die achte. Fast immer betont sind die achte und die vierzehnte; darum
-   endet jede Zeile auf einem Wort, das auf der vorletzten Silbe betont ist.
+   vierte, [ί]{lang="el"} die achte. Am Anfang einer Hälfte darf auch eine ungerade Silbe betont
+   sein. Fest betont ist die vierzehnte; vor der Pause die achte oder die sechste, nie die
+   siebte. Darum endet jede Zeile auf einem Wort mit Ton auf der vorletzten Silbe.
 3. **Paarreim** ([η ρίμα]{lang="el"}, gehoben [η ομοιοκαταληξία]{lang="el"}): Ab dem letzten
    betonten Vokal klingen beide Zeilen gleich, [ˈvraði] und [skoˈtaði]. Gereimt wird nach Gehör,
    nicht nach Schrift: [-άδυ]{lang="el"} reimt sich auf [-άδι]{lang="el"}.
@@ -332,12 +332,10 @@ gereimten Versen und auf Kretisch. So beginnt sie:
 και του Τροχού, που ώρες ψηλά κι ώρες στα βάθη πηαίνου …
 :::
 
-„Die Drehungen des Kreises, die auf- und niedergehen, und des Rades, das mal nach oben, mal in die
-Tiefe geht“: das Rad des Schicksals. Kretisch sind hier die Endungen: [ανεβοκατεβαίνου,
-πηαίνου]{lang="el"} stehen für [ανεβοκατεβαίνουν, πηγαίνουν]{lang="el"}. Einzelne Verspaare aus dem
-*Erotokritos* werden bis heute als Mantinades gesungen.
-
-<!-- CHECK: Wortlaut der ersten beiden Verse des Erotokritos (Ausgabe Alexiou bzw. Xanthoudidis 1915), bes. „ανεβοκατεβαίνου“, „πηαίνου“, Großschreibung Κύκλου/Τροχού; Datierung 1590–1610, 10 012 Verse, Druck Venedig 1713 (en.wikipedia „Erotokritos“) -->
+„Die Drehungen des Kreises, die auf- und niedergehen, und des Rades, die mal nach oben, mal in die
+Tiefe gehen“: das Rad des Schicksals. Kretisch ist [πηαίνου]{lang="el"} für
+[πηγαίνουν]{lang="el"}, ohne [γ]{lang="el"}; das Schluss-[ν]{lang="el"} fehlt in vielen Ausgaben.
+Einzelne Verspaare aus dem *Erotokritos* werden bis heute als Mantinades gesungen.
 
 ::: {.callout-note .exercise}
 ## Übung 32.3: Zähl nach
@@ -371,7 +369,8 @@ c) γύρνα να δεις ποιος σ’ αγαπά, και μη με ξαν
 ## Hinweis 1
 
 Zähl die Vokale, wie man sie spricht: [κι]{lang="el"} vor einem Vokal ist keine eigene Silbe, und
-[ποιος]{lang="el"} ist einsilbig. Die Pause liegt dort, wo das Komma steht.
+[ποιος]{lang="el"} ist einsilbig. Die Pause liegt nach der achten Silbe; in Zeile 1 steht dort das
+zweite Komma.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -389,7 +388,9 @@ Silben, Betonung auf der vorletzten, Klang ab dem betonten Vokal wie [-ˈtazis].
 [μι-κρή-ρα-κή-μι-κρή-χα-ρά | μι-κρή-κι η-κα-λη-σπέ-ρα]{lang="el"}\
 [φέ-ρε-με-γά-λη-τη-ρα-κή | ώ-σπου-να-φέ-ξει-μέ-ρα]{lang="el"}
 
-Vierzehnte Silbe: [σπέ]{lang="el"} und [μέ]{lang="el"}. Reim: [-ˈera]. Die Falle ist
+Vierzehnte Silbe: [σπέ]{lang="el"} und [μέ]{lang="el"}. Reim: [-ˈera]. [φέ]{lang="el"} und
+[ώ]{lang="el"} sind die erste und die neunte Silbe, also ungerade; das ist erlaubt, denn beide
+stehen am Anfang einer Hälfte. Die Falle ist
 [κι η]{lang="el"} [ci]: eine Silbe, wie [κι εσύ]{lang="el"} im Text. Wer 16 zählt, hat hier
 getrennt.
 
@@ -421,13 +422,16 @@ das Kretische; wer nur Standard kann, versteht ohne Übung oft wenig.
 
 Das hat Gründe. Zypern war lange vom übrigen griechischen Sprachraum abgeschnitten: unter
 Kreuzfahrerkönigen ab 1191, dann unter Venedig, den Osmanen und von 1878 an unter Großbritannien.
-Der Dialekt hat dabei Altes bewahrt, das der Standard verloren hat, und Neues entwickelt. Vier Merkmale genügen, um ihn zu erkennen.
+Der Dialekt hat dabei Altes bewahrt, das der Standard verloren hat, und Neues entwickelt. Zum
+Erkennen reichen lange Konsonanten, das [tʃ] wie auf Kreta, drei grammatische Eigenheiten und ein
+paar Wörter.
 
 ### Doppelte Konsonanten {#sec-kz-geminaten}
 
 Im Standard ist [λλ]{lang="el"} dasselbe wie [λ]{lang="el"}: [άλλος]{lang="el"} [ˈalos]. Auf
 Zypern werden doppelte Konsonanten auch doppelt lang gesprochen, fachlich **Geminaten**, wie im
-Italienischen [*nonno*]{lang="it"} oder [*spalla*]{lang="it"}. Oft kommen sie sogar dort vor, wo nur ein Buchstabe steht:
+Italienischen [*nonno*]{lang="it"} oder [*spalla*]{lang="it"}. Oft kommen sie sogar dort vor,
+wo nur ein Buchstabe steht:
 
 | Schriftbild | Standard | Hörbild Zypern |
 |---|---|---|
@@ -435,9 +439,9 @@ Italienischen [*nonno*]{lang="it"} oder [*spalla*]{lang="it"}. Oft kommen sie so
 | [η θάλασσα]{lang="el"} | [i ˈθalasa] | [i ˈθalasːa] |
 | [ναι]{lang="el"} | [ne] | [nːe] |
 | [ποτέ]{lang="el"} | [poˈte] | [poˈtʰːe] |
-| [τα φύλλα]{lang="el"} / [φίλα!]{lang="el"} | beide [ˈfila] | [ˈfilːa] / [ˈfila] |
+| [τα φύλλα]{lang="el"} / [φίλα!]{lang="el"} | [ta ˈfila] / [ˈfila] | [ta ˈfilːa] / [ˈfila] |
 
-Das [ː] zeigt die Länge. Doppelte [π τ κ]{lang="el"} werden außerdem **behaucht** [ʰ], also mit
+Das [ː] zeigt die Länge. Lange [p t k] werden außerdem **behaucht** [ʰ], also mit
 dem kleinen Luftstoß, den das Deutsche bei *Tante* macht und den du dir im Standard abgewöhnen
 solltest. Die letzte Zeile zeigt, dass die Länge Wörter unterscheidet: lang „die Blätter“, kurz
 „küss!“. Im Standard klingen beide gleich.
@@ -466,15 +470,15 @@ Drei grammatische Merkmale siehst du auch geschrieben:
   „er sagte“, [το σπίτιν]{lang="el"} „das Haus“. Und das Augment bleibt, auch wenn es nicht betont
   ist: [εγράψαμεν]{lang="el"} statt [γράψαμε]{lang="el"}. Das ist die Form, die Kapitel 2
   angekündigt hat.
-- **Das schwache Pronomen steht hinter dem Verb:** [Είδα τον.]{lang="el"} statt [Τον
+- **Das schwache Pronomen steht meist hinter dem Verb:** [Είδα τον.]{lang="el"} statt [Τον
   είδα.]{lang="el"}, [Λέω σου.]{lang="el"} statt [Σου λέω.]{lang="el"} Nach [να]{lang="el"} und nach
-  der Verneinung rückt es wieder nach vorn: [να τον δω]{lang="el"}.
-- **[εν]{lang="el"} hat drei Aufgaben.** Vor einem Adjektiv oder Nomen heißt es „ist“: [Εν
-  καλό.]{lang="el"} „Es ist gut.“ Vor einem Verb verneint es: [Εν ξέρω.]{lang="el"} „Ich weiß
-  nicht.“ Und [εν να]{lang="el"} bildet das Futur, aus [θέλει να]{lang="el"} verkürzt: [Εν να
-  πάω.]{lang="el"} „Ich werde gehen.“ Was gemeint ist, zeigt das nächste Wort.
-
-<!-- CHECK: Schreibung und Gebrauch von εν: Kopula („είναι / έναι / έν(ι)“), Verneinung (’εν < δεν, mit Angleichung „εθ θέλω“), Futur „εν να“ (el.wikipedia „Κυπριακή διάλεκτος“); Nachstellung der Klitika (είδα τον, λέω σου) und Voranstellung nach να/Verneinung (Terkourafi; Agouraki) -->
+  der Verneinung rückt es wieder nach vorn: [να τον δω]{lang="el"}. Auf Kreta hört man das auch
+  ([κατέχω το]{lang="el"}), auf Zypern häufiger.
+- **[εν]{lang="el"} sind drei Wörter**, die gleich klingen. Vor einem Adjektiv oder Nomen heißt es
+  „ist“ (aus [ένι]{lang="el"}): [Εν καλό.]{lang="el"} „Es ist gut.“ Vor einem Verb verneint es
+  (aus [δεν]{lang="el"}): [Εν ξέρω.]{lang="el"} „Ich weiß nicht.“ Und [εν να]{lang="el"} bildet das
+  Futur, aus [θέλει να]{lang="el"} verkürzt: [Εν να πάω.]{lang="el"} „Ich werde gehen.“ Auch in
+  Chats sehen alle drei gleich aus; was gemeint ist, zeigt das nächste Wort.
 
 ### Zypriotische Wörter {#sec-kz-zypern-woerter}
 
@@ -487,26 +491,25 @@ Drei grammatische Merkmale siehst du auch geschrieben:
 | [θωρώ]{lang="el"} | [βλέπω]{lang="el"} | sehen |
 | [όι]{lang="el"} | [όχι]{lang="el"} | nein |
 
-[έσσω]{lang="el"} kommt von altgriechisch [είσω]{lang="el"} „hinein, drinnen“: [Πάω έσσω.]{lang="el"} „Ich geh
-nach Hause.“ Und [ίντα, θωρώ]{lang="el"} kennst du schon von Kreta.
-
-<!-- CHECK: έσσω (Bedeutung „zu Hause“, Herleitung < αρχ. είσω), όι „nein“, κάμνω; Beispiel „Πάω έσσω.“ -->
+[έσσω]{lang="el"} kommt von altgriechisch [έσω]{lang="grc"} (auch [είσω]{lang="grc"}) „drinnen,
+hinein“: [Πάω έσσω.]{lang="el"} „Ich geh nach Hause.“ Und [ίντα, θωρώ]{lang="el"} kennst du schon von Kreta.
 
 ### Zwei Sprachen in einer {#sec-kz-zypern-diglossie}
 
 Auf Zypern lernen die Kinder in der Schule Standardgriechisch, und im Parlament, in den Nachrichten
 und in der Zeitung wird es auch verwendet. Zu Hause, im Café, auf dem Markt spricht man Zypriotisch,
 und viele wechseln mitten im Satz. Die Forschung spricht von Diglossie, heute eher von einem
-Kontinuum zwischen Dorfdialekt und Standard. Den Standard nennen Zyprioten scherzhaft
-[καλαμαρίστικα]{lang="el"}, die Sprache der [καλαμαράδες]{lang="el"}, der Griechen vom Festland.
+Kontinuum zwischen Dorfdialekt und Standard. Den Standard nennen die Zyprioten
+([οι Κύπριοι]{lang="el"}) scherzhaft [καλαμαρίστικα]{lang="el"}. Das [καλαμάρι]{lang="el"} war
+früher das Tintenfass, und [καλαμαράς]{lang="el"} ein spöttisches Wort für Stubengelehrte; auf
+Zypern heißen so die [Ελλαδίτες]{lang="el"}, die Griechen aus Griechenland.
 Für dich heißt das: Mit Standard kommst du auf Zypern überall durch, denn man schaltet um,
 sobald du dabei bist.
 
-<!-- CHECK: „καλαμαρίστικα“/„καλαμαράς“ als zypriotische Bezeichnung für Standard/Festlandgriechen (Herkunft, Konnotation) -->
-
 Zypern ist ein eigener Staat, seit 1960 unabhängig von Großbritannien. Amtssprachen der Republik
-Zypern sind Griechisch und Türkisch. Seit 1974 ist die Insel geteilt: Nach einem Putsch, den die
-Athener Junta unterstützte, marschierte die Türkei ein (Kapitel 11). Im Norden wurde 1983 ein Staat
+Zypern sind Griechisch und Türkisch. Seit 1974 ist die Insel geteilt ([Η Κύπρος είναι χωρισμένη από το
+1974.]{lang="el"}): Nach einem Putsch, den die Athener Junta unterstützte, marschierte die Türkei ein,
+[η εισβολή]{lang="el"} (Kapitel 11). Im Norden wurde 1983 ein Staat
 ausgerufen, den nur die Türkei anerkennt. Eine Pufferzone der Vereinten Nationen, die **Grüne
 Linie** ([η Πράσινη Γραμμή]{lang="el"}), zieht sich über die Insel und mitten durch die Hauptstadt
 Nikosia, griechisch [η Λευκωσία]{lang="el"} (*Lefkosia*). Seit 2004 ist die Republik Zypern in der
@@ -519,14 +522,14 @@ Sag jeden Satz laut in Standard. Bei [εν]{lang="el"}: „ist“, „nicht“ o
 „2 ist, 3 nicht …“.
 
 ::: {lang="el" .no-audio}
-1. Είδα τον χθες στη Λευκωσία.
+1. Είδα τον εχτές στη Λευκωσία.
 2. Εν καλό το φαΐ.
 3. Εν ξέρω ίντα θέλει.
 4. Εν να πάω έσσω.
 5. Είπεν μου ότι εν κουρασμένη.
-6. Ο Γιώργος τζιαι η Μαρία εν ήρθαν.
+6. Ο Γιώργος τζιαι η Μαρία εν ήρταν.
 7. Εν να σου το πω αύριο.
-8. Εγράψαμεν το γράμμα τζιαι εστείλαμέν το.
+8. Εγράψαμεν το γράμμα τζιαι εστείλαμεν το.
 :::
 :::
 
@@ -551,7 +554,8 @@ Ein nachgestelltes Pronomen wandert im Standard vors Verb. In 7 steht es schon v
 4. **Futur:** [Θα πάω σπίτι.]{lang="el"}
 5. **ist:** [Μου είπε ότι είναι κουρασμένη.]{lang="el"} Schluss-[ν]{lang="el"} weg, Pronomen
    nach vorn.
-6. **nicht:** [Ο Γιώργος και η Μαρία δεν ήρθαν.]{lang="el"}
+6. **nicht:** [Ο Γιώργος και η Μαρία δεν ήρθαν.]{lang="el"} [ήρταν]{lang="el"} ist die
+   zypriotische Form von [ήρθαν]{lang="el"}.
 7. **Futur:** [Θα σου το πω αύριο.]{lang="el"} Nach [να]{lang="el"} stehen die Pronomen auch
    auf Zypern vorn.
 8. [Γράψαμε το γράμμα και το στείλαμε.]{lang="el"} Augment und [ν]{lang="el"} fallen weg, das
@@ -576,43 +580,28 @@ Typische Fehler: [εν]{lang="el"} für [ένα]{lang="el"} halten, und bei [ε�
 
 Der berühmteste Filmemacher Zyperns ist ein alter Bekannter: Michael Cacoyannis
 ([Μιχάλης Κακογιάννης]{lang="el"}) aus Limassol, der Regisseur von *Stella* und *Alexis Sorbas*
-(Kapitel 15). Nach der Invasion drehte er *Attilas ’74* (1975), einen Dokumentarfilm über die
-Teilung seiner Heimat; der Titel spielt auf den Decknamen der türkischen Militäroperation an. Seine
-Spielfilme aber sind griechische Produktionen, gesprochen wird darin Standard.
+(Kapitel 15). Seine Spielfilme sind griechische oder internationale Produktionen, gesprochen wird
+Standard oder, wie in *Alexis Sorbas*, Englisch; Zypriotisch hört man darin nicht.
 
-Eine eigene Filmindustrie hat Zypern erst spät bekommen, wegen der kleinen Bevölkerung und weil
-die Teilung lange alles überschattete. Seit einigen Jahren wächst sie, auch weil die Regierung
-ausländische Produktionen mit Geld auf die Insel holt; geworben wird mit dem Spitznamen
-*Olivewood*. Zwei
-Filme von 2018 fanden auch im Ausland Beachtung: *Smuggling Hendrix* von Marios Piperides, eine
-Komödie an der Grünen Linie, und *Pause* von Tonia Mishiali.
-
-Zypriotisch hörst du am ehesten im Fernsehen: Lokale Komödien und Serien spielen gern mit dem
-Dialekt. Und an unerwarteten Stellen: In der Vampir-Comedyserie *What We Do in the Shadows* ruft
-die Vampirin Nadja gelegentlich etwas auf Zypriotisch, weil ihre Darstellerin, Natasia Demetriou,
-zypriotische Wurzeln hat.
-
-::: {.callout-caution .uncertain}
-## Vorsicht
-
-Die Filmangaben stammen aus Übersichtsartikeln, nicht aus den Filmen selbst. Ob ein Film
-Zypriotisch, Standard oder Englisch spricht, zeigt dir am schnellsten der Trailer.
-:::
-
-<!-- CHECK: Cacoyannis geb. in Limassol (1921 oder 1922, Quellen uneinheitlich); „Attilas ’74“ 1975, Dokumentarfilm, Titelbezug auf „Operation Attila“; originaler Titel und Schreibung; „Olivewood“; Smuggling Hendrix (2018, Marios Piperides; Komödie, Handlung an der Grünen Linie/Pufferzone, Tribeca); Pause (2018, Tonia Mishiali); Natasia Demetriou mit zypriotischen Wurzeln, Nadja spricht gelegentlich Zypriotisch (en.wikipedia „Cypriot Greek“, „Cinema of Cyprus“) -->
+Zypriotisch hörst du eher im zypriotischen Fernsehen, wo Komödien und Serien gern mit dem Dialekt
+spielen, und an einer unerwarteten Stelle: In der Vampir-Comedyserie [*What We Do in the
+Shadows*]{lang="en"} ruft die Vampirin Nadja gelegentlich etwas auf Zypriotisch, denn ihre
+Darstellerin Natasia Demetriou hat zypriotische Wurzeln.
 
 ## Hörspur: kurze Aufnahmen {#sec-kz-hoerspur}
 
 Zwei junge Leute in Nikosia, er von hier, sie aus Athen. Er spricht Zypriotisch, sie Standard. Die
 ▶-Aufnahme liest alles mit Athener Aussprache: Du hörst die zypriotischen **Wörter und Formen**,
-aber keine Geminaten und kein [tʃ]. Erst hören, dann lesen:
+aber keine Geminaten und kein [tʃ]; darum steht im Hörtext auch [και]{lang="el"} statt
+[τζιαι]{lang="el"}, das die Stimme falsch läse. Zwei Wörter vorab: [παίζεται]{lang="el"} „(ein Film)
+läuft“, [η μάνα]{lang="el"} „die Mutter“ (umg.). Erst hören, dann lesen:
 
 ::: {lang="el" .listen}
-— Ίντα κάμνεις; Εν να πάμε σινεμά απόψε;
+[— Ίντα κάμνεις; Εν να πάμε σινεμά απόψε;]{.v2}
 
 — Καλά. Ποια ταινία;
 
-— Μια κυπριακή. Είδα την πέρσι στο φεστιβάλ τζιαι θέλω να τη δω ξανά.
+— Μια κυπριακή. Είδα την πέρσι στο φεστιβάλ και θέλω να τη δω ξανά.
 
 — Κυπριακή; Θα καταλάβω τίποτα;
 
@@ -620,7 +609,7 @@ aber keine Geminaten und kein [tʃ]. Erst hören, dann lesen:
 
 — Και πού παίζεται;
 
-— Στο παλιό σινεμά, κοντά στην Πράσινη Γραμμή. Μετά πάμε έσσω μου, η μάνα μου εν να κάμει φαΐ.
+— Στο παλιό σινεμά, κοντά στην Πράσινη Γραμμή. Μετά πάμεν έσσω μου, η μάνα μου εν να κάμει φαΐ.
 
 — Εντάξει. Αλλά αν δεν καταλάβω κάτι, θα μου το εξηγήσεις.
 
@@ -650,7 +639,7 @@ Pronomen hinter dem Verb?
 ## Hinweis 1
 
 Halt dich an die Wörter, die du aus dem Standard kennst: [απόψε, πέρσι, φεστιβάλ, μουσική,
-Πράσινη Γραμμή, η μάνα μου]{lang="el"}.
+Πράσινη Γραμμή]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -695,27 +684,24 @@ wir zu mir, meine Mutter kocht.“ – „Okay. Aber wenn ich etwas nicht verste
 
 Den echten Klang brauchst du von echten Menschen. Such auf
 [Easy Greek](https://www.youtube.com/@EasyGreekVideos) nach Interviews aus Kreta ([Κρήτη, Χανιά,
-Ηράκλειο]{lang="el"}) oder aus Zypern ([Κύπρος, Λευκωσία, Λεμεσός]{lang="el"}), oder nach
-Interviews, in denen jemand auf [Από πού είσαι;]{lang="el"} eine der Inseln nennt. Auf
-[ERTflix](https://www.ertflix.gr) such nach [Κρήτη]{lang="el"}, [μαντινάδες]{lang="el"} oder
+Ηράκλειο]{lang="el"}) oder Zypern ([Κύπρος, Λευκωσία, Λεμεσός]{lang="el"}), auf
+[ERTflix](https://www.ertflix.gr) nach [Κρήτη]{lang="el"}, [μαντινάδες]{lang="el"} oder
 [Κύπρος]{lang="el"}; ergiebig sind Dokumentationen, in denen Leute vor Ort sprechen, nicht der
 Sprecher aus dem Off. Das Angebot wechselt; gibt eine Quelle nichts her, nimm die andere.
-
-**Auswertung:** Führ eine Strichliste für zwei bis drei Minuten einer Person. Für Kreta: (K1) [tʃ]
-statt [c], am leichtesten bei [και, κι]{lang="el"}; (K2) [ʃ] statt [ç], etwa bei [έχει]{lang="el"};
-(K3) Inselwörter wie [ίντα, γιάντα, κατέχω]{lang="el"}. Für Zypern: (Z1) lange Konsonanten, etwa
-in [πολλά, άλλος, ναι]{lang="el"}; (Z2) [tʃe] für „und“; (Z3) [εν]{lang="el"}, [ίντα]{lang="el"},
-Pronomen hinter dem Verb. Zwei sichere Belege pro Merkmal sind ein Erfolg. Findest du fast nichts,
-ist auch das ein Befund: Vor der Kamera und gegenüber Fremden sprechen viele Kreter und Zyprioten
-nahezu Standard.
 
 ::: {.callout-note .exercise}
 ## Übung 32.6: Hör-Auftrag auf den Inseln
 
-Nimm eine Person aus Kreta oder Zypern auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos)
-oder [ERTflix](https://www.ertflix.gr), zwei bis drei Minuten.
+Nimm aus einer dieser Quellen zwei bis drei Minuten einer Person aus Kreta oder Zypern. Für einen ersten Eindruck von Zypern
+taugen auch Nadjas Ausrufe in [*What We Do in the Shadows*]{lang="en"} (@sec-kz-kino); für die
+Strichliste sind sie zu kurz.
 
-**Durchgang 1, ohne Untertitel:** Strichliste für K1–K3 bzw. Z1–Z3 wie oben.
+**Durchgang 1, ohne Untertitel:** Führ eine Strichliste.
+
+- Kreta: (K1) [tʃ] statt [c], am leichtesten bei [και, κι]{lang="el"}; (K2) [ʃ] statt [ç], etwa
+  bei [έχει]{lang="el"}; (K3) Inselwörter wie [ίντα, γιάντα, κατέχω]{lang="el"}.
+- Zypern: (Z1) lange Konsonanten, etwa in [πολλά, άλλος, ναι]{lang="el"}; (Z2) [tʃe] für „und“;
+  (Z3) [εν]{lang="el"} und Schluss-[ν]{lang="el"} wie in [είπεν]{lang="el"}.
 
 **Durchgang 2, mit griechischen Untertiteln:** Prüf deine Striche und notier zu jedem Merkmal ein
 Beispielwort. Im Chat die Insel und die Zahlen, etwa „Kreta: K1 3, K2 0, K3 1“.
@@ -745,22 +731,23 @@ Die Untertitel **glätten**: Sie zeigen das Wort, nicht den Laut. Ob es gezischt
 sagt nur die Aufnahme. Oft glätten sie auch Z3: [δεν ξέρω]{lang="el"}, obwohl [εν ξέρω]{lang="el"}
 zu hören war.
 
-Kaum Striche ist auch ein Befund (siehe oben); nimm dann eine ältere Person oder eine Reportage
-aus einem Dorf.
+Kaum Striche sind auch ein Befund: Vor der Kamera und gegenüber Fremden sprechen viele Kreter und
+Zyprioten nahezu Standard. Nimm dann eine ältere Person oder eine Reportage aus einem Dorf.
 :::
 
 ## Das Wichtigste {#sec-kz-wichtigste}
 
 - **Erkennen, nicht nachmachen:** Kretisch und Zypriotisch zum Verstehen; selbst sprichst du
   Standard. Alle Merkmale sind Tendenzen.
-- **Kreta:** [κ χ γ]{lang="el"} vor [e i] werden zu [tʃ ʃ ʒ] ([και]{lang="el"} [tʃe]); Wörter wie
-  [ίντα, γιάντα, κιανείς, ετσά, μπλιο, κατέχω]{lang="el"}.
-- **Zypern:** dazu lange (Doppel-)Konsonanten ([ˈalːos]), Schluss-[ν]{lang="el"}
-  ([είπεν]{lang="el"}), Pronomen hinter dem Verb ([είδα τον]{lang="el"}), [εν]{lang="el"} als „ist“,
-  „nicht“ und in [εν να]{lang="el"} als Futur; [τζιαι, έσσω, κάμνω, όι]{lang="el"}.
-- **Beide Inseln:** [ίντα]{lang="el"} „was“, [θωρώ]{lang="el"} „sehen“.
-- **Mantinada:** gereimter Zweizeiler aus Fünfzehnsilblern, Pause nach der achten Silbe, Betonung
-  auf der vierzehnten, oft improvisiert und als Antwort gesungen.
+- **Beide Inseln:** [κ χ]{lang="el"} vor [e i] werden zu [tʃ ʃ] ([και]{lang="el"} [tʃe]);
+  [ίντα]{lang="el"} „was“, [θωρώ]{lang="el"} „sehen“.
+- **Kreta:** dazu [γ]{lang="el"} vor [e i] als [ʒ]; Wörter wie [γιάντα, κιανείς, ετσά, μπλιο,
+  κατέχω]{lang="el"}.
+- **Zypern:** lange (Doppel-)Konsonanten ([ˈalːos]), Schluss-[ν]{lang="el"}
+  ([είπεν]{lang="el"}), Pronomen meist hinter dem Verb ([είδα τον]{lang="el"}), [εν]{lang="el"} als
+  „ist“, „nicht“ und in [εν να]{lang="el"} als Futur; [τζιαι, έσσω, κάμνω, όι]{lang="el"}.
+- **Mantinada:** gereimter Zweizeiler aus Fünfzehnsilblern, Pause nach der achten Silbe, feste
+  Betonung auf der vierzehnten, oft improvisiert und als Antwort gesungen.
 
 ## Zum Lesen: Ein Vers, zwei Inseln {#sec-kz-lesetext}
 
@@ -771,26 +758,24 @@ dann mit ▶.
 **Ένας στίχος, δύο νησιά**
 
 Αν ακούσεις δύο Κρητικούς να λένε μαντινάδες σε ένα γλέντι, θα νομίσεις ότι τις ήξεραν από πριν.
-Συνήθως δεν τις ήξεραν. Η μαντινάδα γεννιέται τη στιγμή που τη λες: δύο στίχοι, δεκαπέντε
+Συχνά δεν τις ήξεραν: αυτοσχεδίαζαν. Η μαντινάδα γεννιέται τη στιγμή που τη λες: δύο στίχοι, δεκαπέντε
 συλλαβές ο καθένας, με ρίμα στο τέλος. Ο ένας λέει μια μαντινάδα, ο άλλος του απαντά με μια
-καινούργια, και το γλέντι μπορεί να κρατήσει ως το πρωί. Από κάτω παίζουν η λύρα και το λαούτο.
+καινούργια, και το γλέντι μπορεί να κρατήσει ως το πρωί. Τους συνοδεύουν η λύρα και το λαούτο.
 
 Ο στίχος αυτός, ο δεκαπεντασύλλαβος, είναι πολύ παλιός. Σε αυτόν είναι γραμμένα τα περισσότερα
 δημοτικά τραγούδια, και σε αυτόν έγραψε γύρω στο 1600 ο Βιτσέντζος Κορνάρος τον «Ερωτόκριτο»,
 δέκα χιλιάδες στίχους για την αγάπη του Ερωτόκριτου και της Αρετούσας. Πολλοί Κρητικοί ξέρουν
 ακόμα κομμάτια του απέξω, και κάποιοι στίχοι του τραγουδιούνται σαν μαντινάδες.
 
-Στην Κύπρο ο ίδιος στίχος έχει άλλο όνομα και πιο σκληρό χαρακτήρα: τα τσιαττιστά. Εκεί δύο
-ποιητάρηδες «μονομαχούν» μπροστά στο κοινό. Ο καθένας πρέπει να απαντήσει αμέσως, με ρίμα, και
+Στην Κύπρο ο ίδιος στίχος ζει σε ένα άλλο, πιο σκληρό είδος: τα τσιαττιστά. Εκεί δύο
+τσιαττιστάδες «μονομαχούν» μπροστά στο κοινό. Ο καθένας πρέπει να απαντήσει αμέσως, με ρίμα, και
 αν μπορεί, να πειράξει τον αντίπαλο. Όποιος μείνει χωρίς απάντηση, έχει χάσει. Το 2011 η UNESCO
 έβαλε τα τσιαττιστά στον κατάλογο της άυλης πολιτιστικής κληρονομιάς.
 
 Γιατί άντεξε αυτός ο στίχος τόσους αιώνες; Ίσως επειδή χωράει σε μια ανάσα: οκτώ συλλαβές, μια
-μικρή παύση, επτά ακόμα. Ίσως επειδή η ρίμα βοηθάει τη μνήμη. Ή ίσως επειδή δεν έχει σημασία αν
-μιλάς κρητικά, κυπριακά ή αθηναϊκά: Μια καλή μαντινάδα, όταν την ακούσεις, δεν την ξεχνάς.
+μικρή παύση, επτά ακόμα. Ίσως επειδή η ρίμα βοηθάει τη μνήμη. Ή ίσως επειδή δεν έχει σημασία πώς
+προφέρεις το «και», κρητικά, κυπριακά ή αθηναϊκά: μια καλή μαντινάδα, όταν την ακούσεις, δεν την ξεχνάς.
 :::
-
-<!-- CHECK: Tsiattista 2011 in die UNESCO-Repräsentative Liste des immateriellen Kulturerbes aufgenommen („Tsiattista poetic duelling“); ποιητάρηδες (zypr. ποιητάρηες) als Bezeichnung der Sänger; τσιαττιστά im Fünfzehnsilbler mit Reim; Erotokritos-Angaben wie oben -->
 
 ::: {.callout-note collapse="true" .vocab-text}
 ## Wortschatz zum Text
@@ -803,7 +788,8 @@ dann mit ▶.
 | [δημοτικός, -ή, -ό]{lang="el"} | Volks-; [το δημοτικό τραγούδι]{lang="el"} das Volkslied |
 | [τραγουδιέμαι]{lang="el"} | gesungen werden |
 | [τα τσιαττιστά]{lang="el"} | die Tsiattista (zypriotische Stegreif-Verse im Wettstreit) |
-| [ο ποιητάρης, οι ποιητάρηδες]{lang="el"} | der Volksdichter, Stegreifsänger (Zypern) |
+| [ο τσιαττιστής, οι τσιαττιστάδες]{lang="el"} | der Tsiattista-Sänger (Zypern) |
+| [το είδος]{lang="el"} | die Art, die Gattung |
 | [μονομαχώ]{lang="el"} | sich duellieren |
 | [σκληρός, -ή, -ό]{lang="el"} | hart |
 | [ο αντίπαλος]{lang="el"} | der Gegner |
@@ -820,24 +806,24 @@ dann mit ▶.
 **Ein Vers, zwei Inseln**
 
 Wenn du zwei Kreter auf einem Fest Mantinades singen hörst, wirst du glauben, sie hätten sie
-vorher gekannt. Meistens kannten sie sie nicht. Die Mantinada entsteht in dem Moment, in dem du sie
+vorher gekannt. Oft kannten sie sie nicht: Sie improvisierten. Die Mantinada entsteht in dem Moment, in dem du sie
 sagst: zwei Verse, jeder mit fünfzehn Silben, mit Reim am Ende. Der eine singt eine Mantinada, der
-andere antwortet ihm mit einer neuen, und das Fest kann bis zum Morgen dauern. Darunter spielen
-Lyra und Laute.
+andere antwortet ihm mit einer neuen, und das Fest kann bis zum Morgen dauern. Begleitet werden
+sie von Lyra und Laute.
 
 Dieser Vers, der Fünfzehnsilbler, ist sehr alt. In ihm sind die meisten Volkslieder verfasst, und
 in ihm schrieb Vitsentzos Kornaros um 1600 den *Erotokritos*, zehntausend Verse über die Liebe von
 Erotokritos und Aretousa. Viele Kreter können noch Teile davon auswendig, und manche seiner Verse
 werden als Mantinades gesungen.
 
-Auf Zypern hat derselbe Vers einen anderen Namen und einen härteren Charakter: die Tsiattista. Dort
-„duellieren“ sich zwei Volksdichter vor Publikum. Jeder muss sofort antworten, mit Reim, und wenn
+Auf Zypern lebt derselbe Vers in einer anderen, härteren Gattung: den Tsiattista. Dort
+„duellieren“ sich zwei Sänger vor Publikum. Jeder muss sofort antworten, mit Reim, und wenn
 er kann, den Gegner aufziehen. Wer ohne Antwort bleibt, hat verloren. 2011 nahm die UNESCO die
 Tsiattista in die Liste des immateriellen Kulturerbes auf.
 
 Warum hat dieser Vers so viele Jahrhunderte überdauert? Vielleicht, weil er in einen Atemzug
 passt: acht Silben, eine kleine Pause, noch sieben. Vielleicht, weil der Reim dem Gedächtnis hilft.
-Oder vielleicht, weil es egal ist, ob du Kretisch, Zypriotisch oder Athenisch sprichst: Eine gute
+Oder vielleicht, weil es egal ist, wie du das „und“ aussprichst, kretisch, zypriotisch oder athenisch: Eine gute
 Mantinada vergisst du nicht, wenn du sie einmal gehört hast.
 :::
 
@@ -846,34 +832,33 @@ Mantinada vergisst du nicht, wenn du sie einmal gehört hast.
 
 Richtig oder falsch? Im Chat etwa „1R, 2F …“.
 
-1. Die Sänger lernen ihre Mantinades meist vorher auswendig.
+1. Die Sänger kennen ihre Mantinades immer schon vorher.
 2. Der *Erotokritos* erzählt die Liebesgeschichte zweier Menschen.
 3. Der *Erotokritos* hat rund tausend Verse.
 4. Bei den Tsiattista verliert, wem keine Antwort einfällt.
 5. Die UNESCO hat 2011 die Mantinada ins Kulturerbe aufgenommen.
 6. Der Autor weiß genau, warum der Vers so lange überdauert hat.
 
-Dazu: Welches Wort steht im letzten Absatz dreimal für eine Vermutung? Und der Text hat zwei
-[μπορεί]{lang="el"}: Welches heißt „kann sein“, welches „ist fähig“?
+Dazu: Welches Wort steht im letzten Absatz dreimal für eine Vermutung?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Zu 1 steht die Antwort im zweiten Satz. Zu 5: Was genau wurde aufgenommen?
+Zu 1: Achte auf [συχνά]{lang="el"} im zweiten Satz. Zu 5: Was genau wurde aufgenommen?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Bei [μπορεί]{lang="el"}: Kann da jemand etwas, weil er es schafft, oder lässt es sich durch
-„vielleicht“ ersetzen (Kapitel 22)? Ein Fest hat keine Fähigkeiten.
+Zu 3: [χίλιοι]{lang="el"} sind tausend, [χιλιάδες]{lang="el"} Tausende. Das gesuchte Wort im
+letzten Absatz steht jedes Mal vor [επειδή]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-1. **F:** [Συνήθως δεν τις ήξεραν.]{lang="el"}
+1. **F:** [Συχνά δεν τις ήξεραν.]{lang="el"} „Oft nicht“ widerlegt „immer“.
 2. **R:** Erotokritos und Aretousa.
 3. **F:** [δέκα χιλιάδες]{lang="el"}, zehntausend. Nicht [χίλιοι]{lang="el"} mit
    [χιλιάδες]{lang="el"} verwechseln.
@@ -881,8 +866,5 @@ Bei [μπορεί]{lang="el"}: Kann da jemand etwas, weil er es schafft, oder l�
 5. **F:** aufgenommen wurden die zypriotischen Tsiattista, nicht die Mantinada.
 6. **F:** Er vermutet nur.
 
-Das Wort ist [ίσως]{lang="el"} „vielleicht“. [το γλέντι μπορεί να κρατήσει ως το
-πρωί]{lang="el"} ist „kann sein“: Das Fest dauert unter Umständen bis zum Morgen.
-[αν μπορεί]{lang="el"} bei den Tsiattista ist „ist fähig“: der Sänger, wenn er es schafft.
-Typischer Fehler: Das erste als „das Fest ist fähig zu dauern“ lesen.
+Das Wort ist [ίσως]{lang="el"} „vielleicht“.
 :::

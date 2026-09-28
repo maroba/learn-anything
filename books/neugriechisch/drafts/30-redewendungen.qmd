@@ -193,7 +193,7 @@ Echo-Pronomen (Kapitel 20):
 **Präsens für das, was immer gilt**, und oft gar kein Verb: [Κάθε πράγμα στον καιρό
 του.]{lang="el"}
 
-**Alte Formen.** [Χριστόν]{lang="el"} mit Schluss-[ν]{lang="el"} ist ein gelehrter Akkusativ,
+**Alte Formen.** [Χριστόν]{lang="el"} mit [ν]{lang="el"} am Ende ist ein gelehrter Akkusativ,
 heute sagt man [τον Χριστό]{lang="el"}. Sprichwörter konservieren Grammatik wie Bernstein
 Insekten.
 
@@ -279,7 +279,7 @@ Verb.
 | [τα μαζεύω, τα μάζεψα]{lang="el"} | [ta maˈzevo], [ta ˈmazepsa] | zusammenpacken; einen Rückzieher machen |
 | [Μετά Χριστόν προφήτης.]{lang="el"} | [meˈta xriˈston proˈfitis] | Hinterher ist man immer schlauer. (ironisch, nur verstehen) |
 | [Όποιος έχει τη μύγα, μυγιάζεται.]{lang="el"} | [ˈopços ˈeçi ti ˈmiɣa miˈʝazete] | Getroffene Hunde bellen. (nur verstehen) |
-| [Όποιος ανακατεύεται με τα πίτουρα, τον τρώνε οι κότες.]{lang="el"} | [ˈopços anakaˈtevete me ta ˈpitura ton ˈtrone i ˈkotes] | Wer sich in zwielichtige Sachen einmischt, hat den Schaden. (nur verstehen) |
+| [Όποιος ανακατεύεται με τα πίτουρα, τον τρώνε οι κότες.]{lang="el"} | [ˈopços anakaˈtevete me ta ˈpitura ton ˈdrone i ˈkotes] | Wer sich in zwielichtige Sachen einmischt, hat den Schaden. (nur verstehen) |
 :::
 
 ## Bilder lesen: gleich, anders, tückisch {#sec-redewendungen-bilder}
@@ -445,7 +445,7 @@ Eine Falle, ein gleiches Bild, zwei andere Bilder. In d) steckt wieder das klein
 | [Είπε ο γάιδαρος τον πετεινό κεφάλα.]{lang="el"} | [ˈipe o ˈɣaiðaros tom betiˈno ceˈfala] | Ein Esel schimpft den andern Langohr. (nur verstehen) |
 | [Τα ράσα δεν κάνουν τον παπά.]{lang="el"} | [ta ˈrasa ðeŋ ˈganun tom baˈpa] | Die Kutte macht noch keinen Mönch. (≠ Kleider machen Leute) |
 | [ο παπάς]{lang="el"} | [o paˈpas] | der (orthodoxe) Priester, Pope |
-| [πιάνω κάποιον στα πράσα]{lang="el"} | [ˈpɲano ˈkapçon sta ˈprasa] | jemanden auf frischer Tat ertappen |
+| [πιάνω κάποιον στα πράσα]{lang="el"} | [ˈpçano ˈkapçon sta ˈprasa] | jemanden auf frischer Tat ertappen |
 | [κάνω τον Κινέζο]{lang="el"} | [ˈkano ton ciˈnezo] | so tun, als verstünde man nichts (umg.) |
 :::
 
@@ -938,7 +938,7 @@ wichtigen Treffen.
 
 Andere Ausdrücke kommen vom Meer. In Byzanz und später unter den Venezianern hieß das
 Kriegsschiff mit Rudern [κάτεργο]{lang="el"}, Galeere. Unter den Venezianern ruderten oft auch
-Sträflinge, und aus dem [κάτεργο]{lang="el"} wurde der [κατεργάρης]{lang="el"}. Die übliche
+Sträflinge, und aus dem [κάτεργο]{lang="el"} wurde der [κατεργάρης]{lang="el"}. Die gängige
 Erklärung sagt: Wenn die Pause vorbei war, musste jeder an seinen Platz zurück, auf seine
 Ruderbank. Heute ist ein [κατεργάρης]{lang="el"} ein Schlitzohr, und „Jedes Schlitzohr auf seine
 Bank“ sagen wir, wenn die Ferien oder die Pause zu Ende sind und jeder an seine Arbeit zurückgeht.
@@ -958,7 +958,7 @@ wir die alle glauben würden.
   Frauen, Jahrhunderte nach der Blütezeit Spartas. Ob ihn je eine Mutter so gesagt hat, weiß
   niemand.
 - **Galeere:** Dass [κατεργάρης]{lang="el"} von [κάτεργο]{lang="el"} kommt, steht in den
-  Wörterbüchern. Das Bild der Ruderbank für die Wendung ist die übliche, naheliegende Erklärung,
+  Wörterbüchern. Das Bild der Ruderbank für die Wendung ist die gängige, naheliegende Erklärung,
   aber keine Quelle belegt, wie genau sie entstand.
 :::
 
@@ -1029,7 +1029,7 @@ Worts beweist nicht, wie die heutige Wendung entstand.
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [Φάγαμε μαζί ψωμί κι αλάτι.]{lang="el"} | [ˈfaɣame maˈzi psoˈmi caˈlati] | Wir kennen uns seit Ewigkeiten, haben viel zusammen erlebt. |
-| [Ή ταν ή επί τας.]{lang="el"} | [i tan i eˈpi tas] | Alles oder nichts. (gehoben, halb im Scherz) |
+| [Ή ταν ή επί τας.]{lang="el"} | [i tan i eˈpi tas] | Alles oder nichts. (gehoben, halb im Scherz, nur verstehen) |
 | [ο κατεργάρης]{lang="el"} | [o katerˈɣaris] | das Schlitzohr, der Gauner (oft scherzhaft) |
 | [Κάθε κατεργάρης στον πάγκο του.]{lang="el"} | [ˈkaθe katerˈɣaris stom ˈbago tu] | Zurück an die Arbeit! (scherzhaft, nach Ferien oder einer Pause) |
 :::
