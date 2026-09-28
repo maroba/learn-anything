@@ -548,7 +548,7 @@ Die griechischen Texte und Vokabeln kannst du mit ▶ anhören. Die synthetische
 unterscheiden Amt und Freundeskreis nur in den Wörtern, nicht im Ton; den Ton liefert der
 Hör-Auftrag am Ende.
 
-Ein **ΚΕΠ** ([Κέντρο Εξυπηρέτησης Πολιτών]{lang="el"}, „Bürgerservice-Zentrum“) ist das
+Ein **[ΚΕΠ]{lang="el"}** ([Κέντρο Εξυπηρέτησης Πολιτών]{lang="el"}, „Bürgerservice-Zentrum“) ist das
 griechische Bürgeramt. Man zieht eine Nummer und wartet.
 
 ::: {lang="el"}

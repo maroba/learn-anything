@@ -9,8 +9,8 @@
 | 01 Auffrischung: Klang und Präsens-Gerüst | veröffentlicht | Welle 1; Audio vollständig |
 | 02 Der zweite Stamm: der Aorist | veröffentlicht | Probekapitel; Reviews abgeschlossen; Audio vollständig |
 | 03 Die unregelmäßigen Aoriste | veröffentlicht | Welle 1; Audio vollständig |
-| 04 Erzählen: Imperfekt und Aspekt | veröffentlicht | Welle 2; Audio läuft |
-| 05 Der zweite Stamm in der Zukunft: θα und να | im Review | Welle 3; Übungen fertig, Reviews laufen |
+| 04 Erzählen: Imperfekt und Aspekt | veröffentlicht | Welle 2; Audio vollständig |
+| 05 Der zweite Stamm in der Zukunft: θα und να | Konsistenz | Welle 3; überarbeitet (8 000 Wörter) |
 | 06 Auf dem Markt: Nomen, Adjektive, Zahlen | fertig, wartet auf 05 | Welle 2; überarbeitet, erscheint nach Kapitel 5 |
 | 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | Entwurf | Welle 3 |
 
