@@ -25,7 +25,7 @@
 | 19 Müde, aber glücklich: Partizip und Gerundium | veröffentlicht | Welle 8; Audio vollständig |
 | 20 Mit Nachdruck: starke Pronomen und Doppelung | Konsistenz | Welle 9; überarbeitet |
 | 21 So spricht man wirklich: gesprochene Sprache | im Review | Welle 10; Übungen fertig |
-| 22 Vielleicht, wahrscheinlich, sicher: Modalität | Überarbeitung | Welle 9; beide Reviews da |
+| 22 Vielleicht, wahrscheinlich, sicher: Modalität | überarbeitet | Welle 9; Konsistenz nach 20 (Glossar) |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 

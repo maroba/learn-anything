@@ -267,9 +267,9 @@ nach [να]{lang="el"} eine Vergangenheit stehen. Sagt er, was jemand **will, ka
 
 Zur ersten Gruppe gehören [πρέπει να]{lang="el"} als Vermutung, [μπορεί να, ίσως να, ενδέχεται
 να, (δεν) αποκλείεται να]{lang="el"} (alle in diesem Kapitel) und [φέρεται να]{lang="el"}. Nach
-ihnen steht ein Verb wie nach [ότι]{lang="el"}: im Präsens oder in jeder Vergangenheit, aber nie
-mit [θα]{lang="el"}. Zur zweiten gehören [θέλω, μπορώ, πρέπει]{lang="el"} als Pflicht und
-[για να]{lang="el"}. Wünsche mit [μακάρι να]{lang="el"} folgen in Kapitel 24.
+ihnen steht für Kommendes die zeitlose Form, sonst das Präsens oder jede Vergangenheit, aber nie
+[θα]{lang="el"}. Zur zweiten gehören [θέλω, μπορώ]{lang="el"}, [πρέπει]{lang="el"} als
+Notwendigkeit und [για να]{lang="el"}. Wünsche mit [μακάρι να]{lang="el"} folgen in Kapitel 24.
 
 Erkennen kannst du die Vergangenheit an der Form nach [να]{lang="el"}: Augment und Endung
 ([έ-φυγ-ε]{lang="el"}, [κοιμ-όταν]{lang="el"}) oder [έχει]{lang="el"} + Form auf
@@ -859,7 +859,7 @@ wähle. Im Chat: „1a, 2b, …“.
 
 **Zweiter Durchgang,** mit Text: Welches Wort macht die Aussagen 1 bis 5 und 7 sicher oder
 unsicher, und welche Stufe aus Übung 22.5 passt? Und die beiden [πρέπει]{lang="el"} in den
-letzten Absätzen: Notwendigkeit oder Vermutung?
+letzten Absätzen: Notwendigkeit, Vermutung über das Jetzt oder Erwartung?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -872,8 +872,8 @@ Zahlen kommen paarweise mit [με]{lang="el"}: [πέντε με έξι]{lang="el
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Frage 5: [Μπορεί …, μπορεί και …]{lang="el"}. Bei den zwei [πρέπει]{lang="el"}: „wohl“-Probe
-und Aspekt.
+Frage 5: [Μπορεί …, μπορεί και …]{lang="el"}. Bei den zwei [πρέπει]{lang="el"}: Beide stehen
+mit Foto, also bleibt Notwendigkeit oder Erwartung. Die „wohl“-Probe entscheidet.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -883,14 +883,14 @@ und Aspekt.
 
 **Zweiter Durchgang**
 
-- 1: [αναμένεται]{lang="el"} (1–2); 2: [δεν αποκλείεται]{lang="el"} (4); 3: [θα φυσάει]{lang="el"},
+- 1: [αναμένεται]{lang="el"} (1–2); 2: [δεν αποκλείεται]{lang="el"} (3 oder 4); 3: [θα φυσάει]{lang="el"},
   Vorhersage ohne Einschränkung (1); 4: [ενδέχεται]{lang="el"} (3); 5: [μπορεί …, μπορεί
   και]{lang="el"} (3); 7: [μάλλον θα]{lang="el"} (2).
 - [πρέπει να πέσει]{lang="el"}: keine Pflicht für die Temperatur, sondern Erwartung, „dürfte
-  sinken“. [Πρέπει … να ρωτήσει]{lang="el"}: ein Rat, also Notwendigkeit. Zweimal Foto; es
-  entscheidet der Zusammenhang.
+  sinken“; die „wohl“-Probe passt. [Πρέπει … να ρωτήσει]{lang="el"}: ein Rat, also
+  Notwendigkeit; „Er wird wohl fragen“ wäre ein anderer Sinn. Eine Vermutung über das Jetzt
+  (Film) kommt nicht vor.
 :::
-<!-- CHECK: Übung 22.6 – Einstufung „πρέπει να πέσει“ als Erwartung hängt an der offenen CHECK-Frage in sec-modal-prepei (πρέπει να + Foto als Erwartung). -->
 
 
 ::: {.callout-note collapse="true" .translation}
@@ -928,21 +928,22 @@ Meiden Sie die Sonne von zwölf bis fünf, und trinken Sie viel Wasser. Einen sc
 | [κατά δύο με τρεις βαθμούς]{lang="el"} | um zwei bis drei Grad |
 :::
 
-Echte Wetterberichte findest du auf [ERTflix](https://www.ertflix.gr): Die Nachrichtensendungen
-([δελτίο ειδήσεων]{lang="el"}) enden meist mit dem Wetter.
-<!-- CHECK: Enden die ERT-Nachrichtensendungen auf ERTflix in der Regel mit einem Wetterteil ([ο καιρός]{lang="el"})? Gibt es dort eigene Wetter-Clips? -->
+Echte Wetterberichte findest du auf [ERTflix](https://www.ertflix.gr): Dort gibt es eigene
+Wetterclips (Suche: [δελτίο καιρού]{lang="el"}); in Nachrichtensendungen
+([δελτίο ειδήσεων]{lang="el"}) kommt das Wetter meist gegen Ende.
 
 ::: {.callout-note .exercise}
 ## Übung 22.7: Hör-Auftrag
 
-Such auf ERTflix eine Nachrichtensendung ([δελτίο ειδήσεων]{lang="el"}) und spul zum Wetterteil
-([ο καιρός]{lang="el"}), meist am Ende. Zwei bis drei Minuten reichen.
+Such auf ERTflix einen Wetterclip ([δελτίο καιρού]{lang="el"}) oder spul in einer
+Nachrichtensendung zum Wetter ([ο καιρός]{lang="el"}), meist gegen Ende. Zwei bis drei Minuten
+reichen.
 
 1. **Ohne Untertitel:** Merk dir drei Dinge: den Höchstwert für Athen, den Wind in der Ägäis
-   (zwei Zahlen, und ob [τοπικά]{lang="el"} folgt) und die Richtung. Mach außerdem für jedes
-   [αναμένεται, ενδέχεται, δεν αποκλείεται/-ονται, πιθανόν, μάλλον, μπορεί]{lang="el"} einen
-   Strich.
-2. **Mit griechischen Untertiteln** (falls vorhanden): Prüf die drei Angaben und die Striche.
+   (zwei Zahlen, und ob [τοπικά]{lang="el"} folgt) und die Richtung. Zähl außerdem an den Fingern
+   jedes [αναμένεται, ενδέχεται, δεν αποκλείεται/-ονται, πιθανόν, μάλλον, μπορεί]{lang="el"}
+   mit.
+2. **Mit griechischen Untertiteln** (falls vorhanden): Prüf die drei Angaben und deine Zählung.
    Dann sag den Wetterbericht für Athen laut in zwei Sätzen nach, einen davon mit einem
    Modalwort.
 :::
@@ -951,14 +952,14 @@ Such auf ERTflix eine Nachrichtensendung ([δελτίο ειδήσεων]{lang="
 ## Hinweis 1
 
 Die Temperatur kommt als [από … έως]{lang="el"} oder mit [ο υδράργυρος]{lang="el"}. Im Winter
-gibt es keinen Meltemi; dann heißt der Wind oft [νότιοι]{lang="el"} „südliche“.
+wechseln Nord- und Südwinde; [νότιοι]{lang="el"} „südliche“ bringen oft Regen.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
 Die förmlichen Wörter sind vorn betont und hinten schnell: [anaˈmenete], [enˈðeçete],
-[apoˈkliode]. Hörst du nur „…mene…“ oder „…ðeçe…“, zählt der Strich.
+[apoˈkliode]. Hörst du nur „…mene…“ oder „…ðeçe…“, zählt es mit.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -966,8 +967,7 @@ Die förmlichen Wörter sind vorn betont und hinten schnell: [anaˈmenete], [en�
 
 Keine feste Lösung. Stimmen zwei der drei Angaben, ist das ein gutes Ergebnis. **Häufig
 verwechselt:** [αναμένεται]{lang="el"} (erwartet) und [ενδέχεται]{lang="el"} (kann sein), weil
-beide auf [-εται]{lang="el"} enden. Ein Muster zum
-Nachsprechen: [Στην Αθήνα η θερμοκρασία θα φτάσει τους τριάντα πέντε βαθμούς. Το βράδυ ενδέχεται
+beide auf [-εται]{lang="el"} enden. Ein Muster zum Nachsprechen: [Στην Αθήνα η θερμοκρασία θα φτάσει τους τριάντα πέντε βαθμούς. Το βράδυ ενδέχεται
 να βρέξει.]{lang="el"}
 :::
 
@@ -977,8 +977,6 @@ Nachsprechen: [Στην Αθήνα η θερμοκρασία θα φτάσει �
 | [ο υδράργυρος]{lang="el"} | [o iˈðrarʝiros] | das Quecksilber (in Berichten: die Temperatur) |
 | [η καταιγίδα]{lang="el"} | [i kateˈʝiða] | das Gewitter, Unwetter |
 | [ο μετεωρολόγος, η μετεωρολόγος]{lang="el"} | [o meteoroˈloɣos] | der Meteorologe, die Meteorologin |
-| [η δροσιά]{lang="el"} | [i ðroˈsça] | die Kühle, Abkühlung |
-| [δροσερός, -ή, -ό]{lang="el"} | [ðroseˈros] | kühl, frisch (angenehm) |
 | [βόρειος, -α, -ο]{lang="el"} | [ˈvorios] | nördlich, Nord- |
 | [τοπικά]{lang="el"} | [topiˈka] | örtlich |
 | [ο κλιματισμός]{lang="el"} | [o klimatizˈmos] | die Klimaanlage (System); das Gerät: [το κλιματιστικό]{lang="el"} |
@@ -989,16 +987,20 @@ Nachsprechen: [Στην Αθήνα η θερμοκρασία θα φτάσει �
 
 - [πρέπει να]{lang="el"} drückt **Notwendigkeit** („muss“) oder **Vermutung** („wohl“) aus.
   „wohl“-Probe; Film über das Jetzt ist meist Vermutung, Foto meist Notwendigkeit oder
-  Erwartung ([πρέπει να έρθει σε λίγο]{lang="el"}).
-- **Vermutung über Vergangenes:** [πρέπει]{lang="el"} bleibt Präsens, nach [να]{lang="el"}
-  folgt die Vergangenheit: [πρέπει να έφυγε / να κοιμόταν / να έχει φύγει]{lang="el"}. Die einzige
-  Stelle, an der nach [να]{lang="el"} ein Aorist stehen darf. Notwendigkeit damals:
-  [έπρεπε να φύγει]{lang="el"}.
+  Erwartung, die Vermutung über Kommendes ([πρέπει να έρθει σε λίγο]{lang="el"}).
+- **Wo steht die Zeit?** Sagt der Ausdruck vor [να]{lang="el"}, wie sicher etwas ist oder woher
+  man es weiß, darf nach [να]{lang="el"} eine Vergangenheit stehen. Sagt er, was jemand will,
+  kann oder muss oder wozu etwas dient, folgt die zeitlose [να]{lang="el"}-Form.
+- Also: [πρέπει να έφυγε / να κοιμόταν / να έχει φύγει]{lang="el"} „ist wohl gefahren / hat wohl
+  geschlafen / ist wohl schon weg“, ebenso nach [μπορεί να, ίσως να, ενδέχεται να,
+  (δεν) αποκλείεται να, φέρεται να]{lang="el"}. Aber Notwendigkeit damals: [έπρεπε να
+  φύγει]{lang="el"}. Nie [θα]{lang="el"} nach [να]{lang="el"}.
 - [μπορεί να]{lang="el"} (unveränderlich) = „vielleicht“; [μπορώ να]{lang="el"} (konjugiert) =
   „können“. [Μπορεί να βρέξει]{lang="el"} (Ereignis), [μπορεί να βρέχει]{lang="el"} (jetzt),
   [μπορεί να έβρεξε]{lang="el"} (vorbei). [Δεν μπορεί!]{lang="el"}
 - [ίσως, μάλλον, σίγουρα]{lang="el"} + normaler Satz; Zukunft [μάλλον θα, σίγουρα θα]{lang="el"},
-  nach [ίσως]{lang="el"} auch die zeitlose Form. [θα]{lang="el"} + Präsens vermutet wie „wird wohl“.
+  nach [ίσως]{lang="el"} auch die zeitlose Form. [θα]{lang="el"} + Präsens oder Perfekt vermutet
+  wie „wird wohl“.
 - Skala (Tendenz): [σίγουρα – πρέπει να – μάλλον – ίσως/μπορεί να – δεν αποκλείεται –
   μάλλον όχι – αποκλείεται]{lang="el"}; in Vorhersagen [αναμένεται, ενδέχεται, δεν
   αποκλείονται]{lang="el"}.
@@ -1015,7 +1017,7 @@ mit Wortschatz, dann mit ▶.
 διαφορετικές προγνώσεις και διαλέγεις αυτή που σου αρέσει. Οι πραγματικοί μετεωρολόγοι όμως
 σπάνια λένε «σίγουρα». Λένε «μάλλον», «ενδέχεται», «δεν αποκλείεται». Δεν το κάνουν επειδή δεν
 ξέρουν τη δουλειά τους. Η ατμόσφαιρα είναι ένα χαοτικό σύστημα: μια μικρή αλλαγή σήμερα μπορεί να
-γίνει μεγάλη διαφορά σε μια εβδομάδα. Γι’ αυτό η πρόγνωση για αύριο είναι σχεδόν πάντα καλή, ενώ
+κάνει μεγάλη διαφορά σε μια εβδομάδα. Γι’ αυτό η πρόγνωση για αύριο είναι σχεδόν πάντα καλή, ενώ
 η πρόγνωση για δέκα μέρες μπορεί να πέσει έξω. Πάντως οι προγνώσεις κερδίζουν περίπου μία μέρα
 κάθε δέκα χρόνια: η πρόγνωση για έξι μέρες είναι σήμερα τόσο καλή όσο ήταν η πρόγνωση για πέντε
 μέρες πριν από δέκα χρόνια.
@@ -1028,7 +1030,7 @@ mit Wortschatz, dann mit ▶.
 ζούσαν τότε στην Αθήνα πρέπει να θυμούνται ακόμα εκείνη τη μέρα. Για σαράντα τέσσερα χρόνια αυτό
 ήταν το ρεκόρ της Ευρώπης, μέχρι το 2021, όταν η Σικελία έφτασε τους 48,8. Σήμερα, όταν έρχεται
 καύσωνας, η Ακρόπολη κλείνει το μεσημέρι και οι δήμοι ανοίγουν αίθουσες με κλιματισμό. Και οι
-επιστήμονες λένε ότι οι καύσωνες θα γίνονται πιο συχνοί και πιο μεγάλοι. Εδώ δε λένε «ίσως».
+επιστήμονες λένε ότι οι καύσωνες θα γίνονται πιο συχνοί και πιο μεγάλης διάρκειας. Εδώ δε λένε «ίσως».
 
 Και το μελτέμι; Το καλοκαίρι πάνω από τα Βαλκάνια η πίεση είναι συνήθως υψηλή, ενώ πάνω από την
 Τουρκία και τη Μέση Ανατολή είναι χαμηλή. Ο αέρας τρέχει από τον βορρά προς τον νότο, και το Αιγαίο
@@ -1039,7 +1041,6 @@ mit Wortschatz, dann mit ▶.
 
 Κι αν η πρόγνωση πέσει έξω; Κανένα πρόβλημα. Ο μετεωρολόγος θα σου πει ότι είχε πει «πιθανόν».
 :::
-<!-- CHECK: (1) 10.7.1977 48,0 °C in Elefsina und Tatoi, bis 2021 europäischer Rekord (Sizilien 48,8 °C, 11.8.2021, von der WMO anerkannt); (2) Prognosegüte „etwa ein Tag pro Jahrzehnt“ (Bauer, Thorpe, Brunet 2015, Nature 525:47–55); (3) Regenwahrscheinlichkeit als Wahrscheinlichkeit für messbaren Niederschlag an einem Punkt, hier vereinfacht; (4) Akropolis-Schließung mittags bei Hitzewellen (2023, 2024) und klimatisierte Räume der Gemeinden; (5) Meltemi: Druckgefälle zwischen Hoch über dem Balkan und Hitzetief über Anatolien/Nahost; (6) Hitzewellen meist mehrere Tage vorher vorhersagbar -->
 
 Zwei Muster helfen beim Lesen:
 
@@ -1060,6 +1061,7 @@ Zwei Muster helfen beim Lesen:
 | [το θερμόμετρο]{lang="el"} | das Thermometer |
 | [η Ελευσίνα, το Τατόι]{lang="el"} | Elefsina (das antike Eleusis), Tatoi (bei Athen) |
 | [ο δήμος]{lang="el"} | die Gemeinde, Stadtverwaltung |
+| [πιο μεγάλης διάρκειας]{lang="el"} | länger andauernd ([η διάρκεια]{lang="el"} die Dauer, Kapitel 14) |
 | [η αίθουσα]{lang="el"} | der Saal, Raum |
 | [η πίεση]{lang="el"} | hier: der Luftdruck (Kapitel 18: Blutdruck) |
 | [η Μέση Ανατολή]{lang="el"} | der Nahe Osten |
@@ -1143,8 +1145,9 @@ bis 2021 ([μέχρι το 2021]{lang="el"}). 5: umgekehrt, über dem Balkan hoc
 
 - Vermutung: [πρέπει να θυμούνται]{lang="el"} (jetzt, Film), [πρέπει να το ήξεραν]{lang="el"}
   (Vergangenheit).
-- „vielleicht / es kann sein“: [μπορεί να γίνει]{lang="el"} (zweimal: Änderung, Feuer),
-  [μπορεί να πέσει έξω]{lang="el"}, [μπορεί να κάνει τριάντα δύο]{lang="el"}. In der dritten
+- „vielleicht / es kann sein“: [μπορεί να κάνει μεγάλη διαφορά]{lang="el"},
+  [μπορεί να πέσει έξω]{lang="el"}, [μπορεί να κάνει τριάντα δύο]{lang="el"}, [μπορεί να γίνει
+  μεγάλη]{lang="el"} (das Feuer). In der dritten
   Person passt auch „kann“; gemeint ist aber Möglichkeit, keine Fähigkeit.
 - Notwendigkeit: keine. Das ist der Punkt von Hinweis 2.
 - Vorsicht bei [θα γίνονται]{lang="el"}: eine Vorhersage, keine Vermutung über das Jetzt.
