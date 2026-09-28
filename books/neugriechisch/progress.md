@@ -11,7 +11,7 @@
 | 03 Die unregelmäßigen Aoriste | veröffentlicht | Welle 1; Audio vollständig |
 | 04 Erzählen: Imperfekt und Aspekt | Übungen | Welle 2; Entwurf fertig |
 | 05 Der zweite Stamm in der Zukunft: θα und να | Entwurf | Welle 3 |
-| 06 Auf dem Markt: Nomen, Adjektive, Zahlen | Übungen | Welle 2; Entwurf fertig |
+| 06 Auf dem Markt: Nomen, Adjektive, Zahlen | im Review | Welle 2; Übungen fertig |
 
 ## Plan für /write all (Wellen nach Voraussetzungen)
 

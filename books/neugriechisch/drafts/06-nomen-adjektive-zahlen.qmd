@@ -723,7 +723,85 @@ heißt [δίπλα στον ψαρά]{lang="el"}: Adverb, [σε]{lang="el"}, Akk
 auch [δίπλα από τον ψαρά]{lang="el"}; mit [σε]{lang="el"} liegst du immer richtig.
 :::
 
-<!-- EXERCISE: σε mit Artikel zusammenziehen (στον/στη(ν)/στο/στους/στις/στα, Schluss-ν, δίπλα σε/απέναντι από) in einer Wegbeschreibung auf dem Markt, Lückentext als Auswahl mit nummerierten Optionen bzw. mündlich übersetzen; Schwierigkeit 1. Übung 6.3 -->
+::: {.callout-note .exercise}
+## Übung 6.3: Die zweite Sprachnachricht
+
+**Teil A: auswählen.** Noch eine Wegbeschreibung, diesmal zu einem anderen Markt. Was gehört in
+die Lücken?
+
+**(a)** [στον]{lang="el"} · **(b)** [στη]{lang="el"} · **(c)** [στην]{lang="el"} ·
+**(d)** [στο]{lang="el"} · **(e)** [στους]{lang="el"} · **(f)** [στις]{lang="el"} ·
+**(g)** [στα]{lang="el"} · **(h)** [από τον]{lang="el"} · **(i)** [από το]{lang="el"}
+
+::: {lang="el" .no-audio}
+Η λαϊκή μας είναι κάθε Παρασκευή. Πάμε (1) … λαϊκή μαζί; Ο κυρ Νίκος με τα λεμόνια είναι (2) …
+αρχή, (3) … τρίτο πάγκο, δίπλα (4) … περίπτερο. Για αυγά πήγαινε (5) … κυρία από τα Μέγαρα,
+απέναντι (6) … ψαρά. Τα χόρτα είναι (7) … τέλος, (8) … παραγωγούς. Και έλα (9) … οχτώ,
+όχι (10) … έντεκα.
+:::
+
+Im Chat reicht „1b, 2c …“. Nicht jede Auswahl wird gebraucht.
+
+**Teil B: mündlich übersetzen.**
+
+1. Ich bin auf dem Markt, neben dem Fischhändler.
+2. Die Tüte ist im Einkaufswagen.
+3. Um acht fahren wir nach Megara.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Bestimm zu jeder Lücke den Artikel, den das Nomen im Akkusativ hätte: [τον ψαρά, τη λαϊκή, την
+αρχή]{lang="el"} … Dann häng ihn an [σ-]{lang="el"}. Uhrzeiten denken [η ώρα]{lang="el"} mit.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zwei Stellen verlangen einen Blick auf den Anlaut: Vor [λ]{lang="el"} fällt das
+[ν]{lang="el"} von [στην]{lang="el"}, vor Vokal und vor [κ]{lang="el"} bleibt es. Und eins der
+Ortsadverbien nimmt nicht [σε]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1b, 2c, 3a, 4d, 5c, 6h, 7d, 8e, 9f, 10f.**
+
+::: {lang="el"}
+Η λαϊκή μας είναι κάθε Παρασκευή. Πάμε στη λαϊκή μαζί; Ο κυρ Νίκος με τα λεμόνια είναι στην
+αρχή, στον τρίτο πάγκο, δίπλα στο περίπτερο. Για αυγά πήγαινε στην κυρία από τα Μέγαρα,
+απέναντι από τον ψαρά. Τα χόρτα είναι στο τέλος, στους παραγωγούς. Και έλα στις οχτώ, όχι στις
+έντεκα.
+:::
+
+- (1) [στη λαϊκή]{lang="el"}: vor [λ]{lang="el"} ohne [ν]{lang="el"} (Schluss-ν-Regel aus
+  Kapitel 1).
+- (2) [στην αρχή]{lang="el"}: vor Vokal mit [ν]{lang="el"}.
+- (3) [στον τρίτο πάγκο]{lang="el"}: männlich, also [στον]{lang="el"}, nie \*[στο]{lang="el"}.
+  Der häufigste Fehler in dieser Übung, weil das [ν]{lang="el"} beim Hören leicht untergeht.
+- (4) [δίπλα στο περίπτερο]{lang="el"}: sächlich.
+- (5) [στην κυρία]{lang="el"}: [σε]{lang="el"} bei Personen, „geh zu der Frau“. Vor
+  [κ]{lang="el"} bleibt das [ν]{lang="el"}.
+- (6) [απέναντι από τον ψαρά]{lang="el"}, im Gespräch auch [απέναντι απ’ τον
+  ψαρά]{lang="el"}. \*[απέναντι στον ψαρά]{lang="el"} ist die Falle.
+- (7) [στο τέλος]{lang="el"}: [το τέλος]{lang="el"} ist sächlich wie [το λάθος]{lang="el"}.
+- (8) [στους παραγωγούς]{lang="el"}: männlich Plural, Akkusativ.
+- (9), (10) [στις οχτώ, στις έντεκα]{lang="el"}: Uhrzeiten sind weiblich Plural.
+
+[στα]{lang="el"} bleibt übrig; es kommt in Teil B.
+
+**Teil B**
+
+1. [Είμαι στη λαϊκή, δίπλα στον ψαρά.]{lang="el"} Ohne [σε]{lang="el"}, also \*[δίπλα τον
+   ψαρά]{lang="el"}, fehlt das Bindeglied.
+2. [Η σακούλα είναι στο καρότσι.]{lang="el"} Auch richtig: [μέσα στο καρότσι]{lang="el"}.
+3. [Στις οχτώ πάμε στα Μέγαρα.]{lang="el"} [τα Μέγαρα]{lang="el"} ist ein Plural, daher
+   [στα]{lang="el"}. „Fahren“ heißt hier einfach [πάω]{lang="el"}; dass es „nach“ Megara geht und
+   nicht „in“ Megara, sagt das Verb, nicht die Präposition. Die Zeitangabe darf auch ans Ende:
+   [Πάμε στα Μέγαρα στις οχτώ.]{lang="el"}
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -897,7 +975,89 @@ Akkusativ: [Θέλω ένα ματσάκι άνηθο]{lang="el"}, von [ο άν�
 Und zum Schluss das Geld: [Ορίστε, δέκα ευρώ.]{lang="el"} – [Και τα ρέστα σας, ενάμισι
 ευρώ.]{lang="el"} (Und Ihr Wechselgeld, eins fünfzig.)
 
-<!-- EXERCISE: Mengen und Preise mit Zahlen angeben, Genuskongruenz bei 1, 3, 4 (τρεις/τρία, τέσσερις/τέσσερα, ένας/μία/ένα, auch 13/21/23; Preise sächlich, Uhrzeit weiblich; ενάμισι/μιάμιση, δυόμισι): eine Einkaufsliste bzw. Preisschilder laut vorlesen und mündlich übersetzen; Schwierigkeit 2. Übung 6.4 -->
+::: {.callout-note .exercise}
+## Übung 6.4: Pappschilder
+
+**Teil A: vorlesen.** Lies die Schilder laut, so wie der Händler sie ausrufen würde, mit Zahl
+und Preis in Worten.
+
+::: {lang="el" .no-audio}
+1. ΛΕΜΟΝΙΑ 4 ΤΕΜ. 1,00 €
+2. ΠΙΠΕΡΙΕΣ 3 ΤΕΜ. 1,50 €
+3. ΜΕΛΙΤΖΑΝΕΣ 1,80 € ΤΟ ΚΙΛΟ
+4. ΑΓΓΟΥΡΙΑ 3 ΤΕΜ. 1,00 €
+5. ΚΑΡΠΟΥΖΙ 0,40 € ΤΟ ΚΙΛΟ
+6. ΠΑΤΑΤΕΣ 4 ΚΙΛΑ 3,00 €
+7. ΜΑΪΝΤΑΝΟΣ 0,70 € ΤΟ ΜΑΤΣΑΚΙ
+8. ΦΕΤΑ 200 ΓΡ. 2,40 €
+:::
+
+[ΓΡ.]{lang="el"} steht für [γραμμάρια]{lang="el"}.
+
+**Teil B: mündlich übersetzen.**
+
+1. Drei Tomaten und vier Gurken, bitte.
+2. Ich komme um vier.
+3. Ein halbes Kilo Feta und anderthalb Kilo Tomaten.
+4. Ich will dreizehn Paprika und einundzwanzig Zitronen.
+5. Anderthalb Stunden für zweieinhalb Kilo Kartoffeln!
+6. Ein Erzeuger aus Kreta hat vier Stände.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Frag bei jeder Zahl: Was wird gezählt? Auf dem Schild steht das Gezählte nicht immer direkt
+hinter der Zahl. Euro und Cent sind sächlich, Uhrzeiten weiblich.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+In Schild 6 zählt die 4 die Kilos, nicht die Kartoffeln. „Anderthalb“ hat drei Formen:
+[ενάμισης, μιάμιση, ενάμισι]{lang="el"}. Bei 13 und 21 entscheidet die letzte Stelle.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+1. [Τέσσερα λεμόνια ένα ευρώ.]{lang="el"} [το λεμόνι]{lang="el"} ist sächlich.
+2. [Τρεις πιπεριές ενάμισι ευρώ.]{lang="el"} Auch: [ένα και πενήντα]{lang="el"}.
+   [η πιπεριά]{lang="el"} ist weiblich, also [τρεις]{lang="el"}.
+3. [Μελιτζάνες ένα κι ογδόντα το κιλό.]{lang="el"} Vor Vokal wird [και]{lang="el"} zu
+   [κι]{lang="el"}.
+4. [Τρία αγγούρια ένα ευρώ.]{lang="el"}
+5. [Καρπούζι σαράντα λεπτά το κιλό.]{lang="el"}
+6. [Τέσσερα κιλά πατάτες τρία ευρώ.]{lang="el"} Die Hauptfalle: \*[τέσσερις κιλά]{lang="el"},
+   weil [πατάτες]{lang="el"} weiblich ist. Gezählt werden aber die Kilos. Und der Preis ist
+   [τρία]{lang="el"}, nie \*[τρεις ευρώ]{lang="el"}.
+7. [Μαϊντανός εβδομήντα λεπτά το ματσάκι.]{lang="el"}
+8. [Διακόσια γραμμάρια φέτα δύο και σαράντα.]{lang="el"} [το γραμμάριο]{lang="el"} ist
+   sächlich, also [διακόσια]{lang="el"}; [φέτα]{lang="el"} bleibt im Singular, weil man Käse
+   nicht zählt.
+
+**Teil B**
+
+1. [Τρεις ντομάτες και τέσσερα αγγούρια, παρακαλώ.]{lang="el"} Zwei Genera, zwei Formen.
+2. [Έρχομαι στις τέσσερις.]{lang="el"} [ˈerxome stis ˈteseris]. \*[στις τέσσερα]{lang="el"} ist
+   der Spiegelfehler zu \*[τρεις ευρώ]{lang="el"}.
+3. [Μισό κιλό φέτα και ενάμισι κιλό ντομάτες.]{lang="el"} [μισό]{lang="el"} und
+   [ενάμισι]{lang="el"} richten sich nach [το κιλό]{lang="el"}, nicht nach dem Käse oder den
+   Tomaten; \*[μισή κιλό]{lang="el"} ist der Fehler, zu dem [η φέτα]{lang="el"} verleitet.
+4. [Θέλω δεκατρείς πιπεριές και είκοσι ένα λεμόνια.]{lang="el"} [δεκατρείς]{lang="el"}
+   [ðekaˈtris] wie [τρεις]{lang="el"}, [είκοσι ένα]{lang="el"} wie [ένα]{lang="el"}, das Nomen
+   trotzdem im Plural. \*[δεκατρία πιπεριές]{lang="el"} oder \*[είκοσι μία λεμόνια]{lang="el"}
+   verwechseln die Genera.
+5. [Μιάμιση ώρα για δυόμισι κιλά πατάτες!]{lang="el"} [μιάμιση]{lang="el"} wegen
+   [η ώρα]{lang="el"}; \*[ενάμισι ώρα]{lang="el"} ist der häufigste Fehler. Nach
+   [δυόμισι]{lang="el"} steht der Plural [κιλά]{lang="el"}, nach [ενάμισι]{lang="el"} in Satz 3
+   der Singular [κιλό]{lang="el"}.
+6. [Ένας παραγωγός από την Κρήτη έχει τέσσερις πάγκους.]{lang="el"} Männlich, also
+   [τέσσερις]{lang="el"}, und [πάγκους]{lang="el"} im Akkusativ Plural. Die Zahl selbst ändert
+   sich im Akkusativ nicht.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -1041,7 +1201,89 @@ gern auf der drittletzten Silbe betont werden, passiert das ständig: [το πρ
 μέθοδός μου]{lang="el"}.
 :::
 
-<!-- EXERCISE: Internationalismen und ihr Genus (το πρόβλημα, η μέθοδος, η ανάλυση, ο τουρισμός, το σούπερ μάρκετ …): Genus aus der Endung bestimmen und mit passendem Adjektiv/Artikel laut sagen, Auswahl mit nummerierten Optionen; Vergleich mit deutschem/spanischem Genus; Schwierigkeit 2. Übung 6.5 -->
+::: {.callout-note .exercise}
+## Übung 6.5: Welcher Artikel?
+
+**Teil A: Genus erkennen.** Welcher Artikel gehört davor, (a) [ο]{lang="el"}, (b)
+[η]{lang="el"} oder (c) [το]{lang="el"}? Sag danach den Plural mit Artikel laut.
+
+::: {lang="el" .no-audio}
+1. πρόγραμμα
+2. διάγνωση
+3. οργανισμός
+4. φιλοσοφία
+5. περίοδος
+6. ταξί
+7. άρωμα
+8. σύνθεση
+:::
+
+**Teil B: auswählen.** Welche Wortgruppe ist richtig?
+
+1. eine gute Methode: (a) [ένας καλός μέθοδος]{lang="el"} (b) [μια καλή
+   μέθοδος]{lang="el"} (c) [μια καλός μέθοδος]{lang="el"}
+2. das große Problem: (a) [ο μεγάλος πρόβλημα]{lang="el"} (b) [η μεγάλη
+   πρόβλημα]{lang="el"} (c) [το μεγάλο πρόβλημα]{lang="el"}
+3. die neuen Supermärkte: (a) [τα νέα σούπερ μάρκετ]{lang="el"} (b) [οι νέοι σούπερ
+   μάρκετ]{lang="el"} (c) [τα νέα σούπερ μάρκετς]{lang="el"}
+4. viele Dialekte: (a) [πολλοί διάλεκτοι]{lang="el"} (b) [πολλές
+   διάλεκτοι]{lang="el"} (c) [πολλά διάλεκτα]{lang="el"}
+
+Im Chat reicht „A: 1c, 2b … B: 1b …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Übersetz das Wort ins Deutsche und nimm den deutschen Artikel: Bei allen acht Wörtern aus Teil A
+liegst du damit richtig. Spanisch ist der schlechtere Ratgeber, denn [*el programa*]{lang="es"}
+und [*el aroma*]{lang="es"} sind männlich.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[-μα]{lang="el"} sächlich, [-ση]{lang="el"} und [-ία]{lang="el"} weiblich,
+[-ισμός]{lang="el"} männlich, Fremdwörter auf ungewohnten Vokal sächlich und unveränderlich. Ein
+Wort ist eine Ausnahme auf [-ος]{lang="el"}: Es steckt [οδός]{lang="el"} darin.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1c, 2b, 3a, 4b, 5b, 6c, 7c, 8b.**
+
+| Griechisch, Plural | Deutsch | Spanisch |
+|---|---|---|
+| [το πρόγραμμα, τα προγράμματα]{lang="el"} | das Programm | [el programa]{lang="es"} |
+| [η διάγνωση, οι διαγνώσεις]{lang="el"} | die Diagnose | [el diagnóstico]{lang="es"} |
+| [ο οργανισμός, οι οργανισμοί]{lang="el"} | der Organismus | [el organismo]{lang="es"} |
+| [η φιλοσοφία, οι φιλοσοφίες]{lang="el"} | die Philosophie | [la filosofía]{lang="es"} |
+| [η περίοδος, οι περίοδοι]{lang="el"} | die Periode | [el período]{lang="es"} |
+| [το ταξί, τα ταξί]{lang="el"} | das Taxi | [el taxi]{lang="es"} |
+| [το άρωμα, τα αρώματα]{lang="el"} | das Aroma | [el aroma]{lang="es"} |
+| [η σύνθεση, οι συνθέσεις]{lang="el"} | die Synthese | [la síntesis]{lang="es"} |
+
+Das Deutsche trifft alle acht. Das Spanische hat kein Neutrum und führt bei
+[περίοδος]{lang="el"} und [διάγνωση]{lang="el"} ausdrücklich in die Irre: männlich statt
+weiblich. Wer bei [-μα]{lang="el"} an [*el problema*]{lang="es"} denkt, landet ebenfalls falsch.
+
+Beim Plural wandert die Betonung, wo sonst die viertletzte Silbe dran wäre:
+[τα προγράμματα]{lang="el"} [ta proˈɣramata], [τα αρώματα]{lang="el"} [ta aˈromata], und bei den
+Wörtern auf [-ση]{lang="el"}: [οι συνθέσεις]{lang="el"} [i sinˈθesis], wie
+[οι αναλύσεις]{lang="el"}. [τα ταξί]{lang="el"} ändert nur den Artikel.
+
+**Teil B: 1b, 2c, 3a, 4b.**
+
+1. [μια καλή μέθοδος]{lang="el"}: weiblicher Artikel, weibliches Adjektiv, männlich aussehende
+   Endung. (c) ist der halbe Weg, und halb ist hier falsch.
+2. [το μεγάλο πρόβλημα]{lang="el"}: sächlich, obwohl es auf [-α]{lang="el"} endet.
+3. [τα νέα σούπερ μάρκετ]{lang="el"}: sächlich, und das Fremdwort bekommt kein englisches
+   Plural-s. Auch richtig: [τα καινούρια σούπερ μάρκετ]{lang="el"}.
+4. [πολλές διάλεκτοι]{lang="el"}: [η διάλεκτος]{lang="el"} ist weiblich, das Adjektiv also
+   [πολλές]{lang="el"}, das Nomen aber behält seinen Plural auf [-οι]{lang="el"}. Das sieht
+   schief aus und ist richtig.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -1183,9 +1425,163 @@ bleibt auf dem [ά]{lang="el"}: [ta fasoˈlaca]. Mehr über die griechische Lieb
 Verkleinerungen in Kapitel 26.
 :::
 
-<!-- EXERCISE: Marktrufe verstehen und umformen (Adjektiv + Artikel + Nomen als Aussage vs. Artikel + Adjektiv + Nomen als Nominalgruppe; Kongruenz; Zahlen τρεις/τρία heraushören), Zuordnen und Sätze laut umformen, auch Digraphen laut lesen (ντομάτες, μπάμιες, πάγκος, μελιτζάνα, ματσάκι, αγγούρι); Schwierigkeit 2. Übung 6.6 -->
+::: {.callout-note .exercise}
+## Übung 6.6: Selbst ausrufen
 
-<!-- EXERCISE: Hör-Auftrag: Schritt 1 Marktrufe aus diesem Abschnitt mit ▶ ohne Mitlesen hören und Preise notieren/nennen; Schritt 2 auf dem YouTube-Kanal Easy Greek (https://www.youtube.com/@EasyGreekVideos) nach „λαϊκή“ suchen (ersatzweise ein Straßeninterview über Einkaufen oder Preise, Suchwort „ακρίβεια“), die ersten drei Minuten ohne Untertitel: drei Preise oder Mengen heraushören und bei 3/4 auf τρεις/τρία, τέσσερις/τέσσερα achten, dann mit griechischen Untertiteln prüfen; Schwierigkeit 2. Übung 6.7 -->
+**Teil A: Aussage oder Beschreibung?** Ist die Wortgruppe (a) ein ganzer Satz („… sind …“)
+oder (b) nur eine Nominalgruppe (wie „die süßen Feigen“)?
+
+::: {lang="el" .no-audio}
+1. Γλυκά τα σύκα!
+2. τα γλυκά σύκα
+3. Ώριμες οι ντομάτες!
+4. οι κρητικές ντομάτες
+5. Ζάχαρη το καρπούζι!
+6. τις φρέσκες πιπεριές
+7. Φτηνές οι πατάτες, κυρία μου!
+:::
+
+**Teil B: ausrufen.** Mach aus Adjektiv und Nomen einen Marktruf und pass das Adjektiv an.
+Beispiel: (φρέσκος) + τα φασολάκια → [Φρέσκα τα φασολάκια!]{lang="el"}
+
+::: {lang="el" .no-audio}
+1. (φρέσκος) + τα αγγούρια
+2. (ώριμος) + το καρπούζι
+3. (γλυκός) + οι ντομάτες
+4. (φτηνός) + τα λεμόνια
+5. (ωραίος) + η μελιτζάνα
+6. (κρητικός) + το μέλι
+:::
+
+Sag Nummer 3 danach noch einmal als Nominalgruppe, „die süßen Tomaten“.
+
+**Teil C: Digraphen.** Ruf das laut, als stündest du hinter dem Stand. Hör es dir erst danach
+mit ▶ an.
+
+::: {lang="el"}
+Ντομάτες! Μπάμιες! Τζάμπα οι μελιτζάνες! Ένα ματσάκι άνηθο! Τρία αγγούρια στον πάγκο!
+:::
+
+Im Chat reicht für Teil A „1a, 2b …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Schau, wo der Artikel steht. Kommt er zuerst, beschreibt das Adjektiv nur. Teil B: Das
+Adjektiv richtet sich nach dem Nomen dahinter, auch wenn der Artikel dazwischen steht.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil A: Ein Nomen vor dem Artikel macht ebenfalls einen Satz. Teil B: Bei
+[γλυκός]{lang="el"} unterscheiden sich Singular und Plural im Femininum. Teil C: Jeder Digraph
+aus der Tabelle in @sec-markt-digraphen kommt vor. Jeder ist ein einziger Laut, nur
+[γγ]{lang="el"} sind zwei.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1a, 2b, 3a, 4b, 5a, 6b, 7a.**
+
+Nr. 5 hat statt eines Adjektivs ein Nomen, „Zucker, die Melone!“, und ist trotzdem eine
+Aussage. Nr. 6 ist eine Nominalgruppe im Akkusativ, die ein Verb braucht, etwa
+[Θέλω τις φρέσκες πιπεριές.]{lang="el"}
+
+**Teil B**
+
+1. [Φρέσκα τα αγγούρια!]{lang="el"}
+2. [Ώριμο το καρπούζι!]{lang="el"}
+3. [Γλυκές οι ντομάτες!]{lang="el"} Im Plural ohne [ι]{lang="el"}; \*[γλυκιές]{lang="el"} ist der
+   Fehler. Als Nominalgruppe: [οι γλυκές ντομάτες]{lang="el"}.
+4. [Φτηνά τα λεμόνια!]{lang="el"}
+5. [Ωραία η μελιτζάνα!]{lang="el"} [-α]{lang="el"} nach Vokal, nicht \*[ωραίη]{lang="el"}.
+6. [Κρητικό το μέλι!]{lang="el"} [το μέλι]{lang="el"} ist sächlich, wie alle Wörter auf
+   [-ι]{lang="el"}.
+
+Häufigster Fehler in Teil B: das Adjektiv in der Grundform lassen, \*[Φρέσκος τα
+αγγούρια!]{lang="el"} Die Endung ist das Einzige, was den Ruf zusammenhält.
+
+**Teil C**
+
+- [Ντομάτες!]{lang="el"} [doˈmates]: [ντ]{lang="el"} am Anfang ist [d], ohne [n] davor.
+- [Μπάμιες!]{lang="el"} [ˈbamɲes]: [μπ]{lang="el"} ist [b]. Wer [mp] liest, macht den
+  verbreitetsten Lesefehler überhaupt. Das [ι]{lang="el"} vor dem [ε]{lang="el"} macht das [μ]{lang="el"}
+  weich.
+- [Τζάμπα οι μελιτζάνες!]{lang="el"} [ˈdzaba i meliˈdzanes]: zweimal [τζ]{lang="el"} = [dz],
+  stimmhaft, nicht [ts]; dazu [μπ]{lang="el"} in der Wortmitte, auch [b].
+- [Ένα ματσάκι άνηθο!]{lang="el"} [ˈena maˈtsaci ˈaniθo]: [τσ]{lang="el"} = [ts] wie in *Katze*;
+  [κ]{lang="el"} vor [ι]{lang="el"} wie in *Kiel*.
+- [Τρία αγγούρια στον πάγκο!]{lang="el"} [ˈtria aŋˈgurʝa ston ˈpago]: [γγ]{lang="el"} ist
+  [ŋg] wie in *Tango*, [γκ]{lang="el"} in [πάγκο]{lang="el"} nur [g]. Im schnellen Sprechen
+  hörst du das oft als [stom ˈbago]: Das [ν]{lang="el"} passt sich an und
+  macht das [π]{lang="el"} stimmhaft.
+:::
+
+::: {.callout-note .exercise}
+## Übung 6.7: Hör-Auftrag
+
+**Schritt 1: die Marktrufe.** Hör dir die Rufe am Anfang von @sec-markt-hoerspur mit ▶ an, ohne
+mitzulesen. Wie viele Preise fallen, und wofür? Sag sie dir auf Deutsch vor, erst danach im Text
+nachsehen.
+
+**Schritt 2: ein echter Markt.** Such auf dem YouTube-Kanal
+[Easy Greek](https://www.youtube.com/@EasyGreekVideos) nach [λαϊκή]{lang="el"}. Findest du kein
+Video über den Markt, nimm ein Straßeninterview über Preise, Suchwort [ακρίβεια]{lang="el"}
+(„Teuerung“).
+
+1. Hör die ersten drei Minuten, ohne auf die Untertitel zu schauen.
+2. Merk dir drei Zahlen mit dem, was sie zählen: einen Preis, eine Menge, eine Uhrzeit oder
+   was eben fällt.
+3. Achte besonders auf drei und vier: Hörst du [tris] oder [ˈtria], [ˈteseris] oder [ˈtesera]?
+   Passt die Form zum Genus des Nomens danach?
+4. Spul zurück und prüf alles mit den griechischen Untertiteln.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Die Klangbilder: [ˈena], [ˈðio], [tris], [ˈtria], [ˈteseris], [ˈtesera], [ˈpede], [ˈðeka],
+[ˈikosi], [peˈninda]. Dazu die Wörter um die Zahl herum: [evˈro], [lepˈta], [ciˈlo], [ciˈla].
+Im Gespräch fällt „Euro“ oft weg: [ˈðio c ˈikosi] ist 2,20.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+In Schritt 1 steht in einem Ruf eine Menge und ein Preis direkt hintereinander; unterscheide,
+was gezählt und was bezahlt wird. In Schritt 2 hilft der Kontext: Nach [tris] oder [ˈteseris]
+folgt ein männliches oder weibliches Nomen, oft eins auf [-es], nach [ˈtria] oder [ˈtesera] eins
+auf [-a].
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Schritt 1: drei verschiedene Preise.**
+
+- [Ένα ευρώ το κιλό οι πατάτες!]{lang="el"} Kartoffeln, ein Euro das Kilo.
+- [Τρία κιλά δύο ευρώ τα κρεμμύδια!]{lang="el"} Zwiebeln, drei Kilo für zwei Euro. Die drei ist
+  die Menge, die zwei der Preis; wer „drei Euro“ gehört hat, hat die Reihenfolge vertauscht.
+- [Όλα ένα ευρώ!]{lang="el"} Alles einen Euro, zweimal gerufen.
+
+Wer [ζάχαρη]{lang="el"} oder [μέλι]{lang="el"} für einen Preis gehalten hat: Das sind
+Versprechen, keine Zahlen.
+
+**Schritt 2:** Jedes Video ist anders, eine feste Lösung gibt es nicht. So wertest du aus:
+
+- **Treffer:** Eine Zahl, die du samt Bezugswort in den Untertiteln wiederfindest. Zwei von drei
+  sind beim ersten Durchgang gut.
+- **Drei und vier:** Ist dir eine Form aufgefallen, prüf das Nomen dahinter. [τρία ευρώ]{lang="el"},
+  [τέσσερα κιλά]{lang="el"}, [στις τρεις]{lang="el"} sind die häufigsten. Muttersprachler vertun
+  sich hier kaum; wenn es für dich nicht passt, liegt es fast immer am Bezugswort, das weiter
+  weg steht oder ganz fehlt.
+- **Typische Fehlalarme:** der Anfang von [ενάμισι]{lang="el"} [eˈnamisi] als „eins“ gehört,
+  obwohl es 1,50 ist; Jahreszahlen und Hausnummern, die nichts zählen.
+- Wiederhol den Auftrag nach ein paar Wochen mit einem anderen Video.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -1386,7 +1782,110 @@ nächsten Samstag.
 :::
 <!-- CHECK: Gründungsjahr 1929 (Venizelos-Regierung), erste Märkte in Athen; Nebeneinander von Erzeugern (παραγωγοί) und gewerblichen Händlern (επαγγελματίες πωλητές); übliche Marktzeiten -->
 
-<!-- EXERCISE: Lesetext verstehen (richtig/falsch aus dem griechischen Text, nummeriert) und Formen jagen: alle Adjektive mit ihrem Nomen finden und Genus/Zahl bestimmen, alle Zahlen mit Genus (τριακόσια μέτρα, τέσσερις πάγκους, τρία πεπόνια …), dazu σε + Artikel; Schwierigkeit 2. Übung 6.8 -->
+::: {.callout-note .exercise}
+## Übung 6.8: Was der Text sagt, und wie
+
+**Teil A: richtig oder falsch?** Antworte aus dem griechischen Text heraus.
+
+1. Zwischen der Ankunft der Lastwagen und dem fertigen Markt vergeht etwa eine Stunde.
+2. Die Laiki ist eine Erfindung der letzten Jahrzehnte.
+3. Die Grundidee: Erzeuger verkaufen ohne Zwischenhändler, damit die Preise niedrig bleiben.
+4. Auf der Laiki verkaufen heute nur noch Händler.
+5. Im Dezember bekommt man auf der Laiki Wassermelonen.
+6. Der Großvater fragt an vier Ständen und kauft dann am letzten.
+7. Wer spät kommt, zahlt weniger, bekommt aber nicht unbedingt die besten Tomaten.
+8. Um vier Uhr sieht man der Straße den Markt noch an.
+
+**Teil B: Adjektive jagen.** Im zweiten Absatz ([Η λαϊκή δεν είναι καινούρια
+ιδέα …]{lang="el"}) stehen elf Adjektivformen. Finde sie, nenn jeweils das Nomen, zu dem sie
+gehören, und bestimm Genus, Zahl und Fall.
+
+**Teil C: Zahlen und [σε]{lang="el"}.** Finde im ganzen Text die sieben Stellen mit drei, vier
+oder dreihundert und begründe die Form. Finde außerdem die zwei Stellen, an denen
+[σε]{lang="el"} nicht mit einem Artikel verschmilzt.
+
+Im Chat reicht für Teil A „1r, 2f …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Achte auf Verneinungen und auf Wörter wie [μόνο]{lang="el"} und [ακόμα]{lang="el"}.
+
+Teil B: Nicht jedes Adjektiv steht direkt vor seinem Nomen. Manche stehen nach [είναι]{lang="el"},
+[ήταν]{lang="el"} oder [μένουν]{lang="el"}, eins hat gar kein Nomen bei sich.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil A: Die Aussagen 4, 6 und 8 hängen an [πολλοί είναι ακόμα παραγωγοί]{lang="el"},
+[αγοράζει από τον πρώτο]{lang="el"} und [κανείς δεν καταλαβαίνει]{lang="el"}.
+
+Teil B: [κάθε]{lang="el"} zählt nicht, es ändert sich nie; [λαϊκή]{lang="el"} als Name des
+Marktes auch nicht. [πολλοί]{lang="el"} kommt zweimal vor.
+
+Teil C: [τριακόσια]{lang="el"} steht zweimal im Text. Die beiden [σε]{lang="el"} ohne
+Verschmelzung stehen vor einer Zahl.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1r, 2f, 3r, 4f, 5f, 6f, 7r, 8f.**
+
+1. [Φτάνουν τα φορτηγά … και σε μία ώρα ο δρόμος είναι μια μεγάλη, θορυβώδης αγορά]{lang="el"}.
+2. [Οι πρώτες λαϊκές αγορές άνοιξαν στην Αθήνα το 1929.]{lang="el"}
+3. [ο αγρότης πουλάει απευθείας στον πελάτη, χωρίς μεσάζοντες]{lang="el"}.
+4. [Πολλοί πωλητές είναι έμποροι, αλλά πολλοί είναι ακόμα παραγωγοί]{lang="el"}: viele, nicht
+   alle.
+5. [Καρπούζι τον Δεκέμβριο; Μόνο στο σούπερ μάρκετ.]{lang="el"}
+6. [και στο τέλος αγοράζει από τον πρώτο]{lang="el"}: am ersten. [στο τέλος]{lang="el"} heißt
+   „am Ende, schließlich“ und verleitet dazu, „am letzten Stand“ zu lesen.
+7. Die Preise fallen, aber [οι έξυπνοι πωλητές … κρατάνε τις καλές ντομάτες για τους πρώτους
+   πελάτες]{lang="el"}.
+8. [κανείς δεν καταλαβαίνει]{lang="el"}: Niemand merkt etwas.
+
+**Teil B**
+
+| Adjektiv | Nomen | Form |
+|---|---|---|
+| [καινούρια]{lang="el"} | [ιδέα]{lang="el"} | weibl., Sg., Nom. (nach [είναι]{lang="el"}) |
+| [πρώτες]{lang="el"} | [αγορές]{lang="el"} | weibl., Pl., Nom. |
+| [λαϊκές]{lang="el"} | [αγορές]{lang="el"} | weibl., Pl., Nom. |
+| [απλή]{lang="el"} | [σκέψη]{lang="el"} | weibl., Sg., Nom. (nach [ήταν]{lang="el"}) |
+| [χαμηλές]{lang="el"} | [τιμές]{lang="el"} | weibl., Pl., Nom. (nach [μένουν]{lang="el"}) |
+| [δική]{lang="el"} | [λαϊκή]{lang="el"} | weibl., Sg., Akk. |
+| [ίδια]{lang="el"} | [μέρα]{lang="el"} | weibl., Sg., Akk. |
+| [ίδιο]{lang="el"} | [δρόμο]{lang="el"} | männl., Sg., Akk. |
+| [πολλοί]{lang="el"} | [πωλητές]{lang="el"} | männl., Pl., Nom. |
+| [πολλοί]{lang="el"} | ([πωλητές]{lang="el"}) | männl., Pl., Nom., Nomen weggelassen |
+| [δικά]{lang="el"} | [χωράφια]{lang="el"} | sächl., Pl., Akk. |
+
+Leicht übersehen: [απλή]{lang="el"} und [χαμηλές]{lang="el"}, weil sie weit hinter ihrem Nomen
+stehen, und das zweite [πολλοί]{lang="el"}. Die Falle ist [πολλοί πωλητές]{lang="el"}: Das Nomen
+endet auf [-ες]{lang="el"}, ist aber männlich ([ο πωλητής]{lang="el"}), also
+[πολλοί]{lang="el"}, nicht \*[πολλές]{lang="el"}. Und [καινούρια]{lang="el"} hat
+[-α]{lang="el"}, weil vor der Endung ein Vokal steht, wie bei [ωραία]{lang="el"}.
+
+Nebenbei: [η λαϊκή]{lang="el"} selbst ist ein Adjektiv, dessen Nomen [αγορά]{lang="el"} im Alltag
+weggefallen ist; genau das Muster aus @sec-markt-adjektive-stellung.
+
+**Teil C**
+
+- [τριακόσια μέτρα]{lang="el"}, zweimal: [το μέτρο]{lang="el"} ist sächlich, und ab zweihundert
+  passen sich die Hunderter an.
+- [σε τέσσερις πάγκους]{lang="el"}: [ο πάγκος]{lang="el"} ist männlich, also
+  [τέσσερις]{lang="el"}; im Akkusativ ändert sich die Zahl nicht.
+- [Τρία κιλά δύο ευρώ!]{lang="el"}: Gezählt werden Kilos.
+- [τρία πεπόνια]{lang="el"}: [το πεπόνι]{lang="el"} ist sächlich.
+- [Στις τρεις]{lang="el"}, [Στις τέσσερις]{lang="el"}: Uhrzeiten, weiblich.
+
+Nicht verschmolzen: [σε μία ώρα]{lang="el"} und [σε τέσσερις πάγκους]{lang="el"}. Nach
+[σε]{lang="el"} steht dort kein bestimmter Artikel, sondern eine Zahl, also bleibt
+[σε]{lang="el"} stehen. [σε μία ώρα]{lang="el"} heißt „innerhalb einer Stunde“; [στη μία]{lang="el"}
+wäre „um eins“.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |

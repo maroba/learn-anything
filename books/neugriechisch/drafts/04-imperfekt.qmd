@@ -215,7 +215,62 @@ Die Dauer entscheidet nicht, das gilt weiter aus Kapitel 2. [Έμεινα στη
 Kafeneío“ beschreibt, wie es war, während die Geschichte läuft: Film.
 :::
 
-<!-- EXERCISE: Übung 4.1 „Foto oder Film?“ – Lernziel: Aorist und Imperfekt nach Aspekt unterscheiden (Gewohnheit/Wiederholung, Hintergrund, Beschreibung vs. Ereignis, auch lange Dauer als Ganzes), dazu die Kategorie „keine Wahl“ für είμαι/έχω/ξέρω wie in Übung 2.1; Art: Auswählen/Zuordnen mit Begründung, 8–10 kurze deutsche Sätze aus Inselsommer-Erinnerungen, einige mit spanischer oder französischer Parallele im Hinweis; Antwort im Chat als „a1, b2 …“; Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 4.1: Foto oder Film?
+
+Erinnerungen an drei Wochen auf Naxos. Was stünde im Griechischen beim **fett** gedruckten Verb?
+
+1. **Aorist** (Foto: Ereignis, als Ganzes)
+2. **Imperfekt** (Film: Gewohnheit, Hintergrund, Beschreibung)
+3. **keine Wahl**, weil das Verb nur eine Vergangenheit hat
+
+a) Jeden Morgen **holten** wir Brot beim Bäcker am Hafen.
+b) Eines Morgens **verpassten** wir die Fähre.
+c) Wir **blieben** drei Wochen auf der Insel.
+d) Wir **wohnten** in einem Zimmer mit Blick aufs Meer.
+e) Die Fischer **flickten** gerade ihre Netze, als wir ankamen.
+f) Der Himmel **war** grau, und es regnete.
+g) Ich **wusste** nicht, wann der nächste Bus fährt.
+h) Am letzten Abend **lud** uns die Vermieterin zum Essen **ein**.
+
+Im Chat reicht „a2, b1, …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Übersetz ins Spanische oder Französische: [*íbamos*]{lang="es"} oder [*fuimos*]{lang="es"},
+[*nous allions*]{lang="fr"} oder [*nous sommes allés*]{lang="fr"}? Und probier den Test aus dem
+Abschnitt: Passt „gerade dabei“ oder „immer“ hinein, ohne den Sinn zu ändern?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Die drei Wochen in c) werden von außen zusammengefasst. Zwei Verben haben nur eine
+Vergangenheit.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**a2, b1, c1, d2, e2, f3, g3, h1.**
+
+- a) Gewohnheit, „jeden Morgen“: [*comprábamos*]{lang="es"}, [*nous achetions*]{lang="fr"}.
+- b) Einmal passiert, die Geschichte geht weiter: [*perdimos*]{lang="es"}.
+- c) **Aorist**, obwohl es drei Wochen waren: [έμεινα]{lang="el"}-Typ, die Zeit als Ganzes
+  ([*nos quedamos*]{lang="es"}). Der häufigste Fehler.
+- d) Beschreibung des Rahmens: [έμενα]{lang="el"}-Typ ([*vivíamos*]{lang="es"}). Mit „drei Wochen
+  lang“ dazu würde es ein Foto wie in c).
+- e) Der Vorgang läuft, die Ankunft fällt hinein: [*remendaban*]{lang="es"}.
+  „Als wir ankamen“ wäre der Aorist.
+- f) [ήταν]{lang="el"}. „Es regnete“ wäre hier Film, Beschreibung.
+- g) [ήξερα]{lang="el"}.
+- h) Ein Ereignis am Schluss der Geschichte: [*nos invitó*]{lang="es"}.
+
+**Typische Fehler:** c) als Film, weil es lange dauerte; d) als Foto, weil „wir wohnten“ im
+Deutschen genauso klingt wie „wir blieben“.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -357,7 +412,72 @@ Für die Verben auf [-άω]{lang="el"} und [-ώ]{lang="el"} gilt etwas anderes
   Film. Der ausgetrunkene Kaffee bleibt [ήπια]{lang="el"}.
 :::
 
-<!-- EXERCISE: Übung 4.2 „Vom Präsens zum Imperfekt“ – Lernziel: Imperfekt der Verben mit unbetonter Endung -ω und der kurzen Verben bilden (Augment nur betont, η- bei θέλω/ξέρω, Präsens-Zutaten bleiben, πάω → πήγαινα); Art: Formen bilden und laut sagen (Teil A Präsens → Imperfekt in vorgegebener Person, Teil B Fehler finden wie Übung 2.2 mit *εγράφαμε, *έβλεψα, *πήγα statt πήγαινα u.ä.); Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 4.2: Vom Präsens zum Imperfekt
+
+**Teil A.** Bilde das Imperfekt und sag es laut, mit Betonung.
+
+a) [βλέπω]{lang="el"} → ich
+b) [γράφω]{lang="el"} → wir
+c) [πίνω]{lang="el"} → sie (Plural)
+d) [λέω]{lang="el"} → er
+e) [πάω]{lang="el"} → wir
+f) [θέλω]{lang="el"} → er
+g) [μαθαίνω]{lang="el"} → ihr
+h) [ακούω]{lang="el"} → ich
+
+**Teil B.** Alle Formen sollen Imperfekt sein. Welche sind falsch?
+
+1. [εγράφαμε]{lang="el"}
+2. [έβλεψα]{lang="el"}
+3. [έτρωγα]{lang="el"}
+4. [ήθελαμε]{lang="el"}
+5. [πήγα]{lang="el"}
+6. [έμαθαινα]{lang="el"}
+7. [ήξερες]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Stamm aus dem Präsens, Endungen aus dem Aorist, Betonung auf der drittletzten Silbe. Das Augment
+kommt nur, wenn es diese Betonung tragen muss.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Die kurzen Verben holen ein [γ]{lang="el"} heraus, [πάω]{lang="el"} leiht sich
+[πηγαίνω]{lang="el"}. In Teil B sind zwei Formen richtig.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+- a) [έβλεπα]{lang="el"}: Der Aorist [είδα]{lang="el"} ist hier egal.
+- b) [γράφαμε]{lang="el"}, ohne Augment.
+- c) [έπιναν]{lang="el"}, umg. [πίνανε]{lang="el"}. Das [ν]{lang="el"} des Präsens bleibt.
+- d) [έλεγε]{lang="el"}
+- e) [πηγαίναμε]{lang="el"}
+- f) [ήθελε]{lang="el"}, mit [η-]{lang="el"}.
+- g) [μαθαίνατε]{lang="el"}: [μα-θαί-να-τε]{lang="el"}, Betonung wie im Präsens.
+- h) [άκουγα]{lang="el"}, auch [άκουα]{lang="el"}.
+
+**Teil B:** Richtig sind **3** und **7**.
+
+1. \*[εγράφαμε]{lang="el"} → [γράφαμε]{lang="el"}: Augment unbetont.
+2. \*[έβλεψα]{lang="el"} → [έβλεπα]{lang="el"}: Ein [ψ]{lang="el"} gehört zum perfektiven
+   Stamm, und den hat [βλέπω]{lang="el"} gar nicht.
+3. [έτρωγα]{lang="el"}: **richtig**.
+4. \*[ήθελαμε]{lang="el"} → [θέλαμε]{lang="el"}: Auch [η-]{lang="el"} fällt, wenn es unbetont
+   wäre.
+5. [πήγα]{lang="el"} gibt es, aber es ist der Aorist. Das Imperfekt ist [πήγαινα]{lang="el"}.
+6. \*[έμαθαινα]{lang="el"} → [μάθαινα]{lang="el"}: drei Silben sind schon da. Das
+   [έ-]{lang="el"} stammt aus dem Aorist [έμαθα]{lang="el"}.
+7. [ήξερες]{lang="el"}: **richtig**.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -436,7 +556,67 @@ den Verben auf [-ώ]{lang="el"} wie [μπορώ]{lang="el"} gibt es sie nicht.
   [περνούσα]{lang="el"}. Die Ausnahmen aus Kapitel 2 betreffen nur den perfektiven Stamm.
 :::
 
-<!-- EXERCISE: Übung 4.3 „-ούσα oder Aorist?“ – Lernziel: Imperfekt der Verben auf -άω/-ώ bilden und vom Aorist unterscheiden (Betonung auf -ού-, kein Augment); Art: Teil A Formen bilden laut (Präsens → Imperfekt in vorgegebener Person, gemischt mit Verben aus 4.2), Teil B Hören/Lesen: Formenpaare wie μίλησα/μιλούσα, ρώτησε/ρωτούσε nach IPA oder ▶ einem Aspekt zuordnen; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 4.3: [-ούσα]{lang="el"} oder Aorist?
+
+**Teil A.** Imperfekt, laut:
+
+a) [ρωτάω]{lang="el"} → er
+b) [μπορώ]{lang="el"} → wir
+c) [ζω]{lang="el"} → sie (Plural)
+d) [τρώω]{lang="el"} → wir
+e) [τηλεφωνώ]{lang="el"} → du
+f) [φεύγω]{lang="el"} → er
+
+**Teil B.** Nur nach dem Klang: Imperfekt (I), Aorist (A) oder beides (B)? Lies die Lautschrift
+laut. Im Chat reicht „1I, 2A, …“.
+
+1. [miˈlusame]
+2. [ˈrotise]
+3. [perˈpatisa]
+4. [perpaˈtuse]
+5. [ˈperase]
+6. [perˈnusan]
+7. [ˈekana]
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Nicht jedes Verb ist ein [-ούσα]{lang="el"}-Verb. Erst nachsehen, wie das Präsens endet.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil B: Betontes [ˈu] vor [sa, se, same, san] heißt Film. Und ein Verb aus diesem Kapitel hat nur
+eine Form für beides.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+- a) [ρωτούσε]{lang="el"}, umg. auch [ρώταγε]{lang="el"}.
+- b) [μπορούσαμε]{lang="el"}
+- c) [ζούσαν]{lang="el"}, umg. [ζούσανε]{lang="el"}.
+- d) [τρώγαμε]{lang="el"}: kurzes Verb, [γ]{lang="el"}-Muster, kein [-ούσ-]{lang="el"}.
+- e) [τηλεφωνούσες]{lang="el"}
+- f) [έφευγε]{lang="el"}: Muster [γράφω]{lang="el"}, Augment betont.
+
+Typische Fehler: \*[ρώτουσε]{lang="el"} (Betonung zurückgeholt), \*[ετηλεφωνούσες]{lang="el"}
+(Augment), \*[ρωτάσε]{lang="el"} (das [α]{lang="el"} des Präsens behalten).
+
+**Teil B: 1I, 2A, 3A, 4I, 5A, 6I, 7B.**
+
+1. [μιλούσαμε]{lang="el"}
+2. [ρώτησε]{lang="el"}
+3. [περπάτησα]{lang="el"}
+4. [περπατούσε]{lang="el"}
+5. [πέρασε]{lang="el"}: Aorist von [περνάω]{lang="el"}, unregelmäßig.
+6. [περνούσαν]{lang="el"}: dasselbe Verb, im Imperfekt ganz regelmäßig.
+7. [έκανα]{lang="el"}: Imperfekt und Aorist zugleich, der Zusammenhang entscheidet.:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -593,7 +773,57 @@ Sie sind Film und Foto zugleich. Für einen Wendepunkt nimmt man ein anderes Ver
 [έμαθα, πήρα, γνώρισα]{lang="el"}.
 :::
 
-<!-- EXERCISE: Übung 4.4 „Waren wir, hatten wir“ – Lernziel: Vergangenheit von είμαι, έχω, ξέρω in allen Personen bilden und für Wendepunkte έμαθα/πήρα/γνώρισα wählen; Art: mündlich übersetzen (8–10 kurze Sätze in allen Personen, mit Kurzantworten wie „Ήμουν.“, dazu 2–3 Sätze mit „erfuhr/bekam/lernte kennen“); in der Lösung ήμαστε/είμαστε-Gleichklang und *χάμε/*ξέραμε-Augmentfehler als typische Fehler; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 4.4: Waren wir, hatten wir
+
+Sag die Sätze laut auf Griechisch.
+
+1. Wart ihr ’90 auf Sifnos? – Waren wir.
+2. Wir hatten kein Geld für ein Hotel.
+3. Hattest du damals ein Fahrrad?
+4. Wusstet ihr, wo das Kafeneío war?
+5. Sie (Plural) konnten zehn Wörter Deutsch.
+6. Damals waren wir zwanzig.
+7. Dort habe ich meinen Mann kennengelernt.
+8. Ich habe es gestern erfahren.
+9. Da hatte ich eine Idee.
+
+**Worthilfe:** [το ξενοδοχείο]{lang="el"} das Hotel.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Sechs Sätze brauchen [ήμουν, είχα, ήξερα]{lang="el"} in der passenden Person. In den letzten drei
+ändert sich etwas: Dafür nimmt man ein anderes Verb.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Das [εί-]{lang="el"} von [είχα]{lang="el"} und das [ή-]{lang="el"} von [ήμουν]{lang="el"}
+bleiben überall, das [ή-]{lang="el"} von [ήξερα]{lang="el"} nicht. Satz 9 ist eine feste
+Wendung aus dem Abschnitt.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [Ήσασταν στη Σίφνο το ’90; — Ήμασταν.]{lang="el"} Auch [Ήσαστε; — Ήμαστε.]{lang="el"}
+   [ήμαστε]{lang="el"} klingt wie [είμαστε]{lang="el"} „wir sind“; in der Kurzantwort ist
+   [ήμασταν]{lang="el"} deutlicher.
+2. [Δεν είχαμε λεφτά για ξενοδοχείο.]{lang="el"} Nicht \*[χάμε]{lang="el"}: Das
+   [εί-]{lang="el"} ist kein Augment.
+3. [Είχες ποδήλατο τότε;]{lang="el"}
+4. [Ξέρατε πού ήταν το καφενείο;]{lang="el"} Hier umgekehrt: nicht \*[ήξερατε]{lang="el"}.
+5. [Ήξεραν δέκα λέξεις γερμανικά.]{lang="el"} Umg. auch [Ξέρανε…]{lang="el"}
+6. [Τότε ήμασταν είκοσι χρονών.]{lang="el"}
+7. [Εκεί γνώρισα τον άντρα μου.]{lang="el"} [ήξερα]{lang="el"} hieße „kannte“.
+8. [Το έμαθα χθες.]{lang="el"} [Το ήξερα χθες]{lang="el"} hieße „Gestern wusste ich es
+   (noch)“.
+9. [Τότε μου ήρθε μια ιδέα.]{lang="el"} [Τότε είχα μια ιδέα]{lang="el"} ist verständlich, sagt
+   aber eher „damals hatte ich eine Idee (im Kopf)“, keinen Einfall.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -704,7 +934,72 @@ vor.
 
 <!-- CHECK: EG-Beitritt Griechenlands 1.1.1981; Ausbreitung des Tourismus auf kleinere Kykladeninseln in den 1980ern; Kiosk-Telefone mit Gebührenzähler (μετρητής) und ΟΤΕ-Büros für Auslandsgespräche in den 1980ern; καμάκι als zeitgenössischer Begriff und in Filmkomödien der Zeit belegt -->
 
-<!-- EXERCISE: Übung 4.5 „Damals und heute“ – Lernziel: Gewohnheiten in der Vergangenheit mit dem Imperfekt ausdrücken (Signalwörter κάθε, πάντα, συνήθως, συχνά, τότε, παλιά); Art: Sätze laut umformen: Präsens-Gewohnheiten von heute („Heute fliegen wir, …“) in Imperfekt-Gewohnheiten von damals umwandeln, gemischt aus -ω-, -άω/-ώ-, kurzen Verben und είμαι/έχω; Zugabe: eigene „Θυμάστε τότε που…“-Liste laut mit drei Sätzen; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 4.5: Damals
+
+So ist es heute. Setz jeden Satz laut in die Zeit der Großeltern: Beginn mit
+[Παλιά…]{lang="el"}, alles andere bleibt.
+
+::: {lang="el" .no-audio}
+1. Η γιαγιά ξυπνάει κάθε πρωί στις πέντε.
+2. Τρώμε πάντα στην ίδια ταβέρνα.
+3. Ο παππούς μου λέει συχνά ιστορίες.
+4. Τα παιδιά παίζουν στη θάλασσα όλη μέρα.
+5. Κάθε βράδυ πηγαίνουμε στο θερινό σινεμά.
+6. Συνήθως περιμένουμε το πλοίο στο λιμάνι.
+7. Δεν ξέρουμε ποτέ τι ώρα είναι.
+:::
+
+**Zugabe:** Drei eigene Sätze für eine [Θυμάστε τότε που…]{lang="el"}-Liste, über deine eigene
+Kindheit.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Jedes Verb wird Imperfekt. Wer es als Foto erzählt, macht aus einer Gewohnheit ein einzelnes
+Ereignis.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Drei Muster: [-ούσε]{lang="el"} (1), [γ]{lang="el"} bei den kurzen Verben (2, 3), Augment nur
+betont (4). In 7 wandern beide Verben in die Vergangenheit.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+::: {lang="el"}
+1. Παλιά η γιαγιά **ξυπνούσε** κάθε πρωί στις πέντε.
+2. Παλιά **τρώγαμε** πάντα στην ίδια ταβέρνα.
+3. Παλιά ο παππούς μου **έλεγε** συχνά ιστορίες.
+4. Παλιά τα παιδιά **έπαιζαν** στη θάλασσα όλη μέρα.
+5. Παλιά κάθε βράδυ **πηγαίναμε** στο θερινό σινεμά.
+6. Παλιά συνήθως **περιμέναμε** το πλοίο στο λιμάνι.
+7. Παλιά δεν **ξέραμε** ποτέ τι ώρα **ήταν**.
+:::
+
+- 1: umg. auch [ξύπναγε]{lang="el"}.
+- 4: umg. [παίζανε]{lang="el"}. Nicht [έπαιξαν]{lang="el"}: Das wäre ein einziges Spiel.
+- 5: [πήγαμε]{lang="el"} ist der typische Fehler, der Aorist von [πάω]{lang="el"}.
+- 6: [περιμέναμε]{lang="el"} sieht aus wie der Aorist; hier ist es Film.
+- 7: Nicht \*[ήξεραμε]{lang="el"}. Und das [είναι]{lang="el"} rückt mit: [ήταν]{lang="el"}.
+
+**Zugabe, zum Beispiel:**
+
+::: {lang="el"}
+… παίζαμε στον δρόμο μέχρι το βράδυ;
+
+… βλέπαμε τηλεόραση μόνο το Σάββατο;
+
+… η μητέρα μας έγραφε γράμματα στη γιαγιά;
+:::
+
+Prüf nur eins: Steht jedes Verb im Imperfekt? Einmalige Ereignisse gehören nicht in diese
+Listen.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -850,7 +1145,72 @@ voudrais*]{lang="fr"}. Nebenbei: Das französische Konditional hat die Endungen 
 Und dann ist da noch, was keine der drei Sprachen hat: der Aspekt auch in der Zukunft
 ([θα γράφω – θα γράψω]{lang="el"}, Kapitel 5).
 
-<!-- EXERCISE: Übung 4.6 „Die Nacht, in der das Licht ausging“ – Lernziel: in einer Erzählung Hintergrund (Imperfekt) und Ereignis (Aorist) richtig verteilen, inkl. ενώ/εκεί που, Zählen vs. Gewohnheit, Verben mit nur einer Vergangenheit; Art: Lückentext als no-audio-Block (lang el) mit der Präsensform in Klammern (Inselerinnerung, ca. 10–12 Lücken), laut lösen und je Lücke Foto/Film begründen; Lösung mit Varianten, wo beides geht; Schwierigkeit 3 -->
+::: {.callout-note .exercise}
+## Übung 4.6: Die Nacht, in der das Licht ausging
+
+Lies die Geschichte laut und setz für jede Lücke Imperfekt oder Aorist ein. Sag dir bei jeder
+Lücke kurz, warum: Foto oder Film?
+
+::: {lang="el" .no-audio}
+Ήταν Αύγουστος του ’95, και (1: μένω, εμείς) ___ σε ένα χωριό στη Νάξο. Κάθε βράδυ (2: τρώω,
+εμείς) ___ στην ίδια ταβέρνα στο λιμάνι. Ένα βράδυ, ενώ (3: περιμένω, εμείς) ___ το φαγητό,
+(4: σβήνω) ___ όλα τα φώτα του χωριού. Κανείς δεν (5: ξέρω) ___ τι έγινε. Ένας γέρος (6: φέρνω)
+___ δύο κεριά από την κουζίνα. Γύρω μας όλοι (7: γελάω) ___ και (8: τραγουδάω) ___. Εμείς
+(9: μένω) ___ στην ταβέρνα μέχρι τις δύο. Εκείνο το καλοκαίρι τα φώτα (10: σβήνω) ___ άλλες δύο
+φορές, και κάθε φορά που (11: σβήνω) ___, ο γέρος (12: φέρνω) ___ τα κεριά του.
+:::
+
+**Worthilfen:** [το κερί, τα κεριά]{lang="el"} die Kerze · [γελάω, γέλασα]{lang="el"} lachen ·
+[άλλες δύο φορές]{lang="el"} noch zweimal.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Erst die Handlung suchen: Welche Lücken beantworten „und dann?“ Alles andere ist Rahmen.
+Achte auf [κάθε, ενώ, κάθε φορά που]{lang="el"} und auf gezählte Male.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[μένω]{lang="el"} kommt zweimal vor, einmal als Rahmen, einmal als Zeitspanne bis zwei Uhr.
+[σβήνω]{lang="el"} kommt dreimal vor: einmal Ereignis, einmal gezählt, einmal Gewohnheit.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+::: {lang="el"}
+Ήταν Αύγουστος του ’95, και **μέναμε** σε ένα χωριό στη Νάξο. Κάθε βράδυ **τρώγαμε** στην ίδια
+ταβέρνα στο λιμάνι. Ένα βράδυ, ενώ **περιμέναμε** το φαγητό, **έσβησαν** όλα τα φώτα του χωριού.
+Κανείς δεν **ήξερε** τι έγινε. Ένας γέρος **έφερε** δύο κεριά από την κουζίνα. Γύρω μας όλοι
+**γελούσαν** και **τραγουδούσαν**. Εμείς **μείναμε** στην ταβέρνα μέχρι τις δύο. Εκείνο το
+καλοκαίρι τα φώτα **έσβησαν** άλλες δύο φορές, και κάθε φορά που **έσβηναν**, ο γέρος **έφερνε**
+τα κεριά του.
+:::
+
+- **1:** [μέναμε]{lang="el"}: Rahmen, Film.
+- **2:** [τρώγαμε]{lang="el"}: [κάθε βράδυ]{lang="el"}, Gewohnheit. Nicht \*[τρώαμε]{lang="el"}.
+- **3:** [περιμέναμε]{lang="el"}: nach [ενώ]{lang="el"} Film. Die Form ist zugleich Aorist, hier
+  entscheidet [ενώ]{lang="el"}.
+- **4:** [έσβησαν]{lang="el"}: das Ereignis, das in den Film fällt. Subjekt sind die Lichter, also
+  Plural.
+- **5:** [ήξερε]{lang="el"}: keine Wahl.
+- **6:** [έφερε]{lang="el"}: nächster Schritt der Handlung. [έφερνε]{lang="el"} hieße „brachte gerade“
+  oder „brachte immer“.
+- **7 und 8:** [γελούσαν, τραγουδούσαν]{lang="el"}: Stimmung im Hintergrund; umg. auch
+  [γέλαγαν, τραγούδαγαν]{lang="el"}. Der Aorist ([γέλασαν]{lang="el"}) ginge auch, dann
+  lachten alle einmal kurz auf.
+- **9:** [μείναμε]{lang="el"}: Die Zeit bis zwei Uhr als Ganzes, Foto. Vergleiche 1: dasselbe Verb,
+  anderer Blick.
+- **10:** [έσβησαν]{lang="el"}: gezählt, Foto.
+- **11 und 12:** [έσβηναν, έφερνε]{lang="el"}: [κάθε φορά που]{lang="el"} macht eine Regel daraus,
+  Film.
+
+**Typische Fehler:** 9 als [μέναμε]{lang="el"}, weil die Nacht lang war; 10 als
+[έσβηναν]{lang="el"}, weil es mehrmals geschah. Mehrmals, aber gezählt, ist ein Foto.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -1002,7 +1362,77 @@ Bei [έμενα – έμεινα]{lang="el"} trägt ein einziger Vokal den ganze
 hilft dann oft nur der Rest des Satzes: Steht [κάθε καλοκαίρι]{lang="el"} dabei oder
 [δύο μήνες]{lang="el"}?
 
-<!-- EXERCISE: Übung 4.7 „Hör-Auftrag“ – Lernziel: Imperfekt, Aorist und erzählendes Präsens beim Hören erkennen; Art: Schritt 1 den Großmutter-Dialog zweimal mit ▶ hören, ohne mitzulesen, und die Stelle nennen, an der sie ins Präsens wechselt, dann zählen, wie viele Imperfekte sie benutzt (Lösung: ήταν/είχα/είχαμε/ήξερα gesondert ausweisen); Schritt 2 Hörpaare aus der Tabelle (Imperfekt/Aorist aus IPA oder ▶ bestimmen); Schritt 3 auf https://www.youtube.com/@EasyGreekVideos ein Straßeninterview über früher/Kindheit/Urlaub wählen (Suchwörter παλιά, παιδικά χρόνια, καλοκαίρι), drei Minuten ohne Untertitel, Strichliste für -ούσα-Formen und für ήταν/ήμουν/είχα, dann mit griechischen Untertiteln prüfen; Auswertung ohne feste Zahlen wie Übung 3.7; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 4.7: Hör-Auftrag
+
+**Schritt 1: die Großmutter.** Hör den Dialog aus @sec-imperfekt-hoerspur zweimal mit ▶, ohne
+mitzulesen.
+
+a) Nach welchem Satz springt sie ins Präsens?
+b) Wie viele echte Imperfekte benutzt sie, ohne [ήταν, είχα]{lang="el"} und Co.?
+
+**Schritt 2: ein Laut.** Imperfekt (I) oder Aorist (A)? Erst die Lautschrift laut lesen, dann
+in der Tabelle oben prüfen.
+
+1. [ˈemina]
+2. [ˈepeza]
+3. [ˈðʝavasa]
+4. [ˈpiʝena]
+5. [ˈemena]
+6. [ˈeɣrapsa]
+
+**Schritt 3: ein echtes Gespräch.** Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos)
+nach [παλιά]{lang="el"}, [παιδικά χρόνια]{lang="el"} (Kindheit) oder [καλοκαίρι]{lang="el"} und
+wähl ein Straßeninterview. Hör drei Minuten ohne Untertitel und mach zwei Strichlisten: Formen
+mit betontem [ˈu] vor [sa, se, same, san] und [ήταν, ήμουν, είχα]{lang="el"} in allen Personen.
+Dann mit den griechischen Untertiteln prüfen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Schritt 1: Achte auf die Stelle, an der sie Gläser spült. Schritt 2: [e] gegen [i], [z] gegen
+[ks], [f] gegen [ps].
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Schritt 1: Zwei Imperfekte stehen vor dem Sprung, zwei in einem kurzen Film danach, eins ganz am
+Schluss, verschluckt. Nur zählen, was die Großmutter sagt.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Schritt 1**
+
+a) Nach [εκεί που έπλενα τα ποτήρια]{lang="el"}: [ακούω μια μηχανή. Βγαίνω έξω…]{lang="el"}
+Präsens bis [μου λέει κάτι]{lang="el"}.
+
+b) **Fünf:** [έφερνε, έπλενα, γελούσαν, γελούσα, ’λεγε]{lang="el"}. Dazu vier Formen der Verben
+mit nur einer Vergangenheit: [ήταν, είχα, είχαμε, ήξερα]{lang="el"}. Das [ήταν]{lang="el"} und
+[έκανες]{lang="el"} der Enkelin zählen nicht.
+
+Übersehen wird fast immer [μου το ’λεγε]{lang="el"} [mu to ˈleʝe], weil das [έ-]{lang="el"}
+verschluckt ist. Wer [ακούω, βλέπω]{lang="el"} mitgezählt hat, hat das erzählende Präsens für
+eine Vergangenheit gehalten.
+
+**Schritt 2:** 1A ([έμεινα]{lang="el"}), 2I ([έπαιζα]{lang="el"}), 3A ([διάβασα]{lang="el"}),
+4I ([πήγαινα]{lang="el"}), 5I ([έμενα]{lang="el"}), 6A ([έγραψα]{lang="el"}). 1 und 5 sind das
+schwerste Paar: Im Gespräch hilft nur der Rest des Satzes.
+
+**Schritt 3:** Eine feste Zahl gibt es nicht. So wertest du aus:
+
+- **Treffer:** Was du gehört hast und in den Untertiteln wiederfindest. In Gesprächen über früher
+  ist [ήταν]{lang="el"} fast immer das häufigste Wort auf deiner Liste.
+- **Fehlalarme:** [μπορούμε]{lang="el"}, [μιλούμε]{lang="el"} und ähnliche Präsensformen mit
+  betontem [ˈu]; ohne [s] danach sind sie kein Imperfekt.
+- **Übersehen:** meist die Formen auf [-ούσανε]{lang="el"} und das kurze [ˈitan], das im Satz
+  untergeht.
+- Die Imperfekte ohne [-ούσ-]{lang="el"} ([πηγαίναμε, έμενα]{lang="el"}) hat die Strichliste
+  bewusst ausgelassen; die sind der nächste Schritt.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
