@@ -32,10 +32,10 @@
 | 26 Wortbildung I: Präfixe und Verkleinerungen | veröffentlicht | Welle 12; Audio vollständig |
 | 27 Wortbildung II: die Sprache der Wissenschaft | veröffentlicht | Welle 13; Audio vollständig |
 | 28 Nachrichtensprache | veröffentlicht | Welle 13; Audio vollständig |
-| 29 Argumentieren | veröffentlicht | Welle 12; Audio ausstehend |
-| 30 Redewendungen | veröffentlicht | Welle 12; Audio ausstehend |
-| 31 Vom Amt bis zur Taverne: Register und Höflichkeit | veröffentlicht | Welle 14; Audio ausstehend |
-| 32 Kreta und Zypern hören | veröffentlicht | Welle 12; Audio ausstehend |
+| 29 Argumentieren | veröffentlicht | Welle 12; Audio vollständig |
+| 30 Redewendungen | veröffentlicht | Welle 12; Audio vollständig |
+| 31 Vom Amt bis zur Taverne: Register und Höflichkeit | veröffentlicht | Welle 14; Audio vollständig |
+| 32 Kreta und Zypern hören | veröffentlicht | Welle 12; Audio vollständig |
 | 33 Filme verstehen | veröffentlicht | Welle 15; Audio ausstehend |
 | 34 Abschluss und B2-Selbsttest | Konsistenz | Welle 15; überarbeitet |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |

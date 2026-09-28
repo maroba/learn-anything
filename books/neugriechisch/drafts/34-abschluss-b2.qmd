@@ -37,10 +37,10 @@ Zeit nach dem Buch.
 
 ## Die Prüfung und dieser Test {#sec-abschluss-pruefung}
 
-Das offizielle Zeugnis für Griechisch als Fremdsprache ist das **Πιστοποιητικό Ελληνομάθειας**
-des **Κέντρο Ελληνικής Γλώσσας** (ΚΕΓ, Zentrum für die griechische Sprache) in Thessaloniki. Es
-wird in sechs Stufen nach dem Europäischen Referenzrahmen geprüft, von A1 bis C2 (griechisch
-Α1 bis Γ2; B2 heißt dort Β2, „gute Kenntnis“). Die Prüfung für B2 hat nach der Übersicht des ΚΕΓ
+Das offizielle Zeugnis für Griechisch als Fremdsprache ist das **[Πιστοποιητικό Ελληνομάθειας]{lang="el"}**
+des **[Κέντρο Ελληνικής Γλώσσας]{lang="el"}** ([ΚΕΓ]{lang="el"}, Zentrum für Griechische Sprache) in Thessaloniki. Es
+wird in sechs Stufen nach dem GER geprüft, von A1 bis C2 (griechisch
+[Α1]{lang="el"} bis [Γ2]{lang="el"}; B2 heißt dort [Β2]{lang="el"}, „gute Kenntnis“). Die Prüfung für B2 hat nach der Übersicht des [ΚΕΓ]{lang="el"}
 fünf Teile mit je 20 Punkten:
 
 | Teil | Dauer | Aufgaben |
@@ -60,12 +60,12 @@ wie gut die anderen sind.
 
 Termine und die jeweils angebotenen Stufen wechseln von Jahr zu Jahr; als dieses Kapitel
 entstand, war der nächste B2-Termin im Mai 2027. Wer die Prüfung wirklich ablegen will, prüft
-alles auf der [Seite des ΚΕΓ](https://www.greek-language.gr/certification/); dort gibt es auch
+alles auf der [Seite des [ΚΕΓ]{lang="el"}](https://www.greek-language.gr/certification/); dort gibt es auch
 vollständige Modellprüfungen mit Hörtexten.
 :::
 
 Der Test in diesem Kapitel bildet drei der fünf Teile nach: **Lesen, Sprachgebrauch** (hier
-„Wortschatz und Grammatik“) und **Hören**. Die Aufgabentypen folgen der Übersicht des ΚΕΓ, die
+„Wortschatz und Grammatik“) und **Hören**. Die Aufgabentypen folgen der Übersicht des [ΚΕΓ]{lang="el"}, die
 Texte sind selbst geschrieben und kürzer als in der echten Prüfung. Es sind keine
 Originalaufgaben. Vier Unterschiede solltest du kennen:
 
@@ -397,7 +397,7 @@ du es.
 
 1. **[τους]{lang="el"}:** [όλο και περισσότερους επισκέπτες]{lang="el"} „immer mehr Besucher“
    steht ohne Artikel, und ohne Artikel vor dem Adjektiv steht auch keiner vor dem Nomen. Eine
-   betonte Doppelform mit zwei Artikeln gibt es zwar ([το μεγάλο το σπίτι]{lang="el"}), aber nur,
+   betonte Form mit zwei Artikeln gibt es zwar ([το μεγάλο το σπίτι]{lang="el"}), aber nur,
    wenn schon vor dem Adjektiv einer steht. Nicht verwechseln: [τους περισσότερους
    επισκέπτες]{lang="el"} heißt „die meisten Besucher“ (Kapitel 12).
 2. **[που]{lang="el"}:** [οι οποίοι]{lang="el"} oder [που]{lang="el"}, nicht beides (Kapitel 15);
@@ -405,9 +405,9 @@ du es.
 3. **[για]{lang="el"}:** [λόγω]{lang="el"} regiert selbst den Genitiv, ohne weitere Präposition
    (Kapitel 28).
 4. **[τα]{lang="el"}** vor [μένουν]{lang="el"}: „bleiben“ hat kein Objekt. Ohne [τα]{lang="el"}
-   heißt es nach der Regel zum Schluss-ν [δε μένουν]{lang="el"}.
-5. **b)** Im Bedingungssatz nach [αν]{lang="el"} steht in der Standardsprache kein
-   [θα]{lang="el"} (Kapitel 17). Ohne [θα]{lang="el"} bekommt das [δε]{lang="el"} sein ν zurück:
+   heißt es nach der Regel zum Schluss-[ν]{lang="el"} [δε μένουν]{lang="el"}.
+5. **[θα]{lang="el"}** vor [μπει]{lang="el"}: Im Bedingungssatz nach [αν]{lang="el"} steht in der Standardsprache kein
+   [θα]{lang="el"} (Kapitel 17). Ohne [θα]{lang="el"} bekommt das [δε]{lang="el"} sein [ν]{lang="el"} zurück:
    [Αν δεν μπει]{lang="el"}. Das zweite [θα]{lang="el"} in der Folge ist richtig.
 6. **[το]{lang="el"}:** [ένα τέτοιο μέτρο]{lang="el"}, ein Artikel reicht. Gemeint ist das
    [όριο]{lang="el"} aus Satz 5.
@@ -736,7 +736,7 @@ führt ein wörtliches „muss“ zu (c); [πρέπει να]{lang="el"} mit Per
 :::
 
 ::: {.callout-note collapse="true" .translation}
-## Übersetzung der Hörtexte
+## Übersetzung
 
 **Das Interview**
 
@@ -862,9 +862,9 @@ nachzudenken“ beantwortest.
 
 1. Ich verstehe ein Easy-Greek-Video mit griechischen Untertiteln im Wesentlichen und kann danach
    sagen, worüber die Leute auf der Straße geredet haben.
-2. Ich folge einer Filmszene auf der zweiten Stufe der Untertitel-Leiter (griechische Untertitel)
+2. Ich folge einer Filmszene auf der zweiten Stufe der Untertitel-Leiter aus Kapitel 21 (griechische Untertitel)
    und kann die Leitfaden-Fragen 1 bis 3 aus Kapitel 33 beantworten.
-3. Ich verstehe die Nachrichten von SBS Ελληνικά (Kapitel 28) in den Grundzügen: wer, was, wo.
+3. Ich verstehe die Nachrichten von SBS [Ελληνικά]{lang="el"} (Kapitel 28) in den Grundzügen: wer, was, wo.
 4. Ich erkenne im schnellen Gespräch Verschleifungen wie [πού ’σαι]{lang="el"} und Füllwörter,
    ohne hängen zu bleiben (Kapitel 21).
 5. Ich merke, wenn jemand ironisch ist ([σιγά]{lang="el"}, [Σιγά τα λάχανα]{lang="el"}) oder eine
@@ -874,7 +874,7 @@ Vier oder fünf Ja pro Liste: Du bist dort vermutlich nah an B2. Weniger: Das is
 die viel lesen und wenig sprechen, die Regel und kein Grund zur Sorge, aber der Bereich, in den
 die nächsten Monate gehören. Eine einfache Probe fürs Sprechen: Nimm dich mit dem Handy auf, wie
 du die Frage aus Punkt 2 beantwortest, und hör es am nächsten Tag an. Dass du dabei eigene
-Fehler bemerkst, ist ein gutes Zeichen: Genau das nennt die Beschreibung des ΚΕΓ als Merkmal von B2.
+Fehler bemerkst, ist ein gutes Zeichen: Genau das nennt die Beschreibung des [ΚΕΓ]{lang="el"} als Merkmal von B2.
 
 ## Auswertung {#sec-abschluss-auswertung}
 
@@ -901,7 +901,7 @@ hat ihn an einer Gruppe von Lernenden erprobt, und wer das Buch gelesen hat, ken
 Beim Hören wiegt das am schwersten: Die synthetische Stimme ist leichter zu verstehen als die
 Aufnahmen der Prüfung, und wer bei drei Antworten rät, trifft jede dritte. Ein Hörergebnis von 12
 oder 13 heißt deshalb eher „knapp darunter“. Einen belastbaren Maßstab bieten nur die
-Modellprüfungen des ΚΕΓ.
+Modellprüfungen des [ΚΕΓ]{lang="el"}.
 :::
 
 **Wo nachlesen?** Fehler häufen sich meist in wenigen Bereichen:
@@ -925,7 +925,7 @@ Modellprüfungen des ΚΕΓ.
 | Register, E-Mail | 34.6 | 31 |
 | Hören, sachlich | 34.7 | 18, 28 |
 | Hören, umgangssprachlich | 34.8 | 21, 33 |
-| Wortschatzlücken | alle | kein Kapitel, sondern Menge: siehe @sec-abschluss-weiter, dazu das ΛΚΝ |
+| Wortschatzlücken | alle | kein Kapitel, sondern Menge: siehe @sec-abschluss-weiter, dazu das Wörterbuch der Standardsprache |
 | Inhalt falsch, obwohl die Grammatik klar war | 34.2, 34.7 | die Texte „Zum Lesen“ am Kapitelende langsam lesen, dann viel Leichtes |
 
 ## Wie es weitergeht {#sec-abschluss-weiter}
@@ -935,16 +935,16 @@ Für jede Sorte gibt es eine Quelle, die du aus dem Buch kennst:
 
 - **[Easy Greek](https://www.youtube.com/@EasyGreekVideos):** Straßeninterviews mit griechischen
   und englischen Untertiteln, spontane Umgangssprache.
-- **[SBS Ελληνικά](https://www.sbs.com.au/language/greek/el):** Nachrichten, Beiträge und
+- **[SBS [Ελληνικά]{lang="el"}](https://www.sbs.com.au/language/greek/el):** Nachrichten, Beiträge und
   Interviews des australischen Senders auf Griechisch, auch als Podcast.
 - **[ERTflix](https://www.ertflix.gr):** Nachrichten, Dokumentationen, Serien und Filme des
   öffentlichen Rundfunks, viele mit griechischen Untertiteln (Kapitel 33).
-- **Das [Λεξικό της Κοινής Νεοελληνικής](https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/index.html)**
-  (ΛΚΝ) des Triantafyllidis-Instituts, das einsprachige Wörterbuch aus den Kapiteln 22 und 30.
+- **Das Wörterbuch der Standardsprache**, das [[«Λεξικό της Κοινής Νεοελληνικής»]{lang="el"}](https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/index.html)
+  des Triantafyllidis-Instituts, das einsprachige Wörterbuch aus den Kapiteln 22 und 30.
   Die Grundform ins Suchfeld eingeben; der Eintrag zeigt Betonung, Beugung, Stilmarken wie
   umgangssprachlich oder gelehrt und Beispielsätze. Ab jetzt lohnt es sich, dort nachzuschlagen
   statt in einem zweisprachigen Wörterbuch.
-- Die **[Seite des ΚΕΓ](https://www.greek-language.gr/certification/)** mit den
+- Die **[Seite des [ΚΕΓ]{lang="el"}](https://www.greek-language.gr/certification/)** mit den
   Modellprüfungen, falls du das Zertifikat ablegen willst.
 
 Eine Woche, die funktioniert: zweimal ein Easy-Greek-Video intensiv, einmal einen SBS-Beitrag,
@@ -952,20 +952,20 @@ eine Serienfolge auf ERTflix mit den Stufen der Untertitel-Leiter aus Kapitel 21
 Filmen die Leiter für Filme aus Kapitel 33), jeden Tag die Anki-Karten. Fürs Sprechen, den
 wahrscheinlich schwächsten Teil, zwei feste Termine: einmal zehn Minuten Shadowing wie in
 Kapitel 21 und einmal eine zweiminütige Handy-Aufnahme zu einer Sprechfrage aus den
-Modellprüfungen des ΚΕΓ, am nächsten Tag angehört. Und so oft es geht ein echtes Gespräch, am
+Modellprüfungen des [ΚΕΓ]{lang="el"}, am nächsten Tag angehört. Und so oft es geht ein echtes Gespräch, am
 Telefon, im Tandem oder am Tisch einer Taverne. Wer Abwechslung braucht, hört zwischendurch
 wieder Kretisch und Zypriotisch wie in Kapitel 32. Nach einigen Monaten lohnt sich ein zweiter Test, diesmal
-mit einer vollständigen Modellprüfung des ΚΕΓ.
+mit einer vollständigen Modellprüfung des [ΚΕΓ]{lang="el"}.
 
 ## Das Wichtigste {#sec-abschluss-wichtigste}
 
-- Das B2-Zertifikat des ΚΕΓ prüft fünf Teile mit je 20 Punkten, und jeder muss einzeln bestanden
+- Das B2-Zertifikat des [ΚΕΓ]{lang="el"} prüft fünf Teile mit je 20 Punkten, und jeder muss einzeln bestanden
   werden, mit mindestens 60 %, also 12 Punkten. Dieser Test bildet Lesen, Sprachgebrauch und Hören nach; Schreiben, Sprechen und
   das Hören echter Aufnahmen schätzt du selbst ein.
 - Der schwächste Teil zeigt, wo die nächsten Wochen hingehören; die Tabelle in
   @sec-abschluss-auswertung nennt die Kapitel dazu.
 - Nach dem Buch: Menge statt neuer Regeln. Hören mit Easy Greek, SBS und ERTflix, nachschlagen im
-  ΛΚΝ, sprechen, wo immer es geht.
+  Wörterbuch der Standardsprache, sprechen, wo immer es geht.
 
 Und damit Schluss. In Kapitel 2 war [έγραψα]{lang="el"} eine rätselhafte Form mit einem
 Buchstaben zu viel vorn; heute liest du Leuchtturmgeschichten, Behördenmails und Streit auf
