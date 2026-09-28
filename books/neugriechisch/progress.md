@@ -16,7 +16,7 @@
 | 11 Zeit: Uhrzeit, Datum, Jahreszahlen | Konsistenz | Welle 3; erscheint nach 10 |
 | 10 Verben auf -μαι im Alltag | fertig | Welle 4; wartet auf 08, 09 |
 | 12 Vergleichen und Zwischenbilanz | Übungen | Welle 6; Entwurf fertig |
-| 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio läuft |
+| 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | Konsistenz | Welle 5; überarbeitet |
 
 ## Plan für /write all (Wellen nach Voraussetzungen)
