@@ -195,7 +195,67 @@ Male [*moi aussi*]{lang="fr"} und hilft hier nicht. Und die Rückfrage heißt
 [Εσύ;]{lang="el"} oder [Κι εσύ;]{lang="el"} bzw. [Εσένα;]{lang="el"}: [— Μου αρέσει.
 Εσένα;]{lang="el"} „Mir gefällt’s. Dir?“
 
-<!-- EXERCISE: Lernziel: starke Formen nach Präposition, in Kurzantworten und bei „ich auch / ich auch nicht“ wählen (κι εγώ vs. κι εμένα, ούτε εγώ vs. ούτε εμένα, μαζί μου vs. για μένα); Art: Auswählen mit nummerierten Optionen (auf kurze Äußerungen am Tisch reagieren) plus einige Sätze mündlich übersetzen; Schwierigkeit 1–2 -->
+::: {.callout-note .exercise}
+## Übung 20.1: Kurz geantwortet
+
+Am Tisch fällt ein Satz, du antwortest kurz. Welche Antwort passt? Im Chat: „1a, 2b, …“.
+
+1. [Δεν ξέρω τι να πω.]{lang="el"} – Ich auch nicht: (a) [Ούτε εγώ.]{lang="el"}
+   [(b) Ούτε εμένα.]{lang="el"}
+2. [Μου λείπει η θάλασσα.]{lang="el"} – Mir auch: (a) [Κι εγώ.]{lang="el"}
+   [(b) Κι εμένα.]{lang="el"}
+3. [Δε μου αρέσει το ούζο.]{lang="el"} – Mir auch nicht: (a) [Ούτε εγώ.]{lang="el"}
+   [(b) Ούτε εμένα. (c) Ούτε μου.]{lang="el"}
+4. [Ποιον κλήρωσαν;]{lang="el"} – Mich: (a) [Εγώ.]{lang="el"} (b) [Εμένα.]{lang="el"}
+   [(c) Με.]{lang="el"}
+5. Ist der Kaffee für mich? [Ο καφές είναι …]{lang="el"} (a) [για με;]{lang="el"}
+   [(b) για μένα; (c) για μου;]{lang="el"}
+6. [Μου αρέσει η Αίγινα.]{lang="el"} – Und dir? (a) [Κι εσύ;]{lang="el"}
+   [(b) Κι εσένα;]{lang="el"}
+7. Er sitzt neben mir: [Κάθεται …]{lang="el"} (a) [δίπλα μου.]{lang="el"}
+   [(b) δίπλα εμένα. (c) δίπλα σε μένα.]{lang="el"}
+
+Dann laut übersetzen:
+
+8. Ohne dich fahre ich nicht nach Ägina.
+9. Wer zahlt? – Ich.
+10. Sie sitzt hinter mir, aber sie redet nur mit dir.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Denk dir den ganzen Satz dazu: [Ούτε εγώ ξέρω …]{lang="el"} oder [Ούτε εμένα μου αρέσει …]{lang="el"}?
+Spanisch hilft: [*yo tampoco*]{lang="es"} oder [*a mí tampoco*]{lang="es"}?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Schwache Pronomen stehen nie allein und nie nach einer Präposition. Hinter [δίπλα, πίσω]{lang="el"}
+steht dagegen das schwache im Genitiv.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1a, 2b, 3b, 4b, 5b, 6b, 7a (auch c).**
+
+- 1: [ξέρω]{lang="el"} hat „ich“ als Subjekt, also [εγώ]{lang="el"}. 2, 3 und 6: [μου λείπει, μου
+  αρέσει]{lang="el"} heißt „mir“, also [εμένα]{lang="el"}, auch in der Rückfrage. Der häufigste
+  Fehler ist [κι εγώ]{lang="el"} nach dem Muster von [*moi aussi*]{lang="fr"}.
+- 4: [κλήρωσαν]{lang="el"} braucht ein Objekt, also [εμένα]{lang="el"}. [εγώ]{lang="el"} hieße „ich
+  habe ausgelost“.
+- 3c, 4c, 5a, 5c: Schwache Formen können nicht allein und nicht nach [για]{lang="el"} stehen.
+  [για μου]{lang="el"} greift außerdem zum Genitiv, den es stark in der 1. Person nicht gibt.
+- 7: [δίπλα μου]{lang="el"} ist die normale Form, [δίπλα σε μένα]{lang="el"} die betonte;
+  \*[δίπλα εμένα]{lang="el"} geht nicht.
+- 8: [Χωρίς εσένα δεν πάω στην Αίγινα.]{lang="el"} (auch [χωρίς σένα]{lang="el"}, [δε θα
+  πάω]{lang="el"})
+- 9: [— Ποιος πληρώνει; — Εγώ.]{lang="el"}
+- 10: [Κάθεται πίσω μου, αλλά μιλάει μόνο με σένα.]{lang="el"} (auch [μ’ εσένα]{lang="el"}, [με
+  εσένα]{lang="el"}). Nicht \*[πίσω εμένα]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |

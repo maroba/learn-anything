@@ -22,7 +22,7 @@
 | 16 Weil, obwohl, damit: Nebensätze | veröffentlicht | Welle 8; Audio vollständig |
 | 17 Wenn … dann: realer Konditional und Zeitsätze | veröffentlicht | Welle 9; Audio vollständig |
 | 18 Er sagt, dass: indirekte Rede und indirekte Fragen | veröffentlicht | Welle 9; Audio läuft |
-| 19 Müde, aber glücklich: Partizip und Gerundium | Konsistenz | Welle 8 |
+| 19 Müde, aber glücklich: Partizip und Gerundium | veröffentlicht | Welle 8; Audio ausstehend |
 | 20 Mit Nachdruck: starke Pronomen und Doppelung | Übungen | Welle 9; Entwurf fertig |
 | 22 Vielleicht, wahrscheinlich, sicher: Modalität | Entwurf | Welle 9 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
@@ -37,3 +37,4 @@
 ## Offene TODOs
 - Kapitel 13: Imperfekt der -μαι-Verben aktiv aufgreifen (in outline.md ergänzt, Kapitel 10 verspricht es).
 - Hörübungen ohne sichtbaren Text sind jetzt möglich (`::: {lang="el" .listen}`): in Kapitel 11 (11.5, 11.6) nachrüsten, künftig in Hör-Aufträgen nutzen.
+- Vokabeltabellen: Glossar verlangt ab Kapitel 13 den Mediopassiv-Aorist bei passivfähigen Verben; fehlt bei καίω (14), κλειδώνω, σπάω, χαλάω (19). Regel lockern oder nachtragen.
