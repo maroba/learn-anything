@@ -13,7 +13,7 @@
 | 05 Der zweite Stamm in der Zukunft: θα und να | veröffentlicht | Welle 3; Audio läuft |
 | 06 Auf dem Markt: Nomen, Adjektive, Zahlen | veröffentlicht | Welle 2; Audio ausstehend |
 | 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | veröffentlicht | Welle 3; Audio ausstehend |
-| 11 Zeit: Uhrzeit, Datum, Jahreszahlen | Überarbeitung | Welle 3; erscheint nach 8–10 |
+| 11 Zeit: Uhrzeit, Datum, Jahreszahlen | überarbeitet | Welle 3; Konsistenzprüfung erst wenn 8–10 fertig (vocab-Dubletten), erscheint nach 10 |
 | 10 Verben auf -μαι im Alltag | Übungen | Welle 4; Entwurf fertig |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | Entwurf | Welle 4 |
 
@@ -24,3 +24,4 @@
 16: 33 · 17: 34 (höchstens drei Kapitel gleichzeitig)
 
 ## Offene TODOs
+- Extension: Hörübungen mit ▶-Knopf ohne sichtbaren Text (Text eingeklappt darunter), damit Hören wirklich Hören ist (Wunsch aus Review Kapitel 11).

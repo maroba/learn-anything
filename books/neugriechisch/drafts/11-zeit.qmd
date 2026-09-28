@@ -5,7 +5,7 @@ title: "Zeit: Uhrzeit, Datum, Jahreszahlen"
 ::: {.callout-note .review}
 ## Zur Wiederholung
 
-Aus Kapitel 6 wird vorausgesetzt:
+Aus Kapitel 6:
 
 - **Eins, drei, vier** haben Genus. **Uhrzeiten sind weiblich**, weil [η ώρα]{lang="el"}
   mitgedacht ist: [στις τρεις, στις τέσσερις]{lang="el"}; **Preise sind sächlich**:
@@ -13,6 +13,9 @@ Aus Kapitel 6 wird vorausgesetzt:
 - **Anderthalb** hat drei Formen: [ενάμισης μήνας, μιάμιση ώρα, ενάμισι κιλό]{lang="el"}.
 - Die Zahlen bis hundert aus dem Exkurs „Die Zahlen zum Nachschlagen“; dort stand auch, dass die
   großen Zahlen hier folgen.
+
+Aus Kapitel 7: Genitiv [-ος → -ου]{lang="el"}; gelehrte Namen auf [-ιος]{lang="el"} bilden
+[-ίου]{lang="el"}: [Γεώργιος – Γεωργίου]{lang="el"}.
 :::
 
 ## Mittwoch ist Feiertag {#sec-zeit-einstieg}
@@ -76,16 +79,15 @@ Der 25. März ist doppelt Feiertag: Die Kirche feiert Mariä Verkündigung, der 
 Revolution von 1821 (mehr im Lesetext am Ende). Weil der Tag in die Fastenzeit fällt, in der
 Fisch sonst tabu ist, an diesem Tag aber erlaubt, isst man frittierten Stockfisch mit
 [σκορδαλιά]{lang="el"}, einem Püree aus Knoblauch und Kartoffeln oder Brot. Die „griechische
-Zeit“ ist ein Scherz über sich selbst: Eine Verabredung um halb drei beginnt gegen drei, und alle
-wissen das.
-<!-- CHECK: „ελληνική ώρα“ als scherzhafte Wendung für dehnbare Pünktlichkeit gebräuchlich? Fisch am 25. März (Ευαγγελισμός) in der Fastenzeit ausnahmsweise erlaubt, Stockfisch mit Skordalia als Brauch -->
+Zeit“ ist ein Scherz über sich selbst: Halb drei heißt eher Viertel vor drei, und alle wissen das.
+Die Wendung ist umgangssprachlich; wie fest sie ist, ließ sich nicht sicher belegen, verstanden
+wird der Witz aber überall.
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [ελεύθερος, -η, -ο]{lang="el"} | [eˈlefθeros] | frei; (Mensch) nicht beschäftigt |
 | [η αργία]{lang="el"} | [i arˈʝia] | der (gesetzliche) Feiertag |
-| [Έγινε.]{lang="el"} | [ˈeʝine] | Abgemacht. Geht klar. (umg.) |
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -102,6 +104,7 @@ wissen das.
 | [Τι λες;]{lang="el"} | Was meinst du? |
 | [ελληνική ώρα]{lang="el"} | „griechische Zeit“, also etwas später (umg., scherzhaft) |
 | [δηλαδή]{lang="el"} | das heißt, also |
+| [Έγινε.]{lang="el"} | Abgemacht. (Kapitel 10) |
 :::
 
 ## [Τι ώρα είναι;]{lang="el"} Die Uhrzeit {#sec-zeit-uhrzeit}
@@ -161,7 +164,7 @@ Zwölf Uhr ist [δώδεκα το μεσημέρι]{lang="el"} oder [δώδεκ�
 stehen dafür [π.μ.]{lang="el"} und [μ.μ.]{lang="el"}, „vor“ und „nach Mittag“ wie *a.m.* und *p.m.*
 
 Fahrpläne, Ansagen und Nachrichten zählen bis 24: 19:30 heißt dort
-[δεκαεννιά και τριάντα]{lang="el"}. Im Gespräch rechnet man um: [στις εφτάμισι το
+[δεκαεννέα και τριάντα]{lang="el"}. Im Gespräch rechnet man um: [στις εφτάμισι το
 βράδυ]{lang="el"}. Wer ungefähr meint, sagt [γύρω στις οχτώ]{lang="el"} oder, aus Kapitel 1,
 [κατά τις οχτώ]{lang="el"}; wer es genau meint, [στις οχτώ ακριβώς]{lang="el"}.
 
@@ -216,7 +219,7 @@ Zahlen haben eine weibliche Form, und kommt eine davon vor?
 1. [Είναι μία.]{lang="el"} Weiblich, also nicht \*[ένα]{lang="el"}.
 2. [στις τρεις και μισή (το απόγευμα)]{lang="el"} oder [στις τρεισήμισι]{lang="el"}. Die
    Falle: \*[τέσσερις και μισή]{lang="el"} ist 4:30. Auch nicht \*[τριάμισι]{lang="el"}, das
-   gehört zu Kilos.
+   gehört zu Kilos, und nicht \*[τεσσερισήμισι]{lang="el"}, das ist wieder 4:30.
 3. [στις πέντε παρά τέταρτο]{lang="el"}. [τέσσερις και σαράντα πέντε]{lang="el"} ist
    verständlich, klingt aber nach Bahnhofsdurchsage.
 4. [Είναι δώδεκα και δέκα (το μεσημέρι).]{lang="el"}
@@ -272,18 +275,22 @@ Spanischen:
 - [την Τρίτη]{lang="el"} – [*el martes*]{lang="es"} – am Dienstag
 - [τις Τρίτες]{lang="el"}, [κάθε Τρίτη]{lang="el"} – [*los martes*]{lang="es"} – dienstags
 
+In Aufzählungen fällt der Artikel oft weg: [Δευτέρα και Τρίτη δουλεύω]{lang="el"} aus dem
+Einstieg, [από Τρίτη μέχρι Κυριακή]{lang="el"}.
+
 Alle Tage sind weiblich außer dem sächlichen [Σάββατο]{lang="el"}: [το Σάββατο, τα
 Σάββατα]{lang="el"}. Samstag und Sonntag zusammen ergeben [το Σαββατοκύριακο]{lang="el"}, das
 Wochenende. Und das Schluss-ν aus Kapitel 1 bekommt eine Übungsstrecke: [την Τρίτη, την Τετάρτη,
 την Πέμπτη, την Παρασκευή, την Κυριακή]{lang="el"}, aber [τη Δευτέρα]{lang="el"}, der einzige
-Tag, der nicht mit Verschlusslaut beginnt.
+weibliche Tag, der nicht mit Verschlusslaut beginnt.
 
 ::: {.callout-note collapse="true"}
 ## Exkurs: [Τρίτη και δεκατρείς]{lang="el"}
 
 Der Unglückstag der Griechen ist nicht Freitag, der 13., sondern **Dienstag**, der 13.:
-[Τρίτη και δεκατρείς]{lang="el"}, mit weiblichem [δεκατρείς]{lang="el"}, weil die
-[Τρίτη]{lang="el"} weiblich ist. Die gängige Erklärung: Konstantinopel fiel an einem Dienstag, dem
+[Τρίτη και δεκατρείς]{lang="el"}, mit weiblichem [δεκατρείς]{lang="el"}, weil es ein Datum
+ist ([η μέρα]{lang="el"}), nicht wegen der [Τρίτη]{lang="el"}: Es hieße auch [Σάββατο και
+δεκατρείς]{lang="el"}. Die gängige Erklärung: Konstantinopel fiel an einem Dienstag, dem
 29. Mai 1453. Auch in Spanien und Lateinamerika ist [*martes y trece*]{lang="es"} der Unglückstag;
 woher der Aberglaube wirklich stammt, ist unklar.
 :::
@@ -303,11 +310,11 @@ woher der Aberglaube wirklich stammt, ist unklar.
 
 ## [Είκοσι πέντε Μαρτίου]{lang="el"}: das Datum {#sec-zeit-datum}
 
-Die Monate haben zwei Formen: eine neutrale, die auf Formularen, in Nachrichten und in Kalendern
+Die Monate haben zwei Formen: eine Standardform, die auf Formularen, in Nachrichten und in Kalendern
 steht, und eine volkstümliche, die du auf der Straße hörst. Für das Datum braucht man dazu eine
 dritte, den Genitiv:
 
-| neutral | umgangssprachlich | am 5. … |
+| Standard | umgangssprachlich | am 5. … |
 |---|---|---|
 | [ο Ιανουάριος]{lang="el"} | [ο Γενάρης]{lang="el"} | [στις πέντε Ιανουαρίου]{lang="el"} |
 | [ο Φεβρουάριος]{lang="el"} | [ο Φλεβάρης]{lang="el"} | [Φεβρουαρίου]{lang="el"} |
@@ -323,20 +330,23 @@ dritte, den Genitiv:
 | [ο Δεκέμβριος]{lang="el"} | [ο Δεκέμβρης]{lang="el"} | [Δεκεμβρίου]{lang="el"} |
 
 Die Monate sind männlich. „Im März“ ist wieder der bloße Akkusativ: [τον Μάρτιο]{lang="el"}, im
-Gespräch [τον Μάρτη]{lang="el"}. Die dritte Spalte ist ein Genitiv in gelehrter Form (Kapitel 7);
-lern sie als festen Baustein: aus [-ιος]{lang="el"} wird [-ίου]{lang="el"}, aus
-[Αύγουστος]{lang="el"} [Αυγούστου]{lang="el"}. Umgangssprachlich hörst du auch
-[στις πέντε του Μάρτη]{lang="el"}.
+Gespräch [τον Μάρτη]{lang="el"}. Die dritte Spalte ist der gelehrte Genitiv aus Kapitel 7: aus
+[-ιος]{lang="el"} wird [-ίου]{lang="el"}, die Betonung wandert aufs [-ί-]{lang="el"}, wie bei
+[Γεώργιος – Γεωργίου]{lang="el"}; aus [Αύγουστος]{lang="el"} wird [Αυγούστου]{lang="el"}. Die
+Namenstage in Kapitel 7 ([στις 23 Απριλίου]{lang="el"}) waren also schon Daten.
+Umgangssprachlich hörst du auch [στις πέντε του Μάρτη]{lang="el"}: [-ης → -η]{lang="el"} wie
+[του Γιάννη]{lang="el"}.
 
 Das Datum selbst ist, wie die Uhrzeit, weiblich, denn gemeint ist [η μέρα]{lang="el"}:
 [στις τρεις Μαρτίου]{lang="el"}, [στις είκοσι μία Απριλίου]{lang="el"}. Nur der Erste bekommt
-eine Ordnungszahl, wie im Französischen: [την πρώτη Μαΐου]{lang="el"}, [*le premier mai*]{lang="fr"}.
+eine Ordnungszahl, wie im Französischen, und steht wie der Wochentag im bloßen Akkusativ:
+[την πρώτη Μαΐου]{lang="el"} (mit ν vor π), [*le premier mai*]{lang="fr"}.
 Das Jahr folgt dahinter, gesprochen meist mit [του]{lang="el"}: [στις είκοσι πέντε Μαρτίου του
 2026]{lang="el"}, geschrieben 25/3/2026 oder [25 Μαρτίου 2026]{lang="el"}, Tag vor Monat wie bei uns.
-<!-- CHECK: Datum mit Jahr gesprochen „στις 25 Μαρτίου του 2026“ üblicher als ohne του? -->
 
 Nach dem Datum fragt man mit einer Wendung, die wörtlich „Wie viele (Tage) des Monats haben wir
-heute?“ heißt:
+heute?“ heißt; [του μηνός]{lang="el"} ist ein alter Genitiv von [ο μήνας]{lang="el"}, nur in
+dieser Wendung:
 
 ::: {lang="el"}
 — Πόσες του μηνός έχουμε σήμερα;
@@ -345,8 +355,9 @@ heute?“ heißt:
 :::
 
 Am Ersten jedes Monats wünscht man sich [Καλό μήνα!]{lang="el"}, montags gern
-[Καλή εβδομάδα!]{lang="el"}. Auf Straßenschildern stehen Daten übrigens als Ordnungszahlen im
-Genitiv: [ΟΔΟΣ 28ΗΣ ΟΚΤΩΒΡΙΟΥ]{lang="el"}. Warum, erzählt der Lesetext.
+[Καλή εβδομάδα!]{lang="el"}. Und weil Straßennamen Genitive sind (Kapitel 7),
+stehen Daten auf Schildern als Ordnungszahlen im Genitiv: [ΟΔΟΣ 28ΗΣ ΟΚΤΩΒΡΙΟΥ]{lang="el"}.
+Warum gerade diese Daten, erzählt der Lesetext.
 
 ::: {.callout-note .exercise}
 ## Übung 11.2: Termine im Kalender
@@ -363,7 +374,7 @@ Sag laut auf Griechisch.
 8. im August
 9. am 3. Juni
 10. am 24. Dezember
-11. am Samstag, dem 3. Juni, um 21:30
+11. am Samstag, dem 6. Juni, um 21:30
 
 Zum Schluss dein eigener Geburtstag, ohne Jahr: [Γεννήθηκα στις …]{lang="el"} „Ich bin am …
 geboren“ (vgl. [γεννήθηκε]{lang="el"}, Kapitel 2).
@@ -395,12 +406,12 @@ Ordnungszahl.
 6. [στις είκοσι οχτώ Οκτωβρίου]{lang="el"}
 7. [στις δεκαπέντε Αυγούστου]{lang="el"}: der Monat ohne [-ίου]{lang="el"}, nur
    [-ου]{lang="el"}.
-8. [τον Αύγουστο]{lang="el"}. \*[στον Αύγουστο]{lang="el"} wäre eine
-   Lehnübersetzung von „im“.
+8. [τον Αύγουστο]{lang="el"}. Üblich ist der bloße Akkusativ; [στον Αύγουστο]{lang="el"}
+   kommt vor, klingt aber nach deutschem „im“.
 9. [στις τρεις Ιουνίου]{lang="el"}, weiblich, nicht \*[τρία]{lang="el"}.
 10. [στις είκοσι τέσσερις Δεκεμβρίου]{lang="el"}, ebenso weiblich.
-11. [το Σάββατο, τρεις Ιουνίου, στις εννιάμισι το βράδυ]{lang="el"}; auch
-    [το Σάββατο στις τρεις Ιουνίου]{lang="el"} ist üblich. Umgangssprachlich
+11. [το Σάββατο, έξι Ιουνίου, στις εννιάμισι το βράδυ]{lang="el"}; ebenso richtig
+    [το Σάββατο στις έξι Ιουνίου]{lang="el"}. Umgangssprachlich
     [Ιουνίου]{lang="el"} auch [του Ιούνη]{lang="el"}.
 
 Geburtstag, zum Beispiel: [Γεννήθηκα στις είκοσι μία Ιουλίου.]{lang="el"} Mit 1, 3, 4, 21, 23,
@@ -431,8 +442,8 @@ Geburtstag, zum Beispiel: [Γεννήθηκα στις είκοσι μία Ιο�
 
 ## [Το 1821]{lang="el"}: Jahreszahlen und große Zahlen {#sec-zeit-jahreszahlen}
 
-Hier kommen die Zahlen, die in Kapitel 6 noch fehlten. Die Hunderter sind Zehner mit
-[-κόσια]{lang="el"}:
+Hier kommen die Zahlen, die in Kapitel 6 noch fehlten. Die Hunderter bilden sich aus den
+Einern mit [-κόσια]{lang="el"}:
 
 | | Hunderter | |
 |---|---|---|
@@ -476,10 +487,24 @@ Museum steht vor Christus als [π.Χ.]{lang="el"}, gesprochen [προ Χριστ
 ::: {.callout-warning}
 ## Achtung
 
-Drei Fallen, alle aus Kapitel 6 bekannt: 1974 endet auf sächliches [τέσσερα]{lang="el"}, nicht
+Drei Fallen, alle nach dem Prinzip aus Kapitel 6: 1974 endet auf sächliches [τέσσερα]{lang="el"}, nicht
 \*[τέσσερις]{lang="el"}; 3000 € sind [τρεις χιλιάδες]{lang="el"}, nicht \*[τρία
 χιλιάδες]{lang="el"}; und 1500 Menschen sind [χίλιοι πεντακόσιοι άνθρωποι]{lang="el"}: Beide
 Teile passen sich an.
+:::
+
+::: {.callout-important}
+## Merke
+
+Was wird mitgedacht? Das bestimmt das Genus.
+
+| Beispiel | mitgedacht | Genus |
+|---|---|---|
+| [στις τρεις]{lang="el"} | [η ώρα]{lang="el"} | weiblich |
+| [στις τρεις Μαρτίου]{lang="el"} | [η μέρα]{lang="el"} | weiblich |
+| [το 1453]{lang="el"} (… [τρία]{lang="el"}) | [το έτος]{lang="el"} | sächlich |
+| [τρία ευρώ]{lang="el"} | [το ευρώ]{lang="el"} | sächlich |
+| [τρεις χιλιάδες]{lang="el"} | [η χιλιάδα]{lang="el"} | weiblich |
 :::
 
 ::: {.callout-note .exercise}
@@ -489,7 +514,7 @@ Teile passen sich an.
 „die Revolution von 1821“, „490 v. Chr.“
 
 **Teil B.** Sag laut: 300 Seiten, 200 Euro, 1000 Menschen, 3000 Euro, 4000 Einwohner,
-2 Millionen Einwohner.
+21 000 Einwohner, 2 Millionen Einwohner.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -527,6 +552,8 @@ richtet sich die Zahl vor [χιλιάδες]{lang="el"} nach [η χιλιάδα]
 - [χίλιοι άνθρωποι]{lang="el"}
 - [τρεις χιλιάδες ευρώ]{lang="el"}, nicht \*[τρία]{lang="el"}: gezählt werden die Tausender.
 - [τέσσερις χιλιάδες κάτοικοι]{lang="el"}, aus demselben Grund.
+- [είκοσι μία χιλιάδες κάτοικοι]{lang="el"}: auch in zusammengesetzten Zahlen weiblich, nicht
+  \*[είκοσι ένα χιλιάδες]{lang="el"}.
 - [δύο εκατομμύρια κάτοικοι]{lang="el"}; [εκατομμύριο]{lang="el"} ist sächlich, bei
   [δύο]{lang="el"} sieht man das nicht, bei drei schon: [τρία εκατομμύρια]{lang="el"}.
 :::
@@ -576,10 +603,15 @@ die Wörter, mit denen man Zeit einteilt.
 [μέχρι]{lang="el"} geht auch [ως]{lang="el"}; auf Schildern und in Formularen steht das förmliche
 [έως]{lang="el"}.
 
-**Vor und nach** stehen mit Akkusativ: [πριν από τον πόλεμο]{lang="el"} (Kapitel 2),
-[μετά τον πόλεμο]{lang="el"}. Vor dem Artikel fällt das [από]{lang="el"} im Gespräch oft weg:
-[πριν τις δέκα]{lang="el"}, [μετά τις δέκα]{lang="el"}. Vor Zahlen steht es:
-[μετά από δύο ώρες]{lang="el"}.
+**Vor und nach** stehen mit Akkusativ. Eine Faustregel für das [από]{lang="el"}, keine
+feste Grenze:
+
+- **Vor dem Artikel:** [μετά]{lang="el"} meist ohne, [πριν]{lang="el"} in der Schrift mit, im
+  Gespräch oft ohne: [μετά τον πόλεμο]{lang="el"}, [πριν (από) τον πόλεμο]{lang="el"}
+  (Kapitel 2); [μετά τις δέκα]{lang="el"}, [πριν (από) τις δέκα]{lang="el"}.
+- **Vor einer Zeitspanne mit Zahl:** normalerweise mit, umgangssprachlich auch ohne:
+  [μετά από δύο ώρες]{lang="el"}, [πριν από δύο ώρες]{lang="el"}; im Gespräch auch
+  [πριν δύο ώρες]{lang="el"}.
 
 **Seit:** [από]{lang="el"} allein nennt den Anfangspunkt, [εδώ και]{lang="el"} die Dauer. Das
 Verb steht, wie im Deutschen und Französischen, im Präsens:
@@ -606,8 +638,8 @@ Vier Blickrichtungen, vier Ausdrücke:
 ::: {.callout-warning}
 ## Achtung
 
-„Ich komme in zehn Minuten“ ist [Έρχομαι σε δέκα λεπτά.]{lang="el"}, nicht
-\*[μετά από δέκα λεπτά]{lang="el"}. Das klingt, als würdest du eine Geschichte erzählen, in der du
+„Ich komme in zehn Minuten“ ist [Έρχομαι σε δέκα λεπτά.]{lang="el"}; [μετά από δέκα
+λεπτά]{lang="el"} ist hier unidiomatisch. Es klingt, als würdest du eine Geschichte erzählen, in der du
 irgendwann auch noch auftauchst.
 :::
 
@@ -615,14 +647,14 @@ irgendwann auch noch auftauchst.
 ## Übung 11.4: Vorher, nachher, seit
 
 **Teil A.** Was gehört in die Lücke? A [πριν από]{lang="el"}, B [σε]{lang="el"},
-C [μετά από]{lang="el"}, D [εδώ και]{lang="el"}, E [από]{lang="el"} allein,
+C [μετά (από)]{lang="el"}, D [εδώ και]{lang="el"}, E [από]{lang="el"} allein,
 F [από … μέχρι]{lang="el"}. Im Chat reicht „1B, 2…“.
 
 ::: {lang="el" .no-audio}
 1. Το πλοίο φεύγει … δέκα λεπτά. Έλα γρήγορα!
 2. Μένω στη Θεσσαλονίκη … τρία χρόνια, και μου αρέσει ακόμα.
 3. Ο παππούς μου ήρθε στη Γερμανία … πενήντα χρόνια.
-4. Φτάσαμε στη Νάξο στις δέκα, και … δύο ώρες ήμασταν στην παραλία.
+4. Φτάσαμε στη Νάξο στις δέκα, και δύο ώρες … ήμασταν στην παραλία.
 5. Είμαι στην Αθήνα … τον Μάρτιο.
 6. Το μουσείο είναι ανοιχτό … τις εννιά … τις τρεις.
 7. — Πότε έρχεσαι; — … πέντε λεπτά.
@@ -641,7 +673,7 @@ F [από … μέχρι]{lang="el"}. Im Chat reicht „1B, 2…“.
 :::
 
 ::: {lang="el"}
-**Πειραιάς – Νάξος** · Αναχώρηση 07:25 · Άφιξη 13:10
+**Πειραιάς – Νάξος** · Δευτέρα · Αναχώρηση 07:25 · Άφιξη 13:10
 :::
 
 ([το ταχυδρομείο]{lang="el"} die Post)
@@ -666,14 +698,16 @@ es noch an?
 
 **Teil A: 1B, 2D, 3A, 4C, 5E, 6F, 7B.**
 
-- 1 und 7: vom Jetzt nach vorn, also [σε]{lang="el"}. \*[μετά από πέντε λεπτά]{lang="el"} in 7
+- 1 und 7: vom Jetzt nach vorn, also [σε]{lang="el"}. [μετά από πέντε λεπτά]{lang="el"} in 7
   ist der Klassiker aus dem Achtung-Kasten.
 - 2: Es dauert an, Präsens: [εδώ και τρία χρόνια]{lang="el"}. Mit
   [πριν από]{lang="el"} wärst du vor drei Jahren einmal dort gewesen.
-- 3: vom Jetzt zurück, abgeschlossen: [πριν από πενήντα χρόνια]{lang="el"}, umgangssprachlich
-  auch [πριν πενήντα χρόνια]{lang="el"}.
-- 4: gezählt ab dem Ankommen: [μετά από δύο ώρες]{lang="el"}; ebenso richtig [δύο ώρες
-  μετά]{lang="el"}. [σε]{lang="el"} wäre hier falsch, weil es vom Jetzt aus zählt.
+- 3: vom Jetzt zurück, abgeschlossen: [πριν από πενήντα χρόνια]{lang="el"}; vor der Zahl
+  normalerweise mit [από]{lang="el"}, im Gespräch auch [πριν πενήντα χρόνια]{lang="el"}.
+- 4: gezählt ab dem Ankommen, und die Lücke steht *hinter* der Zeitspanne: [δύο ώρες
+  μετά]{lang="el"} „zwei Stunden später“, ohne [από]{lang="el"}. Stünde die Lücke davor, ginge
+  [μετά από δύο ώρες]{lang="el"} und auch [σε δύο ώρες]{lang="el"} „binnen zwei Stunden“, wie
+  [σε μία ώρα ο δρόμος …]{lang="el"} in Kapitel 6.
 - 5: Zeitpunkt, kein Zeitraum: [από τον Μάρτιο]{lang="el"}. \*[εδώ και τον
   Μάρτιο]{lang="el"} geht nicht.
 - 6: [από τις εννιά μέχρι τις τρεις]{lang="el"}, auch [ως τις τρεις]{lang="el"}.
@@ -684,11 +718,11 @@ es noch an?
 Από Δευτέρα μέχρι Παρασκευή, από τις εννιά μέχρι τις δυόμισι. Το Σάββατο από τις δέκα μέχρι τη
 μία. Την Κυριακή είναι κλειστά.
 
-Το πλοίο φεύγει από τον Πειραιά στις εφτά και είκοσι πέντε το πρωί και φτάνει στη Νάξο στη μία
+Τη Δευτέρα το πλοίο φεύγει από τον Πειραιά στις εφτά και είκοσι πέντε το πρωί και φτάνει στη Νάξο στη μία
 και δέκα το μεσημέρι.
 :::
 
-Fallen: [μέχρι τη μία]{lang="el"} und [στη μία και δέκα]{lang="el"}, nicht
+Fallen: [τη Δευτέρα]{lang="el"} ohne ν; [μέχρι τη μία]{lang="el"} und [στη μία και δέκα]{lang="el"}, nicht
 \*[τις μία]{lang="el"}; [δυόμισι]{lang="el"} oder [δύο και μισή]{lang="el"}, nicht
 \*[τρεις και μισή]{lang="el"}. [έως]{lang="el"} statt [μέχρι]{lang="el"} ist
 richtig, klingt beim Vorlesen aber wie das Schild selbst.
@@ -731,9 +765,8 @@ Zuerst ein Lokalradio am Morgen des 28. Oktober, dann eine Durchsage im Bahnhof 
 
 — Προσοχή, παρακαλώ. Το τρένο των δεκατεσσάρων και είκοσι για Θεσσαλονίκη θα αναχωρήσει με
 καθυστέρηση είκοσι πέντε λεπτών, στις δεκατέσσερις και σαράντα πέντε, από τη γραμμή τρία. Ώρα
-άφιξης στη Θεσσαλονίκη: δεκαεννέα και τριάντα.
+άφιξης στη Θεσσαλονίκη: είκοσι ακριβώς.
 :::
-<!-- CHECK: Durchsage im Bahnhof: „γραμμή“ für Gleis üblich? Formulierung „το τρένο των 14:20“ und „με καθυστέρηση … λεπτών“ idiomatisch; Fahrzeit Athen–Thessaloniki (ca. 4–5 Std.) plausibel -->
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -743,7 +776,7 @@ Stadtzentrum beginnt die Schülerparade um elf. Die Straßen rund um den Platz s
 Uhr mittags gesperrt. Die Busse fahren über die Uferstraße. Nachrichten wieder um acht.
 
 — Achtung, bitte. Der Zug um 14:20 Uhr nach Thessaloniki fährt mit fünfundzwanzig Minuten
-Verspätung ab, um 14:45 Uhr, von Gleis drei. Ankunft in Thessaloniki: 19:30 Uhr.
+Verspätung ab, um 14:45 Uhr, von Gleis drei. Ankunft in Thessaloniki: 20:00 Uhr.
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -767,7 +800,7 @@ Verspätung ab, um 14:45 Uhr, von Gleis drei. Ankunft in Thessaloniki: 19:30 Uhr
 ### Zahlen im Ohr {#sec-zeit-hoerbild}
 
 Zahlen sind beim Hören schwerer als Wörter, weil der Zusammenhang nicht hilft: „drei“ oder
-„dreizehn“ ergibt beides Sinn. Vier Dinge helfen:
+„dreizehn“ ergibt beides Sinn. Fünf Dinge helfen:
 
 - **Ansagen sind förmlich:** [επτά, οκτώ, εννέα]{lang="el"} statt [εφτά, οχτώ, εννιά]{lang="el"}
   und die 24-Stunden-Zählung. Wer „[ðekaˈteseris]“ hört, rechnet: zwei Uhr nachmittags.
@@ -778,6 +811,9 @@ Zahlen sind beim Hören schwerer als Wörter, weil der Zusammenhang nicht hilft:
   ähnlich; die Betonung entscheidet.
 - **Verschliffenes [ν]{lang="el"}:** [την Τρίτη]{lang="el"} klingt [ti(n) ˈdriti],
   [την Πέμπτη]{lang="el"} [tim ˈbempti]; der Wochentag beginnt dann scheinbar mit [d] oder [b].
+- **Genitiv, nur zum Wiedererkennen:** Ansagen nennen Züge und Schiffe nach der Abfahrtszeit
+  im Genitiv: [το τρένο των οχτώ]{lang="el"}. Meist ändert sich die Zahl nicht; 3 und 4 haben
+  eigene Formen: [των τριών, των τεσσάρων, των δεκατεσσάρων]{lang="el"}.
 
 ::: {.callout-note .exercise}
 ## Übung 11.5: Was wurde durchgesagt?
@@ -799,7 +835,8 @@ Antwort und sag sie in Alltagsform laut. Im Chat reicht „1a, 2…“.
 4. Es ist: a) eins · b) halb eins · c) halb zwei
 5. Geschlossen am: a) Dienstag · b) Donnerstag · c) Freitag
 
-([η έξοδος]{lang="el"} hier: das Gate, Kapitel 6: der Ausgang)
+([η έξοδος]{lang="el"} hier: das Gate, Kapitel 1: der Ausgang; auch [η πύλη]{lang="el"},
+Kapitel 1)
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -846,8 +883,9 @@ Datum, Uhrzeit, Jahreszahl, Zahl mit dem, was sie zählt. Prüf Wochentag und Da
 das ERTflix angibt. Beim zweiten Hören: Hörst du [επτά, οκτώ, εννέα]{lang="el"} statt
 [εφτά, οχτώ, εννιά]{lang="el"}?
 
-Alternativ: ein Straßeninterview auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos), in
-dem es um Alltag oder Vergangenheit geht. Uhrzeiten und Jahre merken, dann mit den griechischen
+Alternativ: ein Straßeninterview auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos); such
+im Kanal etwa nach [Πάσχα]{lang="el"} oder [γιορτές]{lang="el"}, denn bei Festen fallen Daten und
+Uhrzeiten fast von selbst. Uhrzeiten und Jahre merken, dann mit den griechischen
 Untertiteln prüfen.
 :::
 
@@ -871,7 +909,7 @@ Menschen oder Euro, kein Jahr.
 
 **Schritt 1.** Radio: halb acht, Mittwoch, 28. Oktober; Parade um elf; Straßen von neun bis zwei
 gesperrt; Nachrichten um acht. Durchsage: Zug von 14:20 nach Thessaloniki, 25 Minuten
-Verspätung, neue Abfahrt 14:45 (Viertel vor drei), Gleis drei, Ankunft 19:30 (halb acht abends).
+Verspätung, neue Abfahrt 14:45 (Viertel vor drei), Gleis drei, Ankunft 20:00 (acht Uhr abends).
 Häufiger Fehler: [δεκατεσσάρων]{lang="el"} nicht als 14 erkennen, weil es im Genitiv steht.
 
 **Schritt 2** hat keine feste Lösung. Stimmen Wochentag und Datum mit dem Sendedatum und hast du
@@ -918,7 +956,7 @@ Wortschatz, dann mit ▶, und sprich dabei jede Zahl laut mit.
 
 **1821.** Για σχεδόν τετρακόσια χρόνια η Ελλάδα ήταν μέρος της Οθωμανικής Αυτοκρατορίας. Τον
 Μάρτιο του 1821 άρχισε η Επανάσταση. Ο πόλεμος κράτησε πολλά χρόνια, και το 1830 η Ελλάδα έγινε
-ανεξάρτητο κράτος, πολύ μικρότερο από τη σημερινή χώρα. Πρώτη πρωτεύουσα ήταν το Ναύπλιο· η Αθήνα
+ανεξάρτητο κράτος, πολύ μικρότερο από τη σημερινή χώρα. Πρωτεύουσα ήταν στην αρχή το Ναύπλιο· η Αθήνα
 έγινε πρωτεύουσα το 1834. Κάθε χρόνο στις 25 Μαρτίου οι Έλληνες γιορτάζουν με παρελάσεις και
 σημαίες.
 
@@ -933,7 +971,7 @@ Wortschatz, dann mit ▶, und sprich dabei jede Zahl laut mit.
 «χούντα», κράτησε εφτά χρόνια. Τον Νοέμβριο του 1973 φοιτητές μπήκαν στο Πολυτεχνείο της Αθήνας
 και έμειναν εκεί τρεις μέρες. Στις 17 Νοεμβρίου, γύρω στις τρεις τα ξημερώματα, ένα τανκ έσπασε
 την πόρτα. Οχτώ μήνες μετά, τον Ιούλιο του 1974, η χούντα έπεσε. Στις 8 Δεκεμβρίου 1974 οι
-Έλληνες ψήφισαν: όχι στον βασιλιά, ναι στη δημοκρατία. Από τότε, κάθε 17 Νοεμβρίου, χιλιάδες
+Έλληνες ψήφισαν: όχι στον βασιλιά, ναι στη δημοκρατία. Από το 1974, κάθε 17 Νοεμβρίου, χιλιάδες
 άνθρωποι περπατούν από το Πολυτεχνείο μέχρι την αμερικανική πρεσβεία.
 
 Οι ημερομηνίες είναι παντού: σε δρόμους, σε πλατείες, σε σχολεία. Αν λοιπόν κάποιος σου πει
@@ -947,7 +985,7 @@ Drei Muster helfen beim Lesen:
   März“. Zum Wiedererkennen reicht die Endung [-ης]{lang="el"}.
 - **[οχτώ μήνες μετά]{lang="el"}**: [μετά]{lang="el"} nach der Zeitspanne heißt „später“.
 - **[ήθελε να περάσει ο στρατός]{lang="el"}**: nach [θέλω να]{lang="el"} kann eine andere Person
-  folgen, „wollte, dass die Armee durchzieht“ (Kapitel 5).
+  folgen, wörtlich „wollte, dass seine Armee nach Griechenland hinüberkommt“ (Kapitel 5).
 
 ::: {.callout-note collapse="true" .vocab-text}
 ## Wortschatz zum Text
@@ -991,11 +1029,11 @@ Oktober. Die Griechen geben ihren Straßen Daten als Namen. Drei davon sind beso
 
 **1821.** Fast vierhundert Jahre lang war Griechenland Teil des Osmanischen Reiches. Im März
 1821 begann die Revolution. Der Krieg dauerte viele Jahre, und 1830 wurde Griechenland ein
-unabhängiger Staat, viel kleiner als das heutige Land. Erste Hauptstadt war Nafplio; Athen wurde
+unabhängiger Staat, viel kleiner als das heutige Land. Hauptstadt war zunächst Nafplio; Athen wurde
 1834 Hauptstadt. Jedes Jahr am 25. März feiern die Griechen mit Paraden und Fahnen.
 
 **1940.** Am 28. Oktober 1940, kurz vor drei Uhr morgens, klopfte der italienische Botschafter
-an die Tür von Ioannis Metaxas. Italien wollte seine Armee durch Griechenland ziehen lassen.
+an die Tür von Ioannis Metaxas. Italien wollte griechisches Gebiet besetzen.
 Metaxas antwortete auf Französisch: „[*Alors, c’est la guerre*]{lang="fr"}“, „Nun, das bedeutet Krieg“. Die
 Leute machten daraus ein einziges Wort: „Nein“. Um halb sechs marschierten die Italiener von
 Albanien aus in Griechenland ein, aber die griechische Armee hielt sie auf. Im April 1941 jedoch
@@ -1005,7 +1043,7 @@ kamen die Deutschen, und die Besatzung dauerte bis Oktober 1944.
 „Junta“, dauerte sieben Jahre. Im November 1973 zogen Studenten in das Polytechnikum von Athen
 und blieben drei Tage dort. Am 17. November gegen drei Uhr früh brach ein Panzer das Tor auf. Acht
 Monate später, im Juli 1974, stürzte die Junta. Am 8. Dezember 1974 stimmten die Griechen ab:
-Nein zum König, Ja zur Republik. Seitdem gehen jedes Jahr am 17. November Tausende vom
+Nein zum König, Ja zur Republik. Seit 1974 gehen jedes Jahr am 17. November Tausende vom
 Polytechnikum bis zur amerikanischen Botschaft.
 
 Daten sind überall: auf Straßen, Plätzen, Schulen. Wenn dir also jemand sagt: „Treffen wir uns
@@ -1022,23 +1060,25 @@ Jede Jahreszahl ist eine Vereinfachung.
   wurde später gewählt, auch weil es auf Mariä Verkündigung fällt. Griechenland galt damals noch
   der julianische Kalender (umgestellt erst 1923); nach unserem Kalender war der 25. März 1821 der
   6. April.
+- **Hauptstadt:** Vor Nafplio saß die Regierung 1828–29 auf Ägina, das deshalb oft als erste
+  Hauptstadt gilt.
 - **[«Όχι»]{lang="el"}:** Metaxas regierte seit 1936 selbst als Diktator. Das eine Wort „Nein“ ist die
   volkstümliche Verdichtung seiner Antwort; gefeiert wird der Tag seit den 1940er-Jahren als
-  [επέτειος του «Όχι»]{lang="el"}.
+  [επέτειος του «Όχι»]{lang="el"}. Die Besatzung endete nicht überall im Oktober 1944: Teile
+  Kretas und einige Inseln blieben bis Mai 1945 besetzt.
 - **1974:** Unmittelbarer Auslöser für den Sturz der Junta war der von ihr gestützte Putsch auf
   Zypern (15. Juli) und die türkische Invasion (20. Juli). [Δημοκρατία]{lang="el"} heißt
   sowohl „Demokratie“ als auch „Republik“; abgestimmt wurde über die Staatsform.
 
 Zum Nachlesen: Richard Clogg, *A Concise History of Greece* (Cambridge University Press).
 :::
-<!-- CHECK: Uhrzeiten 28.10.1940 (Übergabe des Ultimatums durch Grazzi kurz vor/um 3 Uhr; italienischer Angriff um 5:30); „fast vierhundert Jahre“ osmanische Herrschaft als Formulierung vertretbar; Befreiung Athens 12.10.1944 (Κατοχή „bis Oktober 1944“); Besetzung des Polytechnikums 14.–17.11.1973 und Panzer gegen ca. 3 Uhr; Referendum 8.12.1974; jährliche Demonstration zur US-Botschaft; 25. März 1821 jul. = 6. April greg.; Nationalfeiertag seit 1838; 28. Oktober Feiertag seit 1940er -->
 
 ::: {.callout-note .exercise}
 ## Übung 11.7: Drei Jahreszahlen
 
 **Teil A.** Richtig oder falsch? Im Chat reicht „1r, 2f, …“.
 
-1. Die erste Hauptstadt des neuen Staates war Athen.
+1. Athen war von Anfang an die Hauptstadt des neuen Staates.
 2. Metaxas antwortete dem Botschafter mit einem einzigen griechischen Wort.
 3. Die Italiener kamen am Morgen des 28. Oktober aus Albanien.
 4. Die Junta regierte von 1967 bis 1974.
@@ -1067,7 +1107,7 @@ Teil B: Jahre sind sächlich, Tage im Datum weiblich. Welches Datum enthält ein
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**Teil A: 1f, 2f, 3r, 4r, 5f, 6r.** 1: Nafplio, Athen erst 1834. 2: Er antwortete auf
+**Teil A: 1f, 2f, 3r, 4r, 5f, 6r.** 1: zunächst Nafplio, Athen erst 1834. 2: Er antwortete auf
 Französisch mit einem Satz; das eine Wort machte der Volksmund daraus. 3:
 [στις πεντέμισι]{lang="el"}. 5: Sie gingen vorher hinein und blieben drei Tage; am 17. kam der
 Panzer. 6: [όχι στον βασιλιά]{lang="el"}.

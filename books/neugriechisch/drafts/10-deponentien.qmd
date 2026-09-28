@@ -179,7 +179,68 @@ Latein: Das [κοιμητήριο]{lang="el"}, der „Schlafplatz“ der Toten, 
 
 <!-- CHECK: Etymologie Kathedrale/καθέδρα als „dieselbe Wortfamilie“ wie κάθομαι (Wurzel *sed-); Skeptiker < σκέπτομαι; γίνομαι < γίγνομαι, Wurzel wie Genesis; cemetery < coemeterium < κοιμητήριον. -->
 
-<!-- EXERCISE: Präsens der sieben Verben (+ λυπάμαι) bilden, beide Muster -ομαι/-άμαι, wir-Form mit Betonungswechsel, laut; plus Zuordnen der Wendungen Γίνεται; / Δε γίνεται. / Έγινε! / Μου θυμίζει / Λυπάμαι zu Situationen. Formen bilden und Zuordnen, Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 10.1: Sieben Verben, zwei Muster
+
+**Teil A: umformen.** Sag die Form laut, mit Betonung.
+
+a) [σκέφτομαι]{lang="el"} → wir
+b) [θυμάμαι]{lang="el"} → sie (Plural)
+c) [γίνομαι]{lang="el"} → du
+d) [κοιμάμαι]{lang="el"} → ihr
+e) [έρχομαι]{lang="el"} → wir
+f) [λυπάμαι]{lang="el"} → wir
+g) [κάθομαι]{lang="el"} → sie (Plural)
+h) [φοβάμαι]{lang="el"} → er
+
+**Teil B: Welche Wendung passt?** [Γίνεται; – Δε γίνεται. – Έγινε! – Μου θυμίζει … –
+Λυπάμαι.]{lang="el"}
+
+1. Du bestellst zwei Kaffee, der Kellner nickt.
+2. Du willst in der vollen Taverne draußen sitzen und fragst, ob das geht.
+3. Der Beamte schüttelt den Kopf: heute nicht mehr.
+4. Jemand erzählt, dass sein Vater gestorben ist.
+5. Ein Lied im Radio, und du bist wieder auf Naxos.
+
+Im Chat reicht „1 …, 2 …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Erst die Gruppe bestimmen: [-ομαι]{lang="el"} wie [κάθομαι]{lang="el"} oder [-άμαι]{lang="el"}
+wie [φοβάμαι]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Die wir-Form ist bei beiden Mustern gleich gebaut: [-όμαστε]{lang="el"}, betont auf dem
+[ό]{lang="el"}. Die sie-Form der [-άμαι]{lang="el"}-Gruppe hat [-ούνται]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+- a) [σκεφτόμαστε]{lang="el"} [scefˈtomaste]
+- b) [θυμούνται]{lang="el"} [θiˈmunde]
+- c) [γίνεσαι]{lang="el"} [ˈʝinese]
+- d) [κοιμάστε]{lang="el"} [ciˈmaste]
+- e) [ερχόμαστε]{lang="el"} [erˈxomaste]
+- f) [λυπόμαστε]{lang="el"} [liˈpomaste]
+- g) [κάθονται]{lang="el"} [ˈkaθonde]
+- h) [φοβάται]{lang="el"} [foˈvate]
+
+Typische Fehler: \*[σκέφτομαστε]{lang="el"} (Betonung auf der viertletzten Silbe),
+\*[λυπάμαστε]{lang="el"} (das [ά]{lang="el"} aus dem Singular mitgenommen) und
+\*[θυμάνται]{lang="el"}. Und [-ται]{lang="el"} klingt [te], nicht „tai“.
+
+**Teil B:** 1 [Έγινε!]{lang="el"}, 2 [Γίνεται;]{lang="el"}, 3 [Δε γίνεται.]{lang="el"},
+4 [Λυπάμαι.]{lang="el"}, 5 [Μου θυμίζει …]{lang="el"}. Bei 4 geht auch [Λυπάμαι πολύ.]{lang="el"};
+wer nur jemanden angerempelt hat, sagt dagegen [Συγγνώμη.]{lang="el"}
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
