@@ -27,7 +27,7 @@
 | 21 So spricht man wirklich: gesprochene Sprache | veröffentlicht | Welle 10; Audio läuft |
 | 22 Vielleicht, wahrscheinlich, sicher: Modalität | veröffentlicht | Welle 9; Audio läuft |
 | 23 Thessaloniki und Zwischenbilanz | Übungen | Welle 11; Entwurf fertig |
-| 24 Was wäre, wenn: Irrealis und Wünsche | Überarbeitung | Welle 10; beide Reviews da |
+| 24 Was wäre, wenn: Irrealis und Wünsche | Konsistenz | Welle 10; überarbeitet |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 

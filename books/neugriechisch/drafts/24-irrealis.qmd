@@ -529,7 +529,6 @@ deshalb bleibt \*[έπρεπε να έφυγε]{lang="el"} falsch. Das Unwirklic
 begegnet dir vor allem nach [έπρεπε]{lang="el"} und [μακάρι]{lang="el"}, dazu nach
 [ας]{lang="el"}, das selbst an der Stelle von [να]{lang="el"} steht (beide gleich im Anschluss). Bei
 [μπορώ]{lang="el"} steckt es in [θα μπορούσα]{lang="el"}, danach bleibt die zeitlose Form.
-<!-- CHECK: „vor allem“ statt „nur“, weil Wendungen wie „θα ήθελα να ήμουν …“ und „σαν να ήταν“ vorkommen dürften; ist die Einschränkung so richtig, oder gilt „nur“ in der Standardsprache? -->
 
 Mit [θα]{lang="el"} davor wird der Satz weicher, wie [θα πρέπει να]{lang="el"} in Kapitel 22:
 
@@ -1054,7 +1053,7 @@ oder im Imperfekt ohne [αν]{lang="el"} und [θα]{lang="el"}.
 στον σουλτάνο. Αν τον είχε πληρώσει ο Κωνσταντίνος, δε θα είχαν χτυπήσει τα τείχη οι μεγάλες
 μπομπάρδες; Ίσως. Ο σουλτάνος όμως είχε κι άλλους τεχνίτες και πολύ περισσότερα χρήματα.
 
-**Δεύτερο «αν»: ο στόλος.** Η Βενετία αποφάσισε να στείλει πλοία, αλλά αργά. Αν είχαν φτάσει
+**Δεύτερο «αν»: ο στόλος.** Η Βενετία αποφάσισε να στείλει πλοία, αλλά τα πλοία ξεκίνησαν αργά. Αν είχαν φτάσει
 τον Απρίλιο, η Πόλη θα είχε αντέξει ίσως μερικούς μήνες ακόμα. Και μετά; Γύρω της σχεδόν όλα
 ήταν ήδη οθωμανικά.
 
@@ -1076,14 +1075,13 @@ oder im Imperfekt ohne [αν]{lang="el"} und [θα]{lang="el"}.
 ## Vorsicht
 
 Die Tatsachen der Kolumne sind vereinfacht. Die Belagerung begann Anfang April 1453; Konstantin XI.
-fiel beim letzten Sturm; die Berichte über seinen Tod widersprechen sich. Die Geschichte von Urban erzählt vor
+gilt als im letzten Sturm gefallen, die Berichte über seinen Tod widersprechen sich. Die Geschichte von Urban erzählt vor
 allem der Chronist Doukas; dass eine venezianische Hilfsflotte zu spät aufbrach, gilt als
-gesichert, wie viel sie hätte ändern können, nicht. Die Kerkoporta kennt man nur aus Doukas, und
-viele Historiker halten die Episode für ausgeschmückt. Dass erst 1453 die griechischen Gelehrten
+gesichert, wie viel sie hätte ändern können, nicht. Die Geschichte von der offenen Kerkoporta
+kennt man nur aus Doukas, und viele Historiker halten die Episode für ausgeschmückt. Dass erst 1453 die griechischen Gelehrten
 nach Italien und damit die Renaissance in Gang gebracht habe, ist eine beliebte Vereinfachung:
 Griechisch wurde in Florenz schon ab 1397 unterrichtet. Zum Nachlesen: Steven Runciman,
 *Die Eroberung von Konstantinopel 1453*.
-<!-- CHECK: Beginn der Belagerung (2. oder 6. April 1453) und Formulierung „Anfang April“; Urban bei Doukas (und Chalkokondyles), griechische Namensform Ουρβανός; Kerkoporta nur bei Doukas; venezianische Flotte zu spät aufgebrochen; Chrysoloras-Lehrstuhl in Florenz ab 1397; deutscher Titel und Existenz der Runciman-Übersetzung („Die Eroberung von Konstantinopel 1453“, C. H. Beck) -->
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -1130,7 +1128,7 @@ ihm Kanonen zu bauen. Der Kaiser hatte kein Geld, und Urban ging zum Sultan. Hä
 bezahlt, hätten dann die großen Bombarden nicht auf die Mauern geschossen? Vielleicht. Der Sultan
 hatte aber noch andere Handwerker und sehr viel mehr Geld.
 
-**Zweites „Wenn“: die Flotte.** Venedig beschloss, Schiffe zu schicken, aber zu spät. Wären sie im
+**Zweites „Wenn“: die Flotte.** Venedig beschloss, Schiffe zu schicken, aber die Schiffe brachen spät auf. Wären sie im
 April angekommen, hätte die Stadt vielleicht noch ein paar Monate durchgehalten. Und dann? Ringsum
 war schon fast alles osmanisch.
 
@@ -1160,8 +1158,9 @@ geschrieben haben.
 5. Laut Kolumne hätte es ohne die Gelehrten aus Konstantinopel wohl keine Renaissance gegeben.
 6. Der Sultan hatte mehr Geld als der Kaiser.
 
-**Teil B.** Such alle irrealen Formen. Ist Gegenwart oder Vergangenheit gemeint? Drei Stellen
-sehen ähnlich aus und sind nicht irreal; welche?
+**Teil B.** Such alle irrealen Formen. Ist Gegenwart oder Vergangenheit gemeint? Einige Formen
+mit [είχε/είχαν]{lang="el"} oder mit [αν]{lang="el"} sehen ähnlich aus und sind nicht irreal;
+welche?
 
 **Teil C.** Was wäre, wenn Schliemann Troja nicht gefunden hätte? Antworte laut in drei irrealen
 Sätzen, einer davon mit der Folge heute.
@@ -1170,7 +1169,8 @@ Sätzen, einer davon mit der Folge heute.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Teil A: Die Tatsachen stehen im Aorist; was nach [αν]{lang="el"} im Plusquamperfekt steht, ist
+Teil A: Die Tatsachen stehen im Präsens der Erzählung, im Aorist oder im Imperfekt ohne
+[αν]{lang="el"} und [θα]{lang="el"}; was nach [αν]{lang="el"} im Plusquamperfekt steht, ist
 nicht geschehen. Teil B: Ein Plusquamperfekt ohne [αν]{lang="el"} und [θα]{lang="el"} erzählt
 einfach, was vorher war.
 :::
