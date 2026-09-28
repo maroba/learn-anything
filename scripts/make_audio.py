@@ -38,6 +38,7 @@ import re
 import subprocess
 import sys
 import time
+import unicodedata
 import urllib.error
 import urllib.request
 from pathlib import Path
@@ -71,11 +72,42 @@ def normalize(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def speech_text(text: str) -> str:
-    """What is actually sent to the TTS: without dialogue dashes and exercise gap markers."""
+def _plain_speech(text: str) -> str:
     text = re.sub(r"^[—–-]\s*", "", text)
     text = re.sub(r"\(\d+\)\s*…", "…", text)
     return text.strip()
+
+
+def _stress_last_vowel(word: str) -> str:
+    if any(unicodedata.normalize("NFD", c)[1:2] == "\u0301" for c in word):
+        return word  # already stressed (ξέρω ’γω)
+    for i in range(len(word) - 1, -1, -1):
+        if word[i].lower() in "αεηιουω":
+            return unicodedata.normalize("NFC", word[: i + 1] + "\u0301" + word[i + 1 :])
+    return word
+
+
+def join_elisions(text: str) -> str:
+    """Write elided forms as one word, so the TTS neither pauses at the apostrophe nor spells
+    a lone letter ("Σ’" as "sigma"): θ’ ανέβω → θανέβω, Πάρ’ το → Πάρτο, σ’ το ’πα → στόπα,
+    το ’χω → τόχω (the lost stressed vowel passes its stress to the small word)."""
+    text = text.replace("'", "’")
+    g = "[α-ωά-ώϊϋΐΰΑ-ΩΆ-Ώ]"  # Greek letters only: "το ’87" stays as it is
+    text = re.sub(rf"({g})’\s+(?={g})", r"\1", text)  # final-vowel elision / apocope
+    return re.sub(rf"({g}+)\s+’({g}+)", lambda m: _stress_last_vowel(m.group(1)) + m.group(2), text)
+
+
+def speech_text(text: str) -> str:
+    """What is actually sent to the TTS: without dialogue dashes and exercise gap markers,
+    elided forms joined into one word."""
+    return join_elisions(_plain_speech(text))
+
+
+def audio_key(text: str) -> str:
+    """Input for the file name: the displayed text, unless joining elisions changes what is
+    spoken (then the spoken form, so such recordings are made anew)."""
+    spoken = speech_text(text)
+    return text if spoken == _plain_speech(text) else "spoken:" + spoken
 
 
 def stringify(inlines) -> str:
@@ -160,7 +192,14 @@ def collect(blocks, lang, found, in_vocab=False):
                 # A line wrapped in [— …]{.v1} or [— …]{.v2} sets the voice explicitly
                 # (for three or more speakers); alternation continues from there.
                 turn = 0
+                inners = []
                 for inner in b["c"][1]:
+                    if inner["t"] in ("BulletList", "OrderedList"):
+                        items = inner["c"] if inner["t"] == "BulletList" else inner["c"][1]
+                        inners.extend(blk for item in items for blk in item)
+                    else:
+                        inners.append(inner)
+                for inner in inners:
                     text = block_text(inner)
                     if not text:
                         continue
@@ -313,7 +352,7 @@ def voice_book(args):
     todo, chars = [], 0
     for chapter in chapters:
         for text, speaker in texts_of_chapter(chapter, lang):
-            name = file_name(provider, voices[speaker], instructions, text)
+            name = file_name(provider, voices[speaker], instructions, audio_key(text))
             if manifest.get(text) == name and (audio_dir / name).exists():
                 continue
             if not re.search(r"\w", speech_text(text)):

@@ -258,9 +258,9 @@ Kapitel 5 hat vorsichtig „im Sinn von Wollen, Können, Müssen“ gesagt; hier
 kommt darauf an, **wo die Zeit steht**, und das hängt am Ausdruck vor [να]{lang="el"}:
 
 ::: {.callout-important}
-## Wo steht die Zeit?
+## Merke
 
-Sagt der Ausdruck vor [να]{lang="el"}, **wie sicher** etwas ist oder **woher man es weiß**, darf
+**Wo steht die Zeit?** Sagt der Ausdruck vor [να]{lang="el"}, **wie sicher** etwas ist oder **woher man es weiß**, darf
 nach [να]{lang="el"} eine Vergangenheit stehen. Sagt er, was jemand **will, kann oder muss** oder
 **wozu** etwas dient, folgt die zeitlose [να]{lang="el"}-Form.
 :::
@@ -458,7 +458,7 @@ Im Gespräch hörst du [μπορεί]{lang="el"} oft ganz allein: [Μπορεί.
 ## Tipp
 
 Schnell gesprochen verschmilzt [μπορεί να]{lang="el"} zu [boˈrina], und vor [είναι]{lang="el"}
-fällt dessen Anfangsvokal: [μπορεί να ’ναι]{lang="el"} [boˈri ˈnane] „kann sein“. Genauso
+wird dessen Anfangsvokal verschluckt: [μπορεί να ’ναι]{lang="el"} [boˈri ˈnane] „kann sein“. Genauso
 [πρέπει να ’ναι]{lang="el"} [ˈprepi ˈnane] „muss wohl sein“.
 :::
 
@@ -468,18 +468,18 @@ fällt dessen Anfangsvokal: [μπορεί να ’ναι]{lang="el"} [boˈri ˈn
 **Teil A.** Welche Fassung sagt, was der deutsche Satz meint? Im Chat: „a2, b1, …“.
 
 **a)** Vielleicht kommen sie heute Abend.\
-(1) [Μπορούν να έρθουν απόψε.]{lang="el"}
-(2) [Μπορεί να έρθουν απόψε.]{lang="el"}
+(1) [Μπορούν να έρθουν απόψε.]{lang="el"}\
+(2) [Μπορεί να έρθουν απόψε.]{lang="el"}\
 (3) [Μπορεί να θα έρθουν απόψε.]{lang="el"}
 
 **b)** Vielleicht schläft sie gerade.\
-(1) [Μπορεί να κοιμηθεί.]{lang="el"}
-(2) [Μπορεί να κοιμάται.]{lang="el"}
+(1) [Μπορεί να κοιμηθεί.]{lang="el"}\
+(2) [Μπορεί να κοιμάται.]{lang="el"}\
 (3) [Μπορεί να κοιμήθηκε.]{lang="el"}
 
 **c)** Kann sein, dass es gestern im Dorf geregnet hat.\
-(1) [Μπορεί να έβρεξε χθες στο χωριό.]{lang="el"}
-(2) [Μπορούσε να βρέξει χθες στο χωριό.]{lang="el"}
+(1) [Μπορεί να έβρεξε χθες στο χωριό.]{lang="el"}\
+(2) [Μπορούσε να βρέξει χθες στο χωριό.]{lang="el"}\
 (3) [Μπορεί να βρέξει χθες στο χωριό.]{lang="el"}
 
 **Teil B.** Welche Sätze sind falsch, und wie heißen sie richtig?
@@ -563,7 +563,7 @@ Auch [Ίσως θα βρέξει.]{lang="el"} kommt vor und ist nicht falsch. Ve
 ::: {.callout-caution .uncertain}
 ## Vorsicht
 
-Das große Wörterbuch der Standardsprache ([Λεξικό της Κοινής Νεοελληνικής]{lang="el"}) belegt
+Das große Wörterbuch der Standardsprache ([«Λεξικό της Κοινής Νεοελληνικής»]{lang="el"}) belegt
 [ίσως βρούμε]{lang="el"} und [ίσως (να) έχεις ακούσει]{lang="el"}. Wie häufig die Varianten
 jeweils sind und wie förmlich sie wirken, ist weniger klar. Wer auf Nummer sicher gehen will,
 sagt für die Zukunft [μπορεί να βρέξει]{lang="el"} oder [μάλλον θα βρέξει]{lang="el"}.
@@ -783,7 +783,7 @@ Das ist eine Tendenz, keine Messung. Vertretbar ist auch:
 
 [η θερμοκρασία]{lang="el"} ist „Wärme“ ([θερμός]{lang="el"}, vgl. *Thermometer*) plus
 „Mischung“ ([η κράση]{lang="el"}). Aus derselben Wurzel stammt [το κρασί]{lang="el"}: Wein trank
-man in der Antike mit Wasser gemischt. Und das lateinische *temperatura* kommt von *temperare*
+man in der Antike mit Wasser gemischt. Und das lateinische [*temperatura*]{lang="la"} kommt von [*temperare*]{lang="la"}
 „richtig mischen“. Zwei Sprachen, eine Idee: Temperatur ist ein Mischungsverhältnis.
 :::
 
@@ -804,7 +804,7 @@ dankbar. Die Reihenfolge ist fast immer: Region, Himmel, Wind, Temperatur.
   [ο υδράργυρος]{lang="el"} „das Quecksilber“ als Subjekt: [Ο υδράργυρος θα αγγίξει τους σαράντα
   βαθμούς.]{lang="el"} „Das Quecksilber wird vierzig Grad erreichen“ ([αγγίζω]{lang="el"}
   „berühren“). Das Wort ist wörtlich „Wassersilber“, daher das chemische Symbol Hg
-  (*Hydrargyrum*). Wo es kühler ist, heißt die Hitze [πιο ήπια]{lang="el"} „milder“.
+  ([*Hydrargyrum*]{lang="la"}). Wo es kühler ist, heißt die Hitze [πιο ήπια]{lang="el"} „milder“.
 - **Modalität:** Achte auf die förmlichen Wörter [αναμένεται, ενδέχεται, δεν
   αποκλείονται]{lang="el"}. Alle drei sind auf der drittletzten Silbe betont, das Ende ist
   unbetont und schnell gesprochen: [anaˈmenete], [enˈðeçete], [apoˈkliode]. Die Endung
@@ -891,7 +891,6 @@ mit Foto, also bleibt Notwendigkeit oder Erwartung. Die „wohl“-Probe entsche
   Notwendigkeit; „Er wird wohl fragen“ wäre ein anderer Sinn. Eine Vermutung über das Jetzt
   (Film) kommt nicht vor.
 :::
-
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -1061,7 +1060,7 @@ Zwei Muster helfen beim Lesen:
 | [το θερμόμετρο]{lang="el"} | das Thermometer |
 | [η Ελευσίνα, το Τατόι]{lang="el"} | Elefsina (das antike Eleusis), Tatoi (bei Athen) |
 | [ο δήμος]{lang="el"} | die Gemeinde, Stadtverwaltung |
-| [πιο μεγάλης διάρκειας]{lang="el"} | länger andauernd ([η διάρκεια]{lang="el"} die Dauer, Kapitel 14) |
+| [πιο μεγάλης διάρκειας]{lang="el"} | länger andauernd ([η διάρκεια]{lang="el"} die Dauer; [στη διάρκεια]{lang="el"} „während“, Kapitel 14) |
 | [η αίθουσα]{lang="el"} | der Saal, Raum |
 | [η πίεση]{lang="el"} | hier: der Luftdruck (Kapitel 18: Blutdruck) |
 | [η Μέση Ανατολή]{lang="el"} | der Nahe Osten |

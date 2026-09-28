@@ -194,7 +194,8 @@
   content.querySelectorAll("div[lang]").forEach((div) => {
     const l = div.getAttribute("lang");
     if (!l || l.slice(0, 2) === pageLang || div.closest(".no-audio")) return;
-    div.querySelectorAll(":scope > p").forEach((p) => targets.push({ el: p, lang: l }));
+    div.querySelectorAll(":scope > p, :scope > ol > li, :scope > ul > li")
+      .forEach((p) => targets.push({ el: p, lang: l }));
   });
 
   let player = null;
@@ -205,12 +206,24 @@
     if ("speechSynthesis" in window) window.speechSynthesis.cancel();
   }
 
+  // Elided forms as one word, as in make_audio.py (join_elisions): σ’ το ’πα → στόπα.
+  function joinElisions(text) {
+    const stressLast = (w) => {
+      if (/\u0301/.test(w.normalize("NFD"))) return w;
+      const i = w.search(/[αεηιουω][^αεηιουω]*$/i);
+      return i < 0 ? w : (w.slice(0, i + 1) + "\u0301" + w.slice(i + 1)).normalize("NFC");
+    };
+    return text.replace(/'/g, "’")
+      .replace(/(\p{Script=Greek})’\s+(?=\p{Script=Greek})/gu, "$1")
+      .replace(/(\p{Script=Greek}+)\s+’(\p{Script=Greek}+)/gu, (_, a, b) => stressLast(a) + b);
+  }
+
   function speak(textToSay, voiceLang, onEnd) {
     const synth = window.speechSynthesis;
     const voices = synth.getVoices();
     const voice = voices.find((v) => v.lang.toLowerCase().startsWith(voiceLang.slice(0, 2)));
     if (voices.length && !voice) { toast(t.noVoice); return; }
-    const u = new SpeechSynthesisUtterance(textToSay.replace(/^[—–-]\s*/, ""));
+    const u = new SpeechSynthesisUtterance(joinElisions(textToSay.replace(/^[—–-]\s*/, "")));
     u.lang = voice ? voice.lang : voiceLang;
     if (voice) u.voice = voice;
     u.rate = 0.9;
