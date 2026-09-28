@@ -1018,22 +1018,28 @@ Jedes Interview ist anders; so wertest du aus:
   Imperfekt zeigt den Abstand zur Wirklichkeit, nicht Film oder Vergangenheit.
 - **Irreal, vorbei:** [αν]{lang="el"} + Plusquamperfekt, [θα]{lang="el"} + Plusquamperfekt
   ([θα είχα φύγει]{lang="el"}); im Gespräch oft auch das Imperfekt. Die Hälften dürfen
-  verschiedene Zeiten haben.
-- **[θα]{lang="el"} + Imperfekt = „würde“:** Futur der Vergangenheit, Irrealis, Höflichkeit.
-  [θα]{lang="el"} + Aorist ist eine Vermutung.
+  verschiedene Zeiten haben; gemischt wird aber nur innerhalb des Irrealis, die Folge hat immer
+  [θα]{lang="el"} + Vergangenheitsform. Die Bedingung kann mitgedacht sein: [Θα ερχόμουν, αλλά
+  …]{lang="el"}
+- **[θα]{lang="el"} + Imperfekt = „würde“:** Futur der Vergangenheit, Irrealis, Höflichkeit
+  (vermuten kann es auch, Kapitel 25). [θα]{lang="el"} + Aorist ist eine Vermutung über
+  Vergangenes: [Θα το ξέχασε.]{lang="el"}
 - **Bedauern:** [έπρεπε να]{lang="el"} + Imperfekt/Plusquamperfekt „hätte sollen“
-  ([Έπρεπε να ήσουν εκεί!]{lang="el"}); [θα έπρεπε να, θα μπορούσα να]{lang="el"};
+  ([Έπρεπε να ήσουν εκεί! Έπρεπε να έφευγες.]{lang="el"}); das Erkennungszeichen ist die
+  Vergangenheitsendung, nicht der Aspekt. [θα έπρεπε να, θα μπορούσα να]{lang="el"};
   [Κρίμα που …]{lang="el"}
-- **Wünsche:** [μακάρι να]{lang="el"} + zeitlose Form (offen), + Imperfekt (unerfüllbar jetzt),
-  + Plusquamperfekt (unerfüllbar vorbei), wie [*ojalá*]{lang="es"}.
-- **[ας]{lang="el"}** + zeitlose Form: „lass uns“, „soll er doch“; + Imperfekt/Plusquamperfekt:
-  „hätte ich doch“, oft als Vorwurf.
+- **Wünsche:** [μακάρι να]{lang="el"} + zeitlose Form (offen), + Imperfekt (unerfüllbar oder
+  sehr unwahrscheinlich), + Plusquamperfekt (unerfüllbar vorbei), wie [*ojalá*]{lang="es"}.
+- **[ας]{lang="el"}** + zeitlose Form: „lass uns“ (zum Sprechen), „soll er doch“ (zum Erkennen,
+  außer [Ας είναι]{lang="el"}); + Imperfekt/Plusquamperfekt: „hätte ich doch“, oft als Vorwurf
+  (zum Erkennen).
 
 ## Zum Lesen: Das Spiel mit dem „Wenn“ {#sec-irrealis-lesetext}
 
 Eine Kolumne, wie sie jedes Jahr Ende Mai in einer griechischen Zeitung stehen könnte. Sie ist
 ein **Gedankenspiel**: Was die Kolumne im Irrealis erzählt, ist nie geschehen, und was sie über
-die Folgen vermutet, weiß niemand. Die Tatsachen stehen im Aorist.
+die Folgen vermutet, weiß niemand. Die Tatsachen stehen im Präsens der Erzählung, im Aorist
+oder im Imperfekt ohne [αν]{lang="el"} und [θα]{lang="el"}.
 
 ::: {lang="el"}
 **Κι αν δεν είχε πέσει η Πόλη;**
