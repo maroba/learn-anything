@@ -687,8 +687,8 @@ Diese Fehler machen fast alle, die Teil I hinter sich haben:
 ::: {.callout-note .exercise}
 ## Übung 12.4: Drei Verben durch Teil I
 
-Sag die Sätze laut auf Griechisch. Du brauchst nur [διαβάζω]{lang="el"}, [πίνω]{lang="el"} und
-[φοβάμαι]{lang="el"}, aber jedes Mal eine andere Form.
+Sag die Sätze laut auf Griechisch, mit [διαβάζω]{lang="el"}, [πίνω]{lang="el"} und
+[φοβάμαι]{lang="el"} in immer anderer Form.
 
 1. Gestern habe ich das ganze Buch gelesen.
 2. Als Kind habe ich jeden Abend gelesen.
@@ -707,16 +707,15 @@ Sag die Sätze laut auf Griechisch. Du brauchst nur [διαβάζω]{lang="el"},
 ## Hinweis 1
 
 Die Stämme: [διαβάζω – διάβασα – διαβάσω]{lang="el"}, [πίνω – ήπια – πιω]{lang="el"},
-[φοβάμαι – φοβήθηκα – φοβηθώ]{lang="el"}, Imperfekt [φοβόμουν]{lang="el"}. Dann bei jedem Satz:
-einmal (Foto) oder Gewohnheit (Film)?
+[φοβάμαι – φοβήθηκα – φοβηθώ]{lang="el"}, Imperfekt [φοβόμουν]{lang="el"}. Einmal (Foto) oder
+Gewohnheit (Film)?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-3: Imperativ auf der drittletzten Silbe + Pronomen, also zweiter Akzent. 4: Verbot = [μην]{lang="el"}
-+ [να]{lang="el"}-Form, Pronomen davor, Genus vom griechischen Nomen. 8: Der Foto-Plural von
-[πίνω]{lang="el"} ist unregelmäßig (Kapitel 9).
+3: zweiter Akzent. 4: Verbot = [μην]{lang="el"} + [να]{lang="el"}-Form, Pronomen davor, Genus
+vom griechischen Nomen. 8: unregelmäßig (Kapitel 9).
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -724,30 +723,28 @@ einmal (Foto) oder Gewohnheit (Film)?
 
 1. [Χθες διάβασα όλο το βιβλίο.]{lang="el"} Aorist.
 2. [Όταν ήμουν παιδί, διάβαζα κάθε βράδυ.]{lang="el"} Imperfekt, Gewohnheit.
-3. [Διάβασέ το!]{lang="el"} Foto-Imperativ mit zweitem Akzent; ohne ihn stünde die Betonung auf
-   der viertletzten Silbe.
-4. [Μην το διαβάσεις!]{lang="el"} Foto, dieser eine Brief. Nicht \*[μην τον]{lang="el"}: Der Brief
-   ist griechisch sächlich. Nicht \*[Μη διάβασέ το]{lang="el"}: nach [μην]{lang="el"} nie ein
-   Imperativ.
-5. [Διάβαζε λίγο κάθε μέρα!]{lang="el"} Film-Imperativ, Gewohnheit.
-6. [Αύριο το πρωί θα πιω έναν καφέ μαζί σου.]{lang="el"} Ein Kaffee, Foto.
-   [θα πίνω]{lang="el"} klänge nach „ab morgen früh regelmäßig“.
-7. [Το καλοκαίρι θα πίνω πολύ νερό κάθε μέρα.]{lang="el"} [κάθε μέρα]{lang="el"} zieht den Film.
+3. [Διάβασέ το!]{lang="el"} Foto, mit zweitem Akzent.
+4. [Μην το διαβάσεις!]{lang="el"} Nicht \*[μην τον]{lang="el"}: [το γράμμα]{lang="el"} ist
+   sächlich. Nicht \*[Μη διάβασέ το]{lang="el"}: nach [μην]{lang="el"} nie ein Imperativ.
+5. [Διάβαζε λίγο κάθε μέρα!]{lang="el"} Film-Imperativ.
+6. [Αύριο το πρωί θα πιω έναν καφέ μαζί σου.]{lang="el"} Einmal, Foto; [θα πίνω]{lang="el"}
+   klänge nach „ab morgen regelmäßig“.
+7. [Το καλοκαίρι θα πίνω πολύ νερό κάθε μέρα.]{lang="el"} Film.
 8. [Πιείτε το!]{lang="el"} Singular [Πιες το!]{lang="el"}
-9. [Όταν ήμουν παιδί, φοβόμουν τη θάλασσα.]{lang="el"} Imperfekt, ein Zustand.
-10. [Χθες τη νύχτα στο πλοίο φοβήθηκα.]{lang="el"} Aorist: der Schreck als Moment.
-11. [Μη φοβάσαι!]{lang="el"} Film, wie fast immer beim Beruhigen. [Μη φοβηθείς]{lang="el"} geht
-    auch, vor etwas Bestimmtem, das gleich kommt.
+9. [Όταν ήμουν παιδί, φοβόμουν τη θάλασσα.]{lang="el"} Imperfekt, Zustand.
+10. [Χθες τη νύχτα στο πλοίο φοβήθηκα.]{lang="el"} Aorist, der Schreck als Moment.
+11. [Μη φοβάσαι!]{lang="el"} Film, wie meist beim Beruhigen; [Μη φοβηθείς]{lang="el"} geht vor
+    etwas Bestimmtem, das gleich kommt.
 
-**Typische Fehler:** \*[θα ήπιω]{lang="el"} (Augment nach [θα]{lang="el"}); \*[φοβήθηκα]{lang="el"}
-in 9, das hieße „ich erschrak“; \*[διάβασα]{lang="el"} in 2.
+**Typische Fehler:** \*[θα ήπιω]{lang="el"}; [φοβήθηκα]{lang="el"} in 9 („ich erschrak“);
+[διάβασα]{lang="el"} in 2.
 :::
 
 ::: {.callout-note .exercise}
 ## Übung 12.5: Elf Sätze von der Fähre
 
-Jeder Satz hat höchstens einen Fehler. Finde ihn, sag den Satz richtig und überleg, aus welchem
-Kapitel die Regel stammt. Im Chat reicht die Nummer des fehlerfreien Satzes.
+Jeder Satz hat höchstens einen Fehler. Finde ihn, sag den Satz richtig und nenn das Kapitel
+der Regel. Im Chat reicht die Nummer des fehlerfreien Satzes.
 
 ::: {lang="el" .no-audio}
 1. Πέρσι εκάναμε διακοπές στη Νάξο.
@@ -767,38 +764,34 @@ Kapitel die Regel stammt. Im Chat reicht die Nummer des fehlerfreien Satzes.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Die Fehler stammen aus: Augment, Aspekt nach [θα]{lang="el"}, Uhrzeit, Vokativ, Pronomen am
-Imperativ, Aorist auf [-θηκα]{lang="el"}, Genitiv, Superlativ, Imperfekt, Datum. Die
-Stolperstein-Liste oben deckt fünf davon ab.
+Die Fehler: Augment, Aspekt nach [θα]{lang="el"}, Uhrzeit, Vokativ, Pronomen am Imperativ,
+Aorist auf [-θηκα]{lang="el"}, Genitiv, Superlativ, Imperfekt, Datum.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Prüf bei jedem Satz zuerst die Artikel und Endungen, dann das Verb: Wie oft passiert es? Wo steht
-die Betonung? Der fehlerfreie Satz sieht für deutsche Ohren falsch aus.
+Erst Artikel und Endungen prüfen, dann das Verb: Wie oft passiert es? Wo steht die Betonung?
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
 1. [κάναμε]{lang="el"}: Das Augment steht nur, wenn es betont ist (Kapitel 2).
-2. [θα σου στείλω]{lang="el"}: einmal, also Foto. [θα σου στέλνω]{lang="el"} hieße „ich werde
-   dir (immer wieder) schicken“ (Kapitel 5).
+2. [θα σου στείλω]{lang="el"}: einmal, Foto (Kapitel 5).
 3. [στη μία]{lang="el"}: Ein Uhr steht im Singular (Kapitel 11).
 4. [Γιάννη]{lang="el"}: Vokativ (Kapitel 7).
 5. **Richtig.** „Hast du … gesehen?“ ist ein Aorist (Kapitel 2).
-6. [Δώσε μού το]{lang="el"} oder [Δώσ’ το μου]{lang="el"}: Nach dem bejahten Imperativ stehen die
-   Pronomen dahinter (Kapitel 8, 9). Davor nur im Verbot: [Μη μου το δώσεις.]{lang="el"}
-7. [φοβήθηκα]{lang="el"}, mit [-ή-]{lang="el"} wie [θυμήθηκα]{lang="el"} (Kapitel 10).
-8. [της γιαγιάς]{lang="el"}: Genitiv, „von“ (Kapitel 7).
-9. [το πιο μεγάλο νησί]{lang="el"} oder [το μεγαλύτερο]{lang="el"}: Superlativ braucht den
-   Artikel (Kapitel 12).
-10. [πήγαινα]{lang="el"}: jedes Jahr, Gewohnheit, Imperfekt (Kapitel 4).
-11. [στις δεκαπέντε Αυγούστου]{lang="el"}: Monat im Genitiv (Kapitel 11).
+6. [Δώσε μού το]{lang="el"} oder [Δώσ’ το μου]{lang="el"}: nach dem Imperativ dahinter
+   (Kapitel 8, 9); davor nur im Verbot, [Μη μου το δώσεις.]{lang="el"}
+7. [φοβήθηκα]{lang="el"} (Kapitel 10).
+8. [της γιαγιάς]{lang="el"}: Genitiv (Kapitel 7).
+9. [το πιο μεγάλο νησί]{lang="el"} oder [το μεγαλύτερο]{lang="el"} (Kapitel 12).
+10. [πήγαινα]{lang="el"}: Gewohnheit, Imperfekt (Kapitel 4).
+11. [Αυγούστου]{lang="el"}: Monat im Genitiv (Kapitel 11).
 
-Am häufigsten übersehen werden 6, weil das Pronomen vor dem Verb sonst richtig ist, und 10, weil
-das Deutsche beides mit „bin gefahren“ sagt.
+Oft übersehen: 6, weil das Pronomen vor dem Verb sonst richtig ist, und 10, weil Deutsch beides
+„bin gefahren“ nennt.
 :::
 
 ## Hörspur: vergleichen auf der Straße {#sec-vergleich-hoerspur}

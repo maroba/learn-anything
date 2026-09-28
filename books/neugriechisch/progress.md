@@ -16,6 +16,8 @@
 | 11 Zeit: Uhrzeit, Datum, Jahreszahlen | veröffentlicht | Welle 3; Audio ausstehend |
 | 10 Verben auf -μαι im Alltag | veröffentlicht | Welle 4; Audio ausstehend |
 | 12 Vergleichen und Zwischenbilanz | Übungen | Welle 6; Entwurf fertig |
+| 13 Es wurde gefunden: das Mediopassiv | Entwurf | Welle 7 |
+| 14 Hast du schon …? Perfekt und Plusquamperfekt | Entwurf | Welle 7 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio läuft |
 
