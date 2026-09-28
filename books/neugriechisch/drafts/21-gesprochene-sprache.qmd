@@ -5,13 +5,15 @@ title: "So spricht man wirklich: gesprochene Sprache"
 ::: {.callout-note .review}
 ## Zur Wiederholung
 
-Aus Kapitel 1, 3, 5 und 9:
+Aus Kapitel 1, 3, 5, 8, 9, 11 und 17:
 
 - **Verschluckter Anfangsvokal** nach [το, τα, μου, σου, θα, να]{lang="el"}: [το ’πα]{lang="el"}
-  [ˈtopa], [θα ’ρθω]{lang="el"} [ˈθarθo]. Die Betonung wandert auf das kleine Wort.
-- **Verschlucktes [ε]{lang="el"}** des Imperativs vor dem Pronomen: [Πάρ’ το]{lang="el"} [ˈparto].
-- **Schluss-[ν]{lang="el"}:** Es bleibt vor Vokal und Verschlusslaut ([την πόρτα]{lang="el"}) und
-  verändert dort seinen Nachbarn: [tim ˈborta].
+  [ˈtopa] (3), [θα ’ρθω]{lang="el"} [ˈθarθo] (5), [σ’ το ’πα]{lang="el"} [ˈstopa] (3, 8). Die
+  Betonung wandert auf das kleine Wort.
+- **Verschlucktes [ε]{lang="el"}** des Imperativs vor dem Pronomen: [Πάρ’ το]{lang="el"} [ˈparto]
+  (9).
+- **Schluss-[ν]{lang="el"}:** Es bleibt vor Vokal und Verschlusslaut (1) und verändert dort seinen
+  Nachbarn: [την Πέμπτη]{lang="el"} [tim ˈbempti] (11), [αν πας]{lang="el"} [am bas] (17).
 :::
 
 ## Ein Mikrofon am Monastiraki {#sec-gesprochen-einstieg}
@@ -23,7 +25,7 @@ muss und alle sich ertappt fühlen.
 ::: {lang="el"}
 [— Καλημέρα! Μια ερώτηση για το κανάλι μας: ποια λέξη λέτε πιο συχνά απ’ όλες;]{.v1}
 
-[— Εγώ; Ε… βασικά, δεν ξέρω. Βασικά… Α, όχι. Βασικά λέω «βασικά». Η μάνα μου μου ’χει πει: «Αν
+[— Εγώ; Εεε… βασικά, δεν ξέρω. Βασικά… Α, όχι. Βασικά λέω «βασικά». Η μάνα μου μου ’χει πει: «Αν
 ξαναπείς “βασικά”, δε σου ξαναμαγειρεύω.»]{.v2}
 
 [— Και; Σου μαγειρεύει ακόμα;]{.v1}
@@ -73,7 +75,9 @@ wir!
 
 Die ▶-Aufnahme hat zwei Stimmen: Die Reporterin und die Frau mit dem Hund teilen sich die
 weibliche, der junge Mann und der Großvater die männliche. Und sie spricht sauber, wie alle
-Aufnahmen im Buch; echte Straßenstimmen bringt der Hör-Auftrag am Ende des Kapitels.
+Aufnahmen im Buch: Kurzformen spricht sie so, wie sie geschrieben sind, aber Sandhi und
+Satzmelodie macht sie nicht immer hörbar. Dafür sind die echten Aufnahmen da, die der Hör-Auftrag
+am Ende des Kapitels bringt.
 
 Das **Straßeninterview**, auf Griechisch [η συνέντευξη στον δρόμο]{lang="el"}, ist für Lernende
 ein Glücksfall: kurze, spontane Antworten zu einer Frage, von Menschen jeden Alters, mit allen
@@ -98,7 +102,6 @@ Diskursmarker nach ihrer Aufgabe; dann, wie man Hören gezielt übt.
 | [η πρόταση]{lang="el"} | [i ˈprotasi] | der Satz; der Vorschlag |
 | [βασικά]{lang="el"} | [vasiˈka] | also, eigentlich (Füller am Antwortbeginn, umg.) |
 | [ας πούμε]{lang="el"} | [as ˈpume] | sagen wir, sozusagen; zum Beispiel |
-| [δηλαδή]{lang="el"} | [ðilaˈði] | das heißt; also |
 | [τέλος πάντων]{lang="el"} | [ˈtelos ˈpadon] | na ja, egal; jedenfalls (umg.) |
 | [μωρέ]{lang="el"} | [moˈre] | ach, na (vertraut, umg.) |
 | [Άσε.]{lang="el"} | [ˈase] | Ach, lass mal. Frag nicht. (umg.) |
