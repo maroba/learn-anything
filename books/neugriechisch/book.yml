@@ -13,4 +13,9 @@ archetype: languages
 status: writing
 # Erscheint erst in der Bibliothek, wenn true (spätestens mit dem Probekapitel).
 published: true
+# Audio (scripts/make_audio.py): native el-GR voices; dialogue lines alternate between both.
+audio:
+  provider: luvvoice
+  voice: voice-181           # Athina (el-GR, weiblich): Vokabeln, Texte, erste Sprecherin
+  dialogue-voice: voice-182  # Nestoras (el-GR, männlich): zweite Stimme in Dialogen
 created: 2026-09-28

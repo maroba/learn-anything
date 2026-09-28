@@ -140,14 +140,21 @@ def collect(blocks, lang, found, in_vocab=False):
             if "vocab" in classes:
                 collect(b["c"][1], lang, found, in_vocab=True)
             elif kvs.get("lang", "").split("-")[0] == lang:
+                # Dialogue lines ("— …") alternate between two speakers within a block.
+                turn = 0
                 for inner in b["c"][1]:
                     text = block_text(inner)
-                    if text:
-                        found.append(text)
+                    if not text:
+                        continue
+                    if re.match(r"\s*[—–]", text):
+                        found.append((text, turn % 2))
+                        turn += 1
+                    else:
+                        found.append((text, 0))
             else:
                 collect(b["c"][1], lang, found, in_vocab)
         elif t == "Table" and in_vocab:
-            found.extend(table_first_column(b))
+            found.extend((text, 0) for text in table_first_column(b))
         elif t in ("BlockQuote",):
             collect(b["c"], lang, found, in_vocab)
         elif t in ("BulletList", "OrderedList"):
@@ -156,13 +163,14 @@ def collect(blocks, lang, found, in_vocab=False):
                 collect(item, lang, found, in_vocab)
 
 
-def texts_of_chapter(path: Path, lang: str) -> list[str]:
+def texts_of_chapter(path: Path, lang: str) -> list[tuple[str, int]]:
+    """(text, speaker) pairs; speaker 1 is the second voice in dialogues."""
     ast = json.loads(subprocess.run(
         ["quarto", "pandoc", str(path), "-f", "markdown", "-t", "json"],
         check=True, capture_output=True, text=True).stdout)
     found = []
     collect(ast["blocks"], lang, found)
-    return [normalize(t) for t in found if normalize(t)]
+    return [(normalize(t), s) for t, s in found if normalize(t)]
 
 
 # --- Providers --------------------------------------------------------------------------------
@@ -254,6 +262,7 @@ def voice_book(args):
         sys.exit("book.yml has no target-language; nothing to voice.")
     cfg = meta.get("audio") or {}
     provider, voice, instructions = cfg.get("provider"), cfg.get("voice"), cfg.get("instructions")
+    voices = [voice, cfg.get("dialogue-voice") or voice]
     if not args.dry_run and not args.fake and (provider not in PROVIDERS or not voice):
         sys.exit("Set audio.provider (luvvoice|openai) and audio.voice in book.yml first.")
 
@@ -267,29 +276,29 @@ def voice_book(args):
 
     todo, chars = [], 0
     for chapter in chapters:
-        for text in texts_of_chapter(chapter, lang):
-            name = file_name(provider, voice, instructions, text)
+        for text, speaker in texts_of_chapter(chapter, lang):
+            name = file_name(provider, voices[speaker], instructions, text)
             if manifest.get(text) == name and (audio_dir / name).exists():
                 continue
-            if (text, name) not in todo:
-                todo.append((text, name))
+            if all(t != text for t, _, _ in todo):
+                todo.append((text, name, voices[speaker]))
                 chars += len(speech_text(text))
 
-    print(f"{len(todo)} text(s) to voice, {chars} characters, provider={provider}, voice={voice}")
+    print(f"{len(todo)} text(s) to voice, {chars} characters, provider={provider}, voices={voices}")
     if args.dry_run:
-        for text, _ in todo[: args.show]:
-            print("  ·", text)
+        for text, _, v in todo[: args.show]:
+            print(f"  · [{v}]", text)
         if len(todo) > args.show:
             print(f"  … and {len(todo) - args.show} more")
         return 0
 
     audio_dir.mkdir(exist_ok=True)
     tts = PROVIDERS.get(provider)
-    for i, (text, name) in enumerate(todo, 1):
+    for i, (text, name, v) in enumerate(todo, 1):
         if args.fake:
             (audio_dir / name).write_bytes(b"")
         else:
-            (audio_dir / name).write_bytes(tts(speech_text(text), voice, instructions=instructions))
+            (audio_dir / name).write_bytes(tts(speech_text(text), v, instructions=instructions))
         manifest[text] = name
         manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
         print(f"[{i}/{len(todo)}] {name}  {text[:70]}")
