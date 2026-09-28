@@ -10,9 +10,9 @@
 | 02 Der zweite Stamm: der Aorist | veröffentlicht | Probekapitel; Reviews abgeschlossen; Audio vollständig |
 | 03 Die unregelmäßigen Aoriste | veröffentlicht | Welle 1; Audio vollständig |
 | 04 Erzählen: Imperfekt und Aspekt | veröffentlicht | Welle 2; Audio vollständig |
-| 05 Der zweite Stamm in der Zukunft: θα und να | veröffentlicht | Welle 3; Audio läuft |
-| 06 Auf dem Markt: Nomen, Adjektive, Zahlen | veröffentlicht | Welle 2; Audio ausstehend |
-| 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | veröffentlicht | Welle 3; Audio ausstehend |
+| 05 Der zweite Stamm in der Zukunft: θα und να | veröffentlicht | Welle 3; Audio vollständig |
+| 06 Auf dem Markt: Nomen, Adjektive, Zahlen | veröffentlicht | Welle 2; Audio vollständig |
+| 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | veröffentlicht | Welle 3; Audio läuft |
 | 11 Zeit: Uhrzeit, Datum, Jahreszahlen | überarbeitet | Welle 3; Konsistenzprüfung erst wenn 8–10 fertig (vocab-Dubletten), erscheint nach 10 |
 | 10 Verben auf -μαι im Alltag | im Review | Welle 4; Übungen fertig |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | Übungen | Welle 4; Entwurf fertig |
