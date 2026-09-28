@@ -306,7 +306,88 @@ vor dem [α]{lang="el"} zum Gleitlaut, und der Konsonant davor wird weich:
 [τα λεμόνια]{lang="el"} [ta leˈmoɲa], wobei [ɲ] klingt wie span. *ñ* in *mañana*. Aus
 vier Silben werden drei: [le-mo-ɲa].
 
-<!-- EXERCISE: Genus und Plural häufiger Nomenklassen bilden (Marktwortschatz: ο ψαράς, η πιπεριά, η πόλη, το πρόβλημα, το λάθος, ο πάγκος im Akk. Pl. …), Formen bilden laut mit Artikel im Nom. und Akk. Plural, Betonung beachten; Schwierigkeit 2. Übung 6.1 -->
+::: {.callout-note .exercise}
+## Übung 6.1: Alles im Plural
+
+Dreizehn Nomen, alle aus diesem Abschnitt. Sag jedes laut im Plural mit Artikel, erst im
+Nominativ, dann im Akkusativ: [ο πάγκος]{lang="el"} → [οι πάγκοι, τους πάγκους]{lang="el"}. Achte
+dabei auf die Betonung.
+
+::: {lang="el" .no-audio}
+1. ο ψαράς
+2. η πιπεριά
+3. η πόλη
+4. το πρόβλημα
+5. το λάθος
+6. ο εργάτης
+7. το κρεμμύδι
+8. ο άνθρωπος
+9. η λέξη
+10. η γιαγιά
+11. το ευρώ
+12. ο παραγωγός
+13. το κλειδί
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Frag zuerst den Artikel nach dem Genus, dann die Endung nach dem Plural; die Merke-Tabelle
+beantwortet beides. Nur die männlichen Nomen auf [-ος]{lang="el"} haben einen eigenen Akkusativ
+Plural, alle anderen sagen zweimal dasselbe.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Drei Fallen: Ein Wort bekommt eine [-δ-]{lang="el"}-Silbe, obwohl es nicht männlich ist; zwei
+Wörter sehen aus, als müssten sie auf [-οι]{lang="el"} oder [-ες]{lang="el"} enden, und tun es
+nicht; und bei zwei Wörtern wandert die Betonung, bei einem davon nur im Akkusativ.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+| Singular | Nom. Plural | Akk. Plural |
+|---|---|---|
+| [ο ψαράς]{lang="el"} | [οι ψαράδες]{lang="el"} | [τους ψαράδες]{lang="el"} |
+| [η πιπεριά]{lang="el"} | [οι πιπεριές]{lang="el"} | [τις πιπεριές]{lang="el"} |
+| [η πόλη]{lang="el"} | [οι πόλεις]{lang="el"} | [τις πόλεις]{lang="el"} |
+| [το πρόβλημα]{lang="el"} | [τα προβλήματα]{lang="el"} | [τα προβλήματα]{lang="el"} |
+| [το λάθος]{lang="el"} | [τα λάθη]{lang="el"} | [τα λάθη]{lang="el"} |
+| [ο εργάτης]{lang="el"} | [οι εργάτες]{lang="el"} | [τους εργάτες]{lang="el"} |
+| [το κρεμμύδι]{lang="el"} | [τα κρεμμύδια]{lang="el"} | [τα κρεμμύδια]{lang="el"} |
+| [ο άνθρωπος]{lang="el"} | [οι άνθρωποι]{lang="el"} | [τους ανθρώπους]{lang="el"} |
+| [η λέξη]{lang="el"} | [οι λέξεις]{lang="el"} | [τις λέξεις]{lang="el"} |
+| [η γιαγιά]{lang="el"} | [οι γιαγιάδες]{lang="el"} | [τις γιαγιάδες]{lang="el"} |
+| [το ευρώ]{lang="el"} | [τα ευρώ]{lang="el"} | [τα ευρώ]{lang="el"} |
+| [ο παραγωγός]{lang="el"} | [οι παραγωγοί]{lang="el"} | [τους παραγωγούς]{lang="el"} |
+| [το κλειδί]{lang="el"} | [τα κλειδιά]{lang="el"} | [τα κλειδιά]{lang="el"} |
+
+Die Stellen, an denen es meistens hakt:
+
+- **[τα προβλήματα]{lang="el"}** [ta provˈlimata]: Die Endung bringt eine Silbe mit, der Ton rückt
+  nach. \*[τα πρόβληματα]{lang="el"} läge auf der viertletzten Silbe, und die gibt es nicht.
+- **[τους ανθρώπους]{lang="el"}** [tus anˈθropus], aber [οι άνθρωποι]{lang="el"}
+  [i ˈanθropi]: Die Betonung wandert nur im Akkusativ. Wer beide Male auf der ersten Silbe
+  betont, wird verstanden, fällt aber auf.
+- **[τα λάθη]{lang="el"}**: [το λάθος]{lang="el"} ist sächlich, also weder \*[οι λάθοι]{lang="el"}
+  noch \*[τα λάθα]{lang="el"}.
+- **[οι πόλεις, οι λέξεις]{lang="el"}**, nicht \*[οι πόλες]{lang="el"}: gesprochen [i ˈpolis],
+  [i ˈleksis]. Für das Ohr ist der Plural hier nur am Artikel und am [-s] zu erkennen.
+- **[οι γιαγιάδες]{lang="el"}**: die [-δ-]{lang="el"}-Silbe bei einem Femininum. Umgekehrt nicht
+  \*[οι πιπεριάδες]{lang="el"}; die meisten Wörter auf [-ιά]{lang="el"} machen einfach
+  [-ιές]{lang="el"}.
+- **[οι εργάτες]{lang="el"}**, nicht \*[οι εργάτηδες]{lang="el"}: Die [-δ-]{lang="el"}-Silbe
+  auf [-ης]{lang="el"} ist die Ausnahme ([οι μανάβηδες]{lang="el"}), [-ες]{lang="el"} die Regel.
+- **[τους ψαράδες, τους εργάτες]{lang="el"}**: Bei [-άς]{lang="el"} und [-ης]{lang="el"} gleicht
+  der Akkusativ dem Nominativ. \*[τους ψαράδους]{lang="el"} ist ein häufiger Mischfehler.
+- **[τους παραγωγούς]{lang="el"}**: Die Betonung bleibt am Ende, sie war ja schon dort.
+- **[τα κρεμμύδια, τα κλειδιά]{lang="el"}**: [-ι → -ια]{lang="el"}, gesprochen
+  [ta kreˈmiðʝa], [ta kliˈðʝa], mit dem [ι]{lang="el"} als Gleitlaut.
+- **[τα ευρώ]{lang="el"}**: nur der Artikel ändert sich.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |

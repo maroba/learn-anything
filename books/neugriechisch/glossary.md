@@ -78,7 +78,7 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 
 - Spalten: Griechisch | Aussprache | Deutsch; in einem `::: {.vocab}`-Block (siehe archetype-languages).
 - Nomen mit Artikel; auffällige Pluralformen und Betonungswechsel dazu.
-- Verben: 1. Person Präsens **und** Aorist (βλέπω, είδα); ab Kapitel 13 auch Aorist des Mediopassivs. Verben ohne perfektiven Stamm (είμαι, έχω, ξέρω): Präsens und Vergangenheit (είμαι, ήμουν).
+- Verben: 1. Person Präsens **und** Aorist (βλέπω, είδα); ab Kapitel 13 auch Aorist des Mediopassivs. Verben ohne perfektiven Stamm (είμαι, έχω, ξέρω) sowie θέλω (Aorist θέλησα selten): Präsens und Vergangenheit (είμαι, ήμουν; θέλω, ήθελα).
 - Verben der Klasse -άω/-ώ stehen in `.vocab` in der umgangssprachlich häufigeren Form auf -άω (μιλάω); die Variante auf -ώ wird in Kapitel 1 einmal erklärt und nur bei Verben genannt, die überwiegend auf -ώ vorkommen.
 - Adjektive: καλός, -ή, -ό.
 - Registermarken in der Spalte Deutsch: (umg.), (salopp), (gehoben), (formell).
@@ -104,7 +104,7 @@ Beim ersten Auftreten mit dem griechischen Fachwort in Klammern.
 | Bauform (unregelmäßige Aoriste) | (A) fester Anfang: zweisilbig, erste Silbe bleibt ([πήγα – πήγαμε]{lang="el"}); (B) Regel aus Kapitel 2: Augment nur betont, Betonung auf der drittletzten Silbe ([έκανα – κάναμε, ανέβηκα – ανεβήκαμε]{lang="el"}) | 03 |
 | drittletzte / viertletzte Silbe | Betonungsposition immer so benennen (nicht „dritte von hinten“, „vier Silben vor dem Ende“) | 02 |
 | Lippenlaut, Kehllaut | für [π β φ (ευ)]{lang="el"} bzw. [κ γ χ]{lang="el"} bei der Stammbildung ([-ψα, -ξα]{lang="el"}) | 02 |
-| Präsens-Zutat | Laut, der nur im Präsens steht und im perfektiven Stamm fehlt ([τ]{lang="el"} in [-πτω]{lang="el"}, [ν]{lang="el"} in [-χνω]{lang="el"}) | 02 |
+| Präsens-Zutat | Laut, der nur im imperfektiven Stamm (Präsens, Imperfekt) steht und im perfektiven fehlt ([τ]{lang="el"} in [-πτω]{lang="el"}, [ν]{lang="el"} in [-χνω]{lang="el"}) | 02 |
 | Verben ohne perfektiven Stamm | [είμαι, έχω, ξέρω]{lang="el"}: „haben nur eine Vergangenheit“ ([ήμουν, είχα, ήξερα]{lang="el"}) | 02 |
 | ich-Form, wir-Form … | Personenbezeichnung in Übungen („Bilde die ich-Form“), klein geschrieben | 02 |
 | Aoristendungen | [-α, -ες, -ε, -αμε, -ατε, -αν]{lang="el"}; 3. Pl. [-αν]{lang="el"} neutral, [-ανε]{lang="el"} umg. | 02 |

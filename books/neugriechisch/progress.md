@@ -9,7 +9,7 @@
 | 01 Auffrischung: Klang und Präsens-Gerüst | veröffentlicht | Welle 1; Audio folgt |
 | 02 Der zweite Stamm: der Aorist | veröffentlicht | Probekapitel; Reviews abgeschlossen; Audio vollständig |
 | 03 Die unregelmäßigen Aoriste | veröffentlicht | Welle 1; Audio vollständig |
-| 04 Erzählen: Imperfekt und Aspekt | Entwurf | Welle 2 |
+| 04 Erzählen: Imperfekt und Aspekt | Übungen | Welle 2; Entwurf fertig |
 | 06 Auf dem Markt: Nomen, Adjektive, Zahlen | Übungen | Welle 2; Entwurf fertig |
 
 ## Plan für /write all (Wellen nach Voraussetzungen)
