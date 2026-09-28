@@ -785,7 +785,67 @@ tadellos · [ο μάγειρας]{lang="el"} Koch · [τα γενέθλια]{lan
 [— Τότε κέρνα και τον μάγειρα ένα ουζάκι από μας. Στην υγειά του!]{.v1}
 :::
 
-<!-- EXERCISE: Hörverstehen zur Ouzeri-Szene: Dialog mit ▶ anhören, ohne den Text aufzuklappen, höchstens zweimal; nur Inhaltsfragen, Multiple Choice mit Antwort im Chat „1b, 2…“ (z.B. was als Getränk bestellt wird und wie das Eis kommt; woher der Ouzo stammt; welche drei Mezedes Eleni bestellt; warum Stelios eine kleine Portion will und wie Eleni darauf reagiert (ironisch); was nachbestellt wird; was mit den Sardinen nicht stimmte; welches „kleine Problem“ die Küche hat und was Eleni daraufhin tut); zweiter Durchgang mit Text: Diminutive nach Lesart deuten (beschwichtigend beim Bestellen, schonend-ironisch bei προβληματάκι); Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 26.6: In der Ouzeri
+
+Hör die Szene mit ▶, ohne den Text aufzuklappen, höchstens zweimal. Im Chat: „1b, 2…“.
+
+1. Was wird zu trinken bestellt? a) eine Flasche Wein, b) ein Karäffchen Ouzo, Eis extra, und
+   Wasser, c) Ouzo mit Eis im Glas.
+2. Woher kommt der Ouzo heute? a) aus Plomari, b) aus Volos, c) aus Piräus.
+3. Welche drei Mezedes werden zuerst bestellt? a) Oktopus, Sardinen, Feta, b) Oktopus,
+   Fleischbällchen, Feta, c) Sardinen, Kartoffeln, Feta.
+4. Warum soll die Portion Fleischbällchen klein sein? a) Der Besteller hat gestern zu viel
+   gegessen. b) Er ist auf Diät. c) Die Küche hat nicht mehr viele.
+5. Wie wird darauf reagiert? a) mit Lob, b) mit Zweifel: letzten Freitag hieß es auch so, c) mit
+   einer zweiten Bestellung.
+6. Was wird nachbestellt? a) Ouzo und Brot, b) Ouzo und Oktopus, c) Wasser und Brot.
+7. Was war mit den Sardinen? a) zu salzig, b) zu lange auf dem Grill, c) kalt.
+8. Das „kleine Problem“ der Küche und die Antwort darauf? a) Der Grill ist kaputt, man bestellt
+   nichts mehr. b) Der Koch hat Geburtstag, man spendiert ihm einen Ouzo. c) Die Sardinen sind
+   aus, man beschwert sich.
+
+**Zweiter Durchgang, mit Text:** Such alle Diminutive und sag, welche Lesart überwiegt. Such
+außerdem die vier Wörter mit Vorsilbe.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Frage 2: ein Ortsname im Genitiv, [plomaˈriu]. Frage 5: Achte auf den Wochentag, [paraskeˈvi].
+Frage 7: [parapsiˈmenes], Partizip von [παραψήνω]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zweiter Durchgang: Fast alles wird beim Bestellen oder Anbieten verkleinert, und bei
+Angeboten und Bitten ist fast immer Lesart c im Spiel. Ein Diminutiv fällt aus der Reihe: Es
+verkleinert eine schlechte Nachricht.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1b, 2a, 3a, 4a, 5b, 6a, 7b, 8b.**
+
+Bei 5 ist die Bemerkung ironisch: Letzten Freitag wurde die kleine Portion offenbar nicht klein.
+
+**Zweiter Durchgang**
+
+- Beschwichtigend, der freundliche Ton beim Bestellen und Anbieten: [μεζεδάκια, νεράκι,
+  χταποδάκι, σαρδελίτσες, φετούλα, κεφτεδάκια, ψωμάκι]{lang="el"}, das [ουζάκι]{lang="el"} für
+  den Koch (auch herzlich), [ένα λεπτάκι]{lang="el"} des Kellners.
+- Klein und beschwichtigend zugleich: [λαδάκι]{lang="el"}, „ein bisschen Öl“.
+- [το καραφάκι]{lang="el"} ist die normale Bestellgröße; das „klein“ steckt kaum noch drin.
+- Schonend mit ironischem Unterton: [ένα μικρό προβληματάκι]{lang="el"}. Das Problem ist ein Koch, der
+  Geburtstag feiert; die Sardinen haben es schon verraten.
+
+Vorsilben: [παράφαγα]{lang="el"} (zu viel), [ξαναγεμίζεις]{lang="el"} (noch einmal),
+[παραψημένες]{lang="el"} (zu lange), [παρεξηγείς]{lang="el"} (daneben: falsch verstehen).
+
+**Falle:** [μικρή μερίδα]{lang="el"} ist kein Diminutiv, sondern Adjektiv und Nomen.
+:::
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -837,7 +897,48 @@ Lieblingsessen, Kochen und Ausgehen (englische Suchwörter [*food, cooking, tave
 Dort hörst du, wie oft [-άκι]{lang="el"} ganz nebenbei fällt und wie selten jemand dabei etwas
 Kleines meint.
 
-<!-- EXERCISE: Hör-Auftrag Easy Greek: ein Straßeninterview über Essen/Ausgehen suchen; 3–4 Minuten ohne Untertitel hören und jedes betonte [ˈaci]/[ˈaca]/[ˈitsa]/[ˈula] am Wortende mit einem Strich zählen; dann mit griechischen Untertiteln prüfen und zwei Diminutive nach Lesart (klein/zärtlich/beschwichtigend/spöttisch) deuten; zwei Sätze nachsprechen; Auswertungshilfe statt fester Lösung (Falsche Treffer: σουβλάκι/κολοκυθάκι zählen mit, sind aber nicht klein; Wörter wie κεφάλι oder αγόρι zählen nicht); Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 26.7: Hör-Auftrag
+
+Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) ein Straßeninterview über Essen,
+Kochen oder Ausgehen.
+
+1. Hör drei bis vier Minuten **ohne Untertitel** und mach einen Strich für jedes betonte [ˈaci],
+   [ˈaca], [ˈitsa] oder [ˈula] am Wortende.
+2. Hör dieselbe Stelle **mit griechischen Untertiteln** und prüf deine Striche.
+3. Nimm zwei der Diminutive und bestimm die Lesart: klein, zärtlich, beschwichtigend, spöttisch
+   oder schon ein eigenes Wort.
+4. Sprich zwei Sätze mit Diminutiv nach.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Das Signal ist die betonte Silbe direkt vor [ci], [ca], [tsa] oder [la]: [kafeˈðaci] zählt,
+[ˈtiri] nicht. Im schnellen Sprechen ist [-άκια]{lang="el"} nur ein kurzes [ˈaca].
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Frag bei Schritt 3: Ist die Sache klein? Wird etwas angeboten, bestellt, empfohlen? Beim Essen
+landet man meist bei beschwichtigend oder bei einem eigenen Wort.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Jedes Interview ist anders; so wertest du aus:
+
+- **Treffer, die nichts Kleines meinen:** [σουβλάκι, κολοκυθάκια, φασολάκια,
+  πατατάκια]{lang="el"} zählen als Striche, sind aber eigene Wörter.
+- **Falsche Striche:** Wörter, die nur ähnlich klingen: [το κεφάλι, το αγόρι]{lang="el"} (kein
+  betontes [ˈaci]), [η πίτσα]{lang="el"} [ˈpitsa] (kein Grundwort dahinter).
+- **Lesart:** Beim Essen überwiegt fast immer beschwichtigend und gesellig; zärtlich wird es, wenn
+  jemand von der Mutter oder Großmutter erzählt ([της γιαγιάς μου τα κεφτεδάκια]{lang="el"}).
+
+Viele Striche in wenigen Minuten sind beim Thema Essen nicht ungewöhnlich.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -965,7 +1066,66 @@ anderes: „Keine Sorge, das ist nichts Besonderes, bleib noch ein bisschen.“ 
 natürlich viele zu viel gegessen und getrunken, und die Rechnung ist alles andere als klein.
 :::
 
-<!-- EXERCISE: Nach dem Lesen: (A) 6 Aussagen richtig/falsch zum Text (z.B. Ouzo darf überall in der EU hergestellt werden; Wasser macht Ouzo trüb, weil sich Anethol nicht in Wasser löst; Tsipouro wird aus Trester gemacht; in Volos gibt es zu jedem Karäffchen denselben Meze; die Portionen in der Ouzeri sind immer klein); (B) im Text alle Diminutive und Vorsilben-Wörter finden und bestimmen (Grundwort, Genuswechsel ja/nein, Lesart; ξαναπαραγγέλνω mit zwei Vorsilben, von denen nur ξανα- durchsichtig ist); (C) Gegenbeispiel παραγγέλνω erklären; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 26.8: Nach dem Lesen
+
+**A. Richtig oder falsch?** Im Chat: „1r, 2f, …“.
+
+1. Ouzo darf in jedem Land der EU hergestellt werden.
+2. Der bekannteste Ouzo kommt aus einem Hafenort im Süden von Lesbos.
+3. Ouzo wird mit Wasser trüb, weil sich das Anethol nicht in Wasser löst.
+4. Tsipouro wird aus Trester gemacht und enthält immer Anis.
+5. In Volos kommt zu jedem Karäffchen derselbe Meze.
+6. Die Portionen in einer Ouzeri sind laut Text immer klein.
+
+**B. Wortbildung.** Such im Text die zehn verschiedenen Diminutive (Titel mitgezählt). Bei welchen
+hat das Genus gewechselt? Such dann die Wörter mit Vorsilbe: Welches hat zwei, und warum
+bestellt dabei niemand zu viel?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+A: Bei 4 und 6 kippen zwei kleine Wörter den Satz: [ή χωρίς]{lang="el"} und
+[δεν … πάντα]{lang="el"}. B: Ein Diminutiv ist ein
+Adjektiv und steht im letzten Satz.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+B: Genuswechsel gibt es dreimal; zu [καραφάκι]{lang="el"} gehört [η καράφα]{lang="el"}.
+Die Vorsilben-Wörter stehen im Absatz über den Tsipouro und im letzten. [τσιπουράδικα]{lang="el"} hat
+zwar ein betontes [-ά-]{lang="el"}, ist aber kein Diminutiv.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**A. 1f, 2r, 3r, 4f, 5f, 6f.** Zu 1: nur Griechenland und Zypern. Zu 4: [με γλυκάνισο ή
+χωρίς]{lang="el"}. Zu 5: [ο μεζές είναι άλλος]{lang="el"}, jedes Mal ein anderer. Zu 6: [Οι
+μερίδες δεν είναι πάντα μικρές.]{lang="el"}
+
+**B.** [ουζάκι, μεζεδάκια, πιατάκι, φετούλα, χταποδάκι, καραφάκι, σαρδελίτσες, κεφτεδάκια,
+πατατούλες, μικρούλης]{lang="el"}.
+
+- Genuswechsel: [ο μεζές → το μεζεδάκι]{lang="el"}, [ο κεφτές → το κεφτεδάκι]{lang="el"}, [η
+  καράφα → το καραφάκι]{lang="el"}. Alle anderen bleiben: [το ούζο, το πιάτο, το
+  χταπόδι]{lang="el"} sind schon sächlich, [φετούλα, σαρδελίτσες, πατατούλες]{lang="el"} gehen
+  den weiblichen Weg.
+- [μικρούλης]{lang="el"} ist spöttisch: Die Rechnung ist [καθόλου μικρούλης]{lang="el"}, also
+  groß. Die übrigen deutet der Text selbst: beschwichtigend.
+- [τσιπουράδικο]{lang="el"} ist ein Lokal: [-άδικο]{lang="el"} bildet Namen für Lokale und Läden,
+  keine Verkleinerungen.
+
+Vorsilben: [ξαναπαραγγέλνεις]{lang="el"} hat zwei. [ξανα-]{lang="el"} ist durchsichtig, „noch
+einmal“; [παρα-]{lang="el"} in [παραγγέλνω]{lang="el"} ist alt und nicht mehr erkennbar, daher kein
+„zu viel“. Durchsichtig ist [παρα-]{lang="el"} dagegen in [παραφάει]{lang="el"} und
+[παραπιεί]{lang="el"}. Wer weiter sucht, findet [ο συγγενής]{lang="el"}: [συγ-]{lang="el"} vor
+[γ]{lang="el"}, wörtlich „mit-geboren“, der Verwandte.
+:::
+<!-- CHECK: συγγενής < συν + γένος „mit-geboren“ als Eselsbrücke vertretbar; -άδικο als Suffix für Lokale (ψαράδικο, τσιπουράδικο) -->
+
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
