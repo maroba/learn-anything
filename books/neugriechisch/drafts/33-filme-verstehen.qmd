@@ -149,7 +149,46 @@ Wer nur auf die Wörter hört, kämpft mit den Nachteilen. Wer Bild, Situation u
 mitliest, hat gegen einen Muttersprachler weniger Rückstand, als die Wortschatzlücke vermuten
 lässt.
 
-<!-- EXERCISE: Filmszenen aus der Situation vorhersagen (Lernziel: Strategien anwenden; Bild und Situation nutzen); Art: Zuordnen/Multiple Choice – kurze Szenenbeschreibungen auf Deutsch (Arztpraxis, Polizeiverhör, Heiratsantrag, Streit am Telefon …), dazu griechische Sätze, die in welcher Szene fallen würden; Sätze nur aus bekanntem Wortschatz; Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 33.1: Welche Szene?
+
+In welcher Szene fällt welcher Satz? Im Chat: „1B, 2…“.
+
+**A** Arztpraxis · **B** Polizeiverhör · **C** Heiratsantrag · **D** Streit am Telefon ·
+**E** Schalter auf dem Amt
+
+1. [Πού ήσασταν χθες το βράδυ;]{lang="el"}
+2. [Από πότε πονάει;]{lang="el"}
+3. [Θα με παντρευτείς;]{lang="el"}
+4. [Μη μου το κλείσεις! Άκουσέ με!]{lang="el"}
+5. [Σας λείπει ένα χαρτί. Ελάτε ξανά τη Δευτέρα.]{lang="el"}
+6. [Πείτε μου ακριβώς τι έγινε.]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Wer siezt, wer duzt? Wer fragt nach Vergangenem, wer gibt Anweisungen?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Bei 4 fehlt ein Wort, das jeder ergänzt: [το τηλέφωνο]{lang="el"}. Ein Satz passt in mehr als
+eine Szene.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1B, 2A, 3C, 4D, 5E, 6B oder A.**
+
+1 ist die Alibi-Frage: Siezen, Aorist, Zeitangabe. In 2 zeigt der Patient, was wehtut. 3: Duzen und Futur. 4: Verbot mit [μη]{lang="el"}, dann Imperativ;
+der andere will auflegen. 5: ein fehlendes Papier, ein neuer Termin. 6 passt in Verhör und Praxis,
+zur Not auch aufs Amt; hier entscheidet erst das Bild.
+
+**Typischer Fehler:** 6 zwingend einer Szene zuordnen; manchen Satz klärt erst die Situation.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -204,7 +243,70 @@ erste Anrede; Frage 2 steckt meist im ersten Imperativ oder in der ersten Frage.
 versteht den Rest der Szene viel leichter, weil er weiß, worauf er wartet.
 :::
 
-<!-- EXERCISE: Szenenleitfaden anwenden (Lernziel: Szenen im Wesentlichen verstehen); Art: Hörverstehen – neue kurze Szene als .listen-Block (zwei Stimmen, 8–10 Zeilen, z.B. Kundin und Handwerker oder zwei Kollegen, mit einem Registerwechsel oder einer Vermutung), erst ohne Text hören, dann die fünf Leitfaden-Fragen per Multiple Choice beantworten, bei jeder das Signal nennen; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 33.2: Der Wasserhahn
+
+Hör die Szene zweimal mit ▶, ohne aufzuklappen, und beantworte dann die fünf Fragen des
+Leitfadens, jeweils mit Signal. Im Chat: „1b, 2…“.
+
+::: {lang="el" .listen}
+— Επιτέλους! Σας περιμένω από τις εννιά.
+
+— Συγγνώμη, κυρία μου, είχα κι άλλη δουλειά. Πού είναι το πρόβλημα;
+
+— Στο μπάνιο. Η βρύση τρέχει από χθες το βράδυ.
+
+— Χμ. Θα τη χάλασε κάποιος που δεν ήξερε τι έκανε.
+
+— Ο άντρας μου την έφτιαξε την Κυριακή.
+
+— Α… Ωραία δουλειά έκανε ο κύριος. Θέλει καινούργια.
+
+— Καινούργια; Και πόσο θα μου κοστίσει αυτό;
+
+— Διακόσια, με την εργασία.
+
+— Διακόσια; Έλα, ρε Μανώλη, εκατό χρόνια σε ξέρω!
+
+— Εκατόν πενήντα. Και την άλλη φορά, πάρτε με πριν από τον άντρα σας.
+:::
+
+1. **Wer mit wem?** a) Nachbarn, die sich duzen · b) Kundin und Handwerker, die sich kennen
+2. **Was will wer?** a) Sie will eine billige Reparatur, er den Auftrag · b) sie will sich
+   beschweren, er will gehen
+3. **Was ist vorher passiert?** a) Der Klempner war schon da · b) der Ehemann hat repariert
+4. **Wo kippt die Szene?** a) bei [Ο άντρας μου…]{lang="el"} · b) bei [Επιτέλους!]{lang="el"}
+5. **Was ist die Pointe?** a) der Preis · b) der letzte Satz
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Vergleich die Anrede am Anfang mit der in der vorletzten Zeile.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[Θα τη χάλασε]{lang="el"} ist eine Vermutung (Kapitel 25). Wen trifft sie, ohne dass er es weiß?
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1b, 2a, 3b, 4a, 5b.**
+
+1. Erst Siezen, beim Feilschen [Έλα, ρε Μανώλη]{lang="el"}: Sie kennen sich, und Nähe wird zum
+   Verhandlungsmittel (Kapitel 31).
+2. [Επιτέλους]{lang="el"} ist nur der Auftakt. 3. [την έφτιαξε την Κυριακή]{lang="el"}.
+4. „Das hat wohl einer kaputt gemacht, der keine Ahnung hatte“ trifft den Ehemann. Danach
+   [Α…]{lang="el"} und ein spöttisches Lob.
+5. „Und nächstes Mal rufen Sie mich vor Ihrem Mann an“: Den Rabatt holt er sich als Spott
+   zurück.
+
+**Typischer Fehler:** Den Kipppunkt dort suchen, wo es laut wird. Er liegt dort, wo sich das
+Verhältnis der beiden ändert.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -259,7 +361,66 @@ drei Fragen beantworten, bist du der Szene gefolgt.
 
 <!-- CHECK: Aussage zu „Prozentwerten“ (Abdeckung 95–98 % beim Lesen, Nation/Laufer; für Filme/Hören teils niedriger angesetzt, Webb & Rodgers 2009) – vorsichtige Formulierung so vertretbar? -->
 
-<!-- EXERCISE: Lücken schließen (Lernziel: Strategien für Filme ohne Untertitel anwenden); Art: Verstehen – Transkript einer kurzen Szene, in dem einzelne Stellen als „[unverständlich]“ fehlen; der Lerner entscheidet per Auswahl, was dort stehen muss (Verneinung ja/nein, Zeit, Person), und nennt das Signal im Kontext (Folgesatz, Reaktion, Endung); Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 33.3: Was stand in der Lücke?
+
+Vier Stellen nicht verstanden. Wähl die passende Fassung und nenn das Signal. Im Chat: „1b, 2…“.
+
+::: {lang="el" .no-audio}
+— Πήγες τελικά στη συναυλία;
+
+— (1) …… Έβρεχε όλο το βράδυ.
+
+— Κρίμα! Και τα εισιτήρια;
+
+— Ο Κώστας (2) …… σε έναν συνάδελφό του. Εκείνος πήγε με ομπρέλα.
+
+— Κι εσύ τι έκανες;
+
+— Έμεινα σπίτι. (3) …… μου το έλεγες νωρίτερα, θα ερχόμουν μαζί σου.
+
+— Πού; Εγώ πήγα στη μάνα μου.
+
+— Α. Και (4) ……;
+
+— Καλά είναι. Σε χαιρετάει.
+:::
+
+1. a) [Ναι, πήγα.]{lang="el"} · b) [Όχι, δεν πήγα.]{lang="el"} · c) [Θα πάω.]{lang="el"}
+2. a) [θα τα δώσει]{lang="el"} · b) [τα έδωσε]{lang="el"} · c) [τα δίνει]{lang="el"}
+3. a) [Αν]{lang="el"} · b) [Επειδή]{lang="el"} · c) [Ενώ]{lang="el"}
+4. a) [πώς είναι η μάνα σου]{lang="el"} · b) [πώς είσαι εσύ]{lang="el"} · c) [πού πήγες]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Die Antwort steckt jeweils im nächsten Satz oder in der Reaktion.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Bei 3 zeigt [θα ερχόμουν]{lang="el"} die Satzart (Kapitel 24), bei 4 die Endung von
+[είναι]{lang="el"} die Person.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1b, 2b, 3a, 4a.**
+
+1. [Έβρεχε]{lang="el"} allein entscheidet nichts. Sicher machen [Κρίμα!]{lang="el"} und
+   [Έμεινα σπίτι]{lang="el"}.
+2. [Εκείνος πήγε]{lang="el"}: Der Kollege war schon dort, also sind die Karten weitergegeben.
+3. [θα ερχόμουν]{lang="el"} verlangt den Irrealis: „Hättest du es mir früher gesagt, wäre ich
+   mitgekommen.“ Mit b) oder c) ergibt der Satz keinen Sinn.
+4. [είναι]{lang="el"}, nicht [είμαι]{lang="el"}: eine dritte Person; auf c) passt
+   [Καλά είναι]{lang="el"} nicht.
+
+**Typischer Fehler:** bei 1 schon nach [Έβρεχε]{lang="el"} entscheiden. Weiterhören schließt die
+Lücke.
+:::
 
 ## Die Komödie der Sechziger {#sec-filme-komoedie}
 
@@ -317,7 +478,59 @@ Stimme wiederholt, ist es fast sicher ein Zitat. Frag einfach: [Από ποια 
 Szene.
 :::
 
-<!-- EXERCISE: Sprache der alten Komödie erkennen (Lernziel: Szenen aus älteren Filmen verstehen); Art: Zuordnen – Sätze im Stil der 60er (δεσποινίς, κύριε διευθυντά, Katharevousa-Brocken wie εν πάση περιπτώσει, ως εκ τούτου, προίκα) jeweils mit Frage: Wer spricht zu wem, und was verrät die Form (Höflichkeit, Angeberei, Ironie)? Dazu eine „heute“-Fassung des Satzes auswählen; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 33.4: Wie in den Sechzigern
+
+**Teil A.** Was verrät die Form? **H** Höflichkeit der alten Zeit · **A** Angeberei ·
+**I** Ironie · **S** eine Sache, die es so nicht mehr gibt.
+
+1. Ein junger Mann zu einer jungen Frau: [Δεσποινίς Ρούλα, θα μου επιτρέψετε να σας συνοδεύσω
+   μέχρι το σπίτι σας;]{lang="el"} ([συνοδεύω]{lang="el"} begleiten)
+2. Ein kleiner Angestellter zum Chef: [Κύριε διευθυντά, ως εκ τούτου θέλω αύξηση!]{lang="el"}
+3. Ein Brautvater zur Mutter des Bräutigams: [Χωρίς προίκα; Ε, τότε δεν γίνεται τίποτα, κυρία
+   μου.]{lang="el"}
+4. Heute im Büro, ein Kollege zu einer jungen Kollegin, die zu spät kommt:
+   [Καλημέρα, δεσποινίς! Πάλι αργήσαμε;]{lang="el"}
+
+**Teil B.** Was sagt man heute statt 1 und 2?
+
+- Zu 1: x) [Να σε πάω μέχρι το σπίτι;]{lang="el"} · y) [Ρούλα, πάμε σπίτι μου;]{lang="el"}
+- Zu 2: x) [Ρε διευθυντή, θέλω αύξηση.]{lang="el"} · y) [Κύριε διευθυντή, θα ήθελα να μιλήσουμε
+  για μια αύξηση.]{lang="el"}
+
+Im Chat: „1H, 2…; 1x, 2…“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+In 2 passen zwei Teile des Satzes nicht zusammen. In 4: Wer sagt heute noch
+[δεσποινίς]{lang="el"}, und wozu?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zu 3 steht etwas im Vorsicht-Kasten zur Mitgift. In 4 hilft das „wir“ in [αργήσαμε]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1H, 2A, 3S, 4I. Teil B: 1x, 2y.**
+
+1. Siezen und Erlaubnis erbitten: damals formvollendet, heute steif.
+2. Das gelehrte [ως εκ τούτου]{lang="el"} soll wichtig klingen, der Rest ist eine nackte
+   Forderung; komisch wie bei Herrn Pantelis. [διευθυντά]{lang="el"} allein war bloß höflich.
+3. Feilschen um die Mitgift, seit 1983 abgeschafft.
+4. Altmodisches [δεσποινίς]{lang="el"} plus gönnerhaftes „wir“: neckend oder herablassend,
+   Ironie ist beides.
+
+Teil B: 1y heißt „Gehen wir zu mir?“, ein ganz anderes Angebot. 2x wird mit [ρε]{lang="el"}
+unverschämt; 2y verpackt die Forderung mit [θα ήθελα]{lang="el"} (Kapitel 31).
+
+**Typischer Fehler:** jedes gelehrte Wort für Angeberei halten; es kommt auf Figur und Lage an.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -362,7 +575,71 @@ arbeiten sehr unterschiedlich (Kapitel 15).
 
 <!-- CHECK: Charakterisierung „flat/deadpan delivery, wenig Überlappen, lange Pausen“ für Teile der Greek Weird Wave so vertretbar? -->
 
-<!-- EXERCISE: Bedeutung ohne Satzmelodie erschließen (Lernziel: Strategien anwenden); Art: Hörverstehen – kurzer .listen-Dialog, bewusst ohne Diskursmarker und mit mehrdeutigen Sätzen (Frage oder Aussage? Ernst oder Ironie?), Entscheidung nur über Wörter und Kontext (Fragewort, μήπως, Folgesatz, Reaktion); Hinweis im Text: die Synthesestimme spricht selbst fast ohne Ausdruck, das passt hier ausnahmsweise; Schwierigkeit 3 -->
+::: {.callout-note .exercise}
+## Übung 33.5: Ohne Melodie
+
+Vater und Tochter, im Stil des neuen Kinos. Die Synthesestimme spricht ohnehin fast ohne
+Ausdruck; hier passt das ausnahmsweise. Hör zweimal, dann entscheide nur über Wörter und
+Zusammenhang. Im Chat: „1a, 2…“.
+
+::: {lang="el" .listen}
+— Βάζεις τρία πιάτα. Ποιος θα έρθει απόψε;
+
+— Ο Άρης.
+
+— Ποιος Άρης;
+
+— Ο γαμπρός σου.
+
+— Δεν έχω γαμπρό.
+
+— Από απόψε έχεις. Του το υποσχέθηκα.
+
+— Μήπως έπρεπε να με είχες ρωτήσει πρώτα;
+
+— Σε ρωτάω τώρα. Σου αρέσει το όνομα Άρης;
+
+— Πολύ ωραίο όνομα. Για σκύλο.
+
+— Ωραία. Θα του το πω.
+:::
+
+[υπόσχομαι, υποσχέθηκα]{lang="el"} versprechen.
+
+1. [γαμπρός]{lang="el"} heißt hier: a) Schwager · b) Bräutigam · c) Schwiegersohn
+2. [Μήπως έπρεπε να με είχες ρωτήσει πρώτα;]{lang="el"} ist a) eine echte Frage · b) ein Vorwurf
+3. [Πολύ ωραίο όνομα.]{lang="el"} ist a) Lob · b) Spott
+4. Hat der Vater den Spott verstanden? a) ja · b) nein · c) offen
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Welche Zeile klärt, was der Vater mit [γαμπρός]{lang="el"} meint?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[έπρεπε να]{lang="el"} + Plusquamperfekt: „hätte … sollen“ (Kapitel 24). Bei 3 zählt der Satz
+danach.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1b, 2b, 3b, 4c.**
+
+1. [Δεν έχω γαμπρό]{lang="el"} kann „Ich habe keinen Schwager“ heißen; erst
+   [Από απόψε έχεις. Του το υποσχέθηκα.]{lang="el"} zeigt den versprochenen Bräutigam.
+   Schwiegersohn wäre er für den Vater ([ο γαμπρός μου]{lang="el"}), nicht mit [σου]{lang="el"}.
+2. „Hättest du mich nicht vorher fragen sollen?“ [μήπως]{lang="el"} macht den Vorwurf nur
+   höflicher. Komisch wird es, weil der Vater ihn als echte Frage nimmt.
+3. [Για σκύλο]{lang="el"} dreht das Lob nachträglich um. Ohne Melodie trägt der Folgesatz die
+   Ironie.
+4. Wörtlich genommen oder trocken weitergegeben: Solche offenen Stellen sind hier oft Absicht.
+   **Typischer Fehler:** eine eindeutige Antwort in einer Melodie suchen, die es nicht gibt.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -476,7 +753,54 @@ Makler · [τα κοινόχρηστα]{lang="el"} die Nebenkosten (im Mehrfamil
 — Κάθε φορά που του ζητούσαμε χαρτζιλίκι.
 :::
 
-<!-- EXERCISE: Szenenarbeit mit dem Leitfaden (Lernziel: Szenen im Wesentlichen verstehen); Art: Hörverstehen zur .listen-Szene oben – erst höchstens zweimal ohne Text, dann die fünf Leitfaden-Fragen (Multiple Choice); dazu: Was hat der Makler gefragt? (einseitiges Telefonat erschließen); Wo wechselt Nikos das Register und wie reagiert Marina? Welche Form ist eine Vermutung (θα τις έγραψε, Kapitel 25), welche ein Irrealis (αν περιμέναμε …, Kapitel 24)? Worauf verweist „τον τσιγκούνη πατέρα … γαμπρό“ (Anknüpfung an die Komödie)? Schwierigkeit 3 -->
+::: {.callout-note .exercise}
+## Übung 33.6: Die Kassetten des Großvaters
+
+Hör die Szene oben höchstens zweimal, ohne aufzuklappen. Im Chat: „1b, 2…“.
+
+1. **Was will wer?** a) Beide wollen die Kassetten behalten · b) Nikos will bald verkaufen,
+   Marina warten
+2. **Was ist vorher passiert?** a) Der Großvater ist vor Kurzem gestorben · b) vor Jahren
+3. **Was hat der Makler gefragt?** a) nach dem Preis · b) ob jemand morgen um sechs die
+   Wohnung sehen kann
+4. **Wo wechselt Nikos das Register?** a) beim Telefonat · b) im Streit ums Geld. Wie reagiert
+   Marina?
+5. [θα τις έγραψε]{lang="el"} und [αν περιμέναμε εσένα, θα το πουλούσαμε]{lang="el"}: Welche
+   Form ist eine Vermutung, welche ein Irrealis?
+6. **Wo kippt die Szene, was ist die Pointe?** An welche Szene dieses Kapitels erinnert der Film
+   mit dem geizigen Vater?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Am Telefon hörst du nur Antworten; jede verrät die Frage davor.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Wann genau sagte der Großvater seinen Satz?
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1b, 2a, 3b, 4a.**
+
+1. Die Kassetten sind nur der Aufhänger. 2. [Ούτε ένας μήνας δεν πέρασε.]{lang="el"}
+3. Die Echo-Frage [Αύριο στις έξι;]{lang="el"} und Nikos’ Erklärung danach. Gefragt hat er wohl
+   auch, ob sie sich entschieden haben.
+4. Am Telefon siezt er ([σας, Μάλιστα]{lang="el"}). Marina zitiert ihn spöttisch („der Herr
+   Direktor“); er kontert mit dem Gegenteil, [Έλα, ρε φίλε]{lang="el"}.
+5. [θα]{lang="el"} + Aorist ist die Vermutung, „hat er wohl aufgenommen“ (Kapitel 25);
+   [αν]{lang="el"} + Imperfekt, [θα]{lang="el"} + Imperfekt der Irrealis (Kapitel 24).
+   **Typischer Fehler:** [θα τις έγραψε]{lang="el"} als Zukunft hören.
+6. Bei [Καλά, καλά… Βάλε μία]{lang="el"} wird aus Streit Erinnerung. Pointe: „Geld ist nicht
+   alles“ sagte der Großvater, wenn sie um Taschengeld baten; er war selbst ein kleiner
+   [τσιγκούνης]{lang="el"}. Der Film erinnert an die Einstiegsszene mit
+   [η αγάπη είναι το παν]{lang="el"}.
+:::
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -547,7 +871,42 @@ auf (Kapitel 32).
 
 <!-- CHECK: Gibt es auf ERTflix aktuell ältere griechische Spielfilme (z.B. Komödien der 1960er) und eine eigene Kategorie dafür? Falls ja, zwei, drei konkrete, verifizierte Titel mit Rubrik nennen (Outline verspricht „ausgewählte Filme auf ERTflix mit Szenenleitfaden“); ohne Prüfung bleibt es bewusst allgemein. -->
 
-<!-- EXERCISE: Hör-Auftrag mit echtem Film (Lernziel: Strategien für Filme ohne Untertitel anwenden); Art: Hör-Auftrag ERTflix – drei Szenen von je 1–2 Minuten aus einem Film oder einer Serienfolge mit griechischen Untertiteln; pro Szene: Vorher-Messung ohne Untertitel mit Punktzahl 0–5 (eine pro Leitfaden-Frage), dann griechische Untertitel, dann ohne; zum Schluss eine Ατάκα oder Redewendung notieren; Auswertung nach der Aufstiegsregel aus @sec-filme-leiter; im Chat nur Zahlen, etwa „2 → 4, 1 → 3, 3 → 5“; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 33.7: Hör-Auftrag
+
+Nimm einen Film oder eine Serienfolge mit griechischen Untertiteln (@sec-filme-echte-filme),
+darin drei Dialogszenen von ein bis zwei Minuten. Pro Szene:
+
+1. **Ohne Untertitel** (Vorher-Messung): die fünf Leitfaden-Fragen, ein Punkt pro Frage.
+2. **Mit griechischen Untertiteln.**
+3. **Ohne Untertitel**, neu zählen.
+
+Notier dir eine [ατάκα]{lang="el"} oder Redewendung. Im Chat: „2 → 4, 1 → 3, 3 → 5“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Nimm Szenen, in denen zwei, drei Leute reden, keine Verfolgungsjagd.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Einen Punkt gibt es nur, wenn du ein Signal nennen kannst.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+So wertest du aus:
+
+- **Aufsteigen?** Es zählt die Vorher-Messung, nur Fragen 1 bis 3 (@sec-filme-leiter). In allen
+  drei Szenen: nächste Stufe. In zwei: beim nächsten Film fünf Szenen messen.
+- **Kaum Sprung von 1 zu 3** bei niedrigen Zahlen: Die Szene ist zu schwer; nimm eine alte
+  Komödie oder eine Serie.
+- **Fragen 4 und 5** bleiben lange schwach; das ist normal.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -664,4 +1023,54 @@ Wenn die Großmutter noch lebte, würde sie ihn adoptieren. Oder sie würde ihm 
 Sekunde vor ihm vorsagen.
 :::
 
-<!-- EXERCISE: Lesetext verstehen und Stoff bündeln (Lernziel: Strategien benennen; Kapitelstoff wiederholen); Art: richtig/falsch zum Text, dazu: Welche Stufen der Leiter und welche Hörtechnik (intensiv, Shadowing) steckt in der „Rezept“-Absatz? Formen bestimmen: έβλεπε/είδε-Kontrast (Gewohnheit/Ereignis, Kapitel 4), τις είχε δει (Plusquamperfekt, 14), Αν ζούσε … θα τον υιοθετούσε (Irrealis, 24); Zugabe: den Text laut in drei Sätzen zusammenfassen; Schwierigkeit 1–2 -->
+::: {.callout-note .exercise}
+## Übung 33.8: Das Rezept der Großmutter
+
+**Teil A. Richtig oder falsch?**
+
+1. Die Großmutter sah sonntags Filme, die sie nicht kannte.
+2. Die Kinder durften sonntags Zeichentrick sehen.
+3. Johann konnte die Grammatik besser als die Erzählerin.
+4. Johann fand die Komödien von Anfang an lustig.
+5. Die Erzählerin verrät Johanns Satz.
+
+**Teil B.** Welche Stufen der Leiter und welche Hörtechniken aus Kapitel 21 stecken im
+Rezept-Absatz?
+
+**Teil C.** Warum [έβλεπε]{lang="el"}, aber [τις είχε δει]{lang="el"}? Und woran erkennst du an
+[Αν ζούσε η γιαγιά, θα τον υιοθετούσε]{lang="el"}, dass sie nicht mehr lebt?
+
+**Zugabe:** Fass den Text laut in drei griechischen Sätzen zusammen. Im Chat: „1r, 2f…“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Für A such das Verb, das die Aussage stützt oder widerlegt, etwa [βαριόταν]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+C: Gewohnheit oder Ereignis (Kapitel 4), Vorvergangenheit (14), [αν]{lang="el"} + Imperfekt
+(24).
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**A: 1f, 2f, 3r, 4f, 5f.** Belege: [είχε δει]{lang="el"}, [ήταν της γιαγιάς]{lang="el"},
+[καλύτερα από μένα]{lang="el"}, [βαριόταν]{lang="el"}, [μια άλλη φορά]{lang="el"}.
+
+**B:** Erst griechische Untertitel, dann ohne: Stufe 2 und 3 oder 4. Eine Szene immer wieder:
+**intensiv**; mitsprechen: **Shadowing**.
+
+**C:** [έβλεπε]{lang="el"}: Imperfekt, die sonntägliche Gewohnheit; [είδε]{lang="el"} wäre ein
+einzelnes Mal. [είχε δει]{lang="el"}: Plusquamperfekt, die fünfzig Male lagen vor dem „Später
+begriff ich“. [Αν ζούσε … θα υιοθετούσε]{lang="el"}: Irrealis der Gegenwart, „wenn sie noch
+lebte“, also lebt sie nicht. **Typischer Fehler:** [θα υιοθετούσε]{lang="el"} als Gewohnheit
+lesen.
+
+**Zugabe, etwa:** [Μια γιαγιά ήξερε απέξω τις ατάκες από παλιές κωμωδίες. Ο Γιόχαν έμαθε
+ελληνικά με τις ίδιες ταινίες. Σε μια ταβέρνα είπε μια ατάκα, και όλοι γέλασαν.]{lang="el"}
+:::

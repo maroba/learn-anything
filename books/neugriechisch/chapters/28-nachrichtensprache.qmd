@@ -8,7 +8,8 @@ title: "Nachrichtensprache"
 - **Mediopassiv-Aorist** (Kapitel 13): [γράφτηκε, βρέθηκε]{lang="el"}; im Dokumentationston
   kehrt das [θ]{lang="el"} zurück: [ανακαλύφθηκε]{lang="el"}.
 - **Abstand in Nachrichten** (Kapitel 18): [σύμφωνα με]{lang="el"}, [ισχυρίζεται]{lang="el"},
-  [φέρεται να]{lang="el"}. **Bilanz im Perfekt** (Kapitel 14): [η φωτιά έχει κάψει …]{lang="el"}
+  [φέρεται να]{lang="el"}.
+- **Bilanz im Perfekt** (Kapitel 14): [η φωτιά έχει κάψει …]{lang="el"}.
 - **Sätze ohne Verb** (Kapitel 6, 19): [Κλειστό το φαράγγι λόγω βροχής.]{lang="el"}
 - **Gelehrte Wortbildung** (Kapitel 27): [-ση, -ξη, -ψη]{lang="el"} aus dem perfektiven Stamm
   ([μέτρησα → η μέτρηση]{lang="el"}); inneres Augment ([συνέβη, ανήγγειλε]{lang="el"}).
@@ -252,7 +253,7 @@ wird [εντός του μήνα]{lang="el"} zu [μέσα στον μήνα]{lan
 6. το υπουργείο ανακοινώνει (auch: ανακοίνωσε)
 :::
 
-Zeitform und Aktiv/Passiv legt das Nomen nicht fest; jede passende Variante zählt.
+Zeitform und Aktiv oder Mediopassiv legt das Nomen nicht fest; jede passende Variante zählt.
 
 **B:** Von innen: Arbeitslosigkeit sinkt → dafür Maßnahmen ergreifen → das wird erwartet.
 Steuern sinken → Gesetz dafür verabschieden → danach fallen die Preise.
@@ -336,7 +337,7 @@ Grund von“, von [η βάση]{lang="el"}, Stufe 2. Ein dritter steckt in einer
 ::: {.callout-note .exercise}
 ## Übung 28.2: Was heißt das kleine Wort?
 
-Ordne jedem fett gedruckten Wort seine Bedeutung zu (im Chat z.B. „1d, 2a …“). Zwei Bedeutungen
+Ordne jedem fett gedruckten Wort seine Bedeutung zu (im Chat etwa „1d, 2a …“). Zwei Bedeutungen
 bleiben übrig. Gib jedem Wort seine Stufe (1, 2, 3): Welche kannst du im Kafenion stehen lassen?
 Dann sag den Satz laut so, wie man ihn im Gespräch sagen würde.
 
@@ -434,8 +435,8 @@ Katharevousa, und die folgte den Regeln des Altgriechischen.
 | [εστάλη]{lang="el"} | [στάλθηκε]{lang="el"} | [στέλνω]{lang="el"} | wurde geschickt |
 | [απεδείχθη]{lang="el"} | [αποδείχτηκε]{lang="el"} | [αποδεικνύω]{lang="el"} | erwies sich, wurde bewiesen |
 
-Die Formen links sind Stufe 3, mit einer Ausnahme: [συνελήφθη]{lang="el"} ist selbst die übliche
-Passivform von [συλλαμβάνω]{lang="el"}, Stufe 2. Im Gespräch sagt man trotzdem lieber aktiv
+Die Formen links sind Stufe 3, mit einer Ausnahme: [συνελήφθη]{lang="el"} ist selbst der übliche
+Mediopassiv-Aorist von [συλλαμβάνω]{lang="el"}, Stufe 2. Im Gespräch sagt man trotzdem lieber aktiv
 [τον συνέλαβαν]{lang="el"} oder [τον έπιασαν]{lang="el"} „sie haben ihn geschnappt“.
 
 Drei Erkennungszeichen, alle an der Endung und am Anfang:
@@ -549,7 +550,7 @@ Am Telefon etwa: [Χθες έπιασαν δύο άτομα στον Πειρα�
 | [εκλέγω, εξέλεξα; εκλέχτηκα]{lang="el"} | [eˈkleɣo], [eˈkseleksa]; [eˈklextika] | wählen (in ein Amt); [εξελέγη]{lang="el"} wurde gewählt (Stufe 3, nur verstehen) |
 | [συλλαμβάνω, συνέλαβα; συνελήφθη]{lang="el"} | [silamˈvano], [siˈnelava]; [sineˈlifθi] | festnehmen; wurde festgenommen (Stufe 2) |
 | [η σύλληψη]{lang="el"} | [i ˈsilipsi] | die Festnahme |
-| [αναφέρω, ανέφερα]{lang="el"} | [anaˈfero], [aˈnefera] | erwähnen; mitteilen, erklären |
+| [αναφέρω, ανέφερα; αναφέρθηκα]{lang="el"} | [anaˈfero], [aˈnefera]; [anaˈferθika] | erwähnen; mitteilen, erklären; [αναφέρεται]{lang="el"} wird erwähnt |
 :::
 
 ## Gelehrte Partizipien {#sec-nachrichten-partizipien}
@@ -689,7 +690,7 @@ steht auch das Objekt vorn. Ist es unbestimmt wie in [Νέα μέτρα ανακ
 κυβέρνηση]{lang="el"}, gilt Kapitel 20: Unbestimmtes bekommt kein Echo-Pronomen. Meldungen
 stellen aber auch ein **bestimmtes** Objekt ohne Echo nach vorn: [Τη σύλληψη ενός 38χρονου
 ανακοίνωσε η αστυνομία.]{lang="el"} Nach Kapitel 20 wäre das ein Scheinwerfer mit Gegensatz; im
-Nachrichtenstil ist es eine Ausnahme ohne Gegensatz: Das Neue kommt zuerst. Im Gespräch bleibt es
+Nachrichtenstil ist es eine Ausnahme ohne Gegensatz, die **Nachrichtenausnahme**: Das Neue kommt zuerst. Im Gespräch bleibt es
 bei der Überschrift mit Echo-Pronomen.
 
 ::: {.callout-note .exercise}
@@ -698,7 +699,7 @@ bei der Überschrift mit Echo-Pronomen.
 Ordne jeder Schlagzeile den Anfang ihrer Meldung zu (im Chat „1D, 2A …“). Dann sag jede
 Schlagzeile als vollständigen Gesprächssatz.
 
-::: {lang="el"}
+::: {lang="el" .no-audio}
 1. Κλειστά τα σχολεία της Φλώρινας λόγω χιονιού
 2. Πτώση 3% στην τιμή της βενζίνης
 3. Συνελήφθη 38χρονος για κλοπή στον Πειραιά
@@ -707,7 +708,7 @@ Schlagzeile als vollständigen Gesprächssatz.
 6. Νέα μέτρα για τα δάση ανακοινώνει η κυβέρνηση
 :::
 
-::: {lang="el"}
+::: {lang="el" .no-audio}
 A.  Καθησυχαστικοί εμφανίζονται οι σεισμολόγοι μετά τον χθεσινό σεισμό των 4,5 Ρίχτερ στην Κρήτη.
 B.  Τη σύλληψη ενός 38χρονου στο λιμάνι ανακοίνωσε σήμερα η αστυνομία.
 C.  Πέντε μέτρα για την προστασία των δασών από τη φωτιά παρουσίασε σήμερα ο υπουργός.
@@ -768,7 +769,7 @@ bestimmtes Objekt vorn, ohne Echo-Pronomen; bei C und Schlagzeile 6 ist das Obje
 | [το νομοσχέδιο]{lang="el"} | [to nomoˈsçeðio] | der Gesetzentwurf |
 | [σε ισχύ]{lang="el"} | [se isˈçi] | in Kraft |
 | [η λειψυδρία]{lang="el"} | [i lipsiˈðria] | die Wasserknappheit |
-| [ο 45χρονος, η 45χρονη]{lang="el"} | [o saradapeˈdaxronos] | der/die 45-Jährige (Nachrichten; gelesen [σαρανταπεντάχρονος]{lang="el"}) |
+| [ο σαρανταπεντάχρονος, η σαρανταπεντάχρονη]{lang="el"} | [o saradapeˈdaxronos] | der/die 45-Jährige (in Nachrichten geschrieben [ο 45χρονος, η 45χρονη]{lang="el"}) |
 :::
 
 ## Hörspur: eine Nachrichtensendung {#sec-nachrichten-hoerspur}
@@ -817,7 +818,7 @@ Vor dem Hören:
 
 [— Ο δήμαρχος πάντως ελπίζει ότι του χρόνου δε θα χρειαστούν υδροφόρα.]{.v2}
 
-[— Στη Βοιωτία τώρα, όπου συνελήφθη χθες ένας 52χρονος για αρχαιοκαπηλία. Στο σπίτι του
+[— Στη Βοιωτία τώρα, όπου συνελήφθη χθες ένας πενηνταδυάχρονος για αρχαιοκαπηλία. Στο σπίτι του
 βρέθηκαν πάνω από διακόσια αρχαία νομίσματα. Σύμφωνα με την αστυνομία, ο συλληφθείς φέρεται να
 πούλησε πολλά από αυτά μέσω διαδικτύου. Σήμερα οδηγήθηκε ενώπιον του εισαγγελέα. Και ο καιρός:
 άνοδος της θερμοκρασίας από αύριο, με τον υδράργυρο να φτάνει τους 35 βαθμούς. Αυτά για απόψε.
@@ -892,7 +893,7 @@ Versprechungen.
 — Nun nach Böotien, wo gestern ein 52-Jähriger wegen illegalen Antikenhandels festgenommen wurde.
 In seinem Haus wurden über zweihundert antike Münzen gefunden. Laut Polizei soll der Festgenommene
 viele davon über das Internet verkauft haben. Heute wurde er dem Staatsanwalt vorgeführt. Und das
-Wetter: steigende Temperaturen ab morgen, bis zu 35 Grad. Das war's für heute Abend. Einen schönen
+Wetter: steigende Temperaturen ab morgen, bis zu 35 Grad. Das war’s für heute Abend. Einen schönen
 Abend.
 :::
 
@@ -931,7 +932,7 @@ Zwei frei zugängliche Quellen:
   Nachrichtensendungen (kostenlose Anmeldung, Kapitel 14). Ob eine davon griechische Untertitel
   hat, ist nicht sicher; Titel mit Untertiteln sammelt die Rubrik [«Προσβασιμότητα για
   Όλους»]{lang="el"} mit dem Kennzeichen CC (Kapitel 21).
-- **SBS Ελληνικά**, das griechische Programm des australischen Senders SBS: Auf
+- **SBS [Ελληνικά]{lang="el"}**, das griechische Programm des australischen Senders SBS: Auf
   [sbs.com.au/language/greek/el](https://www.sbs.com.au/language/greek/el) gibt es täglich
   ein kurzes [Δελτίο Ειδήσεων]{lang="el"} als Audio, ohne Bild und Untertitel, über Australien
   und Griechenland.
@@ -939,7 +940,7 @@ Zwei frei zugängliche Quellen:
 ::: {.callout-note .exercise}
 ## Übung 28.7: Hör-Auftrag
 
-Nimm ein [Δελτίο Ειδήσεων]{lang="el"} von [SBS Ελληνικά](https://www.sbs.com.au/language/greek/el)
+Nimm ein [Δελτίο Ειδήσεων]{lang="el"} von [SBS [Ελληνικά]{lang="el"}](https://www.sbs.com.au/language/greek/el)
 oder die ersten fünf Minuten einer Nachrichtensendung auf [ERTflix](https://www.ertflix.gr).
 
 1. **Ohne Untertitel, nur der Bauplan:** Wie viele Meldungen sind es? Wo wechselt das Thema,
@@ -953,7 +954,7 @@ oder die ersten fünf Minuten einer Nachrichtensendung auf [ERTflix](https://www
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Themenwechsel hörst du an Pausen, an einem neuen Ort vorn im Satz ([Στην … τώρα]{lang="el"})
+Themenwechsel hörst du an Pausen, an einem neuen Ort vorn im Satz ([Στη(ν) … τώρα]{lang="el"})
 und an Übergaben wie [Περισσότερα από …]{lang="el"}. Das Wetter kommt meist zuletzt.
 :::
 
@@ -984,7 +985,7 @@ Hörspur oben mit ihrem Text oder an einer Sendung mit CC, dann zurück zur echt
 | [το δελτίο ειδήσεων]{lang="el"} | [to ðelˈtio iˈðiseon] | die Nachrichtensendung |
 | [οι τίτλοι]{lang="el"} | [i ˈtitli] | die Schlagzeilen (Sendung) |
 | [ο ανταποκριτής, η ανταποκρίτρια]{lang="el"} | [o adapokriˈtis], [i adapoˈkritria] | der Korrespondent, die Korrespondentin |
-| [Αυτά για απόψε.]{lang="el"} | [afˈta ʝa aˈpopse] | Das war's für heute Abend. |
+| [Αυτά για απόψε.]{lang="el"} | [afˈta ʝa aˈpopse] | Das war’s für heute Abend. |
 :::
 
 ## Das Wichtigste {#sec-nachrichten-wichtigste}
@@ -1004,7 +1005,7 @@ Hörspur oben mit ihrem Text oder an einer Sendung mit CC, dann zurück zur echt
 - **Gelehrte Partizipien:** [-όμενος]{lang="el"}, [-ων/-ουσα/-ον]{lang="el"},
   [-θείς/-θέντες]{lang="el"}.
 - **Schlagzeilen:** Aussage vorn ohne Verb, nur Nomen, Mediopassiv vorn, Quelle mit Doppelpunkt;
-  Objekt vorn ohne Echo-Pronomen ohne Gegensatz.
+  Nachrichtenausnahme: bestimmtes Objekt vorn, ohne Echo-Pronomen, ohne Gegensatz.
 - **Sendung:** Schlagzeilen, Hauptmeldung mit Korrespondent und O-Ton, weitere Meldungen, Wetter.
 
 ## Zum Lesen: Zwölf Stunden bis zu den Nachrichten {#sec-nachrichten-lesetext}
