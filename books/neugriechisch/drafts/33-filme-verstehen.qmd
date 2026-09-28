@@ -22,10 +22,10 @@ Aus Kapitel 21, 30 und 31 wird vorausgesetzt:
 
 Athen, irgendwann in den Sechzigern. Ein Wohnzimmer mit Spitzendeckchen, ein Vater im Unterhemd,
 an der Tür die Heiratsvermittlerin des Viertels. Die Szene ist erfunden, aber im Stil der alten
-Filmkomödien geschrieben, von denen in Kapitel 21 ein Großvater schwärmte.
+Filmkomödien geschrieben, von denen in Kapitel 21 ein älterer Herr schwärmte.
 
 ::: {lang="el"}
-— Κυρ-Παντελή μου, σου ’χω γαμπρό! Χρυσό παιδί. Υπάλληλος σε τράπεζα, με μισθό σίγουρο.
+— Κυρ Παντελή μου, σου ’χω γαμπρό! Χρυσό παιδί. Υπάλληλος σε τράπεζα, με μισθό σίγουρο.
 
 — Σε τράπεζα; Καλό αυτό. Και τι ζητάει;
 
@@ -53,7 +53,7 @@ Filmkomödien geschrieben, von denen in Kapitel 21 ein Großvater schwärmte.
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
 
-— Mein lieber Herr Pantelis, ich hab einen Bräutigam für Sie! Ein Goldjunge. Angestellter bei
+— Pantelis, mein Lieber, ich hab einen Bräutigam für dich! Ein Goldjunge. Angestellter bei
 einer Bank, mit sicherem Gehalt.
 
 — Bei einer Bank? Das ist gut. Und was verlangt er?
@@ -81,9 +81,9 @@ Schwiegermutter.
 :::
 
 Die Übersetzung glättet, was die Szene lustig macht. Die Vermittlerin duzt und nennt ihn
-[κυρ-Παντελή μου]{lang="el"}: volkstümlich und vertraut (Kapitel 7). Er antwortet mit
-[Εν πάση περιπτώσει]{lang="el"} und [Ως εκ τούτου]{lang="el"}, zwei Brocken Katharevousa
-(Kapitel 28), die in seinem Unterhemd wirken wie ein Zylinder auf dem Kopf. Ein Mann, der
+[κυρ Παντελή μου]{lang="el"}: volkstümlich und vertraut (Kapitel 7). Er antwortet mit
+[Εν πάση περιπτώσει]{lang="el"} und [Ως εκ τούτου]{lang="el"}, zwei Brocken Katharevousa,
+der gelehrten Sprache von Amt und Zeitung, die in seinem Unterhemd wirken wie ein Zylinder auf dem Kopf. Ein Mann, der
 gelehrt redet, um sich größer zu machen, gehört zum Stammpersonal dieser Filme. Dazu kommen
 [Θα τα βρείτε]{lang="el"} mit dem kleinen [τα]{lang="el"} (Kapitel 30) und eine Pointe, die
 nicht ausgesprochen wird: Was aus dem Foto wurde, musst du selbst ergänzen.
@@ -101,7 +101,7 @@ Komödien und das neue Kino.
 | [η νύφη]{lang="el"} | [i ˈnifi] | die Braut; die Schwiegertochter; die Schwägerin |
 | [η προίκα]{lang="el"} | [i ˈprika] | die Mitgift |
 | [η πεθερά, ο πεθερός]{lang="el"} | [i peθeˈra], [o peθeˈros] | die Schwiegermutter, der Schwiegervater |
-| [η δεσποινίδα]{lang="el"} | [i ðespiˈniða] | das Fräulein (veraltet; älter [η δεσποινίς]{lang="el"}) |
+| [η δεσποινίδα]{lang="el"} | [i ðespiˈniða] | das Fräulein; vor Namen und als Anrede [δεσποινίς]{lang="el"} |
 | [παντρεύομαι, παντρεύτηκα]{lang="el"} | [paˈdrevome], [paˈdreftika] | heiraten |
 | [Έτσι μ’ αρέσει.]{lang="el"} | [ˈetsi maˈresi] | So gefällt mir das. |
 :::
@@ -183,7 +183,7 @@ eine Szene.
 
 **1B, 2A, 3C, 4D, 5E, 6B oder A.**
 
-1 ist die Alibi-Frage: Siezen, Aorist, Zeitangabe. In 2 zeigt der Patient, was wehtut. 3: Duzen und Futur. 4: Verbot mit [μη]{lang="el"}, dann Imperativ;
+1 ist die Alibi-Frage: Siezen, Vergangenheit, Zeitangabe. In 2 zeigt der Patient, was wehtut. 3: Duzen und Futur. 4: Verbot mit [μη]{lang="el"}, dann Imperativ;
 der andere will auflegen. 5: ein fehlendes Papier, ein neuer Termin. 6 passt in Verhör und Praxis,
 zur Not auch aufs Amt; hier entscheidet erst das Bild.
 
@@ -196,7 +196,7 @@ zur Not auch aufs Amt; hier entscheidet erst das Bild.
 | [ο ήχος]{lang="el"} | [o ˈixos] | der Ton, das Geräusch |
 | [η ένταση]{lang="el"} | [i ˈedasi] | die Lautstärke; die Spannung |
 | [ο διάλογος]{lang="el"} | [o ðiˈaloɣos] | der Dialog |
-| [πιάνω, έπιασα]{lang="el"} | [ˈpʝano], [ˈepʝasa] | fassen; (umg.) mitkriegen: [Δεν το έπιασα.]{lang="el"} Hab ich nicht mitgekriegt. |
+| [πιάνω, έπιασα]{lang="el"} | [ˈpçano], [ˈepçasa] | fassen; (umg.) mitkriegen: [Δεν το έπιασα.]{lang="el"} Hab ich nicht mitgekriegt. |
 | [μπερδεύομαι, μπερδεύτηκα]{lang="el"} | [berˈðevome], [berˈðeftika] | durcheinanderkommen; [μπερδεύω]{lang="el"} verwechseln |
 | [ειρωνικός, -ή, -ό]{lang="el"} | [ironiˈkos] | ironisch |
 :::
