@@ -6,6 +6,6 @@
 
 | Kapitel | Status | Notizen |
 |---|---|---|
-| 02 Der zweite Stamm: der Aorist | veröffentlicht (Stilrunde) | Probekapitel; Reviews abgeschlossen; offen: Easy-Greek-Link im Browser bestätigen |
+| 02 Der zweite Stamm: der Aorist | veröffentlicht (Stilrunde) | Probekapitel; Reviews abgeschlossen |
 
 ## Offene TODOs

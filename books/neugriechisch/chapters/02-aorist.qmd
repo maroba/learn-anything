@@ -987,7 +987,6 @@ besten über Vergangenes (Wochenende, Urlaub, Kindheit).
 3. Spul zurück und prüf beides **mit griechischen Untertiteln**.
 :::
 
-<!-- CHECK: Kanal-URL https://www.youtube.com/@EasyGreekVideos per Suche ermittelt; im Browser bestätigen (vom Container aus nicht erreichbar). -->
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
