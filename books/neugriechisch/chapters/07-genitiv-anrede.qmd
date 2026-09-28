@@ -1,5 +1,8 @@
 ---
 title: "Wem gehört was: Genitiv, Anrede, Höflichkeit"
+changes:
+  - date: 2026-09-28
+    note: "Aussprache von τα αδέρφια korrigiert: [ta aˈðerfça]"
 ---
 
 ::: {.callout-note .review}
@@ -103,7 +106,7 @@ hier „zu mir“ (Kapitel 8).
 | [οι γονείς]{lang="el"} | [i ɣoˈnis] | die Eltern |
 | [ο γιος, η κόρη]{lang="el"} | [o ʝos], [i ˈkori] | der Sohn, die Tochter |
 | [ο αδερφός, η αδερφή]{lang="el"} | [o aðerˈfos], [i aðerˈfi] | der Bruder, die Schwester |
-| [τα αδέρφια]{lang="el"} | [ta aˈðerfʝa] | die Geschwister |
+| [τα αδέρφια]{lang="el"} | [ta aˈðerfça] | die Geschwister |
 | [ο άντρας, η γυναίκα]{lang="el"} | [o ˈadras], [i ʝiˈneka] | der Mann, die Frau; Ehemann, Ehefrau |
 | [ο εγγονός, η εγγονή]{lang="el"} | [o eŋgoˈnos], [i eŋgoˈni] | der Enkel, die Enkelin |
 | [ο θείος, η θεία]{lang="el"} | [o ˈθios], [i ˈθia] | der Onkel, die Tante |
