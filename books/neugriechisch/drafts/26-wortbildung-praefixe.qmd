@@ -182,7 +182,51 @@ Die Nachnamen auf [-άκης]{lang="el"}, die man mit Kreta verbindet (Kapitel 7
 genau solche Verkleinerungen: [Μανωλάκης]{lang="el"} war einmal „der kleine Manolis“ oder dessen
 Sohn. <!-- CHECK: Herkunft der Nachnamen auf -άκης aus Diminutiven (Patronymika) so vertretbar? -->
 
-<!-- EXERCISE: Verkleinerungen auf -άκι bilden und mit Artikel/Adjektiv laut sagen (Genuswechsel, Betonung auf -ά-, δ-Stamm bei καφές/μεζές, -ματ- bei -μα), z.B. ο καφές, ο δρόμος, το ποτήρι, το λεπτό, ο κεφτές, το πρόβλημα, η πατάτα; dazu drei Sätze mit Adjektiv (ένα ζεστό …); Formen bilden, Schwierigkeit 1–2 -->
+::: {.callout-note .exercise}
+## Übung 26.1: Alles wird sächlich
+
+Bilde die Verkleinerung auf [-άκι]{lang="el"} mit Artikel und sag sie laut:
+
+[ο κεφτές, ο δρόμος, το ποτήρι, το λεπτό, το νερό, η πατάτα, το πρόβλημα, ο φραπές]{lang="el"}
+
+Dann laut auf Griechisch, jeweils verkleinert: eine ruhige Gasse, zwei leckere Fleischbällchen,
+ein starker Kaffee.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Der Artikel ist bei allen acht derselbe. Endung des Grundworts weg, [-άκι]{lang="el"} dran,
+Betonung auf [-ά-]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zwei Wörter werden länger: Denk an [οι κεφτέδες]{lang="el"} und [του προβλήματος]{lang="el"}.
+[ο φραπές]{lang="el"} geht wie [ο καφές]{lang="el"}. Das Adjektiv folgt dem neuen Artikel.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+[το κεφτεδάκι]{lang="el"} [kefteˈðaci], [το δρομάκι]{lang="el"} [ðroˈmaci], [το
+ποτηράκι]{lang="el"} [potiˈraci], [το λεπτάκι]{lang="el"} [lepˈtaci], [το νεράκι]{lang="el"}
+[neˈraci], [το πατατάκι]{lang="el"} [pataˈtaci], [το προβληματάκι]{lang="el"}
+[provlimaˈtaci], [το φραπεδάκι]{lang="el"} [frapeˈðaci].
+
+- [κεφτεδάκι, φραπεδάκι]{lang="el"} nehmen das [δ]{lang="el"} des Plurals mit
+  ([κεφτέδες, φραπέδες]{lang="el"}), [προβληματάκι]{lang="el"} den Genitivstamm
+  [προβλήματ-]{lang="el"}.
+- Auch bei sächlichen Grundwörtern springt die Betonung: [poˈtiri → potiˈraci]. Wer
+  [poˈtiraci] sagt, betont nach dem Grundwort.
+- [το πατατάκι]{lang="el"} ist richtig gebildet, bedeutet aber meist „Kartoffelchip“; mehr dazu
+  im nächsten Abschnitt.
+
+Die Wendungen: [ένα ήσυχο δρομάκι, δυο νόστιμα κεφτεδάκια, ένα δυνατό καφεδάκι]{lang="el"}.
+Typischer Fehler: Artikel und Adjektiv vom Grundwort übernehmen, \*[ένας δυνατός
+καφεδάκι]{lang="el"}, \*[δυο νόστιμοι κεφτεδάκια]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -247,7 +291,55 @@ alltägliche sächliche Wörter auf [-ι]{lang="el"} enden, hat hier eine seiner
 <!-- CHECK: Etymologien παιδί < παιδίον, ψωμί < ψωμίον (ψωμός „Bissen“), ψάρι < οψάριον < όψον; Aussage „eine der Wurzeln“ der Neutra auf -ι -->
 :::
 
-<!-- EXERCISE: Diminutive erkennen: zu 8–10 Verkleinerungen (z.B. η μπιρίτσα, το χταποδάκι, οι σαρδελίτσες, το ποτηράκι, η κουβεντούλα, ο Κωστάκης, τα παϊδάκια, το σουβλάκι) Grundwort mit Artikel nennen und sagen, ob das Genus gewechselt hat; dazu entscheiden, welche heute ein eigenes Wort ohne „klein“ sind; Zuordnen/Formen erkennen, Schwierigkeit 1–2 -->
+::: {.callout-note .exercise}
+## Übung 26.2: Rückwärts
+
+Nenn zu jeder Verkleinerung das Grundwort mit Artikel. Hat das Genus gewechselt?
+
+[η μπιρίτσα, το χταποδάκι, οι σαρδελίτσες, το κρασάκι, η κουβεντούλα, ο Κωστάκης, τα
+παϊδάκια, το σκυλάκι, το σουβλάκι, το κουταλάκι]{lang="el"}
+
+Welche drei davon sind heute eigene Wörter, bei denen niemand mehr an „klein“ denkt?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Unbekannte Grundwörter: Oktopus, Sardine, Gespräch, Rippe, Löffel. Wechseln kann das Genus nur
+bei [-άκι]{lang="el"}, und nur, wenn das Grundwort nicht schon sächlich ist.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Für die eigenen Wörter: Denk an die Speisekarte vom Grill und an die Besteckschublade.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+| Verkleinerung | Grundwort | Genus |
+|---|---|---|
+| [η μπιρίτσα]{lang="el"} | [η μπίρα]{lang="el"} | bleibt |
+| [το χταποδάκι]{lang="el"} | [το χταπόδι]{lang="el"} | bleibt |
+| [οι σαρδελίτσες]{lang="el"} | [η σαρδέλα]{lang="el"} | bleibt |
+| [το κρασάκι]{lang="el"} | [το κρασί]{lang="el"} | bleibt |
+| [η κουβεντούλα]{lang="el"} | [η κουβέντα]{lang="el"} | bleibt |
+| [ο Κωστάκης]{lang="el"} | [ο Κώστας]{lang="el"} | bleibt (Name) |
+| [τα παϊδάκια]{lang="el"} | [το παΐδι]{lang="el"} | bleibt |
+| [το σκυλάκι]{lang="el"} | [ο σκύλος]{lang="el"} | wechselt |
+| [το σουβλάκι]{lang="el"} | [η σούβλα]{lang="el"} | wechselt |
+| [το κουταλάκι]{lang="el"} | [το κουτάλι]{lang="el"} | bleibt |
+
+Eigene Wörter: [τα παϊδάκια]{lang="el"} (Lammkoteletts vom Grill), [το σουβλάκι]{lang="el"},
+[το κουταλάκι]{lang="el"} (Teelöffel). Grenzfall: [χταποδάκι]{lang="el"} heißt auf der
+Speisekarte meist einfach „Oktopus“, klein muss er nicht sein.
+
+Typischer Fehler: [το σκυλάκι]{lang="el"} für ein weibliches oder sächliches Grundwort halten.
+Der Artikel [το]{lang="el"} verrät bei [-άκι]{lang="el"} nichts über das Grundwort.
+:::
+<!-- CHECK: παϊδάκια (Lamm-/Schweinekoteletts) als lexikalisiert, κουταλάκι = Teelöffel -->
+
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -312,7 +404,59 @@ nicht kennst, lass die zärtlichen Formen weg; [κουκλίτσα μου]{lang=
 nicht zur Kellnerin.
 :::
 
-<!-- EXERCISE: Diminutive im Gespräch deuten: 6–8 kurze Situationen mit je einer Äußerung (z.B. Beamtin „Ένα λεπτάκι“; Mutter zu Kind „Έλα, κουκλίτσα μου“; Gastgeberin „Ένα γλυκάκι μόνο“; Mechaniker „Έχουμε ένα μικρό προβληματάκι“ vor großer Reparatur; „Ωραίο σπιτάκι“ zu einer Villa; „ένα σπιτάκι στο βουνό“ Beschreibung), Multiple Choice klein/zärtlich/beschwichtigend/spöttisch, Mehrfachlesarten in der Lösung begründen; Schwierigkeit 2–3 -->
+::: {.callout-note .exercise}
+## Übung 26.3: Was tut das Diminutiv?
+
+Welche Lesart überwiegt: **a** klein, **b** zärtlich, **c** beschwichtigend, **d** spöttisch?
+Zwei Buchstaben sind erlaubt. Im Chat: „1c, 2b, …“.
+
+1. Die Beamtin am Schalter, das Telefon klingelt: [Ένα λεπτάκι.]{lang="el"}
+2. Eine Mutter auf dem Spielplatz zu ihrer Tochter: [Έλα, κουκλίτσα μου, πάμε σπίτι.]{lang="el"}
+3. Die Gastgeberin nach einem großen Essen: [Ένα γλυκάκι μόνο. Το έφτιαξα εγώ.]{lang="el"}
+4. Der Mechaniker, bevor er 1 200 Euro nennt: [Έχουμε ένα μικρό προβληματάκι.]{lang="el"}
+5. Ein Gast mit säuerlicher Miene vor der neuen Villa mit Pool: [Ωραίο σπιτάκι.]{lang="el"}
+6. Eine Freundin erzählt vom Urlaub: [Νοικιάσαμε ένα σπιτάκι στο βουνό, δύο δωμάτια όλο κι
+   όλο.]{lang="el"}
+7. Ein Enkel am Telefon: [Παππούλη, πώς είσαι;]{lang="el"}
+8. Eine Kollegin über den neuen Abteilungsleiter: [Πάλι μας είπε τι να κάνουμε ο
+   κυριούλης.]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Frag zuerst: Ist die Sache wirklich klein? Wenn nicht, fällt a weg. Dann: Wird etwas angeboten
+oder um etwas gebeten?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zwei Äußerungen verkleinern etwas offensichtlich Großes. Bei einer davon will der Sprecher
+schonen, bei der anderen sticheln.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1c, 2b, 3c (+b), 4c (+d), 5d, 6a (+b), 7b, 8d.**
+
+1. Die Beamtin bittet um Geduld und macht die Wartezeit klein, ob sie es ist oder nicht.
+2. Zärtlich: Ein Kind ist kein Püppchen, aber nah.
+3. Das Angebot wird klein gemacht, damit man ja sagt. Wer selbst gebacken hat und es so anbietet,
+   meint es oft auch herzlich; b ist also vertretbar.
+4. Schonend: Das Problem ist groß, das Diminutiv polstert die Nachricht. Wer den Unterton hört
+   (wir wissen beide, dass es teuer wird), kann d dazunehmen.
+5. Spöttisch: Eine Villa ist kein Häuschen, und die Miene verrät, dass es nicht als Lob gemeint ist.
+   Ohne die Miene könnte es auch ein freundlicher Scherz sein; das entscheidet die Stimme.
+6. Wörtlich klein, zwei Zimmer. Wer von seinem Urlaub schwärmt, meint oft auch „gemütlich“, daher b.
+7. Zärtlich. [παππούλης]{lang="el"} ist nicht kleiner als [παππούς]{lang="el"}, nur lieber.
+8. Herabsetzend: [ο κυριούλης]{lang="el"} ist der Wichtigtuer, [πάλι]{lang="el"} bestätigt den
+   Ärger.
+
+Typischer Fehler: jedes Diminutiv mit „klein“ übersetzen. In dieser Übung ist nur eines davon
+wirklich klein.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -375,7 +519,67 @@ Wer ein [ξε-]{lang="el"}-Verb nicht kennt, probiert zuerst „rückgängig“,
 Aber Vorsicht: Nicht jedes [ξε]{lang="el"} am Wortanfang ist eine Vorsilbe. In [ξέρω]{lang="el"}
 und [ξένος]{lang="el"} bleibt nach dem Abtrennen nichts Sinnvolles übrig.
 
-<!-- EXERCISE: Bedeutung unbekannter ξε-/ξανα-Verben erschließen: Verben wie ξεβιδώνω, ξεκουμπώνω, ξεφορτώνω, ξεβάφω, ξεκολλάω, ξαναδιαβάζω, ξαναρωτάω im Satzkontext den deutschen Bedeutungen zuordnen, mit Angabe der Lesart (rückgängig / heraus, weg / noch einmal); ein Gegenbeispiel ohne Vorsilbe (ξένος) einbauen; Zuordnen, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 26.4: Abtrennen und raten
+
+Die Verben in diesen Sätzen kennst du noch nicht, ihre Grundverben stehen darunter. Ordne jedem
+Satz eine Bedeutung zu und sag, welche Lesart die Vorsilbe hat: rückgängig, heraus/weg oder noch
+einmal. Ein Satz enthält gar keine Vorsilbe. Im Chat: „a6, …“.
+
+::: {lang="el" .no-audio}
+a. Δεν μπορώ να ξεβιδώσω το καπάκι.
+b. Κάνει ζέστη, ξεκούμπωσε το πουκάμισό σου.
+c. Ξεφορτώσαμε το αυτοκίνητο και πήγαμε για μπάνιο.
+d. Το κόκκινο πουκάμισο ξέβαψε στον ήλιο.
+e. Η αφίσα ξεκόλλησε από τον τοίχο.
+f. Ξαναδιάβασα το γράμμα τρεις φορές.
+g. Είναι ξένος, δεν ξέρει την πόλη.
+h. Μη με ξαναρωτήσεις!
+:::
+
+**Grundverben:** [βιδώνω]{lang="el"} festschrauben, [κουμπώνω]{lang="el"} zuknöpfen,
+[φορτώνω]{lang="el"} beladen, [βάφω]{lang="el"} färben, [κολλάω]{lang="el"} kleben.
+**Sonst neu:** [το καπάκι]{lang="el"} Deckel, [το πουκάμισο]{lang="el"} Hemd, [η
+αφίσα]{lang="el"} Plakat.
+
+**Bedeutungen:** 1 fremd · 2 aufknöpfen · 3 sich lösen, abgehen · 4 noch einmal lesen ·
+5 ausladen · 6 aufschrauben · 7 noch einmal fragen · 8 verblassen
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Probier bei [ξε-]{lang="el"} zuerst „rückgängig“: Was ist das Gegenteil von festschrauben,
+zuknöpfen, beladen?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Trenn bei g das [ξε]{lang="el"} ab: Bleibt ein Wort übrig? Und d: Was passiert mit Farbe, die
+„entfärbt“ wird?
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**a6, b2, c5, d8, e3, f4, g1, h7.**
+
+- Rückgängig: a (Gegenteil von festschrauben), b, c, d (die Farbe geht wieder weg), e (was klebte,
+  klebt nicht mehr). Bei c ist auch „heraus“ vertretbar: Das Gepäck kommt aus dem Auto.
+- Noch einmal: f, h. [Μη με ξαναρωτήσεις]{lang="el"} kann je nach Ton auch „Frag mich nie
+  wieder!“ heißen.
+- g: [ξένος]{lang="el"} hat keine Vorsilbe; nach dem Abtrennen bliebe \*[νος]{lang="el"}.
+
+Aorist und Betonung: [ξεβίδωσα, ξεκούμπωσα, ξεφόρτωσα, ξέβαψα, ξεκόλλησα,
+ξαναδιάβασα]{lang="el"}. Bei [ξέβαψα]{lang="el"} trägt die Vorsilbe die Betonung, genau wie bei
+[ξέφυγα]{lang="el"}.
+
+Typischer Fehler: d als „färben“ oder „abfärben auf etwas anderes“ lesen. Das Hemd verliert hier
+seine eigene Farbe.
+:::
+<!-- CHECK: ξεβάφω intransitiv „verblassen, Farbe verlieren“ (auch „abfärben“?); ξεκολλάω intransitiv „sich lösen“ -->
+
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -440,7 +644,75 @@ nach Buchkonvention [g], [συγκάτοικος]{lang="el"} [siˈgatikos]. [Σ�
 [siɣˈnomi] ist die Ausnahme aus Kapitel 1: Dort ist [γγ]{lang="el"} nur [ɣ].
 <!-- CHECK: συγχαρητήρια etymologisch zu χαρά (συγχαίρω) korrekt; Aussprache [siˈgatikos] nach Buchkonvention ok? -->
 
-<!-- EXERCISE: Gemischte Vorsilben: (A) unbekannte Wörter mit παρα-/συν-/ξε-/ξανα- zerlegen und Bedeutung erschließen (z.B. παραλέω, παραγεμίζω, ο συνεπιβάτης, ο συνομήλικος, ο συμπατριώτης, ξανασκέφτομαι); (B) Aorist mit Vorsilbe laut bilden und betonen (παρατρώω → ich, ξαναγράφω → ich, ξεφεύγω → er, παραπίνω → wir); (C) zwei Sätze mündlich übersetzen (Fast hätte ich die Fähre verpasst. Nimm’s mir nicht übel, aber …); Schwierigkeit 2–3 -->
+::: {.callout-note .exercise}
+## Übung 26.5: Vier Vorsilben
+
+**A. Erschließen.** Zerleg das hervorgehobene Wort und sag, was der Satz bedeutet.
+
+::: {lang="el" .no-audio}
+1. Εντάξει, το **παράκανες** λίγο.
+2. Μην τα **παραλές**, δεν ήταν τόσο άσχημα.
+3. Ο **συνεπιβάτης** μου στο πλοίο μού έδωσε λίγο νερό.
+4. Τα παιδιά κάνουν παρέα με **συνομήλικους**.
+5. Στο Μόναχο βρήκα πολλούς **συμπατριώτες** μου.
+6. Δεν ξέρω ακόμα. Θα το **ξανασκεφτώ**.
+:::
+
+Neu: [ο επιβάτης]{lang="el"} Fahrgast, [η ηλικία]{lang="el"} Alter, [η πατρίδα]{lang="el"}
+Heimat.
+
+**B. Aorist, laut und richtig betont:** [παρατρώω]{lang="el"} ich · [ξαναγράφω]{lang="el"} ich ·
+[ξεφεύγω]{lang="el"} er · [ξεκλειδώνω]{lang="el"} du · [παραπίνω]{lang="el"} wir ·
+[ξαναέρχομαι]{lang="el"} sie (Plural)
+
+**C. Laut übersetzen:** Fast hätte ich die Fähre verpasst. · Nimm’s mir nicht übel, aber das ist
+zu teuer. · Entschuldigen Sie, ich habe verschlafen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+A: [παρα-]{lang="el"} vor [κάνω]{lang="el"} und [λέω]{lang="el"} heißt „zu viel“. Bei 4 steckt
+zwischen [συν-]{lang="el"} und [ηλικ-]{lang="el"} noch ein [ομ-]{lang="el"} „gleich“ (wie in
+*homogen*). B: Silben zählen, Betonung auf die drittletzte.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+B: [παρα-]{lang="el"} + [φάγα]{lang="el"}, [ξανα-]{lang="el"} + [γραψα]{lang="el"}: Die
+Vorsilbe liefert die fehlende Silbe, das [ε-]{lang="el"} fällt. Bei [ήπια, ήρθα]{lang="el"}
+gehört das [ή-]{lang="el"} zum Stamm. C: [παραλίγο να]{lang="el"}, [Μη με παρεξηγείς]{lang="el"},
+[Με συγχωρείτε]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**A.**
+
+1. [παρα- + κάνω]{lang="el"}: „Okay, du hast ein bisschen übertrieben.“ [Το
+   παράκανες!]{lang="el"} ist eine feste Wendung.
+2. [παρα- + λέω]{lang="el"}: „Übertreib nicht, so schlimm war’s nicht.“ Das [τα]{lang="el"}
+   gehört zur Wendung.
+3. [συν- + επιβάτης]{lang="el"}: der Mitreisende auf dem Schiff.
+4. [συν- + ομ- + ηλικ-]{lang="el"}: Gleichaltrige. Die Kinder spielen mit Gleichaltrigen.
+5. [συμ- + πατριώτης]{lang="el"}: Landsleute; [συμ-]{lang="el"} vor [π]{lang="el"}.
+6. [ξανα- + σκέφτομαι]{lang="el"}: „Ich überleg’s mir noch mal.“ Oft eine höfliche Absage.
+
+**B.** [παράφαγα]{lang="el"} [paˈrafaɣa], [ξανάγραψα]{lang="el"} [ksaˈnaɣrapsa],
+[ξέφυγε]{lang="el"} [ˈksefiʝe], [ξεκλείδωσες]{lang="el"} [kseˈkliðoses],
+[παραήπιαμε]{lang="el"} [paraˈipçame], [ξαναήρθαν]{lang="el"} [ksanaˈirθan].
+Das Augment steht in keiner dieser Formen extra: Bei den ersten vier ersetzt es die Vorsilbe, bei
+den letzten beiden gehört [ή-]{lang="el"} zum Stamm. Häufige Fehlform: [ξαναέγραψα]{lang="el"},
+also Augment und Vorsilbe zugleich; die Standardform ist [ξανάγραψα]{lang="el"}.
+
+**C.** [Παραλίγο να χάσω το πλοίο.]{lang="el"} · [Μη με παρεξηγείς, αλλά είναι πολύ
+ακριβό.]{lang="el"} (umgangssprachlich auch [παραείναι ακριβό]{lang="el"}; zu Fremden [Μη με
+παρεξηγήσετε]{lang="el"}) · [Με συγχωρείτε, παρακοιμήθηκα.]{lang="el"}
+:::
+<!-- CHECK: παραλέω „übertreiben“ (μην τα παραλές); συνομήλικος als συν + ομ- + ηλικ-; ξαναέγραψα als nicht-standard ohne Sternchen; Μη με παρεξηγήσετε neben παρεξηγείτε -->
+
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
