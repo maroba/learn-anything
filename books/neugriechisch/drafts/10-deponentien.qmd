@@ -448,17 +448,16 @@ aus; beide passen zum Foto.
 
 **a1, b2, c2, d2, e1, f1, g2, h2.**
 
-- a) [Φοβάμαι τη θάλασσα.]{lang="el"} Zustand, jetzt.
-- b) [Φοβήθηκα πολύ.]{lang="el"} Die Angst setzt mit dem Wackeln ein: „Ich erschrak.“ Der
-  häufigste Fehler ist hier Film, weil das Deutsche „hatte“ sagt.
+- a) [Φοβάμαι τη θάλασσα.]{lang="el"}
+- b) [Φοβήθηκα πολύ.]{lang="el"} „Ich erschrak.“ Häufigster Fehler: Film, weil das Deutsche
+  „hatte“ sagt.
 - c) [Κοιμήθηκα στις δώδεκα.]{lang="el"} Zeitpunkt, der Moment des Einschlafens.
 - d) [Κοιμήθηκα δέκα ώρες.]{lang="el"} Dieselbe Form, jetzt „schlief“: Die zehn Stunden werden
   als Ganzes gefasst, wie die drei Jahre in Troja.
-- e) Film: eine Kindheit lang, ohne Ende in Sicht. Griechisch [φοβόμουν]{lang="el"}.
-- f) [Θυμάσαι το όνομά του;]{lang="el"} Zustand: „weißt du noch“ ist [θυμάμαι]{lang="el"}.
-- g) [Θυμήθηκα!]{lang="el"} Der Moment, in dem die Erinnerung kommt.
-- h) [Καθίσαμε στο καφενείο.]{lang="el"} oder [Κάτσαμε στο καφενείο.]{lang="el"} Das Hinsetzen
-  ist der Moment.
+- e) Gewohnheit einer Kindheit, griechisch [φοβόμουν]{lang="el"}.
+- f) [Θυμάσαι το όνομά του;]{lang="el"} „Weißt du noch“ ist [θυμάμαι]{lang="el"}.
+- g) [Θυμήθηκα!]{lang="el"}
+- h) [Καθίσαμε στο καφενείο.]{lang="el"} oder [Κάτσαμε …]{lang="el"}
 :::
 
 ## Futur und [να]{lang="el"}-Form: [θα θυμηθώ, να κάτσω]{lang="el"} {#sec-mai-tha-na}
@@ -627,23 +626,15 @@ Erst die Kette suchen: Was passiert nacheinander? Alles andere ist Kulisse.
 
 **1a, 2a, 3b, 4b, 5b, 6b, 7a oder 7b, 8a.**
 
-- (1) [κοιμόταν]{lang="el"}: Er schlief schon, Kulisse. [κοιμήθηκε]{lang="el"} hieße „er schlief
-  ein“ und passt nicht zu [ήδη]{lang="el"}.
-- (2) [καθόμουν]{lang="el"}: Kulisse, die Szene vor dem Beben.
-- (3) [έγινε]{lang="el"}: Und dann? Das Beben kam. [γινόταν]{lang="el"} wäre „war gerade im
-  Gange“ oder „passierte öfter“.
-- (4) [Φοβήθηκα]{lang="el"}: Die Angst setzt mit dem Beben ein, wie [Εγώ φοβήθηκα
-  πολύ]{lang="el"} im Einstieg. [Φοβόμουν]{lang="el"} ist nicht unmöglich, beschreibt aber
-  einen Zustand und hält die Kette an.
-- (5) [σκέφτηκα]{lang="el"}: Nach [μετά]{lang="el"} geht die Kette weiter; es fiel ihr ein.
-- (6) [ήρθε]{lang="el"}: nächstes Glied der Kette.
-- (7) [καθόμασταν]{lang="el"} erzählt die Nacht von innen als Kulisse,
-  [καθίσαμε]{lang="el"} fasst sie als abgemessenes Ganzes („wir saßen die ganze Nacht“). Beides
-  richtig.
-- (8) [σκεφτόμασταν]{lang="el"}: [συνέχεια]{lang="el"}, „ständig“, verlangt den Film.
-
-Typischer Fehler: (1) als Foto, weil „er schlief schon“ abgeschlossen klingt. Er schläft aber
-noch, während alles passiert.
+- (1), (2) Kulisse: Er schläft noch, sie sitzt. [κοιμήθηκε]{lang="el"} hieße „er schlief ein“
+  und passt nicht zu [ήδη]{lang="el"}; das ist der häufigste Fehler.
+- (3), (5), (6) Die Kette: Und dann? Das Beben kam, sie dachte an die Mutter, der Nachbar kam.
+  [γινόταν]{lang="el"} wäre „war gerade im Gange“.
+- (4) [Φοβήθηκα]{lang="el"}: Die Angst setzt mit dem Beben ein, wie im Einstieg.
+  [Φοβόμουν]{lang="el"} ist nicht unmöglich, hält aber die Kette an.
+- (7) [καθόμασταν]{lang="el"} erzählt die Nacht als Kulisse, [καθίσαμε]{lang="el"} fasst sie als
+  abgemessenes Ganzes.
+- (8) [συνέχεια]{lang="el"}, „ständig“, verlangt den Film.
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -995,7 +986,7 @@ Im Chat reicht für Teil A „1 r, 2 f, …“.
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Teil A: Jede Aussage gehört zu einem Absatz, der Reihe nach. Teil B: Such nach den Stämmen
+Teil A: Die Aussagen folgen dem Text der Reihe nach. Teil B: Such nach den Stämmen
 [γιν-, γίν-, θυμ-, ήρθ-, κάθ-, φοβ-, κοιμ-]{lang="el"}.
 :::
 
@@ -1022,9 +1013,8 @@ in *ja*, [αυ]{lang="el"} vor [σ]{lang="el"} ist [af].
 - **[θα]{lang="el"}/[να]{lang="el"}-Form (2):** [να κοιμηθούν]{lang="el"} (Foto: das
   Einschlafen im eigenen Haus), [θα γίνει]{lang="el"}
 
-[κουνήθηκε]{lang="el"} ist ein Aorist auf [-θηκε]{lang="el"}, gehört aber zu
-[κουνιέμαι]{lang="el"}; wer ihn gefunden hat, hat das Signal richtig gehört. Leicht übersehen:
-[ήρθε η σειρά]{lang="el"}, weil es nicht nach „kommen“ aussieht.
+[κουνήθηκε]{lang="el"} gehört zu [κουνιέμαι]{lang="el"}, nicht zu den sieben. Leicht
+übersehen: [ήρθε η σειρά]{lang="el"}, weil es nicht nach „kommen“ aussieht.
 
 **Teil C:** [sizˈmos], [sizmoˈɣrafi], [eˈʝeo], [enoˈsiʝeo], [afstiˈri], [evðoˈmaðes].
 Typische Fehler: „sei-“ statt [si], „Ai-“ statt [e], doppeltes [n] in [Εννοσίγαιο]{lang="el"}

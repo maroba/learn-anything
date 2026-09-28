@@ -159,6 +159,9 @@ def matches(greek: str, ipa: str) -> bool:
         return any(matches(w, ipa) for w in words)
     if len(ipa_words) < len(words):
         words = words[: len(ipa_words)]
+    elif len(ipa_words) > len(words) > 1:
+        # IPA covers more than the first comma-part (e.g. a whole saying): compare the prefix
+        ipa = " ".join(ipa_words[: len(words)])
     auto_variants = [" ".join(g2p(w, syn) for w in words) for syn in (False, True)]
     book_flat, book_stress = skeleton(ipa)
     for auto in auto_variants:

@@ -14,7 +14,7 @@
 | 06 Auf dem Markt: Nomen, Adjektive, Zahlen | veröffentlicht | Welle 2; Audio ausstehend |
 | 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | veröffentlicht | Welle 3; Audio ausstehend |
 | 11 Zeit: Uhrzeit, Datum, Jahreszahlen | überarbeitet | Welle 3; Konsistenzprüfung erst wenn 8–10 fertig (vocab-Dubletten), erscheint nach 10 |
-| 10 Verben auf -μαι im Alltag | Übungen | Welle 4; Entwurf fertig |
+| 10 Verben auf -μαι im Alltag | im Review | Welle 4; Übungen fertig |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | Entwurf | Welle 4 |
 
 ## Plan für /write all (Wellen nach Voraussetzungen)
