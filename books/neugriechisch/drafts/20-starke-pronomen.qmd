@@ -519,7 +519,72 @@ in 7 kommt das Objekt direkt hinter [ότι]{lang="el"}.
    Ende. Auch möglich: [ότι το κρασί ο Νίκος το έφερε]{lang="el"}.
 :::
 
-<!-- EXERCISE: Lernziel: Überschrift und Scheinwerfer unterscheiden; Doppelung nötig/üblich/falsch beurteilen; Art: Auswählen mit Begründung (a mit, b ohne Pronomen zu kleinen Kontexten wie „Wer hat den Wein gebracht?“ vs. „Hat Nikos den Wein oder das Brot gebracht?“) und Fehler finden (*Εμένα αρέσει, *Ξέρει όλα, *Το βιβλίο διάβασα neutral, falsches Genus im Pronomen); Schwierigkeit 3 -->
+::: {.callout-note .exercise}
+## Übung 20.4: Echo oder kein Echo?
+
+**Teil A.** Was passt zur Frage, (a) mit oder (b) ohne Pronomen? Die Betonung denkst du dir dazu.
+Im Chat: „1a, 2b, …“.
+
+1. Wer hat den Wein mitgebracht? (a) [Το κρασί το έφερε ο Νίκος.]{lang="el"} (b)
+   [Το κρασί έφερε ο Νίκος.]{lang="el"}
+2. Hat Nikos das Brot mitgebracht? (a) [Όχι, το κρασί το έφερε.]{lang="el"} (b)
+   [Όχι, το κρασί έφερε.]{lang="el"}
+3. Und die Bücher, wo sind die? (a) [Τα βιβλία τα έδωσα στη Μαρία.]{lang="el"} (b)
+   [Τα βιβλία έδωσα στη Μαρία.]{lang="el"}
+4. Was gibt’s zu trinken? (a) [Κρασί το έφερε ο Νίκος.]{lang="el"} (b)
+   [Κρασί έφερε ο Νίκος.]{lang="el"}
+
+**Teil B.** Richtig, umgangssprachlich oder falsch?
+
+5. [Εμένα αρέσει το ρεμπέτικο.]{lang="el"}
+6. [Ξέρει όλα.]{lang="el"}
+7. [Το διάβασες το βιβλίο;]{lang="el"}
+8. [Την Κρήτη το ξέρω καλά.]{lang="el"}
+9. [Στη μητέρα μου δεν το είπα.]{lang="el"}
+10. „Und das Buch?“ – [Το βιβλίο διάβασα.]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Ist das Objekt vorn schon Gesprächsthema (Überschrift) oder die neue, strittige Information
+(Scheinwerfer)?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Überschrift mit Echo, Scheinwerfer und Unbestimmtes ohne. In Teil B: Genus nach dem griechischen
+Nomen; bei [αρέσει]{lang="el"} und [όλα]{lang="el"} fehlt das schwache Pronomen so gut wie nie.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1a, 2b, 3a, 4b.**
+
+- 1 und 3: Wein und Bücher sind schon Thema, also Überschrift mit Echo. Neu ist Nikos bzw. Maria,
+  und das steht hinten.
+- 2: Wein gegen Brot, das ist ein Scheinwerfer: kräftige Betonung auf [κρασί]{lang="el"}, kein
+  Echo. Mit [το]{lang="el"} klingt es, als sei der Wein das Thema, und der Gegensatz geht verloren.
+- 4: [κρασί]{lang="el"} ohne Artikel ist unbestimmt und genau die gefragte Information, also kein
+  Echo.
+
+**Teil B**
+
+- 5: falsch. \*[Εμένα αρέσει]{lang="el"} → [Εμένα μου αρέσει το ρεμπέτικο.]{lang="el"}
+- 6: falsch → [Τα ξέρει όλα.]{lang="el"}
+- 7: richtig, umgangssprachlich: das Objekt wird hinten nachgeliefert.
+- 8: falsch. Das Echo richtet sich nach [η Κρήτη]{lang="el"}, nicht nach „das schöne Kreta“:
+  [Την Κρήτη την ξέρω καλά.]{lang="el"}
+- 9: richtig. [της]{lang="el"} kann dazukommen: [Στη μητέρα μου δεν της το είπα.]{lang="el"}
+- 10: passt hier nicht. Das Buch ist Thema, es braucht das Echo: [Το βιβλίο το διάβασα.]{lang="el"}
+  Ohne [το]{lang="el"} wäre es ein Scheinwerfer („Das *Buch* habe ich gelesen, nicht …“), und dafür
+  gibt es hier keinen Anlass.
+:::
+
+<!-- CHECK: Übung 20.4, Teil A Nr. 2: Ist „Όχι, το κρασί το έφερε“ als Antwort auf „Hat Nikos das Brot gebracht?“ tatsächlich deutlich schlechter als „Όχι, το κρασί έφερε“ (kontrastiver Fokus ohne Klitikon), oder wäre es als kontrastives Topik ebenfalls akzeptabel? Ggf. Lösung abschwächen. -->
+
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -574,7 +639,62 @@ Wer höflich widersprechen will, kombiniert ein Zugeständnis mit einem starken 
 Sicht, nicht die Wahrheit.
 :::
 
-<!-- EXERCISE: Lernziel: Emphase und Kontrast in Meinungsäußerungen ausdrücken, auch im Nebensatz (εγώ πάντως, εμένα πάντως, για μένα, φταις εσύ, το ξέρω ότι, αυτό που λες το …); Art: kurze Tischdebatte (Wahlpflicht ja oder nein, neutral formuliert) Zeile für Zeile mündlich übersetzen; Lösung mit Varianten und Hinweis auf den Fall (εγώ vs. εμένα); Schwierigkeit 2–3 -->
+::: {.callout-note .exercise}
+## Übung 20.5: Wahlpflicht, ja oder nein?
+
+Zwei streiten am Tisch über die Wahlpflicht. Übersetz Zeile für Zeile laut, mit Nachdruck.
+
+1. — Ich sag dir, die Wahlpflicht ist gut.
+2. — Ich weiß ja, dass du so denkst. Für mich ist das keine Demokratie.
+3. — Okay. Mir jedenfalls gefällt sie.
+4. — Und wer nicht wählen will? Den zwingst du?
+5. — Was du sagst, akzeptiere ich nicht.
+6. — Ich glaube, dass DU unrecht hast. Aber die Rechnung zahle ICH.
+
+**Worthilfen:** [η υποχρεωτική ψήφος]{lang="el"} die Wahlpflicht · [ψηφίζω]{lang="el"} wählen ·
+[αναγκάζω]{lang="el"} zwingen · [σκέφτομαι]{lang="el"} denken
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Bei jeder betonten Person fragen: Ist sie Subjekt ([εγώ]{lang="el"}) oder steckt sie in
+[μου]{lang="el"} bzw. [με]{lang="el"} ([εμένα]{lang="el"})?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Objekte vorn bekommen ihr Echo, auch [αυτόν]{lang="el"} und ein Satz mit [αυτό που]{lang="el"}.
+Das betonte Subjekt klingt hinter dem Verb am spitzesten.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+::: {lang="el"}
+— Εγώ σου λέω ότι η υποχρεωτική ψήφος είναι καλή.
+
+— Το ξέρω ότι έτσι σκέφτεσαι. Για μένα αυτό δεν είναι δημοκρατία.
+
+— Εντάξει. Εμένα πάντως μου αρέσει.
+
+— Και όποιος δε θέλει να ψηφίσει; Αυτόν τον αναγκάζεις;
+
+— Αυτό που λες δεν το δέχομαι.
+
+— Νομίζω ότι εσύ έχεις άδικο. Τον λογαριασμό όμως τον πληρώνω εγώ.
+:::
+
+- 1: auch [Εγώ λέω ότι …]{lang="el"}. 2: ohne [Το]{lang="el"} neutraler; statt [για
+  μένα]{lang="el"} förmlicher [κατά τη γνώμη μου]{lang="el"}.
+- 3: **der typische Fehler:** \*[Εγώ πάντως μου αρέσει]{lang="el"}. [αρέσει]{lang="el"} verlangt
+  „mir“, also [εμένα]{lang="el"}; mit einem Verb wie [συμφωνώ]{lang="el"} wäre es [Εγώ
+  πάντως]{lang="el"}.
+- 4: auch [θα τον αναγκάσεις;]{lang="el"}. Ohne [τον]{lang="el"} fehlt das Echo.
+- 6: auch [ότι έχεις άδικο εσύ]{lang="el"}. Bei [τον πληρώνω εγώ]{lang="el"} steht das betonte
+  Subjekt hinten, wie in [Φταις εσύ]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -636,7 +756,59 @@ Geschwister im Hafen von Ägina über das Kaiki ihres Großvaters. Erst hören, 
 — Άσ’ το. Πάμε για ψάρεμα, και τα λέμε στη θάλασσα.
 :::
 
-<!-- EXERCISE: Lernziel: Emphase, Kontrast und Doppelung im Streitgespräch hörend verstehen; Art: Hörverstehen zum .listen-Block direkt oben, Auftrag „Hör das Streitgespräch mit ▶, ohne den Text aufzuklappen, gern zweimal“; Multiple Choice mit nummerierten Optionen (Was hat die Schwester nicht ausgetauscht? Wo sind die alten Planken? Welches Argument bringt sie mit dem Haus? Was gesteht der Bruder am Ende zu?), dann zweiter Durchgang: jede Stelle zählen, an der ein Objekt vorn steht und vor dem Verb wiederholt wird, und die zwei Sätze nennen, die mit „Εμένα/Εσένα + schwaches Pronomen“ beginnen; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 20.6: Das Kaiki des Großvaters
+
+**Erster Durchgang:** Hör das Streitgespräch mit ▶, ohne den Text aufzuklappen, gern zweimal. Die
+Schwester spricht zuerst. Dann wähle. Im Chat: „1a, 2b, …“.
+
+1. Was hat die Schwester **nicht** ausgetauscht? (a) die Planken (b) den Kiel (c) den Motor
+2. Was hat sie behalten? (a) Namen und Farbe (b) Mast und Motor (c) die Hälfte der Planken
+3. Was sagt sie über das Haus? (a) Es wurde dreimal gestrichen und ist doch dasselbe. (b) Der
+   Großvater hat es gebaut. (c) Es wurde neu gebaut.
+4. Wo sind die alten Planken? (a) im Meer (b) im Lager (c) beim Bruder
+5. Was gibt der Bruder am Ende zu? (a) dass es dasselbe Kaiki ist (b) dass er keinen Nagel
+   einschlagen kann (c) dass ihm die alten Planken gehören
+
+**Zweiter Durchgang,** jetzt mit Text: Zähl die Stellen, an denen ein Objekt vorn steht und vor
+dem Verb wiederholt wird. Welche zwei Sätze beginnen mit [Εμένα]{lang="el"} bzw.
+[Εσένα]{lang="el"} + schwachem Pronomen?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Frage 5 steckt in [Εδώ έχεις δίκιο]{lang="el"}: Worauf antwortet der Bruder damit?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Zweiter Durchgang: Ein Pronomen ohne Objekt davor ([Τις έχω στην αποθήκη]{lang="el"}) zählt
+nicht, ebenso wenig [Του παππού … δεν είναι]{lang="el"}. Ein Echo kann auch hinter einer Frage
+stehen.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1b, 2a, 3a, 4b, 5b.** Zu 5: Die Schwester sagt [Εσύ ούτε καρφί δεν ξέρεις να
+βάλεις]{lang="el"}, und er gibt ihr recht. Dass es dasselbe Kaiki sei (a), bestreitet er bis zum
+Schluss: [Του παππού όμως δεν είναι.]{lang="el"}
+
+**Zweiter Durchgang:** neun Stellen, acht, wenn du das Pronomen [αυτά]{lang="el"} nicht mitzählst.
+
+[Το καΐκι του παππού το έφτιαξα · Τις σανίδες τις άλλαξες · Την καρίνα δεν την άλλαξα · αυτά τα
+άλλαξα · το όνομα το κράτησα · το χρώμα το κράτησα · Το σπίτι μας το έβαψες · Το σπίτι δεν το
+έχτισα · τις παλιές σανίδες, τι τις έκανες]{lang="el"}
+
+Die beiden Sätze: [Εμένα μου φαίνεται άλλο καΐκι …]{lang="el"} und [Εσένα όλα σου φαίνονται
+άλλα.]{lang="el"} Im zweiten steht [όλα]{lang="el"} dazwischen; das schwache Pronomen bleibt trotzdem
+direkt vor dem Verb.
+
+**Zugabe:** Betonte Subjekte hinter dem Verb: [Πες μου εσύ]{lang="el"}, [αν τις πάρω
+εγώ]{lang="el"}.
+:::
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -729,7 +901,46 @@ In Straßeninterviews, in denen nach Meinungen gefragt wird, beginnen erstaunlic
 mit [Εγώ …]{lang="el"} oder [Εμένα …]{lang="el"}. Auf dem YouTube-Kanal [Easy
 Greek](https://www.youtube.com/@EasyGreekVideos) kannst du das nachprüfen.
 
-<!-- EXERCISE: Lernziel: starke Pronomen und Doppelung in spontaner Rede erkennen; Art: Hör-Auftrag mit Easy Greek (https://www.youtube.com/@EasyGreekVideos): ein Straßeninterview mit Meinungsfragen wählen (Suchwörter z.B. γνώμη, πιστεύετε, πολιτική; sonst ein beliebiges Interview), drei bis vier Minuten ohne Untertitel; Striche für jedes εγώ/εμένα/εσύ/εσένα am Anfang einer Antwort, ein Beispiel für „εμένα + μου/με“ merken; dann mit griechischen Untertiteln prüfen und eine Doppelung mit Nomen suchen; Lösung als Auswertungshilfe ohne feste Zahl; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 20.7: Εγώ … Εμένα … auf der Straße
+
+Such auf dem Kanal [Easy Greek](https://www.youtube.com/@EasyGreekVideos) ein Straßeninterview
+mit Meinungsfragen (Suchwörter: [γνώμη, πιστεύετε, πολιτική]{lang="el"}; sonst irgendeines). Nimm
+drei bis vier Minuten.
+
+1. **Ohne Untertitel** (sind sie ins Bild eingeblendet, deck den unteren Rand ab): Mach einen
+   Strich für jede Antwort, die mit [εγώ, εμένα, εσύ]{lang="el"} oder [εσένα]{lang="el"} beginnt.
+   Merk dir ein Beispiel für [εμένα μου]{lang="el"} oder [εμένα με]{lang="el"}.
+2. **Mit griechischen Untertiteln:** Prüf deine Striche. Such dann eine Doppelung mit Nomen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+[εμένα]{lang="el"} hörst du als [eˈmena] mit Betonung in der Mitte, oft gleich mit [mu] dahinter.
+[εγώ]{lang="el"} ist betont am Ende: [eˈɣo].
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Die Doppelung erkennst du am Echo: Artikel und Nomen, dann dasselbe kleine Wort noch einmal direkt
+vor dem Verb.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Keine feste Zahl. Bei Meinungsfragen sind fünf oder mehr Striche in drei Minuten normal. Häufig:
+[Εγώ πιστεύω ότι …, Εγώ νομίζω …, Εμένα μου αρέσει …, Εμένα μου φαίνεται …, Για μένα
+…]{lang="el"}
+
+**Prüf dein Beispiel:** Steht nach [εμένα]{lang="el"} ein [μου]{lang="el"} (wem?) oder
+[με]{lang="el"} (wen?), passt es zum Verb? Hast du [εγώ]{lang="el"} gehört, wo die Untertitel
+[εμένα]{lang="el"} zeigen, dann hör auf das Verb dahinter: [μου αρέσει]{lang="el"} verlangt
+[εμένα]{lang="el"}. Findest du keine Doppelung mit Nomen, ist das kein Fehler: In kurzen Antworten
+ist sie seltener als in Erzählungen. Dann nimm das nächste Interview.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -868,7 +1079,55 @@ Wahlurne.“
 
 <!-- CHECK: Thuk. 2,40,2 („τόν τε μηδὲν τῶνδε μετέχοντα οὐκ ἀπράγμονα, ἀλλ᾽ ἀχρεῖον νομίζομεν“) – ist die freie Übertragung im Lesetext sinngetreu? Herleitung ἰδιώτης → lat. idiota „Laie, Ungebildeter“; Zuschreibung des Politik-Spruchs an Perikles ohne antike Quelle; Aristoteles, Politik 1294b8–9; Plutarch, Theseus 23.1; Hobbes, De corpore II.11.7. -->
 
-<!-- EXERCISE: Lernziel: Lesetext verstehen und Doppelungen/starke Pronomen darin deuten; Art: Richtig/falsch zum Inhalt (z.B. „Im Griechischen ist ιδιώτης ein Schimpfwort“, „Perikles lobte Bürger, die sich aus der Politik heraushalten“, „Die Rechnung zahlt der Verlierer allein“) und Zuordnen: worauf beziehen sich die schwachen Pronomen in Την πολιτική τη συζητάνε, τον λογαριασμό τον πληρώνει, Την ψήφο μου την ξέρει; warum steht in „Εμένα δε με ενδιαφέρει“ εμένα und nicht εγώ; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 20.8: Wer ist hier der Idiot?
+
+**Richtig oder falsch?** Im Chat: „1r, 2f, …“.
+
+1. Im Griechischen ist [ιδιώτης]{lang="el"} ein Schimpfwort.
+2. Bei Thukydides nennt Perikles Bürger, die sich nicht um die gemeinsamen Angelegenheiten
+   kümmern, nutzlos.
+3. Ein Ausländer am griechischen Tisch erwartet Streit, und meistens gibt es auch welchen.
+4. Die Rechnung zahlt am Ende meist der Verlierer allein.
+5. Der Autor verrät, was er wählt.
+
+**Worauf beziehen sich die schwachen Pronomen?**
+
+6. [Εμείς τον πολίτη … δεν τον λέμε ήσυχο.]{lang="el"}
+7. [Την πολιτική τη συζητάνε όλοι.]{lang="el"}
+8. [Την ψήφο μου την ξέρει μόνο η κάλπη.]{lang="el"} Welches Genus hat [ψήφος]{lang="el"}?
+9. Warum heißt es [Εμένα δε με ενδιαφέρει η πολιτική]{lang="el"} und nicht [Εγώ …]{lang="el"}?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Für 3 und 4 lies die beiden letzten Absätze genau; [συνήθως]{lang="el"} und [επειδή
+όμως]{lang="el"} drehen die Sache.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Das Echo hat dieselbe Form wie der Artikel des Objekts. In 9: Wer ist Subjekt von
+[ενδιαφέρει]{lang="el"}?
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. **f.** Im Griechischen ist es die Privatperson, der Dummkopf ist [βλάκας]{lang="el"}.
+2. **r.** [Τον λέμε άχρηστο.]{lang="el"}
+3. **f.** Er glaubt es, aber [Συνήθως δε γίνεται.]{lang="el"}
+4. **f.** Weil keiner zugibt, verloren zu haben, zahlen alle zusammen.
+5. **f.** Seine Stimme kennt nur die Urne.
+6. [τον πολίτη]{lang="el"}. Ein Relativsatz trennt Objekt und Echo, das Echo bleibt.
+7. [την πολιτική]{lang="el"}: [τη]{lang="el"} vor [σ]{lang="el"} ohne ν.
+8. [την ψήφο]{lang="el"}: [η ψήφος]{lang="el"} ist weiblich, trotz [-ος]{lang="el"}. Wer vom
+   Aussehen auf [τον]{lang="el"} schließt, liegt falsch; der Artikel [την]{lang="el"} zeigt es.
+9. Subjekt ist [η πολιτική]{lang="el"}; „mich“ ist Objekt ([με ενδιαφέρει]{lang="el"}), also die
+   starke Akkusativform [εμένα]{lang="el"}. Wie im letzten Satz: [Όταν εμένα με ρωτάνε]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |

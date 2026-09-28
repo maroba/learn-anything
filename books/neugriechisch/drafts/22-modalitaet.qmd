@@ -1,0 +1,691 @@
+---
+title: "Vielleicht, wahrscheinlich, sicher: Modalität"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+- **Kapitel 5:** [πρέπει να]{lang="el"} „müssen“ und [μπορώ να]{lang="el"} „können“ + [να]{lang="el"}-Form.
+  Foto für ein einzelnes Ereignis ([Πρέπει να φύγουμε.]{lang="el"}), Film für eine Gewohnheit
+  ([Πρέπει να πίνεις νερό.]{lang="el"}). [πρέπει]{lang="el"} ändert sich nie, Vergangenheit
+  [έπρεπε]{lang="el"}; [μπορώ]{lang="el"} wird konjugiert.
+- **Kapitel 5 und 16:** Nach [θέλω, μπορώ, πρέπει]{lang="el"} im Sinn von Wollen, Können, Müssen
+  und nach [για να]{lang="el"} steht keine Vergangenheit: \*[για να βρήκε]{lang="el"}.
+- [ίσως]{lang="el"} „vielleicht“ (Kapitel 2), [μάλλον]{lang="el"} „wahrscheinlich“ (Kapitel 5).
+:::
+
+## Zweiundvierzig Grad und sieben Beaufort {#sec-modal-einstieg}
+
+Athen, ein Freitag im Juli, elf Uhr abends, ein Balkon in Kypseli. Das Thermometer zeigt noch 34
+Grad, die Wetter-App für morgen 42.
+
+::: {lang="el"}
+— Έντεκα η ώρα και έχει τριάντα τέσσερις βαθμούς. Αύριο λέει σαράντα δύο.
+
+— Δεν αντέχω άλλο. Πρέπει να φύγουμε από την Αθήνα. Πάμε Τήνο; Έχει πλοίο στις εφτά και μισή.
+
+— Με τέτοιο μελτέμι; Η πρόγνωση λέει εφτά μποφόρ στις Κυκλάδες. Μπορεί να μη φύγει καν το πλοίο.
+
+— Εφτά δεν είναι οχτώ. Μάλλον θα φύγει. Και στην Τήνο θα έχει τριάντα, όχι σαράντα δύο.
+
+— Και θα φυσάει τόσο, που δε θα μπορούμε να ανοίξουμε ομπρέλα.
+
+— Προτιμώ να μου πάρει ο αέρας το καπέλο παρά να λιώσω εδώ. Να πάρουμε και τη Δανάη; Της
+έστειλα μήνυμα, αλλά δεν απαντάει.
+
+— Πρέπει να κοιμάται. Αύριο δουλεύει.
+
+— Η Δανάη; Στις έντεκα; Αποκλείεται. Πρέπει να έφυγε ήδη για το χωριό. Χθες έλεγε ότι με τέτοια
+ζέστη δε μένει ούτε μία μέρα στην Αθήνα.
+
+— Ίσως έχεις δίκιο. Στο χωριό της πρέπει να κάνει δέκα βαθμούς λιγότερο. Λοιπόν; Τήνος;
+
+— Τήνος. Αλλά αν αύριο στις έξι η πρόγνωση λέει οχτώ, γυρνάω στο κρεβάτι.
+
+— Δε θα λέει οχτώ. Σίγουρα.
+
+— Πώς το ξέρεις;
+
+— Δεν το ξέρω. Αλλά αν το πω πολλές φορές, μπορεί να με ακούσει και το μελτέμι.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Elf Uhr, und es hat vierunddreißig Grad. Morgen sollen es zweiundvierzig werden.
+
+— Ich halt’s nicht mehr aus. Wir müssen raus aus Athen. Fahren wir nach Tinos? Um halb acht geht
+ein Schiff.
+
+— Bei dem Meltemi? Die Vorhersage sagt sieben Beaufort auf den Kykladen. Kann sein, dass das
+Schiff gar nicht fährt.
+
+— Sieben ist nicht acht. Es fährt wahrscheinlich. Und auf Tinos hat es dreißig, nicht
+zweiundvierzig.
+
+— Und es wird so wehen, dass wir keinen Sonnenschirm aufspannen können.
+
+— Lieber reißt mir der Wind den Hut weg, als dass ich hier schmelze. Nehmen wir Danai mit? Ich
+hab ihr geschrieben, aber sie antwortet nicht.
+
+— Sie schläft wohl schon. Sie arbeitet morgen.
+
+— Danai? Um elf? Ausgeschlossen. Sie ist bestimmt schon ins Dorf gefahren. Gestern hat sie
+gesagt, bei so einer Hitze bleibt sie keinen einzigen Tag in Athen.
+
+— Vielleicht hast du recht. In ihrem Dorf ist es sicher zehn Grad kühler. Also? Tinos?
+
+— Tinos. Aber wenn die Vorhersage morgen um sechs acht sagt, geh ich zurück ins Bett.
+
+— Sie wird nicht acht sagen. Ganz sicher.
+
+— Woher weißt du das?
+
+— Weiß ich nicht. Aber wenn ich es oft genug sage, hört mich vielleicht auch der Meltemi.
+:::
+
+Zwei Menschen, eine Entscheidung und kaum ein Satz ohne Einschränkung. Sortiert nach dem, was
+die Sprecher meinen:
+
+| im Text | gemeint |
+|---|---|
+| [πρέπει να φύγουμε]{lang="el"} | es ist nötig: Wir müssen weg. |
+| [πρέπει να κοιμάται]{lang="el"} | Vermutung: Sie schläft wohl. |
+| [πρέπει να έφυγε]{lang="el"} | Vermutung über Vergangenes: Sie ist wohl gefahren. |
+| [μπορεί να μη φύγει]{lang="el"} | vielleicht fährt es nicht |
+| [μάλλον θα φύγει]{lang="el"} | wahrscheinlich fährt es |
+| [ίσως έχεις δίκιο]{lang="el"} | vielleicht hast du recht |
+| [σίγουρα]{lang="el"}, [αποκλείεται]{lang="el"} | sicher; ausgeschlossen |
+
+Wie sicher etwas ist, wie nötig oder wie möglich: Das nennt die Grammatik **Modalität**. Zwei
+Überraschungen stecken schon in der Tabelle. [πρέπει να]{lang="el"} heißt nicht immer „müssen“,
+und nach [να]{lang="el"} steht mit [έφυγε]{lang="el"} ein Aorist, obwohl Kapitel 16 genau das
+verboten hat.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [αντέχω, άντεξα]{lang="el"} | [anˈdexo], [ˈandeksa] | aushalten, ertragen; [Δεν αντέχω άλλο.]{lang="el"} Ich halt’s nicht mehr aus. |
+| [λιώνω, έλιωσα]{lang="el"} | [ˈʎono], [ˈeʎosa] | schmelzen; (vor Hitze) zerfließen |
+| [προτιμώ, προτίμησα]{lang="el"} | [protiˈmo], [proˈtimisa] | vorziehen, lieber wollen; [προτιμώ να … παρά να …]{lang="el"} lieber …, als … |
+| [η πρόγνωση (του καιρού)]{lang="el"} | [i ˈproɣnosi] | die (Wetter-)Vorhersage |
+| [η ομπρέλα]{lang="el"} | [i oˈbrela] | der Regenschirm; der Sonnenschirm |
+| [η εφαρμογή]{lang="el"} | [i efarmoˈʝi] | die App, Anwendung |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [έχει τριάντα τέσσερις βαθμούς]{lang="el"} | es hat 34 Grad (umg.; auch [κάνει]{lang="el"}) |
+| [λέει]{lang="el"} | hier: laut Vorhersage, es heißt (Kapitel 18) |
+| [Πάμε Τήνο;]{lang="el"} | Fahren wir nach Tinos? (umg., ohne [σε]{lang="el"}) |
+| [έχει πλοίο]{lang="el"} | es gibt ein Schiff (umg.) |
+| [δεν … καν]{lang="el"} | nicht einmal, gar nicht |
+| [τόσο, που …]{lang="el"} | so sehr, dass … |
+| [το καπέλο]{lang="el"} | der Hut |
+| [ούτε μία μέρα]{lang="el"} | keinen einzigen Tag |
+| [γυρνάω]{lang="el"} | = [γυρίζω]{lang="el"} (umg.) |
+:::
+
+## Muss oder wohl: die zwei Seiten von [πρέπει]{lang="el"} {#sec-modal-prepei}
+
+[Πρέπει να φύγουμε]{lang="el"} und [πρέπει να κοιμάται]{lang="el"} sind gleich gebaut und
+meinen Verschiedenes. Das erste ist die **Notwendigkeit** aus Kapitel 5: Es ist nötig, dass wir
+gehen. Das zweite ist eine **Vermutung**: Niemand verlangt von Danai, dass sie schläft; der
+Sprecher schließt es aus Indizien (keine Antwort, morgen Arbeit).
+
+Das Deutsche macht es genauso: „Sie muss schon schlafen“ ist keine Anweisung. Englisch
+[*She must be asleep*]{lang="en"}, Französisch [*Elle doit dormir*]{lang="fr"}, Spanisch
+[*Debe de estar durmiendo*]{lang="es"}: überall ein Verb für beides. Die Sprachwissenschaft sagt
+„deontisch“ und „epistemisch“; dieses Buch bleibt bei Notwendigkeit und Vermutung.
+
+Woran erkennst du, was gemeint ist? Am Zusammenhang, und oft hilft der Aspekt:
+
+- **Foto** zielt meist auf etwas, das erst noch geschehen soll, also auf Notwendigkeit:
+  [Πρέπει να κοιμηθεί λίγο.]{lang="el"} „Sie muss ein bisschen schlafen.“
+- **Film** über das Jetzt ist meist Vermutung: [Πρέπει να κοιμάται.]{lang="el"} „Sie schläft
+  wohl (gerade).“ Film für eine Gewohnheit bleibt Notwendigkeit: [Ένα μωρό πρέπει να κοιμάται
+  πολλές ώρες.]{lang="el"} „Ein Baby muss viele Stunden schlafen.“
+- Bei [είναι, έχει]{lang="el"} und anderen Verben ohne perfektiven Stamm entscheidet nur der
+  Zusammenhang:
+  - [Δεν απαντάει. Πρέπει να είναι στον δρόμο.]{lang="el"} – Er antwortet nicht. Er ist wohl
+    unterwegs.
+  - [Πρέπει να είναι στο γραφείο στις εννιά.]{lang="el"} – Er muss um neun im Büro sein.
+
+Eine Mischform ist die **Erwartung**: [Πρέπει να έρθει σε λίγο.]{lang="el"} „Er müsste gleich
+kommen.“ Foto, aber keine Pflicht, sondern das, was nach Lage der Dinge passieren sollte.
+<!-- CHECK: πρέπει να + perfektive Form als Erwartung über die nahe Zukunft („müsste gleich kommen“) – idiomatisch und so verbreitet? -->
+
+**Verneint** wird die Vermutung zu „wohl nicht“: [Δεν πρέπει να είναι σπίτι· δεν έχει
+φως.]{lang="el"} „Sie ist wohl nicht zu Hause; es brennt kein Licht.“ Als Notwendigkeit hieße
+derselbe Satz „Sie darf nicht zu Hause sein“ (Kapitel 5), und das ergibt hier keinen Sinn.
+<!-- CHECK: δεν πρέπει να + Präsens als epistemisches „wohl nicht“ – natürlich? -->
+
+**[θα πρέπει να]{lang="el"}** ist die weichere Variante, beliebt in Nachrichten und
+Wetterberichten: [Θα πρέπει να πίνετε πολύ νερό.]{lang="el"} „Sie sollten viel Wasser trinken.“
+[Θα πρέπει να είναι γύρω στους σαράντα βαθμούς.]{lang="el"} „Es dürften um die vierzig Grad
+sein.“
+
+::: {.callout-important}
+## Merke
+
+- [πρέπει να]{lang="el"} kann **Notwendigkeit** („muss“) oder **Vermutung** („wohl, bestimmt“)
+  ausdrücken.
+- **„wohl“-Probe:** Passt im Deutschen „wohl“ oder „bestimmt“ statt „muss“, ist es eine
+  Vermutung.
+- Tendenz: Film über das Jetzt → Vermutung; Foto → Notwendigkeit oder Erwartung. Bei
+  [είναι, έχει]{lang="el"} entscheidet der Zusammenhang.
+:::
+
+<!-- EXERCISE: Notwendigkeit oder Vermutung bei πρέπει να unterscheiden (inkl. „wohl“-Probe, Aspekt als Hinweis, είναι-Sätze nur aus dem Kontext), Zuordnen mit kurzen Situationen aus Alltag und Wetter, Schwierigkeit 1–2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [πρέπει να κοιμάται]{lang="el"} | [ˈprepi na kiˈmate] | sie schläft wohl (Vermutung) |
+| [θα πρέπει να]{lang="el"} | [θa ˈprepi na] | sollte; dürfte (weicher als [πρέπει]{lang="el"}) |
+| [στον δρόμο]{lang="el"} | [ston ˈðromo] | unterwegs |
+| [το μωρό]{lang="el"} | [to moˈro] | das Baby |
+:::
+
+## Sie ist wohl schon weg: Vermutungen über Vergangenes {#sec-modal-vergangenheit}
+
+[Πρέπει να έφυγε ήδη για το χωριό.]{lang="el"} Ein Aorist nach [να]{lang="el"}. Kapitel 5 und 16
+haben gesagt: Die [να]{lang="el"}-Form kennt keine Vergangenheit. Das gilt weiter, für Wollen,
+Können, Müssen und Zwecke. Die **Vermutung** aber ist die angekündigte Ausnahme: Hier folgt nach
+[να]{lang="el"} ein ganz normales Verb wie nach [ότι]{lang="el"}, in jeder Zeit. Streng genommen
+ist das gar keine [να]{lang="el"}-Form mehr.
+
+Die Wahl zwischen den Vergangenheiten ist dieselbe wie beim Erzählen:
+
+| Vermutung | Deutsch | Blick |
+|---|---|---|
+| [πρέπει να έφυγε]{lang="el"} | sie ist wohl gefahren | Aorist: ein Ereignis |
+| [πρέπει να κοιμόταν]{lang="el"} | sie hat wohl (gerade) geschlafen | Imperfekt: Zustand, Hintergrund |
+| [πρέπει να έχει φύγει]{lang="el"} | sie ist wohl schon weg | Perfekt: Das Ergebnis zählt jetzt |
+
+- [Ο δρόμος είναι γεμάτος νερά. Πρέπει να έβρεξε πολύ τη νύχτα.]{lang="el"} – Die Straße ist
+  voller Pfützen. Es hat wohl in der Nacht viel geregnet.
+- [Δε μου απάντησε. Πρέπει να κοιμόταν όταν της έγραψα.]{lang="el"} – Sie hat nicht
+  geantwortet. Sie hat wohl geschlafen, als ich ihr schrieb.
+- [Το σπίτι είναι κλειστό. Πρέπει να έχουν φύγει για τις διακοπές.]{lang="el"} – Das Haus ist
+  zu. Sie sind wohl in den Urlaub gefahren.
+
+Und der Unterschied zu [έπρεπε]{lang="el"}, der Vergangenheit von [πρέπει]{lang="el"}? Es kommt
+darauf an, **wo die Zeit steht**:
+
+- [Έπρεπε να φύγει νωρίς.]{lang="el"} – Sie musste früh los. (Notwendigkeit damals; je nach
+  Zusammenhang auch „Sie hätte früh losfahren sollen“, mehr dazu in Kapitel 24.)
+- [Πρέπει να έφυγε νωρίς.]{lang="el"} – Sie ist wohl früh losgefahren. (Vermutung jetzt über
+  damals)
+
+Das Deutsche braucht dafür zwei verschiedene Satzbauten: „Sie musste gehen“ und „Sie muss
+gegangen sein“. Englisch genauso: [*had to leave*]{lang="en"} gegen [*must have
+left*]{lang="en"}.
+
+::: {.callout-important}
+## Merke
+
+- Bei der **Vermutung** bleibt [πρέπει]{lang="el"} im Präsens, die Zeit steht **nach**
+  [να]{lang="el"}: [πρέπει να έφυγε / να κοιμόταν / να έχει φύγει]{lang="el"}.
+- Bei der **Notwendigkeit** steht die Zeit **auf** [πρέπει]{lang="el"}, danach die
+  [να]{lang="el"}-Form: [έπρεπε να φύγει]{lang="el"}.
+- Aorist für ein Ereignis, Imperfekt für Hintergrund, Perfekt, wenn das Ergebnis jetzt zählt.
+:::
+
+::: {.callout-warning}
+## Achtung
+
+- \*[Μπορούσα να πήγα.]{lang="el"}, \*[Θέλω να έφυγα.]{lang="el"}, \*[για να βρήκε]{lang="el"}
+  bleiben falsch. Die Ausnahme gilt nur für die Vermutung.
+- \*[Πρέπει να θα έρθει.]{lang="el"}: [θα]{lang="el"} steht nie nach [να]{lang="el"}.
+:::
+
+Vermutungen mit Plusquamperfekt und längere Indizienketten („Er muss es schon vorher gewusst
+haben“) folgen in Kapitel 25.
+
+<!-- EXERCISE: Vermutung über Vergangenes vs. Notwendigkeit in der Vergangenheit (πρέπει να έφυγε / να κοιμόταν / να έχει φύγει vs. έπρεπε να φύγει), mündlich übersetzen Deutsch → Griechisch („muss gegangen sein“ / „musste gehen“), Aspekt der Vergangenheit begründen, Schwierigkeit 2–3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [πρέπει να έφυγε]{lang="el"} | [ˈprepi na ˈefiʝe] | er/sie muss gegangen sein, ist wohl gefahren |
+| [πρέπει να έχει φύγει]{lang="el"} | [ˈprepi na ˈeçi ˈfiʝi] | er/sie ist wohl schon weg |
+| [έπρεπε να]{lang="el"} | [ˈeprepe na] | musste; (je nach Zusammenhang) hätte … sollen |
+| [γεμάτος, -η, -ο]{lang="el"} | [ʝeˈmatos] | voll |
+:::
+
+## Kann sein: [μπορεί να]{lang="el"} {#sec-modal-mporei}
+
+[Μπορεί να μη φύγει καν το πλοίο.]{lang="el"} Das Schiff „kann“ hier gar nichts. Dieses
+[μπορεί]{lang="el"} ist eine feste Form wie [πρέπει]{lang="el"}: Es ändert sich nie und heißt
+„es kann sein, dass“, also „vielleicht“. Spanisch sagt genauso [*puede que no salga el
+barco*]{lang="es"}, Französisch [*il se peut que*]{lang="fr"}.
+
+Am deutlichsten wird der Unterschied, wenn die Person nicht passt:
+
+- [Μπορώ να έρθω αύριο.]{lang="el"} – Ich kann morgen kommen.
+- [Μπορεί να έρθω αύριο.]{lang="el"} – Vielleicht komme ich morgen.
+- [Μπορείς να μου πεις;]{lang="el"} – Kannst du es mir sagen?
+- [Μπορεί να σου πει.]{lang="el"} – Vielleicht sagt er es dir. Oder: Er kann es dir sagen.
+
+In der dritten Person ist der Satz also doppeldeutig. Steht [μπορεί]{lang="el"} ganz vorn, ist
+meist „vielleicht“ gemeint; sonst entscheidet der Zusammenhang.
+
+**Der Aspekt** verschiebt die Zeit, genau wie bei [πρέπει]{lang="el"}:
+
+- [Μπορεί να βρέξει το απόγευμα.]{lang="el"} – Vielleicht regnet es heute Nachmittag. (Foto:
+  ein Ereignis, das kommen kann)
+- [Μπορεί να βρέχει τώρα στη Θεσσαλονίκη.]{lang="el"} – Vielleicht regnet es gerade in
+  Thessaloniki. (Film: jetzt)
+- [Μπορεί να έβρεξε στο χωριό.]{lang="el"} – Vielleicht hat es im Dorf geregnet. (Vergangenheit
+  wie oben)
+
+Für ein künftiges Ereignis wählst du den Aspekt wie nach [θα]{lang="el"} (Kapitel 5). Und wie
+nach [πρέπει να]{lang="el"}: nie \*[μπορεί να θα]{lang="el"}.
+
+**Verneinung.** Zwei Stellen, zwei Bedeutungen:
+
+- [Μπορεί να μην έρθει.]{lang="el"} – Vielleicht kommt er nicht. ([μη(ν)]{lang="el"} nach
+  [να]{lang="el"}, wie immer)
+- [Δεν μπορεί να έφυγε χωρίς να μας πει.]{lang="el"} – Sie kann nicht gegangen sein, ohne es uns
+  zu sagen.
+
+Im Gespräch hörst du [μπορεί]{lang="el"} oft ganz allein: [Μπορεί.]{lang="el"} „Kann sein.“
+[Μπορεί ναι, μπορεί όχι.]{lang="el"} „Vielleicht ja, vielleicht nein.“ [Δεν μπορεί!]{lang="el"}
+[ðem boˈri] „Das kann nicht sein!“ Und mit [και]{lang="el"} wird es zum „vielleicht sogar“:
+[Μπορεί και να φτάσει τους σαράντα πέντε.]{lang="el"} „Es kann sogar auf fünfundvierzig gehen.“
+
+::: {.callout-warning}
+## Achtung
+
+- \*[Μπορώ να το είπα.]{lang="el"} ist falsch, [Μπορεί να το είπα.]{lang="el"} dagegen richtig:
+  „Kann sein, dass ich es gesagt habe.“ Nur das feste [μπορεί]{lang="el"} verträgt eine
+  Vergangenheit nach [να]{lang="el"}.
+- \*[Μπορούν να βρέξει.]{lang="el"}: Das „vielleicht“ hat nur die Form [μπορεί]{lang="el"}.
+:::
+
+::: {.callout-tip}
+## Tipp
+
+Schnell gesprochen verschmilzt [μπορεί να]{lang="el"} zu [boˈrina], und vor [είναι]{lang="el"}
+fällt dessen Anfangsvokal: [μπορεί να ’ναι]{lang="el"} [boˈri ˈnane] „kann sein“. Genauso
+[πρέπει να ’ναι]{lang="el"} [ˈprepi ˈnane] „muss wohl sein“.
+:::
+
+<!-- EXERCISE: μπορώ (können, konjugiert) vs. μπορεί (vielleicht, fest) unterscheiden und Foto/Film/Vergangenheit nach μπορεί να wählen; Auswählen mit nummerierten Optionen plus Fehler finden (*Μπορώ να το είπα, *μπορεί να θα), Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [μπορεί να]{lang="el"} | [boˈri na] | vielleicht, es kann sein, dass (unveränderlich) |
+| [Μπορεί.]{lang="el"} | [boˈri] | Kann sein. |
+| [Δεν μπορεί!]{lang="el"} | [ðem boˈri] | Das kann nicht sein! |
+| [μπορεί και να]{lang="el"} | [boˈri ce na] | vielleicht sogar |
+:::
+
+## Kleine Wörter, normaler Satz: [ίσως, μάλλον, σίγουρα]{lang="el"} {#sec-modal-adverbien}
+
+[πρέπει]{lang="el"} und [μπορεί]{lang="el"} brauchen [να]{lang="el"}. Die kleinen Wörter
+brauchen nichts: vor den Satz stellen, fertig. Das Verb steht in der Zeit, die gemeint ist.
+
+- [Ίσως έχεις δίκιο. Ίσως έφυγε νωρίτερα.]{lang="el"} – Vielleicht hast du recht. Vielleicht
+  ist sie früher gefahren.
+- [Μάλλον θα φύγει. Μάλλον έφυγε. Μάλλον όχι.]{lang="el"} – Es fährt wahrscheinlich. Es ist
+  wahrscheinlich gefahren. Eher nicht.
+- [Σίγουρα θα κάνει ζέστη.]{lang="el"} – Es wird sicher heiß.
+
+Eine Besonderheit hat [ίσως]{lang="el"} mit der Zukunft. Alle drei Varianten hörst du:
+[Ίσως θα βρέξει.]{lang="el"} [Ίσως βρέξει.]{lang="el"} [Ίσως να βρέξει.]{lang="el"} Die mittlere
+nimmt die zeitlose Form aus Kapitel 16, wie nach [όταν]{lang="el"}. Mit [μάλλον]{lang="el"} und
+[σίγουρα]{lang="el"} steht vor der Zukunft immer [θα]{lang="el"}.
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Wie häufig die drei Formen nach [ίσως]{lang="el"} jeweils sind und ob eine davon als weniger
+standardsprachlich gilt, ist nicht sicher geklärt; Grammatiken nennen mehrere Möglichkeiten. Wer
+auf Nummer sicher gehen will, sagt für die Zukunft [μπορεί να βρέξει]{lang="el"} oder
+[μάλλον θα βρέξει]{lang="el"}.
+:::
+<!-- CHECK: ίσως + zeitlose Form (Ίσως βρέξει), ίσως να + να-Form, ίσως θα + Futur: alle standardsprachlich? relative Häufigkeit? Kapitel 13 (Übung 13.x e) nennt „Ίσως δε θα βρεθεί“ als richtig. -->
+
+[μάλλον]{lang="el"} hat eine zweite Bedeutung, aus der die erste entstanden ist: „eher,
+vielmehr“. [Αύριο, ή μάλλον μεθαύριο.]{lang="el"} „Morgen, oder besser gesagt übermorgen.“
+
+**Auch [θα]{lang="el"} kann vermuten**, genau wie das deutsche „wird wohl“: [Θα είναι στο χωριό
+τώρα.]{lang="el"} „Sie wird jetzt im Dorf sein.“ Spanisch kennt das als Futur der
+Wahrscheinlichkeit: [*Estará en el pueblo.*]{lang="es"} Am häufigsten geschieht das mit
+[είναι, έχει]{lang="el"} und anderen Zustandsverben.
+
+Und weil man im Gespräch selten ganze Sätze braucht, hier die kurzen Antworten auf
+[— Θα έρθει;]{lang="el"}: [Σίγουρα. – Μάλλον. – Ίσως. – Μπορεί. – Δε νομίζω. – Μάλλον όχι. –
+Αποκλείεται.]{lang="el"}
+
+::: {.callout-important}
+## Merke
+
+- [ίσως, μάλλον, σίγουρα]{lang="el"} + normaler Satz in jeder Zeit; vor der Zukunft
+  [μάλλον θα, σίγουρα θα]{lang="el"}.
+- Nach [ίσως]{lang="el"} ist für die Zukunft auch die zeitlose Form üblich: [ίσως βρέξει]{lang="el"}.
+- [θα]{lang="el"} + Präsens kann vermuten: [Θα είναι σπίτι.]{lang="el"} „Er wird (wohl) zu Hause sein.“
+:::
+
+<!-- EXERCISE: Vermutungen mit ίσως, μάλλον, σίγουρα, θα (Vermutung), μπορεί να und πρέπει να laut formulieren: zu kurzen Situationen (Freund antwortet nicht, Fähre bei 7 Beaufort, Straße nass) je eine Vermutung in vorgegebener Sicherheitsstufe, Produktion mündlich, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [σίγουρα]{lang="el"} | [ˈsiɣura] | sicher, bestimmt |
+| [μάλλον όχι]{lang="el"} | [ˈmalon ˈoçi] | eher nicht, wahrscheinlich nicht |
+| [ή μάλλον]{lang="el"} | [i ˈmalon] | oder besser gesagt |
+| [Δε νομίζω.]{lang="el"} | [ðe noˈmizo] | Ich glaube nicht. |
+| [θα είναι]{lang="el"} | [θa ˈine] | wird (wohl) sein (Vermutung) |
+:::
+
+## Wie sicher? Von [σίγουρα]{lang="el"} bis [αποκλείεται]{lang="el"} {#sec-modal-skala}
+
+Wettervorhersagen leben von Abstufungen, Gespräche auch. Ungefähr so ordnen sich die Wörter
+dieses Kapitels:
+
+| Ausdruck | Deutsch | etwa |
+|---|---|---|
+| [σίγουρα; είμαι σίγουρος ότι]{lang="el"} | sicher | ja |
+| [πρέπει να]{lang="el"} (Vermutung) | muss wohl | fast sicher, aus Indizien geschlossen |
+| [μάλλον, πιθανότατα]{lang="el"}; [θα]{lang="el"} (Vermutung) | wahrscheinlich; wird wohl | eher ja |
+| [ίσως, μπορεί να, πιθανόν]{lang="el"} | vielleicht, möglicherweise | offen |
+| [δεν αποκλείεται (να)]{lang="el"} | nicht ausgeschlossen | möglich, eher nicht erwartet |
+| [μάλλον όχι; δε νομίζω]{lang="el"} | eher nicht | eher nein |
+| [αποκλείεται (να)]{lang="el"} | ausgeschlossen | nein |
+
+Das ist eine Tendenz, keine Messskala. [ίσως]{lang="el"} und [μπορεί να]{lang="el"} sind
+praktisch gleichwertig; ob [πρέπει να]{lang="el"} oder [μάλλον]{lang="el"} sicherer klingt,
+hängt vom Sprecher ab. Und der Ton zählt mehr als das Wort: Ein gedehntes, zögerndes
+[Μάλλον…]{lang="el"} auf eine Einladung ist oft ein höfliches Nein.
+
+In Vorhersagen und Nachrichten kommen förmlichere Wörter dazu:
+
+- **[πιθανόν]{lang="el"}** „möglicherweise“, **[πιθανότατα]{lang="el"}** „höchstwahrscheinlich“,
+  **[η πιθανότητα]{lang="el"}** „die Wahrscheinlichkeit“: [πιθανότητα βροχής 30%]{lang="el"}.
+  [Είναι πιθανό να βρέξει.]{lang="el"} „Regen ist möglich.“ [πιθανός]{lang="el"} kommt von
+  [πείθω]{lang="el"} „überzeugen“: Wahrscheinlich ist, was einleuchtet.
+- **[ενδέχεται να]{lang="el"}** „es kann sein, dass“, förmlich und fest wie [μπορεί]{lang="el"}:
+  [Ενδέχεται να σημειωθούν μπόρες.]{lang="el"} „Es kann zu Schauern kommen.“
+- **[δεν αποκλείεται να]{lang="el"}**, mit Nomen im Plural auch [δεν αποκλείονται]{lang="el"}:
+  [Δεν αποκλείονται μπόρες.]{lang="el"} „Schauer sind nicht ausgeschlossen.“ Das ist wohl die
+  typischste Formel griechischer Wetterberichte. Allein und betont heißt
+  [Αποκλείεται!]{lang="el"} im Gespräch „Kommt nicht in Frage!“
+- **[αναμένεται να]{lang="el"}** „es wird erwartet, dass“: [Η θερμοκρασία αναμένεται να φτάσει
+  τους σαράντα δύο βαθμούς.]{lang="el"}
+
+Nach all diesen Ausdrücken mit [να]{lang="el"} steht für ein künftiges Ereignis das Foto.
+
+<!-- EXERCISE: Wahrscheinlichkeitsskala: Sätze aus Wetterbericht und Gespräch (σίγουρα, πρέπει να, μάλλον, πιθανότατα, ίσως, μπορεί να, πιθανόν, ενδέχεται, δεν αποκλείονται, αποκλείεται) nach Sicherheit ordnen oder Prozentangaben zuordnen; Hinweis auf Tendenz, mehrere Lösungen zulassen, Schwierigkeit 1–2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [πιθανός, -ή, -ό]{lang="el"} | [piθaˈnos] | wahrscheinlich, möglich; [είναι πιθανό να]{lang="el"} es kann sein, dass |
+| [πιθανόν]{lang="el"} | [piθaˈnon] | möglicherweise |
+| [πιθανότατα]{lang="el"} | [piθaˈnotata] | höchstwahrscheinlich |
+| [η πιθανότητα]{lang="el"} | [i piθaˈnotita] | die Wahrscheinlichkeit |
+| [ενδέχεται να]{lang="el"} | [enˈðeçete na] | es kann sein, dass (formell) |
+| [δεν αποκλείεται να]{lang="el"} | [ðen apoˈkliete na] | es ist nicht ausgeschlossen, dass |
+| [Αποκλείεται!]{lang="el"} | [apoˈkliete] | Ausgeschlossen! Kommt nicht in Frage! |
+| [αναμένεται να]{lang="el"} | [anaˈmenete na] | es wird erwartet, dass (formell) |
+| [η μπόρα]{lang="el"} | [i ˈbora] | der (Regen-)Schauer |
+| [η θερμοκρασία]{lang="el"} | [i θermokraˈsia] | die Temperatur |
+:::
+
+::: {.callout-tip}
+## Tipp
+
+[η θερμοκρασία]{lang="el"} ist „Wärme“ ([θερμός]{lang="el"}, vgl. *Thermometer*) plus
+„Mischung“ ([η κράση]{lang="el"}). Aus derselben Wurzel stammt [το κρασί]{lang="el"}: Wein trank
+man in der Antike mit Wasser gemischt. Und das lateinische *temperatura* kommt von *temperare*
+„richtig mischen“. Zwei Sprachen, eine Idee: Temperatur ist ein Mischungsverhältnis.
+:::
+
+## Hörspur: der Wetterbericht {#sec-modal-hoerspur}
+
+Die ▶-Aufnahmen im Buch sind synthetische Stimmen; echte Meteorologinnen und Meteorologen bringt
+der Hör-Auftrag am Ende des Abschnitts.
+
+### Wetterberichte hören {#sec-modal-hoeren}
+
+Griechische Wetterberichte sind gebaut wie ein Formular, und das macht sie für das Ohr
+dankbar. Die Reihenfolge ist fast immer: Region, Himmel, Wind, Temperatur.
+
+- **Wind:** Richtung als Adjektiv im Plural ([βόρειοι, βορειοδυτικοί άνεμοι]{lang="el"}), dann
+  zwei Zahlen mit [με]{lang="el"}: [πέντε με έξι μποφόρ]{lang="el"} „fünf bis sechs Beaufort“.
+  Wichtig für Fähren ist das, was danach kommt: [τοπικά επτά]{lang="el"} „örtlich sieben“.
+- **Temperatur:** ein Bereich mit [από … έως]{lang="el"} (Kapitel 11), in Nachrichten gern mit
+  [ο υδράργυρος]{lang="el"} „das Quecksilber“ als Subjekt: [Ο υδράργυρος θα αγγίξει τους σαράντα
+  βαθμούς.]{lang="el"} Das Wort ist wörtlich „Wassersilber“, daher das chemische Symbol Hg
+  (*Hydrargyrum*).
+- **Modalität:** Achte auf die förmlichen Wörter [αναμένεται, ενδέχεται, δεν
+  αποκλείονται]{lang="el"}. Alle drei sind auf der drittletzten Silbe betont, das Ende ist
+  unbetont und schnell gesprochen: [anaˈmenete], [enˈðeçete], [apoˈklionde]. Die Endung
+  [-ται]{lang="el"} kennst du aus dem Mediopassiv (Kapitel 13).
+
+Beaufort misst die Windstärke, und die Zahlen sind im Sommer in jeder Vorhersage: 6 Beaufort ist
+starker Wind (39 bis 49 km/h), 7 steifer Wind (50 bis 61 km/h), 8 stürmischer Wind (62 bis
+74 km/h). Ab 8 bleiben viele Fähren im Hafen (Kapitel 5).
+<!-- CHECK: Beaufort-Werte 6/7/8 in km/h und deutsche Bezeichnungen; Aussprache αποκλείονται [apoˈklionde] (ντ nach ν als [d]) -->
+
+Jetzt ein Wetterbericht am Freitagabend, erfunden, aber im Ton der Abendnachrichten: ein
+Moderator, eine Meteorologin. Lies zuerst die Fragen der Übung unter dem Text, dann hör mit ▶,
+ohne den Text aufzuklappen.
+
+::: {lang="el" .listen}
+— Και τώρα ο καιρός. Θα έχουμε λίγη δροσιά το Σαββατοκύριακο;
+
+— Δυστυχώς όχι. Ο καύσωνας συνεχίζεται και αύριο, Σάββατο. Στην Αττική η θερμοκρασία αναμένεται
+να φτάσει τους σαράντα δύο βαθμούς, ενώ στη Θεσσαλία δεν αποκλείεται να αγγίξει τους σαράντα
+τρεις. Στα νησιά του Αιγαίου η ζέστη θα είναι πιο ήπια, γιατί θα φυσάει μελτέμι: βόρειοι άνεμοι
+πέντε με έξι μποφόρ, στις Κυκλάδες τοπικά επτά. Το απόγευμα, στα βουνά της Μακεδονίας, ενδέχεται
+να σημειωθούν μπόρες.
+
+— Και πότε τελειώνει ο καύσωνας;
+
+— Τα μοντέλα δε συμφωνούν ακόμα. Μπορεί να κρατήσει μέχρι την Τετάρτη, μπορεί και περισσότερο.
+Πάντως την Κυριακή η θερμοκρασία πρέπει να πέσει λίγο, κατά δύο με τρεις βαθμούς.
+
+— Και όποιος θέλει να πάει στα νησιά;
+
+— Μάλλον θα βρει πλοίο. Πρέπει όμως να ρωτήσει πρώτα στο λιμάνι. Και κάτι ακόμα: ο κίνδυνος
+πυρκαγιάς είναι πολύ υψηλός, κυρίως στην Αττική, στην Εύβοια και στην Πελοπόννησο. Αποφύγετε τον
+ήλιο από τις δώδεκα έως τις πέντε και πίνετε πολύ νερό. Καλό βράδυ.
+:::
+
+<!-- EXERCISE: Hörverstehen Wetterbericht (listen-Block oben): erst mit ▶ hören, ohne den Text aufzuklappen, höchstens zweimal; Multiple Choice zu Temperaturen (Attika 42, Thessalien bis 43), Wind (5–6, Kykladen örtlich 7), Schauer (Makedonien, nachmittags), Ende der Hitzewelle (unsicher, evtl. Mittwoch), Sonntag (2–3 Grad kühler); dann zu jeder Aussage angeben, wie sicher sie formuliert ist (αναμένεται, δεν αποκλείεται, ενδέχεται, μπορεί, πρέπει να als Erwartung, μάλλον); Schwierigkeit 2 -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Und jetzt das Wetter. Bekommen wir am Wochenende ein bisschen Abkühlung?
+
+— Leider nein. Die Hitzewelle geht auch morgen, Samstag, weiter. In Attika soll die Temperatur 42
+Grad erreichen, in Thessalien sind bis zu 43 nicht ausgeschlossen. Auf den Inseln der Ägäis wird
+die Hitze milder sein, weil der Meltemi weht: Nordwind fünf bis sechs Beaufort, auf den Kykladen
+örtlich sieben. Am Nachmittag kann es in den Bergen Makedoniens Schauer geben.
+
+— Und wann ist die Hitzewelle vorbei?
+
+— Die Modelle sind sich noch nicht einig. Sie kann bis Mittwoch dauern, vielleicht auch länger.
+Am Sonntag dürfte die Temperatur jedenfalls etwas sinken, um zwei bis drei Grad.
+
+— Und wer auf die Inseln will?
+
+— Wird wahrscheinlich ein Schiff finden. Er sollte aber vorher im Hafen nachfragen. Und noch
+etwas: Die Brandgefahr ist sehr hoch, vor allem in Attika, auf Euböa und auf der Peloponnes.
+Meiden Sie die Sonne von zwölf bis fünf, und trinken Sie viel Wasser. Einen schönen Abend.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [συνεχίζομαι]{lang="el"} | weitergehen, andauern |
+| [αγγίζω, άγγιξα]{lang="el"} | berühren; (einen Wert) erreichen |
+| [ήπιος, -α, -ο]{lang="el"} | mild |
+| [σημειώνομαι, σημειώθηκα]{lang="el"} | (in Berichten) auftreten, vorkommen |
+| [το μοντέλο]{lang="el"} | das (Wetter-)Modell |
+| [κατά δύο με τρεις βαθμούς]{lang="el"} | um zwei bis drei Grad |
+:::
+
+Echte Wetterberichte findest du auf [ERTflix](https://www.ertflix.gr): Die Nachrichtensendungen
+([δελτίο ειδήσεων]{lang="el"}) enden meist mit dem Wetter.
+<!-- CHECK: Enden die ERT-Nachrichtensendungen auf ERTflix in der Regel mit einem Wetterteil ([ο καιρός]{lang="el"})? Gibt es dort eigene Wetter-Clips? -->
+
+<!-- EXERCISE: Hör-Auftrag ERTflix: Wetterteil am Ende einer Nachrichtensendung (2–3 Minuten), erst ohne, dann mit griechischen Untertiteln; notieren: Höchsttemperatur Athen, Wind in der Ägäis (zwei Zahlen, „τοπικά“), und jede Modalformel mitzählen (αναμένεται, ενδέχεται, δεν αποκλείονται, πιθανόν, μάλλον, μπορεί); Auswertung ohne feste Lösung, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο υδράργυρος]{lang="el"} | [o iˈðrarʝiros] | das Quecksilber (in Berichten: die Temperatur) |
+| [η καταιγίδα]{lang="el"} | [i kateˈʝiða] | das Gewitter, Unwetter |
+| [ο μετεωρολόγος, η μετεωρολόγος]{lang="el"} | [o meteoroˈloɣos] | der Meteorologe, die Meteorologin |
+| [η δροσιά]{lang="el"} | [i ðroˈsça] | die Kühle, Abkühlung |
+| [δροσερός, -ή, -ό]{lang="el"} | [ðroseˈros] | kühl, frisch (angenehm) |
+| [βόρειος, -α, -ο]{lang="el"} | [ˈvorios] | nördlich, Nord- |
+| [τοπικά]{lang="el"} | [topiˈka] | örtlich |
+| [ο κλιματισμός]{lang="el"} | [o klimatizˈmos] | die Klimaanlage (System); das Gerät: [το κλιματιστικό]{lang="el"} |
+| [αποφεύγω, απέφυγα]{lang="el"} | [apoˈfevɣo], [aˈpefiɣa] | meiden, vermeiden |
+:::
+
+## Das Wichtigste {#sec-modal-wichtigste}
+
+- [πρέπει να]{lang="el"} drückt **Notwendigkeit** („muss“) oder **Vermutung** („wohl“) aus.
+  „wohl“-Probe; Film über das Jetzt ist meist Vermutung, Foto meist Notwendigkeit oder
+  Erwartung ([πρέπει να έρθει σε λίγο]{lang="el"}).
+- **Vermutung über Vergangenes:** [πρέπει]{lang="el"} bleibt Präsens, nach [να]{lang="el"}
+  folgt die Vergangenheit: [πρέπει να έφυγε / να κοιμόταν / να έχει φύγει]{lang="el"}. Die einzige
+  Stelle, an der nach [να]{lang="el"} ein Aorist stehen darf. Notwendigkeit damals:
+  [έπρεπε να φύγει]{lang="el"}.
+- [μπορεί να]{lang="el"} (unveränderlich) = „vielleicht“; [μπορώ να]{lang="el"} (konjugiert) =
+  „können“. [Μπορεί να βρέξει]{lang="el"} (Ereignis), [μπορεί να βρέχει]{lang="el"} (jetzt),
+  [μπορεί να έβρεξε]{lang="el"} (vorbei). [Δεν μπορεί!]{lang="el"}
+- [ίσως, μάλλον, σίγουρα]{lang="el"} + normaler Satz; Zukunft [μάλλον θα, σίγουρα θα]{lang="el"},
+  nach [ίσως]{lang="el"} auch die zeitlose Form. [θα]{lang="el"} + Präsens vermutet wie „wird wohl“.
+- Skala (Tendenz): [σίγουρα – πρέπει να – μάλλον – ίσως/μπορεί να – δεν αποκλείεται –
+  μάλλον όχι – αποκλείεται]{lang="el"}; in Vorhersagen [αναμένεται, ενδέχεται, δεν
+  αποκλείονται]{lang="el"}.
+
+## Zum Lesen: Wahrscheinlich heiß {#sec-modal-lesetext}
+
+Eine Kolumne, wie sie im Juli in jeder Sonntagszeitung stehen könnte. Lies sie einmal ganz, dann
+mit Wortschatz, dann mit ▶.
+
+::: {lang="el"}
+**Μάλλον θα κάνει ζέστη**
+
+Στην Ελλάδα, το καλοκαίρι, όλοι είμαστε λίγο μετεωρολόγοι. Ανοίγεις τρεις εφαρμογές, βλέπεις τρεις
+διαφορετικές προγνώσεις και διαλέγεις αυτή που σου αρέσει. Οι πραγματικοί μετεωρολόγοι όμως
+σπάνια λένε «σίγουρα». Λένε «μάλλον», «ενδέχεται», «δεν αποκλείεται». Δεν το κάνουν επειδή δεν
+ξέρουν τη δουλειά τους. Η ατμόσφαιρα είναι ένα χαοτικό σύστημα: μια μικρή αλλαγή σήμερα μπορεί να
+γίνει μεγάλη διαφορά σε μια εβδομάδα. Γι’ αυτό η πρόγνωση για αύριο είναι σχεδόν πάντα καλή, ενώ
+η πρόγνωση για δέκα μέρες μπορεί να πέσει έξω. Πάντως οι προγνώσεις κερδίζουν περίπου μία μέρα
+κάθε δέκα χρόνια: η πρόγνωση για έξι μέρες είναι σήμερα τόσο καλή όσο ήταν η πρόγνωση για πέντε
+μέρες πριν από δέκα χρόνια.
+
+Και τι σημαίνει «πιθανότητα βροχής 30%»; Όχι ότι θα βρέχει το 30% της μέρας. Σημαίνει ότι σε δέκα
+τέτοιες μέρες θα βρέξει περίπου στις τρεις, εκεί όπου βρίσκεσαι.
+
+Οι μετεωρολόγοι βλέπουν τον καύσωνα συνήθως μέρες πριν. Το ρεκόρ της Αθήνας είναι παλιό: στις
+10 Ιουλίου 1977 το θερμόμετρο έφτασε τους σαράντα οκτώ βαθμούς στην Ελευσίνα και στο Τατόι. Όσοι
+ζούσαν τότε στην Αθήνα πρέπει να θυμούνται ακόμα εκείνη τη μέρα. Για σαράντα τέσσερα χρόνια αυτό
+ήταν το ρεκόρ της Ευρώπης, μέχρι το 2021, όταν η Σικελία έφτασε τους 48,8. Σήμερα, όταν έρχεται
+καύσωνας, η Ακρόπολη κλείνει το μεσημέρι και οι δήμοι ανοίγουν αίθουσες με κλιματισμό. Και οι
+επιστήμονες λένε ότι οι καύσωνες θα γίνονται πιο συχνοί και πιο μεγάλοι. Εδώ δε λένε «ίσως».
+
+Και το μελτέμι; Το καλοκαίρι πάνω από τα Βαλκάνια η πίεση είναι συνήθως υψηλή, ενώ πάνω από την
+Τουρκία και τη Μέση Ανατολή είναι χαμηλή. Ο αέρας τρέχει από τον βορρά προς τον νότο, και το Αιγαίο
+γίνεται ένας μεγάλος διάδρομος. Οι αρχαίοι ναυτικοί πρέπει να το ήξεραν καλά, αφού του έδωσαν
+όνομα: «ετησίες». Όταν στην Αθήνα κάνει σαράντα βαθμούς, στη Νάξο μπορεί να κάνει τριάντα δύο.
+Το μελτέμι όμως δεν είναι μόνο φίλος: όταν φυσάει δυνατά και όλα είναι ξερά, μια μικρή φωτιά
+μπορεί να γίνει μεγάλη σε λίγα λεπτά.
+
+Κι αν η πρόγνωση πέσει έξω; Κανένα πρόβλημα. Ο μετεωρολόγος θα σου πει ότι είχε πει «πιθανόν».
+:::
+<!-- CHECK: (1) 10.7.1977 48,0 °C in Elefsina und Tatoi, bis 2021 europäischer Rekord (Sizilien 48,8 °C, 11.8.2021, von der WMO anerkannt); (2) Prognosegüte „etwa ein Tag pro Jahrzehnt“ (Bauer, Thorpe, Brunet 2015, Nature 525:47–55); (3) Regenwahrscheinlichkeit als Wahrscheinlichkeit für messbaren Niederschlag an einem Punkt, hier vereinfacht; (4) Akropolis-Schließung mittags bei Hitzewellen (2023, 2024) und klimatisierte Räume der Gemeinden; (5) Meltemi: Druckgefälle zwischen Hoch über dem Balkan und Hitzetief über Anatolien/Nahost; (6) Hitzewellen meist mehrere Tage vorher vorhersagbar -->
+
+Zwei Muster helfen beim Lesen:
+
+- **[πρέπει να θυμούνται]{lang="el"} und [πρέπει να το ήξεραν]{lang="el"}:** zweimal Vermutung,
+  einmal über das Jetzt (Film), einmal über die Vergangenheit (Imperfekt, weil
+  [ξέρω]{lang="el"} nur eine Vergangenheit hat).
+- **[πέφτω έξω]{lang="el"}** „danebenliegen“, wörtlich „nach draußen fallen“: [Η πρόγνωση έπεσε
+  έξω.]{lang="el"} „Die Vorhersage lag daneben.“
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η ατμόσφαιρα]{lang="el"} | die Atmosphäre |
+| [χαοτικός, -ή, -ό]{lang="el"} | chaotisch |
+| [κερδίζω]{lang="el"} | gewinnen (Kapitel 2) |
+| [το θερμόμετρο]{lang="el"} | das Thermometer |
+| [η Ελευσίνα, το Τατόι]{lang="el"} | Elefsina (das antike Eleusis), Tatoi (bei Athen) |
+| [ο δήμος]{lang="el"} | die Gemeinde, Stadtverwaltung |
+| [η αίθουσα]{lang="el"} | der Saal, Raum |
+| [η πίεση]{lang="el"} | hier: der Luftdruck (Kapitel 18: Blutdruck) |
+| [η Μέση Ανατολή]{lang="el"} | der Nahe Osten |
+| [ο διάδρομος]{lang="el"} | der Korridor, Gang |
+| [ο ναυτικός]{lang="el"} | der Seemann |
+| [οι ετησίες]{lang="el"} | die Etesien (Kapitel 5) |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Wahrscheinlich wird es heiß**
+
+In Griechenland sind im Sommer alle ein bisschen Meteorologen. Man öffnet drei Apps, sieht drei
+verschiedene Vorhersagen und nimmt die, die einem gefällt. Die echten Meteorologen sagen aber
+selten „sicher“. Sie sagen „wahrscheinlich“, „es kann sein“, „es ist nicht ausgeschlossen“. Das
+tun sie nicht, weil sie ihr Handwerk nicht verstehen. Die Atmosphäre ist ein chaotisches System:
+Eine kleine Änderung heute kann in einer Woche einen großen Unterschied machen. Deshalb ist die
+Vorhersage für morgen fast immer gut, während die für zehn Tage danebenliegen kann. Immerhin
+gewinnen die Vorhersagen etwa einen Tag pro Jahrzehnt: Die Sechs-Tage-Vorhersage ist heute so gut
+wie die Fünf-Tage-Vorhersage vor zehn Jahren.
+
+Und was bedeutet „Regenwahrscheinlichkeit 30 %“? Nicht, dass es 30 % des Tages regnet. Es
+bedeutet, dass es an zehn solchen Tagen an etwa dreien regnet, dort, wo du gerade bist.
+
+Eine Hitzewelle sehen die Meteorologen meist Tage im Voraus. Der Athener Rekord ist alt: Am 10.
+Juli 1977 erreichte das Thermometer in Elefsina und Tatoi 48 Grad. Wer damals in Athen lebte, erinnert
+sich bestimmt noch an diesen Tag. 44 Jahre lang war das der europäische Rekord, bis 2021 Sizilien
+48,8 Grad erreichte. Wenn heute eine Hitzewelle kommt, schließt die Akropolis mittags, und die
+Gemeinden öffnen klimatisierte Räume. Und die Wissenschaftler sagen, dass Hitzewellen häufiger
+und länger werden. Da sagen sie nicht „vielleicht“.
+
+Und der Meltemi? Im Sommer ist der Luftdruck über dem Balkan meist hoch, über der Türkei und dem
+Nahen Osten dagegen niedrig. Die Luft strömt von Norden nach Süden, und die Ägäis wird zu einem
+großen Korridor. Die antiken Seeleute kannten das wohl gut, denn sie gaben ihm einen Namen:
+„Etesien“. Wenn es in Athen vierzig Grad hat, können es auf Naxos zweiunddreißig sein. Der Meltemi
+ist aber nicht nur ein Freund: Wenn er stark weht und alles trocken ist, kann aus einem kleinen
+Feuer in wenigen Minuten ein großes werden.
+
+Und wenn die Vorhersage danebenliegt? Kein Problem. Der Meteorologe wird dir sagen, dass er
+„möglicherweise“ gesagt hat.
+:::
+
+<!-- EXERCISE: Leseverstehen Kolumne: richtig/falsch aus dem griechischen Text (z.B. 30 % = 30 % des Tages?, Rekord 1977 bis heute europäischer Rekord?, Meltemi nur Freund?), dann alle Modalausdrücke im Text suchen und je nach Sicherheit und nach Notwendigkeit/Vermutung einordnen (πρέπει να θυμούνται, πρέπει να το ήξεραν, μπορεί να γίνει/πέσει/κάνει, μάλλον, ενδέχεται, δεν αποκλείεται, σίγουρα, πιθανόν); Zugabe: die Kolumne laut in drei Sätzen zusammenfassen, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [σπάνια]{lang="el"} | [ˈspaɲa] | selten |
+| [πάντως]{lang="el"} | [ˈpandos] | jedenfalls, immerhin |
+| [πέφτω έξω, έπεσα έξω]{lang="el"} | [ˈpefto ˈekso], [ˈepesa ˈekso] | danebenliegen, sich irren (umg.) |
+| [η διαφορά]{lang="el"} | [i ðiafoˈra] | der Unterschied |
+| [συχνός, -ή, -ό]{lang="el"} | [sixˈnos] | häufig |
+| [χαμηλός, -ή, -ό]{lang="el"} | [xamiˈlos] | niedrig |
+| [υψηλός, -ή, -ό]{lang="el"} | [ipsiˈlos] | hoch (gehoben; Alltag [ψηλός]{lang="el"}) |
+| [πραγματικός, -ή, -ό]{lang="el"} | [praɣmatiˈkos] | wirklich, echt |
+:::
