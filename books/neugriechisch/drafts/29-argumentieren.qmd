@@ -1,0 +1,687 @@
+---
+title: "Argumentieren"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+- **Gegensatz und Grund im Nebensatz** (Kapitel 16): [αν και]{lang="el"} „obwohl“, [ενώ]{lang="el"}
+  „während, dagegen“, [αφού]{lang="el"} „da ja“, alle mit normalem Verb, nie mit [να]{lang="el"}.
+- **Folgern:** [άρα]{lang="el"} „also, folglich“ (Kapitel 4 und 20), [γι’ αυτό]{lang="el"}
+  „deshalb“ (Kapitel 1).
+- **Meinung sagen** (Kapitel 20): [Για μένα …, κατά τη γνώμη μου …, Εγώ πάντως …, Έχεις δίκιο σε
+  αυτό.]{lang="el"}
+- **Irrealis der Vergangenheit** (Kapitel 24): [αν]{lang="el"} + Plusquamperfekt, Folge
+  [θα]{lang="el"} + Plusquamperfekt: [Αν είχαμε φύγει νωρίτερα, θα είχαμε φτάσει.]{lang="el"}
+:::
+
+## Zwei Leserbriefe {#sec-argument-einstieg}
+
+Im obersten Stock des Akropolismuseums in Athen sieht man durch eine Glaswand den Parthenon. Davor
+hängt sein Fries, in derselben Anordnung wie einst am Tempel: honigfarbener Marmor, dazwischen
+immer wieder schneeweiße Gipsabgüsse. Die Originale der weißen Stücke stehen im British Museum in
+London. Seit fast zweihundert Jahren fordert Griechenland sie zurück, und für dieses Kapitel ist
+das ein Glücksfall: Kaum ein Thema erzeugt so viele *aber*, *trotzdem* und *folglich*.
+
+Nach einem Zeitungsbericht über neue Gespräche zwischen Athen und London erscheinen zwei
+Leserbriefe, erfunden, aber typisch:
+
+::: {lang="el"}
+Διάβασα με προσοχή το άρθρο σας για τα Γλυπτά του Παρθενώνα. Το Βρετανικό Μουσείο λέει ότι ο
+Έλγιν τα απέκτησε νόμιμα. Ωστόσο, το πρωτότυπο της άδειας δε βρέθηκε ποτέ· υπάρχει μόνο μια
+μετάφραση στα ιταλικά. Κι αν ακόμα υπήρχε, θα ήταν άδεια των Οθωμανών, όχι των Ελλήνων. Εφόσον
+από το 2009 η Αθήνα έχει ένα μουσείο που περιμένει τα γλυπτά, το παλιό επιχείρημα «δεν έχετε πού
+να τα βάλετε» δεν ισχύει πια. Επομένως, η συζήτηση πρέπει να αλλάξει.
+
+*Ελένη Κ., Αθήνα*
+:::
+
+::: {lang="el"}
+Ζω στο Λονδίνο εδώ και είκοσι χρόνια και πηγαίνω συχνά στο Βρετανικό Μουσείο. Εκεί τα γλυπτά τα
+βλέπουν κάθε χρόνο εκατομμύρια επισκέπτες, δωρεάν, δίπλα σε έργα από όλο τον κόσμο. Παρόλο που
+καταλαβαίνω τους συμπατριώτες μου, ξέρω και κάτι άλλο: ένας νόμος του 1963 απαγορεύει στο μουσείο
+να δώσει αντικείμενα από τη συλλογή του. Άρα μια απλή επιστροφή δεν είναι δυνατή. Λύση θα βρεθεί
+μόνο εφόσον υποχωρήσουν λίγο και οι δύο πλευρές.
+
+*Νίκος Π., Λονδίνο*
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+Ich habe Ihren Artikel über die Parthenon-Skulpturen aufmerksam gelesen. Das British Museum sagt,
+Elgin habe sie rechtmäßig erworben. Das Original der Genehmigung wurde jedoch nie gefunden; es gibt
+nur eine Übersetzung ins Italienische. Und selbst wenn es sie gäbe, wäre es eine Genehmigung der
+Osmanen, nicht der Griechen. Da Athen seit 2009 ein Museum hat, das auf die Skulpturen wartet,
+gilt das alte Argument „Ihr habt ja keinen Platz dafür“ nicht mehr. Folglich muss sich die
+Diskussion ändern. *Eleni K., Athen*
+
+Ich lebe seit zwanzig Jahren in London und gehe oft ins British Museum. Dort sehen jedes Jahr
+Millionen Besucher die Skulpturen, kostenlos, neben Werken aus der ganzen Welt. Obwohl ich meine
+Landsleute verstehe, weiß ich auch etwas anderes: Ein Gesetz von 1963 verbietet dem Museum, Objekte
+aus seiner Sammlung abzugeben. Also ist eine einfache Rückgabe nicht möglich. Eine Lösung wird es
+nur geben, sofern beide Seiten ein wenig nachgeben. *Nikos P., London*
+:::
+
+Beide Briefe sind höflich, beide begründen, und beide benutzen dieselben Werkzeuge:
+
+| Wort | Aufgabe | Deutsch |
+|---|---|---|
+| [ωστόσο]{lang="el"} | Gegensatz | jedoch, dennoch |
+| [παρόλο που]{lang="el"} | Einräumung | obwohl |
+| [εφόσον]{lang="el"} | Grund oder Bedingung | da ja; sofern |
+| [επομένως]{lang="el"} | Folgerung | folglich |
+| [άρα]{lang="el"} | Folgerung | also |
+
+Mit diesen Wörtern kann man nicht nur behaupten, sondern zeigen, wie die eigenen Gründe
+zusammenhängen. Das ist Argumentieren. Vier davon klingen nach Zeitung, und das ist kein Zufall;
+dazu mehr in @sec-argument-abwaegen.
+
+Schon der Name ist ein Argument. Griechisch heißen die Stücke [τα Γλυπτά του Παρθενώνα]{lang="el"}
+„die Skulpturen des Parthenon“, im Englischen lange [*Elgin Marbles*]{lang="en"}, nach dem Mann,
+der sie holen ließ: Thomas Bruce, 7. Earl of Elgin, britischer Botschafter in Konstantinopel.
+Das British Museum spricht heute selbst meist von den [*Parthenon Sculptures*]{lang="en"}.
+
+[απέκτησα]{lang="el"} ist der Aorist von [αποκτάω]{lang="el"} „erwerben“; das Augment steht
+hinter der Vorsilbe, wie bei [κατέστρεψα]{lang="el"} (Kapitel 2) und [απέδειξα]{lang="el"}
+(Kapitel 18). Und Vorsicht beim Hören: [η άδεια]{lang="el"} [ˈaðia] „die Genehmigung, der Urlaub“
+hat drei Silben, [άδεια]{lang="el"} [ˈaðʝa] „leer“ nur zwei.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το γλυπτό, τα γλυπτά]{lang="el"} | [to ɣliˈpto], [ta ɣliˈpta] | die Skulptur, das Bildwerk |
+| [το άρθρο]{lang="el"} | [to ˈarθro] | der Artikel (Zeitung, Gesetz) |
+| [αποκτάω, απέκτησα]{lang="el"} | [apoˈktao], [aˈpektisa] | erwerben, bekommen |
+| [νόμιμος, -η, -ο]{lang="el"} | [ˈnomimos] | rechtmäßig, legal |
+| [η άδεια]{lang="el"} | [i ˈaðia] | die Genehmigung, Erlaubnis; der Urlaub |
+| [το πρωτότυπο]{lang="el"} | [to proˈtotipo] | das Original |
+| [το επιχείρημα, τα επιχειρήματα]{lang="el"} | [to epiˈçirima], [ta epiçiˈrimata] | das Argument |
+| [ο νόμος]{lang="el"} | [o ˈnomos] | das Gesetz |
+| [απαγορεύω, απαγόρευσα]{lang="el"} | [apaɣoˈrevo], [apaˈɣorefsa] | verbieten (Person im Genitiv oder mit [σε]{lang="el"}) |
+| [η συλλογή]{lang="el"} | [i siloˈʝi] | die Sammlung |
+| [το αντικείμενο]{lang="el"} | [to adiˈcimeno] | der Gegenstand, das Objekt |
+| [επιστρέφω, επέστρεψα]{lang="el"} | [epiˈstrefo], [eˈpestrepsa] | zurückgeben; zurückkehren |
+| [η επιστροφή]{lang="el"} | [i epistroˈfi] | die Rückgabe; die Rückkehr |
+| [ανήκω, ανήκα]{lang="el"} | [aˈniko], [aˈnika] | gehören ([σε]{lang="el"} + Akk.); nur eine Vergangenheit |
+| [η πλευρά]{lang="el"} | [i plevˈra] | die Seite |
+| [η λύση]{lang="el"} | [i ˈlisi] | die Lösung |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [με προσοχή]{lang="el"} | aufmerksam |
+| [ο Παρθενώνας]{lang="el"} | der Parthenon |
+| [το Βρετανικό Μουσείο]{lang="el"} | das British Museum |
+| [ο Έλγιν]{lang="el"} | Elgin |
+| [η μετάφραση]{lang="el"} | die Übersetzung |
+| [οι Οθωμανοί]{lang="el"} | die Osmanen |
+| [ο συμπατριώτης, η συμπατριώτισσα]{lang="el"} | der Landsmann, die Landsmännin |
+| [υποχωρώ, υποχώρησα]{lang="el"} | nachgeben, zurückweichen |
+:::
+
+## Aber, trotzdem, obwohl: [ωστόσο]{lang="el"} und [παρόλο που]{lang="el"} {#sec-argument-gegensatz}
+
+Eleni hält dagegen, Nikos räumt erst etwas ein und bleibt dann bei seiner Sicht. Für
+beides hat das Griechische zwei Sorten Wörter, genau wie das Deutsche: solche, die zwei
+Hauptsätze verbinden („jedoch, trotzdem“), und Konjunktionen, die einen Nebensatz einleiten
+(„obwohl“).
+
+| | verbindet Hauptsätze | leitet Nebensatz ein |
+|---|---|---|
+| neutral | [αλλά, όμως]{lang="el"} | [αν και]{lang="el"} |
+| nachdrücklicher, eher geschrieben | [ωστόσο]{lang="el"}, [παρ’ όλα αυτά]{lang="el"} | [παρόλο που]{lang="el"} |
+
+**[ωστόσο]{lang="el"}** [osˈtoso] „jedoch, dennoch“ ist ein förmlicheres [όμως]{lang="el"}. Es
+eröffnet gern einen neuen Satz, mit Komma, oder steht nach dem ersten Satzglied:
+
+- [Ο Έλγιν είχε κάποια άδεια. Ωστόσο, το πρωτότυπο δε βρέθηκε ποτέ.]{lang="el"}
+- [Το πρωτότυπο, ωστόσο, δε βρέθηκε ποτέ.]{lang="el"}
+
+Englisch [*however*]{lang="en"}, französisch [*cependant*]{lang="fr"}, spanisch [*sin embargo*]{lang="es"} wandern genauso. Im Gespräch
+sagt man meist [όμως]{lang="el"}, und zwar lieber an zweiter Stelle: [Το πρωτότυπο όμως δε
+βρέθηκε.]{lang="el"} **[παρ’ όλα αυτά]{lang="el"}** [parˈola afˈta], wörtlich „trotz all dem“, ist
+das deutsche „trotzdem“ und in Gespräch wie Zeitung zu Hause. Viele schreiben es auch
+[παρόλα αυτά]{lang="el"}.
+
+**[παρόλο που]{lang="el"}** [paˈrolo pu] „obwohl“ leitet einen Nebensatz ein, mit normalem Verb in
+jeder Zeit, wie [αν και]{lang="el"}. Es klingt nachdrücklicher, etwa „obwohl doch, auch wenn
+feststeht, dass“:
+
+- [Παρόλο που τα γλυπτά είναι στο Λονδίνο εδώ και διακόσια χρόνια, πολλοί Έλληνες τα θεωρούν
+  κομμάτι της Αθήνας.]{lang="el"}
+
+Nach [παρόλο που]{lang="el"} steht wie nach [αν και]{lang="el"} **nie [να]{lang="el"}**, auch wenn
+[*bien que*]{lang="fr"} + Subjonctif im Hinterkopf etwas anderes flüstert.
+
+::: {.callout-warning}
+## Achtung
+
+[παρόλο που]{lang="el"} [paˈrolo pu] „obwohl“ leitet einen Nebensatz ein; [παρ’ όλα αυτά]{lang="el"}
+[parˈola afˈta] „trotzdem“ steht im Hauptsatz. Derselbe Gedanke, zwei Bauweisen:
+
+- [Παρόλο που το μουσείο δεν μπορεί να τα δώσει, οι συζητήσεις συνεχίζονται.]{lang="el"}
+- [Το μουσείο δεν μπορεί να τα δώσει. Παρ’ όλα αυτά, οι συζητήσεις συνεχίζονται.]{lang="el"}
+:::
+
+Drei Wendungen machen das Einräumen und Widersprechen komplett:
+
+- **[ναι μεν …, αλλά …]{lang="el"}** „zwar …, aber …“: Man gibt der Gegenseite einen Punkt und
+  nimmt ihn im selben Atemzug zurück. Das Muster aus dem Tipp in Kapitel 20 als feste Formel.
+  [Ναι μεν η Αθήνα έχει νέο μουσείο, αλλά ο νόμος του 1963 δεν αλλάζει εύκολα.]{lang="el"}
+  [Ναι μεν το Βρετανικό Μουσείο τα φύλαξε, αλλά δεν τα έφτιαξε.]{lang="el"} Das [μεν]{lang="el"}
+  ist ein Überbleibsel des altgriechischen [μεν … δε]{lang="grc"}, mit dem Thukydides (Kapitel 20)
+  ganze Seiten baute.
+- **[ακόμα κι αν]{lang="el"}** „selbst wenn“ nimmt die Formen von [αν]{lang="el"}: real mit der
+  zeitlosen Form ([Ακόμα κι αν αλλάξει ο νόμος, η συμφωνία δε θα είναι εύκολη.]{lang="el"}), irreal
+  mit dem Imperfekt wie in Kapitel 24 ([Κι αν ακόμα υπήρχε, θα ήταν άδεια των
+  Οθωμανών.]{lang="el"}). Die Reihenfolge [κι αν ακόμα]{lang="el"} ist gleichwertig.
+- **[παρά]{lang="el"}** + Akkusativ „trotz“, vor allem in Nachrichten: [παρά τις
+  συζητήσεις]{lang="el"} „trotz der Gespräche“. Dasselbe [παρά]{lang="el"} wie in
+  [τρεις παρά δέκα]{lang="el"} (Kapitel 11).
+
+<!-- EXERCISE: Einräumen und widersprechen; Sätze laut umbauen: Nebensatz mit παρόλο που/αν και ↔ zwei Hauptsätze mit ωστόσο/παρ’ όλα αυτά; zwei Aussagen mit ναι μεν … αλλά verbinden; eine irreale Einräumung mit κι αν ακόμα + Imperfekt; Sachthema Museen, Rückgabe, Leihgaben; mündlich, Lösung mit typischen Fehlern (να nach παρόλο που, παρόλο που/παρ’ όλα αυτά verwechselt); Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ωστόσο]{lang="el"} | [osˈtoso] | jedoch, dennoch (eher geschrieben) |
+| [παρ’ όλα αυτά]{lang="el"} | [parˈola afˈta] | trotzdem |
+| [παρόλο που]{lang="el"} | [paˈrolo pu] | obwohl (nachdrücklich, eher geschrieben) |
+| [ναι μεν …, αλλά …]{lang="el"} | [ne men … aˈla] | zwar …, aber … |
+| [ακόμα κι αν]{lang="el"} | [aˈkoma ci an] | selbst wenn |
+| [παρά]{lang="el"} | [paˈra] | trotz (+ Akk.) |
+:::
+
+## Also, folglich: [άρα, επομένως]{lang="el"} {#sec-argument-folgern}
+
+Eleni schließt mit [επομένως]{lang="el"}, Nikos mit [άρα]{lang="el"}. Beide sagen: Aus dem, was
+ich eben gesagt habe, folgt etwas.
+
+- **[άρα]{lang="el"}** [ˈara] (Kapitel 4, 20) ist neutral und passt überall.
+- **[επομένως]{lang="el"}** [epoˈmenos] „folglich“ ist dasselbe in förmlich: Aufsätze, Reden,
+  Nachrichten. Meist vorn, mit Komma: [Επομένως, η συζήτηση πρέπει να αλλάξει.]{lang="el"}
+- **[συνεπώς]{lang="el"}** [sineˈpos] „demnach“ ist noch eine Stufe förmlicher; du liest es in
+  Urteilen und Behördenschreiben.
+- Im Gespräch folgert man mit [άρα]{lang="el"}, mit [λοιπόν]{lang="el"} (Kapitel 1) oder mit
+  [οπότε]{lang="el"} „also, deshalb“, das Kapitel 25 zeigt.
+
+Und [γι’ αυτό]{lang="el"} „deshalb“? Es passt, wenn eine Ursache eine Handlung oder ein Ereignis
+auslöst. [άρα]{lang="el"} und [επομένως]{lang="el"} ziehen einen **Schluss**:
+
+- [Ο νόμος δεν επιτρέπει στο μουσείο να δώσει τα γλυπτά· γι’ αυτό προτείνει
+  δανεισμό.]{lang="el"} – Grund, also Handlung: „deshalb schlägt es eine Leihgabe vor“.
+- [Ο νόμος δεν επιτρέπει στο μουσείο να δώσει τα γλυπτά· άρα την απόφαση πρέπει να την
+  πάρει το κοινοβούλιο.]{lang="el"} – Schluss: „folglich muss das Parlament entscheiden“.
+
+Oft passen beide. Als Faustregel: [γι’ αυτό]{lang="el"} erzählt, [επομένως]{lang="el"} beweist.
+
+<!-- EXERCISE: Konnektor wählen in einem zusammenhängenden Text über den Streit (Lückentext .no-audio, 8 Lücken, nummerierte Optionen: ωστόσο, παρόλο που, άρα/επομένως, γι’ αυτό, εφόσον ist noch nicht dran → nicht verwenden); Antwort im Chat "1b, 2a …"; Lösung mit Begründung, wo zwei Wörter gehen; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [επομένως]{lang="el"} | [epoˈmenos] | folglich (förmlich) |
+| [συνεπώς]{lang="el"} | [sineˈpos] | demnach, folglich (sehr förmlich) |
+| [το κοινοβούλιο]{lang="el"} | [to cinoˈvulio] | das Parlament (allgemein; das griechische heißt [η Βουλή]{lang="el"}) |
+| [η απόφαση]{lang="el"} | [i aˈpofasi] | die Entscheidung; [παίρνω απόφαση]{lang="el"} entscheiden |
+:::
+
+## Sofern oder da ja: [εφόσον]{lang="el"} {#sec-argument-efoson}
+
+[εφόσον]{lang="el"} [eˈfoson] kommt in beiden Briefen vor, aber nicht mit derselben Bedeutung.
+
+**Bedingung, „sofern, vorausgesetzt dass“.** Dann verhält es sich wie [αν]{lang="el"} (Kapitel
+17): Präsens für Zustände, zeitlose Form für ein Ereignis, das erst eintreten muss, nie
+[θα]{lang="el"}.
+
+- [Λύση θα βρεθεί μόνο εφόσον υποχωρήσουν λίγο και οι δύο πλευρές.]{lang="el"}
+- [Το μουσείο μπορεί να δανείσει τα γλυπτά, εφόσον η Ελλάδα αναγνωρίσει ότι ανήκουν σε
+  αυτό.]{lang="el"} – Das ist tatsächlich die Position des British Museum.
+
+**Grund, „da ja, da nun einmal“.** Dann verhält es sich wie [αφού]{lang="el"} „da ja“ (Kapitel
+16): normales Verb in jeder Zeit, der Grund gilt als bekannt.
+
+- [Εφόσον από το 2009 η Αθήνα έχει μουσείο, το παλιό επιχείρημα δεν ισχύει.]{lang="el"}
+- [Εφόσον ο Έλγιν πλήρωσε για τα γλυπτά, τα θεωρούσε δικά του.]{lang="el"}
+
+Welche Bedeutung gemeint ist, zeigt die „falls“-Probe aus Kapitel 17: Passt „falls“, ist es eine
+Bedingung; passt nur „da ja“, ein Grund. Die Form hilft mit. Nach einer zeitlosen Form
+([αναγνωρίσει, υποχωρήσουν]{lang="el"}) ist es fast immer eine Bedingung, nach einer Vergangenheit
+fast immer ein Grund; beim Präsens entscheidet der Zusammenhang. [Εφόσον το θέλετε, …]{lang="el"}
+kann beides heißen, „wenn Sie wollen“ und „da Sie es ja wollen“.
+
+In [εφόσον]{lang="el"} steckt [όσο]{lang="el"} „so viel wie“; wörtlich heißt es „insoweit“. Es
+gehört in Verträge, Hausordnungen und Pressekonferenzen. Im Alltag sagt man [αν]{lang="el"} oder
+[αφού]{lang="el"}; wer beim Kaffee [εφόσον]{lang="el"} sagt, klingt, als lese er die
+Geschäftsbedingungen vor. Förmlich ist auch [με την προϋπόθεση ότι …]{lang="el"} „unter der
+Voraussetzung, dass …“.
+
+::: {.callout-important}
+## Merke
+
+- [εφόσον]{lang="el"} als **Bedingung** („sofern“): Formen wie nach [αν]{lang="el"}, also
+  zeitlose Form für Kommendes, kein [θα]{lang="el"}.
+- [εφόσον]{lang="el"} als **Grund** („da ja“): normales Verb in jeder Zeit, wie
+  [αφού]{lang="el"}.
+- Beides ist förmlich; im Gespräch [αν]{lang="el"} und [αφού]{lang="el"}.
+:::
+
+<!-- CHECK: εφόσον mit beiden Lesarten (υποθετικός/αιτιολογικός) nach LKN; Registerangabe "förmlich"; Herleitung aus εφ’ όσον "insoweit" -->
+
+<!-- EXERCISE: εφόσον zuordnen: Bedingung (falls) oder Grund (da ja); 8 Sätze aus Leihvertrag, Museumsordnung, Nachrichten, Pressekonferenz; Antwort im Chat "1B, 2G …"; dazu drei Sätze laut ins Gespräch übertragen (εφόσον → αν bzw. αφού); Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [εφόσον]{lang="el"} | [eˈfoson] | sofern (+ Formen wie nach [αν]{lang="el"}); da ja (förmlich) |
+| [η προϋπόθεση]{lang="el"} | [i proiˈpoθesi] | die Voraussetzung, Bedingung |
+| [με την προϋπόθεση ότι]{lang="el"} | [me tim broiˈpoθesi ˈoti] | unter der Voraussetzung, dass (förmlich) |
+| [ο δανεισμός]{lang="el"} | [o ðanizˈmos] | die Leihgabe, das Leihen ([δανείζω]{lang="el"}, Kapitel 8) |
+:::
+
+## Abwägen: ein Gerüst für die eigene Meinung {#sec-argument-abwaegen}
+
+Griechische Schüler üben das Argumentieren jahrelang für den Aufsatz ([η έκθεση]{lang="el"}) der
+landesweiten Abschlussprüfung. Ein Absatz nach diesem Muster:
+
+::: {lang="el"}
+Το ζήτημα είναι αν τα Γλυπτά του Παρθενώνα πρέπει να επιστρέψουν στην Αθήνα. Από τη μία πλευρά,
+ανήκουν σε ένα μνημείο που υπάρχει ακόμα. Επιπλέον, από το 2009 υπάρχει ένα μουσείο έτοιμο να τα
+δεχτεί. Από την άλλη πλευρά, βρίσκονται στο Λονδίνο εδώ και διακόσια χρόνια, και άλλωστε ο νόμος
+δεν επιτρέπει στο μουσείο να τα δώσει. Συνοψίζοντας, το ζήτημα δεν είναι μόνο νομικό αλλά και
+πολιτικό· επομένως τη λύση, αν βρεθεί, θα τη βρουν οι κυβερνήσεις.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+Die Frage ist, ob die Parthenon-Skulpturen nach Athen zurückkehren sollen. Auf der einen Seite
+gehören sie zu einem Bauwerk, das es noch gibt. Außerdem gibt es seit 2009 ein Museum, das bereit
+ist, sie aufzunehmen. Auf der anderen Seite sind sie seit zweihundert Jahren in London, und
+schließlich erlaubt das Gesetz dem Museum nicht, sie abzugeben. Zusammengefasst: Die Frage ist
+nicht nur eine juristische, sondern auch eine politische; folglich werden die Lösung, wenn es eine
+gibt, die Regierungen finden.
+:::
+
+Das Gerüst:
+
+1. **Frage benennen:** [Το ζήτημα είναι αν …]{lang="el"} „Die Frage ist, ob …“ (indirekte Frage,
+   Kapitel 18).
+2. **Seiten gegenüberstellen:** [από τη μία (πλευρά) … από την άλλη (πλευρά) …]{lang="el"}
+3. **Gründe stapeln:** [πρώτον …, δεύτερον …]{lang="el"}, [επιπλέον]{lang="el"} „außerdem“,
+   [άλλωστε]{lang="el"} (auch [εξάλλου]{lang="el"}) „schließlich ja“. [άλλωστε]{lang="el"} bringt
+   einen Grund, den eigentlich jeder kennt, fast wie [αφού]{lang="el"} im Hauptsatz.
+4. **Schluss ziehen:** [Συνοψίζοντας, …]{lang="el"} „Zusammengefasst“ (ein Gerundium, Kapitel 19),
+   dann [επομένως]{lang="el"} oder die eigene Meinung ([κατά τη γνώμη μου]{lang="el"}, Kapitel 20).
+
+Dazu kommt [όχι μόνο … αλλά και …]{lang="el"} „nicht nur …, sondern auch …“, das im Absatz als
+[δεν είναι μόνο … αλλά και …]{lang="el"} erscheint.
+
+### Das Argument im Irrealis {#sec-argument-irrealis}
+
+Das bekannteste Argument dieses Streits steht im Irrealis der Vergangenheit (Kapitel 24):
+
+- [Αν ο Έλγιν δεν τα είχε πάρει, θα είχαν καταστραφεί.]{lang="el"} – Hätte Elgin sie nicht
+  mitgenommen, wären sie zerstört worden.
+
+Wer so argumentiert, behauptet etwas, das sich nicht prüfen lässt. Darauf gibt es zwei übliche
+Antworten: den Zweifel mit Mitteln aus Kapitel 22 ([Αυτό δεν μπορεί να το ξέρει κανείς. Μπορεί
+ναι, μπορεί και όχι.]{lang="el"}) oder die Einräumung mit Widerspruch: [Ακόμα κι αν ήταν έτσι,
+αυτό δε σημαίνει ότι είναι δικά τους.]{lang="el"} „Selbst wenn es so wäre, heißt das nicht, dass
+sie ihnen gehören.“ Übrigens arbeiten beide Seiten mit dem Irrealis: Dieselbe Bedingung, [Αν είχαν μείνει στην
+Αθήνα, …]{lang="el"}, endet bei der einen mit Zerstörung, bei der anderen mit einem vollständigen
+Fries.
+
+### Gesprochen und geschrieben {#sec-argument-register}
+
+Viele dieser Wörter sind förmlich. Wer sie im Gespräch benutzt, klingt, als halte er eine Rede;
+wer sie in der Zeitung nicht benutzt, klingt wie ein Chat. Die Grenzen sind weich, und im
+Fernsehen reden Politiker und Juristen oft wie gedruckt:
+
+| Aufgabe | im Gespräch | geschrieben, förmlich |
+|---|---|---|
+| Gegensatz | [αλλά, όμως]{lang="el"} | [ωστόσο]{lang="el"} |
+| Einräumung | [αν και]{lang="el"} | [παρόλο που]{lang="el"}, [παρά]{lang="el"} + Akk. |
+| Folgerung | [άρα, λοιπόν, οπότε]{lang="el"} | [επομένως, συνεπώς]{lang="el"} |
+| Grund | [αφού, γιατί]{lang="el"} | [εφόσον, διότι]{lang="el"} (Kapitel 16) |
+| Bedingung | [αν]{lang="el"} | [εφόσον, με την προϋπόθεση ότι]{lang="el"} |
+| Aufzählen | [και, επίσης]{lang="el"} | [πρώτον, επιπλέον, εξάλλου]{lang="el"} |
+
+[άρα, παρ’ όλα αυτά, άλλωστε, ναι μεν … αλλά]{lang="el"} fühlen sich in beiden Spalten wohl.
+
+<!-- CHECK: Registerzuordnung der Tabelle (ωστόσο, παρόλο που, επομένως, εφόσον "eher geschrieben/förmlich"; άρα, παρ’ όλα αυτά, άλλωστε neutral) mit LKN abgleichen -->
+
+<!-- EXERCISE: Register wechseln; ein gesprochener Diskussionsbeitrag (αλλά, αν και, άρα, αφού, αν) laut in eine schriftliche Stellungnahme umformen (ωστόσο, παρόλο που, επομένως, εφόσον) und ein kurzer Zeitungsabsatz zurück ins Gespräch; mündlich, Lösung mit Varianten; Schwierigkeit 2 -->
+
+<!-- EXERCISE: eigene Stellungnahme laut halten (6–8 Sätze) zur Frage "Sollen Museen Kulturgüter an die Herkunftsländer zurückgeben?" mit dem Gerüst (Το ζήτημα είναι αν …, από τη μία … από την άλλη, πρώτον/επιπλέον/άλλωστε, Συνοψίζοντας/επομένως), mindestens eine Einräumung (ναι μεν … αλλά oder παρόλο που) und ein Argument im Irrealis; Musterlösungen für beide Richtungen und eine abwägende; Checkliste statt einer einzigen richtigen Lösung; Schwierigkeit 3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το ζήτημα]{lang="el"} | [to ˈzitima] | die Frage, die Angelegenheit |
+| [Το ζήτημα είναι αν …]{lang="el"} | [to ˈzitima ˈine an] | Die Frage ist, ob … |
+| [από τη μία (πλευρά) … από την άλλη …]{lang="el"} | [aˈpo ti ˈmia (plevˈra) … aˈpo tin ˈali] | auf der einen Seite … auf der anderen … |
+| [πρώτον, δεύτερον]{lang="el"} | [ˈproton], [ˈðefteron] | erstens, zweitens |
+| [επιπλέον]{lang="el"} | [epiˈpleon] | außerdem, darüber hinaus |
+| [άλλωστε, εξάλλου]{lang="el"} | [ˈaloste], [eˈksalu] | schließlich (ja), außerdem |
+| [συνοψίζοντας]{lang="el"} | [sinoˈpsizodas] | zusammenfassend |
+| [όχι μόνο … αλλά και …]{lang="el"} | [ˈoçi ˈmono … aˈla ce] | nicht nur …, sondern auch … |
+| [νομικός, -ή, -ό]{lang="el"} | [nomiˈkos] | juristisch; [ο/η νομικός]{lang="el"} der Jurist, die Juristin |
+| [πολιτικός, -ή, -ό]{lang="el"} | [politiˈkos] | politisch; [ο/η πολιτικός]{lang="el"} der Politiker, die Politikerin |
+:::
+
+## Hörspur: eine Fernsehdiskussion {#sec-argument-hoerspur}
+
+Wer abends durch griechische Nachrichtensender schaltet, sieht oft einen Bildschirm, der in vier
+bis sechs Fenster geteilt ist, in jedem ein Gast, und alle reden gleichzeitig. Man nennt das
+spöttisch [τα παράθυρα]{lang="el"}, „die Fenster“. Die Diskussion unten ist gesitteter: eine
+Moderatorin, ein Archäologe, eine Juristin, erfunden, aber im Ton typisch. Die ▶-Aufnahme ist
+synthetisch und hat nur zwei Stimmen: eine weibliche für die Moderatorin **und** die Juristin, eine
+männliche für den Archäologen. Die Moderatorin erkennst du daran, dass sie ihre Gäste mit Namen
+anspricht. Echte Diskussionen bringt der Hör-Auftrag am Ende des Abschnitts.
+
+<!-- CHECK: "τα παράθυρα" als gängige (spöttische) Bezeichnung für Talk-Panels im griechischen Nachrichtenfernsehen -->
+
+Vor dem Hören:
+
+- **Namen und Anrede:** [ˈcirie markaˈci] „Herr Markakis“, [ciˈria staθoˈpulu] „Frau
+  Stathopoulou“ (Vokativ, Kapitel 7).
+- **Wer das Wort will:** [na sas ðʝaˈkopso] „Darf ich Sie unterbrechen“, [aˈfiste me na
+  teˈlioso] „Lassen Sie mich ausreden“.
+- **Die Verbindungswörter** tragen ihre Betonung deutlich: [osˈtoso], [epoˈmenos], [eˈfoson],
+  [paˈrolo pu], [ne men … aˈla].
+- **Worthilfen:** [η ζωφόρος]{lang="el"} der Fries (Kapitel 2) · [η πομπή]{lang="el"} der Festzug
+  · [ο γύψος]{lang="el"} der Gips · [η υπόθεση]{lang="el"} der Fall · [η βούληση]{lang="el"} der
+  Wille · [χάλκινος]{lang="el"} aus Kupfer.
+
+::: {lang="el" .listen}
+[— Καλησπέρα σας. Το θέμα μας απόψε: τα Γλυπτά του Παρθενώνα. Μαζί μας ο αρχαιολόγος Γιώργος
+Μαρκάκης και η νομικός Άννα Σταθοπούλου. Κύριε Μαρκάκη, γιατί να επιστρέψουν;]{.v1}
+
+[— Γιατί ο Παρθενώνας είναι ένα μνημείο, όχι μια συλλογή από ωραία κομμάτια. Η ζωφόρος δείχνει μια
+πομπή, από την αρχή ως το τέλος. Σήμερα ένα μεγάλο μέρος της είναι στο Λονδίνο. Στο Μουσείο της
+Ακρόπολης βλέπετε τα πρωτότυπα και ανάμεσά τους λευκά αντίγραφα από γύψο. Τα κενά μιλάνε από μόνα
+τους.]{.v2}
+
+[— Κυρία Σταθοπούλου, το Βρετανικό Μουσείο λέει ότι ο Έλγιν τα απέκτησε νόμιμα.]{.v1}
+
+[— Αυτή είναι η θέση του, ναι. Το 1816 το βρετανικό κοινοβούλιο εξέτασε την υπόθεση, δέχτηκε ότι η
+απόκτηση ήταν νόμιμη και αγόρασε τη συλλογή. Και σήμερα ένας νόμος του 1963 απαγορεύει στο μουσείο
+να δώσει αντικείμενα από τη συλλογή του. Επομένως, νομικά, το μουσείο δεν μπορεί απλώς να πει
+«ναι».]{.v1}
+
+[— Να σας διακόψω, όμως. Το πρωτότυπο της άδειας δε βρέθηκε ποτέ. Και την άδεια την έδωσαν οι
+Οθωμανοί, όχι οι Έλληνες.]{.v2}
+
+[— Αφήστε με να τελειώσω. Δε λέω ότι οι Βρετανοί έχουν δίκιο. Λέω ότι ο νόμος είναι εμπόδιο.
+Ωστόσο, οι νόμοι αλλάζουν, εφόσον υπάρχει πολιτική βούληση.]{.v1}
+
+[— Και υπάρχει;]{.v2}
+
+[— Το 2021 μια επιτροπή της UNESCO ζήτησε από τη Βρετανία να συζητήσει με την Ελλάδα, και από τότε
+γίνονται συζητήσεις. Το μουσείο μιλάει για δανεισμό, εφόσον η Ελλάδα αναγνωρίσει ότι τα γλυπτά
+ανήκουν σε αυτό. Αυτό όμως η Αθήνα δεν το δέχεται.]{.v1}
+
+[— Φυσικά δεν το δέχεται. Αν δανειστείς κάτι, παραδέχεσαι ότι δεν είναι δικό σου.]{.v2}
+
+[— Κύριε Μαρκάκη, οι Βρετανοί λένε επίσης ότι, αν δεν τα είχε πάρει ο Έλγιν, θα είχαν
+καταστραφεί.]{.v1}
+
+[— Αυτό δεν μπορεί να το ξέρει κανείς. Ναι μεν τότε ο ναός είχε πολλές ζημιές, αλλά όσα γλυπτά
+έμειναν στην Αθήνα υπάρχουν ακόμα. Και παρόλο που το Λονδίνο τα φύλαξε, στη δεκαετία του 1930 τα
+καθάρισαν με χάλκινα εργαλεία και τους έκαναν ζημιά.]{.v2}
+
+[— Από την άλλη, κύριε Μαρκάκη, στο Λονδίνο τα βλέπουν κάθε χρόνο εκατομμύρια άνθρωποι, δωρεάν.]{.v1}
+
+[— Και στην Αθήνα θα τα έβλεπαν. Άλλωστε ο Παρθενώνας είναι εδώ, όχι στο Λονδίνο.]{.v2}
+
+[— Από τη μία λοιπόν το μνημείο, από την άλλη ο νόμος. Θα δούμε αν θα βρεθεί λύση. Σας ευχαριστώ
+και τους δύο.]{.v1}
+:::
+
+<!-- EXERCISE: Hörverstehen Fernsehdiskussion, direkt nach dem ▶-Block; Auftrag: mit ▶ hören, ohne den Text aufzuklappen, höchstens zweimal; nur Inhaltsfragen (Multiple Choice): Warum soll der Fries nach Athen (Einheit des Monuments)? Was sieht man im Akropolismuseum zwischen den Originalen? Was entschied das britische Parlament 1816? Was verbietet das Gesetz von 1963? Was hat die UNESCO 2021 verlangt? Unter welcher Bedingung bietet das Museum eine Leihgabe an, und warum lehnt Athen ab? Welches Argument nennt die Moderatorin für London? Welchen Schaden erwähnt der Archäologe? Antwort im Chat "1a, 2c …"; Schwierigkeit 2 -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Moderatorin:** Guten Abend. Unser Thema heute: die Parthenon-Skulpturen. Bei uns sind der
+Archäologe Giorgos Markakis und die Juristin Anna Stathopoulou. Herr Markakis, warum sollen sie
+zurückkehren?
+
+**Markakis:** Weil der Parthenon ein Bauwerk ist, keine Sammlung schöner Einzelstücke. Der Fries
+zeigt einen Festzug, vom Anfang bis zum Ende. Heute ist ein großer Teil davon in London. Im
+Akropolismuseum sehen Sie die Originale und dazwischen weiße Abgüsse aus Gips. Die Lücken sprechen
+für sich.
+
+**Moderatorin:** Frau Stathopoulou, das British Museum sagt, Elgin habe sie rechtmäßig erworben.
+
+**Stathopoulou:** Das ist seine Position, ja. 1816 hat das britische Parlament den Fall geprüft,
+den Erwerb als rechtmäßig anerkannt und die Sammlung gekauft. Und heute verbietet ein Gesetz von
+1963 dem Museum, Objekte aus seiner Sammlung abzugeben. Folglich kann das Museum rechtlich nicht
+einfach „ja“ sagen.
+
+**Markakis:** Da muss ich Sie aber unterbrechen. Das Original der Genehmigung wurde nie gefunden.
+Und die Genehmigung haben die Osmanen erteilt, nicht die Griechen.
+
+**Stathopoulou:** Lassen Sie mich ausreden. Ich sage nicht, dass die Briten recht haben. Ich sage,
+dass das Gesetz ein Hindernis ist. Gesetze ändern sich jedoch, sofern es den politischen Willen
+gibt.
+
+**Markakis:** Und gibt es ihn?
+
+**Stathopoulou:** 2021 hat ein Ausschuss der UNESCO Großbritannien aufgefordert, mit Griechenland
+zu verhandeln, und seitdem gibt es Gespräche. Das Museum spricht von einer Leihgabe, sofern
+Griechenland anerkennt, dass die Skulpturen ihm gehören. Das aber akzeptiert Athen nicht.
+
+**Markakis:** Natürlich nicht. Wer sich etwas leiht, gibt zu, dass es ihm nicht gehört.
+
+**Moderatorin:** Herr Markakis, die Briten sagen auch: Hätte Elgin sie nicht mitgenommen, wären sie
+zerstört worden.
+
+**Markakis:** Das kann niemand wissen. Zwar war der Tempel damals schwer beschädigt, aber die
+Skulpturen, die in Athen geblieben sind, gibt es noch. Und obwohl London sie aufbewahrt hat, hat man
+sie in den 1930er-Jahren mit Kupferwerkzeugen gereinigt und ihnen geschadet.
+
+**Moderatorin:** Andererseits, Herr Markakis, sehen sie in London jedes Jahr Millionen Menschen, kostenlos.
+
+**Markakis:** In Athen würden sie sie auch sehen. Und schließlich ist der Parthenon hier, nicht in
+London.
+
+**Moderatorin:** Auf der einen Seite also das Bauwerk, auf der anderen das Gesetz. Wir werden sehen,
+ob sich eine Lösung findet. Ich danke Ihnen beiden.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [το μνημείο]{lang="el"} | das Denkmal, das Bauwerk (Kapitel 23) |
+| [η θέση]{lang="el"} | hier: die Position, der Standpunkt |
+| [η απόκτηση]{lang="el"} | der Erwerb |
+| [εξετάζω, εξέτασα]{lang="el"} | prüfen, untersuchen |
+| [απλώς]{lang="el"} | einfach, bloß |
+| [μιλάνε από μόνα τους]{lang="el"} | sie sprechen für sich |
+| [παραδέχομαι]{lang="el"} | zugeben (Kapitel 18) |
+| [η δεκαετία του 1930]{lang="el"} | die 1930er-Jahre |
+| [το εργαλείο]{lang="el"} | das Werkzeug |
+| [φυλάω, φύλαξα]{lang="el"} | aufbewahren, bewachen |
+:::
+
+### Diskussionen hören {#sec-argument-hoeren}
+
+Echte Diskussionen sind schneller, überlappen sich und benutzen weniger [ωστόσο]{lang="el"} als
+dieser Text. Achte deshalb auf zwei Dinge: Wer nimmt sich das Wort, und mit welchem Wort beginnt
+ein Gegenargument? Meist ist es [ναι, αλλά]{lang="el"}, [όμως]{lang="el"} oder ein
+[Κοιτάξτε, …]{lang="el"} (Kapitel 21). Diskussionssendungen und Interviews findest du auf
+[ERTflix](https://www.ertflix.gr), dem Streamingangebot des staatlichen Rundfunks; Meinungen von der
+Straße bringt [Easy Greek](https://www.youtube.com/@EasyGreekVideos).
+
+<!-- EXERCISE: Hör-Auftrag mit ERTflix (https://www.ertflix.gr) oder Easy Greek (https://www.youtube.com/@EasyGreekVideos); eine Diskussions- oder Interviewsendung bzw. ein Straßeninterview mit Meinungsfrage wählen; fünf Minuten ohne Untertitel; Strichliste: gesprochene Konnektoren (αλλά, όμως, άρα, οπότε, αφού) gegen förmliche (ωστόσο, επομένως, εφόσον, παρόλο που); zwei Wendungen zum Unterbrechen oder Wort-Behalten heraushören; dann mit griechischen Untertiteln prüfen; Lösung als Auswertungsanleitung (Erwartung: im Gespräch überwiegen die gesprochenen); Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Να σας διακόψω.]{lang="el"} | [na sas ðʝaˈkopso] | Darf ich Sie unterbrechen? (höflich-förmlich) |
+| [Αφήστε με να τελειώσω.]{lang="el"} | [aˈfiste me na teˈlioso] | Lassen Sie mich ausreden. |
+| [η εκπομπή]{lang="el"} | [i ekpoˈbi] | die Sendung |
+| [το αντίγραφο]{lang="el"} | [to aˈdiɣrafo] | die Kopie; der Abguss |
+| [το κενό]{lang="el"} | [to ceˈno] | die Lücke, die Leere |
+| [το εμπόδιο]{lang="el"} | [to eˈboðio] | das Hindernis |
+| [η επιτροπή]{lang="el"} | [i epitroˈpi] | der Ausschuss, die Kommission |
+:::
+
+## Das Wichtigste {#sec-argument-wichtigste}
+
+- **Gegensatz:** [όμως, αλλά]{lang="el"} (neutral), [ωστόσο]{lang="el"} (eher geschrieben),
+  [παρ’ όλα αυτά]{lang="el"} „trotzdem“; alle verbinden Hauptsätze.
+- **Einräumung:** [παρόλο που]{lang="el"} „obwohl“ wie [αν και]{lang="el"}, mit normalem Verb, nie
+  [να]{lang="el"}; [ναι μεν …, αλλά …]{lang="el"} „zwar …, aber“; [ακόμα κι αν]{lang="el"} „selbst
+  wenn“, real oder irreal; [παρά]{lang="el"} + Akk. „trotz“.
+- **Folgerung:** [άρα]{lang="el"} (neutral), [επομένως]{lang="el"}, [συνεπώς]{lang="el"}
+  (förmlich); [γι’ αυτό]{lang="el"} für Ursache und Wirkung.
+- **[εφόσον]{lang="el"}:** Bedingung „sofern“ mit Formen wie nach [αν]{lang="el"}, oder Grund „da
+  ja“ wie [αφού]{lang="el"}; „falls“-Probe; förmlich.
+- **Gerüst:** [Το ζήτημα είναι αν … Από τη μία … από την άλλη … Πρώτον … επιπλέον … άλλωστε …
+  Συνοψίζοντας …]{lang="el"}
+- **Register:** Im Gespräch [αλλά, αν και, άρα, αφού, αν]{lang="el"}, in Zeitung und Rede
+  [ωστόσο, παρόλο που, επομένως, εφόσον]{lang="el"}.
+
+## Zum Lesen: Zwei Museen, ein Bauwerk {#sec-argument-lesetext}
+
+Ein Überblick im Ton einer Zeitungsbeilage. Auf Griechisch steht [ο Έλγιν]{lang="el"}
+unverändert in allen Fällen, wie viele fremde Namen; Melina Mercouri kennst du als Schauspielerin
+aus Kapitel 15.
+
+::: {lang="el"}
+**Δύο μουσεία, ένα μνημείο**
+
+Ο Παρθενώνας χτίστηκε ανάμεσα στο 447 και στο 432 π.Χ. Τα γλυπτά του, η ζωφόρος, οι μετόπες και οι
+μορφές των αετωμάτων, θεωρούνται από τα σημαντικότερα έργα της αρχαίας τέχνης. Ωστόσο, ο ναός δεν
+έφτασε ακέραιος ως τις μέρες μας. Το 1687 μια βενετική οβίδα έπεσε στην πυρίτιδα που φύλαγαν οι
+Οθωμανοί μέσα στο κτίριο, και η έκρηξη κατέστρεψε μεγάλο μέρος του.
+
+Ανάμεσα στο 1801 και στο 1812 οι άνθρωποι του λόρδου Έλγιν, πρέσβη της Βρετανίας στην
+Κωνσταντινούπολη, αφαίρεσαν περίπου τα μισά γλυπτά που είχαν σωθεί και τα έστειλαν στη Βρετανία.
+Ο Έλγιν υποστήριξε ότι είχε άδεια από τις οθωμανικές αρχές. Το 1816 το βρετανικό κοινοβούλιο
+αγόρασε τη συλλογή και την παρέδωσε στο Βρετανικό Μουσείο, όπου βρίσκεται μέχρι σήμερα.
+
+Η Ελλάδα ζήτησε επίσημα την επιστροφή τους το 1983, με υπουργό Πολιτισμού τη Μελίνα Μερκούρη. Το
+βασικό επιχείρημα της ελληνικής πλευράς είναι ότι τα γλυπτά ανήκουν σε ένα μνημείο που στέκεται
+ακόμα στη θέση του· επομένως πρέπει να ενωθούν ξανά. Γι’ αυτό η Αθήνα μιλάει για «επανένωση» και
+όχι απλώς για «επιστροφή». Παρόλο που για χρόνια λεγόταν ότι η Αθήνα δεν είχε πού να τα εκθέσει,
+από το 2009 το νέο Μουσείο της Ακρόπολης έχει έτοιμη μια αίθουσα με θέα στον Παρθενώνα.
+
+Το Βρετανικό Μουσείο απαντά ότι ο Έλγιν απέκτησε τα γλυπτά νόμιμα, σύμφωνα με τους νόμους της
+εποχής. Υποστηρίζει επίσης ότι στο Λονδίνο οι επισκέπτες τα βλέπουν δίπλα σε έργα άλλων
+πολιτισμών και ότι, εφόσον ένας νόμος του 1963 του απαγορεύει να δώσει αντικείμενα της συλλογής
+του, μια οριστική επιστροφή δεν είναι στο χέρι του. Προτείνει δανεισμό· η Αθήνα όμως δε δέχεται να
+αναγνωρίσει τους Βρετανούς ως ιδιοκτήτες.
+
+Από το 2021 οι δύο πλευρές συζητούν ξανά. Μέχρι να βρεθεί λύση, στο Μουσείο της Ακρόπολης τα
+λευκά αντίγραφα θυμίζουν σε κάθε επισκέπτη τι λείπει.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [χτίστηκε]{lang="el"} | wurde gebaut (Kapitel 13) |
+| [π.Χ.]{lang="el"} | v. Chr. (Kapitel 11) |
+| [η μετόπη, οι μετόπες]{lang="el"} | die Metope (Relieftafel über den Säulen) |
+| [η μορφή]{lang="el"} | die Gestalt, die Figur |
+| [το αέτωμα, τα αετώματα]{lang="el"} | der Giebel |
+| [η τέχνη]{lang="el"} | die Kunst |
+| [ακέραιος, -α, -ο]{lang="el"} | unversehrt, heil |
+| [βενετικός, -ή, -ό]{lang="el"} | venezianisch |
+| [η οβίδα]{lang="el"} | die Granate, das Geschoss |
+| [η πυρίτιδα]{lang="el"} | das Schießpulver |
+| [ο πρέσβης]{lang="el"} | der Botschafter (Kapitel 11) |
+| [αφαιρώ, αφαίρεσα]{lang="el"} | entfernen, abnehmen |
+| [παραδίδω, παρέδωσα]{lang="el"} | übergeben |
+| [με υπουργό Πολιτισμού τη …]{lang="el"} | als … Kulturministerin war |
+| [στέκομαι]{lang="el"} | stehen |
+| [ενώνω, ένωσα, ενώθηκα]{lang="el"} | vereinigen |
+| [λεγόταν]{lang="el"} | es hieß, man sagte (Kapitel 13) |
+| [εκθέτω, εξέθεσα]{lang="el"} | ausstellen ([η έκθεση]{lang="el"} die Ausstellung; der Aufsatz) |
+| [η θέα]{lang="el"} | die Aussicht, der Blick |
+| [οριστικός, -ή, -ό]{lang="el"} | endgültig |
+| [δεν είναι στο χέρι του]{lang="el"} | es liegt nicht in seiner Hand |
+| [ο ιδιοκτήτης]{lang="el"} | der Eigentümer (Kapitel 17) |
+| [ο πολιτισμός]{lang="el"} | die Kultur, die Zivilisation |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Zwei Museen, ein Bauwerk**
+
+Der Parthenon wurde zwischen 447 und 432 v. Chr. gebaut. Seine Skulpturen, der Fries, die Metopen
+und die Giebelfiguren, gelten als einige der bedeutendsten Werke der antiken Kunst. Der Tempel ist
+jedoch nicht unversehrt bis in unsere Tage gekommen. 1687 schlug ein venezianisches Geschoss in
+das Schießpulver ein, das die Osmanen im Gebäude lagerten, und die Explosion zerstörte einen großen
+Teil davon.
+
+Zwischen 1801 und 1812 entfernten die Leute Lord Elgins, des britischen Botschafters in
+Konstantinopel, etwa die Hälfte der erhaltenen Skulpturen und schickten sie nach Großbritannien.
+Elgin gab an, eine Genehmigung der osmanischen Behörden zu haben. 1816 kaufte das britische
+Parlament die Sammlung und übergab sie dem British Museum, wo sie sich bis heute befindet.
+
+Griechenland forderte ihre Rückgabe 1983 offiziell, als Melina Mercouri Kulturministerin war. Das
+Hauptargument der griechischen Seite lautet, dass die Skulpturen zu einem Bauwerk gehören, das noch
+an seinem Platz steht; folglich müssen sie wieder vereint werden. Deshalb spricht Athen von
+„Wiedervereinigung“ und nicht bloß von „Rückgabe“. Obwohl es jahrelang hieß, Athen habe keinen Ort,
+um sie auszustellen, hat das neue Akropolismuseum seit 2009 einen Saal mit Blick auf den Parthenon
+bereit.
+
+Das British Museum antwortet, Elgin habe die Skulpturen rechtmäßig erworben, nach den Gesetzen der
+Zeit. Es führt außerdem an, dass die Besucher sie in London neben Werken anderer Kulturen sehen und
+dass eine endgültige Rückgabe nicht in seiner Hand liege, da ihm ein Gesetz von 1963 verbiete,
+Objekte seiner Sammlung abzugeben. Es schlägt eine Leihgabe vor; Athen ist aber nicht bereit, die
+Briten als Eigentümer anzuerkennen.
+
+Seit 2021 sprechen beide Seiten wieder miteinander. Bis eine Lösung gefunden ist, erinnern im
+Akropolismuseum die weißen Abgüsse jeden Besucher daran, was fehlt.
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Die Grunddaten sind gut belegt, vieles andere ist Teil des Streits selbst:
+
+- **Die Genehmigung:** Elgin berief sich auf ein Schreiben der osmanischen Regierung von 1801
+  (oft *Ferman* genannt). Erhalten ist nur eine italienische Übersetzung. Ob es ein rechtsgültiger
+  Erlass war und ob es erlaubte, Skulpturen vom Bau abzunehmen, ist unter Historikern und Juristen
+  umstritten.
+- **Die Mengen:** In London sind unter anderem rund 75 Meter des Frieses und 15 der ursprünglich
+  92 Metopen. Das Parlament zahlte 1816 35 000 Pfund, weniger als Elgin nach eigener Angabe
+  ausgegeben hatte.
+- **Mercouri:** Sie machte die Forderung Anfang der 1980er-Jahre international bekannt, unter
+  anderem 1982 auf einer UNESCO-Konferenz; 1983 folgte die offizielle Forderung der griechischen
+  Regierung, 1984 wurde der Fall dem zuständigen UNESCO-Ausschuss vorgelegt.
+- **Die Reinigung** der Jahre 1937/38 hat Oberflächen beschädigt; wie stark, wird bis heute
+  unterschiedlich bewertet.
+- **Der Stand:** Die Gespräche seit 2021 haben bisher (Stand 2026) zu keiner bekannt gewordenen
+  Einigung geführt. In Großbritannien wirbt unter anderem die Initiative
+  [*Parthenon Project*]{lang="en"} für einen Kompromiss mit Leihgaben in beide Richtungen.
+  Nachrichten dazu ändern sich schnell.
+
+Zum Nachlesen, mit beiden Seiten: Alexander Herman, [*The Parthenon Marbles Dispute*]{lang="en"}
+(2023); die Stellungnahmen des British Museum und des Akropolismuseums auf ihren Websites.
+:::
+
+<!-- CHECK: (1) Bauzeit 447–432 v. Chr.; (2) 1687 venezianische Beschießung (Morosini), Explosion des osmanischen Pulvermagazins im Parthenon; (3) Entfernung 1801–1812 "etwa die Hälfte der erhaltenen Skulpturen", Elgin Botschafter in Konstantinopel; (4) Kauf 1816 durch das Parlament für 35 000 Pfund, weniger als Elgins Ausgaben; (5) nur italienische Übersetzung des Dokuments erhalten; (6) BM-Bestand ca. 75 m Fries, 15 von 92 Metopen; (7) Mercouri 1982 UNESCO-Weltkonferenz Kulturpolitik (Mexiko-Stadt), offizielle Forderung 1983, UNESCO-Ausschuss (ICPRCP) 1984; (8) British Museum Act 1963: Veräußerungsverbot mit engen Ausnahmen; (9) UNESCO-Ausschuss 2021: Aufforderung an das Vereinigte Königreich, Position zu überdenken und mit Griechenland zu verhandeln; (10) Gespräche BM/griechische Regierung seit 2021 (bekannt geworden Ende 2022), Stand 2026 ohne Einigung; Parthenon Project (parthenonproject.co.uk, "A Win-Win solution") korrekt als Kompromissinitiative mit Leihgaben in beide Richtungen beschrieben?; (11) BM-Position: Leihgabe nur bei Anerkennung des Eigentums; (12) Reinigung 1937/38 mit Kupferwerkzeugen; (13) Akropolismuseum 2009, Parthenon-Galerie mit Blick auf den Tempel und weißen Abgüssen der Londoner Stücke -->
+
+<!-- EXERCISE: Leseverstehen Lesetext; Teil A richtig/falsch (8 Aussagen, u.a. Jahr der Explosion, wer Elgin die Genehmigung gab, wer 1816 kaufte, seit wann das Akropolismuseum besteht, warum das BM nicht einfach zurückgeben kann, warum Athen keine Leihgabe will); Teil B: Wessen Argument ist das? (G = griechische Seite, B = British Museum) für 6 Argumente aus Text und Hörspur; Teil C: alle Konnektoren im Text finden und benennen (Gegensatz, Einräumung, Folgerung, Grund); Antwort im Chat; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [οι αρχές]{lang="el"} | [i arˈçes] | die Behörden |
+| [η επανένωση]{lang="el"} | [i epaˈnenosi] | die Wiedervereinigung |
+:::

@@ -61,7 +61,7 @@ dir geben?
 
 — Mit Creme. Mit Hackfleisch? Bougatsa mit Hackfleisch hab ich noch nie gegessen.
 
-— Dann hast du noch nie Bougatsa gegessen. Du bist aus Athen, stimmt's?
+— Dann hast du noch nie Bougatsa gegessen. Du bist aus Athen, stimmt’s?
 
 — Woran haben Sie das gemerkt?
 
@@ -74,7 +74,7 @@ dir geben?
 — Zimt? Auf die Creme?
 
 — So isst man hier die Bougatsa, sag ich dir. So, wie mein Großvater sie gemacht hat. Er
-kam '22 aus Kleinasien und hat den Laden '30 aufgemacht. Den Teig ziehen wir von Hand aus, jeden
+kam ’22 aus Kleinasien und hat den Laden ’30 aufgemacht. Den Teig ziehen wir von Hand aus, jeden
 Morgen ab fünf.
 
 — Ab fünf? Sie müssen sehr müde sein.
@@ -91,8 +91,8 @@ etwas aus den letzten zehn Kapiteln. Findest du im Dialog ein Perfekt der Erfahr
 Relativsatz, zwei Doppelungen, ein Mediopassiv mit passiver Bedeutung, eine gesprochene Kurzform,
 eine Vermutung, einen Bedingungssatz, der eine allgemeine Regel ausdrückt, und ein „solange“?
 
-::: {.callout-note collapse="true"}
-## Fundstellen
+::: {.callout-tip collapse="true" .solution}
+## Lösung
 
 | im Text | was es ist | Kapitel |
 |---|---|---|
@@ -181,8 +181,8 @@ die dort spielen, hört drei Dinge.
 
 Das Merkmal, über das die Kundin im Dialog stolpert, ist das „dicke L“, [το παχύ λάμδα]{lang="el"}.
 Vor [o] und [u], oft auch vor [a], hebt sich dabei der hintere Teil der Zunge zum Gaumen, und das
-[l] klingt dunkel, fast hohl. Du kennst den Laut aus dem Englischen: das *l* in *full* oder *milk*,
-im Unterschied zum hellen *l* in *leaf*. Die Lautschrift schreibt ihn [ɫ]: [ˈɫaθos] für
+[l] klingt dunkel, fast hohl. Du kennst den Laut aus dem Englischen: das *l* in [*full*]{lang="en"} oder [*milk*]{lang="en"},
+im Unterschied zum hellen *l* in [*leaf*]{lang="en"}. Die Lautschrift schreibt ihn [ɫ]: [ˈɫaθos] für
 [λάθος]{lang="el"}, [poˈɫa] für [πολλά]{lang="el"}, [miˈɫuse] für [μιλούσε]{lang="el"}. Vor
 [e] und [i] bleibt es meist hell.
 
@@ -245,9 +245,9 @@ Sprachgeschichte eine von zwei Lösungen.
 Alle drei Merkmale sind **Tendenzen**. Nicht jeder in Thessaloniki spricht so, viele Jüngere
 kaum, und dieselbe Person spricht in einem Interview anders als am Küchentisch. Die Beschreibung
 hier ist stark vereinfacht. Einen Überblick gibt Peter Trudgills Aufsatz zur Einteilung der
-neugriechischen Dialekte (2003, *Journal of Greek Linguistics*); zum Akkusativ für „wem?“ gibt es
-eine neuere Studie in der Zeitschrift *Languages*: „High and Low Arguments in Northern and Pontic
-Greek“ (2022).
+neugriechischen Dialekte (2003, [*Journal of Greek Linguistics*]{lang="en"}); zum Akkusativ für „wem?“ gibt es
+eine neuere Studie in der Zeitschrift [*Languages*]{lang="en"}: „[High and Low Arguments in Northern and Pontic
+Greek]{lang="en"}“ (2022).
 :::
 
 ::: {.callout-note .exercise}
@@ -257,7 +257,7 @@ Welches Standardwort, welcher Satz steckt dahinter? Und was ist passiert: nur Au
 (A), oder auch Anhebung von [e o] (H)? Im Chat etwa „1A, 2H“.
 
 1. [ˈmilsa]
-2. [pirpaˈtondas]
+2. [pirpaˈtodas]
 3. [prep na ˈefiʝe]
 4. [ˈpirɣus]
 5. [ðen du ˈkseru]
@@ -346,7 +346,7 @@ Zwei Verben hier nehmen auch im Standard den Akkusativ (Kapitel 8). Für 8 denk 
 8. Standard als umgangssprachliche Doppelung, Objekt hinter dem Verb: „Ich hab sie gesagt, die
    Wahrheit.“ Im Norden auch „Ich hab ihr die Wahrheit gesagt“, Standard [Της είπα …]{lang="el"}.
 
-Typischer Fehler in die Gegenrichtung: [σου ευχαριστώ]{lang="el"}, nicht Standard. Und [σε
+Typischer Fehler in die Gegenrichtung: \*[σου ευχαριστώ]{lang="el"} (Kapitel 8). Und [σε
 λέω]{lang="el"} ist im Norden kein Fehler, im Standard aber [σου λέω]{lang="el"}.
 :::
 
@@ -357,7 +357,7 @@ Typischer Fehler in die Gegenrichtung: [σου ευχαριστώ]{lang="el"}, n
 | [η διάλεκτος]{lang="el"} | [i ðiˈalektos] | der Dialekt (weiblich auf [-ος]{lang="el"}) |
 | [βόρειος, -α, -ο]{lang="el"} | [ˈvorios] | nördlich, Nord- |
 | [βαρύς, βαριά, βαρύ]{lang="el"} | [vaˈris], [vaˈrʝa], [vaˈri] | schwer; [βαριά προφορά]{lang="el"} starker Akzent |
-| [η συμπρωτεύουσα]{lang="el"} | [i simbroˈtevusa] | Beiname Thessalonikis, „Mit-Hauptstadt“ |
+| [η συμπρωτεύουσα]{lang="el"} | [i sibroˈtevusa] | Beiname Thessalonikis, „Mit-Hauptstadt“ |
 | [ο πύργος]{lang="el"} | [o ˈpirɣos] | der Turm |
 :::
 
@@ -395,8 +395,8 @@ Foto ([θα γράψει → έχει γράψει]{lang="el"}); das Partizip ko
 herleiten. Probier es aus: Deck die Spalte „Beispiel“ ab und bilde zu jeder Zeile eine Form von
 [ανοίγω]{lang="el"}.
 
-::: {.callout-note collapse="true"}
-## Formen von [ανοίγω]{lang="el"}
+::: {.callout-tip collapse="true" .solution}
+## Lösung
 
 [ανοίγεται, ανοιγόταν, ανοίχτηκε, θα ανοιχτεί, έχω ανοίξει, είχα ανοίξει, ανοιγμένος,
 ανοίγοντας]{lang="el"}. Für einen Laden, der aufmacht, sagt man allerdings aktiv [το μαγαζί
@@ -417,10 +417,10 @@ herleiten. Probier es aus: Deck die Spalte „Beispiel“ ab und bilde zu jeder 
 
 ### Nachdruck und Tempo {#sec-thess-bilanz-nachdruck}
 
-- **Starke Pronomen + schwache** (Kapitel 20): [Εμένα μου αρέσει.]{lang="el"}
+- **Stark + schwach** (Kapitel 20): [Εμένα μου αρέσει.]{lang="el"}
   [Για μένα …]{lang="el"}
 - **Doppelung** (Kapitel 20): [Το βιβλίο το διάβασα.]{lang="el"} Das Objekt ist die Überschrift,
-  das schwache Pronomen das Echo.
+  das schwache Pronomen das Echo-Pronomen.
 - **Kurzformen und Sandhi** (Kapitel 21): [το ’χω δει, θα ’ρθει, τον πατέρα]{lang="el"}
   [tom baˈtera].
 
@@ -435,9 +435,9 @@ herleiten. Probier es aus: Deck die Spalte „Beispiel“ ab und bilde zu jeder 
 έρθει]{lang="el"}).
 
 **Wo die Zeit stehen bleibt:** In der indirekten Rede behält das Verb in der Regel die Zeit des
-Originals ([Είπε ότι είναι κουρασμένος.]{lang="el"}). Nach [πρέπει να, μπορεί να]{lang="el"} als
+Originals ([Είπε ότι είναι κουρασμένος.]{lang="el"}, Kapitel 18). Nach [πρέπει να, μπορεί να]{lang="el"} als
 Vermutung darf eine Vergangenheit stehen ([πρέπει να έφυγε]{lang="el"}), nach [θέλω να, μπορώ
-να]{lang="el"} nicht.
+να]{lang="el"} nicht („Wo steht die Zeit?“, Kapitel 22).
 :::
 
 ::: {.callout-note .exercise}
@@ -478,7 +478,7 @@ Zustand? Gibt es einen Zeitstempel?
 4. [Όταν ήρθαν οι πρόσφυγες, η φωτιά είχε ήδη κάψει το κέντρο.]{lang="el"}
 5. [Η Άνω Πόλη είναι χτισμένη σε έναν λόφο.]{lang="el"}
 6. [Ανοίγοντας το φύλλο, μιλάει για τον παππού του.]{lang="el"} Das Gerundium kommt aus dem
-   Präsensstamm; nicht \*[ανοίξοντας]{lang="el"}.
+   imperfektiven Stamm; nicht \*[ανοίξοντας]{lang="el"}.
 
 **Typische Fehler:** \*[εχτίστηκε]{lang="el"}, \*[εκάηκε]{lang="el"}; Perfekt in 1 trotz
 Zeitstempel; [είναι χτισμένος]{lang="el"} in 1, das beschreibt einen Zustand, kein Ereignis.
@@ -530,7 +530,7 @@ bedeuten.
 ## Lösung
 
 1. [Είδα …]{lang="el"}: Zeitstempel [το 2019]{lang="el"}, also Aorist (14).
-2. [Εσένα δεν σου αρέσει …;]{lang="el"}: Das schwache Pronomen bleibt (20).
+2. [Εσένα δε σου αρέσει …;]{lang="el"}: Das schwache Pronomen bleibt (20).
 3. [Αν έρθεις …]{lang="el"}: kein [θα]{lang="el"} in der Bedingung (17). [αν θα]{lang="el"}
    hört man, Standard ist es nicht.
 4. [χτίστηκε]{lang="el"}: kein Augment im Mediopassiv (13).
@@ -633,7 +633,7 @@ in [ξαναήρθε]{lang="el"} (Kapitel 16).
 
 Zuerst eine Stadtführung am Wasser, gesprochen von den Stimmen des Buchs, also in Athener
 Standard. Sie bündelt noch einmal Teil II. Es geht um die Osmanen, ein Gefängnis und Blut
-([το αίμα]{lang="el"} [ˈema]). Erst hören, dann lesen:
+([το αίμα]{lang="el"} [to ˈema]). Erst hören, dann lesen:
 
 ::: {lang="el" .listen}
 — Φτάσαμε στον Λευκό Πύργο, το σύμβολο της πόλης. Τον έχτισαν οι Οθωμανοί, μάλλον τον δέκατο
@@ -722,7 +722,6 @@ getüncht wurde, wird überall erzählt, aber die Einzelheiten unterscheiden sic
 darum [μάλλον]{lang="el"} und [λένε ότι]{lang="el"}.
 :::
 
-
 ::: {.callout-note collapse="true" .vocab-text}
 ## Wortschatz zum Text
 
@@ -740,7 +739,7 @@ Die Stimmen im Buch können dir das dunkle [λ]{lang="el"} oder ein verschluckte
 vorführen; dafür braucht es Menschen aus dem Norden. Zwei Quellen: Auf
 [Easy Greek](https://www.youtube.com/@EasyGreekVideos) fragen die Interviewer oft
 [Από πού είσαι;]{lang="el"}, und die Antwort sagt dir, auf wen du achten musst. Auf
-[ERTflix](https://www.ertflix.gr) findest du Sendungen von ΕΡΤ3, dem Programm des öffentlichen
+[ERTflix](https://www.ertflix.gr) findest du Sendungen von [ΕΡΤ3]{lang="el"}, dem Programm des öffentlichen
 Rundfunks, das aus Thessaloniki sendet. Nachrichtensprecher sprechen dort Standard; ergiebiger
 sind Reportagen, in denen Leute auf der Straße, auf dem Markt oder im Dorf zu Wort kommen.
 
@@ -749,7 +748,7 @@ sind Reportagen, in denen Leute auf der Straße, auf dem Markt oder im Dorf zu W
 
 Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) nach [Θεσσαλονίκη]{lang="el"},
 [Σέρρες]{lang="el"} oder [Κοζάνη]{lang="el"} ein Interview, in dem jemand sagt, er komme aus dem
-Norden. Oder such auf [ERTflix](https://www.ertflix.gr) eine Reportage von ΕΡΤ3 mit Leuten auf
+Norden. Oder such auf [ERTflix](https://www.ertflix.gr) eine Reportage von [ΕΡΤ3]{lang="el"} mit Leuten auf
 der Straße, nicht den Nachrichtensprecher. Nimm zwei bis drei Minuten einer Person (Merkmale:
 @sec-thess-norden).
 
@@ -878,9 +877,8 @@ Viertel; Zehntausende wurden obdachlos. Dass die Muslime der Stadt „gingen“,
 mussten gehen, im Bevölkerungsaustausch, den Griechenland und die Türkei 1923 vereinbarten. Das
 Datum von 1912 folgt dem damals in Griechenland geltenden julianischen Kalender (gregorianisch der
 8. November). Zur Deportation 1943 nennen Quellen rund 44 000 bis 49 000 Deportierte; nur wenige
-Hundert bis knapp 2 000 überlebten. Einen Überblick gibt das Jüdische Museum Thessaloniki.
+Hundert bis knapp 2000 überlebten. Einen Überblick gibt das Jüdische Museum Thessaloniki.
 :::
-
 
 ::: {.callout-note collapse="true" .vocab-text}
 ## Wortschatz zum Text
@@ -947,7 +945,7 @@ Architekten neu geplant.
 1922 und 1923 kamen Zehntausende Flüchtlinge aus Kleinasien, während die Muslime der Stadt in die
 Türkei gingen. Und 1943 deportierten die Deutschen fast die ganze jüdische Gemeinde der Stadt nach
 Auschwitz. Von den etwa fünfzigtausend Juden Thessalonikis kamen nur sehr wenige zurück. Auf dem
-Freiheitsplatz, wo die Besatzer im Juli 1942 Tausende jüdische Männer zusammentrieben und
+Eleftherias-Platz, wo die Besatzer im Juli 1942 Tausende jüdische Männer zusammentrieben und
 demütigten, steht ein Mahnmal.
 
 Heute ist die Egnatia eine Straße voller Verkehr und Studenten. Mir aber gefällt es, sie am
@@ -1001,20 +999,20 @@ Plusquamperfekt steckt im Absatz über 1430; eine Doppelung hat ein starkes Pron
 [που]{lang="el"} (viermal), [η οποία, οι οποίοι]{lang="el"}, [όπου]{lang="el"}. Oft übersehen: [στέκεται]{lang="el"} ist Mediopassiv, aber Präsens; [κουραστείς]{lang="el"} ist die
 Form ohne [θα]{lang="el"} nach [αν]{lang="el"}.
 
-**C:** [eɣnaˈtia], [aftoˈkratora], [konstandiˈnupoli] mit [nd], [eteroθaˈlis], betont auf der
+**C:** [eɣnaˈtia], [aftoˈkratora], [konstadiˈnupoli], [eteroθaˈlis], betont auf der
 letzten Silbe.
 :::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [ιδρύω, ίδρυσα; ιδρύθηκα]{lang="el"} | [iˈðrio], [ˈiðrisa]; [iˈðriθika] | gründen; gegründet werden |
+| [ιδρύω, ίδρυσα, ιδρύθηκα]{lang="el"} | [iˈðrio], [ˈiðrisa], [iˈðriθika] | gründen; gegründet werden |
 | [ο αυτοκράτορας]{lang="el"} | [o aftoˈkratoras] | der Kaiser |
 | [σημερινός, -ή, -ό]{lang="el"} | [simeriˈnos] | heutig |
 | [το κέντρο]{lang="el"} | [to ˈcedro] | die Mitte; die Innenstadt |
 | [η κοινότητα]{lang="el"} | [i ciˈnotita] | die Gemeinde, Gemeinschaft |
 | [ο Εβραίος, η Εβραία]{lang="el"} | [o evˈreos], [i evˈrea] | der Jude, die Jüdin |
-| [διώχνω, έδιωξα; διώχτηκα]{lang="el"} | [ˈðʝoxno], [ˈeðʝoksa]; [ˈðʝoxtika] | vertreiben, wegjagen; vertrieben werden |
+| [διώχνω, έδιωξα, διώχτηκα]{lang="el"} | [ˈðʝoxno], [ˈeðʝoksa], [ˈðʝoxtika] | vertreiben, wegjagen; vertrieben werden |
 | [το μνημείο]{lang="el"} | [to mniˈmio] | das Denkmal, Mahnmal |
 | [η κίνηση]{lang="el"} | [i ˈcinisi] | der Verkehr; die Bewegung |
 :::
