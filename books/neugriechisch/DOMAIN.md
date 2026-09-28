@@ -137,7 +137,7 @@ Vergangenheit aber kaum:
   [x] (*ach*) und [ç] (*ich*) für χ. Deutschsprachige haben es beim Kasussystem leichter als
   Englischsprachige (eE).
 - **Spanisch:** Pro-Drop, Klitikreihenfolge (*me lo dio* = [μου το έδωσε]{lang="el"}), Enklise
-  am Imperativ (*dámelo* ≈ [δώσ' μου το]{lang="el"}), *a mí me gusta* ≈
+  am Imperativ (*dámelo* ≈ [δώσε μού το, δώσ’ το μου]{lang="el"}), *a mí me gusta* ≈
   [εμένα μου αρέσει]{lang="el"}, getipptes r, [ɣ] wie in *agua*, [ð] wie in *nada*, im
   kastilischen Spanisch [θ] wie in *cinco*, Unterscheidung *imperfecto/indefinido*, doppelte
   Verneinung (*no vino nadie* = [δεν ήρθε κανείς]{lang="el"}) (eE, Formen nach [HMP-CG]).
@@ -279,7 +279,7 @@ Vergangenheit aber kaum:
 ### 6. Schwache Pronomen (Klitika)
 
 - Stellung **vor** dem finiten Verb ([το ξέρω]{lang="el"}, [δεν το ξέρω]{lang="el"},
-  [θα το κάνω]{lang="el"}), **nach** Imperativ und Gerundium ([δώσ' μου το]{lang="el"},
+  [θα το κάνω]{lang="el"}), **nach** Imperativ und Gerundium ([δώσε μού το / δώσ’ το μου]{lang="el"},
   [λέγοντάς το]{lang="el"}); Reihenfolge indirekt vor direkt ([μου το έδωσε]{lang="el"})
   [HMP-CG]. Spanisch ist der beste Vergleich; Französisch führt in der 3. Person in die Irre
   (*je le lui donne*) (eE).

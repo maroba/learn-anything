@@ -44,7 +44,7 @@
 ## Transliteration
 
 - Keine Transliteration als Aussprachehilfe.
-- Lateinschrift nur für Eigen- und Ortsnamen, nach ELOT 743 (*Thessaloniki*, *Chania*). **Eingebürgerte deutsche Namen haben Vorrang** (*Athen*, *Neapel*, *Mykene*, *Ithaka*, *Troja*, *Patras*, *Polyphem*); in etymologischen Vergleichen die eingebürgerte deutsche Form (*Philosophie*).
+- Lateinschrift nur für Eigen- und Ortsnamen, nach ELOT 743 (*Thessaloniki*, *Chania*). **Eingebürgerte deutsche Namen haben Vorrang** (*Athen*, *Neapel*, *Mykene*, *Ithaka*, *Troja*, *Patras*, *Polyphem*); in etymologischen Vergleichen die eingebürgerte deutsche Form (*Philosophie*). **Personen mit international etablierter Eigenschreibung:** diese Form (*Manos Hadjidakis*, *Michael Cacoyannis*, *Nana Mouskouri*), beim ersten Auftreten ggf. griechisch in Klammern.
 
 ## Grammatikbegriffe
 
