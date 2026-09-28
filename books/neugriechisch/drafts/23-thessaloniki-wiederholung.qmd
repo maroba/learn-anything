@@ -1,0 +1,618 @@
+---
+title: "Thessaloniki und Zwischenbilanz"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+Aus Kapitel 8 und 21:
+
+- **„Wem?“ im Genitiv:** [σου λέω, μου δίνει, του έστειλα]{lang="el"}. Nur wenige Verben nehmen
+  den Akkusativ: [σε ευχαριστώ, να σε βοηθήσω;]{lang="el"} (Kapitel 8).
+- **Schwache Vokale:** Unbetontes [i] und [u] zwischen Konsonanten wird im schnellen Sprechen leise
+  oder fällt weg, [ευχαριστώ]{lang="el"} klingt dann [efxarˈsto]. Die betonte Silbe bleibt fast
+  immer (Kapitel 21).
+
+Beides kündigte „im Norden“ als Thema dieses Kapitels an. Hier ist der Norden.
+:::
+
+## Bougatsa um halb acht {#sec-thess-einstieg}
+
+Thessaloniki, ein Werktag, halb acht. In einem kleinen Laden nahe der Kamara, dem römischen
+Triumphbogen, stehen Bauarbeiter, Studentinnen und Leute im Anzug an derselben Theke. Eine Frau
+aus Athen ist zum ersten Mal hier. Hinter der Theke ein Mann um die sechzig, Mehl an den Unterarmen.
+
+::: {lang="el"}
+— Καλημέρα. Μια μπουγάτσα, παρακαλώ.
+
+— Καλημέρα, κοπέλα μου. Με κρέμα, με τυρί, με κιμά ή με σπανάκι; Τι να σε βάλω;
+
+— Με κρέμα. Με κιμά; Μπουγάτσα με κιμά δεν έχω φάει ποτέ.
+
+— Τότε δεν έχεις φάει μπουγάτσα. Από την Αθήνα είσαι, ε;
+
+— Πώς το καταλάβατε;
+
+— Από τον τρόπο που μιλάς.
+
+— Εγώ; Εσείς εδώ τα λάμδα τα λέτε αλλιώς.
+
+— Εμείς τα λέμε σωστά. Ορίστε. Ζάχαρη και κανέλα;
+
+— Κανέλα; Πάνω στην κρέμα;
+
+— Έτσι τρώγεται εδώ η μπουγάτσα, σε λέω. Όπως την έφτιαχνε ο παππούς μου. Ήρθε από τη
+Μικρά Ασία το ’22 κι άνοιξε το μαγαζί το ’30. Το φύλλο το ανοίγουμε με το χέρι, κάθε πρωί από τις
+πέντε.
+
+— Από τις πέντε; Πρέπει να είστε πολύ κουρασμένος.
+
+— Αν ξυπνάς στις πέντε σαράντα χρόνια, δεν κουράζεσαι πια. Φάε όσο είναι ζεστή. Κι αύριο
+έλα να δοκιμάσεις και με κιμά.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Guten Morgen. Eine Bougatsa, bitte.
+
+— Guten Morgen, junge Frau. Mit Creme, mit Käse, mit Hackfleisch oder mit Spinat? Was darf ich
+dir geben?
+
+— Mit Creme. Mit Hackfleisch? Bougatsa mit Hackfleisch hab ich noch nie gegessen.
+
+— Dann hast du noch nie Bougatsa gegessen. Du bist aus Athen, stimmt's?
+
+— Woran haben Sie das gemerkt?
+
+— An der Art, wie du sprichst.
+
+— Ich? Ihr hier sprecht das L anders aus.
+
+— Wir sprechen es richtig aus. Bitte schön. Zucker und Zimt?
+
+— Zimt? Auf die Creme?
+
+— So isst man hier die Bougatsa, sag ich dir. So, wie mein Großvater sie gemacht hat. Er
+kam '22 aus Kleinasien und hat den Laden '30 aufgemacht. Den Teig ziehen wir von Hand aus, jeden
+Morgen ab fünf.
+
+— Ab fünf? Sie müssen sehr müde sein.
+
+— Wenn du vierzig Jahre um fünf aufstehst, wirst du nicht mehr müde. Iss, solange sie warm ist.
+Und komm morgen und probier sie auch mit Hackfleisch.
+:::
+
+Die Kundin findet, dass man in Thessaloniki anders spricht; der Mann findet, dass man in Athen
+anders spricht. Beide haben recht, und wer einen Akzent hat, sind immer die anderen.
+
+Grammatisch ist der kurze Wortwechsel eine Zusammenfassung von Teil II. Jede Zeile enthält
+etwas, das du in den letzten zehn Kapiteln gelernt hast:
+
+| im Text | was es ist | Kapitel |
+|---|---|---|
+| [δεν έχω φάει ποτέ]{lang="el"} | Perfekt für Erfahrung | 14 |
+| [ο τρόπος που μιλάς]{lang="el"} | Relativsatz mit [που]{lang="el"} | 15 |
+| [τα λάμδα τα λέτε, το φύλλο το ανοίγουμε]{lang="el"} | Doppelung: Objekt als Überschrift | 20 |
+| [η μπουγάτσα τρώγεται]{lang="el"} | Mediopassiv, passiv: „wird gegessen“ | 13 |
+| [το ’22, κι άνοιξε]{lang="el"} | gesprochene Kurzformen | 21 |
+| [πρέπει να είστε κουρασμένος]{lang="el"} | Vermutung („wohl“) + Partizip | 22, 19 |
+| [αν ξυπνάς …, δεν κουράζεσαι]{lang="el"} | realer Bedingungssatz, allgemeine Regel | 17 |
+| [όσο είναι ζεστή]{lang="el"} | [όσο]{lang="el"} „solange“ + Präsens | 17 |
+
+Zwei Stellen passen nicht in diese Tabelle: [Τι να σε βάλω;]{lang="el"} und [σε
+λέω]{lang="el"}. Im Standard hieße es [σου βάλω, σου λέω]{lang="el"}. Das ist kein Tippfehler,
+sondern Thessaloniki (@sec-thess-akkusativ). Die ▶-Aufnahme liest es so, wie es dasteht. Wie der
+Mann das [λ]{lang="el"} ausspricht, hörst du dort allerdings nicht; die Synthesestimme spricht
+Athener Standard.
+
+### Was man in Thessaloniki isst {#sec-thess-kueche}
+
+Die **[μπουγάτσα]{lang="el"}** ist dünner Teig, [το φύλλο]{lang="el"}, geschichtet und gefüllt,
+im Ofen gebacken und am Tisch in Stücke geschnitten. Süß mit Grießcreme, darüber Puderzucker
+und Zimt; salzig mit Schafskäse, Hackfleisch oder Spinat. Man isst sie zum Frühstück, und zwar
+früh: Viele Läden öffnen, wenn es noch dunkel ist, und manche schließen, sobald die Bleche
+leer sind.
+
+Der Name hat eine Reise hinter sich. Er kommt, über türkisch [*poğaça*]{lang="tr"}, von
+italienisch [*focaccia*]{lang="it"}, und das von lateinisch [*focus*]{lang="la"} „Herd“:
+„Herdbrot“. Dieselbe Wurzel steckt in spanisch [*hogaza*]{lang="es"} und französisch
+[*fougasse*]{lang="fr"}. Aus Brot wurde auf dem Weg nach Osten Blätterteig, das Wort blieb.
+<!-- CHECK: Etymologie μπουγάτσα < türk. poğaça < ital. focaccia < lat. focacia (panis) / focus; span. hogaza und frz. fougasse aus derselben Wurzel. -->
+
+Viele Bougatsa-Läden der Stadt wurden von Flüchtlingen aus Kleinasien und Konstantinopel
+gegründet, die nach 1922 kamen; der Großvater aus dem Dialog ist erfunden, aber nicht untypisch.
+<!-- CHECK: Rolle der Flüchtlinge von 1922/23 für die Bougatsa-Tradition Thessalonikis; nicht als „Erfindung“ darstellen, Bougatsa gab es in Makedonien wohl schon in osmanischer Zeit. -->
+
+Zwei weitere Klassiker: Das **[κουλούρι Θεσσαλονίκης]{lang="el"}**, den Sesamkringel aus
+Kapitel 1, verkaufen Händler an Straßenecken aus Glaskästen; selbst in Athen heißt er oft nach
+Thessaloniki. Und die **[τρίγωνα Πανοράματος]{lang="el"}**, „Dreiecke aus Panorama“: knusprige
+Teigtüten, prall gefüllt mit Creme, benannt nach dem Vorort Panorama oberhalb der Stadt, wo eine
+Konditorei sie in den 1960er-Jahren erfunden haben soll. Sie sind so süß, dass eines genügt; die
+meisten nehmen trotzdem zwei.
+<!-- CHECK: Trigona Panoramatos – Herkunft aus einer Konditorei in Panorama, Jahrzehnt der Entstehung. -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η μπουγάτσα]{lang="el"} | [i buˈɣatsa] | die Bougatsa (gefüllter Filoteig) |
+| [η κρέμα]{lang="el"} | [i ˈkrema] | die Creme (auch Pudding, Hautcreme) |
+| [ο κιμάς]{lang="el"} | [o ciˈmas] | das Hackfleisch |
+| [το σπανάκι]{lang="el"} | [to spaˈnaci] | der Spinat |
+| [η κανέλα]{lang="el"} | [i kaˈnela] | der Zimt |
+| [το φύλλο]{lang="el"} | [to ˈfilo] | das Blatt; der Filoteig |
+| [ο τρόπος]{lang="el"} | [o ˈtropos] | die Art, die Weise |
+| [κουράζομαι, κουράστηκα]{lang="el"} | [kuˈrazome], [kuˈrastika] | müde werden, sich anstrengen |
+| [το τρίγωνο]{lang="el"} | [to ˈtriɣono] | das Dreieck |
+| [το σουσάμι]{lang="el"} | [to suˈsami] | der Sesam |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [κοπέλα μου]{lang="el"} | (Anrede) junge Frau, meine Liebe (umg., freundlich) |
+| [τα λάμδα]{lang="el"} | die L (Buchstabenname, unveränderlich) |
+| [τρώγεται]{lang="el"} | wird gegessen (Mediopassiv von [τρώω]{lang="el"}) |
+| [η Μικρά Ασία]{lang="el"} | Kleinasien |
+| [ανοίγω φύλλο]{lang="el"} | Teig ausrollen, ausziehen |
+| [η Καμάρα]{lang="el"} | die Kamara, der Galeriusbogen |
+:::
+
+## Wie Thessaloniki klingt {#sec-thess-norden}
+
+Thessaloniki ist mit rund einer Million Menschen im Großraum die zweite Stadt Griechenlands; die
+Griechen nennen sie [η συμπρωτεύουσα]{lang="el"}, „die Mit-Hauptstadt“. Wer von hier kommt, spricht
+Standardgriechisch, mit ein paar Eigenheiten, die man in Athen sofort bemerkt und gern parodiert.
+Auf dem Land in Makedonien und Thrakien, besonders bei Älteren, sind dieselben Merkmale viel
+stärker; dort spricht man von einer „schweren“ Aussprache, [βαριά προφορά]{lang="el"}.
+
+Ziel dieses Abschnitts ist **Erkennen**, nicht Nachmachen. Selbst sprichst du weiter Standard,
+wie er in den Nachrichten und in Athen gesprochen wird. Aber wer im Norden reist oder Filme sieht,
+die dort spielen, hört drei Dinge.
+
+<!-- CHECK: Einwohnerzahl Großraum Thessaloniki (ca. 1 Mio.) und Bezeichnung συμπρωτεύουσα. -->
+
+### Das dunkle [λ]{lang="el"} {#sec-thess-lambda}
+
+Das Merkmal, über das die Kundin im Dialog stolpert, ist das „dicke L“, [το παχύ λάμδα]{lang="el"}.
+Vor [a], [o] und [u] hebt sich dabei der hintere Teil der Zunge zum Gaumen, und das [l] klingt
+dunkel, fast hohl. Du kennst den Laut aus dem Englischen: das *l* in *full* oder *milk*, im
+Unterschied zum hellen *l* in *leaf*. Die Lautschrift schreibt ihn [ɫ]: [ˈɫaθos] für
+[λάθος]{lang="el"}, [poˈɫa] für [πολλά]{lang="el"}, [ˈmiɫuse] für [μιλούσε]{lang="el"}. Vor
+[e] und [i] bleibt es meist hell.
+
+Das [λ]{lang="el"} in Athen ist hell, wie im Deutschen. Nachsprechen musst du das dunkle nicht;
+aber wenn dir in einem Interview ein [λ]{lang="el"} ungewöhnlich „englisch“ vorkommt, hast du einen
+Hinweis darauf, woher der Mensch kommt.
+
+<!-- CHECK: Beschreibung des „παχύ λ“ als velarisiertes [ɫ] vor hinteren Vokalen; Verbreitung in der Stadtsprache Thessalonikis. -->
+
+### Vokale, die fehlen {#sec-thess-vokale}
+
+Die Verschleifung aus Kapitel 21, das leise unbetonte [i] und [u], ist im Norden keine Frage
+des Tempos, sondern Regel. Dazu kommt eine zweite Verschiebung: Unbetontes [e] rückt Richtung
+[i], unbetontes [o] Richtung [u]. Zusammen ergibt das Wörter, die im Hörbild eine Silbe kürzer
+sind:
+
+| Schriftbild | Standard | Hörbild Norden | was passiert |
+|---|---|---|---|
+| [σπίτι]{lang="el"} | [ˈspiti] | [spit] | [i] fällt |
+| [βουνό]{lang="el"} | [vuˈno] | [vno] | [u] fällt |
+| [καλημέρα]{lang="el"} | [kaliˈmera] | [kalˈmera] | [i] fällt |
+| [παιδί]{lang="el"} | [peˈði] | [piˈði] | [e] → [i] |
+| [θέλω]{lang="el"} | [ˈθelo] | [ˈθelu] | [o] → [u] |
+| [κορίτσι]{lang="el"} | [koˈritsi] | [kuˈrits] | beides |
+
+Die rechte Spalte zeigt das „schwere“ Nordgriechisch der Dörfer. In der Stadt hörst du meist nur
+den ersten Teil: [i] und [u] werden verschluckt, [e] und [o] bleiben.
+
+Die Strategie aus Kapitel 21 funktioniert hier besonders gut: **Such die betonte Silbe.** Sie
+bleibt immer, samt ihrem Vokal. [kuˈrits] hat das [ˈri] von [κορίτσι]{lang="el"}, [vno] das
+[ˈno] von [βουνό]{lang="el"}. Und [ˈθelu na ˈfiɣu] ist mit zwei [u] statt [o] immer noch
+[θέλω να φύγω]{lang="el"}, „ich will gehen“.
+
+<!-- CHECK: Beispiele für nordgriechische Vokalhebung und -tilgung (σπίτι → [spit], βουνό → [vno], καλημέρα → [kalˈmera], παιδί → [piˈði], θέλω → [ˈθelu], κορίτσι → [kuˈrits]) und die Aussage, dass die Stadtsprache Thessalonikis vor allem die Tilgung von [i u] zeigt, die Hebung von [e o] kaum. -->
+
+### [Σε λέω]{lang="el"}: Akkusativ statt Genitiv {#sec-thess-akkusativ}
+
+Das dritte Merkmal ist grammatisch und darum auch geschrieben sichtbar, etwa in Chats und
+Kommentaren. Wo der Standard für „wem?“ den Genitiv nimmt, steht im Norden der Akkusativ:
+
+| Norden | Standard | Deutsch |
+|---|---|---|
+| [σε λέω]{lang="el"} | [σου λέω]{lang="el"} | ich sage dir |
+| [με είπε]{lang="el"} | [μου είπε]{lang="el"} | er hat mir gesagt |
+| [τι να σε βάλω;]{lang="el"} | [τι να σου βάλω;]{lang="el"} | was darf ich dir geben? |
+| [με αρέσει]{lang="el"} | [μου αρέσει]{lang="el"} | mir gefällt |
+| [τον έδωσα]{lang="el"} | [του έδωσα]{lang="el"} | ich habe ihm gegeben |
+
+Die letzte Zeile zeigt, wo es fürs Verstehen hakt: [τον έδωσα]{lang="el"} kann im Norden „ich
+habe **ihm** gegeben“ heißen und im Standard nur „ich habe **ihn** gegeben“. Wer „gegeben“ wurde,
+verrät dann der Zusammenhang. Bei [με]{lang="el"} und [σε]{lang="el"} ist es leichter: Sagen,
+geben, bringen haben eine Sache als Objekt, also ist die Person das „wem“.
+
+Diese Form hat übrigens eine lange Geschichte. Der alte Dativ ist im Mittelalter verschwunden, und
+seine Aufgabe übernahm im Süden der Genitiv, im Norden der Akkusativ; der Standard ist dem Süden
+gefolgt. Aus Athener Sicht ist [σε λέω]{lang="el"} darum ein „Fehler“, aus Sicht der
+Sprachgeschichte eine von zwei Lösungen.
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Alle drei Merkmale sind **Tendenzen**. Nicht jeder in Thessaloniki spricht so, viele Jüngere
+kaum, und dieselbe Person spricht in einem Interview anders als am Küchentisch. Die Beschreibung
+hier ist stark vereinfacht; wer tiefer einsteigen will, findet einen Überblick in Peter Trudgills
+Aufsatz zur Einteilung der neugriechischen Dialekte (2003, *Journal of Greek Linguistics*).
+:::
+
+<!-- CHECK: Sprachgeschichtliche Aussage zu Dativschwund und Nord-Akkusativ/Süd-Genitiv; Literaturangabe Trudgill 2003, „Modern Greek dialects: a preliminary classification“, Journal of Greek Linguistics 4. -->
+
+<!-- EXERCISE: nordgriechische Aussprache erkennen; Hörbild (IPA, Schriftbild mit ausgefallenen/gehobenen Vokalen) auf die Standardform zurückführen, Wörter und kurze Sätze aus dem Wortschatz der Kapitel 13–22; mit Frage, woran man die betonte Silbe erkennt; keine Aufnahme nötig, 2 -->
+
+<!-- EXERCISE: nördlichen Akkusativ erkennen; Sätze wie „Σε είπα να μην αργήσεις“, „Τον έδωσα το κλειδί“, „Με αρέσει η Θεσσαλονίκη“ in Standard umformen und sagen, ob das Pronomen „wem“ oder „wen“ meint; dazu zwei Sätze, die auch im Standard richtig sind (σε ευχαριστώ, σε βοηθάω) als Falle; Auswählen/Umformen laut, 1–2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η προφορά]{lang="el"} | [i profoˈra] | die Aussprache; der Akzent |
+| [η διάλεκτος]{lang="el"} | [i ðiˈalektos] | der Dialekt (weiblich auf [-ος]{lang="el"}) |
+| [βαρύς, βαριά, βαρύ]{lang="el"} | [vaˈris], [vaˈrʝa], [vaˈri] | schwer; [βαριά προφορά]{lang="el"} starker Akzent |
+| [η συμπρωτεύουσα]{lang="el"} | [i simbroˈtevusa] | Beiname Thessalonikis, „Mit-Hauptstadt“ |
+:::
+
+## Zwischenbilanz: Teil II auf einen Blick {#sec-thess-bilanz}
+
+Mit Kapitel 22 ist Teil II abgeschlossen. Hier steht er in drei Tabellen zum Nachschlagen,
+ohne neuen Stoff; wo etwas wackelt, steht dabei, wo es erklärt ist.
+
+### Das Verb {#sec-thess-bilanz-verb}
+
+| Form | Beispiel | Kapitel |
+|---|---|---|
+| Mediopassiv, Präsens | [γράφεται, βρίσκεται]{lang="el"} | 13 |
+| Mediopassiv, Imperfekt | [γραφόταν, βρισκόταν]{lang="el"} | 13 |
+| Mediopassiv, Aorist | [γράφτηκε, βρέθηκε]{lang="el"}, kein Augment | 13 |
+| Mediopassiv, [θα]{lang="el"}/[να]{lang="el"}, Foto | [θα γραφτεί, να βρεθεί]{lang="el"} | 13 |
+| Perfekt | [έχω γράψει, έχει βρεθεί]{lang="el"} | 14 |
+| Plusquamperfekt | [είχα γράψει]{lang="el"} | 14 |
+| Partizip | [γραμμένος, κουρασμένος]{lang="el"} | 19 |
+| Gerundium | [γράφοντας, περπατώντας]{lang="el"} | 19 |
+
+Die Form auf [-ει]{lang="el"} nach [έχω]{lang="el"} ist dieselbe wie nach [θα]{lang="el"} im
+Foto ([θα γράψει → έχει γράψει]{lang="el"}); das Partizip kommt vom Mediopassiv-Aorist
+([γράφτηκα → γραμμένος]{lang="el"}), das Gerundium vom imperfektiven Stamm ([γράφω →
+γράφοντας]{lang="el"}). Wer diese drei Wege kennt, kann fast jede Form von Teil II selbst
+herleiten.
+
+### Sätze verbinden {#sec-thess-bilanz-saetze}
+
+| Aufgabe | Beispiel | Kapitel |
+|---|---|---|
+| Relativsatz | [η ταινία που είδαμε]{lang="el"}; [το σπίτι στο οποίο μένω]{lang="el"} | 15 |
+| „dass“ | [είπε ότι έρχεται]{lang="el"} · [μου είπε να έρθω]{lang="el"} · [χαίρομαι που ήρθες]{lang="el"} | 16, 18 |
+| Zweck, vorher, bis | [για να βρει, πριν φύγει, μέχρι να έρθει]{lang="el"} | 16 |
+| Bedingung | [αν βρεις δουλειά, θα μείνεις]{lang="el"} | 17 |
+| Zeitsatz mit Zukunft | [όταν φτάσω, θα σε πάρω]{lang="el"} | 16, 17 |
+| indirekte Frage | [ρώτησε αν θα έρθει / πού μένω]{lang="el"} | 18 |
+| Vermutung | [πρέπει να έφυγε, μπορεί να βρέχει]{lang="el"} | 22 |
+
+### Nachdruck und Tempo {#sec-thess-bilanz-nachdruck}
+
+- **Starke Pronomen + schwache** (Kapitel 20): [Εμένα μου αρέσει.]{lang="el"}
+  [Για μένα …]{lang="el"}
+- **Doppelung** (Kapitel 20): [Το βιβλίο το διάβασα.]{lang="el"} Das Objekt ist die Überschrift,
+  das schwache Pronomen das Echo.
+- **Kurzformen und Sandhi** (Kapitel 21): [το ’χω δει, θα ’ρθει, τον πατέρα]{lang="el"}
+  [tom baˈtera].
+
+::: {.callout-important}
+## Merke
+
+**Wo kein [θα]{lang="el"} steht:** nach [αν]{lang="el"} in der Bedingung, nach
+[όταν, μόλις, αφού, πριν]{lang="el"} mit Zukunftsbezug, nach [να]{lang="el"}. Dort steht die
+perfektive Form allein: [αν βρέξει, όταν φτάσω, να έρθει]{lang="el"}. Einzige häufige Ausnahme:
+[αν]{lang="el"} als „ob“ ([δεν ξέρω αν θα έρθει]{lang="el"}).
+
+**Wo die Zeit stehen bleibt:** In der indirekten Rede behält das Verb die Zeit des Originals
+([Είπε ότι είναι κουρασμένος.]{lang="el"}). Nach [πρέπει να, μπορεί να]{lang="el"} als Vermutung
+darf eine Vergangenheit stehen ([πρέπει να έφυγε]{lang="el"}), nach [θέλω να, μπορώ να]{lang="el"}
+nicht.
+:::
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+**Die häufigsten Stolpersteine von Teil II:**
+
+1. **Augment im Mediopassiv:** \*[εγράφτηκε]{lang="el"} statt [γράφτηκε]{lang="el"}. Der
+   Mediopassiv-Aorist hat keins (Kapitel 13).
+2. **Die Perfekt-Falle mit Zeitstempel:** \*[Έχω πάει στη Θεσσαλονίκη πέρσι.]{lang="el"} Mit
+   „letztes Jahr“ steht der Aorist: [Πήγα …]{lang="el"} (Kapitel 14).
+3. **Präposition vor [που]{lang="el"}:** \*[το σπίτι σε που μένω]{lang="el"}; richtig
+   [το σπίτι που μένω]{lang="el"} oder [στο οποίο μένω]{lang="el"} (Kapitel 15).
+4. **[θα]{lang="el"} nach [όταν]{lang="el"}:** [όταν θα φτάσω]{lang="el"} hört man, Standard ist
+   [όταν φτάσω]{lang="el"} (Kapitel 16, 17).
+5. **Aufforderung mit [ότι]{lang="el"}:** \*[Μου είπε ότι να έρθω.]{lang="el"} Aufforderungen
+   nehmen nur [να]{lang="el"} (Kapitel 16, 18).
+6. **Gerundium als Nomen:** \*[Το περπατώντας είναι υγιεινό.]{lang="el"} Das Gerundium sagt
+   „wie, während“; „das Gehen“ ist [το περπάτημα]{lang="el"} (Kapitel 19).
+7. **Starkes Pronomen allein:** \*[Εμένα αρέσει.]{lang="el"} Das schwache bleibt:
+   [Εμένα μου αρέσει.]{lang="el"} (Kapitel 20).
+8. **[μπορώ]{lang="el"} statt [μπορεί]{lang="el"}:** \*[Μπορώ να βρέξει.]{lang="el"} „Vielleicht“
+   ist immer [μπορεί να]{lang="el"}, unveränderlich (Kapitel 22).
+:::
+
+<!-- EXERCISE: Formen von Teil II bilden; zwei bis drei Verben (z.B. χτίζω, καίω, ανοίγω) durch Mediopassiv-Präsens/-Aorist/-Futur, Perfekt, Plusquamperfekt, Partizip, Gerundium, jeweils in einem kurzen Satz zum Thema Thessaloniki laut sagen; Formen bilden, 2 -->
+
+<!-- EXERCISE: Fehler finden quer durch Teil II (Kapitel 13–22), zehn bis zwölf Sätze mit höchstens einem Fehler, dazu ein bis zwei fehlerfreie; Fehler benennen, Satz richtig sagen, Kapitel nennen (Format wie Übung 12.5); Stolpersteine aus der Wiederholungsbox gezielt einbauen, dazu je ein nordgriechischer Akkusativ (σε λέω) als „regional, kein Fehler im Norden, im Standard falsch“; 2–3 -->
+
+<!-- EXERCISE: mündlich übersetzen Deutsch → Griechisch, acht bis zehn natürliche Sätze rund um einen Besuch in Thessaloniki, die jeweils zwei Themen von Teil II mischen (z.B. „Wenn du nach Thessaloniki kommst, musst du die Bougatsa probieren, die man bei der Kamara verkauft“; „Sie sagte, dass der Laden 1930 eröffnet worden war“; „Mir gefällt die Rotunde, dir gefällt der Weiße Turm“); Lösung mit Varianten und typischen Fehlern; 3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [το περπάτημα]{lang="el"} | [to perˈpatima] | das Gehen, Spazierengehen |
+| [υγιεινός, -ή, -ό]{lang="el"} | [iʝiiˈnos] | gesund (Essen, Lebensweise) |
+:::
+
+## Hörspur: Stimmen aus dem Norden {#sec-thess-hoerspur}
+
+Zuerst eine Stadtführung am Wasser, gesprochen von den Stimmen des Buchs, also in Athener
+Standard. Sie bündelt noch einmal Teil II. Erst hören, dann lesen:
+
+::: {lang="el" .listen}
+— Φτάσαμε στον Λευκό Πύργο, το σύμβολο της πόλης. Τον έχτισαν οι Οθωμανοί, μάλλον τον δέκατο
+πέμπτο αιώνα. Για πολλά χρόνια ήταν φυλακή, και λένε ότι τότε τον έλεγαν «Πύργο του Αίματος».
+
+— Και γιατί «Λευκό»; Εμένα μου φαίνεται γκρι.
+
+— Έχετε δίκιο. Στα τέλη του δέκατου ένατου αιώνα τον έβαψαν άσπρο, για να ξεχαστεί το παλιό
+όνομα. Το χρώμα έχει φύγει εδώ και χρόνια, αλλά το όνομα έμεινε.
+
+— Μπορούμε να ανεβούμε;
+
+— Φυσικά, σήμερα είναι μουσείο. Αν ανεβείτε ως πάνω, θα δείτε όλη την παραλία. Κι όταν
+κατεβείτε, ελάτε να σας δείξω πού τρώμε την καλύτερη μπουγάτσα της πόλης.
+:::
+
+<!-- EXERCISE: Hörverstehen der Stadtführung (.listen) mit ▶, zweimal ohne Text: Wer hat den Turm gebaut, wie hieß er früher, warum „weiß“, ist er heute weiß, was kann man oben sehen; dazu Formen erkennen (Passiv-να-Form ξεχαστεί, Perfekt έχει φύγει, λένε ότι als indirekte Rede, εμένα μου, αν/όταν ohne θα); Lösung darf nicht an Aussprachemerkmale der Synthese gebunden sein; 2 -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Wir sind am Weißen Turm angekommen, dem Wahrzeichen der Stadt. Gebaut haben ihn die Osmanen,
+wahrscheinlich im 15. Jahrhundert. Lange Zeit war er ein Gefängnis, und damals, so heißt es, nannte
+man ihn „Blutturm“.
+
+— Und warum „weiß“? Mir kommt er grau vor.
+
+— Da haben Sie recht. Ende des 19. Jahrhunderts hat man ihn weiß gestrichen, damit der alte Name in
+Vergessenheit gerät. Die Farbe ist seit Jahren weg, aber der Name ist geblieben.
+
+— Können wir hinaufsteigen?
+
+— Natürlich, heute ist er ein Museum. Wenn Sie bis oben hinaufgehen, sehen Sie die ganze
+Uferpromenade. Und wenn Sie herunterkommen, zeige ich Ihnen, wo wir die beste Bougatsa der Stadt
+essen.
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Baujahr und Namensgeschichte des Weißen Turms sind nicht eindeutig belegt. Die Datierung schwankt
+zwischen dem späten 15. und dem 16. Jahrhundert, und die Geschichte vom „Blutturm“, der weiß
+getüncht wurde, wird überall erzählt, aber die Einzelheiten unterscheiden sich. Die Führerin sagt
+darum [μάλλον]{lang="el"} und [λένε ότι]{lang="el"}.
+:::
+
+<!-- CHECK: Weißer Turm – osmanischer Bau (Datierung 15./16. Jh.), Nutzung als Gefängnis, Name „Kanlı Kule“/Πύργος του Αίματος, Tünchen Ende des 19. Jh. (oft 1890/1891), Tünche heute entfernt, heute Museum. -->
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [ο Λευκός Πύργος]{lang="el"} | der Weiße Turm |
+| [το αίμα, του αίματος]{lang="el"} | das Blut |
+| [βάφω, έβαψα]{lang="el"} | streichen, färben |
+| [ξεχνιέμαι, ξεχάστηκα]{lang="el"} | vergessen werden; sich vergessen |
+| [γκρι]{lang="el"} | grau (unveränderlich) |
+| [ως πάνω]{lang="el"} | bis ganz nach oben |
+:::
+
+Die Stimmen im Buch können dir das dunkle [λ]{lang="el"} oder ein verschlucktes [i] nicht
+vorführen; dafür braucht es Menschen aus dem Norden. Zwei Quellen: Auf
+[Easy Greek](https://www.youtube.com/@EasyGreekVideos) fragen die Interviewer oft
+[Από πού είσαι;]{lang="el"}, und die Antwort sagt dir, auf wen du achten musst. Auf
+[ERTflix](https://www.ertflix.gr) findest du Sendungen von ΕΡΤ3, dem Programm des öffentlichen
+Rundfunks, das aus Thessaloniki sendet. Nachrichtensprecher sprechen dort Standard; ergiebiger
+sind Reportagen, in denen Leute auf der Straße, auf dem Markt oder im Dorf zu Wort kommen.
+
+<!-- EXERCISE: Hör-Auftrag mit nordgriechischen Sprechern: auf Easy Greek (Suche Θεσσαλονίκη, Σέρρες, Κοζάνη o.ä.; Sprecher, die sagen, dass sie aus dem Norden kommen) oder ERTflix (ΕΡΤ3-Reportage mit O-Tönen, nicht Nachrichtensprecher) zwei bis drei Minuten auswählen; Durchgang 1 ohne Untertitel: Strichliste für die drei Merkmale (σε/με + λέω/είπα/δίνω; dunkles λ vor a/o/u; Wörter mit verschlucktem i/u), Durchgang 2 mit griechischen Untertiteln: Funde bestätigen und aufschreiben; Antwort im Chat als Zahlen; Lösung als Auswertungsanleitung ohne feste Werte, ehrlich: manche Sprecher zeigen kaum Merkmale, auch das ist ein Befund; nur die Links https://www.youtube.com/@EasyGreekVideos und https://www.ertflix.gr; 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο πύργος]{lang="el"} | [o ˈpirɣos] | der Turm |
+| [το σύμβολο]{lang="el"} | [to ˈsimvolo] | das Symbol, Wahrzeichen |
+| [παλιός, -ά, -ό]{lang="el"} | [paˈʎos] | alt (Dinge), ehemalig |
+:::
+
+## Das Wichtigste {#sec-thess-wichtigste}
+
+- **Nordgriechisch erkennen**, nicht nachmachen. Drei Tendenzen: das dunkle [λ]{lang="el"} [ɫ]
+  vor [a o u]; unbetontes [i u] fällt weg ([σπίτι]{lang="el"} [spit]), auf dem Land wird
+  außerdem [e o] zu [i u] ([θέλω]{lang="el"} [ˈθelu]); Akkusativ für „wem?“
+  ([σε λέω, με είπε]{lang="el"}). Beim Hören an der betonten Silbe festhalten.
+- **Teil II** in Tabellen: @sec-thess-bilanz. Kernfragen: Wer handelt (Aktiv oder
+  Mediopassiv)? Mit Zeitstempel Aorist, sonst vielleicht Perfekt. Wo steht kein [θα]{lang="el"}?
+  Bleibt die Zeit stehen (indirekte Rede, Vermutung)?
+- **Thessaloniki isst** [μπουγάτσα]{lang="el"} (süß mit [κρέμα]{lang="el"} und
+  [κανέλα]{lang="el"} oder salzig), [κουλούρι]{lang="el"} und [τρίγωνα Πανοράματος]{lang="el"}.
+
+## Zum Lesen: Eine Straße, dreiundzwanzig Jahrhunderte {#sec-thess-lesetext}
+
+Damit ist Teil II abgeschlossen. Du kannst jetzt sagen, was mit etwas geschehen ist, ohne zu
+sagen, wer es getan hat; Erfahrung und Vorzeitigkeit ausdrücken; Sätze mit Relativwörtern und
+Konjunktionen verbinden; wiedergeben, was andere sagen; vermuten, wie sicher etwas ist; und du
+verstehst gesprochene Sprache mit ihren Kurzformen besser. Wenn eine dieser Fragen hakt, hilft
+das Kapitel dahinter:
+
+- Kannst du „Der Laden wurde 1930 eröffnet“ sagen? → Kapitel 13
+- Weißt du, warum „Warst du schon mal in Thessaloniki?“ ein Perfekt verträgt, „Warst du letztes
+  Jahr dort?“ nicht? → Kapitel 14
+- Kannst du „die Stadt, in der ich geboren bin“ auf zwei Arten sagen? → Kapitel 15
+- Kannst du „Sie sagte, ich solle warten“ bilden? → Kapitel 18
+- Kannst du „Er ist wohl schon gegangen“ sagen? → Kapitel 22
+
+Eine Kolumne aus einer Stadtzeitschrift. Sie enthält Stoff aus allen Kapiteln von Teil II. Lies
+sie einmal ganz, ohne nachzuschlagen, dann mit Wortschatz, dann mit ▶.
+
+::: {lang="el"}
+**Μια βόλτα στην Εγνατία**
+
+Αν θέλεις να καταλάβεις τη Θεσσαλονίκη, μην ξεκινήσεις από τον Λευκό Πύργο. Ξεκίνα από την
+Εγνατία, τον μεγάλο δρόμο που τη διασχίζει από τη δύση ως την ανατολή. Περπατώντας τον, περνάς
+μέσα από είκοσι τρεις αιώνες.
+
+Η πόλη ιδρύθηκε το 315 π.Χ. από τον Κάσσανδρο, που κυβερνούσε τότε τη Μακεδονία. Της έδωσε το
+όνομα της γυναίκας του, της Θεσσαλονίκης, η οποία ήταν ετεροθαλής αδερφή του Μεγάλου Αλεξάνδρου.
+Δύο αιώνες αργότερα οι Ρωμαίοι έφτιαξαν έναν δρόμο από την Αδριατική ως το Αιγαίο, την Εγνατία
+Οδό. Η σημερινή Εγνατία, λένε οι αρχαιολόγοι, ακολουθεί περίπου την ίδια γραμμή.
+
+Στη μέση της διαδρομής στέκεται η Καμάρα, η αψίδα του αυτοκράτορα Γαλέριου. Εδώ δίνουν ραντεβού
+οι φοιτητές: «Στην Καμάρα, στις εννιά». Λίγο πιο πάνω είναι η Ροτόντα, ένα στρογγυλό κτίριο που
+χτίστηκε γύρω στο 300 μ.Χ. Ο Γαλέριος πρέπει να την ήθελε για τάφο του, αλλά κανείς δεν το ξέρει
+σίγουρα. Από τότε έχει γίνει εκκλησία, τζαμί και πάλι εκκλησία· τον μιναρέ της τον βλέπεις ακόμα.
+
+Στο Βυζάντιο η Θεσσαλονίκη ήταν η δεύτερη πόλη μετά την Κωνσταντινούπολη. Το 1430 την πήραν οι
+Οθωμανοί, και λίγες δεκαετίες αργότερα έφτασαν χιλιάδες Εβραίοι, οι οποίοι είχαν διωχτεί από την
+Ισπανία. Για τέσσερις αιώνες άκουγες στους δρόμους τα ισπανικά των Εβραίων, τουρκικά, ελληνικά,
+βουλγαρικά.
+
+Στις 26 Οκτωβρίου 1912, ανήμερα του Αγίου Δημητρίου, η πόλη παραδόθηκε στον ελληνικό στρατό.
+Πέντε χρόνια αργότερα μια φωτιά έκαψε μεγάλο μέρος του κέντρου. Γι’ αυτό οι δρόμοι γύρω από την
+πλατεία Αριστοτέλους είναι τόσο ίσιοι: η πόλη ξανασχεδιάστηκε από έναν Γάλλο αρχιτέκτονα.
+
+Το 1922 και το 1923 ήρθαν δεκάδες χιλιάδες πρόσφυγες από τη Μικρά Ασία, ενώ οι μουσουλμάνοι της
+πόλης έφυγαν για την Τουρκία. Και το 1943 οι Γερμανοί έστειλαν σχεδόν όλους τους Εβραίους της
+Θεσσαλονίκης στο Άουσβιτς. Από περίπου πενήντα χιλιάδες, ελάχιστοι γύρισαν. Στην πλατεία
+Ελευθερίας, όπου τον Ιούλιο του 1942 οι κατακτητές είχαν μαζέψει και ταπεινώσει χιλιάδες Εβραίους
+άντρες, στέκεται σήμερα ένα μνημείο.
+
+Εμένα πάντως μου αρέσει να την περπατάω την Κυριακή το πρωί, όταν δεν έχει κίνηση. Τότε ακούς
+την πόλη: καμπάνες, έναν κουλουρά, κάποιον που φωνάζει «Σε λέω, έλα!». Κι αν κουραστείς, μια
+μπουγάτσα σε περιμένει σε κάθε γωνία.
+:::
+
+Drei Stellen zum Lesen:
+
+- **[λένε οι αρχαιολόγοι]{lang="el"}** ist eingeschoben wie das [λέει]{lang="el"} aus Kapitel 18
+  und schafft Abstand: Die Kolumnistin gibt weiter, was andere sagen.
+- **[Εμένα πάντως μου αρέσει να την περπατάω]{lang="el"}:** starkes und schwaches Pronomen für
+  den Gegensatz nach all der Geschichte, [την]{lang="el"} ist [η Εγνατία]{lang="el"} (Kapitel 20).
+- **[«Σε λέω, έλα!»]{lang="el"}:** Die Kolumnistin schreibt Standard, zitiert aber die Stadt, wie
+  sie spricht.
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Die Kolumne vereinfacht. Kassandros herrschte 315 v. Chr. über Makedonien, den Königstitel nahm er
+erst später an. Wie genau die heutige Egnatia-Straße der römischen Straße folgt, ist im Einzelnen
+umstritten. Der Brand von 1917 zerstörte große Teile der Innenstadt, besonders die jüdischen
+Viertel; Zehntausende wurden obdachlos. Zur Deportation 1943 nennen Quellen rund 45 000 bis 50 000
+Deportierte, von denen nur wenige Hundert bis knapp 2 000 überlebten. Einen Überblick gibt das
+Jüdische Museum Thessaloniki.
+:::
+
+<!-- CHECK: Gründung 315 (oder 316) v. Chr. durch Kassandros, benannt nach Thessalonike, Halbschwester Alexanders; Via Egnatia 2. Jh. v. Chr. von der Adria (Dyrrhachion) bis Thessaloniki/Ägäis; Galeriusbogen und Rotunde um 300 n. Chr., Rotunde als Mausoleum/Tempel unsicher, Galerius in Gamzigrad bestattet, später Kirche, Moschee (Minarett erhalten), wieder Kirche; Byzanz: zweite Stadt; osmanische Eroberung 1430; sephardische Einwanderung nach 1492, jüdische Gemeinde größte Gruppe bis ins 20. Jh.; Übergabe an die griechische Armee 26. Oktober 1912 (Tag des hl. Demetrios); Brand August 1917, Neuplanung durch Ernest Hébrard (Aristotelous-Platz); Flüchtlinge 1922/23 und Bevölkerungsaustausch; Deportation 1943 nach Auschwitz, Zahlen der Deportierten und Überlebenden; „Schwarzer Sabbat“ auf der Platia Eleftherias im Juli 1942 und Holocaust-Mahnmal dort. -->
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η Εγνατία (Οδός)]{lang="el"} | die Egnatia; die Via Egnatia |
+| [διασχίζω]{lang="el"} | durchqueren |
+| [π.Χ., μ.Χ.]{lang="el"} | v. Chr., n. Chr. ([προ Χριστού, μετά Χριστόν]{lang="el"}) |
+| [ετεροθαλής αδερφή]{lang="el"} | Halbschwester |
+| [ο Μέγας Αλέξανδρος]{lang="el"} | Alexander der Große |
+| [ο αρχαιολόγος]{lang="el"} | der Archäologe |
+| [η διαδρομή]{lang="el"} | die Strecke, der Weg |
+| [στέκεται]{lang="el"} | (hier) steht |
+| [η αψίδα]{lang="el"} | der Bogen (Bauwerk) |
+| [στρογγυλός, -ή, -ό]{lang="el"} | rund |
+| [ο τάφος]{lang="el"} | das Grab |
+| [ο μιναρές]{lang="el"} | das Minarett |
+| [η Κωνσταντινούπολη]{lang="el"} | Konstantinopel |
+| [ανήμερα]{lang="el"} + Gen. | genau am (Festtag) |
+| [παραδίνομαι, παραδόθηκα]{lang="el"} | sich ergeben, übergeben werden |
+| [ίσιος, -α, -ο]{lang="el"} | gerade |
+| [ξανασχεδιάζομαι]{lang="el"} | neu geplant werden |
+| [δεκάδες χιλιάδες]{lang="el"} | Zehntausende |
+| [ο μουσουλμάνος]{lang="el"} | der Muslim |
+| [ο κατακτητής]{lang="el"} | der Eroberer, Besatzer |
+| [ταπεινώνω, ταπείνωσα]{lang="el"} | demütigen |
+| [πάντως]{lang="el"} | jedenfalls |
+| [δεν έχει κίνηση]{lang="el"} | es ist kein Verkehr |
+| [η καμπάνα]{lang="el"} | die (Kirchen-)Glocke |
+| [ο κουλουράς]{lang="el"} | der Kringelverkäufer |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Ein Spaziergang über die Egnatia**
+
+Wenn du Thessaloniki verstehen willst, fang nicht beim Weißen Turm an. Fang bei der Egnatia an,
+der großen Straße, die die Stadt von Westen nach Osten durchquert. Wenn du sie entlanggehst,
+gehst du durch dreiundzwanzig Jahrhunderte.
+
+Die Stadt wurde 315 v. Chr. von Kassandros gegründet, der damals Makedonien regierte. Er gab ihr
+den Namen seiner Frau Thessalonike, die eine Halbschwester Alexanders des Großen war. Zwei
+Jahrhunderte später bauten die Römer eine Straße von der Adria bis zur Ägäis, die Via Egnatia. Die
+heutige Egnatia, sagen die Archäologen, folgt ungefähr derselben Linie.
+
+In der Mitte der Strecke steht die Kamara, der Bogen des Kaisers Galerius. Hier verabreden sich
+die Studenten: „An der Kamara, um neun.“ Etwas weiter oben liegt die Rotunde, ein runder Bau, der
+um 300 n. Chr. errichtet wurde. Galerius wollte sie wohl als sein Grab, aber sicher weiß das
+niemand. Seitdem war sie Kirche, Moschee und wieder Kirche; ihr Minarett siehst du noch heute.
+
+In Byzanz war Thessaloniki die zweite Stadt nach Konstantinopel. 1430 nahmen die Osmanen sie ein,
+und wenige Jahrzehnte später kamen Tausende Juden, die aus Spanien vertrieben worden waren. Vier
+Jahrhunderte lang hörte man auf den Straßen das Spanisch der Juden, Türkisch, Griechisch,
+Bulgarisch.
+
+Am 26. Oktober 1912, genau am Tag des heiligen Demetrios, wurde die Stadt der griechischen Armee
+übergeben. Fünf Jahre später zerstörte ein Brand einen großen Teil der Innenstadt. Deshalb sind
+die Straßen um den Aristotelous-Platz so gerade: Die Stadt wurde von einem französischen
+Architekten neu geplant.
+
+1922 und 1923 kamen Zehntausende Flüchtlinge aus Kleinasien, während die Muslime der Stadt in die
+Türkei gingen. Und 1943 schickten die Deutschen fast alle Juden Thessalonikis nach Auschwitz. Von
+etwa fünfzigtausend kamen nur sehr wenige zurück. Auf dem Freiheitsplatz, wo die Besatzer im Juli
+1942 Tausende jüdische Männer zusammengetrieben und gedemütigt hatten, steht heute ein Mahnmal.
+
+Mir jedenfalls gefällt es, sie am Sonntagmorgen entlangzugehen, wenn kein Verkehr ist. Dann hörst
+du die Stadt: Glocken, einen Kringelverkäufer, jemanden, der ruft: „Sag ich dir doch, komm!“ Und
+wenn du müde wirst, wartet an jeder Ecke eine Bougatsa auf dich.
+:::
+
+<!-- EXERCISE: Leseverstehen und Formen jagen zu «Μια βόλτα στην Εγνατία»: Teil A richtig/falsch (Gründer und Namensgeberin, Rotunde als sicheres Grab des Galerius, Sprachen unter den Osmanen, Brand und gerade Straßen, Flüchtlinge 1922/23, Mahnmal); Teil B Formen finden und benennen: alle Mediopassiv-Aoriste (ιδρύθηκε, χτίστηκε, παραδόθηκε, ξανασχεδιάστηκε), Perfekt (έχει γίνει), Plusquamperfekt (είχαν διωχτεί, είχαν μαζέψει), Relativwörter (που, η οποία, οι οποίοι, όπου), Gerundium, Vermutung (πρέπει να την ήθελε), Doppelung (τον μιναρέ της τον βλέπεις); Teil C laut lesen mit ▶, Aussprache von Εγνατία, Θεσσαλονίκης, αυτοκράτορα, Κωνσταντινούπολη, ετεροθαλής; 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η ιστορία]{lang="el"} | [i istoˈria] | die Geschichte |
+| [ιδρύω, ίδρυσα; ιδρύθηκα]{lang="el"} | [iˈðrio], [ˈiðrisa]; [iˈðriθika] | gründen; gegründet werden |
+| [ο αυτοκράτορας]{lang="el"} | [o aftoˈkratoras] | der Kaiser |
+| [σημερινός, -ή, -ό]{lang="el"} | [simeriˈnos] | heutig |
+| [το κέντρο]{lang="el"} | [to ˈcedro] | die Mitte; die Innenstadt |
+| [η κοινότητα]{lang="el"} | [i ciˈnotita] | die Gemeinde, Gemeinschaft |
+| [ο Εβραίος, η Εβραία]{lang="el"} | [o evˈreos], [i evˈrea] | der Jude, die Jüdin |
+| [διώχνω, έδιωξα; διώχτηκα]{lang="el"} | [ˈðʝoxno], [ˈeðʝoksa]; [ˈðʝoxtika] | vertreiben, wegjagen; vertrieben werden |
+| [το μνημείο]{lang="el"} | [to mniˈmio] | das Denkmal, Mahnmal |
+| [η κίνηση]{lang="el"} | [i ˈcinisi] | der Verkehr; die Bewegung |
+:::
