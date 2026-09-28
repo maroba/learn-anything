@@ -15,7 +15,7 @@
 | 07 Wem gehört was: Genitiv, Anrede, Höflichkeit | veröffentlicht | Welle 3; Audio vollständig |
 | 11 Zeit: Uhrzeit, Datum, Jahreszahlen | veröffentlicht | Welle 3; Audio ausstehend |
 | 10 Verben auf -μαι im Alltag | veröffentlicht | Welle 4; Audio ausstehend |
-| 12 Vergleichen und Zwischenbilanz | Überarbeitung | Welle 6; beide Reviews da |
+| 12 Vergleichen und Zwischenbilanz | Konsistenz | Welle 6; überarbeitet |
 | 13 Es wurde gefunden: das Mediopassiv | Übungen | Welle 7; Entwurf fertig |
 | 14 Hast du schon …? Perfekt und Plusquamperfekt | Übungen | Welle 7; Entwurf fertig |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |

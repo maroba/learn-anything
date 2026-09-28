@@ -999,8 +999,8 @@ Tempo gehalten. Wenig verstanden in Durchgang 1 ist bei Straßensprache normal.
 
 Damit ist Teil I abgeschlossen. Du kannst jetzt erzählen, was war, und dabei Foto und Film
 unterscheiden; planen mit [θα]{lang="el"} und [να]{lang="el"}; Anweisungen geben und verbieten;
-vergleichen; Uhrzeit und Datum nennen. Die Kolumne unten ist der Test: Sie braucht nichts
-anderes. Teil II bringt das Mediopassiv, das Perfekt, Relativsätze und Nebensätze. Wenn eine
+vergleichen; Uhrzeit und Datum nennen. Die Kolumne unten zeigt es: Sie kommt fast ganz mit
+diesem Stoff aus. Teil II bringt das Mediopassiv, das Perfekt, Relativsätze und Nebensätze. Wenn eine
 dieser Fragen hakt, hilft das Kapitel dahinter:
 
 - Kannst du „Hast du den Film gesehen?“ ohne Perfekt sagen? → Kapitel 2
@@ -1071,7 +1071,6 @@ Quelle gut hundert bis über zweihundert. Die Regenmengen schwanken von Jahr zu 
 Station zu Station. Und die Erklärung mit den Wolken ist vereinfacht: Der Westen Griechenlands ist
 feuchter, weil Tiefdruckgebiete im Winter meist von Westen kommen und sich an den Gebirgen
 abregnen; der Osten liegt im Regenschatten.
-<!-- CHECK: (1) Inselzahl ~6000 inkl. Felsinseln, bewohnt „λίγο πάνω από εκατό“ (Angaben schwanken 110–227) – Formulierung im Text an eine Quelle angleichen; (2) Psiloritis 2.456 m; Kreta größte Insel; (3) Naxos größte und fruchtbarste Kykladeninsel, Kartoffeln von Naxos landesweit bekannt; (4) Korfu ca. 1.100 mm Jahresniederschlag vs. Santorin ca. 350–400 mm (≈ Faktor 3); (5) Hitzewelle Juli 2023 länger als zwei Wochen mit über 40 °C; (6) MedECC: Mittelmeerraum erwärmt sich schneller als der globale Durchschnitt (ca. 20 %); (7) Südküste Kretas: längerer Sommer als Athen, Meer bis November warm (ca. 21–22 °C); (8) Schnee auf Kretas Bergen im April üblich. -->
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -1212,7 +1211,8 @@ länger. 7: das Ionische Meer.
     όρο]{lang="el"}, sind Komparative.
 
 **Teil C.** In [κυπαρίσσια]{lang="el"} wird das [ι]{lang="el"} vor [α]{lang="el"} zum Gleitlaut:
-vier Silben, nicht fünf.
+vier Silben, nicht fünf. In [αμπέλια]{lang="el"} und [Σαντορίνη]{lang="el"} klingen
+[μπ]{lang="el"} und [ντ]{lang="el"} wie *b* und *d* (Kapitel 1).
 :::
 
 ::: {.vocab}
