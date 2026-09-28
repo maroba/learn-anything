@@ -98,7 +98,7 @@ Richterskala: Im Griechischen hat ein Beben „fünf Richter“.
 | [στις τρεις και κάτι]{lang="el"} | kurz nach drei (Kapitel 11) |
 | [τα Ρίχτερ]{lang="el"} | (Grad auf der) Richterskala |
 | [λένε]{lang="el"} | heißt es, sagt man (wörtlich „sie sagen“) |
-| [το μπαλκόνι]{lang="el"} | der Balkon |
+| [το μπαλκόνι]{lang="el"} | der Balkon (Kapitel 7) |
 | [μπορούσα]{lang="el"} | ich konnte (Kapitel 5) |
 | [ε]{lang="el"} | na ja, tja |
 | [πια]{lang="el"} | (nicht) mehr (Kapitel 4) |
@@ -179,7 +179,7 @@ Der *Skeptiker* ist ursprünglich einer, der genau hinschaut und abwägt.
 gibt es ein aktives Gegenstück: [θυμίζω]{lang="el"} „erinnern an“, meist in [Μου θυμίζει
 …]{lang="el"} „Das erinnert mich an …“. Und bei [κοιμάμαι]{lang="el"} hilft ein Umweg über das
 Latein: Das [κοιμητήριο]{lang="el"}, der „Schlafplatz“ der Toten, wurde zu
-[*coemeterium*]{lang="la"} und englisch *cemetery*.
+[*coemeterium*]{lang="la"} und englisch [*cemetery*]{lang="en"}.
 
 ::: {.callout-note .exercise}
 ## Übung 10.1: Sieben Verben, zwei Muster
@@ -524,8 +524,8 @@ Die imperfektive Seite, der Film, ist wie immer das Präsens hinter [θα]{lang=
 
 Aus Kapitel 9 kennst du Imperativ und Verbot. Bei diesen Verben fallen zwei Imperative und ein
 Verbot ständig, und einen davon benutzt du seit Kapitel 1: [Έλα!]{lang="el"} ist der Imperativ
-von [έρχομαι]{lang="el"}, „komm!“. Dazu [Κάτσε!]{lang="el"} „Setz dich! Bleib noch!“ und das
-Verbot [Μη φοβάσαι!]{lang="el"} „Hab keine Angst!“, [μη]{lang="el"} mit der Präsensform. Lern
+von [έρχομαι]{lang="el"}, „komm!“ (Kapitel 9). Dazu [Κάτσε!]{lang="el"} „Setz dich! Bleib noch!“ und das
+Verbot [Μη φοβάσαι!]{lang="el"} „Hab keine Angst!“, [μη]{lang="el"} mit der [να]{lang="el"}-Form im Film. Lern
 sie als feste Wendungen.
 :::
 
@@ -615,8 +615,8 @@ So entsteht der klassische Erdbebensatz, Film und Foto in einem:
   Balkon, und plötzlich wackelte das ganze Haus.
 - [Όταν ήμουν παιδί, φοβόμουν τους σεισμούς.]{lang="el"} Als Kind hatte ich Angst vor Erdbeben.
 
-::: {.callout-note}
-## Im Gespräch hörst du auch …
+::: {.callout-note collapse="true"}
+## Exkurs: Im Gespräch hörst du auch …
 
 Neben den Formen der Tabellen gibt es umgangssprachliche Varianten, meist eine Silbe länger:
 
@@ -804,7 +804,7 @@ Zwischen den Verben stehen die Wendungen, mit denen man auf Griechisch erinnert:
 - **[Αν τον θυμάμαι;]{lang="el"}** „Ob ich mich erinnere?“ Wer eine Frage wiederholt, meint:
   „Und wie!“
 - **[Σαν να ’ταν χθες.]{lang="el"}** „Als wär's gestern gewesen“, aus [σαν να ήταν]{lang="el"}.
-- **[Τι να σου πω;]{lang="el"}** „Was soll ich sagen?“, wie [Τι να κάνω;]{lang="el"} aus
+- **[Τι να σου πω;]{lang="el"}** „Was soll ich sagen?“ (Kapitel 8), wie [Τι να κάνω;]{lang="el"} aus
   Kapitel 4: Zögern, bevor etwas Schwieriges kommt.
 - **[Αν είναι να γίνει, θα γίνει.]{lang="el"}** „Was passieren soll, passiert.“ Fatalismus in
   sechs Wörtern, zu hören bei Erdbeben, Prüfungen und Fähren im Meltemi.
@@ -813,7 +813,6 @@ Zwischen den Verben stehen die Wendungen, mit denen man auf Griechisch erinnert:
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [Σαν να ’ταν χθες.]{lang="el"} | [san ˈnatan xθes] | Als wär's gestern gewesen. |
-| [Τι να σου πω;]{lang="el"} | [ti na su ˈpo] | Was soll ich (dir) sagen? |
 | [Αν είναι να γίνει, θα γίνει.]{lang="el"} | [an ˈine na ˈʝini θa ˈʝini] | Was passieren soll, passiert. |
 | [το κτίριο]{lang="el"} | [to ˈktirio] | das Gebäude |
 | [ο όροφος]{lang="el"} | [o ˈorofos] | das Stockwerk |
@@ -832,12 +831,12 @@ Zwischen den Verben stehen die Wendungen, mit denen man auf Griechisch erinnert:
 | [ο υπολογιστής]{lang="el"} | der Computer |
 | [άρχισε να κουνιέται]{lang="el"} | begann zu wackeln (Kapitel 5) |
 | [τόσο, που …]{lang="el"} | so sehr, dass … |
-| [κάτω από]{lang="el"} | unter |
-| [το γραφείο]{lang="el"} | der Schreibtisch; das Büro |
-| [το σήμα]{lang="el"} | das Signal, der Empfang |
+| [κάτω από]{lang="el"} | unter (Kapitel 3) |
+| [το γραφείο]{lang="el"} | der Schreibtisch; das Büro (Kapitel 5) |
+| [το σήμα]{lang="el"} | das Signal, der Empfang (Kapitel 9) |
 | [μόνος, -η, -ο]{lang="el"} | allein (Kapitel 1) |
 | [ο μεσημεριανός ύπνος]{lang="el"} | der Mittagsschlaf (Kapitel 1) |
-| [εκείνος, -η, -ο]{lang="el"} | jener; [εκείνο το βράδυ]{lang="el"} an jenem Abend |
+| [εκείνος, -η, -ο]{lang="el"} | jener; [εκείνο το βράδυ]{lang="el"} an jenem Abend (Kapitel 7) |
 :::
 
 ### [-θηκα]{lang="el"}, [-θώ]{lang="el"}, [-όμουν]{lang="el"} hören {#sec-mai-hoeren}
@@ -978,8 +977,8 @@ Zwei Muster helfen beim Lesen:
 
 | Griechisch | Deutsch |
 |---|---|
-| [η χώρα]{lang="el"} | das Land (Staat) |
-| [χιλιάδες]{lang="el"} | Tausende |
+| [η χώρα]{lang="el"} | das Land (Staat; Kapitel 3) |
+| [χιλιάδες]{lang="el"} | Tausende (Kapitel 4) |
 | [οι περισσότεροι]{lang="el"} | die meisten (Kapitel 1) |
 | [ο σεισμογράφος]{lang="el"} | der Seismograf |
 | [τους καταλαβαίνουν]{lang="el"} | bemerken sie ([τους]{lang="el"} = sie, Kapitel 8) |
@@ -1006,7 +1005,7 @@ Zwei Muster helfen beim Lesen:
 | [γνωστός, -ή, -ό]{lang="el"} | bekannt |
 | [η σκηνή]{lang="el"} | das Zelt; die Szene, Bühne |
 | [τρέμω, έτρεμα]{lang="el"} | zittern, beben |
-| [επόμενος, -η, -ο]{lang="el"} | nächster |
+| [επόμενος, -η, -ο]{lang="el"} | nächster (Kapitel 6) |
 | [σκοτώνω]{lang="el"} | töten (Kapitel 3) |
 :::
 

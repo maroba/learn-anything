@@ -5,7 +5,7 @@ title: "Kleine Wörter, große Wirkung: schwache Pronomen"
 ::: {.callout-note .review}
 ## Zur Wiederholung
 
-Aus Kapitel 1, 5 und 7:
+Aus Kapitel 3, 5 und 7:
 
 - **Reihenfolge vor dem Verb:** [δε – θα – Objektwort – Verb]{lang="el"}: [Δε θα το πω.]{lang="el"}
   Nach [να]{lang="el"} steht [μη(ν)]{lang="el"} vorn: [να μην το ξεχάσεις]{lang="el"}.
@@ -81,7 +81,7 @@ Kaum ein Satz ohne ein kleines Wort vor dem Verb:
 | [Σου τον αφήνω]{lang="el"} | dir + die Platte | ich lass sie dir |
 | [πες του]{lang="el"} | der Großvater | sag ihm |
 
-Seit Kapitel 1 heißen sie in diesem Buch „kleine Objektwörter“: [Δεν το ξέρω, το έκλεισα, Τα
+Seit Kapitel 1 heißen sie in diesem Buch „kleine“ oder „kurze Objektwörter“: [Δεν το ξέρω, το έκλεισα, Τα
 κόψαμε, Θα σε πάρω, Μη μου πεις, Σ’ το ’πα]{lang="el"}. Die Grammatik nennt sie **schwache
 Pronomen** ([οι αδύνατοι τύποι]{lang="el"}) oder **Klitika**, von griechisch [κλίνω]{lang="el"}
 „neigen, lehnen“: Sie haben keine eigene Betonung und lehnen sich an das Verb. [τον παίρνω]{lang="el"}
@@ -131,7 +131,7 @@ was?), der **Genitiv** übernimmt die Arbeit des verlorenen Dativs (wem?), wie i
 | sie | [τη(ν)]{lang="el"} sie | [της]{lang="el"} ihr |
 | wir | [μας]{lang="el"} uns | [μας]{lang="el"} uns |
 | ihr, Sie | [σας]{lang="el"} euch, Sie | [σας]{lang="el"} euch, Ihnen |
-| sie (Pl.) | [τους, τις, τα]{lang="el"} | [τους]{lang="el"} ihnen |
+| sie (Pl.) | [τους, τις, τα]{lang="el"} sie | [τους]{lang="el"} ihnen |
 
 Neu lernen musst du wenig:
 
@@ -143,9 +143,8 @@ Neu lernen musst du wenig:
 - **Neu sind nur [με]{lang="el"} und [σε]{lang="el"}**, und auch die sind alte Bekannte:
   [Πώς σε λένε; Με λένε…]{lang="el"} (Kapitel 7).
 
-Spanisch sortiert fast genauso. [*me, te, nos, os*]{lang="es"} unterscheiden die Fälle nicht;
-das Griechische trennt im Singular ([με/μου, σε/σου]{lang="el"}), im Plural ([μας, σας]{lang="el"})
-nicht. In der dritten Person trennen beide:
+Spanisch sortiert fast genauso. In der 1. und 2. Person trennt Spanisch die Fälle nie
+([*me, te, nos, os*]{lang="es"}), Griechisch nur im Singular ([με/μου, σε/σου]{lang="el"}). In der dritten Person trennen beide:
 [*lo, la*]{lang="es"} gegen [*le*]{lang="es"}, [τον, την]{lang="el"} gegen
 [του, της]{lang="el"}. Nur trennt das Griechische auch im Genitiv nach Genus: [του]{lang="el"}
 „ihm“, [της]{lang="el"} „ihr“, wo Spanisch mit [*le*]{lang="es"} beides meint.
@@ -170,14 +169,14 @@ Akkusativ, wo das Deutsche „mir, dir“ sagt:
 
 - [Σε ευχαριστώ.]{lang="el"} Ich danke dir. (\*[σου ευχαριστώ]{lang="el"})
 - [Να σε βοηθήσω;]{lang="el"} Kann ich dir helfen?
-- [Τον πίστεψε.]{lang="el"} Sie glaubte ihm. (Kapitel 2)
+- [Ο Σλήμαν τον πίστεψε.]{lang="el"} Schliemann glaubte ihm. (Kapitel 2)
 
-Umgekehrt steht bei „sagen, geben, schicken, zeigen“ wie im Deutschen der Genitiv für die
+Bei „sagen, geben, schicken, zeigen“ dagegen steht wie im Deutschen der Genitiv für die
 Person: [μου λέει, σου δίνω, της έστειλα]{lang="el"}.
 :::
 
 Im Norden, etwa in Thessaloniki, hörst du oft den Akkusativ auch für „wem?“: [σε λέω]{lang="el"}
-statt [σου λέω]{lang="el"}. Das ist regional, kein Fehler; selbst sagst du [σου λέω]{lang="el"}
+statt [σου λέω]{lang="el"}, [με αρέσει]{lang="el"} statt [μου αρέσει]{lang="el"}. Das ist regional, kein Fehler; selbst sagst du [σου λέω]{lang="el"}
 (Kapitel 23).
 
 ::: {.callout-note .exercise}
@@ -195,8 +194,8 @@ statt [σου λέω]{lang="el"}. Das ist regional, kein Fehler; selbst sagst du
 7. Έστειλα μήνυμα **στη γιαγιά**.
 :::
 
-Dazu drei deutsche Fallen, nur das Pronomen plus Verb: *Die Platte kaufe ich.* *Das Konzert
-habe ich gesehen* ([είδα]{lang="el"}). *Die Sonne sehe ich* ([βλέπω]{lang="el"}).
+Dazu drei deutsche Fallen, nur das Pronomen plus Verb: *Die Platte kaufe ich.* *Den Film
+habe ich gesehen* ([είδα]{lang="el"}, Kapitel 4). *Die Sonne sehe ich* ([βλέπω]{lang="el"}).
 
 **Teil B.** Pronomen, Besitzwort, Artikel oder Präposition? (im Chat: „1 Pronomen, …“)
 
@@ -228,12 +227,12 @@ Teil B: Was folgt direkt auf das Wort? Ein Verb, ein Nomen, oder steht es selbst
 4. [Τα έχεις;]{lang="el"} 5. [Τις είδα.]{lang="el"} 6. [Του έδωσα το δώρο.]{lang="el"}
 7. [Της έστειλα μήνυμα.]{lang="el"}
 
-In 2 und 5 bleibt das [ν]{lang="el"} von [την]{lang="el"} vor Vokal stehen. In 6 und 7 wird der
+In 2 bleibt das [ν]{lang="el"} von [την]{lang="el"} vor Vokal stehen. In 6 und 7 wird der
 Empfänger ersetzt: Genitiv. \*[Τον έδωσα]{lang="el"} hieße, den Großvater zu verschenken.
 
 **Fallen:** [Τον αγοράζω]{lang="el"} ([ο δίσκος]{lang="el"}), [Την είδα]{lang="el"}
-([η συναυλία]{lang="el"}), [Τον βλέπω]{lang="el"} ([ο ήλιος]{lang="el"}). Typische Fehler:
-\*[Τη αγοράζω]{lang="el"}, \*[Το είδα]{lang="el"}.
+([η ταινία]{lang="el"}), [Τον βλέπω]{lang="el"} ([ο ήλιος]{lang="el"}). Typische Fehler:
+\*[Τη αγοράζω]{lang="el"}, \*[Τον είδα]{lang="el"} (deutsch „den Film“).
 
 **Teil B:** 1. Präposition. 2. Artikel (Genitiv von [ο παππούς]{lang="el"}). 3. [της]{lang="el"}
 Pronomen, [του]{lang="el"} Besitzwort („seine Musik“). 4. Erst Pronomen („ich sehe dich“), dann
@@ -243,13 +242,13 @@ Präposition ([σε λίγο]{lang="el"} „gleich“).
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [με, σε]{lang="el"} | [me], [se] | mich, dich |
+| [με ξέρει, σε ξέρει]{lang="el"} | [me ˈkseri], [se ˈkseri] | er/sie kennt mich, dich |
 | [τον, τη(ν), το]{lang="el"} | [ton], [ti(n)], [to] | ihn, sie, es |
-| [μας, σας]{lang="el"} | [mas], [sas] | uns; euch, Sie, Ihnen |
-| [τους, τις, τα]{lang="el"} | [tus], [tis], [ta] | sie (Pl.: männlich, weiblich, sächlich) |
-| [μου, σου]{lang="el"} (vor dem Verb) | [mu], [su] | mir, dir |
-| [του, της]{lang="el"} (vor dem Verb) | [tu], [tis] | ihm, ihr |
-| [τους]{lang="el"} (vor dem Verb) | [tus] | ihnen |
+| [μας βλέπει, σας βλέπει]{lang="el"} | [maz ˈvlepi], [saz ˈvlepi] | er/sie sieht uns, euch (Sie) |
+| [τους, τις, τα είδα]{lang="el"} | [tus ˈiða], [tis ˈiða], [ta ˈiða] | ich habe sie gesehen (Pl.: m., f., n.) |
+| [μου λέει, σου δίνω]{lang="el"} | [mu ˈlei], [su ˈðino] | er/sie sagt mir; ich gebe dir |
+| [του έδωσα, της έδωσα]{lang="el"} | [tu ˈeðosa], [tis ˈeðosa] | ich habe ihm, ihr gegeben |
+| [τους έδωσα]{lang="el"} | [tus ˈeðosa] | ich habe ihnen gegeben |
 | [Σε ευχαριστώ.]{lang="el"} | [se efxariˈsto] | Ich danke dir. |
 :::
 
@@ -281,8 +280,8 @@ Auch in Fragen bleibt alles, wo es ist, denn Fragen erkennt man am Tonfall: [Τ�
 ## Merke
 
 **[δεν / θα / να / μη(ν)]{lang="el"} – schwaches Pronomen – Verb.** Nichts steht zwischen
-Pronomen und Verb, und das Pronomen steht nie hinter einem konjugierten Verb. Die einzige
-Ausnahme ist der Imperativ (@sec-pronomen-imperativ).
+Pronomen und Verb, und das Pronomen steht nie hinter einem konjugierten Verb, außer nach dem
+bejahten Imperativ (@sec-pronomen-imperativ) und später dem Gerundium (Kapitel 19).
 :::
 
 ::: {.callout-warning}
@@ -321,7 +320,7 @@ Ausnahme ist der Imperativ (@sec-pronomen-imperativ).
 ## Hinweis 1
 
 Reihe: [δεν / θα / να (μην)]{lang="el"}, dann Pronomen, dann Verb. Nach [να, μην]{lang="el"}
-die Aoristform ([ακούσω, αγοράσω, ξεχάσεις]{lang="el"}).
+die perfektive [να]{lang="el"}-Form ([ακούσω, αγοράσω, ξεχάσεις]{lang="el"}).
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -341,7 +340,7 @@ Zwischen Pronomen und Verb passt nichts, nicht einmal [δεν]{lang="el"}. Auf G
 3. [Πρέπει να τον αγοράσω.]{lang="el"} Nicht \*[να την]{lang="el"}: die Platte ist männlich.
 4. [Μην το ξεχάσεις!]{lang="el"}
 5. [Δεν τις είδαμε.]{lang="el"} Weiblich Plural: [τις]{lang="el"}, nicht [τους]{lang="el"}.
-6. [Προσπάθησα να τον πάρω (τηλέφωνο).]{lang="el"} Mit [τηλεφωνώ]{lang="el"} ändert sich der
+6. [Προσπάθησα να τον πάρω τηλέφωνο.]{lang="el"} Mit [τηλεφωνώ]{lang="el"} ändert sich der
    Fall: [Προσπάθησα να του τηλεφωνήσω.]{lang="el"} Aus [σε]{lang="el"} + Person
    ([τηλεφώνησα στον Νίκο]{lang="el"}) wird der Genitiv, wie bei [στον παππού]{lang="el"}. Beides ist richtig.
 
@@ -388,8 +387,8 @@ vor „ihm“. Griechisch bleibt bei „wem vor was“: [Του το δίνω.]{
 :::
 
 In schneller Rede schrumpft [σου το]{lang="el"} zu [σ’ το]{lang="el"} [sto], und nach dem Paar
-fällt gern noch ein Vokal: [σ’ το ’πα]{lang="el"} [ˈstopa], [σ’ τα ’λεγα]{lang="el"}
-[ˈstaleɣa] (Kapitel 3 und 4). Bei [μου το]{lang="el"} fällt nur der Vokal des Verbs:
+fällt gern noch ein Vokal: [σ’ το ’πα]{lang="el"} [ˈstopa], [σ’ το ’λεγα]{lang="el"}
+[ˈstoleɣa] (Kapitel 3 und 4). Bei [μου το]{lang="el"} fällt nur der Vokal des Verbs:
 [μου το ’πες]{lang="el"} [mu ˈtopes] „du hast es mir gesagt“.
 
 ::: {.callout-note .exercise}
@@ -498,9 +497,12 @@ Nach demselben Muster geht ein Verb, ohne das kein griechisches Liebeslied ausko
 - [Μου έλειψες.]{lang="el"} Ich hab dich vermisst (zur Begrüßung nach langer Zeit).
 - [Μας λείπει ο ήλιος.]{lang="el"} Uns fehlt die Sonne.
 
+Ebenso gebaut sind [μου φαίνεται]{lang="el"} „es scheint mir“ und [μου πονάει το κεφάλι]{lang="el"}
+„mir tut der Kopf weh“.
+
 Französisch hat hier einen Vorteil: [*Tu me manques*]{lang="fr"} ist wörtlich [Μου
 λείπεις]{lang="el"}, mit der vermissten Person als Subjekt. Deutsch „ich vermisse dich“ dreht
-die Rollen um und verleitet zu \*[σε λείπω]{lang="el"}, was nichts bedeutet.
+die Rollen um und verleitet zu \*[σε λείπω]{lang="el"}, was im Standard nichts bedeutet.
 
 ::: {.callout-important}
 ## Merke
@@ -564,7 +566,7 @@ Auch [Ο Θεοδωράκης μου αρέσει]{lang="el"} ist richtig und be
   [άρεσαν]{lang="el"}.
 - \*[Αρέσω τον Θεοδωράκη]{lang="el"}: deutsche Rollen, „ich mag ihn“.
 - \*[Σε λείπω]{lang="el"} für „ich vermisse dich“: Richtig ist [μου λείπεις]{lang="el"}, „du fehlst mir“.
-- \*[Με αρέσει]{lang="el"}: Die Person steht im Genitiv, [μου]{lang="el"}.
+- [Με αρέσει]{lang="el"}: So hörst du es im Norden; Standard ist der Genitiv, [μου αρέσει]{lang="el"}.
 :::
 
 ::: {.vocab}
@@ -594,10 +596,17 @@ Pronomen **dahinter**, wie im Spanischen [*dame, dímelo*]{lang="es"}:
 | [Πάρ’ το.]{lang="el"} | Nimm es. |
 
 Bei [Πάρε το]{lang="el"} fällt das [ε]{lang="el"}, geschrieben [Πάρ’ το]{lang="el"}
-[ˈparto]. Zwei Pronomen folgen nach dem Imperativ meist in der gewohnten Reihenfolge,
-[Δώσε μου το.]{lang="el"}, oft hört man aber auch [Δώσ’ το μου.]{lang="el"} Wie man Imperative
-bildet und welche Reihenfolge wann üblicher ist, zeigt Kapitel 9.
-<!-- CHECK: Reihenfolge zweier Klitika nach dem Imperativ: Sind „Δώσε μου το“ und „Δώσ’ το μου“ beide standardsprachlich üblich? (HMP-CG, Abschnitt zu Klitika nach Imperativ; mit Kapitel 9 abstimmen) -->
+[ˈparto]. Selbst bilden musst du in diesem Kapitel nur Imperativ plus **ein** Pronomen.
+
+Zwei Pronomen nach dem Imperativ wirst du aber hören, und zwar in beiden Reihenfolgen; beide
+sind richtig und häufig: [Δώσε μού το]{lang="el"} [ˈðose ˈmu to] oder [Δώσ’ το μου]{lang="el"}
+[ˈðosto mu] „Gib es mir“. Der Akzent auf [μού]{lang="el"} ist kein Tippfehler. Hinter der
+Betonung dürfen im Griechischen höchstens zwei Silben folgen, wie bei [το μήνυμά μου]{lang="el"}
+(Kapitel 2); [δώ-σε-μου-το]{lang="el"} hätte drei, also bekommt das erste Pronomen einen eigenen
+Akzent. Bei [Δώσε μου]{lang="el"} mit nur einem Pronomen, [Πες μου το]{lang="el"} oder
+[Δώσ’ το μου]{lang="el"} reicht die Silbenzahl, da bleibt es beim einen Akzent. Wie man Imperative
+bildet, wann dieser zweite Akzent auch bei einem Pronomen kommt und welche Reihenfolge wann
+beliebter ist, zeigt Kapitel 9.
 
 **Verbote** sind keine Ausnahme. Mit [μη(ν)]{lang="el"} steht das Pronomen wieder vorn:
 
@@ -623,7 +632,7 @@ Achselzucken. Die Faustregel: **Nur der bejahte Imperativ zieht das Pronomen hin
 7. (a) Πάρ’ το. (b) Το πάρε.
 :::
 
-**Teil B.** Sag laut: *Sag’s ihm nicht! Wirst du es ihm sagen? Sag’s ihm!*
+**Teil B.** Sag laut: *Sag’s ihm nicht! Wirst du es ihm sagen? Schau sie dir an!* (die Platte)
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -636,7 +645,7 @@ Nur eine Form zieht das Pronomen hinter sich: der bejahte Imperativ ([Πες, Δ
 ## Hinweis 2
 
 [πεις, πάρεις]{lang="el"} nach [μη(ν), θα]{lang="el"} sind keine Imperative; es gilt die
-Grundregel. Bei zwei Pronomen: „wem“ vor „was“.
+Grundregel. Bei zwei Pronomen: „wem“ vor „was“. Und die Platte ist [ο δίσκος]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -653,7 +662,8 @@ Apostroph: [μου ’πες]{lang="el"} ist [μου είπες]{lang="el"} „d
 
 - [Μην του το πεις!]{lang="el"}
 - [Θα του το πεις;]{lang="el"}
-- [Πες του το!]{lang="el"} Im Gespräch reicht oft [Πες του!]{lang="el"} „Sag’s ihm!“, wenn klar ist, worum es geht.
+- [Κοίτα τον!]{lang="el"} Nicht \*[Κοίτα την]{lang="el"}: [ο δίσκος]{lang="el"} ist männlich.
+  Und nicht \*[Τον κοίτα]{lang="el"}: Nach dem bejahten Imperativ steht das Pronomen dahinter.
 
 \*[Μην πες του]{lang="el"} mischt Verbot und Imperativ: Im Verbot steht [πεις]{lang="el"}.
 :::
@@ -672,8 +682,58 @@ Apostroph: [μου ’πες]{lang="el"} ist [μου είπες]{lang="el"} „d
 Griechische Lieder sind voll von schwachen Pronomen, denn sie handeln von „du“ und „ich“: Wer wen
 verlassen hat, wer wem fehlt, wer es wem gesagt hat. Liedtexte schreiben dazu die
 Verschleifungen aus, die in Prosa selten gedruckt werden. Die Zeilen unten sind für dieses Buch
-geschrieben, im Ton eines alten Rembetiko, nicht aus einem echten Lied. Mit ▶ hörst du sie
-gesprochen, nicht gesungen.
+geschrieben, im Ton eines alten Rembetiko; die Formel in Zeile 7 ist auch der Anfang eines
+bekannten traditionellen Volkslieds ([Σ’ το ’πα και σ’ το ξαναλέω]{lang="el"}). Mit ▶ hörst du
+sie gesprochen, nicht gesungen. Erst hören, dann lesen.
+
+::: {lang="el" .listen}
+Μου ’πες «θα γυρίσω», και σε πίστεψα·
+μου ’δωσες το χέρι σου και το κράτησα.
+Τώρα μου λείπεις και δε μου μιλάς·
+πες μου, μάτια μου, πού πας;
+
+Δώσε μου κρασί, να το πιω, να σε ξεχάσω.
+Το ’πια, μα σε θυμάμαι πιο πολύ.
+Σ’ το ’πα μια φορά και σ’ το ξαναλέω:
+χωρίς εσένα δεν μπορώ.
+:::
+
+::: {.callout-note .exercise}
+## Übung 8.6: Erst hören
+
+Hör die acht Zeilen zweimal, ohne mitzulesen, und zähl die Zeilen mit (zwei Strophen zu je vier).
+
+1. In welchen Zeilen wird ein Vokal verschluckt, sodass Pronomen und Verb wie ein Wort klingen?
+2. In welchen Zeilen hörst du einen Imperativ mit angehängtem [mu]?
+
+(im Chat: „1: Zeilen …; 2: Zeilen …“)
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Achte auf Stellen, an denen die Betonung früh sitzt: [ˈmupes] statt [mu ˈipes].
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Frage 1: Es sind vier Zeilen, zwei in jeder Strophe; in einer davon passiert es gleich zweimal.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Frage 1:** Zeilen **1, 2, 6 und 7**: [μου ’πες]{lang="el"} [ˈmupes], [μου ’δωσες]{lang="el"}
+[ˈmuðoses], [το ’πια]{lang="el"} [ˈtopça], in Zeile 7 [σ’ το ’πα]{lang="el"} [ˈstopa] (zwei
+Vokale weg) und [σ’ το ξαναλέω]{lang="el"}, wo nur das Pronomen schrumpft. Zusammen fünf Stellen,
+sechs verschluckte Vokale. [σε πίστεψα]{lang="el"} in Zeile 1 klingt eng, verliert aber nichts.
+
+**Frage 2:** Zeilen **4 und 5**: [πες μου]{lang="el"} am Ende der ersten Strophe,
+[Δώσε μου]{lang="el"} am Anfang der zweiten.
+:::
+
+Jetzt der Text zum Mitlesen:
 
 ::: {lang="el"}
 Μου ’πες «θα γυρίσω», και σε πίστεψα·
@@ -707,7 +767,7 @@ Drei Dinge lassen sich hier hören:
   [ˈmuðoses], [το ’πια]{lang="el"} [ˈtopça]: Der Vokal am Verbanfang fällt, die Betonung
   wandert auf das kleine Wort (Kapitel 3). Ohne Verschleifung ebenso eng: [σε πίστεψα]{lang="el"}
   [se ˈpistepsa] klingt wie ein Wort.
-- **[σ’ αγαπώ]{lang="el"}** [saɣaˈpo] „ich liebe dich“ ist die häufigste Verschleifung überhaupt:
+- **[σ’ αγαπώ]{lang="el"}** [saɣaˈpo] „ich liebe dich“ ist eine der häufigsten Verschleifungen:
   [σε]{lang="el"} verliert vor Vokal sein [ε]{lang="el"}. In Liedtiteln steht fast immer die
   kurze Form.
 - **[μάτια μου]{lang="el"}**, wörtlich „meine Augen“, ist eine Anrede wie
@@ -715,34 +775,42 @@ Drei Dinge lassen sich hier hören:
   hinter einem Nomen steht. [χωρίς εσένα]{lang="el"} „ohne dich“ zeigt ein starkes Pronomen
   nach einer Präposition (Kapitel 20); dort passt das schwache nicht.
 
-In der letzten Strophe steckt noch ein Diskursmarker, ein Verwandter von [Σ’ το ’πα]{lang="el"}:
-[Σου λέω]{lang="el"} „ich sag’s dir“, in Gesprächen ein Verstärker: [Σου λέω, είναι
-υπέροχο.]{lang="el"} „Ich sag’s dir, es ist großartig.“ Und zum Abwinken [Άσ’ το.]{lang="el"}
-„Lass es. Vergiss es.“, ein Imperativ von [αφήνω]{lang="el"} mit angehängtem [το]{lang="el"}.
+Verwandt mit [σ’ το ξαναλέω]{lang="el"} ist [Σου λέω]{lang="el"} „ich sag’s dir“, in Gesprächen
+ein Verstärker: [Σου λέω, είναι υπέροχο.]{lang="el"} „Ich sag’s dir, es ist großartig.“ Und als
+Zugabe, zum Abwinken: [Άσ’ το.]{lang="el"} „Lass es. Vergiss es.“, ein Imperativ von
+[αφήνω]{lang="el"} mit angehängtem [το]{lang="el"}.
 
 ::: {.callout-note .exercise}
-## Übung 8.6: Was das Lied verschluckt
+## Übung 8.7: Was das Lied verschluckt
 
 **Teil A.** Nenn die Vollformen und nenn das Verb im Präsens:
 [μου ’πες, μου ’δωσες, το ’πια, σ’ το ’πα, σ’ αγαπώ]{lang="el"}.
 
-**Teil B.** Such in den Liedzeilen aus @sec-pronomen-hoerspur alle schwachen Pronomen und
-sortier sie: vor dem Verb, nach dem Imperativ, Besitzwort. Zwei Wörter sehen aus wie schwache
-Pronomen, sind aber keine: welche?
+**Teil B.** Drei Fragen zum Liedtext:
+
+1. Welche zwei Wörter sehen aus wie schwache Pronomen, sind aber keine?
+2. Welches [μου]{lang="el"} ist Besitzwort, und welches andere Besitzwort steht in der ersten Strophe?
+3. [το κράτησα]{lang="el"}: Worauf bezieht sich [το]{lang="el"}, und warum nicht [την]{lang="el"}?
+
+**Teil C.** Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) nach
+[μουσική]{lang="el"} und wähl ein Straßeninterview, in dem gefragt wird, welche Musik die Leute
+mögen; findest du keins, nimm ein beliebiges Easy-Greek-Straßeninterview. Hör drei Minuten ohne
+Untertitel und mach einen Strich für jedes [μου]{lang="el"} oder [σου]{lang="el"} direkt vor einem
+Verb. Dann mit griechischen Untertiteln nachzählen. (im Chat: deine Zahl und zwei Beispiele)
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Der Apostroph markiert den verschluckten Vokal. Beim Verb ist es der Anfangsvokal, bei
+Teil A: Der Apostroph markiert den verschluckten Vokal. Beim Verb ist es der Anfangsvokal, bei
 [σ’]{lang="el"} das [ε]{lang="el"} oder [ου]{lang="el"} des Pronomens.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Teil B: Es sind 18 schwache Pronomen, davon zwei Besitzwörter. Die zwei Doppelgänger: ein
-[το]{lang="el"} vor einem Nomen und ein langes „dich“ nach einer Präposition.
+Teil B: Was folgt direkt auf das Wort, oder hinter welchem Wort steht es? Die zwei Doppelgänger:
+eins steht vor einem Nomen, das andere ist ein langes „dich“ nach einer Präposition.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -761,68 +829,23 @@ ist [σε]{lang="el"} („dich“).
 
 **Teil B:**
 
+1. [το]{lang="el"} in [το χέρι]{lang="el"} ist Artikel; [εσένα]{lang="el"} ist die starke Form.
+2. [μάτια μου]{lang="el"} (hinter einem Nomen); dazu [το χέρι σου]{lang="el"} „deine Hand“.
+3. Auf [το χέρι]{lang="el"}, das sächlich ist; die deutsche „Hand“ zählt nicht.
+
+Die vollständige Liste der schwachen Pronomen im Lied:
+
 - **Vor dem Verb (14):** [μου ’πες, σε πίστεψα, μου ’δωσες, το κράτησα, μου λείπεις, μου
   μιλάς, να το πιω, να σε ξεχάσω, το ’πια, σε θυμάμαι]{lang="el"} und je zwei in [σ’ το ’πα]{lang="el"}
   und [σ’ το ξαναλέω]{lang="el"}.
 - **Nach dem Imperativ (2):** [πες μου, δώσε μου]{lang="el"}.
 - **Besitzwort (2):** [το χέρι σου, μάτια μου]{lang="el"}.
-- **Doppelgänger:** [το]{lang="el"} in [το χέρι]{lang="el"} ist Artikel; [εσένα]{lang="el"} ist die
-  starke Form.
 
-Leicht übersehen: [δε μου μιλάς]{lang="el"} (Genitiv: „du sprichst nicht mit mir“) und
-[το κράτησα]{lang="el"} „ich hielt sie“, denn [το χέρι]{lang="el"} ist sächlich.
-:::
+Leicht übersehen: [δε μου μιλάς]{lang="el"}, mit Genitiv: „du sprichst nicht mit mir“.
 
-::: {.callout-note .exercise}
-## Übung 8.7: Hör-Auftrag
-
-**Schritt 1.** Hör die Liedzeilen zweimal, ohne mitzulesen:
-
-::: {lang="el" .listen}
-Μου ’πες «θα γυρίσω», και σε πίστεψα·
-μου ’δωσες το χέρι σου και το κράτησα.
-Τώρα μου λείπεις και δε μου μιλάς·
-πες μου, μάτια μου, πού πας;
-
-Δώσε μου κρασί, να το πιω, να σε ξεχάσω.
-Το ’πια, μα σε θυμάμαι πιο πολύ.
-Σ’ το ’πα μια φορά και σ’ το ξαναλέω:
-χωρίς εσένα δεν μπορώ.
-:::
-
-An wie vielen Stellen verschluckt ein schwaches Pronomen oder das Verb dahinter einen Vokal, sodass
-beides wie ein Wort klingt? Und wo hörst du einen Imperativ mit angehängtem [mu]?
-
-**Schritt 2.** Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) nach
-[μουσική]{lang="el"} und wähl ein Straßeninterview, in dem gefragt wird, welche Musik die Leute
-mögen. Hör drei Minuten ohne Untertitel und mach einen Strich für jedes [μου αρέσει]{lang="el"},
-[μου αρέσουν]{lang="el"} und [σου αρέσει]{lang="el"}. Dann mit griechischen Untertiteln
-nachzählen.
-:::
-
-::: {.callout-tip collapse="true" .hint}
-## Hinweis 1
-
-Achte auf Stellen, an denen die Betonung früh im Wort sitzt: [ˈmupes] statt [mu ˈipes].
-:::
-
-::: {.callout-tip collapse="true" .hint}
-## Hinweis 2
-
-Zwei der Stellen liegen in derselben Zeile, eine davon mit zwei verschluckten Vokalen.
-:::
-
-::: {.callout-tip collapse="true" .solution}
-## Lösung
-
-**Schritt 1:** **Fünf Stellen**: [μου ’πες]{lang="el"} [ˈmupes], [μου ’δωσες]{lang="el"}
-[ˈmuðoses], [το ’πια]{lang="el"} [ˈtopça], [σ’ το ’πα]{lang="el"} [ˈstopa] (zwei Vokale weg) und
-[σ’ το ξαναλέω]{lang="el"}, wo nur das Pronomen schrumpft. Sechs, wenn man
-[σ’ το ’πα]{lang="el"} doppelt zählt. [σε πίστεψα]{lang="el"} klingt eng, verliert aber
-nichts. Die Imperative: [πες μου]{lang="el"} am Ende der ersten Strophe, [Δώσε μου]{lang="el"} am Anfang der zweiten.
-
-**Schritt 2:** Eine feste Zahl gibt es nicht. Bei Aufzählungen kommt der Plural
-([μου αρέσουν τα …]{lang="el"}). Überhört wird oft [μ’ αρέσει]{lang="el"} [maˈresi], gesprochen ohne [ου]{lang="el"}.
+**Teil C:** Eine feste Zahl gibt es nicht. Am häufigsten sind [μου αρέσει, μου αρέσουν]{lang="el"}
+und [σου λέω]{lang="el"}. Überhört wird oft [μ’ αρέσει]{lang="el"} [maˈresi], gesprochen ohne
+[ου]{lang="el"}.
 :::
 
 ::: {.vocab}
@@ -890,11 +913,11 @@ seinem Vater weiß; die Enkelin hört zu.
 Ο πατέρας μου με έπαιρνε μαζί του στην ταβέρνα. Εκεί έπαιζαν μπουζούκι, κι εγώ τους άκουγα με
 ανοιχτό το στόμα. Στη μητέρα μου δεν το λέγαμε ποτέ.
 
-Και ύστερα ήρθε ο Θεοδωράκης. Το 1960 άκουσα στο ραδιόφωνο τον «Επιτάφιο»: ποίηση του Ρίτσου με
+Και ύστερα ήρθε ο Θεοδωράκης. Το 1960 άκουσα σε ένα μαγαζί τον δίσκο με τον «Επιτάφιο»: ποίηση του Ρίτσου με
 μπουζούκι! Ο πατέρας μου δεν το πίστευε. Μου είπε: «Βλέπεις; Τώρα μας ακούνε κι αυτοί.»
 
 Όταν ήρθε η χούντα, το 1967, απαγόρευσε τη μουσική του. Εμείς όμως τον ακούγαμε κρυφά. Ένας φίλος
-μου έφερε έναν δίσκο από το Παρίσι, και τον δανείσαμε σε όλη τη γειτονιά.
+μού έφερε έναν δίσκο από το Παρίσι, και τον δανείσαμε σε όλη τη γειτονιά.
 
 Σήμερα οι τουρίστες χορεύουν συρτάκι και νομίζουν ότι είναι αρχαίος χορός. Το έφτιαξαν όμως για
 μια ταινία, τον «Ζορμπά», το 1964. Μην τους το πεις. Τους αρέσει.
@@ -915,6 +938,7 @@ seinem Vater weiß; die Enkelin hört zu.
 | [μαζί τους]{lang="el"} | mit sich (wörtlich: mit ihnen) |
 | [το όργανο, τα όργανα]{lang="el"} | das (Musik-)Instrument |
 | [μού το έλεγε]{lang="el"} | er erzählte es mir ([μού]{lang="el"} mit Akzent, siehe unten) |
+| [το μαγαζί]{lang="el"} | der Laden |
 | [τα τούρκικα]{lang="el"} | türkische Lieder |
 | [η φυλακή]{lang="el"} | das Gefängnis |
 | [η λογοκρισία]{lang="el"} | die Zensur |
@@ -952,7 +976,7 @@ schrieb die Zensur den Musikern vor, was sie schreiben durften und was nicht.
 Mein Vater nahm mich mit in die Taverne. Dort spielten sie Bouzouki, und ich hörte ihnen mit
 offenem Mund zu. Meiner Mutter haben wir das nie erzählt.
 
-Und dann kam Theodorakis. 1960 hörte ich im Radio den „Epitaphios“: Gedichte von Ritsos mit
+Und dann kam Theodorakis. 1960 hörte ich in einem Laden die Platte mit dem „Epitaphios“: Gedichte von Ritsos mit
 Bouzouki! Mein Vater konnte es nicht glauben. Er sagte zu mir: „Siehst du? Jetzt hören die uns
 auch zu.“
 
@@ -966,9 +990,16 @@ Hör dir jetzt das hier an. Das mag ich am liebsten. Sag, gefällt es dir auch?
 :::
 
 Zwei Stellen verdienen einen zweiten Blick. [με ανοιχτό το στόμα]{lang="el"} „mit offenem Mund“
-ist eine feste Wendung. Und in [μου μού το έλεγε]{lang="el"} stehen zwei gleiche Wörter
-hintereinander: das Besitzwort ([ο πατέρας μου]{lang="el"}) und das Pronomen „mir“. Der Akzent
-auf dem zweiten, [μού]{lang="el"}, ist eine Lesehilfe, die zeigt: Hier beginnt etwas Neues.
+ist eine feste Wendung. Und in [Ο πατέρας μου μού το έλεγε]{lang="el"} und [Ένας φίλος μού
+έφερε]{lang="el"} trägt das Pronomen einen Akzent. Der Grund: Ohne ihn könnte man es als
+Besitzwort des Nomens davor lesen. Ein Minimalpaar:
+
+- [Η μητέρα μου είπε …]{lang="el"} Meine Mutter sagte …
+- [Η μητέρα μού είπε …]{lang="el"} Die Mutter sagte mir …
+
+[Ένας φίλος μου έφερε]{lang="el"} ohne Akzent hieße „ein Freund von mir brachte“. Den Akzent auf
+einem schwachen Pronomen hast du schon bei [Δώσε μού το]{lang="el"} gesehen, dort aus
+rhythmischen Gründen; hier ist er eine reine Lesehilfe.
 [τον ακούγαμε]{lang="el"} heißt „wir hörten ihn“, gemeint ist Theodorakis, also seine Musik.
 
 ::: {.callout-caution .uncertain}
@@ -982,17 +1013,17 @@ Der Großvater erzählt vereinfacht, wie man es am Tisch tut.
 - **Zensur:** Unter Metaxas wurden Liedtexte vorab geprüft; Lieder über Haschisch und Gefängnis
   verschwanden von den Platten.
 - **Epitaphios:** Ritsos schrieb das Gedicht 1936 nach dem Tabakarbeiterstreik in Thessaloniki.
-  Theodorakis vertonte Teile davon; 1960 erschienen zwei Aufnahmen, eine mit Grigoris
-  Bithikotsis und Bouzouki, eine von Manos Chatzidakis.
-- **Sirtaki:** Der Tanz aus *Alexis Sorbas* (Regie Michalis Kakogiannis, Musik Mikis Theodorakis) wird
+  Theodorakis vertonte Teile davon. 1960 erschienen kurz nacheinander (August und Oktober) zwei
+  Aufnahmen: eine von Manos Hadjidakis ([Μάνος Χατζιδάκις]{lang="el"}) mit Nana Mouskouri, eine
+  von Theodorakis mit Grigoris Bithikotsis und Bouzouki. Diese
+  Fassung sendete der staatliche Rundfunk nicht, auch das eine Form der Zensur.
+- **Sirtaki:** Der Tanz aus *Alexis Sorbas* (Regie Michael Cacoyannis, [Μιχάλης Κακογιάννης]{lang="el"}; Musik Mikis Theodorakis) wird
   meist als Neuschöpfung für den Film beschrieben, aufgebaut auf dem älteren
   [χασάπικο]{lang="el"}.
 - 2017 hat die UNESCO das Rembetiko in die Liste des immateriellen Kulturerbes aufgenommen.
 
 Zum Nachlesen: Gail Holst, *Road to Rembetika* (zuerst 1975).
 :::
-<!-- CHECK: Fakten der Vorsicht-Box und des Lesetexts prüfen: (1) Vamvakaris aus Syros, Hafenarbeiter in Piräus, Bouzouki autodidaktisch; (2) Zensur ab 1936/37 unter Metaxas, Haschischlieder verschwinden; (3) Epitaphios: Ritsos 1936, Tabakarbeiterstreik Thessaloniki Mai 1936; zwei Aufnahmen 1960 (Theodorakis mit Bithikotsis und Manolis Chiotis; Hatzidakis mit Nana Mouskouri); (4) Junta verbot Theodorakis’ Musik 1967 (Armeebefehl Nr. 13); (5) Sirtaki für „Alexis Zorbas“ (1964) geschaffen, auf Basis des Hasapiko; (6) UNESCO-Eintragung Rembetiko 2017; (7) Gail Holst, „Road to Rembetika“, Erstausgabe 1975. -->
-<!-- CHECK: „μου μού το έλεγε“: Ist der Akzent auf dem zweiten μου (Unterscheidung Besitzwort/Pronomen nach der Schulgrammatik) korrekt gesetzt und üblich? -->
 
 ::: {.callout-note .exercise}
 ## Übung 8.8: Die Geschichte einer Platte
@@ -1042,7 +1073,8 @@ Satz 7: Wem soll man nichts sagen, und was?
 
 **Teil B:**
 
-1. die Platte ([ο δίσκος]{lang="el"}), nicht Vamvakaris selbst
+1. gemeint ist die Platte ([ο δίσκος]{lang="el"}); grammatisch passt auch Vamvakaris, beide
+   sind männlich. Beide Antworten gelten.
 2. Markos Vamvakaris
 3. die Musiker, die in der Taverne Bouzouki spielten
 4. dass sie in die Taverne gingen, ein Sachverhalt
@@ -1055,7 +1087,6 @@ Satz 7: Wem soll man nichts sagen, und was?
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [ο πρόσφυγας, οι πρόσφυγες]{lang="el"} | [o ˈprosfiɣas], [i ˈprosfiʝes] | der Flüchtling |
-| [το ραδιόφωνο]{lang="el"} | [to raˈðʝofono] | das Radio |
 | [νομίζω, νόμισα]{lang="el"} | [noˈmizo], [ˈnomisa] | glauben, meinen |
 | [η ταβέρνα]{lang="el"} | [i taˈverna] | die Taverne |
 | [κρυφά]{lang="el"} | [kriˈfa] | heimlich |
