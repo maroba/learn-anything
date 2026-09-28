@@ -95,8 +95,8 @@ Dieselbe Geschichte, zwei Sprachen:
 
 Die Wahl der Wörter, Formen und Formeln passend zur Situation heißt **Register**, griechisch
 [το ύφος]{lang="el"}: [επίσημο ύφος]{lang="el"} ist der förmliche Ton, [οικείο ύφος]{lang="el"}
-der vertraute. Das Wort [ύφος]{lang="el"} kennst du vielleicht aus dem Alltag, wo es „Tonfall,
-Haltung“ heißt: [Μη μου μιλάς μ’ αυτό το ύφος!]{lang="el"} „Sprich nicht in diesem Ton mit mir!“
+der vertraute. Das Wort [ύφος]{lang="el"} stand schon in Kapitel 15 („der Stil“); im Alltag heißt es auch „Tonfall,
+Haltung“: [Μη μου μιλάς μ’ αυτό το ύφος!]{lang="el"} „Sprich nicht in diesem Ton mit mir!“
 
 Aufschlussreich ist, was die E-Mail **nicht** sagt. Am Telefon heißt der Vermieter [κύριε
 Στέλιο]{lang="el"}, und er sagt [κυρία Δάφνη]{lang="el"}: die Zwischenform aus Kapitel 7.
@@ -205,7 +205,8 @@ förmlich zu Bekannten heißt Abstand, vertraut zu Fremden heißt Nähe, die nic
 Die Register sind **Tendenzen**, keine Regeln, und die Grenzen verschieben sich: In vielen Büros und
 Online-Shops duzt man schneller als früher, und E-Mails werden insgesamt lockerer. Alter, Region
 und Branche spielen mit. Im Zweifel hilft der Grundsatz aus dem Lesetext am Ende: Folge dem
-anderen.
+anderen. Das ist eine Beobachtung aus dem Sprachgebrauch, keine belegte Studie; zur Tendenz
+unter Vertrauten siehe den Kasten zu Sifianou weiter unten.
 :::
 
 ::: {.callout-note .exercise}
@@ -279,8 +280,8 @@ aufmachen. Wie sie fragt, hängt davon ab, wen:
 6. [Θα σας παρακαλούσα να ανοίξετε αύριο στον υδραυλικό.]{lang="el"} – schriftlich, an eine
    Firma.
 
-[ανοίγω σε κάποιον]{lang="el"} heißt „jemandem die Tür aufmachen“. Jede Zeile ist eine Sprosse
-auf einer Leiter. Sprosse für Sprosse wird die Bitte länger und weiter von der Wirklichkeit
+[ανοίγω σε κάποιον]{lang="el"} heißt „jemandem die Tür aufmachen“. Die Zeilen bilden eine Leiter;
+Zeile 4 ist Sprosse 3 mit dem Weichmacher [μήπως]{lang="el"} davor, also fünf Sprossen. Sprosse für Sprosse wird die Bitte länger und weiter von der Wirklichkeit
 weggerückt: erst der Imperativ (Kapitel 9), dann die Frage im Präsens, [μπορώ να]{lang="el"}, dann
 [θα]{lang="el"} + Imperfekt (Kapitel 24) und schließlich [Θα σας παρακαλούσα να …]{lang="el"}
 „Ich möchte Sie bitten, …“, wörtlich „Ich würde Sie bitten“. Die letzte Form ist eine Bitte, die
@@ -992,7 +993,8 @@ Serien oft Komik. [εσείς → εσύ]{lang="el"} heißt Nähe oder Druck (de
 ## Zum Lesen: Küsse an den Professor {#sec-register-lesetext}
 
 Aus der Ratgeber-Kolumne eines Onlinemagazins, erfunden, aber nicht ganz unwahrscheinlich. Der
-Brief der Leserin ist neutral bis vertraut, die Antwort neutral, und beide zitieren Formeln aus
+Brief der Leserin ist neutral bis vertraut, die Antwort neutral in der Wortwahl, aber per du
+(gekreuzte Regler), und beide zitieren Formeln aus
 diesem Kapitel.
 
 ::: {lang="el"}
