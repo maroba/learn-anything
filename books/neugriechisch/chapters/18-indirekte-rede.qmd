@@ -10,7 +10,7 @@ title: "Er sagt, dass: indirekte Rede und indirekte Fragen"
   Aufforderung steht [να]{lang="el"}: [Μου είπε να βγάλω μετρητά.]{lang="el"}
 - **[αν]{lang="el"} als „ob“** (Kapitel 17): Hier darf [θα]{lang="el"} folgen: [Δεν ξέρω αν θα
   έρθει.]{lang="el"}
-- **Fragewörter** mit Akzent: [τι, ποιος, πού, πώς, πότε, γιατί, πόσο]{lang="el"}.
+- **Fragewörter:** [τι, ποιος, πού, πώς, πότε, γιατί, πόσο]{lang="el"} (πού und πώς mit Akzent, anders als [που, πως]{lang="el"}).
 :::
 
 ## Ein Kaffee aus Ikaria {#sec-indirekt-einstieg}
@@ -102,7 +102,7 @@ Und auffällig ist, was fehlt: Keine Form wird „zurückverschoben“. [Δεν 
 |---|---|---|
 | [ο ελληνικός καφές]{lang="el"} | [o eliniˈkos kaˈfes] | der griechische Kaffee (Mokka) |
 | [σκέτος, -η, -ο]{lang="el"} | [ˈscetos] | ohne Zucker (Kaffee); pur |
-| [μέτριος, -α, -ο]{lang="el"} | [ˈmetrios] | mittelsüß (Kaffee); mittelmäßig |
+| [μέτριος, -α, -ο]{lang="el"} | [ˈmetrios] | halbsüß (Kaffee); mittelmäßig |
 | [κάνει καλό (σε)]{lang="el"} | [ˈkani kaˈlo] | tut gut, ist gesund für; [κάνει κακό]{lang="el"} schadet |
 | [η μελέτη]{lang="el"} | [i meˈleti] | die Studie; das Lernen |
 | [η έρευνα]{lang="el"} | [i ˈerevna] | die Forschung; die Untersuchung |
@@ -179,7 +179,7 @@ Die Folgen für die Übersetzung ins Griechische:
   und betont, dass der Verlust vor dem Sagen lag (Kapitel 14).
 - Englisches [*would*]{lang="en"} heißt hier einfach [θα]{lang="el"} mit der Form, die im
   Original stand: [θα έρθει]{lang="el"}, Foto oder Film wie immer.
-- Auch das Aussagen-Verb selbst hat Aspekt: [είπε ότι]{lang="el"} für einen Satz, einmal gesagt;
+- Auch das Verb des Sagens selbst hat Aspekt: [είπε ότι]{lang="el"} für einen Satz, einmal gesagt;
   [έλεγε ότι]{lang="el"} für etwas, das jemand immer wieder sagte: [Η γιαγιά μου έλεγε πάντα ότι
   ο καφές είναι φάρμακο.]{lang="el"}
 
@@ -273,7 +273,7 @@ Original; dann landet man schnell bei [θα ήταν]{lang="el"} oder [δε θα
 ### Was sich ändert: Personen, Orte, Zeitangaben {#sec-indirekt-pronomen}
 
 Wer gesprochen hat, war jemand anderes; also verschieben sich Personen und Pronomen, wie in jeder
-Sprache. In der Odyssee (Kapitel 3) fragt Polyphem:
+Sprache. In der *Odyssee* (Kapitel 3) fragt Polyphem:
 
 - [«Πώς σε λένε;» με ρώτησε. «Κανένα», του είπα.]{lang="el"}
 - [Με ρώτησε πώς με λένε, και του είπα ότι με λένε Κανένα.]{lang="el"}
@@ -388,7 +388,7 @@ Imperativ wird zur [να]{lang="el"}-Form, und zwar **im selben Aspekt**:
   νερό.]{lang="el"}
 - [«Μην ανησυχείς!»]{lang="el"} → [Μου είπε να μην ανησυχώ.]{lang="el"}
 
-Das Verbot mit [μην]{lang="el"} wird zu [να μην]{lang="el"}. Und wieder wechselt die Person: Der
+Das Verbot mit [μη(ν)]{lang="el"} wird zu [να μη(ν)]{lang="el"}. Und wieder wechselt die Person: Der
 Arzt sagt [πίνε]{lang="el"}, der Patient berichtet [να πίνω]{lang="el"}.
 
 Wer mit Aufforderungen berichtet, braucht die Verben mit ihren Fällen:
@@ -407,7 +407,7 @@ Wer mit Aufforderungen berichtet, braucht die Verben mit ihren Fällen:
 
 - [ρωτάω]{lang="el"} nimmt wie deutsch „fragen“ den **Akkusativ**: [με ρώτησε]{lang="el"}, nicht
   \*[μου ρώτησε]{lang="el"}. [λέω]{lang="el"} dagegen nimmt den Genitiv: [μου είπε]{lang="el"}.
-- \*[Μου είπε ότι πίνω νερό]{lang="el"} heißt „Er sagte mir, dass ich Wasser trinke“, eine
+- [Μου είπε ότι πίνω νερό]{lang="el"} heißt „Er sagte mir, dass ich Wasser trinke“, eine
   Feststellung. Die Anweisung braucht [να]{lang="el"}.
 :::
 
@@ -433,14 +433,14 @@ in der Apotheke mit [Η φαρμακοποιός μού ζήτησε να …]{l
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Imperativ im Film ([πίνε]{lang="el"}) bleibt Film, im Foto ([πάρε]{lang="el"}) bleibt Foto. Die
+Film-Imperativ ([πίνε]{lang="el"}) bleibt Film, Foto-Imperativ ([πάρε]{lang="el"}) bleibt Foto. Die
 Person wird „ich“.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-[μην]{lang="el"} wird [να μην]{lang="el"}. Die Apothekerin siezt dich im Plural; im Bericht bist
+[μη(ν)]{lang="el"} wird [να μη(ν)]{lang="el"}. Die Apothekerin siezt dich im Plural; im Bericht bist
 du einer: [να περιμένω]{lang="el"}. Und aus ihrem [μου]{lang="el"} wird [της]{lang="el"}.
 :::
 
@@ -460,7 +460,7 @@ du einer: [να περιμένω]{lang="el"}. Und aus ihrem [μου]{lang="el"} 
 Bei 5 geht beides: [να έρθω]{lang="el"} aus Sicht des Arztes, [να πάω]{lang="el"} aus
 deiner.
 
-**Typische Fehler:** \*[να πιω]{lang="el"} bei 1 (dann einmal, nicht regelmäßig); \*[μου είπε
+**Typische Fehler:** [να πιω]{lang="el"} bei 1 (dann einmal, nicht regelmäßig); [μου είπε
 ότι πίνω]{lang="el"} (Feststellung statt Anweisung); \*[να δεν]{lang="el"}; \*[με
 ζήτησε]{lang="el"} statt [μου ζήτησε]{lang="el"} oder, betont, [ζήτησε από μένα]{lang="el"}.
 :::
@@ -495,7 +495,7 @@ Hat die Frage kein Fragewort, steht [αν]{lang="el"} „ob“, wie spanisch [*s
 
 Auch hier bleibt die Zeit des Originals: [με ρώτησε αν έρχομαι]{lang="el"}, wo das Englische
 meist verschiebt: [*he asked if I was coming*]{lang="en"}.
-Und nach „ob“ darf [θα]{lang="el"} stehen, nach „falls“ nicht (Kapitel 17).
+Und nach „ob“ darf [θα]{lang="el"} stehen; nach „falls“ ist es nicht Standard (Kapitel 17).
 
 [μήπως]{lang="el"} kennst du als „vielleicht, etwa“ am Anfang einer Frage: [Μήπως έχεις ένα
 λεπτό;]{lang="el"} Als „ob“ klingt es vorsichtiger, mit einer Hoffnung oder Befürchtung:
@@ -506,7 +506,7 @@ fürchte, wir kommen zu spät.“
 ::: {.callout-tip}
 ## Tipp
 
-Die Echo-Frage mit [αν]{lang="el"} kennst du aus Kapitel 17: [Αν τον θυμάμαι;]{lang="el"} „Ob
+Die Echo-Frage mit [αν]{lang="el"} kennst du aus Kapitel 10: [Αν τον θυμάμαι;]{lang="el"} „Ob
 ich mich an ihn erinnere?“, gemeint ist „Und wie!“. Mit Fragewort wiederholt man einfach die
 Frage: [— Πού πας; — Πού πάω; Στη δουλειά.]{lang="el"}
 :::
@@ -529,8 +529,8 @@ sehen fast gleich aus:
 - [Δεν ξέρω τον φίλο **που** μένει εκεί.]{lang="el"} – Ich kenne den Freund nicht, **der** dort
   wohnt.
 
-Beim Hören hilft die Betonung: [πώς]{lang="el"} und [πού]{lang="el"} werden deutlich betont,
-[pos], [pu] ohne Akzent hängen sich unbetont an das nächste Wort.
+Beim Hören hilft die Betonung: [πώς]{lang="el"} und [πού]{lang="el"} werden deutlich betont;
+[πως]{lang="el"} und [που]{lang="el"} ohne Akzent hängen sich unbetont an das nächste Wort.
 
 ::: {.callout-important}
 ## Merke
@@ -609,7 +609,7 @@ auf Deutsch, aber ein Relativsatz.
 7. Δεν ξέρω τι να κάνουμε.
 :::
 
-Die Zeit bleibt (nicht \*[ποιος ήμουν]{lang="el"}); [σας]{lang="el"} wird [μας]{lang="el"}.
+Die Zeit bleibt in der Regel ([ποιος ήμουν]{lang="el"} hört man auch, eindeutiger ist das Präsens); [σας]{lang="el"} wird [μας]{lang="el"}.
 
 **Teil B: 8a, 9b, 10b, 11a, 12a, 13b, 14a, 15b.**
 
@@ -733,7 +733,7 @@ die Quelle offen, eingeschobenes [λέει]{lang="el"} ist umgangssprachlich „
 Idiomatischer ist [Ερευνητές ισχυρίζονται ότι …]{lang="el"}: Behaupten tun eher Menschen als
 Studien. Auch [Λέγεται ότι …]{lang="el"} geht. [Σύμφωνα με νέα μελέτη …]{lang="el"} schiebt die
 Verantwortung ab, zweifelt aber nicht. **Typischer Fehler:** zusätzlich die Zeit ändern
-(\*[αναγνώριζαν]{lang="el"}), wie englisch [*recognized*]{lang="en"}. Der Zweifel steckt allein im
+([αναγνώριζαν]{lang="el"}), wie englisch [*recognized*]{lang="en"}. Der Zweifel steckt allein im
 Verb des Sagens.
 :::
 
@@ -967,7 +967,7 @@ noch waren; das Präsens ist eindeutiger.
 - **Personen, Pronomen, Orts- und Zeitangaben** passen sich dem Berichtenden an:
   [«Σε περιμένω αύριο» → Μου είπε ότι με περιμένει την επόμενη μέρα.]{lang="el"}
 - **Aufforderungen:** [να]{lang="el"} + Form im selben Aspekt wie der Imperativ, Verbot
-  [να μην]{lang="el"}. [λέω]{lang="el"} + Genitiv, [ζητάω]{lang="el"} + Genitiv
+  [να μη(ν)]{lang="el"}. [λέω]{lang="el"} + Genitiv, [ζητάω]{lang="el"} + Genitiv
   ([μου ζήτησε]{lang="el"}) oder [από]{lang="el"} + Akkusativ, [ρωτάω]{lang="el"} + Akkusativ.
 - **Ja/Nein-Fragen:** [αν]{lang="el"} (mit [θα]{lang="el"} möglich), vorsichtig
   [μήπως]{lang="el"}. **Fragen mit Fragewort:** Fragewort bleibt, **mit Akzent**
@@ -1147,7 +1147,7 @@ Namen bekannt.
 
 Bei 7 ändert sich nichts außer der Einleitung. Bei 8 bleibt der Aorist. Bei 9 geht auch
 [Ξέρεις …;]{lang="el"} oder [… γιατί ζείτε εδώ τόσο πολύ;]{lang="el"}. **Typische Fehler:** bei 7
-[σε]{lang="el"} zu [με]{lang="el"} machen; bei 9 \*[Αν ξέρετε …;]{lang="el"}: Das klänge wie ein
+[σε]{lang="el"} zu [με]{lang="el"} machen; bei 9 [Αν ξέρετε …;]{lang="el"}: Das klänge wie ein
 Echo („Ob Sie wissen …?“), keine neue Frage.
 :::
 

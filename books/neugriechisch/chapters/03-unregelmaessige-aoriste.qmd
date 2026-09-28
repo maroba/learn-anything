@@ -112,7 +112,7 @@ trinkt und sagt.
 ::: {.callout-caution .uncertain}
 ## Vorsicht
 
-Ob die heutige Insel Ithaka das Ithaka Homers ist, ist umstritten. Die Odyssee beschreibt eine
+Ob die heutige Insel Ithaka das Ithaka Homers ist, ist umstritten. Die *Odyssee* beschreibt eine
 niedrige Insel, ganz im Westen, was auf das bergige Ithaka schlecht passt; eine bekannte Gegenthese
 ist die Halbinsel Paliki auf Kefalonia (Robert Bittlestone, *Odysseus Unbound*, 2005). Auf Ithaka
 gelten der Aetos, wo Schliemann 1868 grub, und die „Schule Homers“ bei Stavros als Kandidaten. Ein
@@ -297,7 +297,7 @@ das Augment, und die zweisilbigen Formen haben keins mehr, das man weglassen kö
 
 ## Gehen, kommen, weg: [πήγα, ήρθα, έφυγα]{lang="el"} {#sec-unreg-unterwegs}
 
-In der Odyssee erzählt Odysseus seine Irrfahrten selbst, an einem Abend am Hof des
+In der *Odyssee* erzählt Odysseus seine Irrfahrten selbst, an einem Abend am Hof des
 Phaiakenkönigs, vier Gesänge lang, zwischen Essen und Wein: vielleicht der berühmteste Diaabend
 der Literatur, und das Publikum ist bis zum Ende geblieben. Hier erzählt er, wie er es heute am
 Tisch täte, in Alltagsgriechisch. Zuerst der Aufbruch.
@@ -730,7 +730,7 @@ aber klar.
 
 ## Sehen, sagen, lernen: [είδα, είπα, έμαθα]{lang="el"} {#sec-unreg-sinne}
 
-Die Sirenen singen in der Odyssee nicht von Liebe. Sie versprechen etwas viel Gefährlicheres.
+Die Sirenen singen in der *Odyssee* nicht von Liebe. Sie versprechen etwas viel Gefährlicheres.
 
 ::: {lang="el"}
 Είδαμε το νησί των Σειρήνων από μακριά. Βούλωσα τα αυτιά των συντρόφων μου με κερί, όπως μου
@@ -1509,7 +1509,7 @@ der Stamm von [βγήκα]{lang="el"} ohne Anfang (wie [δεις, πεις]{lang
 ## Übung 3.8: Was der Text wirklich sagt
 
 **Teil A: richtig oder falsch?** Antworte aus dem griechischen Text heraus, nicht aus dem, was
-du über die Odyssee schon weißt.
+du über die *Odyssee* schon weißt.
 
 1. Odysseus wachte auf dem Schiff der Phaiaken auf.
 2. Als er aufwachte, erkannte er seine Insel sofort.
