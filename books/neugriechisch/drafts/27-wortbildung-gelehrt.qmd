@@ -47,9 +47,9 @@ Meer und hält sich jetzt das Ohr.
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
 
-— Also, der Kleine hat eine Mittelohrentzündung. Vom vielen Schwimmen. Die sehen wir jeden Sommer.
+— Also, der Kleine hat eine Ohrenentzündung. Vom vielen Schwimmen. Die sehen wir jeden Sommer.
 
-— *Otitis*, also?
+— [*Otitis*]{lang="la"}, also?
 
 — Genau. Sie sagen es auf Lateinisch, wir auf Griechisch. Ich verschreibe Ihnen Tropfen mit
 Antibiotikum. Hat er Fieber?
@@ -73,8 +73,8 @@ Der Vater hat fast alles verstanden, und zwar nicht wegen seines Griechischkurse
 Fachsprachen gebaut hat. Gescheitert ist er nur an der Betonung, [θερμομέτρο]{lang="el"} statt
 [θερμόμετρο]{lang="el"}, weil er das deutsche *Thermo**me**ter* im Ohr hatte.
 
-Und die Ärztin hat recht, auch wenn sie übertreibt: *Otitis* ist lateinisch nur in der Form.
-[ωτ-]{lang="el"} ist das Ohr (altgriechisch [ους, ωτός]{lang="grc"}), und die Endung *-itis* für
+Und die Ärztin hat recht, auch wenn sie übertreibt: [*Otitis*]{lang="la"} ist lateinisch nur in der Form.
+[ωτ-]{lang="el"} ist das Ohr (altgriechisch [ους, ωτός]{lang="grc"}), und die Endung [*-itis*]{lang="la"} für
 Entzündungen kommt vom griechischen [-ίτις]{lang="grc"}. Für eine Griechin ist das Wort durchsichtig:
 „Ohr-Entzündung“. Den Riesen [ωτο-ρινο-λαρυγγο-λόγος]{lang="el"} kürzt sie genauso ab wie wir
 unseren Hals-Nasen-Ohren-Arzt: [ο ωριλάς]{lang="el"}, aus der Abkürzung
@@ -149,7 +149,8 @@ Messgerät, kein Stück Wärme. Die wichtigsten hinteren Teile:
 | [-λογία / -λόγος]{lang="el"} | Lehre / Fachmann ([ο λόγος]{lang="el"} Wort, Vernunft) | [η ψυχολογία, ο σεισμολόγος]{lang="el"} |
 | [-γραφία / -γράφος]{lang="el"} | Beschreibung, Bild / wer schreibt | [η γεωγραφία, ο φωτογράφος]{lang="el"} |
 | [-νομία / -νόμος]{lang="el"} | Ordnung, Gesetz | [η αστρονομία, η οικονομία]{lang="el"} |
-| [-μετρο, -σκόπιο, -φωνο]{lang="el"} | Gerät: misst, zeigt, klingt | [το χιλιόμετρο, το τηλεσκόπιο, το μικρόφωνο]{lang="el"} |
+| [-μετρο]{lang="el"} | Maß, Messgerät | [το χιλιόμετρο, το βαρόμετρο]{lang="el"} |
+| [-σκόπιο, -φωνο]{lang="el"} | Gerät zum Schauen, zum Klingen | [το τηλεσκόπιο, το μικρόφωνο]{lang="el"} |
 | [-ίατρος]{lang="el"} | Arzt | [ο παιδίατρος, ο ψυχίατρος]{lang="el"} |
 | [-ίτιδα]{lang="el"} | Entzündung | [η αρθρίτιδα, η βρογχίτιδα]{lang="el"} |
 
@@ -167,12 +168,12 @@ Die alten Formen [ωτ-, ριν-, ιατρ-]{lang="el"} leben nur in den gelehrt
 |---|---|---|
 | [το μικροσκόπιο]{lang="el"} | [to mikroˈskopio] | das Mikroskop |
 | [η τηλεόραση]{lang="el"} | [i tileˈorasi] | das Fernsehen; der Fernseher |
-| [τα μαχαιροπίρουνα]{lang="el"} | [ta maxeroˈpiruna] | das Besteck |
+| [τα μαχαιροπίρουνα]{lang="el"} | [ta maçeroˈpiruna] | das Besteck |
 | [ο παιδίατρος, η παιδίατρος]{lang="el"} | [o peˈðiatros] | der Kinderarzt, die Kinderärztin |
 | [ο οδοντίατρος, η οδοντίατρος]{lang="el"} | [o oðoˈdiatros] | der Zahnarzt, die Zahnärztin |
 | [η ιατρική]{lang="el"} | [i iatriˈci] | die Medizin (Fach) |
-| [το ιατρείο]{lang="el"} | [to iatˈrio] | die Arztpraxis |
-| [το αυτί, τα αυτιά]{lang="el"} | [to afˈti], [ta afˈtʝa] | das Ohr |
+| [το ιατρείο]{lang="el"} | [to iaˈtrio] | die Arztpraxis |
+| [το αυτί, τα αυτιά]{lang="el"} | [to afˈti], [ta afˈtça] | das Ohr |
 | [η μύτη]{lang="el"} | [i ˈmiti] | die Nase |
 :::
 
@@ -220,8 +221,8 @@ Klang, sondern schau auf den Akzent. Er steht immer da.
 
 ### [-ση, -ξη, -ψη]{lang="el"}: der Aorist im Nomen {#sec-gelehrt-aorist-nomen}
 
-Die letzte Zeile der Tabelle lässt sich erklären. Stell ein paar Nomen neben die ich-Form des
-Aorists:
+Zwei Wörter aus der letzten Zeile, [ανάλυση]{lang="el"} und [υπόθεση]{lang="el"}, gehören zu
+einer großen Familie. Stell ein paar ihrer Verwandten neben die ich-Form des Aorists:
 
 | Aorist | Nomen | Deutsch |
 |---|---|---|
@@ -311,7 +312,7 @@ Vorsilbe.
 
 Die Methode aus Kapitel 26 gilt weiter: Vorsilbe abtrennen, Rest erkennen, am Satz prüfen. Nur ist
 der Rest bei gelehrten Wörtern öfter unbekannt, und die Bedeutung hat sich weiter entfernt. [η
-υπόθεση]{lang="el"} ist wörtlich eine „Unter-Stellung“, lateinisch *suppositio*; was sie im Alltag
+υπόθεση]{lang="el"} ist wörtlich eine „Unter-Stellung“, lateinisch [*suppositio*]{lang="la"}; was sie im Alltag
 heißt, steht in @sec-gelehrt-falsche-freunde.
 
 <!-- EXERCISE: gelehrte Vorsilben abtrennen und Bedeutung erschließen; acht Sätze mit je einem hervorgehobenen Wort (αντίθετος, ανώνυμος, η εξαγωγή, η περιφέρεια, προϊστορικός, το υπερηχογράφημα „Ultraschallbild“, η υπόγεια διάβαση, η αντίδραση), Grundwörter angegeben; Bedeutung aus nummerierter Liste wählen und Vorsilbe benennen, Antwort „a3, b7 …“; Lösung mit Zerlegung und lateinischer/deutscher Parallele, wo sie hilft; Schwierigkeit 2 -->
@@ -456,8 +457,8 @@ Vor dem Hören:
 - Vortragende gliedern mit festen Wendungen: [Ας ξεκινήσουμε από …]{lang="el"} „Fangen wir an
   bei …“, [με άλλα λόγια]{lang="el"} „mit anderen Worten“, [Κλείνοντας, …]{lang="el"} „Zum
   Schluss …“ (Gerundium, Kapitel 19).
-- Achte auf das Verb [κόβω]{lang="el"} „schneiden“ (Kapitel 6): Es fällt mehrmals, und um genau
-  dieses Wort geht es.
+- Achte auf das Verb [κόβω]{lang="el"} „schneiden“ (Kapitel 6): Es fällt mehrmals, denn um das
+  Schneiden dreht sich die ganze Geschichte.
 
 **Worthilfen:** [τέμνω]{lang="el"} (alt) schneiden · [αδιαίρετος]{lang="el"} unteilbar ·
 [το σωματίδιο]{lang="el"} Teilchen · [το κεχριμπάρι]{lang="el"} Bernstein · [τρίβω]{lang="el"}
@@ -498,7 +499,7 @@ Mitte, und wieder, wo höre ich auf? Seine Antwort war: Irgendwo gibt es ein St�
 mehr schneiden lässt. Er nannte es „Atom“, aus dem „a“ und dem alten Verb [τέμνω]{lang="el"}, das
 „schneiden“ bedeutet. Mit anderen Worten: Ein Atom ist das, was sich nicht schneiden lässt.
 
-Später übersetzte Cicero das Wort ins Lateinische: *individuum*, das Unteilbare. So haben wir heute
+Später übersetzte Cicero das Wort ins Lateinische: [*individuum*]{lang="la"}, das Unteilbare. So haben wir heute
 zwei „Atome“: das Atom der Physik und die Person, die neben Ihnen sitzt.
 
 1897 entdeckte Thomson das Elektron, ein Teilchen, viel kleiner als das Atom. Das Atom lässt sich
@@ -514,16 +515,16 @@ Wissenschaft oft. Die Theorie ändert sich, der Begriff bleibt.
 ::: {.callout-caution .uncertain}
 ## Vorsicht
 
-- Dass Cicero [ἄτομον]{lang="grc"} mit *individuum* wiedergab, ist gut belegt (er spricht von
+- Dass Cicero [άτομον]{lang="grc"} mit [*individuum*]{lang="la"} wiedergab, ist gut belegt (er spricht von
   [*corpora individua*]{lang="la"}). Auf welchem Weg [το άτομο]{lang="el"} zur „Person“ wurde,
-  vereinfacht der Vortrag: Die Bedeutung dürfte über lateinisch *individuum* und dessen Nachfahren
+  vereinfacht der Vortrag: Die Bedeutung dürfte über lateinisch [*individuum*]{lang="la"} und dessen Nachfahren
   (französisch [*individu*]{lang="fr"}) ins Neugriechische zurückgekommen sein.
 - Dass schon Thales geriebenen Bernstein beobachtete, ist späte Überlieferung. Gilberts Wort war
   lateinisch [*electricus*]{lang="la"} (1600); „Elektron“ als Name des Teilchens stammt von
   George Johnstone Stoney (1891), Thomson wies das Teilchen 1897 nach.
 :::
 
-<!-- CHECK: Cicero, De finibus I 17 (corpora individua) als Übersetzung von ἄτομα; Weg der Bedeutung „Person“ von άτομο (Lehnbedeutung nach frz. individu?) im ΛΚΝ/Babiniotis prüfen; Gilbert, De Magnete 1600, „electricus“; Stoney 1891 „electron“; Thomson 1897 -->
+<!-- CHECK: Cicero, De finibus I 17 (corpora individua) als Übersetzung von άτομα; Weg der Bedeutung „Person“ von άτομο (Lehnbedeutung nach frz. individu?) im ΛΚΝ/Babiniotis prüfen; Gilbert, De Magnete 1600, „electricus“; Stoney 1891 „electron“; Thomson 1897 -->
 
 ::: {.callout-note collapse="true" .vocab-text}
 ## Wortschatz zum Text
@@ -613,9 +614,9 @@ Ein Text, wie er in der Wissenschaftsbeilage einer Sonntagszeitung stehen könnt
 ::: {.callout-caution .uncertain}
 ## Vorsicht
 
-- Lavoisier prägte die Namen zwischen etwa 1777 und 1787, teils mit Kollegen; *azote* wird ihm
+- Lavoisier prägte die Namen zwischen etwa 1777 und 1787, teils mit Kollegen; [*azote*]{lang="fr"} wird ihm
   und seinen Mitstreitern der neuen chemischen Nomenklatur zugeschrieben. *Stickstoff* ist keine
-  Übersetzung von *azote*, sondern eine eigene deutsche Bildung („erstickender Stoff“) mit
+  Übersetzung von [*azote*]{lang="fr"}, sondern eine eigene deutsche Bildung („erstickender Stoff“) mit
   ähnlichem Gedanken.
 - Das Wort *Mikroskop* wird meist Giovanni Faber (1625), *Teleskop* Giovanni Demisiani (1611)
   zugeschrieben, beide im Umfeld der römischen Accademia dei Lincei. Den *Dinosaurier* benannte
@@ -630,15 +631,15 @@ Ein Text, wie er in der Wissenschaftsbeilage einer Sonntagszeitung stehen könnt
 **Wörter, die heimkehrten**
 
 Ende des 18. Jahrhunderts gab der französische Chemiker Antoine Lavoisier einem Gas, das man gerade
-entdeckt hatte, einen Namen: *oxygène*. Das Wort ist griechisch: von [οξύ]{lang="el"} „Säure“ und
+entdeckt hatte, einen Namen: [*oxygène*]{lang="fr"}. Das Wort ist griechisch: von [οξύ]{lang="el"} „Säure“ und
 [-γόνο]{lang="el"}, „das, was hervorbringt“. Lavoisier glaubte, alle Säuren enthielten dieses Gas.
 Er irrte sich, aber der Name blieb. Ein anderes Gas bildet Wasser, wenn es verbrennt. Er nannte es
-*hydrogène*: das, was Wasser hervorbringt. Für ein drittes, in dem ein Tier nicht leben kann, wählte
-er *azote*, „ohne Leben“.
+[*hydrogène*]{lang="fr"}: das, was Wasser hervorbringt. Für ein drittes, in dem ein Tier nicht leben kann, wählte
+er [*azote*]{lang="fr"}, „ohne Leben“.
 
 Die Deutschen bildeten eigene Wörter mit demselben Gedanken: Sauerstoff, Wasserstoff, Stickstoff.
 Die Griechen mussten nichts übersetzen. Sie nahmen ihre Wörter zurück: [οξυγόνο, υδρογόνο,
-άζωτο]{lang="el"}. Solche Wörter heißen Rückentlehnungen: in Europa aus griechischen Teilen gebaut
+άζωτο]{lang="el"}. Solche Wörter heißen **Rückentlehnungen**: in Europa aus griechischen Teilen gebaut
 und dann nach Griechenland zurückgekehrt.
 
 Die meisten Wörter der Wissenschaft haben eine solche Geschichte. Mikroskop und Teleskop bekamen
