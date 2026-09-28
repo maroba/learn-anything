@@ -19,7 +19,7 @@
 | 13 Es wurde gefunden: das Mediopassiv | veröffentlicht | Welle 7; Audio vollständig |
 | 14 Hast du schon …? Perfekt und Plusquamperfekt | veröffentlicht | Welle 7; Audio vollständig |
 | 15 Der Film, den ich gesehen habe: Relativsätze | veröffentlicht | Welle 7; Audio vollständig |
-| 16 Weil, obwohl, damit: Nebensätze | Konsistenz | Welle 8; überarbeitet |
+| 16 Weil, obwohl, damit: Nebensätze | veröffentlicht | Welle 8; Audio läuft |
 | 17 Wenn … dann: realer Konditional und Zeitsätze | im Review | Welle 9; Übungen fertig |
 | 18 Er sagt, dass: indirekte Rede und indirekte Fragen | Entwurf | Welle 9 |
 | 19 Müde, aber glücklich: Partizip und Gerundium | überarbeitet | Welle 8; Konsistenz nach 17, 18 |

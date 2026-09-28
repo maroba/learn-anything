@@ -1,0 +1,712 @@
+---
+title: "Er sagt, dass: indirekte Rede und indirekte Fragen"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+- **„Dass“** (Kapitel 16): Nach Verben des Sagens und Denkens steht [ότι]{lang="el"} oder
+  [πως]{lang="el"}, ohne Komma davor: [Λένε ότι το μηχάνημα αδειάζει.]{lang="el"} Für eine
+  Aufforderung steht [να]{lang="el"}: [Μου είπε να βγάλω μετρητά.]{lang="el"}
+- **[αν]{lang="el"} als „ob“** (Kapitel 17): Hier darf [θα]{lang="el"} folgen: [Δεν ξέρω αν θα
+  έρθει.]{lang="el"}
+- **Fragewörter** mit Akzent: [τι, ποιος, πού, πώς, πότε, γιατί, πόσο]{lang="el"}.
+:::
+
+## Ein Kaffee aus Ikaria {#sec-indirekt-einstieg}
+
+Sonntagmorgen auf einem Athener Balkon. Sie liest die Nachrichten auf dem Handy, er steht mit dem
+[μπρίκι]{lang="el"} am Herd.
+
+::: {lang="el"}
+— Άκου αυτό: «Ο ελληνικός καφές κάνει καλό στην καρδιά».
+
+— Ποιος το λέει;
+
+— Επιστήμονες του Πανεπιστημίου Αθηνών. Έκαναν μια μελέτη στην Ικαρία. Γράφει ότι οι
+ηλικιωμένοι που πίνουν ελληνικό καφέ κάθε μέρα έχουν πιο γερή καρδιά.
+
+— Πέρσι δεν έλεγαν ότι ο καφές ανεβάζει την πίεση;
+
+— Αυτό το λέει ο γιατρός σου, όχι οι επιστήμονες.
+
+— Ο γιατρός μού είπε να πίνω έναν την ημέρα. Σκέτο.
+
+— Ε, λοιπόν; Κι εδώ λέει έναν ή δύο την ημέρα. Ο δημοσιογράφος ρωτάει τον καθηγητή αν αυτό
+ισχύει για όλους.
+
+— Και τι του απαντάει;
+
+— Ότι δεν ξέρουν ακόμα. Ότι χρειάζεται κι άλλη έρευνα.
+
+— Πάντα αυτό λένε στο τέλος.
+
+— Γράφει και πώς τον πίνουν στην Ικαρία: βραστό, στο μπρίκι, το πρωί. Και μέτριο.
+
+— Μέτριο; Φτιάξε μου έναν τότε. Και σε είκοσι χρόνια θα σου πω αν είχαν δίκιο.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Hör dir das an: „Griechischer Kaffee tut dem Herzen gut.“
+
+— Wer sagt das?
+
+— Wissenschaftler der Universität Athen. Sie haben eine Studie auf Ikaria gemacht. Da steht, dass
+ältere Menschen, die jeden Tag griechischen Kaffee trinken, ein gesünderes Herz haben.
+
+— Hieß es nicht letztes Jahr, Kaffee treibt den Blutdruck hoch?
+
+— Das sagt dein Arzt, nicht die Wissenschaftler.
+
+— Mein Arzt hat gesagt, ich soll einen am Tag trinken. Ohne Zucker.
+
+— Na also. Hier steht auch: einen oder zwei am Tag. Der Journalist fragt den Professor, ob das
+für alle gilt.
+
+— Und was antwortet er?
+
+— Dass sie es noch nicht wissen. Dass noch mehr Forschung nötig ist.
+
+— Das sagen sie am Ende immer.
+
+— Da steht auch, wie man ihn auf Ikaria trinkt: aufgekocht, im Briki, morgens. Und halbsüß.
+
+— Halbsüß? Dann mach mir einen. Und in zwanzig Jahren sag ich dir, ob sie recht hatten.
+:::
+
+Der Arzt hat „ohne Zucker“ gesagt, die Studie sagt „halbsüß“; Er entscheidet sich für die
+Wissenschaft. Griechischer Kaffee wird im [μπρίκι]{lang="el"} aufgekocht, und wer ihn bestellt,
+sagt gleich, wie süß: [σκέτο]{lang="el"} ohne Zucker, [μέτριο]{lang="el"} mit einem Löffel,
+[γλυκό]{lang="el"} mit zwei. Bis in die 1970er-Jahre hieß er auch in Griechenland meist „türkischer
+Kaffee“; nach 1974 setzte sich [ελληνικός]{lang="el"} durch.
+
+<!-- CHECK: Umbenennung τούρκικος → ελληνικός καφές nach 1974 (u. a. Werbung „Εμείς τον λέμε ελληνικό“): Zeitpunkt und Darstellung prüfen. Studie: Siasos et al. 2013, Vascular Medicine, „Ikaria study“, gekochter griechischer Kaffee und Endothelfunktion bei Älteren, Universität Athen: stimmt die vereinfachte Wiedergabe („gesünderes Herz“, „ein oder zwei am Tag“)? -->
+
+Fast jeder Satz des Gesprächs gibt wieder, was andere gesagt oder gefragt haben:
+
+- [Γράφει ότι … έχουν]{lang="el"}, [δεν έλεγαν ότι … ανεβάζει]{lang="el"}: Aussagen mit
+  [ότι]{lang="el"}.
+- [μού είπε να πίνω]{lang="el"}: eine Anweisung mit [να]{lang="el"}.
+- [ρωτάει … αν ισχύει]{lang="el"}, [θα σου πω αν είχαν]{lang="el"}: Fragen ohne Fragewort mit
+  [αν]{lang="el"}.
+- [Γράφει … πώς τον πίνουν]{lang="el"}: eine Frage mit Fragewort, das bleibt, wie es ist.
+- [Ότι δεν ξέρουν ακόμα.]{lang="el"}: Im Gespräch fängt eine Antwort oft direkt mit
+  [ότι]{lang="el"} an, das [λέει]{lang="el"} davor denkt man sich.
+
+Und auffällig ist, was fehlt: Keine Form wird „zurückverschoben“. [Δεν έλεγαν ότι ο καφές
+ανεβάζει]{lang="el"} steht im Präsens, obwohl das Gerede vom letzten Jahr ist.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ο ελληνικός καφές]{lang="el"} | [o eliniˈkos kaˈfes] | der griechische Kaffee (Mokka) |
+| [σκέτος, -η, -ο]{lang="el"} | [ˈsketos] | ohne Zucker (Kaffee); pur |
+| [μέτριος, -α, -ο]{lang="el"} | [ˈmetrios] | mittelsüß (Kaffee); mittelmäßig |
+| [κάνει καλό (σε)]{lang="el"} | [ˈkani kaˈlo] | tut gut, ist gesund für; [κάνει κακό]{lang="el"} schadet |
+| [η μελέτη]{lang="el"} | [i meˈleti] | die Studie; das Lernen |
+| [η έρευνα]{lang="el"} | [i ˈerevna] | die Forschung; die Untersuchung |
+| [ο ηλικιωμένος, η ηλικιωμένη]{lang="el"} | [o ilicoˈmenos], [i ilicoˈmeni] | der ältere Mensch |
+| [η πίεση]{lang="el"} | [i ˈpiesi] | der Blutdruck; der Druck |
+| [ο γιατρός, η γιατρός]{lang="el"} | [o ʝaˈtros], [i ʝaˈtros] | der Arzt, die Ärztin |
+| [ο καθηγητής, η καθηγήτρια]{lang="el"} | [o kaθiʝiˈtis], [i kaθiˈʝitria] | der Professor, die Professorin; Lehrer(in) am Gymnasium |
+| [ο/η δημοσιογράφος]{lang="el"} | [o ðimosçoˈɣrafos] | der Journalist, die Journalistin |
+| [ισχύει]{lang="el"} | [isˈçii] | es gilt, es stimmt; [Ισχύει;]{lang="el"} Stimmt das? |
+| [Ποιος το λέει;]{lang="el"} | [pços to ˈlei] | Wer sagt das? |
+| [γράφει ότι …]{lang="el"} | [ˈɣrafi ˈoti] | da steht, dass … (in einem Text) |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [το μπρίκι]{lang="el"} | das Kännchen für griechischen Kaffee |
+| [η Ικαρία]{lang="el"} | Ikaria (Insel in der östlichen Ägäis) |
+| [γερός, -ή, -ό]{lang="el"} | kräftig, gesund |
+| [ανεβάζω]{lang="el"} | hochtreiben, erhöhen |
+| [την ημέρα]{lang="el"} | pro Tag |
+| [κι άλλη έρευνα]{lang="el"} | noch mehr Forschung |
+| [βραστός, -ή, -ό]{lang="el"} | gekocht, aufgekocht |
+| [φτιάξε μου]{lang="el"} | mach mir (Kapitel 9) |
+:::
+
+## Er sagt, dass: Aussagen wiedergeben {#sec-indirekt-aussagen}
+
+Das Grundmuster kennst du aus Kapitel 16: Verb des Sagens, [ότι]{lang="el"} oder
+[πως]{lang="el"}, dann ein ganz normaler Hauptsatz.
+
+- «Είμαι κουρασμένη.» → [Λέει ότι είναι κουρασμένη.]{lang="el"} – Sie sagt, sie ist müde.
+- «Δεν ήρθε κανείς.» → [Λέει πως δεν ήρθε κανείς.]{lang="el"} – Er sagt, es ist niemand
+  gekommen.
+
+Solange das Verb des Sagens im Präsens steht, ist das in jeder Sprache einfach. Spannend wird es,
+wenn jemand etwas **gesagt hat**.
+
+### Keine Zeitverschiebung {#sec-indirekt-zeiten}
+
+Ein Kollege sagt am Montag: «Είμαι κουρασμένος.» Am Dienstag erzählst du es weiter:
+
+- Englisch: *He said he **was** tired.*
+- Spanisch: [*Dijo que **estaba** cansado.*]{lang="es"} Französisch: [*Il a dit qu’il
+  **était** fatigué.*]{lang="fr"}
+- Deutsch, Nachrichtenton: „Er sagte, er **sei** müde.“ Alltag: „Er hat gesagt, dass er müde
+  **ist**.“
+- Griechisch: [Είπε ότι **είναι** κουρασμένος.]{lang="el"}
+
+Englisch, Spanisch und Französisch schieben das Präsens in die Vergangenheit, weil das Sagen
+vergangen ist. Das Griechische behält in der Regel die Zeit, die der Sprecher damals benutzt hat.
+Den deutschen Konjunktiv I ([*sei, habe, komme*]{lang="de"}) gibt es gar nicht. Ausnahmsweise
+ist also das gesprochene Deutsch der beste Lehrer: „Er hat gesagt, dass er müde ist.“
+
+Das gilt für alle Zeiten. Aus dem Original wird nur die Person umgestellt:
+
+| Er sagte: | Griechisch berichtet | Englisch berichtet |
+|---|---|---|
+| [«Είμαι κουρασμένος.»]{lang="el"} | [Είπε ότι είναι κουρασμένος.]{lang="el"} | *he was tired* |
+| [«Έχασα τα κλειδιά.»]{lang="el"} | [Είπε ότι έχασε τα κλειδιά.]{lang="el"} | *he had lost* |
+| [«Δούλευα ως αργά.»]{lang="el"} | [Είπε ότι δούλευε ως αργά.]{lang="el"} | *he had been working* |
+| [«Θα έρθω.»]{lang="el"} | [Είπε ότι θα έρθει.]{lang="el"} | *he would come* |
+
+Die Folgen für die Übersetzung ins Griechische:
+
+- Englisches *had lost* ist kein Grund für ein Plusquamperfekt. Der Aorist reicht:
+  [είπε ότι έχασε]{lang="el"}. [Είπε ότι είχε χάσει τα κλειδιά]{lang="el"} ist auch richtig
+  und betont, dass der Verlust vor dem Sagen lag (Kapitel 14).
+- Englisches *would* heißt hier einfach [θα]{lang="el"} mit der Form, die im Original stand:
+  [θα έρθει]{lang="el"}, Foto oder Film wie immer.
+- Auch das Aussagen-Verb selbst hat Aspekt: [είπε ότι]{lang="el"} für einen Satz, einmal gesagt;
+  [έλεγε ότι]{lang="el"} für etwas, das jemand immer wieder sagte: [Η γιαγιά μου έλεγε πάντα ότι
+  ο καφές είναι φάρμακο.]{lang="el"}
+
+::: {.callout-important}
+## Merke
+
+In der indirekten Rede behält das Verb die **Zeit des Originals**, auch nach [είπε,
+έλεγε]{lang="el"}: [«Είμαι κουρασμένος.» → Είπε ότι είναι κουρασμένος.]{lang="el"} Es gibt
+keine Zeitverschiebung wie im Englischen, Spanischen und Französischen und keinen Konjunktiv wie
+im Deutschen. Nur Personen und Pronomen passen sich an.
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Die Regel beschreibt den Normalfall, keine eiserne Vorschrift. Zwei Abweichungen wirst du hören:
+
+- [Μου είπε ότι ήταν κουρασμένος.]{lang="el"} Das Imperfekt kommt beim Erzählen vor, vor
+  allem bei Zuständen. Dann ist offen, ob er beim Sprechen müde war oder vorher. Wer eindeutig
+  sein will, nimmt das Präsens.
+- [Μου είπε ότι θα ερχόταν.]{lang="el"} [θα]{lang="el"} + Imperfekt ist eine „Zukunft aus
+  Sicht der Vergangenheit“, wie englisch *would*. Oft schwingt mit, dass es anders kam: Er wollte
+  kommen, kam aber nicht. Diese Form gehört zum Irrealis (Kapitel 24). Selbst bilden musst du
+  sie noch nicht, [είπε ότι θα έρθει]{lang="el"} ist immer richtig.
+:::
+
+<!-- CHECK: Imperfekt für Gleichzeitigkeit nach Vergangenheit (είπε ότι ήταν κουρασμένος) und θα + Imperfekt als Futur der Vergangenheit (μου είπε ότι θα ερχόταν): Beschreibung in HMP-CG (Kapitel zu Komplementsätzen/indirekter Rede) prüfen; ist „είπε ότι θα έρθει ist immer richtig“ haltbar, auch wenn der Zeitpunkt inzwischen vorbei ist? -->
+
+<!-- EXERCISE: Zeitfalle: englische/spanische Sätze mit Zeitverschiebung (he said he was, dijo que estaba, he said he would, she said she had lost) ins Griechische übertragen, Auswahl aus je 2–3 Formen mit Begründung (Präsens/Aorist/θα + Foto; είπε vs. έλεγε), Schwierigkeit 2 -->
+
+### Was sich ändert: Personen, Orte, Zeitangaben {#sec-indirekt-pronomen}
+
+Wer gesprochen hat, war jemand anderes; also verschieben sich Personen und Pronomen, wie in jeder
+Sprache. In der Odyssee (Kapitel 3) fragt Polyphem:
+
+- [«Πώς σε λένε;» με ρώτησε. «Κανένα», του είπα.]{lang="el"}
+- [Με ρώτησε πώς με λένε, και του είπα ότι με λένε Κανένα.]{lang="el"}
+
+Aus [σε]{lang="el"} „dich“ wird [με]{lang="el"} „mich“, weil Odysseus von sich selbst berichtet.
+Die Zeit bleibt: [πώς με λένε]{lang="el"}, nicht „wie ich hieß“. Die Endungen der Verben folgen
+denselben Personen: «Σε περιμένω.» → [Μου είπε ότι με περιμένει.]{lang="el"}
+
+Auch Orts- und Zeitangaben richten sich nach dem, der berichtet. Liegt das Gesagte schon eine
+Weile zurück, wird aus
+
+| im Original | später berichtet | Deutsch |
+|---|---|---|
+| [σήμερα]{lang="el"} | [εκείνη τη μέρα]{lang="el"} | an dem Tag |
+| [αύριο]{lang="el"} | [την επόμενη μέρα]{lang="el"}, [την άλλη μέρα]{lang="el"} | am nächsten Tag |
+| [χθες]{lang="el"} | [την προηγούμενη μέρα]{lang="el"} | am Tag davor |
+| [εδώ]{lang="el"}, [τώρα]{lang="el"} | [εκεί]{lang="el"}, [τότε]{lang="el"} | dort, damals |
+
+Das ist Logik, keine Grammatik: Eine Freundin schreibt dir am Freitag «Έρχομαι αύριο». Am
+Freitagabend sagst du [Λέει ότι έρχεται αύριο.]{lang="el"}; eine Woche später erzählst du [Είπε
+ότι έρχεται την επόμενη μέρα, αλλά δεν ήρθε ποτέ.]{lang="el"} Das Präsens [έρχεται]{lang="el"}
+bleibt in beiden Fällen.
+
+Zur Aussprache: In [την προηγούμενη μέρα]{lang="el"} verschleifen [ν]{lang="el"} und
+[π]{lang="el"} zu [m b], wie bei [την περασμένη εβδομάδα]{lang="el"} (Kapitel 2):
+[tim broiˈɣumeni ˈmera].
+
+<!-- EXERCISE: Aussagen umformen, laut: direkte Rede → indirekte Rede nach λέει/είπε, mit Wechsel von Person, schwachen Pronomen und Zeitangaben (Chat-Nachrichten einer Freundin, «Σε πήρα τηλέφωνο», «Θα σου φέρω το βιβλίο αύριο», «Δεν σας είδα εκεί»), Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [την επόμενη μέρα]{lang="el"} | [tin eˈpomeni ˈmera] | am nächsten Tag |
+| [την προηγούμενη μέρα]{lang="el"} | [tim broiˈɣumeni ˈmera] | am Tag davor |
+| [εκείνη τη μέρα]{lang="el"} | [eˈcini ti ˈmera] | an jenem Tag |
+| [εξηγώ, εξήγησα]{lang="el"} | [eksiˈɣo], [eˈksiʝisa] | erklären |
+| [προσθέτω, πρόσθεσα]{lang="el"} | [prosˈθeto], [ˈprosθesa] | hinzufügen |
+:::
+
+## Er sagt, ich soll: Aufforderungen {#sec-indirekt-aufforderung}
+
+Anweisungen, Bitten und Ratschläge werden mit [να]{lang="el"} wiedergegeben (Kapitel 16). Der
+Imperativ wird zur [να]{lang="el"}-Form, und zwar **im selben Aspekt**:
+
+- «Πίνε νερό!» (Film: immer wieder) → [Μου είπε να πίνω νερό.]{lang="el"}
+- «Πιες ένα ποτήρι νερό!» (Foto: jetzt, einmal) → [Μου είπε να πιω ένα ποτήρι
+  νερό.]{lang="el"}
+- «Μην ανησυχείς!» → [Μου είπε να μην ανησυχώ.]{lang="el"}
+
+Das Verbot mit [μην]{lang="el"} wird zu [να μην]{lang="el"}. Und wieder wechselt die Person: Der
+Arzt sagt [πίνε]{lang="el"}, der Patient berichtet [να πίνω]{lang="el"}.
+
+Wer mit Aufforderungen berichtet, braucht die Verben mit ihren Fällen:
+
+| Verb | Person | Beispiel |
+|---|---|---|
+| [λέω]{lang="el"} | Genitiv oder [σε]{lang="el"} | [Μου είπε να περιμένω. Είπε στη Μαρία να έρθει.]{lang="el"} |
+| [ζητάω από]{lang="el"} | [από]{lang="el"} + Akkusativ | [Ζήτησα από τον σερβιτόρο να φέρει νερό.]{lang="el"} |
+| [ρωτάω]{lang="el"} | Akkusativ | [Τον ρώτησα αν έρχεται.]{lang="el"} |
+
+[ζητάω από κάποιον να]{lang="el"} ist „jemanden bitten, etwas zu tun“. Die höfliche Frage
+[Μπορείς να μου φέρεις νερό;]{lang="el"} wird beim Weitererzählen ebenfalls zu
+[Μου ζήτησε να του φέρω νερό.]{lang="el"}
+
+::: {.callout-warning}
+## Achtung
+
+- [ρωτάω]{lang="el"} nimmt wie deutsch „fragen“ den **Akkusativ**: [με ρώτησε]{lang="el"}, nicht
+  \*[μου ρώτησε]{lang="el"}. [λέω]{lang="el"} dagegen nimmt den Genitiv: [μου είπε]{lang="el"}.
+- \*[Μου είπε ότι πίνω νερό]{lang="el"} heißt „Er sagte mir, dass ich Wasser trinke“, eine
+  Feststellung. Die Anweisung braucht [να]{lang="el"}.
+:::
+
+<!-- EXERCISE: Anweisungen weitergeben, laut: Ratschläge eines Arztes und einer Apothekerin (Imperative im Foto und Film, Verbote mit μην) mit „Ο γιατρός μού είπε να …“ bzw. „Μου ζήτησε να …“ wiedergeben, Aspekt beibehalten, Schwierigkeit 1–2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ζητάω από κάποιον να …]{lang="el"} | [ziˈtao aˈpo ˈkapçon na] | jemanden bitten, zu … |
+| [μου είπε να μην …]{lang="el"} | [mu ˈipe na min] | er/sie hat gesagt, ich soll nicht … |
+:::
+
+## Er fragt, ob: indirekte Fragen {#sec-indirekt-fragen}
+
+Indirekte Fragen benutzt du schon seit Kapitel 2, meist ohne es zu merken:
+
+- [άκου να δεις **τι** έγινε]{lang="el"} (Kapitel 2) – hör dir an, was passiert ist
+- [θα σε πάρω να σου πω **τι** κανόνισα]{lang="el"} (Kapitel 5)
+- [πάρε με να μου πεις **πώς** βγήκαν]{lang="el"} (Kapitel 9)
+- [Ποιος ξέρει **τι** θα βρεθεί;]{lang="el"} (Kapitel 13)
+- [κοιτάζουν **μήπως** δουν]{lang="el"} (Kapitel 14) – sie schauen, ob sie etwas sehen
+- [δεν ξέρω **πού** είναι]{lang="el"} (Kapitel 15), [Δεν ξέρω **αν** θα έρθει.]{lang="el"}
+  (Kapitel 17)
+
+Der Bauplan ist einfach: Die direkte Frage wird unverändert angehängt. Kein Verb wandert ans Ende
+wie im Deutschen („wo er **ist**“), nur das Fragezeichen wird zum Punkt.
+
+### Ja oder nein: [αν]{lang="el"} und [μήπως]{lang="el"} {#sec-indirekt-an}
+
+Hat die Frage kein Fragewort, steht [αν]{lang="el"} „ob“, wie spanisch *si* und französisch *si*:
+
+- «Έρχεσαι;» → [Με ρώτησε αν έρχομαι.]{lang="el"} – Er fragte, ob ich komme.
+- «Θα βρέξει;» → [Δεν ξέρω αν θα βρέξει.]{lang="el"}
+- «Το είδες;» → [Ρώτα τον αν το είδε.]{lang="el"} – Frag ihn, ob er es gesehen hat.
+
+Auch hier bleibt die Zeit des Originals: [με ρώτησε αν έρχομαι]{lang="el"}, nicht „ob ich käme“.
+Und nach „ob“ darf [θα]{lang="el"} stehen, nach „falls“ nicht (Kapitel 17).
+
+[μήπως]{lang="el"} kennst du als „vielleicht, etwa“ am Anfang einer Frage: [Μήπως έχεις
+αναπτήρα;]{lang="el"} Als „ob“ klingt es vorsichtiger, mit einer Hoffnung oder Befürchtung:
+[Ρώτα τον μήπως ξέρει κάποιον γιατρό.]{lang="el"} „Frag ihn, ob er vielleicht einen Arzt kennt.“
+Nach [φοβάμαι]{lang="el"} heißt es sogar „dass“: [Φοβάμαι μήπως αργήσουμε.]{lang="el"} „Ich
+fürchte, wir kommen zu spät.“
+
+::: {.callout-tip}
+## Tipp
+
+Wer eine Frage zurückfragt, beginnt mit [αν]{lang="el"}: [— Τον θυμάσαι; — Αν τον
+θυμάμαι;]{lang="el"} (Kapitel 10) „Ob ich mich an ihn erinnere?“ Gemeint ist: „Und wie!“ Mit
+Fragewort geht das genauso: [— Πού πας; — Πού πάω; Στη δουλειά.]{lang="el"}
+:::
+
+### Mit Fragewort: der Akzent bleibt {#sec-indirekt-fragewort}
+
+Fragen mit [τι, ποιος, πού, πώς, πότε, γιατί, πόσο]{lang="el"} behalten ihr Fragewort:
+
+- «Τι θέλεις;» → [Με ρώτησε τι θέλω.]{lang="el"}
+- «Πότε φεύγει το πλοίο;» → [Ξέρεις πότε φεύγει το πλοίο;]{lang="el"}
+- «Ποιον ψάχνετε;» → [Μας ρώτησε ποιον ψάχνουμε.]{lang="el"} ([ποιος]{lang="el"} bleibt im Fall
+  der Frage)
+
+Das Fragewort behält auch seinen **Akzent**, und der entscheidet über die Bedeutung. Zwei Paare
+sehen fast gleich aus:
+
+- [Μου είπε **πως** έρχεται.]{lang="el"} – Er sagte, **dass** er kommt.
+- [Μου είπε **πώς** έρχεται.]{lang="el"} – Er sagte, **wie** er kommt (mit dem Schiff, zu Fuß).
+- [Δεν ξέρω **πού** μένει.]{lang="el"} – Ich weiß nicht, **wo** er wohnt.
+- [Δεν ξέρω τον φίλο **που** μένει εκεί.]{lang="el"} – Ich kenne den Freund nicht, **der** dort
+  wohnt.
+
+Beim Hören hilft die Betonung: [πώς]{lang="el"} und [πού]{lang="el"} werden deutlich betont,
+[pos], [pu] ohne Akzent hängen sich unbetont an das nächste Wort.
+
+::: {.callout-important}
+## Merke
+
+- **Ja/Nein-Frage** → [αν]{lang="el"} „ob“, vorsichtiger [μήπως]{lang="el"}: [Με ρώτησε αν
+  έρχομαι.]{lang="el"}
+- **Frage mit Fragewort** → das Fragewort bleibt, **mit Akzent**: [πού, πώς]{lang="el"} fragen,
+  [που, πως]{lang="el"} verbinden.
+- Die Zeit bleibt wie im Original, das Verb bleibt vorn, am Ende steht ein Punkt.
+:::
+
+Eine besonders häufige indirekte Frage hat die [να]{lang="el"}-Form: [Δεν ξέρω τι να
+κάνω.]{lang="el"} „Ich weiß nicht, was ich tun soll.“ Spanisch sagt [*no sé qué hacer*]{lang="es"},
+französisch [*je ne sais pas quoi faire*]{lang="fr"}, beide mit Infinitiv; Griechisch hat keinen
+und nimmt [να]{lang="el"}. Ebenso [δεν ξέρω πού να πάω, ποιον να ρωτήσω, τι να πω]{lang="el"}.
+Das ist die indirekte Form von [Τι να κάνω;]{lang="el"} aus Kapitel 4.
+
+<!-- EXERCISE: Indirekte Fragen bilden und erkennen: A direkte Fragen (Ja/Nein und mit Fragewort, auch ποιον, Odyssee-Szene) laut in indirekte umformen nach „Με ρώτησε …“ / „Δεν ξέρω …“; B Akzent wählen: πού/που, πώς/πως in 8 Sätzen (Multiple Choice), Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ρωτάω κάποιον αν …]{lang="el"} | [roˈtao ˈkapçon an] | jemanden fragen, ob … |
+| [Ρώτα τον!]{lang="el"} | [ˈrota ton] | Frag ihn! |
+| [αναρωτιέμαι, αναρωτήθηκα]{lang="el"} | [anaroˈtçeme], [anaroˈtiθika] | sich fragen |
+| [Δεν ξέρω τι να κάνω.]{lang="el"} | [ðen ˈksero ti na ˈkano] | Ich weiß nicht, was ich tun soll. |
+| [η ερώτηση, η απάντηση]{lang="el"} | [i eˈrotisi], [i aˈpandisi] | die Frage, die Antwort |
+| [ο αναπτήρας]{lang="el"} | [o anaˈptiras] | das Feuerzeug |
+:::
+
+## Forscher sagen: die Sprache der Nachrichten {#sec-indirekt-nachrichten}
+
+Eine Meldung, wie sie auf jedem griechischen Nachrichtenportal stehen könnte:
+
+::: {lang="el"}
+Σύμφωνα με νέα μελέτη, το ελαιόλαδο προστατεύει τον εγκέφαλο. Οι ερευνητές δηλώνουν ότι τα
+αποτελέσματα είναι «πολύ ενθαρρυντικά», τονίζουν όμως ότι η μελέτη είναι μικρή. «Δεν έχουμε
+αποδείξει τίποτα ακόμα», παραδέχτηκε η επικεφαλής της ομάδας.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+Laut einer neuen Studie schützt Olivenöl das Gehirn. Die Forscher erklären, die Ergebnisse seien
+„sehr ermutigend“, betonen aber, dass die Studie klein ist. „Wir haben noch nichts bewiesen“, gab
+die Leiterin des Teams zu.
+:::
+
+Die Übersetzung zeigt den Unterschied: Das Deutsche setzt in der Meldung den Konjunktiv I
+([*seien*]{lang="de"}) und hält damit Abstand. Das Griechische hat diese Form nicht. Es zeigt
+Abstand auf drei anderen Wegen.
+
+**Mit [σύμφωνα με]{lang="el"}** „laut, nach“ + Akkusativ: [σύμφωνα με τη μελέτη, σύμφωνα με
+τους ειδικούς]{lang="el"}. Verantwortlich ist die Quelle.
+
+**Mit der Wahl des Verbs.** Jedes Verb des Sagens bewertet ein bisschen mit:
+
+| Verb | Deutsch | Wie sicher? |
+|---|---|---|
+| [αποδεικνύει ότι]{lang="el"} | beweist, dass | Tatsache |
+| [δείχνει ότι]{lang="el"} | zeigt, dass | ziemlich sicher |
+| [δηλώνει, λέει ότι]{lang="el"} | erklärt, sagt | neutral |
+| [υποστηρίζει ότι]{lang="el"} | vertritt die Ansicht | eine Meinung |
+| [ισχυρίζεται ότι]{lang="el"} | behauptet | Vorsicht, unbelegt |
+
+Dazu kommen [τονίζει]{lang="el"} (betont), [προσθέτει]{lang="el"} (fügt hinzu),
+[επιβεβαιώνει]{lang="el"} (bestätigt), [αρνείται]{lang="el"} (bestreitet),
+[παραδέχεται]{lang="el"} (gibt zu), [ανακοινώνει]{lang="el"} (gibt bekannt). Wer
+[ισχυρίζεται]{lang="el"} liest, weiß: Die Redaktion glaubt es nicht so recht.
+
+**Mit dem Mediopassiv ohne Sprecher:** [λέγεται ότι, πιστεύεται ότι]{lang="el"} (Kapitel 13),
+dazu im Nachrichtenstil [φέρεται να]{lang="el"} „soll angeblich“: [Ο ύποπτος φέρεται να
+ομολόγησε.]{lang="el"} „Der Verdächtige soll gestanden haben.“ Diese Form musst du nur erkennen.
+
+Und das Zitat selbst? Die Nachrichten mögen die Reihenfolge Zitat, Verb, Sprecher, wie das
+Deutsche: [«Δεν έχουμε αποδείξει τίποτα», παραδέχτηκε η επικεφαλής.]{lang="el"} Das Verb steht
+vor dem Subjekt, der Doppelpunkt fehlt. Steht das Verb vorn, folgt ein Doppelpunkt: [Ο υπουργός
+δήλωσε: «Είμαστε έτοιμοι».]{lang="el"} Griechische Zitate stehen in «Winkeln», und der Punkt
+eines kurzen Zitats steht meist außerhalb.
+
+<!-- CHECK: Abstufung der Verben (αποδεικνύει > δείχνει > δηλώνει > υποστηρίζει > ισχυρίζεται) als grobe Orientierung vertretbar? „φέρεται να ομολόγησε“ (φέρεται να + Aorist) idiomatisch im Nachrichtenstil? Zeichensetzung bei griechischen Zitaten (Punkt außerhalb der «»). -->
+
+::: {.callout-tip}
+## Tipp
+
+Im Gespräch übernimmt ein kleines Wort die Aufgabe des Konjunktivs: eingeschobenes
+[λέει]{lang="el"} „angeblich, heißt es“. [Θα βρέξει, λέει, όλη την εβδομάδα.]{lang="el"} „Es
+soll die ganze Woche regnen.“ [Είναι, λέει, ο καλύτερος γιατρός της Αθήνας.]{lang="el"} „Er sei
+angeblich der beste Arzt Athens.“ Die Pause davor und danach verrät es.
+:::
+
+<!-- EXERCISE: Distanz erkennen: 6 kurze Schlagzeilen/Meldungssätze zur Wissenschaft (αποδεικνύει, δείχνει, υποστηρίζει, ισχυρίζεται, φέρεται να, λέγεται, eingeschobenes λέει) nach Sicherheit ordnen bzw. zuordnen (1 Tatsache, 2 Meinung, 3 Abstand), danach zwei Sätze laut umformulieren, sodass die Redaktion zweifelt, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [σύμφωνα με]{lang="el"} | [ˈsimfona me] | laut, nach (+ Akk.) |
+| [ο ερευνητής, η ερευνήτρια]{lang="el"} | [o erevniˈtis], [i erevˈnitria] | der Forscher, die Forscherin |
+| [ο/η ειδικός]{lang="el"} | [o iðiˈkos] | der Experte, die Expertin; Fach- |
+| [το αποτέλεσμα, τα αποτελέσματα]{lang="el"} | [to apoˈtelezma], [ta apoteˈlezmata] | das Ergebnis |
+| [τα στοιχεία]{lang="el"} | [ta stiˈçia] | die Daten, die Angaben |
+| [το πανεπιστήμιο]{lang="el"} | [to panepiˈstimio] | die Universität |
+| [δηλώνω, δήλωσα]{lang="el"} | [ðiˈlono], [ˈðilosa] | (öffentlich) erklären; angeben |
+| [τονίζω, τόνισα]{lang="el"} | [toˈnizo], [ˈtonisa] | betonen |
+| [υποστηρίζω, υποστήριξα]{lang="el"} | [ipostiˈrizo], [ipoˈstiriksa] | die Ansicht vertreten; unterstützen |
+| [ισχυρίζομαι, ισχυρίστηκα]{lang="el"} | [isçiˈrizome], [isçiˈristika] | behaupten |
+| [αποδεικνύω, απέδειξα]{lang="el"} | [apoðiˈknio], [aˈpeðiksa] | beweisen |
+| [παραδέχομαι, παραδέχτηκα]{lang="el"} | [paraˈðexome], [paraˈðextika] | zugeben |
+| [αρνούμαι, αρνήθηκα]{lang="el"} | [arˈnume], [arˈniθika] | bestreiten; sich weigern (+ [να]{lang="el"}) |
+| [επιβεβαιώνω, επιβεβαίωσα]{lang="el"} | [epiveveˈono], [epiveˈveosa] | bestätigen |
+| [ανακοινώνω, ανακοίνωσα]{lang="el"} | [anaciˈnono], [anaˈcinosa] | bekannt geben |
+| […, λέει, …]{lang="el"} | [ˈlei] | angeblich, heißt es (eingeschoben, umg.) |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [το ελαιόλαδο]{lang="el"} | das Olivenöl |
+| [προστατεύω]{lang="el"} | schützen |
+| [ο εγκέφαλος]{lang="el"} | das Gehirn |
+| [ενθαρρυντικός, -ή, -ό]{lang="el"} | ermutigend |
+| [ο/η επικεφαλής]{lang="el"} | der Leiter, die Leiterin (unveränderlich) |
+| [η ομάδα]{lang="el"} | das Team, die Gruppe |
+| [ο ύποπτος]{lang="el"} | der Verdächtige |
+| [ομολογώ, ομολόγησα]{lang="el"} | gestehen (Kapitel 2: [το ομολόγησε]{lang="el"}) |
+:::
+
+Das [απέδειξα]{lang="el"} sieht seltsam aus: Das Augment steht mitten im Wort, hinter der
+Vorsilbe [απο-]{lang="el"}. So machen es viele gelehrte Verben, wie [καταστρέφω →
+κατέστρεψα]{lang="el"} aus Kapitel 2.
+
+## Hörspur: Zitate im Radio {#sec-indirekt-hoerspur}
+
+Die ▶-Aufnahmen im Buch sind synthetische Stimmen; echte Nachrichtensprecher bringt der
+Hör-Auftrag am Ende des Abschnitts.
+
+Eine erfundene, aber typische Meldung aus einem Radiojournal: die Moderatorin, dazwischen ein
+Forscher mit einem O-Ton. Erst hören, dann lesen.
+
+::: {lang="el" .listen}
+— Και τώρα μια είδηση από τη θάλασσα. Η μεσογειακή φώκια, ένα από τα πιο σπάνια θηλαστικά της
+Ευρώπης, κάνει περισσότερα μικρά στις ελληνικές ακτές. Σύμφωνα με ερευνητές που μελετούν το
+είδος εδώ και τριάντα χρόνια, οι γεννήσεις αυξάνονται σε πολλά νησιά του Αιγαίου. Ο επικεφαλής
+της ομάδας εξήγησε στον σταθμό μας τι έχει αλλάξει.
+
+— Οι ψαράδες μάς βοηθούν πια. Παλιά έβλεπαν τη φώκια σαν εχθρό, γιατί τους χαλούσε τα δίχτυα.
+Σήμερα μας παίρνουν τηλέφωνο όταν δουν μια φώκια σε κάποια σπηλιά. Δεν ξέρουμε όμως αν αυτό θα
+κρατήσει.
+
+— Ο ερευνητής τόνισε ότι το είδος κινδυνεύει ακόμα και πρόσθεσε ότι οι επισκέπτες πρέπει να
+κρατούν απόσταση από τις σπηλιές. Όπως είπε, μια φώκια που τρομάζει μπορεί να αφήσει το μικρό
+της. Στην ερώτηση αν οι τουρίστες μπορούν να κολυμπούν κοντά της, απάντησε: «Να κολυμπούν, ναι.
+Να βγάζουν σέλφι, όχι».
+:::
+
+<!-- EXERCISE: Hörverstehen zur Radiomeldung (mit ▶, ohne den Text aufzuklappen): 5 Multiple-Choice-Fragen (was nimmt zu, was hat sich bei den Fischern geändert, worin ist sich der Forscher unsicher, Rat an Besucher, Antwort auf die Touristenfrage); zweiter Durchgang: alle Verben des Sagens und Fragens (εξήγησε, τόνισε, πρόσθεσε, είπε, απάντησε, σύμφωνα με, αν) notieren und je sagen, ob Aussage, Frage oder Anweisung folgt, Schwierigkeit 2 -->
+
+<!-- CHECK: Mittelmeer-Mönchsrobbe: „eines der seltensten Säugetiere Europas“, steigende Geburtenzahlen an griechischen Küsten/Ägäis-Inseln, Wandel im Verhältnis zu Fischern, Forschung seit etwa 30 Jahren (MOm, gegr. 1988): als Tendenz vertretbar? Meldung ist als erfunden gekennzeichnet. -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Und nun eine Meldung vom Meer. Die Mittelmeer-Mönchsrobbe, eines der seltensten Säugetiere
+Europas, bekommt an den griechischen Küsten mehr Junge. Laut Forschern, die die Art seit dreißig
+Jahren untersuchen, nehmen die Geburten auf vielen Inseln der Ägäis zu. Der Leiter des Teams
+erklärte unserem Sender, was sich geändert hat.
+
+— Die Fischer helfen uns inzwischen. Früher sahen sie die Robbe als Feind, weil sie ihnen die
+Netze zerriss. Heute rufen sie uns an, wenn sie in einer Höhle eine Robbe sehen. Wir wissen aber
+nicht, ob das anhält.
+
+— Der Forscher betonte, dass die Art noch immer gefährdet ist, und fügte hinzu, dass Besucher
+Abstand zu den Höhlen halten müssen. Wie er sagte, kann eine Robbe, die erschrickt, ihr Junges
+verlassen. Auf die Frage, ob Touristen in ihrer Nähe schwimmen dürfen, antwortete er: „Schwimmen,
+ja. Selfies machen, nein.“
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η μεσογειακή φώκια]{lang="el"} | die Mittelmeer-Mönchsrobbe |
+| [σπάνιος, -α, -ο]{lang="el"} | selten |
+| [το θηλαστικό]{lang="el"} | das Säugetier |
+| [το μικρό]{lang="el"} | das Junge (Tier) |
+| [η ακτή]{lang="el"} | die Küste |
+| [το είδος]{lang="el"} | die Art |
+| [η γέννηση, οι γεννήσεις]{lang="el"} | die Geburt |
+| [αυξάνομαι]{lang="el"} | zunehmen |
+| [ο εχθρός]{lang="el"} | der Feind |
+| [χαλάω]{lang="el"} | kaputt machen |
+| [το δίχτυ, τα δίχτυα]{lang="el"} | das Netz |
+| [κινδυνεύω]{lang="el"} | in Gefahr sein |
+| [ο επισκέπτης]{lang="el"} | der Besucher |
+| [η απόσταση]{lang="el"} | der Abstand |
+| [τρομάζω]{lang="el"} | erschrecken |
+:::
+
+### Zitate hören {#sec-indirekt-hoeren}
+
+Nachrichten wechseln ständig zwischen O-Ton und Bericht. Drei Signale helfen dir, den Faden zu
+halten:
+
+- **Das Verb nach dem Zitat.** Nach einem O-Ton kommt fast immer eine Formel wie
+  [δήλωσε, τόνισε, είπε, πρόσθεσε]{lang="el"} + Name. Das betonte [ˈe]- oder [i]-Signal des
+  Aorists ([ˈðilose], [ˈtonise]) sagt dir: Das Zitat ist vorbei.
+- **[ˈoti] und [an] ohne Pause.** Zwischen [είπε]{lang="el"} und [ότι]{lang="el"} macht niemand
+  eine Pause, also hörst du [ˈipeˈoti] fast als ein Wort. Nach [ότι]{lang="el"} kommt der Inhalt,
+  nach [αν]{lang="el"} eine offene Frage.
+- **[ˈpos] oder [pos].** Wird es betont, folgt ein „wie“; unbetont ist es „dass“.
+
+Im Gespräch klingt Weitererzählen anders: Man zitiert lieber direkt, im Präsens, und schiebt
+[λέει]{lang="el"} ein: [Και μου λέει: «Έλα αύριο». Και του λέω: «Αύριο δεν μπορώ».]{lang="el"}
+Das kennst du vom Onkel mit dem teuersten Teppich Athens aus Kapitel 2.
+
+Echte Nachrichten mit griechischen Untertiteln findest du auf [ERTflix](https://www.ertflix.gr).
+
+<!-- EXERCISE: Hör-Auftrag ERTflix: eine Nachrichtensendung oder einen Nachrichtenbeitrag wählen (am besten Wissenschaft, Umwelt, Gesundheit), 4–5 Minuten ohne Untertitel; Striche für δήλωσε/τόνισε/είπε/σύμφωνα με; zwei berichtete Aussagen merken; mit griechischen Untertiteln prüfen und eine davon laut mit „Λέει ότι …“ und eine mit „Είπε ότι …“ wiedergeben (Zeit beibehalten), Schwierigkeit 2 -->
+
+## Das Wichtigste {#sec-indirekt-wichtigste}
+
+- **Aussagen:** Verb des Sagens + [ότι/πως]{lang="el"} + normaler Satz. Die **Zeit des
+  Originals bleibt**: [Είπε ότι είναι κουρασμένος / ότι έχασε / ότι θα έρθει.]{lang="el"} Keine
+  Zeitverschiebung wie im Englischen und Spanischen, kein Konjunktiv wie im Deutschen.
+- **Personen, Pronomen, Orts- und Zeitangaben** passen sich dem Berichtenden an:
+  [«Σε περιμένω αύριο» → Μου είπε ότι με περιμένει την επόμενη μέρα.]{lang="el"}
+- **Aufforderungen:** [να]{lang="el"} + Form im selben Aspekt wie der Imperativ, Verbot
+  [να μην]{lang="el"}. [λέω]{lang="el"} + Genitiv, [ζητάω από]{lang="el"} + Akkusativ,
+  [ρωτάω]{lang="el"} + Akkusativ.
+- **Ja/Nein-Fragen:** [αν]{lang="el"} (mit [θα]{lang="el"} möglich), vorsichtig
+  [μήπως]{lang="el"}. **Fragen mit Fragewort:** Fragewort bleibt, **mit Akzent**
+  ([πού, πώς]{lang="el"} ≠ [που, πως]{lang="el"}). [Δεν ξέρω τι να κάνω]{lang="el"} ersetzt den
+  Infinitiv.
+- **Nachrichten:** [σύμφωnα με]{lang="el"}, die Wahl des Verbs ([αποδεικνύει … ισχυρίζεται]{lang="el"})
+  und [λέγεται, φέρεται να]{lang="el"} ersetzen den Konjunktiv I; im Gespräch eingeschobenes
+  [λέει]{lang="el"}.
+
+## Zum Lesen: Die Insel, auf der man vergisst zu sterben {#sec-indirekt-lesetext}
+
+Ikaria in der östlichen Ägäis gilt als einer der Orte, an denen Menschen besonders alt werden.
+Wie viel daran stimmt, ist eine Geschichte voller indirekter Rede. Lies den Text einmal ganz und
+achte darauf, wer was sagt und wer was bezweifelt.
+
+::: {lang="el"}
+**Το νησί όπου ξεχνούν να πεθάνουν**
+
+Στην Ικαρία, ένα νησί του ανατολικού Αιγαίου με περίπου οχτώ χιλιάδες κατοίκους, πολλοί άνθρωποι
+ζουν πάνω από ενενήντα χρόνια. Αυτό τουλάχιστον λένε οι ερευνητές που έρχονται στο νησί εδώ και
+είκοσι χρόνια.
+
+Στις αρχές του αιώνα, ένας Αμερικανός δημοσιογράφος και δύο δημογράφοι έψαχναν μέρη όπου οι
+άνθρωποι ζουν περισσότερο από όλους. Τα ονόμασαν «μπλε ζώνες». Μία από αυτές ήταν η Ικαρία.
+
+Λίγο αργότερα, καρδιολόγοι του Πανεπιστημίου Αθηνών ρώτησαν εκατοντάδες ηλικιωμένους Ικαριώτες
+τι τρώνε, πόσο κοιμούνται, πόσο περπατάνε και πόσο καφέ πίνουν. Οι απαντήσεις δεν ήταν
+εντυπωσιακές: λαχανικά, όσπρια, λίγο κρέας, ψάρι, ελαιόλαδο, λίγο κρασί με το φαγητό, ελληνικός
+καφές το πρωί και μεσημεριανός ύπνος. Σύμφωνα με τους ερευνητές, όσοι έπιναν ελληνικό καφέ κάθε
+μέρα είχαν πιο υγιείς αρτηρίες.
+
+Οι Ικαριώτες έχουν τη δική τους εξήγηση. Μια γιαγιά είπε σε έναν δημοσιογράφο ότι το μυστικό
+είναι να μη βιάζεσαι. Ένας παππούς εξήγησε ότι στο νησί κανείς δεν κοιτάζει το ρολόι: «Αν πεις σε
+έναν Ικαριώτη ότι το μαγαζί ανοίγει στις δέκα, θα σε ρωτήσει ποια μέρα».
+
+Δεν συμφωνούν όμως όλοι. Κάποιοι δημογράφοι αναρωτιούνται αν τα στοιχεία είναι σωστά.
+Υποστηρίζουν ότι σε πολλά χωριά τα παλιά αρχεία χάθηκαν ή γράφτηκαν λάθος και ότι κανείς δεν ξέρει
+με σιγουριά πότε γεννήθηκαν όλοι αυτοί οι ηλικιωμένοι. Άλλοι απαντούν ότι οι ερευνητές έλεγξαν τις
+ηλικίες προσεκτικά.
+
+Ποιος έχει δίκιο; Η επιστήμη δεν έχει πει ακόμα την τελευταία λέξη. Όταν ένας ερευνητής ρώτησε
+έναν ενενηντάχρονο ψαρά αν ξέρει γιατί ζουν τόσο πολύ στο νησί, εκείνος σκέφτηκε λίγο και είπε ότι
+δεν ξέρει. «Πάντως», πρόσθεσε, «όσοι έφυγαν για την Αθήνα, πέθαναν νωρίτερα».
+:::
+
+<!-- CHECK: Fakten im Lesetext: Einwohnerzahl Ikaria (ca. 8000, Zensus 2021); Blue Zones (Dan Buettner mit den Demografen Michel Poulain und Gianni Pes, Ikaria um 2008/09 aufgenommen) – „Anfang des Jahrhunderts“ und „zwei Demografen“ vertretbar?; Ikaria Study der Universität Athen (Kardiologie, Chrysohoou/Stefanadis/Panagiotakos) mit Befragung älterer Einwohner zu Ernährung, Schlaf, Bewegung, Kaffee; Kaffee-Befund (Siasos et al. 2013); Kritik an Altersangaben in Blue Zones (u. a. Saul Newman, fehlerhafte Register) – betrifft sie Ikaria ausdrücklich, und gibt es die Gegenposition „Alter sorgfältig geprüft“ (Poulain u. a.)? Anekdoten (Großmutter, Großvater, Fischer) sind erfunden. -->
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [ανατολικός, -ή, -ό]{lang="el"} | östlich |
+| [στις αρχές του αιώνα]{lang="el"} | Anfang des Jahrhunderts |
+| [ο δημογράφος]{lang="el"} | der Demograf |
+| [ονομάζω, ονόμασα]{lang="el"} | nennen, benennen |
+| [η ζώνη]{lang="el"} | die Zone |
+| [ο καρδιολόγος]{lang="el"} | der Kardiologe |
+| [εκατοντάδες]{lang="el"} | Hunderte |
+| [εντυπωσιακός, -ή, -ό]{lang="el"} | beeindruckend |
+| [τα όσπρια]{lang="el"} | die Hülsenfrüchte |
+| [υγιής, υγιείς]{lang="el"} | gesund (Sg., Pl.) |
+| [η αρτηρία]{lang="el"} | die Arterie |
+| [το αρχείο, τα αρχεία]{lang="el"} | das Archiv; Pl. die Unterlagen, Register |
+| [με σιγουριά]{lang="el"} | mit Sicherheit |
+| [ενενηντάχρονος, -η, -ο]{lang="el"} | neunzigjährig |
+| [πάντως]{lang="el"} | jedenfalls |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Die Insel, auf der man vergisst zu sterben**
+
+Auf Ikaria, einer Insel in der östlichen Ägäis mit etwa achttausend Einwohnern, werden viele
+Menschen über neunzig Jahre alt. Das jedenfalls sagen die Forscher, die seit zwanzig Jahren auf
+die Insel kommen.
+
+Anfang des Jahrhunderts suchten ein amerikanischer Journalist und zwei Demografen nach Orten, an
+denen Menschen länger leben als überall sonst. Sie nannten sie „Blaue Zonen“. Eine davon war
+Ikaria.
+
+Etwas später fragten Kardiologen der Universität Athen Hunderte ältere Ikarioten, was sie essen,
+wie viel sie schlafen, wie viel sie zu Fuß gehen und wie viel Kaffee sie trinken. Die Antworten
+waren nicht beeindruckend: Gemüse, Hülsenfrüchte, wenig Fleisch, Fisch, Olivenöl, ein wenig Wein
+zum Essen, morgens griechischer Kaffee und ein Mittagsschlaf. Laut den Forschern hatten
+diejenigen, die jeden Tag griechischen Kaffee tranken, gesündere Arterien.
+
+Die Ikarioten haben ihre eigene Erklärung. Eine Großmutter sagte einem Journalisten, das
+Geheimnis sei, sich nicht zu beeilen. Ein Großvater erklärte, dass auf der Insel niemand auf die
+Uhr schaut: „Wenn du einem Ikarioten sagst, dass der Laden um zehn aufmacht, fragt er dich, an
+welchem Tag.“
+
+Aber nicht alle sind einverstanden. Einige Demografen fragen sich, ob die Daten stimmen. Sie
+vertreten die Ansicht, dass in vielen Dörfern die alten Register verloren gingen oder falsch
+geführt wurden und dass niemand sicher weiß, wann all diese alten Menschen geboren wurden. Andere
+antworten, dass die Forscher das Alter sorgfältig überprüft haben.
+
+Wer hat recht? Die Wissenschaft hat das letzte Wort noch nicht gesprochen. Als ein Forscher einen
+neunzigjährigen Fischer fragte, ob er wisse, warum man auf der Insel so lange lebt, dachte der
+kurz nach und sagte, er wisse es nicht. „Jedenfalls“, fügte er hinzu, „sind die, die nach Athen
+gegangen sind, früher gestorben.“
+:::
+
+Drei Stellen lohnen einen zweiten Blick:
+
+- [ρώτησε … αν ξέρει]{lang="el"} und [είπε ότι δεν ξέρει]{lang="el"}: Nach dem Aorist steht das
+  Präsens, wie in @sec-indirekt-zeiten. Die deutsche Übersetzung greift zu „ob er wisse“.
+- [είπε … ότι το μυστικό είναι να μη βιάζεσαι]{lang="el"}: [να]{lang="el"} hier nicht als
+  Aufforderung, sondern als „sich (nicht) zu beeilen“. Das [βιάζεσαι]{lang="el"} ist ein
+  allgemeines „du“ wie deutsch „man“.
+- [θα σε ρωτήσει ποια μέρα]{lang="el"}: eine indirekte Frage ohne Verb, gesprochen und ganz
+  normal.
+
+<!-- EXERCISE: Nach dem Lesen: A richtig/falsch zu 6 Aussagen (wer behauptet was, wer zweifelt); B den Text laut für einen Freund zusammenfassen, in 5–6 Sätzen mit λένε ότι, σύμφωνα με, ρώτησαν τι/πόσο, αναρωτιούνται αν, είπε ότι; C zwei direkte Zitate aus dem Text in indirekte Rede umformen und umgekehrt, Schwierigkeit 2–3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η εξήγηση]{lang="el"} | [i eˈksiʝisi] | die Erklärung |
+| [το μυστικό]{lang="el"} | [to mistiˈko] | das Geheimnis |
+| [συμφωνώ, συμφώνησα]{lang="el"} | [simfoˈno], [simˈfonisa] | zustimmen, einverstanden sein |
+| [ελέγχω, έλεγξα]{lang="el"} | [eˈleŋxo], [ˈeleŋksa] | prüfen, kontrollieren |
+| [η επιστήμη]{lang="el"} | [i epiˈstimi] | die Wissenschaft |
+| [ο ψαράς]{lang="el"} | [o psaˈras] | der Fischer |
+:::

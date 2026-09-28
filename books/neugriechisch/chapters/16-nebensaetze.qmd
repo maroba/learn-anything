@@ -90,7 +90,7 @@ Grammatisch ist das Gespräch eine Sammlung kleiner Wörter, die Sätze verbinde
 ([η δευτερεύουσα πρόταση]{lang="el"}), der andere der **Hauptsatz** ([η κύρια πρόταση]{lang="el"}).
 
 Das [μόλις]{lang="el"} im letzten Satz ist das „gerade eben“ aus Kapitel 7. Es kann auch „sobald“
-heißen; dazu unten mehr.
+heißen, wie in Kapitel 14 schon kurz gesehen; dazu unten mehr.
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
