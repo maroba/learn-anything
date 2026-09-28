@@ -98,6 +98,9 @@ Verwendung im Buch am Original prüfen.
 - **[Sifianou-1992]** Maria Sifianou: *Politeness Phenomena in England and Greece. A
   Cross-Cultural Perspective*, Oxford: Clarendon Press 1992. Höflichkeit im Vergleich
   Griechisch–Englisch, u.a. direkte Imperative unter Vertrauten (Kapitel 9).
+- **[Nikiforidou-2010]** Kiki Nikiforidou, Rena Torres Cacoullos: „Variably future-marked
+  conditionals in Greek: Integrating discourse and grammar“, *Constructions and Frames* 2 (2010).
+  Korpusstudie zu αν θα in Bedingungssätzen: selten, meist bei schon feststehenden Plänen (Kapitel 17).
 
 ## Niveau, Curricula, Prüfungen
 
