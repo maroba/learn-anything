@@ -86,8 +86,13 @@ Und komm morgen und probier sie auch mit Hackfleisch.
 Die Kundin findet, dass man in Thessaloniki anders spricht; der Mann findet, dass man in Athen
 anders spricht. Beide haben recht, und wer einen Akzent hat, sind immer die anderen.
 
-Grammatisch ist der kurze Wortwechsel eine Zusammenfassung von Teil II. Jede Zeile enthält
-etwas, das du in den letzten zehn Kapiteln gelernt hast:
+Grammatisch ist der kurze Wortwechsel eine Zusammenfassung von Teil II; fast jede Zeile enthält
+etwas aus den letzten zehn Kapiteln. Findest du im Dialog ein Perfekt der Erfahrung, einen
+Relativsatz, zwei Doppelungen, ein Mediopassiv mit passiver Bedeutung, eine gesprochene Kurzform,
+eine Vermutung, einen Bedingungssatz, der eine allgemeine Regel ausdrückt, und ein „solange“?
+
+::: {.callout-note collapse="true"}
+## Fundstellen
 
 | im Text | was es ist | Kapitel |
 |---|---|---|
@@ -95,12 +100,14 @@ etwas, das du in den letzten zehn Kapiteln gelernt hast:
 | [ο τρόπος που μιλάς]{lang="el"} | Relativsatz mit [που]{lang="el"} | 15 |
 | [τα λάμδα τα λέτε, το φύλλο το ανοίγουμε]{lang="el"} | Doppelung: Objekt als Überschrift | 20 |
 | [η μπουγάτσα τρώγεται]{lang="el"} | Mediopassiv, passiv: „wird gegessen“ | 13 |
-| [το ’22, κι άνοιξε]{lang="el"} | gesprochene Kurzformen | 21 |
+| [κι άνοιξε]{lang="el"} | gesprochene Kurzform | 21 |
+| [το ’22, το ’30]{lang="el"} | verkürzte Jahreszahl | 4, 11 |
 | [πρέπει να είστε κουρασμένος]{lang="el"} | Vermutung („wohl“) + Partizip | 22, 19 |
 | [αν ξυπνάς …, δεν κουράζεσαι]{lang="el"} | realer Bedingungssatz, allgemeine Regel | 17 |
 | [όσο είναι ζεστή]{lang="el"} | [όσο]{lang="el"} „solange“ + Präsens | 17 |
+:::
 
-Zwei Stellen passen nicht in diese Tabelle: [Τι να σε βάλω;]{lang="el"} und [σε
+Zwei Stellen passen in keine dieser Schubladen: [Τι να σε βάλω;]{lang="el"} und [σε
 λέω]{lang="el"}. Im Standard hieße es [σου βάλω, σου λέω]{lang="el"}. Das ist kein Tippfehler,
 sondern Thessaloniki (@sec-thess-akkusativ). Die ▶-Aufnahme liest es so, wie es dasteht. Wie der
 Mann das [λ]{lang="el"} ausspricht, hörst du dort allerdings nicht; die Synthesestimme spricht
@@ -117,20 +124,18 @@ leer sind.
 Der Name hat eine Reise hinter sich. Er kommt, über türkisch [*poğaça*]{lang="tr"}, von
 italienisch [*focaccia*]{lang="it"}, und das von lateinisch [*focus*]{lang="la"} „Herd“:
 „Herdbrot“. Dieselbe Wurzel steckt in spanisch [*hogaza*]{lang="es"} und französisch
-[*fougasse*]{lang="fr"}. Aus Brot wurde auf dem Weg nach Osten Blätterteig, das Wort blieb.
-<!-- CHECK: Etymologie μπουγάτσα < türk. poğaça < ital. focaccia < lat. focacia (panis) / focus; span. hogaza und frz. fougasse aus derselben Wurzel. -->
+[*fougasse*]{lang="fr"}. Aus dem Herdbrot wurde unterwegs ein Gebäck aus hauchdünnen Teigblättern;
+das Wort blieb.
 
 Viele Bougatsa-Läden der Stadt wurden von Flüchtlingen aus Kleinasien und Konstantinopel
 gegründet, die nach 1922 kamen; der Großvater aus dem Dialog ist erfunden, aber nicht untypisch.
-<!-- CHECK: Rolle der Flüchtlinge von 1922/23 für die Bougatsa-Tradition Thessalonikis; nicht als „Erfindung“ darstellen, Bougatsa gab es in Makedonien wohl schon in osmanischer Zeit. -->
 
 Zwei weitere Klassiker: Das **[κουλούρι Θεσσαλονίκης]{lang="el"}**, den Sesamkringel aus
 Kapitel 1, verkaufen Händler an Straßenecken aus Glaskästen; selbst in Athen heißt er oft nach
 Thessaloniki. Und die **[τρίγωνα Πανοράματος]{lang="el"}**, „Dreiecke aus Panorama“: knusprige
-Teigtüten, prall gefüllt mit Creme, benannt nach dem Vorort Panorama oberhalb der Stadt, wo eine
-Konditorei sie in den 1960er-Jahren erfunden haben soll. Sie sind so süß, dass eines genügt; die
+Teigtüten, prall gefüllt mit Creme, benannt nach dem Vorort Panorama oberhalb der Stadt, wo die
+Konditorei Elenidis sie 1960 zum ersten Mal backte. Sie sind so süß, dass eines genügt; die
 meisten nehmen trotzdem zwei.
-<!-- CHECK: Trigona Panoramatos – Herkunft aus einer Konditorei in Panorama, Jahrzehnt der Entstehung. -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -144,7 +149,6 @@ meisten nehmen trotzdem zwei.
 | [ο τρόπος]{lang="el"} | [o ˈtropos] | die Art, die Weise |
 | [κουράζομαι, κουράστηκα]{lang="el"} | [kuˈrazome], [kuˈrastika] | müde werden, sich anstrengen |
 | [το τρίγωνο]{lang="el"} | [to ˈtriɣono] | das Dreieck |
-| [το σουσάμι]{lang="el"} | [to suˈsami] | der Sesam |
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -165,21 +169,20 @@ meisten nehmen trotzdem zwei.
 Thessaloniki ist mit rund einer Million Menschen im Großraum die zweite Stadt Griechenlands; die
 Griechen nennen sie [η συμπρωτεύουσα]{lang="el"}, „die Mit-Hauptstadt“. Wer von hier kommt, spricht
 Standardgriechisch, mit ein paar Eigenheiten, die man in Athen sofort bemerkt und gern parodiert.
-Auf dem Land in Makedonien und Thrakien, besonders bei Älteren, sind dieselben Merkmale viel
-stärker; dort spricht man von einer „schweren“ Aussprache, [βαριά προφορά]{lang="el"}.
+Auf dem Land in Makedonien und Thrakien, besonders bei Älteren, hört man dagegen noch die
+nördlichen Dialekte, [οι βόρειες διάλεκτοι]{lang="el"}. Dort sind die Merkmale viel stärker, und
+es kommen welche dazu; man spricht von einer „schweren“ Aussprache, [βαριά προφορά]{lang="el"}.
 
 Ziel dieses Abschnitts ist **Erkennen**, nicht Nachmachen. Selbst sprichst du weiter Standard,
 wie er in den Nachrichten und in Athen gesprochen wird. Aber wer im Norden reist oder Filme sieht,
 die dort spielen, hört drei Dinge.
 
-<!-- CHECK: Einwohnerzahl Großraum Thessaloniki (ca. 1 Mio.) und Bezeichnung συμπρωτεύουσα. -->
-
 ### Das dunkle [λ]{lang="el"} {#sec-thess-lambda}
 
 Das Merkmal, über das die Kundin im Dialog stolpert, ist das „dicke L“, [το παχύ λάμδα]{lang="el"}.
-Vor [a], [o] und [u] hebt sich dabei der hintere Teil der Zunge zum Gaumen, und das [l] klingt
-dunkel, fast hohl. Du kennst den Laut aus dem Englischen: das *l* in *full* oder *milk*, im
-Unterschied zum hellen *l* in *leaf*. Die Lautschrift schreibt ihn [ɫ]: [ˈɫaθos] für
+Vor [o] und [u], oft auch vor [a], hebt sich dabei der hintere Teil der Zunge zum Gaumen, und das
+[l] klingt dunkel, fast hohl. Du kennst den Laut aus dem Englischen: das *l* in *full* oder *milk*,
+im Unterschied zum hellen *l* in *leaf*. Die Lautschrift schreibt ihn [ɫ]: [ˈɫaθos] für
 [λάθος]{lang="el"}, [poˈɫa] für [πολλά]{lang="el"}, [miˈɫuse] für [μιλούσε]{lang="el"}. Vor
 [e] und [i] bleibt es meist hell.
 
@@ -187,33 +190,31 @@ Das [λ]{lang="el"} in Athen ist hell, wie im Deutschen. Nachsprechen musst du d
 aber wenn dir in einem Interview ein [λ]{lang="el"} ungewöhnlich „englisch“ vorkommt, hast du einen
 Hinweis darauf, woher der Mensch kommt.
 
-<!-- CHECK: Beschreibung des „παχύ λ“ als velarisiertes [ɫ] vor hinteren Vokalen; Verbreitung in der Stadtsprache Thessalonikis. -->
-
 ### Vokale, die fehlen {#sec-thess-vokale}
 
-Die Verschleifung aus Kapitel 21, das leise unbetonte [i] und [u], ist im Norden keine Frage
-des Tempos, sondern Regel. Dazu kommt eine zweite Verschiebung: Unbetontes [e] rückt Richtung
-[i], unbetontes [o] Richtung [u]. Zusammen ergibt das Wörter, die im Hörbild eine Silbe kürzer
-sind:
+Die Verschleifung aus Kapitel 21, das leise unbetonte [i] und [u], ist in den nördlichen
+Dialekten keine Frage des Tempos, sondern Regel: Die Vokale fallen ganz aus, je nach Gegend nur am
+Wortende oder überall. Viele dieser Dialekte kennen dazu eine zweite Verschiebung, die
+**Anhebung**: Unbetontes [e] wird zu [i], unbetontes [o] zu [u]; die Zunge steht dabei höher.
+Zusammen ergibt das Wörter, die im Hörbild kürzer sind oder anders klingen:
 
 | Schriftbild | Standard | Hörbild Norden | was passiert |
 |---|---|---|---|
-| [σπίτι]{lang="el"} | [ˈspiti] | [spit] | [i] fällt |
-| [βουνό]{lang="el"} | [vuˈno] | [vno] | [u] fällt |
-| [καλημέρα]{lang="el"} | [kaliˈmera] | [kalˈmera] | [i] fällt |
-| [παιδί]{lang="el"} | [peˈði] | [piˈði] | [e] → [i] |
-| [θέλω]{lang="el"} | [ˈθelo] | [ˈθelu] | [o] → [u] |
+| [σπίτι]{lang="el"} | [ˈspiti] | [spit] | Ausfall von [i] |
+| [βουνό]{lang="el"} | [vuˈno] | [vno] | Ausfall von [u] |
+| [καλημέρα]{lang="el"} | [kaliˈmera] | [kalˈmera] | Ausfall von [i] |
+| [παιδί]{lang="el"} | [peˈði] | [piˈði] | Anhebung [e] → [i] |
+| [θέλω]{lang="el"} | [ˈθelo] | [ˈθelu] | Anhebung [o] → [u] |
 | [κορίτσι]{lang="el"} | [koˈritsi] | [kuˈrits] | beides |
 
-Die rechte Spalte zeigt das „schwere“ Nordgriechisch der Dörfer. In der Stadt hörst du meist nur
-den ersten Teil: [i] und [u] werden verschluckt, [e] und [o] bleiben.
+In der Stadt hörst du davon meist wenig; am ehesten verschluckte [i] und [u], die es auch in Athen
+gibt. Die Anhebung von [e] und [o] gehört zu den Dialekten auf dem Land. (Einsilbige Hörbilder wie
+[spit] tragen in der Umschrift kein [ˈ].)
 
 Die Strategie aus Kapitel 21 funktioniert hier besonders gut: **Such die betonte Silbe.** Sie
-bleibt immer, samt ihrem Vokal. [kuˈrits] hat das [ˈri] von [κορίτσι]{lang="el"}, [vno] das
+bleibt fast immer, samt ihrem Vokal. [kuˈrits] hat das [ˈri] von [κορίτσι]{lang="el"}, [vno] das
 [ˈno] von [βουνό]{lang="el"}. Und [ˈθelu na ˈfiɣu] ist mit zwei [u] statt [o] immer noch
 [θέλω να φύγω]{lang="el"}, „ich will gehen“.
-
-<!-- CHECK: Beispiele für nordgriechische Vokalhebung und -tilgung (σπίτι → [spit], βουνό → [vno], καλημέρα → [kalˈmera], παιδί → [piˈði], θέλω → [ˈθelu], κορίτσι → [kuˈrits]) und die Aussage, dass die Stadtsprache Thessalonikis vor allem die Tilgung von [i u] zeigt, die Hebung von [e o] kaum. -->
 
 ### [Σε λέω]{lang="el"}: Akkusativ statt Genitiv {#sec-thess-akkusativ}
 
@@ -243,23 +244,23 @@ Sprachgeschichte eine von zwei Lösungen.
 
 Alle drei Merkmale sind **Tendenzen**. Nicht jeder in Thessaloniki spricht so, viele Jüngere
 kaum, und dieselbe Person spricht in einem Interview anders als am Küchentisch. Die Beschreibung
-hier ist stark vereinfacht; wer tiefer einsteigen will, findet einen Überblick in Peter Trudgills
-Aufsatz zur Einteilung der neugriechischen Dialekte (2003, *Journal of Greek Linguistics*).
+hier ist stark vereinfacht. Einen Überblick gibt Peter Trudgills Aufsatz zur Einteilung der
+neugriechischen Dialekte (2003, *Journal of Greek Linguistics*); zum Akkusativ für „wem?“ gibt es
+eine neuere Studie in der Zeitschrift *Languages*: „High and Low Arguments in Northern and Pontic
+Greek“ (2022).
 :::
-
-<!-- CHECK: Sprachgeschichtliche Aussage zu Dativschwund und Nord-Akkusativ/Süd-Genitiv; Literaturangabe Trudgill 2003, „Modern Greek dialects: a preliminary classification“, Journal of Greek Linguistics 4. -->
 
 ::: {.callout-note .exercise}
 ## Übung 23.1: Zurück zum Standard
 
-Welches Standardwort, welcher Satz steckt dahinter? Und reicht dafür die Stadt (nur [i u] fallen),
-oder braucht es das Land ([e o] werden zu [i u])? Im Chat etwa „1S, 2L“.
+Welches Standardwort, welcher Satz steckt dahinter? Und was ist passiert: nur Ausfall von [i u]
+(A), oder auch Anhebung von [e o] (H)? Im Chat etwa „1A, 2H“.
 
 1. [ˈmilsa]
 2. [pirpaˈtondas]
 3. [prep na ˈefiʝe]
 4. [ˈpirɣus]
-5. [ðen du ˈxu ˈði]
+5. [ðen du ˈkseru]
 6. geschrieben, wie in einem Comic: [Θέλου να φύγου, είμι κουρασμένους.]{lang="el"}
 
 Zum Schluss: Woran erkennst du die betonte Silbe, und warum hilft sie?
@@ -268,34 +269,35 @@ Zum Schluss: Woran erkennst du die betonte Silbe, und warum hilft sie?
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Erst die Silbe mit [ˈ] oder Akzent suchen, dann ergänzen. Ein [u] oder [i] in einer
-unbekannten Endung war vielleicht [o] oder [e].
+Erst die Silbe mit [ˈ] oder Akzent suchen, dann ergänzen; Einsilber tragen kein [ˈ]. Ein [u]
+oder [i] in einer unbekannten Endung war vielleicht [o] oder [e]. Ein Wort ist neu:
+[ο πύργος]{lang="el"}, der Turm.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-3 ist eine Vermutung (Kapitel 22), 5 ein Perfekt mit Kurzform (Kapitel 21), 2 ein Gerundium.
+3 ist eine Vermutung (Kapitel 22), 5 ein verneinter Satz mit schwachem Pronomen (Kapitel 8),
+2 ein Gerundium.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-1. [μίλησα]{lang="el"}: [i] fällt, **Stadt**.
-2. [περπατώντας]{lang="el"}: [e] → [i], **Land**.
-3. [πρέπει να έφυγε]{lang="el"} „ist wohl gegangen“: End-[i] fällt, **Stadt**.
-4. [ο πύργος]{lang="el"}: [o] → [u], **Land**. Aber [ˈpirɣus] ist auch Standard: [τους
+1. [μίλησα]{lang="el"}: [i] fällt aus, **A**.
+2. [περπατώντας]{lang="el"}: [e] → [i], **H**.
+3. [πρέπει να έφυγε]{lang="el"} „ist wohl gegangen“: End-[i] fällt aus, **A**.
+4. [ο πύργος]{lang="el"}: [o] → [u], **H**. Aber [ˈpirɣus] ist auch Standard: [τους
    πύργους]{lang="el"}. Erst der Satz entscheidet.
-5. [δεν το ’χω δει]{lang="el"} [ðen do ˈxo ˈði]: zweimal [o] → [u], **Land**. Das [d] ist Sandhi.
-6. [Θέλω να φύγω, είμαι κουρασμένος.]{lang="el"} **Land.** Typischer Fehler:
+5. [δεν το ξέρω]{lang="el"} [ðen do ˈksero]: zweimal [o] → [u], **H**. Das [d] ist Sandhi
+   (Kapitel 21).
+6. [Θέλω να φύγω, είμαι κουρασμένος.]{lang="el"} **H.** Typischer Fehler:
    [θέλου]{lang="el"} für eine andere Person halten; gemeint ist „ich“.
 
 Die betonte Silbe trägt in der Umschrift [ˈ], geschrieben den Akzent, beim Hören ist sie lauter
-und länger. Ihr Vokal bleibt immer: [ˈpir-] ist [πύρ-]{lang="el"}, von [πρέπει]{lang="el"} bleibt
-[prep].
+und länger. Ihr Vokal bleibt fast immer: [ˈpir-] ist [πύρ-]{lang="el"}, von [πρέπει]{lang="el"}
+bleibt [prep].
 :::
-
-<!-- CHECK: Übung 23.1 – Plausibilität der konstruierten Hörbilder ([ˈmilsa]; [prep na ˈefiʝe] mit Tilgung des End-i als Stadtmerkmal; [pirpaˈtondas]; [ˈpirɣus]; [ðen du ˈxu ˈði]) und der Comic-Schreibung «Θέλου να φύγου, είμι κουρασμένους». -->
 
 ::: {.callout-note .exercise}
 ## Übung 23.2: Wem oder wen?
@@ -325,7 +327,7 @@ Hat das Verb schon eine Sache als Objekt, oder ist es ein Verb des Sagens, ist d
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Zwei Verben nehmen auch im Standard den Akkusativ (Kapitel 8). Für 8 denk an die Doppelung
+Zwei Verben hier nehmen auch im Standard den Akkusativ (Kapitel 8). Für 8 denk an die Doppelung
 (Kapitel 20).
 :::
 
@@ -341,22 +343,22 @@ Zwei Verben nehmen auch im Standard den Akkusativ (Kapitel 8). Für 8 denk an di
 5. Standard, „wen“: „Ich habe ihn gesehen.“
 6. „wem“: [Μου έφερε …]{lang="el"}
 7. Standard: auch [βοηθάω]{lang="el"} nimmt den Akkusativ.
-8. Standard als Doppelung: „Die Wahrheit, die hab ich gesagt.“ Im Norden auch „Ich hab ihr die
-   Wahrheit gesagt“, Standard [Της είπα …]{lang="el"}.
+8. Standard als umgangssprachliche Doppelung, Objekt hinter dem Verb: „Ich hab sie gesagt, die
+   Wahrheit.“ Im Norden auch „Ich hab ihr die Wahrheit gesagt“, Standard [Της είπα …]{lang="el"}.
 
-Typischer Fehler in die Gegenrichtung: [σου ευχαριστώ]{lang="el"}, nicht Standard. Und [σε λέω]{lang="el"}
-ist im Norden kein Fehler, im Standard aber [σου λέω]{lang="el"}.
+Typischer Fehler in die Gegenrichtung: [σου ευχαριστώ]{lang="el"}, nicht Standard. Und [σε
+λέω]{lang="el"} ist im Norden kein Fehler, im Standard aber [σου λέω]{lang="el"}.
 :::
-
-<!-- CHECK: Übung 23.2, Satz 8 – „Την είπα την αλήθεια“ als umgangssprachliche Doppelung im Standard akzeptabel und im Norden auch als „ihr“ lesbar. -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [η προφορά]{lang="el"} | [i profoˈra] | die Aussprache; der Akzent |
 | [η διάλεκτος]{lang="el"} | [i ðiˈalektos] | der Dialekt (weiblich auf [-ος]{lang="el"}) |
+| [βόρειος, -α, -ο]{lang="el"} | [ˈvorios] | nördlich, Nord- |
 | [βαρύς, βαριά, βαρύ]{lang="el"} | [vaˈris], [vaˈrʝa], [vaˈri] | schwer; [βαριά προφορά]{lang="el"} starker Akzent |
 | [η συμπρωτεύουσα]{lang="el"} | [i simbroˈtevusa] | Beiname Thessalonikis, „Mit-Hauptstadt“ |
+| [ο πύργος]{lang="el"} | [o ˈpirɣos] | der Turm |
 :::
 
 ## Zwischenbilanz: Teil II auf einen Blick {#sec-thess-bilanz}

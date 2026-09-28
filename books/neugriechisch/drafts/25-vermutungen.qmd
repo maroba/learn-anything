@@ -1,0 +1,710 @@
+---
+title: "Er muss gegangen sein: Vermutungen über die Vergangenheit"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+- **Wo steht die Zeit?** (Kapitel 22): Sagt der Ausdruck vor [να]{lang="el"}, **wie sicher**
+  etwas ist oder **woher man es weiß**, darf nach [να]{lang="el"} eine Vergangenheit stehen. Sagt
+  er, was jemand **will, kann oder muss** oder **wozu** etwas dient, folgt die zeitlose
+  [να]{lang="el"}-Form.
+- Nach Vermutungswörtern: Aorist für ein Ereignis, Imperfekt für Hintergrund, Perfekt, wenn das
+  Ergebnis jetzt zählt: [πρέπει να έφυγε / να κοιμόταν / να έχει φύγει]{lang="el"}. Auch
+  [θα]{lang="el"} + Präsens vermutet: [Θα είναι σπίτι.]{lang="el"} (Kapitel 22)
+- **Plusquamperfekt** (Kapitel 14): [είχα]{lang="el"} + Form auf [-ει]{lang="el"}, Rückblick
+  von einem Punkt in der Vergangenheit. [ξέρω]{lang="el"} und [είμαι]{lang="el"} haben keins
+  (Kapitel 24).
+- **[θα]{lang="el"} + Imperfekt** (Kapitel 24): Futur der Vergangenheit, Irrealis, Höflichkeit.
+  [θα]{lang="el"} + Plusquamperfekt: Irrealis der Vergangenheit, [θα είχα φύγει]{lang="el"}
+  „ich wäre gegangen“.
+:::
+
+## Eine Stadt ohne Menschen {#sec-vermutungen-einstieg}
+
+Santorin, Akrotiri ([το Ακρωτήρι]{lang="el"}). Unter einem riesigen Schutzdach liegen die Gassen
+einer Stadt aus der Bronzezeit, begraben unter Bimsstein und Asche. Zwei Besucher bleiben vor
+einer Infotafel stehen.
+
+::: {lang="el"}
+— Κοίτα. Μια ολόκληρη πόλη κάτω από τη στάχτη. Σπίτια με δύο και τρεις ορόφους, πριν από
+τρεισήμισι χιλιάδες χρόνια.
+
+— Και οι άνθρωποι; Στην Πομπηία βρήκαν σκελετούς παντού. Εδώ δε βλέπω πουθενά.
+
+— Γιατί δε βρέθηκε κανένας. Ούτε χρυσάφι, ούτε κοσμήματα. Το γράφει η πινακίδα.
+
+— Άρα πρέπει να είχαν φύγει πριν από την έκρηξη. Και θα πήραν μαζί τους ό,τι είχε αξία.
+
+— Ναι, αλλά πώς ήξεραν τι θα γινόταν;
+
+— Θα έγιναν σεισμοί πρώτα. Εδώ λέει ότι πολλά σπίτια είχαν ζημιές και ότι κάποιοι είχαν
+αρχίσει ήδη να τα φτιάχνουν.
+
+— Δηλαδή τους ειδοποίησε ο σεισμός. Όπως το 2025, που έφυγαν χιλιάδες από το νησί.
+
+— Εγώ στη θέση τους θα είχα φύγει με τον πρώτο σεισμό.
+
+— Εσύ θα είχες φύγει πριν από τον πρώτο σεισμό. Και πού πήγαν;
+
+— Μπορεί να πήγαν στην Κρήτη. Μπορεί και να μην έφτασαν ποτέ. Ή απλώς δεν έχουν ψάξει ακόμα
+στο σωστό σημείο· έχουν σκάψει μόνο ένα μικρό μέρος της πόλης.
+
+— Βγάζεις συμπεράσματα σαν ντετέκτιβ.
+
+— Όχι σαν ντετέκτιβ. Σαν αρχαιολόγος: με πολλά «μάλλον» και κανένα «σίγουρα».
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Schau. Eine ganze Stadt unter der Asche. Häuser mit zwei und drei Stockwerken, vor
+dreieinhalbtausend Jahren.
+
+— Und die Menschen? In Pompeji hat man überall Skelette gefunden. Hier sehe ich nirgends welche.
+
+— Weil keins gefunden wurde. Kein Gold, kein Schmuck. Steht auf der Tafel.
+
+— Dann müssen sie vor dem Ausbruch schon weg gewesen sein. Und alles, was Wert hatte, haben sie
+wohl mitgenommen.
+
+— Ja, aber woher wussten sie, was passieren würde?
+
+— Es gab wohl erst Erdbeben. Hier steht, dass viele Häuser beschädigt waren und manche schon
+angefangen hatten, sie zu reparieren.
+
+— Das Erdbeben hat sie also gewarnt. Wie 2025, als Tausende die Insel verlassen haben.
+
+— Ich an ihrer Stelle wäre beim ersten Beben gegangen.
+
+— Du wärst vor dem ersten Beben gegangen. Und wo sind sie hin?
+
+— Vielleicht nach Kreta. Vielleicht sind sie auch nie angekommen. Oder man hat einfach noch
+nicht an der richtigen Stelle gesucht; ausgegraben ist erst ein kleiner Teil der Stadt.
+
+— Du ziehst Schlüsse wie ein Detektiv.
+
+— Nicht wie ein Detektiv. Wie ein Archäologe: mit vielen „wahrscheinlich“ und keinem „sicher“.
+:::
+
+<!-- CHECK: Akrotiri – (1) bisher keine Skelette von Opfern gefunden; (2) kaum Gold/Schmuck/
+Wertsachen; (3) Spuren eines Erdbebens vor dem Ausbruch mit begonnenen Aufräum- und
+Reparaturarbeiten; (4) Häuser mit bis zu drei Stockwerken; (5) nur ein kleiner Teil der Stadt
+ausgegraben. Alles gängige Darstellung, bitte gegen eine Fachquelle (z.B. Doumas) prüfen. -->
+
+Die beiden haben die Stadt nicht untergehen sehen, und trotzdem reden sie ziemlich genau darüber.
+Sortiert nach dem, was sie meinen:
+
+| im Text | gemeint |
+|---|---|
+| [πρέπει να είχαν φύγει]{lang="el"} | sie waren (vor dem Ausbruch) wohl schon weg |
+| [θα πήραν]{lang="el"}, [θα έγιναν]{lang="el"} | haben wohl mitgenommen; es gab wohl |
+| [μπορεί να πήγαν]{lang="el"} | vielleicht sind sie gefahren |
+| [θα γινόταν]{lang="el"} | passieren würde (Futur der Vergangenheit) |
+| [θα είχα φύγει]{lang="el"} | ich wäre gegangen (Irrealis) |
+
+Drei Dinge sind neu. Nach [πρέπει να]{lang="el"} steht ein Plusquamperfekt. [θα]{lang="el"} mit
+Aorist beschreibt nichts Unwirkliches, sondern vermutet. Und [θα είχα φύγει]{lang="el"} ist hier
+zwar ein Irrealis, dieselbe Form kann aber auch vermuten. Der letzte
+Satz des Dialogs ist das Programm des Kapitels: Wer über Vergangenes spricht, das niemand
+gesehen hat, braucht viele [μάλλον]{lang="el"}.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ολόκληρος, -η, -ο]{lang="el"} | [oˈlokliros] | ganz, vollständig |
+| [πουθενά]{lang="el"} | [puθeˈna] | nirgends; (in Fragen) irgendwo |
+| [ο σκελετός]{lang="el"} | [o sceleˈtos] | das Skelett |
+| [το χρυσάφι]{lang="el"} | [to xriˈsafi] | das Gold |
+| [το κόσμημα, τα κοσμήματα]{lang="el"} | [to ˈkozmima], [ta kozˈmimata] | das Schmuckstück; der Schmuck |
+| [η αξία]{lang="el"} | [i aˈksia] | der Wert; [έχει αξία]{lang="el"} es ist etwas wert |
+| [η έκρηξη]{lang="el"} | [i ˈekriksi] | der Ausbruch, die Explosion |
+| [το ηφαίστειο]{lang="el"} | [to iˈfestio] | der Vulkan |
+| [η ζημιά]{lang="el"} | [i ziˈmɲa] | der Schaden |
+| [ειδοποιώ, ειδοποίησα]{lang="el"} | [iðopiˈo], [iðoˈpiisa] | benachrichtigen, warnen |
+| [ο/η αρχαιολόγος]{lang="el"} | [o/i arçeoˈloɣos] | der Archäologe, die Archäologin |
+| [βγάζω συμπέρασμα]{lang="el"} | [ˈvɣazo siˈberazma] | einen Schluss ziehen ([το συμπέρασμα]{lang="el"}) |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η Πομπηία]{lang="el"} | Pompeji |
+| [η πινακίδα]{lang="el"} | die (Info-)Tafel, das Schild |
+| [φτιάχνω]{lang="el"} | hier: reparieren |
+| [στη θέση τους]{lang="el"} | an ihrer Stelle (Kapitel 24) |
+| [απλώς]{lang="el"} | einfach, bloß |
+| [το σημείο]{lang="el"} | die Stelle, der Punkt |
+| [ο ντετέκτιβ]{lang="el"} | der Detektiv |
+:::
+
+::: {.callout-tip}
+## Tipp
+
+[το ηφαίστειο]{lang="el"} kommt von Hephaistos ([ο Ήφαιστος]{lang="el"}), dem Gott der Schmiede.
+Die Römer gaben ihrem Schmiedegott einen eigenen Namen, [*Vulcanus*]{lang="la"}, und der steckt im
+deutschen Wort. Griechisch und Deutsch benennen den feuerspeienden Berg also nach demselben
+Gott, nur jeweils in der eigenen Mythologie.
+:::
+
+## Sie waren schon weg: Plusquamperfekt nach Vermutungswörtern {#sec-vermutungen-plusquamperfekt}
+
+[Πρέπει να είχαν φύγει πριν από την έκρηξη.]{lang="el"} Dass nach [πρέπει να]{lang="el"} als
+Vermutung eine Vergangenheit stehen darf, weißt du aus Kapitel 22. Neu ist nur, welche: das
+Plusquamperfekt. Es tut dasselbe wie sonst (Kapitel 14) und blickt von einem Punkt in der
+Vergangenheit zurück. Hier ist dieser Punkt der Ausbruch: Als die Asche fiel, waren die Bewohner
+schon fort.
+
+- [Πρέπει να έφυγαν.]{lang="el"} – Sie sind wohl weggegangen. (ein Ereignis)
+- [Πρέπει να είχαν φύγει πριν από την έκρηξη.]{lang="el"} – Sie waren vor dem Ausbruch wohl schon
+  weg. (Rückblick vom Ausbruch aus)
+
+Das Deutsche sagt in beiden Fällen gern „Sie müssen gegangen sein“ und überlässt den Rest dem
+Zusammenhang. Das Griechische wählt, sobald ein zweiter Zeitpunkt im Spiel ist: ein
+[πριν από]{lang="el"}, ein [όταν]{lang="el"}-Satz mit Aorist, ein [ήδη]{lang="el"}. Fehlt er,
+genügt meist der Aorist.
+
+Das geht mit allen Wörtern, die sagen, wie sicher etwas ist:
+
+- [Όταν τον ρώτησαν για το ραντεβού, δεν ήξερε τίποτα. Μπορεί να το είχε ξεχάσει.]{lang="el"} –
+  Als man ihn nach dem Termin fragte, wusste er von nichts. Vielleicht hatte er ihn vergessen.
+- [Όταν έφτασαν οι Μυκηναίοι, η Κρήτη μάλλον είχε ήδη αδυναμώσει.]{lang="el"} – Als die Mykener
+  kamen, war Kreta wahrscheinlich schon geschwächt.
+
+Das Wort, das den Unterschied macht, steht übrigens ganz vorn. Vergleiche mit Kapitel 24:
+
+- [Πρέπει να είχαν φύγει.]{lang="el"} – Sie waren wohl schon weg. (Vermutung)
+- [Έπρεπε να είχαν φύγει.]{lang="el"} – Sie hätten gehen sollen. (Bedauern)
+
+Ein Buchstabe Augment, und aus der Vermutung wird ein Vorwurf. Nach dem Vermutungswort bleibt die
+Vergangenheit echte Vergangenheit; nach [έπρεπε]{lang="el"} zeigt sie den Abstand zur Wirklichkeit.
+
+::: {.callout-important}
+## Merke
+
+- Nach [πρέπει να]{lang="el"} (Vermutung), [μπορεί να, ίσως (να)]{lang="el"} und nach
+  [μάλλον]{lang="el"} steht das **Plusquamperfekt**, wenn etwas **vor einem anderen Punkt in der
+  Vergangenheit** schon geschehen war: [πρέπει να είχαν φύγει πριν από την έκρηξη]{lang="el"}.
+- Ohne solchen Punkt reicht der Aorist: [πρέπει να έφυγαν]{lang="el"}.
+:::
+
+::: {.callout-warning}
+## Achtung
+
+„Er muss es schon vorher gewusst haben“ heißt [Πρέπει να το ήξερε από πριν.]{lang="el"}
+[ξέρω]{lang="el"} hat kein Plusquamperfekt, also bleibt nur das Imperfekt; \*[πρέπει να το είχε
+ξέρει]{lang="el"} gibt es nicht. Ebenso [είμαι]{lang="el"}: „Die Stadt muss damals schon leer
+gewesen sein“ = [Η πόλη πρέπει να ήταν ήδη άδεια.]{lang="el"}
+:::
+
+<!-- EXERCISE: Plusquamperfekt nach Vermutungswörtern; Auswahl Aorist / Plusquamperfekt /
+Imperfekt nach πρέπει να, μπορεί να, μάλλον in kurzen Kontexten mit und ohne zweiten Zeitpunkt
+(πριν από, όταν + Aorist, ήδη), dazu zwei Fallen mit ξέρω/είμαι ("muss gewusst haben") und ein
+Minimalpaar πρέπει να είχαν φύγει / έπρεπε να είχαν φύγει; Antwort im Chat per Buchstabe;
+Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [πρέπει να είχε φύγει]{lang="el"} | [ˈprepi na ˈiçe ˈfiʝi] | er/sie war wohl (da) schon weg |
+| [μπορεί να το είχε ξεχάσει]{lang="el"} | [boˈri na to ˈiçe kseˈxasi] | vielleicht hatte er/sie es vergessen |
+| [από πριν]{lang="el"} | [aˈpo prin] | (schon) vorher, im Voraus |
+| [αδυναμώνω, αδυνάμωσα]{lang="el"} | [aðinaˈmono], [aðiˈnamosa] | schwach werden, schwächen; abnehmen |
+:::
+
+## Wird wohl gewesen sein: [θα]{lang="el"} vermutet auch Vergangenes {#sec-vermutungen-tha}
+
+[Θα πήραν μαζί τους ό,τι είχε αξία.]{lang="el"} Kapitel 22 hat gezeigt, dass [θα]{lang="el"} +
+Präsens vermuten kann wie das deutsche „wird wohl“: [Θα είναι σπίτι.]{lang="el"} Dasselbe
+[θα]{lang="el"} verbindet sich mit jeder Vergangenheit, und die Wahl der Form folgt denselben
+Überlegungen wie nach [πρέπει να]{lang="el"}:
+
+| [θα]{lang="el"} + … | Beispiel | Deutsch |
+|---|---|---|
+| Präsens | [Θα είναι σπίτι.]{lang="el"} | Er wird (wohl) zu Hause sein. |
+| Aorist | [Θα το ξέχασε.]{lang="el"} | Er hat es wohl vergessen. |
+| Imperfekt | [Θα ήταν γύρω στις δέκα.]{lang="el"} | Es wird so gegen zehn gewesen sein. |
+| Perfekt | [Θα έχει φύγει.]{lang="el"} | Er wird wohl schon weg sein. |
+| Plusquamperfekt | [Θα είχε φύγει.]{lang="el"} | Er wird (da) wohl schon weg gewesen sein. |
+
+Die letzten beiden Zeilen hat Kapitel 14 versprochen. Deutsch macht es mit „wird … haben“ fast
+genauso. Noch näher ist das Spanische mit seinem Futur und Konditional der Wahrscheinlichkeit:
+[*Estará en casa. Habrá salido. Serían las diez. Habría salido ya.*]{lang="es"}
+
+Im Gespräch klingt das so:
+
+- [— Πού είναι τα κλειδιά μου; — Θα τα άφησες στο αυτοκίνητο.]{lang="el"} – Wo sind meine
+  Schlüssel? – Du hast sie wohl im Auto gelassen.
+- [— Τι ώρα έφυγαν; — Δεν ξέρω, θα ήταν γύρω στα μεσάνυχτα.]{lang="el"} – Wann sind sie gegangen?
+  – Weiß nicht, das wird so gegen Mitternacht gewesen sein.
+- [— Ο Νίκος δεν απαντάει. — Θα έχει μπει ήδη στο πλοίο.]{lang="el"} – Nikos antwortet nicht. –
+  Er ist wohl schon aufs Schiff gegangen.
+- [Όταν έπεσε η στάχτη, οι περισσότεροι θα είχαν ήδη φύγει.]{lang="el"} – Als die Asche fiel,
+  werden die meisten schon weg gewesen sein.
+
+Verneint steht [δε(ν)]{lang="el"} wie immer vor [θα]{lang="el"}: [Δε θα το είδε.]{lang="el"} „Er
+hat es wohl nicht gesehen.“ Auf der Skala aus Kapitel 22 liegt [θα]{lang="el"} als Vermutung bei
+„eher ja“, etwa wie [μάλλον]{lang="el"}.
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+[θα]{lang="el"} + Aorist ist in Grammatiken beschrieben und im Gespräch üblich. Wie häufig es
+im Vergleich zu [μάλλον]{lang="el"} + Aorist ist, lässt sich schwer sagen. In Sachtexten und
+Nachrichten liest du für Vermutungen über Vergangenes eher [πρέπει να, μάλλον,
+πιθανότατα]{lang="el"}.
+:::
+
+<!-- CHECK: θα + Aorist als Vermutung (Θα το ξέχασε): Gebrauch und Register (gesprochen üblich,
+in Sachtexten seltener?) gegen Holton/Mackridge/Philippaki-Warburton prüfen. -->
+
+<!-- EXERCISE: Vermutungen mit θα über Vergangenes bilden; deutsche Sätze mit "wird wohl …
+haben/gewesen sein", "hat wohl" mündlich übersetzen, dabei zwischen θα + Aorist, Imperfekt,
+Perfekt und Plusquamperfekt wählen (Alltag und Archäologie gemischt, eine Falle mit ξέρω);
+Übersetzung mündlich; Schwierigkeit 2 -->
+
+### Vermutung oder Irrealis? {#sec-vermutungen-lesarten}
+
+Im Dialog stehen zwei Sätze mit [θα]{lang="el"} + Plusquamperfekt nebeneinander, und keiner
+davon ist eine Vermutung: [Εγώ στη θέση τους θα είχα φύγει]{lang="el"} ist ein Irrealis mit
+mitgedachter Bedingung (Kapitel 24). Ein paar Stunden später, im Hotel, sagt dieselbe Person
+vielleicht: [Όταν έπεσε η στάχτη, θα είχαν ήδη φύγει.]{lang="el"} Gleiche Form, andere Aufgabe.
+Mit [θα]{lang="el"} + Imperfekt ist es noch bunter: Futur der Vergangenheit, Irrealis,
+Höflichkeit, und jetzt die Vermutung.
+
+Die Umgebung entscheidet:
+
+- [αν]{lang="el"}, [αλλά]{lang="el"} danach, [στη θέση σου]{lang="el"} oder etwas offensichtlich
+  Unwirkliches → Irrealis.
+- [είπε ότι, ήξερα ότι]{lang="el"} davor → Futur der Vergangenheit.
+- eine Bitte → Höflichkeit.
+- eine Antwort auf die Frage, was damals war, oft mit Indiz, [ήδη]{lang="el"} oder
+  [γύρω στις]{lang="el"} → Vermutung. Hier passt die „wohl“-Probe aus Kapitel 22.
+
+[θα]{lang="el"} + Aorist ist einfacher: Es ist kein Irrealis, und du kannst es in aller Regel als
+Vermutung lesen. [θα]{lang="el"} + Perfekt dagegen hat noch eine zweite, ganz nüchterne
+Bedeutung, das Futur II: [Αύριο τέτοια ώρα θα έχουμε φτάσει.]{lang="el"} „Morgen um diese Zeit
+werden wir angekommen sein.“ Ob es um Morgen oder um Gestern geht, zeigt der Zusammenhang.
+
+::: {.callout-important}
+## Merke
+
+- [θα]{lang="el"} + Aorist, Imperfekt, Perfekt, Plusquamperfekt kann eine **Vermutung** über
+  Vergangenes sein, „wird wohl … haben“. Die Form wählst du wie nach [πρέπει να]{lang="el"}.
+- [θα]{lang="el"} + Imperfekt und + Plusquamperfekt können auch **Irrealis** sein,
+  [θα]{lang="el"} + Imperfekt zudem Futur der Vergangenheit oder Höflichkeit. Passt „wohl“, ist
+  es eine Vermutung.
+:::
+
+<!-- EXERCISE: Lesarten von θα + Vergangenheitsform zuordnen (a Vermutung, b Irrealis, c Futur der
+Vergangenheit, d Höflichkeit, e Futur II); 8–10 kurze Kontexte, darunter θα είχε φύγει in beiden
+Lesarten und θα ήταν in drei; Zuordnen, Antwort im Chat "1a, 2b …"; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [θα το ξέχασε]{lang="el"} | [θa to ˈksexase] | er/sie hat es wohl vergessen |
+| [θα ήταν γύρω στις δέκα]{lang="el"} | [θa ˈitan ˈʝiro stis ˈðeka] | es wird so gegen zehn gewesen sein |
+| [θα έχει φύγει]{lang="el"} | [θa ˈeçi ˈfiʝi] | er/sie wird wohl schon weg sein |
+| [θα είχε φύγει]{lang="el"} | [θa ˈiçe ˈfiʝi] | er/sie wird wohl schon weg gewesen sein; wäre gegangen |
+:::
+
+## Beleg, also Schluss: Indizienketten {#sec-vermutungen-indizien}
+
+Archäologie ist Schließen aus Spuren, und die Leute auf Santorin haben es im Einstieg vorgemacht.
+Zieht man ihre Sätze auseinander, ergibt sich eine **Indizienkette**: eine Folge aus **Belegen**
+(was gefunden wurde) und **Schlüssen** (was man daraus folgert).
+
+::: {lang="el"}
+1. Στο Ακρωτήρι δε βρέθηκαν σκελετοί.
+2. Άρα οι κάτοικοι πρέπει να είχαν φύγει πριν από την έκρηξη.
+3. Αφού έλειπαν και τα κοσμήματα, θα τα πήραν μαζί τους.
+4. Πού πήγαν; Μπορεί στην Κρήτη. Αυτό όμως δεν το ξέρουμε.
+:::
+
+- **Beleg** (1): ein gewöhnlicher Satz ohne Vermutungswort, oft im Mediopassiv (Kapitel 13):
+  [βρέθηκαν, δε βρέθηκε, ανακαλύφθηκε]{lang="el"}.
+- **Schluss** (2): ein Verbindungswort und eine Vermutungsform. Das Verbindungswort sagt „daraus
+  folgt“, die Form sagt, wie sicher.
+- In (3) steckt beides in einem Satz: Beleg mit [αφού]{lang="el"} „da ja“ (Kapitel 16), Schluss mit
+  [θα]{lang="el"}.
+- (4) ist ehrlich: Die Kette reicht nicht bis ans Ziel.
+
+Die Verbindungswörter:
+
+| Griechisch | Deutsch | Stellung |
+|---|---|---|
+| [άρα]{lang="el"} | also, folglich | vor dem Schluss |
+| [οπότε]{lang="el"} | also, deshalb | verbindet Beleg und Schluss in einem Satz |
+| [αφού]{lang="el"} | da ja | vor dem Beleg |
+| [αυτό σημαίνει ότι]{lang="el"} | das heißt, dass | vor dem Schluss |
+| [όλα δείχνουν ότι]{lang="el"} | alles deutet darauf hin, dass | vor dem Schluss |
+
+[Δε βρέθηκαν σκελετοί, οπότε πρέπει να είχαν φύγει.]{lang="el"} „Man fand keine Skelette, also
+waren sie wohl schon weg.“
+
+Und das Gegenstück, das in keiner Diskussion fehlen darf: [Αυτό δεν αποδεικνύει ότι …]{lang="el"}
+„Das beweist nicht, dass …“. [η απόδειξη]{lang="el"}, der Beweis, ist übrigens auch der
+Kassenzettel im Laden. Deutsch hat dafür das Wort „Beleg“; beide Sprachen verlangen im Geschäft
+wie in der Wissenschaft etwas Schriftliches.
+
+### Wie sicher? Abstufen beim Argumentieren {#sec-vermutungen-abstufen}
+
+Jedes Glied einer Kette kann reißen. Wer über lange Ketten spricht, wird deshalb mit jedem
+Schritt vorsichtiger. Die Skala aus Kapitel 22 gilt unverändert; nur steht jetzt nach
+[να]{lang="el"} und nach [θα]{lang="el"} die Vergangenheit. An einer Frage, die Archäologen seit
+bald hundert Jahren beschäftigt: Hat der Ausbruch auf Thera die minoische Kultur zerstört?
+
+::: {lang="el"}
+- Η έκρηξη κατέστρεψε τους Μινωίτες.
+- Η έκρηξη πρέπει να τους αδυνάμωσε.
+- Το πιθανότερο είναι ότι τους έκανε μεγάλη ζημιά.
+- Μπορεί να τους είχε αδυναμώσει πριν έρθουν οι Μυκηναίοι.
+- Δεν αποκλείεται να έπαιξε κάποιον ρόλο.
+- Είναι απίθανο να τους κατέστρεψε μόνη της.
+- Αποκλείεται να τους κατέστρεψε μέσα σε μία μέρα.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+- Der Ausbruch hat die Minoer zerstört.
+- Der Ausbruch muss sie geschwächt haben.
+- Am wahrscheinlichsten ist, dass er ihnen großen Schaden zugefügt hat.
+- Vielleicht hatte er sie geschwächt, bevor die Mykener kamen.
+- Es ist nicht ausgeschlossen, dass er eine gewisse Rolle gespielt hat.
+- Es ist unwahrscheinlich, dass er sie allein zerstört hat.
+- Es ist ausgeschlossen, dass er sie an einem einzigen Tag zerstört hat.
+:::
+
+Der erste Satz klingt wie ein Beleg, ist aber ein Schluss: So kühn hat es Spyridon Marinatos
+1939 behauptet (mehr im Lesetext). Heute hörst du von Fachleuten eher die mittleren Sätze.
+[αδυναμώνω]{lang="el"} steht hier im Aorist, weil es um ein Ereignis geht, im Plusquamperfekt,
+weil es vor der Ankunft der Mykener geschehen war.
+
+[απίθανος]{lang="el"} heißt wörtlich „unwahrscheinlich“, [α-]{lang="el"} wie in *a-typisch*. Im
+Gespräch bedeutet es aber auch „unglaublich, toll“: [Ήταν απίθανο!]{lang="el"} „Es war
+großartig!“ Nach [είναι απίθανο να]{lang="el"} ist es die Wahrscheinlichkeit, ohne
+[να]{lang="el"} meist die Begeisterung.
+
+::: {.callout-important}
+## Merke
+
+- Eine **Indizienkette** hat Glieder aus **Beleg** (normaler Satz) und **Schluss**
+  (Verbindungswort + Vermutungsform): [Δε βρέθηκαν σκελετοί, άρα πρέπει να είχαν
+  φύγει.]{lang="el"}
+- Für Vergangenes gilt die Skala aus Kapitel 22 mit Vergangenheit nach [να]{lang="el"} oder
+  [θα]{lang="el"}, dazu [το πιθανότερο είναι ότι]{lang="el"} und [είναι απίθανο να]{lang="el"}.
+- Je länger die Kette, desto vorsichtiger der letzte Schluss.
+:::
+
+<!-- CHECK: "Είναι απίθανο να τους κατέστρεψε" und "Δεν αποκλείεται να έπαιξε": Aorist nach
+είναι απίθανο να / δεν αποκλείεται να als Vermutung über Vergangenes idiomatisch? -->
+
+<!-- EXERCISE: Indizienkette bauen und Sicherheit abstufen; zu einem archäologischen Fund (z.B.
+Brandschicht, verkohlte Tontafeln, fehlende Wertsachen, Tsunami-Ablagerung) Beleg und Schluss
+laut formulieren, jeweils mit vorgegebener Sicherheitsstufe (1 sicher … 5 ausgeschlossen) und
+passender Vergangenheit; dazu Belege von Schlüssen in einem kurzen Absatz unterscheiden;
+mündlich; Schwierigkeit 3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [οπότε]{lang="el"} | [oˈpote] | also, deshalb |
+| [αυτό σημαίνει ότι]{lang="el"} | [afˈto siˈmeni ˈoti] | das heißt, dass ([σημαίνω]{lang="el"} bedeuten) |
+| [όλα δείχνουν ότι]{lang="el"} | [ˈola ˈðixnun ˈoti] | alles deutet darauf hin, dass |
+| [αποδεικνύω, απέδειξα]{lang="el"} | [apoðiˈknio], [aˈpeðiksa] | beweisen |
+| [η απόδειξη]{lang="el"} | [i aˈpoðiksi] | der Beweis; der Kassenzettel, die Quittung |
+| [το πιθανότερο (είναι ότι)]{lang="el"} | [to piθaˈnotero] | am wahrscheinlichsten (ist, dass) |
+| [απίθανος, -η, -ο]{lang="el"} | [aˈpiθanos] | unwahrscheinlich; (umg.) unglaublich, toll |
+| [καταστρέφω, κατέστρεψα, καταστράφηκα]{lang="el"} | [kataˈstrefo], [kaˈtestrepsa], [katasˈtrafika] | zerstören |
+| [η καταστροφή]{lang="el"} | [i katastroˈfi] | die Zerstörung, die Katastrophe |
+| [ο πολιτισμός]{lang="el"} | [o politizˈmos] | die Kultur, die Zivilisation |
+| [οι Μινωίτες]{lang="el"} | [i minoˈites] | die Minoer |
+| [παίζω ρόλο]{lang="el"} | [ˈpezo ˈrolo] | eine Rolle spielen |
+:::
+
+## Hörspur: eine Dokumentation {#sec-vermutungen-hoerspur}
+
+Die ▶-Aufnahmen im Buch sind synthetische Stimmen. Echte Dokumentarfilme bringt der Hör-Auftrag
+am Ende des Abschnitts.
+
+Griechische Dokumentationen haben einen eigenen Ton: ein Sprecher, der ruhig erzählt, und
+dazwischen Fachleute, die vor Regalen voller Scherben sitzen. Der Sprecher liebt das Rätsel, die
+Fachleute die Einschränkung. Hier ein erfundener, aber typischer Ausschnitt über den Ausbruch auf
+Thera, mit einer Sprecherin und einem Archäologen.
+
+Vor dem Hören:
+
+- **Zahlen** kommen als Wörter: [ˈçiʎa eksaˈkosça], [ˈçiʎa pedaˈkosça]. Achte darauf, wer welche
+  Jahreszahl nennt.
+- **Vermutungen** erkennst du an [ˈprepi na], [ˈmalon] und an [θa] mit einer
+  Vergangenheitsform dahinter.
+- **Worthilfen:** [η ελαφρόπετρα]{lang="el"} der Bimsstein · [το κλαδί]{lang="el"} der Zweig ·
+  [ο άνθρακας δεκατέσσερα]{lang="el"} Kohlenstoff-14 · [η χρονολογία]{lang="el"} das Datum, die
+  Datierung · [το στρώμα]{lang="el"} die Schicht · [το στοίχημα]{lang="el"} die Wette.
+
+::: {lang="el" .listen}
+— Πριν από περίπου τρεισήμισι χιλιάδες χρόνια, στη Θήρα, τη σημερινή Σαντορίνη, έγινε μία από τις
+μεγαλύτερες ηφαιστειακές εκρήξεις στην ιστορία της ανθρωπότητας. Η στάχτη έφτασε μέχρι την Κρήτη
+και τη Μικρά Ασία. Πότε ακριβώς έγινε; Εδώ αρχίζει το αίνιγμα.
+
+— Στις αρχές του αιώνα μας, ερευνητές βρήκαν μέσα στην ελαφρόπετρα ένα κλαδί ελιάς. Η ελιά πρέπει να
+ήταν ζωντανή όταν τη σκέπασε η έκρηξη. Μέτρησαν τον άνθρακα δεκατέσσερα στο ξύλο, και βγήκε μια
+χρονολογία γύρω στο χίλια εξακόσια προ Χριστού, ίσως και λίγο νωρίτερα.
+
+— Πολλοί αρχαιολόγοι όμως δεν πείστηκαν. Αιγυπτιακά αντικείμενα και κεραμικά από τα ίδια
+στρώματα έδειχναν κάτι άλλο: γύρω στο χίλια πεντακόσια.
+
+— Εκατό χρόνια διαφορά δεν είναι λίγα. Νεότερες μετρήσεις έχουν μικρύνει την απόσταση, αλλά δεν
+την έχουν κλείσει. Η σωστή χρονολογία θα είναι μάλλον κάπου ανάμεσα. Εγώ πάντως στοίχημα δε βάζω.
+
+— Ένα πράγμα όμως φαίνεται σίγουρο: όταν έπεσε η στάχτη στο Ακρωτήρι, οι κάτοικοι είχαν ήδη
+φύγει. Πού πήγαν, ίσως το μάθουμε κάποια μέρα. Ίσως και ποτέ.
+:::
+
+<!-- EXERCISE: Hörverstehen Dokumentation, direkt nach dem ▶-Block; Auftrag: mit ▶ hören, ohne
+den Text aufzuklappen, höchstens zweimal; nur Inhaltsfragen (Multiple Choice): Wohin kam die
+Asche? Was wurde im Bimsstein gefunden? War der Baum beim Ausbruch lebendig? Welche Datierung
+liefert die Radiokarbonmessung, welche die Archäologie, und woraus? Ist der Streit gelöst? Was
+gilt als sicher? Antwort im Chat "1a, 2c …"; Schwierigkeit 2 -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Vor etwa dreieinhalbtausend Jahren ereignete sich auf Thera, dem heutigen Santorin, einer der
+größten Vulkanausbrüche in der Geschichte der Menschheit. Die Asche gelangte bis nach Kreta und
+Kleinasien. Wann genau geschah er? Hier beginnt das Rätsel.
+
+— Anfang dieses Jahrhunderts fanden Forscher im Bimsstein einen Olivenzweig. Der Olivenbaum muss
+noch gelebt haben, als der Ausbruch ihn begrub. Man hat den Kohlenstoff-14 im Holz gemessen,
+und heraus kam ein Datum um 1600 v. Chr., vielleicht auch etwas früher.
+
+— Viele Archäologen überzeugte das aber nicht. Ägyptische Gegenstände und Keramik aus denselben
+Schichten deuteten auf etwas anderes: um 1500.
+
+— Hundert Jahre Unterschied sind nicht wenig. Neuere Messungen haben den Abstand verkleinert, aber
+nicht geschlossen. Das richtige Datum wird wohl irgendwo dazwischen liegen. Ich jedenfalls wette
+nicht.
+
+— Eines aber scheint sicher: Als die Asche auf Akrotiri fiel, waren die Bewohner schon fort.
+Wohin sie gingen, erfahren wir vielleicht eines Tages. Vielleicht auch nie.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [ηφαιστειακός, -ή, -ό]{lang="el"} | vulkanisch, Vulkan- |
+| [η ανθρωπότητα]{lang="el"} | die Menschheit |
+| [η Μικρά Ασία]{lang="el"} | Kleinasien |
+| [το αίνιγμα]{lang="el"} | das Rätsel (vgl. *Änigma*) |
+| [σκεπάζω, σκέπασα]{lang="el"} | bedecken, zudecken |
+| [πείθομαι, πείστηκα]{lang="el"} | sich überzeugen lassen ([πείθω]{lang="el"}, Kapitel 20) |
+| [τα κεραμικά]{lang="el"} | die Keramik |
+| [μικραίνω, μίκρυνα]{lang="el"} | verkleinern, kleiner werden |
+| [βάζω στοίχημα]{lang="el"} | wetten |
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Die Datierung des Ausbruchs ist wirklich umstritten. Radiokarbondaten, darunter der Olivenzweig
+(veröffentlicht 2006), sprechen für das späte 17. Jahrhundert v. Chr.; die herkömmliche
+archäologische Datierung über Funde, die mit Ägypten verknüpft sind, lag eher um 1500 v. Chr.
+Neuere Kalibrierungen und Baumring-Studien haben den Abstand verringert, aber keine Einigung
+gebracht. Wer „um 1600 v. Chr.“ liest, sollte sich ein „plus minus einige Jahrzehnte, vielleicht
+mehr“ dazudenken. Einen Überblick über den Stand bieten neuere Übersichtsartikel zur „Minoan
+eruption“, etwa in der englischen Wikipedia mit ihren Literaturangaben.
+:::
+
+<!-- CHECK: Datierung – Friedrich et al. 2006 (Olivenzweig, ca. 1627–1600 v. Chr.; Fund 2002 =
+"Anfang dieses Jahrhunderts"); ältere archäologische Datierung ca. 1530–1500 v. Chr.; Stand
+nach IntCal20 und Baumring-Studien (Pearson et al. 2018 u.a.) korrekt als "Abstand verringert,
+nicht aufgelöst" beschrieben? Außerdem: "eine der größten Eruptionen in der Geschichte der
+Menschheit" und Asche bis Kreta und Kleinasien (Westanatolien) prüfen. -->
+
+### Dokumentationen hören {#sec-vermutungen-hoeren}
+
+Echte griechische Dokumentationen findest du auf [ERTflix](https://www.ertflix.gr), dem
+Streamingangebot des staatlichen Rundfunks. Viele haben griechische Untertitel. Für den Anfang
+eignen sich Filme über Geschichte, Archäologie oder Natur: Der Sprechertext ist langsam und
+deutlich, die Interviews sind schneller und voller Einschränkungen.
+
+<!-- EXERCISE: Hör-Auftrag mit ERTflix (https://www.ertflix.gr); eine Dokumentation über
+Geschichte, Archäologie oder Natur wählen; fünf Minuten ohne Untertitel hören und Striche für
+Vermutungsmarker machen (πρέπει να, μάλλον, πιθανότατα, μπορεί να, θα + Vergangenheit), einen
+Satz mit Beleg und einen mit Schluss heraushören, dann mit griechischen Untertiteln prüfen;
+Lösung als Auswertungsanleitung; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η χρονολογία]{lang="el"} | [i xronoloˈʝia] | das Datum, die Datierung; die Jahreszahl |
+| [το κλαδί]{lang="el"} | [to klaˈði] | der Zweig, der Ast |
+| [το στρώμα]{lang="el"} | [to ˈstroma] | die Schicht; die Matratze |
+| [το στοίχημα]{lang="el"} | [to ˈstiçima] | die Wette |
+| [φαίνεται σίγουρο]{lang="el"} | [ˈfenete ˈsiɣuro] | es scheint sicher |
+:::
+
+## Das Wichtigste {#sec-vermutungen-wichtigste}
+
+- **Plusquamperfekt nach Vermutungswörtern:** [πρέπει να είχαν φύγει, μπορεί να το είχε
+  ξεχάσει, μάλλον είχε αδυναμώσει]{lang="el"}, wenn etwas vor einem anderen Punkt in der
+  Vergangenheit schon geschehen war. Ohne diesen Punkt reicht der Aorist. [ξέρω, είμαι]{lang="el"}:
+  nur Imperfekt ([πρέπει να το ήξερε]{lang="el"}).
+- **Vermutung oder Bedauern:** [πρέπει να είχαν φύγει]{lang="el"} „waren wohl schon weg“,
+  [έπρεπε να είχαν φύγει]{lang="el"} „hätten gehen sollen“.
+- **[θα]{lang="el"} vermutet in jeder Zeit:** [Θα το ξέχασε. Θα ήταν γύρω στις δέκα. Θα έχει
+  φύγει. Θα είχε φύγει.]{lang="el"} „wird wohl … haben“, wie span. [*habrá salido, serían las
+  diez*]{lang="es"}.
+- **Welche Lesart?** [θα]{lang="el"} + Imperfekt und + Plusquamperfekt können auch Irrealis sein
+  (bei [αν, αλλά, στη θέση σου]{lang="el"}), [θα]{lang="el"} + Imperfekt zudem Futur der
+  Vergangenheit und Höflichkeit, [θα]{lang="el"} + Perfekt auch Futur II. Passt „wohl“, ist es
+  eine Vermutung.
+- **Indizienkette:** Beleg (normaler Satz) → Verbindungswort ([άρα, οπότε, αυτό σημαίνει ότι,
+  όλα δείχνουν ότι]{lang="el"}) → Schluss mit Vermutungsform. [Αυτό δεν αποδεικνύει ότι
+  …]{lang="el"}
+- **Abstufen:** Skala aus Kapitel 22 mit Vergangenheit, dazu [το πιθανότερο είναι ότι, είναι
+  απίθανο να]{lang="el"}. Je länger die Kette, desto vorsichtiger.
+
+## Zum Lesen: Wer hat die Minoer beendet? {#sec-vermutungen-lesetext}
+
+Ein Artikel aus einer populärwissenschaftlichen Zeitschrift, wie er in Griechenland erscheinen
+könnte.
+
+::: {lang="el"}
+**Ποιος τελείωσε τους Μινωίτες;**
+
+Όταν ο Άγγλος αρχαιολόγος Άρθουρ Έβανς άρχισε να σκάβει στην Κνωσό το 1900, βρήκε ένα τεράστιο
+ανάκτορο. Ονόμασε τον πολιτισμό «μινωικό», από τον μυθικό βασιλιά Μίνωα. Πώς έλεγαν οι ίδιοι
+τον εαυτό τους, δεν το ξέρουμε. Η γραφή τους, η Γραμμική Α, δεν έχει διαβαστεί ακόμα. Ό,τι
+ξέρουμε, μας το λένε τα ερείπια.
+
+Και τα ερείπια λένε ότι γύρω στο 1450 π.Χ. τα περισσότερα ανάκτορα της Κρήτης καταστράφηκαν,
+πολλά από φωτιά. Τι συνέβη; Το 1939 ο Έλληνας αρχαιολόγος Σπυρίδων Μαρινάτος πρότεινε μια
+δραματική απάντηση: η έκρηξη της Θήρας. Κατά τη γνώμη του, ένα τσουνάμι χτύπησε τις ακτές, η
+στάχτη σκέπασε τα χωράφια, και ο μινωικός κόσμος χάθηκε μέσα σε λίγες μέρες. Για να το αποδείξει,
+άρχισε το 1967 ανασκαφές στο Ακρωτήρι. Βρήκε μια ολόκληρη πόλη. Πέθανε εκεί, πάνω στην ανασκαφή,
+το 1974.
+
+Η θεωρία του ήταν ωραία. Είχε όμως ένα πρόβλημα: τις χρονολογίες. Αν η έκρηξη έγινε γύρω στο
+1600 π.Χ., τα ανάκτορα λειτουργούσαν για πάνω από εκατό χρόνια μετά. Ακόμα και με την
+αρχαιολογική χρονολογία, μεσολαβούν αρκετές δεκαετίες. Άρα η έκρηξη δεν μπορεί να κατέστρεψε μόνη
+της τους Μινωίτες.
+
+Αυτό δε σημαίνει ότι δεν έπαιξε κανέναν ρόλο. Σε ακτές της Κρήτης βρέθηκαν ίχνη τσουνάμι. Αν
+χάθηκαν λιμάνια και πλοία, το εμπόριο πρέπει να υπέφερε. Μπορεί λοιπόν η Κρήτη να είχε ήδη
+αδυναμώσει, όταν ήρθε το τέλος.
+
+Και ποιος έφερε το τέλος; Στην Κνωσό βρέθηκαν πινακίδες σε Γραμμική Β, και αυτές είναι γραμμένες
+στα ελληνικά. Οπότε μετά το 1450 π.Χ. στην Κνωσό πρέπει να κυβερνούσαν Μυκηναίοι από την
+ηπειρωτική Ελλάδα. Ήρθαν ως κατακτητές ή βρήκαν απλώς έναν άδειο θρόνο; Όλα δείχνουν ότι η
+απάντηση δεν είναι μία. Σεισμοί, φωτιές, πόλεμοι: το πιθανότερο είναι ότι έπαιξαν όλα κάποιον
+ρόλο.
+
+Και ο Μίνωας; Αν υπήρξε ποτέ, δεν άφησε σημείωμα.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [τεράστιος, -α, -ο]{lang="el"} | riesig |
+| [ονομάζω, ονόμασα]{lang="el"} | nennen, benennen |
+| [μυθικός, -ή, -ό]{lang="el"} | mythisch, sagenhaft |
+| [ο Μίνωας]{lang="el"} | Minos |
+| [ο εαυτός τους]{lang="el"} | sich selbst |
+| [η Γραμμική Α / Β]{lang="el"} | Linear A / B (Schriften) |
+| [τα ερείπια]{lang="el"} | die Ruinen |
+| [συμβαίνει, συνέβη]{lang="el"} | geschehen, passieren (gehoben) |
+| [προτείνω, πρότεινα]{lang="el"} | vorschlagen |
+| [το χωράφι]{lang="el"} | das Feld, der Acker |
+| [χάνομαι, χάθηκα]{lang="el"} | verloren gehen, untergehen |
+| [λειτουργώ, λειτούργησα]{lang="el"} | in Betrieb sein, funktionieren |
+| [μεσολαβώ]{lang="el"} | dazwischenliegen |
+| [η δεκαετία]{lang="el"} | das Jahrzehnt (Kapitel 11) |
+| [υποφέρω, υπέφερα]{lang="el"} | leiden |
+| [η ηπειρωτική Ελλάδα]{lang="el"} | das griechische Festland |
+| [ο θρόνος]{lang="el"} | der Thron |
+| [υπάρχω, υπήρξα]{lang="el"} | existieren, es geben |
+| [το σημείωμα]{lang="el"} | der Zettel, die Notiz |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Wer hat die Minoer beendet?**
+
+Als der englische Archäologe Arthur Evans 1900 in Knossos zu graben begann, fand er einen
+riesigen Palast. Er nannte die Kultur „minoisch“, nach dem sagenhaften König Minos. Wie sie sich
+selbst nannten, wissen wir nicht. Ihre Schrift, Linear A, ist bis heute nicht entziffert. Was wir
+wissen, erzählen uns die Ruinen.
+
+Und die Ruinen erzählen, dass um 1450 v. Chr. die meisten Paläste Kretas zerstört wurden, viele
+durch Feuer. Was war geschehen? 1939 schlug der griechische Archäologe Spyridon Marinatos eine
+dramatische Antwort vor: der Ausbruch auf Thera. Seiner Meinung nach traf ein Tsunami die Küsten,
+die Asche bedeckte die Felder, und die minoische Welt ging binnen weniger Tage unter. Um das
+zu beweisen, begann er 1967 mit Ausgrabungen in Akrotiri. Er fand eine ganze Stadt. Er starb
+dort, mitten auf der Grabung, 1974.
+
+Seine Theorie war schön. Sie hatte aber ein Problem: die Jahreszahlen. Wenn der Ausbruch um 1600
+v. Chr. stattfand, waren die Paläste danach noch über hundert Jahre in Betrieb. Selbst mit der
+archäologischen Datierung liegen einige Jahrzehnte dazwischen. Also kann der Ausbruch die Minoer
+nicht allein zerstört haben.
+
+Das heißt nicht, dass er keine Rolle spielte. An Küsten Kretas wurden Spuren eines Tsunamis
+gefunden. Wenn Häfen und Schiffe verloren gingen, muss der Handel gelitten haben. Vielleicht war
+Kreta also schon geschwächt, als das Ende kam.
+
+Und wer brachte das Ende? In Knossos wurden Tafeln in Linear B gefunden, und die sind auf
+Griechisch geschrieben. Nach 1450 v. Chr. müssen in Knossos also Mykener vom griechischen Festland
+regiert haben. Kamen sie als Eroberer, oder fanden sie einfach einen leeren Thron vor? Alles
+deutet darauf hin, dass es nicht die eine Antwort gibt. Erdbeben, Brände, Kriege: Am
+wahrscheinlichsten ist, dass alles eine Rolle spielte.
+
+Und Minos? Falls es ihn je gab, hat er keinen Zettel hinterlassen.
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Der Text vereinfacht. Wie viel Zeit zwischen dem Ausbruch und den Zerstörungen um 1450 v. Chr.
+lag, hängt an der umstrittenen Datierung des Ausbruchs. Was die Paläste zerstörte, ist ebenfalls
+offen: Erdbeben, Unruhen auf Kreta selbst, eine Eroberung vom Festland oder mehreres davon werden
+diskutiert. Dass Knossos danach mykenisch verwaltet wurde, zeigen die Linear-B-Tafeln; wann genau
+sie entstanden, ist wiederum umstritten. Die These „Thera zerstörte die Minoer“ vertritt in dieser
+einfachen Form heute kaum jemand, dass der Ausbruch Kreta geschwächt hat, halten viele für
+möglich.
+:::
+
+<!-- CHECK: (1) Evans beginnt 1900 in Knossos, Name "minoisch" nach Minos; (2) Linear A nicht
+entziffert, Linear B = Griechisch (Ventris 1952); (3) Zerstörung der meisten Paläste um 1450 v.
+Chr. (SM IB), viele durch Feuer, Knossos danach mykenisch; (4) Marinatos-These 1939 in
+"Antiquity"; Grabungsbeginn Akrotiri 1967; Tod 1974 an der Grabungsstätte; (5) Tsunami-
+Ablagerungen an Kretas Küsten (z.B. Palaikastro, Bruins et al. 2008); (6) "über hundert Jahre"
+bei Datierung 1600 und "einige Jahrzehnte" bei archäologischer Datierung; (7) Einschätzung
+"kaum jemand vertritt die These in einfacher Form" – Forschungsstand. -->
+
+<!-- EXERCISE: Nach dem Lesen; Teil A richtig/falsch zu Inhalt (Evans und Name, Linear A,
+Zerstörung um 1450, Marinatos-These, Datierungsproblem, Linear B und Mykener, Fazit); Teil B:
+im Text alle Schlüsse mit Vermutungsform suchen (πρέπει να υπέφερε, δεν μπορεί να κατέστρεψε,
+μπορεί … να είχε αδυναμώσει, πρέπει να κυβερνούσαν) und je den zugehörigen Beleg nennen;
+Falle: "Κατά τη γνώμη του …" ist fremde Meinung, kein Beleg; Antwort im Chat "1r, 2f …"; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η ανασκαφή]{lang="el"} | [i anaskaˈfi] | die Ausgrabung |
+| [το ανάκτορο]{lang="el"} | [to aˈnaktoro] | der Palast (Archäologie, Geschichte; Alltag [το παλάτι]{lang="el"}) |
+| [η γραφή]{lang="el"} | [i ɣraˈfi] | die Schrift |
+| [η θεωρία]{lang="el"} | [i θeoˈria] | die Theorie |
+| [το ίχνος, τα ίχνη]{lang="el"} | [to ˈixnos], [ta ˈixni] | die Spur |
+| [η ακτή]{lang="el"} | [i aˈkti] | die Küste |
+| [το εμπόριο]{lang="el"} | [to eˈborio] | der Handel |
+| [ο κατακτητής]{lang="el"} | [o katakˈtitis] | der Eroberer |
+:::
