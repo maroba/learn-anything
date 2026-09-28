@@ -76,7 +76,7 @@ für alle gilt.
 — Halbsüß? Dann mach mir einen. Und in zwanzig Jahren sag ich dir, ob sie recht hatten.
 :::
 
-Der Arzt hat „ohne Zucker“ gesagt, die Studie sagt „halbsüß“; Er entscheidet sich für die
+Der Arzt hat „ohne Zucker“ gesagt, die Studie sagt „halbsüß“; er entscheidet sich für die
 Wissenschaft. Griechischer Kaffee wird im [μπρίκι]{lang="el"} aufgekocht, und wer ihn bestellt,
 sagt gleich, wie süß: [σκέτο]{lang="el"} ohne Zucker, [μέτριο]{lang="el"} mit einem Löffel,
 [γλυκό]{lang="el"} mit zwei. Bis in die 1970er-Jahre hieß er auch in Griechenland meist „türkischer
@@ -102,7 +102,7 @@ Und auffällig ist, was fehlt: Keine Form wird „zurückverschoben“. [Δεν 
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [ο ελληνικός καφές]{lang="el"} | [o eliniˈkos kaˈfes] | der griechische Kaffee (Mokka) |
-| [σκέτος, -η, -ο]{lang="el"} | [ˈsketos] | ohne Zucker (Kaffee); pur |
+| [σκέτος, -η, -ο]{lang="el"} | [ˈscetos] | ohne Zucker (Kaffee); pur |
 | [μέτριος, -α, -ο]{lang="el"} | [ˈmetrios] | mittelsüß (Kaffee); mittelmäßig |
 | [κάνει καλό (σε)]{lang="el"} | [ˈkani kaˈlo] | tut gut, ist gesund für; [κάνει κακό]{lang="el"} schadet |
 | [η μελέτη]{lang="el"} | [i meˈleti] | die Studie; das Lernen |
@@ -116,6 +116,8 @@ Und auffällig ist, was fehlt: Keine Form wird „zurückverschoben“. [Δεν 
 | [Ποιος το λέει;]{lang="el"} | [pços to ˈlei] | Wer sagt das? |
 | [γράφει ότι …]{lang="el"} | [ˈɣrafi ˈoti] | da steht, dass … (in einem Text) |
 :::
+
+<!-- CHECK: IPA δημοσιογράφος mit Synizese [ðimosçoˈɣrafos] (so wie μάτια [ˈmatça]) oder [ðimosioˈɣrafos]? -->
 
 ::: {.callout-note collapse="true" .vocab-text}
 ## Wortschatz zum Text
@@ -157,7 +159,7 @@ Ein Kollege sagt am Montag: «Είμαι κουρασμένος.» Am Dienstag e
 
 Englisch, Spanisch und Französisch schieben das Präsens in die Vergangenheit, weil das Sagen
 vergangen ist. Das Griechische behält in der Regel die Zeit, die der Sprecher damals benutzt hat.
-Den deutschen Konjunktiv I ([*sei, habe, komme*]{lang="de"}) gibt es gar nicht. Ausnahmsweise
+Den deutschen Konjunktiv I (*sei, habe, komme*) gibt es gar nicht. Ausnahmsweise
 ist also das gesprochene Deutsch der beste Lehrer: „Er hat gesagt, dass er müde ist.“
 
 Das gilt für alle Zeiten. Aus dem Original wird nur die Person umgestellt:
@@ -220,7 +222,7 @@ Die Zeit bleibt: [πώς με λένε]{lang="el"}, nicht „wie ich hieß“. D
 denselben Personen: «Σε περιμένω.» → [Μου είπε ότι με περιμένει.]{lang="el"}
 
 Auch Orts- und Zeitangaben richten sich nach dem, der berichtet. Liegt das Gesagte schon eine
-Weile zurück, wird aus
+Weile zurück, ändern sich diese Wörter:
 
 | im Original | später berichtet | Deutsch |
 |---|---|---|
@@ -319,8 +321,8 @@ Hat die Frage kein Fragewort, steht [αν]{lang="el"} „ob“, wie spanisch *si
 Auch hier bleibt die Zeit des Originals: [με ρώτησε αν έρχομαι]{lang="el"}, nicht „ob ich käme“.
 Und nach „ob“ darf [θα]{lang="el"} stehen, nach „falls“ nicht (Kapitel 17).
 
-[μήπως]{lang="el"} kennst du als „vielleicht, etwa“ am Anfang einer Frage: [Μήπως έχεις
-αναπτήρα;]{lang="el"} Als „ob“ klingt es vorsichtiger, mit einer Hoffnung oder Befürchtung:
+[μήπως]{lang="el"} kennst du als „vielleicht, etwa“ am Anfang einer Frage: [Μήπως έχεις ένα
+λεπτό;]{lang="el"} Als „ob“ klingt es vorsichtiger, mit einer Hoffnung oder Befürchtung:
 [Ρώτα τον μήπως ξέρει κάποιον γιατρό.]{lang="el"} „Frag ihn, ob er vielleicht einen Arzt kennt.“
 Nach [φοβάμαι]{lang="el"} heißt es sogar „dass“: [Φοβάμαι μήπως αργήσουμε.]{lang="el"} „Ich
 fürchte, wir kommen zu spät.“
@@ -379,8 +381,7 @@ Das ist die indirekte Form von [Τι να κάνω;]{lang="el"} aus Kapitel 4.
 | [Ρώτα τον!]{lang="el"} | [ˈrota ton] | Frag ihn! |
 | [αναρωτιέμαι, αναρωτήθηκα]{lang="el"} | [anaroˈtçeme], [anaroˈtiθika] | sich fragen |
 | [Δεν ξέρω τι να κάνω.]{lang="el"} | [ðen ˈksero ti na ˈkano] | Ich weiß nicht, was ich tun soll. |
-| [η ερώτηση, η απάντηση]{lang="el"} | [i eˈrotisi], [i aˈpandisi] | die Frage, die Antwort |
-| [ο αναπτήρας]{lang="el"} | [o anaˈptiras] | das Feuerzeug |
+| [η ερώτηση, η απάντηση]{lang="el"} | [i eˈrotisi], [i aˈpadisi] | die Frage, die Antwort |
 :::
 
 ## Forscher sagen: die Sprache der Nachrichten {#sec-indirekt-nachrichten}
@@ -402,7 +403,7 @@ die Leiterin des Teams zu.
 :::
 
 Die Übersetzung zeigt den Unterschied: Das Deutsche setzt in der Meldung den Konjunktiv I
-([*seien*]{lang="de"}) und hält damit Abstand. Das Griechische hat diese Form nicht. Es zeigt
+(*seien*) und hält damit Abstand. Das Griechische hat diese Form nicht. Es zeigt
 Abstand auf drei anderen Wegen.
 
 **Mit [σύμφωνα με]{lang="el"}** „laut, nach“ + Akkusativ: [σύμφωνα με τη μελέτη, σύμφωνα με
@@ -560,16 +561,17 @@ Nachrichten wechseln ständig zwischen O-Ton und Bericht. Drei Signale helfen di
 halten:
 
 - **Das Verb nach dem Zitat.** Nach einem O-Ton kommt fast immer eine Formel wie
-  [δήλωσε, τόνισε, είπε, πρόσθεσε]{lang="el"} + Name. Das betonte [ˈe]- oder [i]-Signal des
-  Aorists ([ˈðilose], [ˈtonise]) sagt dir: Das Zitat ist vorbei.
-- **[ˈoti] und [an] ohne Pause.** Zwischen [είπε]{lang="el"} und [ότι]{lang="el"} macht niemand
-  eine Pause, also hörst du [ˈipeˈoti] fast als ein Wort. Nach [ότι]{lang="el"} kommt der Inhalt,
-  nach [αν]{lang="el"} eine offene Frage.
+  [δήλωσε, τόνισε, είπε, πρόσθεσε]{lang="el"} + Name, mit der Betonung weit vorn
+  ([ˈðilose], [ˈtonise]). Sie sagt dir: Das Zitat ist vorbei.
+- **[ˈoti] und [an] ohne Pause.** Zwischen [είπε]{lang="el"} und [ότι]{lang="el"} macht kaum
+  jemand eine Pause. Nach [ότι]{lang="el"} kommt der Inhalt, nach [αν]{lang="el"} eine offene
+  Frage.
 - **[ˈpos] oder [pos].** Wird es betont, folgt ein „wie“; unbetont ist es „dass“.
 
-Im Gespräch klingt Weitererzählen anders: Man zitiert lieber direkt, im Präsens, und schiebt
-[λέει]{lang="el"} ein: [Και μου λέει: «Έλα αύριο». Και του λέω: «Αύριο δεν μπορώ».]{lang="el"}
-Das kennst du vom Onkel mit dem teuersten Teppich Athens aus Kapitel 2.
+Im Gespräch klingt Weitererzählen anders: Man zitiert lieber direkt und leitet mit
+[λέει]{lang="el"} im Präsens ein: [Και μου λέει: «Έλα αύριο». Και του λέω: «Αύριο δεν
+μπορώ».]{lang="el"} So endete auch die Geschichte vom Onkel in Kapitel 2: [Λέει ότι είναι το πιο
+ακριβό χαλί της Αθήνας.]{lang="el"}
 
 Echte Nachrichten mit griechischen Untertiteln findest du auf [ERTflix](https://www.ertflix.gr).
 
@@ -589,7 +591,7 @@ Echte Nachrichten mit griechischen Untertiteln findest du auf [ERTflix](https://
   [μήπως]{lang="el"}. **Fragen mit Fragewort:** Fragewort bleibt, **mit Akzent**
   ([πού, πώς]{lang="el"} ≠ [που, πως]{lang="el"}). [Δεν ξέρω τι να κάνω]{lang="el"} ersetzt den
   Infinitiv.
-- **Nachrichten:** [σύμφωnα με]{lang="el"}, die Wahl des Verbs ([αποδεικνύει … ισχυρίζεται]{lang="el"})
+- **Nachrichten:** [σύμφωνα με]{lang="el"}, die Wahl des Verbs ([αποδεικνύει … ισχυρίζεται]{lang="el"})
   und [λέγεται, φέρεται να]{lang="el"} ersetzen den Konjunktiv I; im Gespräch eingeschobenes
   [λέει]{lang="el"}.
 
@@ -708,5 +710,4 @@ Drei Stellen lohnen einen zweiten Blick:
 | [συμφωνώ, συμφώνησα]{lang="el"} | [simfoˈno], [simˈfonisa] | zustimmen, einverstanden sein |
 | [ελέγχω, έλεγξα]{lang="el"} | [eˈleŋxo], [ˈeleŋksa] | prüfen, kontrollieren |
 | [η επιστήμη]{lang="el"} | [i epiˈstimi] | die Wissenschaft |
-| [ο ψαράς]{lang="el"} | [o psaˈras] | der Fischer |
 :::
