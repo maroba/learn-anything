@@ -82,6 +82,8 @@ def g2p(word: str, synizesis: bool = False) -> str:
             if sound == "i" and not stressed and prev and prev[-1] not in "aeiou" and nxt in "aeiou" and nxt:
                 if prev in ("l", "n"):
                     glided[-1] = ({"l": "ʎ", "n": "ɲ"}[prev], False)
+                elif prev == "m":
+                    glided.append(("ɲ", False))  # μια [mɲa], μπάμιες [ˈbamɲes]
                 elif prev in ("k", "ɣ", "x", "G"):
                     glided.append(("J", False))  # palatalizes the consonant, then disappears
                 elif prev[-1] in "ptfθs" or prev in ("ts", "ks", "ps"):

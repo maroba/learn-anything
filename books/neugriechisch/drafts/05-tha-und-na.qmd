@@ -1,0 +1,1139 @@
+---
+title: "Der zweite Stamm in der Zukunft: θα und να"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+Aus Kapitel 1 bis 4:
+
+- **Foto und Film:** Der perfektive Aspekt fasst eine Handlung als Ganzes auf (Foto), der
+  imperfektive zeigt sie als Vorgang, Wiederholung oder Gewohnheit (Film). In der Vergangenheit
+  heißen die beiden Aorist und Imperfekt.
+- Der **perfektive Stamm** der regelmäßigen Verben entsteht mit [σ]{lang="el"}:
+  [γράφω → γραψ-]{lang="el"}, [ανοίγω → ανοιξ-]{lang="el"}, [διαβάζω → διαβασ-]{lang="el"},
+  [μιλάω → μιλησ-]{lang="el"}. Die unregelmäßigen ([είδα, είπα, ήρθα, πήγα]{lang="el"} …) stehen
+  in der Tabelle am Ende von Kapitel 3.
+- **Präsensendungen:** [μένω, μένεις, μένει, μένουμε, μένετε, μένουν]{lang="el"} und
+  [μπορώ, μπορείς, μπορεί, μπορούμε, μπορείτε, μπορούν]{lang="el"}.
+- **Verneinung:** [δεν]{lang="el"} bei Aussagen, [μη(ν)]{lang="el"} bei Verboten und nach
+  [να]{lang="el"}; das Schluss-[ν]{lang="el"} bleibt nur vor Vokal und Verschlusslaut.
+:::
+
+## [Ακύρωση]{lang="el"}: Der Meltemi hat andere Pläne {#sec-thana-einstieg}
+
+Piräus, ein Dienstag im Juli, kurz vor acht. Die Anzeigetafel aus Kapitel 1 kennst du schon.
+Heute steht in der Zeile für Serifos, Sifnos und Milos das Wort, das im Hochsommer niemand lesen
+will: [ΑΚΥΡΩΣΗ]{lang="el"}. Davor zwei Reisende mit Rucksäcken, einer mit Strohhut.
+
+::: {lang="el"}
+— Ακύρωση. Δε θα φύγει σήμερα.
+
+— Τι; Γιατί;
+
+— Λόγω καιρού, λέει. Το μελτέμι. Οχτώ μποφόρ στο Αιγαίο.
+
+— Και τώρα τι θα κάνουμε;
+
+— Θα περιμένουμε. Ο υπάλληλος λέει ότι αύριο το πρωί μάλλον θα φύγει.
+
+— Μάλλον; Αύριο το βράδυ πρέπει να είμαστε στη Μήλο. Κλείσαμε δωμάτιο.
+
+— Το ξέρω. Θα πάρω τηλέφωνο τον κύριο Σταύρο να του πω ότι θα αργήσουμε μια μέρα.
+
+— Και σήμερα; Θα κάτσουμε όλη μέρα στο λιμάνι;
+
+— Όχι. Πάμε στην Αθήνα. Θέλω να δω την Ακρόπολη. Δέκα φορές ήρθα στην Αθήνα και δεν ανέβηκα
+ποτέ.
+
+— Με τέτοιον αέρα; Εκεί πάνω θα μας πάρει ο αέρας.
+
+— Τότε θα κρατάς το καπέλο σου.
+
+— Κι αν αύριο έχει απεργία;
+
+— Μην το λες ούτε για αστείο.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Abgesagt. Sie fährt heute nicht.
+
+— Was? Warum?
+
+— Wegen des Wetters, steht da. Der Meltemi. Acht Beaufort in der Ägäis.
+
+— Und was machen wir jetzt?
+
+— Wir warten. Der Mann am Schalter sagt, morgen früh fährt sie wahrscheinlich.
+
+— Wahrscheinlich? Morgen Abend müssen wir auf Milos sein. Wir haben ein Zimmer gebucht.
+
+— Ich weiß. Ich rufe Herrn Stavros an und sage ihm, dass wir einen Tag später kommen.
+
+— Und heute? Sitzen wir den ganzen Tag im Hafen herum?
+
+— Nein. Wir fahren nach Athen. Ich will die Akropolis sehen. Zehnmal war ich in Athen und bin
+nie hinaufgestiegen.
+
+— Bei dem Wind? Da oben weht es uns weg.
+
+— Dann hältst du eben deinen Hut fest.
+
+— Und wenn morgen Streik ist?
+
+— Sag so was nicht mal im Spaß.
+:::
+
+Bis auf drei Aoriste ([κλείσαμε, ήρθα, ανέβηκα]{lang="el"}) spielt dieses Gespräch in der
+Zukunft. Das Griechische braucht dafür ein einziges kleines Wort: **[θα]{lang="el"}** [θa], mit
+dem Laut wie engl. *think*. Es steht vor dem Verb und verändert sich nie. Spannender ist, was
+dahinter steht:
+
+| im Text | kennst du als | Deutsch |
+|---|---|---|
+| [θα φύγει]{lang="el"} | [έφυγε]{lang="el"} (Aorist) | sie wird abfahren |
+| [θα αργήσουμε]{lang="el"} | [αργήσαμε]{lang="el"} (Aorist) | wir werden uns verspäten |
+| [θα μας πάρει]{lang="el"} | [πήρε]{lang="el"} (Aorist) | er wird uns (mit)nehmen |
+| [θα κρατάς]{lang="el"} | [κρατάς]{lang="el"} (Präsens) | du wirst (fest)halten |
+
+Hinter [θα]{lang="el"} stehen zwei Sorten von Formen. Die einen sehen aus wie das Präsens. Die
+anderen haben den perfektiven Stamm des Aorists ([φυγ-, αργησ-, παρ-]{lang="el"}), aber kein
+Augment und die Endungen des Präsens: [φύγ-ει, αργήσ-ουμε]{lang="el"}. Dasselbe passiert nach dem
+zweiten kleinen Wort des Kapitels, **[να]{lang="el"}** [na]: [Θέλω να δω την Ακρόπολη]{lang="el"}
+„Ich will die Akropolis sehen“, [να του πω]{lang="el"} „um ihm zu sagen“. Und [δω]{lang="el"} und
+[πω]{lang="el"} sind alte Bekannte, die du seit Kapitel 2 in [άκου να δεις]{lang="el"} und
+[μη μου πεις]{lang="el"} benutzt, ohne zu wissen, woher sie kommen. Das klärt dieses Kapitel.
+
+Zur Aussprache: [μποφόρ]{lang="el"} [boˈfor] ist das französische *Beaufort* in griechischer
+Schrift, und [μπ]{lang="el"} ist ein [b], wie in [μπορώ]{lang="el"} [boˈro] „ich kann“, das
+gleich eine Hauptrolle bekommt. Das [Αιγαίο]{lang="el"} [eˈʝeo] hat zweimal [αι]{lang="el"}, beide
+Male ein [e]; das [γ]{lang="el"} dazwischen klingt vor [e] wie *j* in *ja*. Und
+[ο αέρας]{lang="el"} [o aˈeras] hat drei Silben, [α-έ-ρας]{lang="el"}, ohne Digraph.
+
+[Λόγω καιρού]{lang="el"} „wegen des Wetters“ steht so auf Anzeigetafeln und in Durchsagen:
+[λόγω]{lang="el"} mit Genitiv ist ein Stück gehobener Amtssprache (Kapitel 28), das man trotzdem
+sofort braucht. [Κλείσαμε δωμάτιο]{lang="el"} zeigt eine praktische zweite Bedeutung von
+[κλείνω]{lang="el"}: Ein Zimmer, einen Tisch, eine Fahrkarte „schließt“ man, wenn man sie bucht.
+
+::: {.callout-note collapse="true"}
+## Exkurs: Ein Wind mit Geschichte
+
+Der Meltemi ist kein Unwetter. Er weht bei blauem Himmel und praller Sonne aus Norden über die
+Ägäis, von etwa Mai bis September, am stärksten im Juli und August, oft tagelang. Seefahrer kennen
+ihn seit der Antike. Die Griechen nannten diese Winde nach dem Jahr ([ετήσιος]{lang="el"}
+„jährlich“, heute etwa in [ετήσια συνδρομή]{lang="el"} „Jahresabo“), weil sie jedes Jahr
+zuverlässig wiederkommen; daher heißen sie in der Meteorologie bis heute *Etesien*.
+
+Diese Zuverlässigkeit hatte Folgen für die Politik. Demosthenes warf den Athenern in seiner ersten
+Rede gegen Philipp von Makedonien vor, dass der König seine Feldzüge in die Zeit der Etesien oder
+des Winters lege, wenn eine athenische Flotte gegen den Wind nicht nach Norden käme.
+<!-- CHECK: Demosthenes, 1. Philippika (4), § 31: Philipp nutzt die Etesien bzw. den Winter, wenn die Athener nicht hinkommen – Stelle und Paraphrase prüfen -->
+
+Das Wort [μελτέμι]{lang="el"} kam über das Türkische (*meltem*) ins Griechische; woher das
+türkische Wort stammt, ist nicht sicher geklärt.
+<!-- CHECK: Etymologie μελτέμι < türk. meltem; Herkunft des türkischen Worts unsicher (ital. Deutungen umstritten) – mit LKN/Babiniotis abgleichen -->
+:::
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [θα]{lang="el"} | [θa] | Partikel des Futurs: [θα φύγω]{lang="el"} ich werde abfahren |
+| [το μελτέμι]{lang="el"} | [to melˈtemi] | der Meltemi (Nordwind der Ägäis im Sommer) |
+| [ο αέρας]{lang="el"} | [o aˈeras] | der Wind; die Luft |
+| [ο καιρός]{lang="el"} | [o ceˈros] | das Wetter; die Zeit |
+| [η απεργία]{lang="el"} | [i aperˈʝia] | der Streik |
+| [μάλλον]{lang="el"} | [ˈmalon] | wahrscheinlich; eher |
+| [αργώ, άργησα]{lang="el"} | [arˈɣo], [ˈarʝisa] | sich verspäten, spät kommen |
+| [κλείνω, έκλεισα]{lang="el"} | [ˈklino], [ˈeklisa] | auch: buchen, reservieren ([κλείνω δωμάτιο]{lang="el"}) |
+| [τέτοιος, -α, -ο]{lang="el"} | [ˈtetços] | solch, so ein |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η ακύρωση]{lang="el"} | die Absage, Annullierung (Kapitel 1) |
+| [λόγω καιρού]{lang="el"} | wegen des Wetters (gehoben) |
+| [το μποφόρ]{lang="el"} | Beaufort (Windstärke; unveränderlich) |
+| [το Αιγαίο]{lang="el"} | die Ägäis |
+| [ο υπάλληλος]{lang="el"} | der Angestellte; hier: der Mann am Schalter |
+| [ότι]{lang="el"} | dass |
+| [η Μήλος]{lang="el"} | Milos (feminin wie alle Inselnamen auf [-ος]{lang="el"}) |
+| [ο κύριος]{lang="el"} | der Herr; [τον κύριο Σταύρο]{lang="el"} Herrn Stavros |
+| [του]{lang="el"} | ihm (vor dem Verb; Kapitel 8) |
+| [θα κάτσουμε]{lang="el"} | wir werden (herum)sitzen (von [κάθομαι]{lang="el"}, Kapitel 10) |
+| [όλη μέρα]{lang="el"} | den ganzen Tag |
+| [η φορά]{lang="el"} | das Mal; [δέκα φορές]{lang="el"} zehnmal (Kapitel 4) |
+| [εκεί πάνω]{lang="el"} | da oben |
+| [μας]{lang="el"} | uns (vor dem Verb; Kapitel 8) |
+| [κρατάω]{lang="el"} | (fest)halten |
+| [το καπέλο]{lang="el"} | der Hut |
+| [ούτε για αστείο]{lang="el"} | nicht einmal im Spaß ([το αστείο]{lang="el"} der Witz) |
+:::
+
+## Ein Stamm, drei Einsätze {#sec-thana-ein-stamm}
+
+Kapitel 2 hat versprochen: einmal lernen, dreimal benutzen. Hier ist die Einlösung. Der
+perfektive Stamm, den du vom Aorist kennst, arbeitet an drei Stellen:
+
+| | Aorist | Futur | να-Form |
+|---|---|---|---|
+| abfahren | [έφυγα]{lang="el"} | [θα φύγω]{lang="el"} | [να φύγω]{lang="el"} |
+| schreiben | [έγραψα]{lang="el"} | [θα γράψω]{lang="el"} | [να γράψω]{lang="el"} |
+| finden | [βρήκα]{lang="el"} | [θα βρω]{lang="el"} | [να βρω]{lang="el"} |
+
+Schliemanns Kinderschwur aus Kapitel 2 steht genau so da: [Μια μέρα θα βρω την
+Τροία.]{lang="el"} „Eines Tages werde ich Troja finden.“ Damals brauchtest du für
+[θα βρω]{lang="el"} eine Worthilfe; jetzt kannst du den Satz selbst bauen.
+
+Die Form [γράψω]{lang="el"} hat für sich genommen keine Zeit. Sie sagt nur: diese Handlung, als
+Ganzes, als Foto. Die Zeit liefert das Wort davor. [θα]{lang="el"} macht Zukunft daraus,
+[να]{lang="el"} einen Wunsch, eine Absicht, ein Können oder Müssen. Allein steht sie nie; ein
+\*[Γράψω.]{lang="el"} ohne etwas davor gibt es nicht. (Ein paar Wörter wie
+[όταν]{lang="el"} und [αν]{lang="el"} können ihr auch vorausgehen, Kapitel 16 und 17.)
+
+Das Futur ([ο μέλλοντας]{lang="el"}) heißt in diesem Buch schlicht **Futur mit [θα]{lang="el"}**,
+und es gibt es in beiden Aspekten. Die Form nach [να]{lang="el"} heißt in Grammatiken
+**Konjunktiv** ([η υποτακτική]{lang="el"}); dieses Buch sagt meist **να-Form**, und das aus gutem
+Grund. Denn mit dem deutschen Konjunktiv („ich käme, ich wäre“) hat sie nichts zu tun. Näher liegt
+der spanische *subjuntivo* nach [*quiero que*]{lang="es"} oder der französische *subjonctif* nach
+[*il faut que*]{lang="fr"}: eine Form, die hinter bestimmten Wörtern steht und sagt, dass etwas
+gewollt, möglich oder nötig ist, nicht dass es passiert.
+
+Und die imperfektive Seite, der Film? Die bekommst du geschenkt: [θα γράφω, να γράφω]{lang="el"}
+sind einfach die Präsensformen hinter [θα]{lang="el"} oder [να]{lang="el"}. Jedes Verb mit zwei
+Stämmen hat nach [θα]{lang="el"} und [να]{lang="el"} also zwei Möglichkeiten, und die Wahl folgt
+denselben Regeln wie in der Vergangenheit (mehr in @sec-thana-futur).
+
+| Person | Film: [θα]{lang="el"} + Präsens | Foto: [θα]{lang="el"} + perfektiver Stamm |
+|---|---|---|
+| ich | [θα γράφ**ω**]{lang="el"} | [θα γράψ**ω**]{lang="el"} |
+| du | [θα γράφ**εις**]{lang="el"} | [θα γράψ**εις**]{lang="el"} |
+| er, sie, es | [θα γράφ**ει**]{lang="el"} | [θα γράψ**ει**]{lang="el"} |
+| wir | [θα γράφ**ουμε**]{lang="el"} | [θα γράψ**ουμε**]{lang="el"} |
+| ihr, Sie | [θα γράφ**ετε**]{lang="el"} | [θα γράψ**ετε**]{lang="el"} |
+| sie | [θα γράφ**ουν**]{lang="el"} | [θα γράψ**ουν**]{lang="el"} |
+
+Die Endungen rechts sind die von [μένω]{lang="el"} aus Kapitel 1, nichts Neues; im Gespräch
+bekommt die sie-Form wie im Präsens oft ein [-ε]{lang="el"}: [θα γράψουνε]{lang="el"}. Neu ist nur
+die Kombination: Stamm aus dem Aorist, Endungen aus dem Präsens, dazwischen kein Augment.
+
+::: {.callout-important}
+## Merke
+
+Die perfektive Form nach [θα]{lang="el"} und [να]{lang="el"}:
+
+1. **Perfektiver Stamm** wie im Aorist: [γραψ-, ανοιξ-, διαβασ-, μιλησ-]{lang="el"}.
+2. **Kein Augment.** Das Augment gibt es nur in der Vergangenheit.
+3. **Endungen des Präsens** wie bei [μένω]{lang="el"}: [-ω, -εις, -ει, -ουμε, -ετε,
+   -ουν(ε)]{lang="el"}.
+4. **Betonung** auf der letzten Silbe des Stamms, in allen Personen:
+   [γράψω – γράψουμε]{lang="el"}, [διαβάσω – διαβάσουμε]{lang="el"},
+   [τηλεφωνήσω – τηλεφωνήσουμε]{lang="el"}.
+:::
+
+### Vom Aorist zur θα-Form in drei Handgriffen {#sec-thana-handgriffe}
+
+Wer den Aorist eines Verbs kennt, kommt so zur θα-Form: Augment weg, Betonung auf die letzte
+Stammsilbe, Endung [-ω]{lang="el"}.
+
+| Aorist | was passiert | Futur |
+|---|---|---|
+| [έγραψα]{lang="el"} | Augment weg | [θα γράψω]{lang="el"} |
+| [έκλεισα]{lang="el"} | Augment weg | [θα κλείσω]{lang="el"} |
+| [διάβασα]{lang="el"} | Betonung nach hinten | [θα διαβάσω]{lang="el"} |
+| [άνοιξα]{lang="el"} | Betonung nach hinten | [θα ανοίξω]{lang="el"} |
+| [ξέχασα]{lang="el"} | Betonung nach hinten | [θα ξεχάσω]{lang="el"} |
+| [τηλεφώνησα]{lang="el"} | nur die Endung | [θα τηλεφωνήσω]{lang="el"} |
+
+Vom Präsens aus geht es oft genauso schnell: Bei [διαβάσω, ανοίξω, αγοράσω]{lang="el"} sitzt die
+Betonung dort, wo sie in [διαβάζω, ανοίγω, αγοράζω]{lang="el"} saß; nur der letzte Laut des Stamms
+wechselt. Bei den Verben auf [-άω]{lang="el"} und [-ώ]{lang="el"} rutscht sie auf das
+[η]{lang="el"}: [μιλάω → θα μιλήσω]{lang="el"}, [τηλεφωνώ → θα τηλεφωνήσω]{lang="el"},
+[αργώ → θα αργήσω]{lang="el"}.
+
+Beim Hören hängt der Aspekt dann oft an einem einzigen Laut, wie beim Imperfekt in Kapitel 4:
+[θα γράφω]{lang="el"} [θa ˈɣrafo] gegen [θα γράψω]{lang="el"} [θa ˈɣrapso],
+[θα διαβάζω]{lang="el"} [θa ðʝaˈvazo] gegen [θα διαβάσω]{lang="el"} [θa ðʝaˈvaso]. Bei den Verben
+auf [-άω]{lang="el"} ist es deutlicher, weil auch die Betonung wandert:
+[θα μιλάω]{lang="el"} [θa miˈlao] gegen [θα μιλήσω]{lang="el"} [θa miˈliso].
+
+::: {.callout-warning}
+## Achtung
+
+- \*[θα γράψα]{lang="el"}, \*[να διάβασω]{lang="el"}: Hier ist die Aoristendung oder die
+  Aoristbetonung stehen geblieben. Nach [θα]{lang="el"} und [να]{lang="el"} gelten Endung und
+  Betonung des Präsens.
+- [θα έγραψα]{lang="el"} ist kein Futur. Die Verbindung gibt es zwar, aber sie bedeutet eine
+  Vermutung über Vergangenes („ich werde es wohl geschrieben haben“, Kapitel 25). Für die Zukunft:
+  [θα γράψω]{lang="el"}.
+:::
+
+<!-- EXERCISE: Übung 5.1 „Vom Aorist zur θα-Form“ – Lernziel: perfektive θα-/να-Formen regelmäßiger Verben bilden (Augment weg, Präsensendungen, Betonung auf der letzten Stammsilbe); Art: Teil A Formen im Kopf bilden und laut sagen (8–10 Verben aus Kapitel 2 und 4, z.B. διάβασα → wir, άνοιξα → du, τηλεφώνησα → ich, έκλεισα → sie Pl., ξέχασα → ihr, αγόρασα → er, ταξίδεψα → wir, πλήρωσα → du), Teil B Fehler finden (6–7 Formen wie *θα έγραψω, *να διάβασω, *θα γράψα, *θα εγράψουμε, dazu 2 richtige); Antwort im Chat als Buchstaben/Nummern; Schwierigkeit 1 -->
+
+## Der Stamm ohne Anfang: [δω, πω, βγω]{lang="el"} {#sec-thana-ohne-anfang}
+
+Seit Kapitel 2 benutzt du drei Wendungen, deren Verben ein Rätsel waren: [Άκου να
+δεις.]{lang="el"} „Jetzt pass auf.“ [Μη μου πεις.]{lang="el"} „Sag bloß.“ Und die erste Zeile von
+Kavafis’ [Ιθάκη]{lang="el"}: [Σα βγεις στον πηγαιμό για την Ιθάκη]{lang="el"}.
+[δεις, πεις, βγεις]{lang="el"} sind die perfektiven Formen von [είδα, είπα, βγήκα]{lang="el"}, hier
+in der du-Form. Und sie zeigen, was bei den unregelmäßigen Verben passiert: Vom Aorist bleibt oft
+nur der Kern.
+
+In Kapitel 2 hieß es, das [εί-]{lang="el"} von [είδα, είπα]{lang="el"} und das [ή-]{lang="el"}
+von [ήπια]{lang="el"} gehörten zum Stamm, weil sie auch im Plural bleiben
+([είδαμε, ήπιαμε]{lang="el"}). Für die Vergangenheit stimmt das. Außerhalb der Vergangenheit
+fällt dieser Anfang aber weg, genau wie ein Augment. Die Merkformel dazu: **Der Anfang gehört zur
+Vergangenheit.**
+
+::: {.callout-note collapse="true"}
+## Exkurs: Warum der Anfang fehlt
+
+Bei [είδα]{lang="el"} und [ήπια]{lang="el"} ist der Anfang tatsächlich ein altes Augment, das im
+Lauf der Sprachgeschichte mit dem Stamm verwachsen ist; bei [είπα]{lang="el"} ist die Geschichte
+verwickelter. In allen drei Fällen hatte die Form ohne Vergangenheit schon im Altgriechischen
+kein Augment, und im Mittelalter ging dann auch der unbetonte Anfangsvokal verloren. Der Stamm
+von [δω]{lang="el"} lebt übrigens mit seinem alten [ι]{lang="el"} in der [ιδέα]{lang="el"} weiter,
+der „Gestalt, die man sieht“ (Kapitel 3).
+<!-- CHECK: Lautgeschichte vereinfacht: είδα/ήπια mit altem Augment (εἶδον, ἔπιον), Konjunktiv ἴδω/πίω ohne Augment; είπα (εἶπον, Konj. εἴπω) komplizierter; Schwund des unbetonten Anlauts in mittelgriechischer Zeit – Formulierung prüfen -->
+:::
+
+Die unregelmäßigen Verben fallen in vier Gruppen.
+
+**Gruppe 1: nur der Kern, betont auf der Endung.** Sechs Aoriste schrumpfen auf ein oder zwei
+Konsonanten, und die Endungen sind die von [μπορώ]{lang="el"}:
+
+| Aorist | Futur | du-Form |
+|---|---|---|
+| [είδα]{lang="el"} | [θα δω]{lang="el"} | [θα δεις]{lang="el"} |
+| [είπα]{lang="el"} | [θα πω]{lang="el"} | [θα πεις]{lang="el"} |
+| [βρήκα]{lang="el"} | [θα βρω]{lang="el"} | [θα βρεις]{lang="el"} |
+| [βγήκα]{lang="el"} | [θα βγω]{lang="el"} | [θα βγεις]{lang="el"} |
+| [μπήκα]{lang="el"} | [θα μπω]{lang="el"} | [θα μπεις]{lang="el"} |
+| [ήπια]{lang="el"} | [θα πιω]{lang="el"} | [θα πιεις]{lang="el"} |
+
+Zum Vergleich einmal durchkonjugiert, neben dem Muster aus Kapitel 1:
+
+| Person | sehen (Foto) | können |
+|---|---|---|
+| ich | [να δω]{lang="el"} | [μπορώ]{lang="el"} |
+| du | [να δεις]{lang="el"} | [μπορείς]{lang="el"} |
+| er, sie, es | [να δει]{lang="el"} | [μπορεί]{lang="el"} |
+| wir | [να δούμε]{lang="el"} | [μπορούμε]{lang="el"} |
+| ihr, Sie | [να δείτε]{lang="el"} | [μπορείτε]{lang="el"} |
+| sie | [να δουν]{lang="el"} | [μπορούν]{lang="el"} |
+
+Gesprochen: [ðo, ðis, ði, ˈðume, ˈðite, ðun]. Die einsilbigen Formen tragen keinen Akzent, wie
+alle Einsilbler. [βγεις]{lang="el"} [vʝis] beginnt mit zwei Konsonanten, das [γ]{lang="el"} vor
+[i] wie *j* in *ja*. Und [πιω]{lang="el"} [pço] ist eine Silbe: Das [ι]{lang="el"} gleitet nach
+[π]{lang="el"} zu [ç] wie in *ich*, genau wie in [ήπια]{lang="el"} [ˈipça].
+
+**Gruppe 2: wie die kurzen Präsensverben.** [έφαγα → θα φάω]{lang="el"} geht wie
+[τρώω]{lang="el"} und [λέω]{lang="el"}: [φάω, φας, φάει, φάμε, φάτε, φάνε]{lang="el"}. Im Lesetext
+von Kapitel 1 stand schon [τι θα φάνε]{lang="el"} „was sie essen werden“. Und
+[πήγα → θα πάω]{lang="el"}: Hier ist die perfektive Form mit dem Präsens identisch.
+[Πάμε!]{lang="el"} „Los, gehen wir!“ ist also auch in dieser Hinsicht ein bequemes Wort.
+
+**Gruppe 3: Aorist ohne Augment.** Die meisten übrigen folgen den drei Handgriffen:
+
+| Aorist | Futur |
+|---|---|
+| [έφυγα]{lang="el"} | [θα φύγω]{lang="el"} |
+| [έμαθα]{lang="el"} | [θα μάθω]{lang="el"} |
+| [έδωσα]{lang="el"} | [θα δώσω]{lang="el"} |
+| [έμεινα]{lang="el"} | [θα μείνω]{lang="el"} |
+| [πέθανα]{lang="el"} | [θα πεθάνω]{lang="el"} |
+| [έκανα]{lang="el"} | [θα κάνω]{lang="el"} |
+| [ανέβηκα]{lang="el"} | [θα ανέβω]{lang="el"} |
+| [κατέβηκα]{lang="el"} | [θα κατέβω]{lang="el"} |
+
+Bei den Aufzug-Verben verschwindet mit dem Anfang auch das [-ηκ-]{lang="el"}, wie schon bei
+[βρήκα, βγήκα, μπήκα]{lang="el"}: [ανέβηκα → ανέβω]{lang="el"}. Und [θα κάνω]{lang="el"} sieht
+aus wie Präsens, weil es beides ist. Bei [κάνω]{lang="el"} und [πάω]{lang="el"} kannst du den
+Aspekt nach [θα]{lang="el"} nicht sehen, nur aus dem Satz erschließen.
+
+**Gruppe 4: zwei Einzelgänger.** [ήρθα → θα έρθω]{lang="el"}: Aus dem [ή-]{lang="el"} wird ein
+[έ-]{lang="el"}, und im Gespräch fällt auch das oft noch weg: [θα ’ρθω]{lang="el"} [θa ˈrθo]. Und
+[πήρα → θα πάρω]{lang="el"}: Aus dem [η]{lang="el"} wird ein [α]{lang="el"}. Beide gehören zu den
+häufigsten Verben überhaupt. [Θα ’ρθω.]{lang="el"} „Ich komme.“ [Θα σε πάρω.]{lang="el"} „Ich rufe
+dich an“, wörtlich „ich werde dich nehmen“, am Telefon versteht sich.
+
+Bleiben die Verben ohne perfektiven Stamm: [θα είμαι, θα έχω, θα ξέρω]{lang="el"}, dazu
+[θα θέλω]{lang="el"} und [θα περιμένω]{lang="el"}. Hier gibt es nichts zu wählen, genau wie in der
+Vergangenheit.
+
+::: {.callout-important}
+## Merke
+
+- **Kern mit Endung wie [μπορώ]{lang="el"}:** [δω, πω, βρω, βγω, μπω, πιω]{lang="el"}.
+- **Wie [τρώω]{lang="el"}:** [φάω]{lang="el"}; **gleich wie im Präsens:** [πάω, κάνω]{lang="el"}.
+- **Aorist ohne Augment:** [φύγω, μάθω, δώσω, μείνω, πεθάνω, ανέβω, κατέβω]{lang="el"}.
+- **Einzelgänger:** [έρθω]{lang="el"} (umg. [’ρθω]{lang="el"}), [πάρω]{lang="el"}.
+- Der Anfang [εί-, ή-, έ-]{lang="el"} gehört zur Vergangenheit.
+:::
+
+Jetzt lassen sich auch die alten Wendungen auseinandernehmen. [Άκου να δεις]{lang="el"} heißt
+wörtlich „hör, damit du siehst“: [να]{lang="el"} kann „damit, um zu“ bedeuten, wie im
+Einstiegsdialog in [να του πω]{lang="el"} „um ihm zu sagen“. [Μη μου πεις]{lang="el"} ist ein
+Verbot, „sag es mir nicht“: Nach [μη(ν)]{lang="el"} steht dieselbe Form, auch ohne
+[να]{lang="el"}. Und auch Verbote haben Foto und Film. [Μην το πεις σε κανέναν.]{lang="el"} „Sag es
+niemandem“ meint ein einmaliges Weitererzählen. [Μην το λες]{lang="el"} aus dem Einstieg ist Film:
+„Hör auf, so was zu sagen“, oder überhaupt: „So was sagt man nicht.“ Mehr über Verbote in
+Kapitel 9. Kavafis’ [Σα βγεις]{lang="el"} schließlich ist „wenn du aufbrichst“, [σα(ν)]{lang="el"}
+mit der perfektiven Form für etwas, das erst noch kommt (Kapitel 17).
+
+<!-- EXERCISE: Übung 5.2 „Stamm ohne Anfang“ – Lernziel: die perfektiven θα-/να-Formen der häufigen unregelmäßigen Verben bilden und in festen Wendungen erkennen; Art: Teil A Aorist → Futur in vorgegebener Person laut bilden (10–12 Verben aus allen vier Gruppen: είδα→wir, είπα→du, ήπια→ich, βγήκα→ihr, έφαγα→wir, ήρθα→du, πήρα→ich, ανέβηκα→wir, έμεινα→sie Pl., βρήκα→du, έδωσα→er, έφυγα→ihr); Teil B Zuordnen: Wendungen (Άκου να δεις, Μη μου πεις, Θα σε πάρω, θα ’ρθω, Σα βγεις, Τι θα φάμε;) → Aorist, von dem die Form kommt, und Übersetzung; Antwort im Chat als Buchstaben; Hinweise auf die μπορώ-Endungen und das Merkwort „Der Anfang gehört zur Vergangenheit“; Schwierigkeit 2 -->
+
+## Foto oder Film in der Zukunft: [θα γράψω, θα γράφω]{lang="el"} {#sec-thana-futur}
+
+Wieder Piräus, diesmal Anfang Juni. Eine Studentin fährt für einen Saisonjob in einer Taverne nach
+Amorgos, die Mutter bringt sie zum Schiff. Das letzte Gespräch vor der Gangway:
+
+::: {lang="el"}
+— Θα μου γράφεις;
+
+— Κάθε μέρα θα σου γράφω.
+
+— Κάθε μέρα δε χρειάζεται. Μόνο απόψε θα μου γράψεις, να ξέρω ότι έφτασες.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Schreibst du mir auch?
+
+— Jeden Tag schreib ich dir.
+
+— Jeden Tag muss nicht sein. Nur heute Abend schreibst du mir, damit ich weiß, dass du angekommen
+bist.
+:::
+
+Drei Sätze, zweimal [θα γράφω]{lang="el"}, einmal [θα γράψω]{lang="el"}, und keiner davon ist
+austauschbar. Die Mutter fragt nach einer Gewohnheit für den ganzen Sommer: Film. Die Tochter
+verspricht Film, und zwar täglich. Die Mutter will aber nur eine einzige Nachricht, heute Abend,
+als Ganzes: Foto. Wer schon einmal eine Tochter auf eine Insel geschickt hat, weiß, dass das
+realistischere Versprechen das Foto ist.
+
+Es ist dieselbe Unterscheidung wie in der Vergangenheit, nur nach vorn gerichtet:
+
+- **[θα]{lang="el"} + perfektive Form (Foto):** ein künftiges Ereignis als Ganzes, einmal,
+  mit Ergebnis. Das ist der Normalfall für Pläne, Versprechen und Vorhersagen.
+- **[θα]{lang="el"} + Präsensform (Film):** etwas, das sich in der Zukunft wiederholt, zur
+  Gewohnheit wird, oder das zu einem bestimmten Zeitpunkt gerade im Gang ist.
+
+Ein paar Paare aus dem Reisealltag:
+
+- [Αύριο θα διαβάσω τον οδηγό.]{lang="el"} Morgen lese ich den Reiseführer (durch).
+  [Στο πλοίο θα διαβάζω.]{lang="el"} Auf dem Schiff werde ich lesen (die Überfahrt lang).
+- [Στις οχτώ θα φάμε.]{lang="el"} Um acht essen wir. [Στις οχτώ θα τρώμε.]{lang="el"} Um acht sind
+  wir gerade beim Essen, also ruf nicht an.
+- [Θα σε πάρω τηλέφωνο.]{lang="el"} Ich rufe dich an. [Θα σε παίρνω τηλέφωνο κάθε
+  βράδυ.]{lang="el"} Ich rufe dich jeden Abend an.
+- [Θα μείνουμε δύο μέρες στη Μήλο.]{lang="el"} Wir bleiben zwei Tage auf Milos.
+  [Θα μένουμε σε ένα δωμάτιο πάνω από το λιμάνι.]{lang="el"} Wir werden in einem Zimmer über dem
+  Hafen wohnen.
+
+Das vierte Paar kennst du aus Kapitel 2 und 4. „Als Ganzes“ heißt nicht „kurz“: Zwei Tage, als
+Block geplant, sind ein Foto. Das Zimmer über dem Hafen dagegen ist der Rahmen, in dem die Tage
+laufen werden, eine Beschreibung: Film. Auch der Hut im Einstiegsdialog passt dazu. [Θα κρατάς
+το καπέλο σου]{lang="el"} heißt nicht „du wirst ihn einmal packen“, sondern „du wirst die ganze
+Zeit da oben deinen Hut festhalten“.
+
+::: {.callout-important}
+## Merke
+
+Das **Futur mit [θα]{lang="el"}** gibt es in beiden Aspekten.
+
+- **Foto** ([θα γράψω]{lang="el"}): einmal, als Ganzes, auch wenn es lange dauert. Im Zweifel
+  diese Form; die meisten Zukunftssätze im Gespräch sind Fotos.
+- **Film** ([θα γράφω]{lang="el"}): regelmäßig, immer wieder, gerade im Gang, als Rahmen.
+:::
+
+Englisch ist hier der beste Helfer, denn es hat, anders als Spanisch und Französisch, eine
+Verlaufsform auch in der Zukunft: *I'll write to you* ist [θα σου γράψω]{lang="el"}, *I'll be
+writing to you every day* ist [θα σου γράφω κάθε μέρα]{lang="el"}, *at eight we'll be eating* ist
+[στις οχτώ θα τρώμε]{lang="el"}. Spanisch [*te escribiré*]{lang="es"} und französisch [*je
+t'écrirai*]{lang="fr"} decken beides ab, das Deutsche mit „ich schreibe dir“ ebenso. Wer vom
+Spanischen kommt, muss also eine Frage stellen, die er sich im Futur nie stellen musste.
+
+::: {.callout-warning}
+## Achtung
+
+Der typische Fehler: [θα]{lang="el"} plus Präsensform für ein einmaliges Ereignis, weil die Form
+so vertraut aussieht. \*[Αύριο θα αγοράζω τα εισιτήρια.]{lang="el"} klingt, als würdest du morgen
+den ganzen Tag lang oder immer wieder Fahrkarten kaufen. Gemeint ist fast immer:
+[Αύριο θα αγοράσω τα εισιτήρια.]{lang="el"}
+:::
+
+Ein Wort zur Herkunft, weil es ein schönes Stück Sprachgeschichte ist: [θα]{lang="el"} ist aus
+[θέλει να]{lang="el"} „er will, dass“ zusammengeschliffen, über eine Zwischenstufe
+[θε να]{lang="el"}, die man in Volksliedern noch findet. Das Englische hat sein Futur aus demselben
+Stoff gebaut, *will* hieß einmal „wollen“. Spanisch und Französisch haben es dagegen aus „haben“
+gemacht: [*escribiré*]{lang="es"} geht auf lateinisch *scribere habeo* „ich habe zu schreiben“
+zurück, und die Endungen von [*j'écrirai*]{lang="fr"} sind noch heute die von [*j'ai*]{lang="fr"}.
+<!-- CHECK: Entwicklung θα < θε να < θέλει να (mittelgriechisch); θε να in Volksliedern belegt; roman. Futur < Inf. + habere – kurz gegenprüfen -->
+
+### Wann, was, wie sicher: Zeitangaben und Verneinung {#sec-thana-zeitangaben}
+
+Kapitel 2 hat die Zeitangaben für die Vergangenheit gebracht. Das Gegenstück für die Zukunft:
+[αύριο]{lang="el"} (morgen), [μεθαύριο]{lang="el"} (übermorgen), [σε λίγο]{lang="el"} (gleich,
+bald), [σε δύο μέρες]{lang="el"} (in zwei Tagen), [την επόμενη εβδομάδα]{lang="el"} (nächste
+Woche), [του χρόνου]{lang="el"} (nächstes Jahr), [κάποια μέρα]{lang="el"} (eines Tages,
+irgendwann). [Του χρόνου]{lang="el"} ist ein fester Genitiv, „des Jahres“; du hörst ihn auch in
+[Και του χρόνου!]{lang="el"}, dem Wunsch an Geburtstagen und Festen: „Nächstes Jahr wieder so“.
+
+**Verneinung:** [δε(ν)]{lang="el"} steht vor [θα]{lang="el"}, nicht dahinter. Weil
+[θ]{lang="el"} kein Verschlusslaut ist, fällt nach der Regel aus Kapitel 1 das Schluss-[ν]{lang="el"}:
+[Δε θα φύγει σήμερα.]{lang="el"} Zwischen [θα]{lang="el"} und das Verb passen nur die kleinen
+Objektwörter: [θα σου γράψω]{lang="el"}, [δε θα το πω]{lang="el"} (Kapitel 8). Die Reihenfolge ist
+immer dieselbe: [δε – θα – Objektwort – Verb]{lang="el"}.
+
+**Präsens für feste Pläne:** Wie im Deutschen kann ein fester Plan auch im Präsens stehen.
+[Αύριο φεύγουμε για τη Μήλο.]{lang="el"} „Morgen fahren wir nach Milos.“ Für Versprechen,
+Vorhersagen und alles, was noch offen ist, nimmt man [θα]{lang="el"}. Ein deutsches „Ich ruf dich
+morgen an“ ist ein Versprechen, also [Θα σε πάρω αύριο.]{lang="el"}
+
+**[θα]{lang="el"} ist nicht nur Zukunft.** [Θα είναι στο λιμάνι τώρα.]{lang="el"} heißt „Er wird
+jetzt (wohl) am Hafen sein“, eine Vermutung, genau wie im Deutschen (Kapitel 22). Und
+[θα ήθελα]{lang="el"} aus Kapitel 4 ist [θα]{lang="el"} mit Imperfekt: „ich hätte gern“.
+
+<!-- EXERCISE: Übung 5.3 „Foto oder Film in der Zukunft“ – Lernziel: Futur in beiden Aspekten wählen und den Unterschied begründen (einmalig/als Ganzes auch bei langer Dauer vs. Wiederholung, Gewohnheit, gerade im Gang, Rahmen; dazu Verben ohne Wahl: είμαι, έχω, ξέρω, περιμένω, κάνω/πάω mit gleicher Form); Art: Multiple Choice mit Begründung, 9–10 kurze Sätze aus Reiseplänen (Fähre, Insel, Wetter), jeweils (a) θα + Präsensform (b) θα + perfektive Form, eine Kategorie (c) „keine Wahl“; Antwort im Chat als „1b, 2a …“; Hinweis 1 mit der englischen Probe (will be -ing / will keep -ing), Hinweis 2 zur Dauer als Ganzes; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [μεθαύριο]{lang="el"} | [meˈθavrio] | übermorgen |
+| [σε λίγο]{lang="el"} | [se ˈliɣo] | gleich, bald |
+| [σε δύο μέρες]{lang="el"} | [se ˈðio ˈmeres] | in zwei Tagen |
+| [την επόμενη εβδομάδα]{lang="el"} | [tin eˈpomeni evðoˈmaða] | nächste Woche |
+| [του χρόνου]{lang="el"} | [tu ˈxronu] | nächstes Jahr |
+| [κάποια μέρα]{lang="el"} | [ˈkapça ˈmera] | eines Tages, irgendwann |
+| [το μήνυμα]{lang="el"} | [to ˈminima] | die Nachricht |
+| [δε χρειάζεται]{lang="el"} | [ðe xriˈazete] | (das) ist nicht nötig |
+| [ο οδηγός]{lang="el"} | [o oðiˈɣos] | der Reiseführer (Buch); der Fahrer |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [μου, σου]{lang="el"} | mir, dir (vor dem Verb; Kapitel 8) |
+| [μόνο]{lang="el"} | nur (Kapitel 3) |
+| [να ξέρω]{lang="el"} | damit ich weiß |
+| [φτάνω, έφτασα]{lang="el"} | ankommen (Kapitel 2) |
+| [Και του χρόνου!]{lang="el"} | Nächstes Jahr wieder! (Wunsch an Festen) |
+:::
+
+## Ich will, dass ich gehe: [να]{lang="el"} statt Infinitiv {#sec-thana-na}
+
+Am selben Morgen, am Schalter einer Reederei in Piräus. Eine Frau, die nach Sifnos wollte, steht
+vorn in der Schlange.
+
+::: {lang="el"}
+— Καλημέρα. Θέλω να αλλάξω το εισιτήριό μου για αύριο. Μπορώ;
+
+— Βεβαίως. Μπορείτε να πάρετε το πλοίο των επτά ή των δέκα.
+
+— Των επτά. Πρέπει να πληρώσω κάτι;
+
+— Τίποτα. Πρέπει όμως να είστε στο λιμάνι μισή ώρα πριν από την αναχώρηση.
+
+— Κι αν αύριο φυσάει πάλι;
+
+— Θα σας στείλουμε μήνυμα. Μην ανησυχείτε.
+
+— Και η απεργία που λένε;
+
+— Αυτή είναι την Πέμπτη. Εσείς θα είστε ήδη στη Σίφνο και θα τρώτε ρεβιθάδα.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Guten Morgen. Ich möchte meine Fahrkarte auf morgen umbuchen. Geht das?
+
+— Selbstverständlich. Sie können das Schiff um sieben oder das um zehn nehmen.
+
+— Das um sieben. Muss ich etwas bezahlen?
+
+— Nichts. Aber Sie müssen eine halbe Stunde vor der Abfahrt am Hafen sein.
+
+— Und wenn es morgen wieder so stürmt?
+
+— Dann schicken wir Ihnen eine Nachricht. Keine Sorge.
+
+— Und dieser Streik, von dem alle reden?
+
+— Der ist am Donnerstag. Da sind Sie schon auf Sifnos und essen Kichererbseneintopf.
+:::
+
+Die Ruhe am Schalter ist echt: Wer im Sommer in Piräus hinter dem Tresen steht, erklärt dieses
+Gespräch an einem Meltemi-Tag ein paar hundert Mal. Die Kichererbsen auch. Die
+[ρεβιθάδα]{lang="el"} von Sifnos schmort traditionell über Nacht im Tontopf im Holzofen und ist
+der Stolz der Insel; [θα τρώτε]{lang="el"} ist Film, „Sie werden gerade beim Essen sein“.
+
+Jetzt zähl die Verben. Wo das Deutsche einen Infinitiv hat (umbuchen, nehmen, bezahlen, sein),
+steht im Griechischen ein konjugiertes Verb mit [να]{lang="el"} davor:
+
+| Deutsch | Griechisch | wörtlich |
+|---|---|---|
+| Ich will umbuchen. | [Θέλω να αλλάξω.]{lang="el"} | Ich will, dass ich umbuche. |
+| Sie können nehmen. | [Μπορείτε να πάρετε.]{lang="el"} | Sie können, dass Sie nehmen. |
+| Muss ich bezahlen? | [Πρέπει να πληρώσω;]{lang="el"} | Muss (es), dass ich bezahle? |
+| Sie müssen … sein. | [Πρέπει να είστε …]{lang="el"} | Muss (es), dass Sie sind. |
+
+Das ist die wichtigste Tatsache dieses Abschnitts: **Das Neugriechische hat keinen Infinitiv.**
+Wörterbücher führen Verben deshalb in der ich-Form auf, [γράφω]{lang="el"} „ich schreibe“, nicht
+„schreiben“. Wo andere Sprachen zwei Verben mit einem Infinitiv verbinden, stehen im Griechischen
+zwei konjugierte Verben, verbunden durch [να]{lang="el"}, das ungefähr „dass“ bedeutet.
+
+Spanisch und Französisch kennen das Muster, aber nur, wenn das Subjekt wechselt:
+[*Quiero que vengas.*]{lang="es"} [*Je veux que tu viennes.*]{lang="fr"} Das Griechische benutzt es
+immer, auch wenn beide Verben dieselbe Person haben. Es sagt also gewissermaßen
+\*[*quiero que vaya yo*]{lang="es"}, wo Spanisch [*quiero ir*]{lang="es"} sagt:
+
+- [Θέλω να πάω.]{lang="el"} Ich will gehen. (ich … ich)
+- [Θέλω να πας.]{lang="el"} Ich will, dass du gehst. (ich … du)
+- [Θέλω να πάμε.]{lang="el"} Ich will, dass wir gehen; lass uns gehen.
+
+Das erste Verb bleibt, wie es ist; die Person steckt in der Endung nach [να]{lang="el"}. Das macht
+das Griechische an dieser Stelle einfacher als die romanischen Sprachen, denn es gibt nur ein
+Muster.
+
+::: {.callout-warning}
+## Achtung
+
+- \*[Θέλω πάω.]{lang="el"} Ohne [να]{lang="el"} geht es nicht; die zwei Verben stehen nicht
+  einfach nebeneinander.
+- \*[Θέλω να πάει.]{lang="el"}, wenn du selbst gehen willst: Das heißt „Ich will, dass er geht“.
+  Beide Verben brauchen die Endung der Person, die gemeint ist.
+- Das Verb nach [να]{lang="el"} steht in der Grundform nie in der Vergangenheit:
+  \*[Μπορώ να πήγα.]{lang="el"} Die Vergangenheit trägt das erste Verb:
+  [Μπορούσα να πάω.]{lang="el"} Ich konnte gehen.
+:::
+
+### [θέλω, μπορώ, πρέπει, πάω]{lang="el"} {#sec-thana-vier-verben}
+
+Vier Verben tragen den größten Teil der να-Sätze im Alltag.
+
+**[θέλω να]{lang="el"}: wollen.** Das bekannte Verb aus Kapitel 4, und mit ihm zwei
+Höflichkeitsformen, die dort schon angekündigt waren. [Θα ήθελα να κλείσω δύο θέσεις για
+αύριο.]{lang="el"} „Ich würde gern zwei Plätze für morgen buchen.“ [Ήθελα να ρωτήσω…]{lang="el"}
+„Ich wollte fragen …“, die Frage wird durch die Vergangenheit sanfter, wie
+[*quería preguntar*]{lang="es"}. Beide passen an jeden Schalter; [θέλω να]{lang="el"} ist unter
+Freunden völlig in Ordnung, am Schalter klingt es etwas direkt, aber nicht unhöflich.
+
+**[μπορώ να]{lang="el"}: können, dürfen.** [μπορώ]{lang="el"} [boˈro] beginnt mit
+[μπ]{lang="el"}, also mit einem [b]: „boro“, nicht „mporo“. Es wird ganz normal konjugiert:
+[μπορώ να έρθω, μπορείς να έρθεις, μπορούμε να έρθουμε]{lang="el"}. Als Frage ist es die übliche
+Bitte: [Μπορώ να…;]{lang="el"} „Darf ich …?“, [Μπορείτε να…;]{lang="el"} „Könnten Sie …?“ Und hier
+löst sich eine Stelle aus Kapitel 3 auf: Der alte Hund Argos [δεν μπόρεσε να σηκωθεί]{lang="el"},
+„schaffte es nicht aufzustehen“. [μπόρεσα]{lang="el"} ist der Aorist, ein einzelnes Mal (nicht)
+geschafft; [μπορούσα]{lang="el"} ist das Imperfekt, ein allgemeines Können: [Τότε μπορούσα να
+κολυμπάω δύο ώρες.]{lang="el"} „Damals konnte ich zwei Stunden schwimmen.“ (Nicht verwechseln mit
+[μπορεί να]{lang="el"} „vielleicht“, dazu Kapitel 22.)
+
+**[πρέπει να]{lang="el"}: müssen.** [πρέπει]{lang="el"} [ˈprepi] ändert sich nie. Es heißt „es ist
+nötig“, und die Person steht nur nach [να]{lang="el"}: [πρέπει να φύγω, πρέπει να φύγεις, πρέπει
+να φύγουμε]{lang="el"}. Das ist französisch [*il faut que je parte*]{lang="fr"}, nur ohne
+*il*. Die Vergangenheit ist ebenfalls unpersönlich: [Έπρεπε να φύγουμε νωρίτερα.]{lang="el"} „Wir
+hätten früher fahren müssen“ oder „Wir mussten früher fahren“, je nach Zusammenhang. Verneint wird
+das Verb nach [να]{lang="el"}: [Πρέπει να μη χάσουμε το πλοίο.]{lang="el"} „Wir dürfen das Schiff
+nicht verpassen.“ [Δεν πρέπει να…]{lang="el"} gibt es auch und heißt ebenfalls „man darf nicht“.
+
+**[πάω να]{lang="el"}: hingehen, um zu.** [Πάω να αγοράσω εισιτήρια.]{lang="el"} „Ich geh
+Fahrkarten kaufen.“ [Πάμε να φάμε;]{lang="el"} „Gehen wir was essen?“ [πάω]{lang="el"} verbindet
+Bewegung und Zweck, wie englisch *go and buy*. Die Dame am Schalter hätte auch sagen können:
+[Πηγαίνετε να δείτε την Ακρόπολη.]{lang="el"} „Gehen Sie sich die Akropolis ansehen.“
+
+Nach demselben Muster gehen viele andere Verben: [προσπαθώ να]{lang="el"} (versuchen zu),
+[ελπίζω να]{lang="el"} (hoffen), [ξεχνάω να]{lang="el"} (vergessen zu), [αρχίζω να]{lang="el"}
+(anfangen zu), [σταματάω να]{lang="el"} (aufhören zu), [μαθαίνω να]{lang="el"} (lernen zu). Und
+[να]{lang="el"} allein kann „um zu“ heißen: [Θα πάρω τηλέφωνο να του πω…]{lang="el"} aus dem
+Einstieg, [να χτίσει σπίτι]{lang="el"} aus der Geschichte vom Onkel in Kapitel 2. In sorgfältigerer
+Sprache steht dafür [για να]{lang="el"} (Kapitel 16).
+
+::: {.callout-note collapse="true"}
+## Exkurs: Wie das Griechische seinen Infinitiv verlor
+
+Das Altgriechische hatte Infinitive in Hülle und Fülle, für jeden Aspekt einen. In der Zeit nach
+Alexander dem Großen begann eine Konstruktion sie zu verdrängen: [ίνα]{lang="el"} „damit“ mit
+Konjunktiv. Aus [ίνα]{lang="el"} wurde im Lauf der Jahrhunderte [να]{lang="el"}, und am Ende des
+Mittelalters war der Infinitiv aus der gesprochenen Sprache fast verschwunden. Ein Rest lebt im
+Perfekt weiter: Das [γράψει]{lang="el"} in [έχω γράψει]{lang="el"} „ich habe geschrieben“
+(Kapitel 14) ist ein alter Infinitiv, auch wenn er heute aussieht wie die er-Form.
+
+Das Griechische ist damit nicht allein. Bulgarisch, Mazedonisch, Albanisch und zum Teil Rumänisch
+haben den Infinitiv ebenfalls durch „dass“-Sätze ersetzt. Rumänisch ist eine romanische Sprache,
+sagt aber [*vreau să plec*]{lang="ro"}, wörtlich „ich will, dass ich gehe“, Wort für Wort
+[θέλω να φύγω]{lang="el"}. Sprachwissenschaftler zählen das zu den Merkmalen des
+*Balkansprachbunds*: Nachbarsprachen, die über Jahrhunderte zusammengelebt und sich angeglichen
+haben, obwohl sie nur entfernt verwandt sind.
+<!-- CHECK: ίνα > να, Infinitivschwund hellenistisch–mittelgriechisch; έχω γράψει < Aorist-Infinitiv γράψαι/γράψειν; Balkansprachbund (bulg., mak., alb., rum. „vreau să plec“) – Formulierungen prüfen -->
+:::
+
+<!-- EXERCISE: Übung 5.4 „Kein Infinitiv“ – Lernziel: να-Sätze nach θέλω, μπορώ, πρέπει, πάω (und θα ήθελα, προσπαθώ, ελπίζω) bilden, mit gleichem und wechselndem Subjekt, verneint mit να μη(ν); Art: mündlich übersetzen Deutsch → Griechisch, 8–10 kurze Sätze aus der Reiseplanung (z.B. „Ich will morgen fahren.“, „Wir müssen um sieben am Hafen sein.“, „Kannst du Tickets kaufen?“, „Ich will, dass du mitkommst.“, „Ich möchte zwei Plätze buchen.“, „Wir gehen Kaffee trinken.“, „Ich hoffe, es gibt keinen Streik.“, „Wir dürfen das Schiff nicht verpassen.“); Lösung mit Varianten (πηγαίνω/πάω, δεν πρέπει να/πρέπει να μη), Schluss-ν-Regel bei μη(ν); Schwierigkeit 2 -->
+
+### Foto und Film nach [να]{lang="el"} {#sec-thana-na-aspekt}
+
+Nach [να]{lang="el"} wählst du den Aspekt nach denselben Regeln wie nach [θα]{lang="el"}. Die
+meisten να-Sätze meinen eine einzelne Handlung und nehmen die perfektive Form. Film ist es, wenn
+eine Gewohnheit gemeint ist oder etwas Andauerndes:
+
+- [Θέλω να πιω ένα νερό.]{lang="el"} Ich will ein Glas Wasser trinken (jetzt, eins).
+- [Στο πλοίο πρέπει να πίνεις πολύ νερό.]{lang="el"} Auf dem Schiff musst du viel Wasser trinken
+  (die ganze Überfahrt über).
+- [Μπορείς να μου γράψεις απόψε;]{lang="el"} Kannst du mir heute Abend schreiben?
+- [Μπορείς να μου γράφεις κάθε βράδυ;]{lang="el"} Kannst du mir jeden Abend schreiben?
+
+Zwei Gruppen verlangen immer den Film, und beide sind logisch. **Anfangen und aufhören:** Wer
+anfängt oder aufhört, meint einen Vorgang, der läuft. [Άρχισε να φυσάει.]{lang="el"} „Es fing an zu
+wehen.“ [Σταμάτησε να βρέχει.]{lang="el"} „Es hat aufgehört zu regnen.“ In Kapitel 2 fingen die
+Bauarbeiter an zu graben: [άρχισαν να σκάβουν]{lang="el"}, nicht \*[να σκάψουν]{lang="el"}.
+**Können als Fähigkeit:** [Ξέρω να οδηγώ.]{lang="el"} „Ich kann Auto fahren.“ [Μαθαίνω να
+κολυμπάω.]{lang="el"} „Ich lerne schwimmen.“ Eine Fähigkeit ist eine Gewohnheit auf Vorrat.
+
+Verneint wird mit [μη(ν)]{lang="el"} direkt nach [να]{lang="el"}, und die kleinen Objektwörter
+kommen danach: [να μην το ξεχάσεις]{lang="el"}. Für das Schluss-[ν]{lang="el"} gilt die Regel aus
+Kapitel 1: [Ελπίζω να μην έχει απεργία.]{lang="el"} „Hoffentlich ist kein Streik“, aber
+[Προσπαθώ να μη χάσω το πλοίο.]{lang="el"} „Ich versuche, das Schiff nicht zu verpassen.“ Einen Satz
+dieser Art hast du übrigens schon in Kapitel 1 gelesen, ohne dass er erklärt wurde:
+[Προσπαθώ να μην πίνω καφέ μετά τις έξι.]{lang="el"} Das ist Film, eine Gewohnheit.
+
+::: {.callout-important}
+## Merke
+
+- **Kein Infinitiv:** Verb + [να]{lang="el"} + konjugiertes Verb. Die Person nach
+  [να]{lang="el"} kann dieselbe sein ([θέλω να πάω]{lang="el"}) oder eine andere
+  ([θέλω να πας]{lang="el"}).
+- [πρέπει]{lang="el"} bleibt unverändert; die Person steht nach [να]{lang="el"}.
+- **Aspekt nach [να]{lang="el"}:** meist Foto; Film bei Gewohnheit, Dauer, nach
+  [αρχίζω, σταματάω]{lang="el"} und bei Fähigkeiten ([ξέρω να, μαθαίνω να]{lang="el"}).
+- **Verneinung:** [να μη(ν)]{lang="el"}, nicht \*[να δεν]{lang="el"}.
+:::
+
+<!-- EXERCISE: Übung 5.5 „Welche Form nach να?“ – Lernziel: Aspekt nach να begründet wählen (einmalig vs. Gewohnheit/Dauer; immer imperfektiv nach αρχίζω, σταματάω, ξέρω να, μαθαίνω να) und typische Fehler erkennen; Art: Teil A Auswählen (8 Sätze mit je zwei Formen, z.B. Άρχισε να (βρέχει/βρέξει), Πρέπει να (παίρνεις/πάρεις) το χάπι κάθε πρωί, Θέλω να (βλέπω/δω) το ηλιοβασίλεμα απόψε); Teil B Fehler finden (6 Sätze: *Θέλω πάω, *Μπορώ να πήγα, *Να δεν ξεχάσεις, *Πρέπουμε να φύγουμε, *Θέλω να πάει (für „ich will gehen“), dazu 1 richtiger); Antwort im Chat als Buchstaben; Worthilfen für neue Wörter (χάπι, ηλιοβασίλεμα); Schwierigkeit 3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [να]{lang="el"} | [na] | dass; vor der να-Form (statt Infinitiv); um zu |
+| [μπορώ, μπόρεσα]{lang="el"} | [boˈro], [ˈboresa] | können, dürfen; Imperfekt [μπορούσα]{lang="el"} |
+| [πρέπει]{lang="el"} | [ˈprepi] | man muss, es ist nötig; Vergangenheit [έπρεπε]{lang="el"} |
+| [προσπαθώ, προσπάθησα]{lang="el"} | [prospaˈθo], [prosˈpaθisa] | versuchen |
+| [ελπίζω, ήλπισα]{lang="el"} | [elˈpizo], [ˈilpisa] | hoffen |
+| [σταματάω, σταμάτησα]{lang="el"} | [stamaˈtao], [staˈmatisa] | aufhören; anhalten |
+| [οδηγώ, οδήγησα]{lang="el"} | [oðiˈɣo], [oˈðiʝisa] | (ein Fahrzeug) fahren |
+| [στέλνω, έστειλα]{lang="el"} | [ˈstelno], [ˈestila] | schicken |
+| [βεβαίως]{lang="el"} | [veˈveos] | selbstverständlich (eher formell) |
+| [ήδη]{lang="el"} | [ˈiði] | schon, bereits |
+| [αν]{lang="el"} | [an] | wenn, falls |
+| [φυσάει, φύσηξε]{lang="el"} | [fiˈsai], [ˈfisikse] | es weht, es ist windig |
+| [η θέση]{lang="el"} | [i ˈθesi] | auch: der (reservierte) Platz; [κλείνω θέση]{lang="el"} einen Platz buchen |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η Σίφνος]{lang="el"} | Sifnos |
+| [το εισιτήριό μου]{lang="el"} | meine Fahrkarte (zweiter Akzent vor [μου]{lang="el"}, Kapitel 2) |
+| [των επτά, των δέκα]{lang="el"} | das (Schiff) um sieben, um zehn (Genitiv, Kapitel 7) |
+| [πληρώνω, πλήρωσα]{lang="el"} | bezahlen (Kapitel 4) |
+| [μισή ώρα]{lang="el"} | eine halbe Stunde |
+| [πριν από]{lang="el"} | vor (zeitlich; Kapitel 2) |
+| [πάλι]{lang="el"} | wieder |
+| [σας]{lang="el"} | Ihnen, euch (vor dem Verb) |
+| [ανησυχώ]{lang="el"} | sich Sorgen machen; [Μην ανησυχείτε.]{lang="el"} Keine Sorge. (Kapitel 1) |
+| [που λένε]{lang="el"} | von dem man spricht, wörtlich „den sie sagen“ |
+| [η Πέμπτη]{lang="el"} | der Donnerstag (Kapitel 11) |
+| [η ρεβιθάδα]{lang="el"} | Kichererbseneintopf (Spezialität von Sifnos) |
+| [πηγαίνετε]{lang="el"} | geht! gehen Sie! (Imperativ, Kapitel 9) |
+| [σηκώνομαι, σηκώθηκα]{lang="el"} | aufstehen (Kapitel 13) |
+| [βρέχει]{lang="el"} | es regnet |
+| [χάνω]{lang="el"} | auch: verpassen ([χάνω το πλοίο]{lang="el"}) |
+:::
+
+## Hörspur: Pläne am Telefon {#sec-thana-hoerspur}
+
+Die griechischen Texte und Vokabeln kannst du mit ▶ anhören, Dialoge mit zwei Stimmen. Die Stimmen
+sind synthetisch: deutlich, gleichmäßig, ohne die Hast eines echten Telefonats. Die verschluckten
+Formen, um die es gleich geht, sprechen sie so, wie sie geschrieben sind; wie es wirklich klingt,
+bringt der Hör-Auftrag am Ende.
+
+Pläne werden in Griechenland selten geschmiedet und nie endgültig; sie werden am Telefon
+verhandelt, meistens mehrfach. Donnerstagabend. Eine Freundin sitzt seit einer Woche auf Naxos,
+der andere wollte am Freitag mit dem Schiff nachkommen.
+
+::: {lang="el"}
+— Έλα! Πού είσαι;
+
+— Στο γραφείο ακόμα. Άκου, για την Παρασκευή…
+
+— Τι έγινε; Δε θα ’ρθεις;
+
+— Θα ’ρθω, αλλά όχι με το πλοίο. Η ΠΝΟ έχει απεργία Παρασκευή και Σάββατο. Δεμένα τα πλοία.
+
+— Μη μου πεις. Και τι θα κάνεις;
+
+— Να σου πω, λέω να πάρω το αεροπλάνο. Έχει μια πτήση στις έξι.
+
+— Αεροπλάνο; Θα σου κοστίσει μια περιουσία.
+
+— Το ξέρω. Αλλά πρέπει να είμαι εκεί το Σάββατο. Δε θέλω να χάσω το πανηγύρι.
+
+— Κι αν φυσάει πολύ; Το αεροδρόμιο εδώ είναι μικρό.
+
+— Θα δούμε. Θα σε πάρω αύριο να σου πω τι κανόνισα.
+
+— Εντάξει. Κι αν τελικά δεν έρθεις, θα σου κρατάμε μια θέση στο τραπέζι μέχρι το πρωί.
+
+— Να ’στε καλά. Τα λέμε.
+
+— Τα λέμε. Καλό ταξίδι, όπως κι αν έρθεις.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Hallo! Wo bist du?
+
+— Noch im Büro. Hör mal, wegen Freitag …
+
+— Was ist los? Kommst du nicht?
+
+— Doch, aber nicht mit dem Schiff. Die Seeleute streiken Freitag und Samstag. Die Schiffe bleiben
+im Hafen.
+
+— Sag bloß. Und was machst du jetzt?
+
+— Weißt du was, ich überlege, ob ich fliege. Um sechs geht ein Flug.
+
+— Fliegen? Das kostet dich ein Vermögen.
+
+— Ich weiß. Aber ich muss am Samstag da sein. Ich will das Fest nicht verpassen.
+
+— Und wenn es stark windet? Der Flughafen hier ist klein.
+
+— Mal sehen. Ich ruf dich morgen an und sag dir, was ich geregelt habe.
+
+— Okay. Und falls du am Ende doch nicht kommst, halten wir dir bis zum Morgen einen Platz am
+Tisch frei.
+
+— Ihr seid lieb. Bis dann.
+
+— Bis dann. Gute Reise, wie auch immer du kommst.
+:::
+
+Die ΠΝΟ ist die [Πανελλήνια Ναυτική Ομοσπονδία]{lang="el"}, der Dachverband der
+Seeleutegewerkschaften. Wenn sie streikt, bleiben die Fähren im Hafen, und die Nachrichten
+melden das jedes Mal mit derselben Schlagzeile: [Δεμένα τα πλοία]{lang="el"}, „die Schiffe sind
+festgemacht“. Lange vorher angekündigt ist so ein Streik meistens trotzdem nicht, zumindest nicht
+lange genug für jemanden, der schon ein Zimmer gebucht hat.
+
+Das Gespräch hat elf Formen mit [θα]{lang="el"} und [να]{lang="el"}, und dazwischen die Wörter,
+mit denen Griechen Pläne verhandeln:
+
+- **[Άκου, …]{lang="el"}** „Hör mal“: die Kurzform von [άκου να δεις]{lang="el"}. Kündigt an,
+  dass jetzt etwas Wichtiges oder Unangenehmes kommt.
+- **[Να σου πω]{lang="el"}**, wörtlich „dass ich dir sage“, leitet einen Gedanken, einen
+  Entschluss oder eine Korrektur ein: „weißt du was“, „ehrlich gesagt“, „also“.
+- **[λέω να]{lang="el"}**, wörtlich „ich sage, dass“: „ich überlege, ob ich …“, „ich denke, ich
+  werde …“ (umg.). Ein Plan, laut gedacht und noch nicht fest. [Λέω να μείνω σπίτι
+  απόψε.]{lang="el"} „Ich glaub, ich bleib heute Abend zu Hause.“
+- **[Θα δούμε.]{lang="el"}** „Mal sehen.“ Ehrlich offen oder ein höfliches Nein; das entscheidet
+  der Ton. Wer auf eine Einladung nur [Θα δούμε]{lang="el"} sagt, kommt eher nicht.
+- **[Θα σε πάρω (τηλέφωνο).]{lang="el"}** „Ich ruf dich an.“ Das [τηλέφωνο]{lang="el"} fällt oft
+  weg.
+- **[Τα λέμε.]{lang="el"}**, wörtlich „wir sagen sie“: „Bis dann, wir hören uns.“ Präsens mit
+  Zukunftsbedeutung, der häufigste Abschiedsgruß unter Bekannten. Mit Zeitangabe:
+  [Τα λέμε αύριο.]{lang="el"}
+- **[Να ’σαι καλά.]{lang="el"}**, zu mehreren oder höflich [Να ’στε καλά]{lang="el"}, wörtlich
+  „mögest du gesund sein“: danke, im Sinne von „das ist lieb von dir“. Wer einen Gefallen bekommt,
+  sagt oft das statt [ευχαριστώ]{lang="el"}. Hier sind es mehrere Freunde, die den Platz
+  freihalten, also die Pluralform.
+- **[Καλό ταξίδι!]{lang="el"}** „Gute Reise!“ Dazu passt auch [Καλή αντάμωση]{lang="el"}, „auf
+  ein gutes Wiedersehen“, etwas altmodisch und herzlich.
+
+[Να ’σαι καλά]{lang="el"} zeigt noch etwas: Ein να-Satz kann ganz ohne Hauptverb stehen. Dann ist
+er ein **Wunsch** ([Να ’σαι καλά.]{lang="el"}), eine **Überlegung**, „soll ich?“ ([Τι να
+κάνω;]{lang="el"} aus Kapitel 4, [Να ρωτήσω;]{lang="el"} „Soll ich fragen?“) oder eine
+**Aufforderung** ([Να μου γράψεις!]{lang="el"} „Schreib mir ja!“).
+
+::: {.callout-tip}
+## Tipp
+
+Wer eine Einladung annehmen, aber nichts versprechen will, hat mit [Θα δούμε]{lang="el"} und
+[λέω να]{lang="el"} zwei Formeln, die im Griechischen völlig normal sind. Umgekehrt gilt: Ein
+[Θα ’ρθω]{lang="el"} von einem griechischen Freund ist ein echtes Versprechen, ein
+[Λέω να ’ρθω]{lang="el"} eine Absicht mit Hintertür.
+:::
+
+### Verschluckt und verkürzt {#sec-thana-hoerbild}
+
+In Kapitel 3 hast du den verschluckten Anfangsvokal nach [το, τα, μου, σου]{lang="el"} kennengelernt:
+[το ’πα, μου ’πε]{lang="el"}. Nach [θα]{lang="el"} und [να]{lang="el"} passiert dasselbe, und
+diese beiden Wörter stehen vor fast jedem zweiten Verb:
+
+| geschrieben | gesprochen | Deutsch |
+|---|---|---|
+| [θα έρθω]{lang="el"} | [θα ’ρθω]{lang="el"} [θa ˈrθo] | ich komme |
+| [να έρθεις]{lang="el"} | [να ’ρθεις]{lang="el"} [na ˈrθis] | dass du kommst |
+| [θα είμαι]{lang="el"} | [θα ’μαι]{lang="el"} [θa ˈme] | ich werde sein |
+| [να είσαι καλά]{lang="el"} | [να ’σαι καλά]{lang="el"} [na ˈse kaˈla] | danke; mach's gut |
+| [θα έχω]{lang="el"} | [θα ’χω]{lang="el"} [θa ˈxo] | ich werde haben |
+| [να έχεις]{lang="el"} | [να ’χεις]{lang="el"} [na ˈçis] | dass du hast |
+
+Wo [ˈme], [ˈse] oder [ˈxo] allein zu stehen scheinen, steckt oft [είμαι, είσαι, έχω]{lang="el"}
+dahinter. Manchmal fällt statt des Verbanfangs das [α]{lang="el"} des kleinen Wortes:
+[θ’ ανέβω]{lang="el"} [θaˈnevo], [ν’ ακούσεις]{lang="el"} [naˈkusis]. In beiden Fällen verschmelzen
+zwei Wörter zu einem Klang, und du musst beim Hören wissen, wo die Grenze war.
+
+Das zweite Hörproblem ist die Kürze der Gruppe 1: [θα δω, θα πω, να βγω]{lang="el"} sind einsilbig
+und im schnellen Gespräch fast nur ein Konsonant mit [o]. Achte auf die Endung: [ˈðume],
+[ˈpite], [vʝis] sind länger und leichter zu fassen als die ich-Form.
+
+<!-- EXERCISE: Übung 5.6 „Was das Telefon verschluckt“ – Lernziel: verkürzte θα-/να-Formen beim Hören auflösen und die Diskursmarker für Pläne ihrer Funktion zuordnen; Art: Teil A Hörbild entschlüsseln (6 Sätze in Schnellsprech-Schreibung wie Θα ’ρθω σε λίγο., Να ’σαι καλά., Θα ’μαι στο λιμάνι στις επτά., Θ’ ανέβω μετά., Να ’χεις καλό ταξίδι., Δε θα ’χω χρόνο.: Vollform sagen, Verb im Präsens nennen, übersetzen); Teil B Zuordnen: Άκου, Να σου πω, λέω να, Θα δούμε, Τα λέμε, Να ’στε καλά → Funktion (a–f: kündigt Wichtiges an, leitet Entschluss/Korrektur ein, noch unfester Plan, offen/höfliches Nein, Abschied, Dank); Antwort im Chat als Buchstaben; Schwierigkeit 2 -->
+
+<!-- EXERCISE: Übung 5.7 „Hör-Auftrag“ – Lernziel: Futur in beiden Aspekten und να-Sätze beim Hören erkennen; Art: Schritt 1 den Telefondialog aus @sec-thana-hoerspur zweimal mit ▶ hören ohne mitzulesen, die θα- und να-Formen zählen (Lösung: 11, nach Foto/Film/keine Wahl sortiert, inkl. δε θα ’ρθεις, θα κρατάμε als Film, θα δούμε, να ’στε); Schritt 2 auf https://www.youtube.com/@EasyGreekVideos ein Straßeninterview über Pläne oder Sommer suchen (Suchwörter καλοκαίρι, σχέδια, διακοπές; typische Frage «Τι θα κάνεις το καλοκαίρι;»), drei Minuten ohne Untertitel, Strichliste für θα + Verb und für θέλω να/πρέπει να/μπορώ να, drei Formen merken und als Foto oder Film einordnen, dann mit griechischen Untertiteln prüfen; Auswertung ohne feste Zahlen wie Übung 3.7 (häufigste Fehlalarme: θα mit Präsens überhört, να vor Vokal verschluckt); Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Άκου, …]{lang="el"} | [ˈaku] | Hör mal, … (kündigt Wichtiges an) |
+| [Να σου πω]{lang="el"} | [na su ˈpo] | weißt du was; ehrlich gesagt (umg.) |
+| [λέω να]{lang="el"} | [ˈleo na] | ich überlege zu, ich denke, ich werde (umg.) |
+| [Θα δούμε.]{lang="el"} | [θa ˈðume] | Mal sehen. |
+| [Θα σε πάρω (τηλέφωνο).]{lang="el"} | [θa se ˈparo tiˈlefono] | Ich ruf dich an. |
+| [Τα λέμε.]{lang="el"} | [ta ˈleme] | Bis dann, wir hören uns. |
+| [Να ’σαι καλά. Να ’στε καλά.]{lang="el"} | [na ˈse kaˈla], [na ˈste kaˈla] | Danke (, das ist lieb). Alles Gute. |
+| [Καλό ταξίδι!]{lang="el"} | [kaˈlo taˈksiði] | Gute Reise! |
+| [το ταξίδι]{lang="el"} | [to taˈksiði] | die Reise |
+| [το αεροπλάνο]{lang="el"} | [to aeroˈplano] | das Flugzeug |
+| [η πτήση]{lang="el"} | [i ˈptisi] | der Flug |
+| [κοστίζω, κόστισα]{lang="el"} | [kosˈtizo], [ˈkostisa] | kosten |
+| [κανονίζω, κανόνισα]{lang="el"} | [kanoˈnizo], [kaˈnonisa] | regeln, ausmachen, organisieren |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [ακόμα]{lang="el"} | noch |
+| [το γραφείο]{lang="el"} | das Büro |
+| [η Παρασκευή, το Σάββατο]{lang="el"} | der Freitag, der Samstag (Kapitel 11) |
+| [η ΠΝΟ]{lang="el"} | Dachverband der griechischen Seeleutegewerkschaften |
+| [δεμένος, -η, -ο]{lang="el"} | festgebunden, festgemacht |
+| [η περιουσία]{lang="el"} | das Vermögen |
+| [το πανηγύρι]{lang="el"} | das Dorffest (Kapitel 4) |
+| [το αεροδρόμιο]{lang="el"} | der Flughafen |
+| [εντάξει]{lang="el"} | in Ordnung, okay |
+| [αν τελικά δεν έρθεις]{lang="el"} | falls du am Ende nicht kommst (Kapitel 17) |
+| [το τραπέζι]{lang="el"} | der Tisch |
+| [όπως κι αν]{lang="el"} | wie auch immer |
+| [Καλή αντάμωση!]{lang="el"} | Auf ein gutes Wiedersehen! |
+:::
+
+## Das Wichtigste {#sec-thana-wichtigste}
+
+- Der **perfektive Stamm** hat drei Einsätze: Aorist ([έγραψα]{lang="el"}), Futur
+  ([θα γράψω]{lang="el"}) und να-Form ([να γράψω]{lang="el"}). Die Form nach [θα]{lang="el"} und
+  [να]{lang="el"} ist dieselbe; Grammatiken nennen die να-Form **Konjunktiv**.
+- **Bildung:** perfektiver Stamm ohne Augment + Präsensendungen wie [μένω]{lang="el"}; Betonung auf
+  der letzten Stammsilbe: [διαβάσω, ανοίξω, μιλήσω]{lang="el"}. Die imperfektive Seite sind einfach
+  Präsensformen: [θα γράφω, να γράφω]{lang="el"}.
+- **Unregelmäßige:** Der Anfang gehört zur Vergangenheit. Kern mit μπορώ-Endungen
+  [δω, πω, βρω, βγω, μπω, πιω]{lang="el"}; [φάω, πάω, κάνω]{lang="el"}; sonst Aorist ohne Augment
+  ([φύγω, μάθω, ανέβω]{lang="el"}); Einzelgänger [έρθω]{lang="el"} (umg. [’ρθω]{lang="el"}),
+  [πάρω]{lang="el"}.
+- **Futur in zwei Aspekten:** Foto für das Einmalige, als Ganzes ([θα σου γράψω απόψε]{lang="el"}),
+  der Normalfall; Film für Wiederholung, Gewohnheit, gerade im Gang
+  ([θα σου γράφω κάθε μέρα]{lang="el"}). Verneint [δε θα]{lang="el"}.
+- **Kein Infinitiv:** [θέλω να πάω, μπορώ να πάω, πρέπει να πάω, πάω να φάω]{lang="el"}. Die Person
+  steht nach [να]{lang="el"}; [πρέπει]{lang="el"} ändert sich nie. Nach [αρχίζω, σταματάω]{lang="el"}
+  und bei Fähigkeiten Film. Verneint [να μη(ν)]{lang="el"}.
+- **Am Telefon:** [Άκου, Να σου πω, λέω να, Θα δούμε, Θα σε πάρω, Τα λέμε, Να ’σαι
+  καλά]{lang="el"}; beim Hören [θα ’ρθω, να ’σαι, θα ’χω]{lang="el"}.
+
+| Präsens | Aorist | Futur, να-Form |
+|---|---|---|
+| [γράφω]{lang="el"} | [έγραψα]{lang="el"} | [γράψω]{lang="el"} |
+| [διαβάζω]{lang="el"} | [διάβασα]{lang="el"} | [διαβάσω]{lang="el"} |
+| [μιλάω]{lang="el"} | [μίλησα]{lang="el"} | [μιλήσω]{lang="el"} |
+| [βλέπω]{lang="el"} | [είδα]{lang="el"} | [δω]{lang="el"} |
+| [λέω]{lang="el"} | [είπα]{lang="el"} | [πω]{lang="el"} |
+| [βρίσκω]{lang="el"} | [βρήκα]{lang="el"} | [βρω]{lang="el"} |
+| [βγαίνω]{lang="el"} | [βγήκα]{lang="el"} | [βγω]{lang="el"} |
+| [μπαίνω]{lang="el"} | [μπήκα]{lang="el"} | [μπω]{lang="el"} |
+| [πίνω]{lang="el"} | [ήπια]{lang="el"} | [πιω]{lang="el"} |
+| [τρώω]{lang="el"} | [έφαγα]{lang="el"} | [φάω]{lang="el"} |
+| [πάω / πηγαίνω]{lang="el"} | [πήγα]{lang="el"} | [πάω]{lang="el"} |
+| [κάνω]{lang="el"} | [έκανα]{lang="el"} | [κάνω]{lang="el"} |
+| [έρχομαι]{lang="el"} | [ήρθα]{lang="el"} | [έρθω]{lang="el"} |
+| [παίρνω]{lang="el"} | [πήρα]{lang="el"} | [πάρω]{lang="el"} |
+| [φεύγω]{lang="el"} | [έφυγα]{lang="el"} | [φύγω]{lang="el"} |
+| [μαθαίνω]{lang="el"} | [έμαθα]{lang="el"} | [μάθω]{lang="el"} |
+| [δίνω]{lang="el"} | [έδωσα]{lang="el"} | [δώσω]{lang="el"} |
+| [μένω]{lang="el"} | [έμεινα]{lang="el"} | [μείνω]{lang="el"} |
+| [ανεβαίνω]{lang="el"} | [ανέβηκα]{lang="el"} | [ανέβω]{lang="el"} |
+| [κατεβαίνω]{lang="el"} | [κατέβηκα]{lang="el"} | [κατέβω]{lang="el"} |
+| [πεθαίνω]{lang="el"} | [πέθανα]{lang="el"} | [πεθάνω]{lang="el"} |
+| [μπορώ]{lang="el"} | [μπόρεσα]{lang="el"} | [μπορέσω]{lang="el"} |
+| [είμαι, έχω, ξέρω]{lang="el"} | – | [είμαι, έχω, ξέρω]{lang="el"} |
+
+## Zum Lesen: Wie man im August auf die Inseln kommt {#sec-thana-lesetext}
+
+Ein Ratgeber, wie er jeden Sommer in griechischen Zeitungen und Reiseblogs steht, hier für
+Leser, die zum ersten Mal auf die Kykladen fahren. Lies den Text einmal ganz, ohne nachzuschlagen,
+dann mit Wortschatz, dann mit ▶.
+
+::: {lang="el"}
+**Πώς να πας στα νησιά τον Αύγουστο (και να μη χάσεις τα νεύρα σου)**
+
+Θέλεις να περάσεις δέκα μέρες σε ένα νησί των Κυκλάδων; Ωραία ιδέα. Πριν κλείσεις εισιτήρια,
+όμως, πρέπει να μάθεις δύο λέξεις: «μελτέμι» και «απεργία».
+
+Το μελτέμι είναι ο βοριάς του ελληνικού καλοκαιριού. Φυσάει από τον Μάιο μέχρι τον Σεπτέμβριο,
+πιο δυνατά τον Ιούλιο και τον Αύγουστο. Οι αρχαίοι Έλληνες τον έλεγαν «ετησία», τον άνεμο που
+έρχεται κάθε χρόνο. Όταν φυσάει μελτέμι, ο ουρανός είναι καθαρός και η θάλασσα είναι γεμάτη
+«προβατάκια», μικρά άσπρα κύματα. Συνήθως δυναμώνει το μεσημέρι και πέφτει λίγο τη νύχτα. Μπορεί
+να κρατήσει μία μέρα, μπορεί και μια ολόκληρη εβδομάδα.
+
+Όταν ο αέρας φτάνει τα οχτώ μποφόρ, το Λιμενικό βγάζει «απαγορευτικό απόπλου»: τα πλοία δεν
+μπορούν να φύγουν από το λιμάνι. Τα μικρά ταχύπλοα σταματάνε ακόμα και πιο νωρίς. Κανείς δεν
+μπορεί να σου πει από πριν πότε θα γίνει αυτό. Γι’ αυτό πρέπει να κοιτάς την πρόγνωση του καιρού
+κάθε μέρα. Και ένα πρακτικό μυστικό: μην κλείσεις την πτήση για το σπίτι την ίδια μέρα με το
+πλοίο της επιστροφής. Καλύτερα να γυρίσεις στην Αθήνα μία ή δύο μέρες νωρίτερα.
+
+Η δεύτερη λέξη είναι η απεργία. Οι ναυτικοί κάνουν απεργία μερικές φορές τον χρόνο, συνήθως για
+μία ή δύο μέρες. Τότε τα πλοία μένουν «δεμένα» στα λιμάνια. Την Πρωτομαγιά, για παράδειγμα, τα
+πλοία συνήθως δεν πάνε πουθενά. Το καλό είναι ότι η απεργία δεν έρχεται ξαφνικά σαν το μελτέμι:
+η ΠΝΟ την ανακοινώνει μερικές μέρες πριν. Αν έχεις εισιτήριο για μια μέρα απεργίας, μπορείς να
+το αλλάξεις ή να πάρεις πίσω τα λεφτά σου.
+
+Και αν τελικά το πλοίο δε φύγει; Τότε θα κάνεις ό,τι κάνουν και οι Έλληνες. Θα κάτσεις στο
+καφενείο του λιμανιού, θα πιεις έναν καφέ και θα πεις στον διπλανό σου ότι φταίει το μελτέμι.
+Αυτός θα σου πει ότι φταίει η κυβέρνηση. Θα συζητήσετε δύο ώρες, και στο τέλος θα έχετε και οι δύο
+λίγο δίκιο.
+
+Καλό ταξίδι!
+:::
+
+Drei Muster helfen beim Lesen:
+
+- **[Πώς να…]{lang="el"}** „wie man …“: Auch in Fragen und Überschriften ersetzt die να-Form den
+  Infinitiv. Die du-Form ist hier allgemein gemeint, wie englisch *you* für „man“.
+- **[Πριν κλείσεις]{lang="el"}** „bevor du buchst“: Nach [πριν]{lang="el"} steht die perfektive
+  Form, auch ohne [να]{lang="el"} (Kapitel 16).
+- **[Καλύτερα να…]{lang="el"}** „besser, du …“: ein Rat, höflicher als ein Befehl. Ebenso
+  [να κοιτάς]{lang="el"} nach [πρέπει]{lang="el"}: Film, weil es jeden Tag gemeint ist.
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [τα νεύρα]{lang="el"} | die Nerven; [χάνω τα νεύρα μου]{lang="el"} die Nerven verlieren |
+| [περνάω]{lang="el"} | hier: (Zeit) verbringen (Kapitel 2) |
+| [οι Κυκλάδες, των Κυκλάδων]{lang="el"} | die Kykladen (Genitiv, Kapitel 7) |
+| [πριν]{lang="el"} | bevor |
+| [ο βοριάς]{lang="el"} | der Nordwind |
+| [ελληνικός, -ή, -ό]{lang="el"} | griechisch |
+| [ο Μάιος, ο Σεπτέμβριος]{lang="el"} | Mai, September (Kapitel 11) |
+| [δυνατά]{lang="el"} | stark, kräftig; laut; [πιο δυνατά]{lang="el"} stärker (Kapitel 12) |
+| [αρχαίος, -α, -ο]{lang="el"} | antik; [οι αρχαίοι]{lang="el"} die Alten, die antiken Griechen |
+| [ο άνεμος]{lang="el"} | der Wind (etwas gehobener als [ο αέρας]{lang="el"}) |
+| [ο ουρανός]{lang="el"} | der Himmel |
+| [καθαρός, -ή, -ό]{lang="el"} | sauber; klar |
+| [τα προβατάκια]{lang="el"} | Schäfchen; hier: Schaumkronen auf den Wellen |
+| [το κύμα, τα κύματα]{lang="el"} | die Welle |
+| [δυναμώνω]{lang="el"} | stärker werden |
+| [πέφτω]{lang="el"} | fallen; hier: (Wind) nachlassen |
+| [μπορεί να κρατήσει]{lang="el"} | er kann (manchmal) … dauern (Kapitel 22) |
+| [ολόκληρος, -η, -ο]{lang="el"} | ganz |
+| [το Λιμενικό]{lang="el"} | die Küstenwache, Hafenbehörde (umg. Kurzform) |
+| [βγάζω]{lang="el"} | herausbringen; hier: erlassen (Kapitel 3) |
+| [το απαγορευτικό απόπλου]{lang="el"} | das Auslaufverbot |
+| [το ταχύπλοο]{lang="el"} | das Schnellboot |
+| [ακόμα και]{lang="el"} | sogar |
+| [από πριν]{lang="el"} | vorher, im Voraus |
+| [γίνομαι, έγινα]{lang="el"} | geschehen, werden (Kapitel 10) |
+| [κοιτάζω/κοιτάω]{lang="el"} | anschauen, nachsehen |
+| [η πρόγνωση του καιρού]{lang="el"} | die Wettervorhersage |
+| [το μυστικό]{lang="el"} | das Geheimnis |
+| [η επιστροφή]{lang="el"} | die Rückkehr, Rückfahrt |
+| [νωρίτερα]{lang="el"} | früher |
+| [ο ναυτικός]{lang="el"} | der Seemann |
+| [μερικές φορές]{lang="el"} | ein paar Mal; manchmal |
+| [η Πρωτομαγιά]{lang="el"} | der Erste Mai |
+| [για παράδειγμα]{lang="el"} | zum Beispiel |
+| [πουθενά]{lang="el"} | nirgendwohin (mit [δεν]{lang="el"}) |
+| [ανακοινώνω]{lang="el"} | bekanntgeben |
+| [παίρνω πίσω]{lang="el"} | zurückbekommen |
+| [ό,τι]{lang="el"} | was (auch immer), alles, was (Kapitel 15) |
+| [ο διπλανός]{lang="el"} | der Nachbar (am Nebentisch) |
+| [η κυβέρνηση]{lang="el"} | die Regierung |
+| [συζητάω, συζήτησα]{lang="el"} | diskutieren, sich unterhalten |
+| [έχω δίκιο]{lang="el"} | recht haben |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Wie man im August auf die Inseln kommt (ohne die Nerven zu verlieren)**
+
+Du willst zehn Tage auf einer Kykladeninsel verbringen? Gute Idee. Bevor du Fahrkarten buchst,
+solltest du aber zwei Wörter lernen: „Meltemi“ und „Streik“.
+
+Der Meltemi ist der Nordwind des griechischen Sommers. Er weht von Mai bis September, am
+stärksten im Juli und August. Die alten Griechen nannten ihn den „jährlichen“, den Wind, der
+jedes Jahr kommt. Wenn Meltemi weht, ist der Himmel klar und das Meer voller „Schäfchen“, kleiner
+weißer Wellen. Meist frischt er mittags auf und lässt nachts etwas nach. Er kann einen Tag dauern,
+er kann auch eine ganze Woche dauern.
+
+Wenn der Wind acht Beaufort erreicht, erlässt die Küstenwache ein „Auslaufverbot“: Die Schiffe
+dürfen den Hafen nicht verlassen. Die kleinen Schnellboote bleiben sogar schon früher liegen.
+Niemand kann dir vorher sagen, wann das passiert. Deshalb musst du jeden Tag die Wettervorhersage
+anschauen. Und ein praktisches Geheimnis: Buch den Heimflug nicht für denselben Tag wie das Schiff
+zurück. Fahr lieber ein, zwei Tage früher nach Athen zurück.
+
+Das zweite Wort ist der Streik. Die Seeleute streiken ein paar Mal im Jahr, meist für einen oder
+zwei Tage. Dann bleiben die Schiffe in den Häfen „festgemacht“. Am Ersten Mai zum Beispiel fahren
+die Schiffe meistens nirgendwohin. Das Gute ist, dass ein Streik nicht plötzlich kommt wie der
+Meltemi: Die Seeleutegewerkschaft kündigt ihn ein paar Tage vorher an. Wenn du eine Fahrkarte für
+einen Streiktag hast, kannst du sie umbuchen oder dein Geld zurückbekommen.
+
+Und wenn das Schiff am Ende doch nicht fährt? Dann machst du, was die Griechen auch machen. Du
+setzt dich ins Kafenion am Hafen, trinkst einen Kaffee und erzählst deinem Tischnachbarn, dass der
+Meltemi schuld ist. Er wird dir sagen, dass die Regierung schuld ist. Ihr werdet zwei Stunden
+diskutieren, und am Ende habt ihr beide ein bisschen recht.
+
+Gute Reise!
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Der Text vereinfacht an drei Stellen, die sich zudem ändern können.
+
+- **Auslaufverbot:** Die Grenze von acht Beaufort ist die übliche Faustregel für große Fähren;
+  für kleinere Schiffe und Schnellboote gelten niedrigere Werte, und die Hafenbehörde entscheidet
+  im Einzelfall.
+- **Streiks:** Wie oft und wie lange die Seeleute streiken, schwankt von Jahr zu Jahr. Dass am
+  Ersten Mai die Fähren stehen, ist häufig, aber nicht jedes Jahr so.
+- **Umbuchen und Erstattung:** Bei Absagen haben Fahrgäste nach den EU-Regeln für den
+  Seeverkehr Anspruch auf eine andere Verbindung oder ihr Geld zurück; die Einzelheiten stehen in
+  den Bedingungen der Reederei.
+
+Vor einer Reise lohnt ein Blick auf die Seite der Reederei und in die griechischen Nachrichten
+unter dem Stichwort [απεργία ΠΝΟ]{lang="el"}.
+<!-- CHECK: Faustregel 8 Beaufort für απαγορευτικό απόπλου (niedrigere Grenzen für kleinere Schiffe/Schnellboote); ΠΝΟ-Streik am 1. Mai üblich; Ankündigung einige Tage vorher; EU-VO 1177/2010 (Weiterreise oder Erstattung bei Annullierung); Meltemi-Tagesgang (mittags stärker, nachts schwächer), Saison Mai–September; „προβατάκια“ für Schaumkronen; ρεβιθάδα von Sifnos im Tontopf über Nacht -->
+:::
+
+<!-- EXERCISE: Übung 5.8 „Was der Text wirklich sagt“ – Lernziel: Lesetext verstehen und θα-/να-Formen samt Aspektwahl erkennen und begründen; Art: Teil A richtig/falsch (7 Aussagen, Fallen: Meltemi = Sturm mit Regen (falsch, klarer Himmel), stärker nachts (falsch), Schnellboote fahren länger als große Fähren (falsch), Streiks kommen ohne Vorwarnung (falsch), Heimflug am Rückfahrtstag ist sicher (falsch), bei Streik Geld zurück (richtig), Meltemi weht im Hochsommer am stärksten (richtig)); Teil B Formen jagen: alle θα- und να-Formen des letzten Absatzes (θα κάνεις, θα κάτσεις, θα πιεις, θα πεις, θα σου πει, θα συζητήσετε, θα έχετε) mit Aorist/Präsens nennen und Foto/Film/keine Wahl begründen, besonders θα συζητήσετε δύο ώρες (Foto trotz Dauer, wie Kapitel 2) und θα έχετε (keine Wahl); Teil C: warum να κοιτάς (Film) und μην κλείσεις (Foto)?; Schwierigkeit 2 -->
