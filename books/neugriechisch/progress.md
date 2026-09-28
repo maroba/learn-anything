@@ -30,7 +30,8 @@
 | 24 Was wäre, wenn: Irrealis und Wünsche | veröffentlicht | Welle 10; Audio vollständig |
 | 25 Er muss gegangen sein: Vermutungen über die Vergangenheit | veröffentlicht | Welle 11; Audio vollständig |
 | 26 Wortbildung I: Präfixe und Verkleinerungen | veröffentlicht | Welle 12; Audio vollständig |
-| 27 Wortbildung II: die Sprache der Wissenschaft | Übungen | Welle 13; Entwurf fertig |
+| 27 Wortbildung II: die Sprache der Wissenschaft | im Review | Welle 13; Übungen fertig |
+| 28 Nachrichtensprache | Entwurf | Welle 13 |
 | 29 Argumentieren | fertig | Welle 11; wartet auf 26–28 |
 | 30 Redewendungen | fertig | Welle 12; wartet auf 27–29 |
 | 32 Kreta und Zypern hören | Konsistenz | Welle 12; überarbeitet |

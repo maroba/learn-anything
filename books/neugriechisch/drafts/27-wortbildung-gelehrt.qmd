@@ -161,7 +161,64 @@ heißt das Ohr [το αυτί]{lang="el"}, die Nase [η μύτη]{lang="el"}, de
 Die alten Formen [ωτ-, ριν-, ιατρ-]{lang="el"} leben nur in den gelehrten Wörtern weiter: [η
 ιατρική]{lang="el"} ist die Medizin, [το ιατρείο]{lang="el"} die Arztpraxis.
 
-<!-- EXERCISE: Komposita zerlegen und von hinten lesen; zehn Wörter, mindestens sechs unbekannt (η γαστρεντερίτιδα, ο κτηνίατρος, το βαρόμετρο, η καρδιολογία, το στηθοσκόπιο, ο σεισμογράφος, ο αστροφυσικός, η χρονολογία aus 25, τα μαχαιροπίρουνα, η τηλεόραση); Bausteine mit Bedeutung darunter (γαστήρ Magen, έντερο Darm, κτήνος Vieh, βάρος Gewicht, καρδιά, στήθος); Teile trennen, Bindevokal zeigen, Bedeutung aus nummerierter Liste zuordnen, Antwort „a3, b7 …“; Lösung mit Zerlegung, Regel „der hintere Teil entscheidet“, typischer Fehler: von vorn lesen; Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 27.1: Von hinten lesen
+
+Zerleg jedes Wort (wo steht der Bindevokal, wo fehlt er?) und ordne eine Bedeutung zu. Im Chat:
+„a7, b3, …“.
+
+::: {lang="el" .no-audio}
+a. η γαστρεντερίτιδα
+b. ο κτηνίατρος
+c. το βαρόμετρο
+d. η καρδιολογία
+e. το στηθοσκόπιο
+f. ο σεισμογράφος
+g. ο αστροφυσικός
+h. η χρονολογία
+i. τα μαχαιροπίρουνα
+j. η τηλεόραση
+:::
+
+**Bausteine:** [γαστρ-]{lang="el"} Magen · [το έντερο]{lang="el"} Darm · [το κτήνος]{lang="el"}
+Vieh · [το βάρος]{lang="el"} Gewicht · [η καρδιά]{lang="el"} Herz · [το στήθος]{lang="el"} Brust ·
+[το άστρο]{lang="el"} Stern · [η όραση]{lang="el"} das Sehen
+
+**Bedeutungen:** 1 Besteck · 2 Magen-Darm-Arzt · 3 Tierarzt · 4 Gerät, das Erdbeben aufzeichnet ·
+5 Herzheilkunde · 6 Luftdruckmesser · 7 Magen-Darm-Entzündung · 8 Astrophysik · 9 Fernsehen ·
+10 Datum · 11 Astrophysiker · 12 Gerät zum Abhören der Brust · 13 Erdbebenforscher
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Fang hinten an: Krankheit, Arzt, Gerät oder Fach? Die Endungen stehen in der Tabelle oben.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[-γράφος]{lang="el"} kann auch ein Gerät sein, und [-ικός]{lang="el"} ist bei Fächern die Person.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**a7, b3, c6, d5, e12, f4, g11, h10, i1, j9.**
+
+- a) [γαστρ-εντερ-ίτιδα]{lang="el"}: zweimal kein [-ο-]{lang="el"}, weil ein Vokal folgt.
+- b) [κτην-ίατρος]{lang="el"}: „Vieh-Arzt“.
+- c) [βαρ-ό-μετρο]{lang="el"}: „Gewichtsmesser“; gewogen wird die Luft.
+- d) [καρδι-ο-λογία]{lang="el"}; der Arzt ist [ο καρδιολόγος]{lang="el"}.
+- e) [στηθ-ο-σκόπιο]{lang="el"}: „Brust-Schauer“, obwohl man damit hört.
+- f) [σεισμ-ο-γράφος]{lang="el"}: das Gerät; der Forscher (13) ist [ο σεισμολόγος]{lang="el"}.
+- g) [αστρ-ο-φυσικός]{lang="el"}: die Person; das Fach (8) ist [η αστροφυσική]{lang="el"}.
+- h) [χρον-ο-λογία]{lang="el"}: im Alltag das Datum (Kapitel 25).
+- i) [μαχαιρ-ο-πίρουνα]{lang="el"}; j) [τηλε-όραση]{lang="el"} ohne [-ο-]{lang="el"}.
+
+**Typischer Fehler:** von vorn lesen; wer bei a „Magen“ hört, landet bei 2. Der hintere Teil
+entscheidet.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -247,7 +304,75 @@ Faustregel: Nicht jedes Verb hat so ein Nomen, und aus [έγραψα]{lang="el"}
 im Radio der Verkehr. [Έχει πολλή κίνηση στον Κηφισό.]{lang="el"} heißt „Auf dem Kifisos ist viel
 Verkehr“, und gemeint ist die Stadtautobahn, nicht der Fluss.
 
-<!-- EXERCISE: internationale Wörter griechisch betonen und ση-Nomen bilden; Teil A: zwölf Wörter ohne Akzent als .no-audio-Liste laut betonen (θερμομετρο, χιλιομετρο, ατομο, ενεργεια, μεθοδος, υποθεση, φυσικη, μαθηματικα, ψυχολογος, ψυχολογια, μικροσκοπιο, αρθριτιδα), Antwort im Chat als betonte Silbe von hinten gezählt („1: 3, 2: 3 …“); Teil B: aus Aoristen das Nomen bilden und umgekehrt (εξέτασα → εξέταση, σύγκρινα → σύγκριση, πρόβλεψα → πρόβλεψη, εξήγησα → εξήγηση; η λύση → έλυσα) und den Plural mit wandernder Betonung laut sagen; Lösung mit IPA, nicht an ▶ gebunden, typische Fehler nach deutschem Klang; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 27.2: Wo sitzt der Akzent?
+
+**Teil A.** Die Akzente fehlen. Sag jedes Wort laut und zähl die betonte Silbe von hinten
+(letzte = 1). Im Chat: „1: 3, 2: …“.
+
+::: {lang="el" .no-audio}
+1. θερμομετρο
+2. χιλιομετρο
+3. ατομο
+4. ενεργεια
+5. μεθοδος
+6. υποθεση
+7. φυσικη
+8. μαθηματικα
+9. ψυχολογος
+10. ψυχολογια
+11. μικροσκοπιο
+12. αρθριτιδα
+:::
+
+**Teil B.** Bilde aus dem Aorist das Nomen und den Plural, laut:
+[εξέτασα]{lang="el"} (untersuchen), [σύγκρινα]{lang="el"} (vergleichen),
+[πρόβλεψα]{lang="el"} (vorhersagen), [εξήγησα]{lang="el"} (erklären). Umgekehrt: Welcher Aorist
+steckt in [η λύση]{lang="el"}?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Acht Endungen stehen in der Tabelle; bei den übrigen vier misstrau dem deutschen Klang.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[γεια]{lang="el"} ist eine Silbe, [ʝia]. Im Plural rückt die Betonung auf die vorletzte Silbe
+wie bei [αναλύσεις]{lang="el"}. Ein Aorist hat kein [σ]{lang="el"}, sein Nomen trotzdem.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1: 3, 2: 3, 3: 3, 4: 2, 5: 3, 6: 3, 7: 1, 8: 1, 9: 2, 10: 2, 11: 3, 12: 3.**
+
+- [θερμόμετρο]{lang="el"} [θerˈmometro], [χιλιόμετρο]{lang="el"} [çiˈʎometro], [άτομο]{lang="el"}
+  [ˈatomo], [μέθοδος]{lang="el"} [ˈmeθoðos], [υπόθεση]{lang="el"} [iˈpoθesi]: weiter vorn als im
+  Deutschen.
+- [ενέργεια]{lang="el"} [eˈnerʝia]: Wer Buchstaben zählt, sagt 3; auch gut, nur nicht
+  *Ener**gie***.
+- [φυσική]{lang="el"} [fisiˈci], [μαθηματικά]{lang="el"} [maθimatiˈka]: weiter hinten.
+- [ψυχολόγος]{lang="el"} [psixoˈloɣos], [ψυχολογία]{lang="el"} [psixoloˈʝia],
+  [μικροσκόπιο]{lang="el"} [mikroˈskopio], [αρθρίτιδα]{lang="el"} [arˈθritiða]: wie im Deutschen.
+
+**Teil B:**
+
+| Nomen | Plural |
+|---|---|
+| [η εξέταση]{lang="el"} [eˈksetasi] | [οι εξετάσεις]{lang="el"} [ekseˈtasis] |
+| [η σύγκριση]{lang="el"} [ˈsiŋgrisi] | [οι συγκρίσεις]{lang="el"} [siŋˈgrisis] |
+| [η πρόβλεψη]{lang="el"} [ˈprovlepsi] | [οι προβλέψεις]{lang="el"} [proˈvlepsis] |
+| [η εξήγηση]{lang="el"} [eˈksiʝisi] | [οι εξηγήσεις]{lang="el"} [eksiˈʝisis] |
+
+[η λύση]{lang="el"} → [έλυσα]{lang="el"}. Ausnahme [σύγκρινα]{lang="el"}: kein [σ]{lang="el"},
+trotzdem [σύγκριση]{lang="el"}, wie [κρίνω – η κρίση]{lang="el"}. **Typischer Fehler:** den
+Plural wie den Singular betonen.
+:::
+
+<!-- CHECK: Übung 27.2: Silbenzählung bei ενέργεια (gesprochen 3 Silben, Antwort 2; Buchstabenzählung 3 als ebenfalls akzeptiert); IPA [ˈsiŋgrisi]/[siŋˈgrisis] und [eˈksiʝisi]; εξέτασα als Aorist von εξετάζω ohne inneres Augment -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -315,7 +440,65 @@ der Rest bei gelehrten Wörtern öfter unbekannt, und die Bedeutung hat sich wei
 υπόθεση]{lang="el"} ist wörtlich eine „Unter-Stellung“, lateinisch [*suppositio*]{lang="la"}; was sie im Alltag
 heißt, steht in @sec-gelehrt-falsche-freunde.
 
-<!-- EXERCISE: gelehrte Vorsilben abtrennen und Bedeutung erschließen; acht Sätze mit je einem hervorgehobenen Wort (αντίθετος, ανώνυμος, η εξαγωγή, η περιφέρεια, προϊστορικός, το υπερηχογράφημα „Ultraschallbild“, η υπόγεια διάβαση, η αντίδραση), Grundwörter angegeben; Bedeutung aus nummerierter Liste wählen und Vorsilbe benennen, Antwort „a3, b7 …“; Lösung mit Zerlegung und lateinischer/deutscher Parallele, wo sie hilft; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 27.3: Vorsilbe ab, Rest erkennen
+
+Trenn die Vorsilbe ab, sag, was sie heißt, und wähl die Bedeutung. Im Chat: „a8, b5, …“.
+
+::: {lang="el" .no-audio}
+a. Σε αυτό το θέμα έχουμε **αντίθετες** απόψεις.
+b. Στο γραφείο ήρθε ένα **ανώνυμο** γράμμα.
+c. Οι **εξαγωγές** λαδιού αυξήθηκαν πέρσι.
+d. Η **περιφέρεια** του κύκλου είναι 2πρ.
+e. Στο μουσείο είδαμε **προϊστορικά** εργαλεία.
+f. Η γιατρός μού έδειξε το **υπερηχογράφημα**.
+g. Περάστε από την **υπόγεια διάβαση**.
+h. Στον τρίτο νόμο του Νεύτωνα κάθε δράση έχει μια **αντίδραση**.
+:::
+
+**Grundwörter:** [θέτω]{lang="el"} setzen · [το όνομα]{lang="el"} · [άγω]{lang="grc"} (alt)
+führen · [φέρνω]{lang="el"} tragen · [ο ήχος]{lang="el"} Schall · [το γράφημα]{lang="el"}
+Aufzeichnung · [η γη]{lang="el"} Erde · [η διάβαση]{lang="el"} Übergang · [η δράση]{lang="el"}
+Wirkung. **Neu:** [η άποψη]{lang="el"} Ansicht, [το εργαλείο]{lang="el"} Werkzeug.
+
+**Bedeutungen:** 1 Reaktion · 2 Umfang · 3 Durchmesser · 4 Ausfuhr · 5 namenlos · 6 Einfuhr ·
+7 Unterführung · 8 entgegengesetzt · 9 Ultraschallbild · 10 Überführung · 11 vorgeschichtlich
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Alle Vorsilben stehen in der Tabelle oben. In f und g steckt mehr als ein Baustein.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[αν-]{lang="el"} steht vor Vokal. Verwechsle nicht [υπο-]{lang="el"} „unter“ mit
+[υπερ-]{lang="el"} „über“.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**a8, b5, c4, d2, e11, f9, g7, h1.**
+
+- a) [αντί-θετος]{lang="el"} „entgegen-gesetzt“, lateinisch *op-positus*.
+- b) [αν-ώνυμος]{lang="el"} „ohne Namen“; im Kompositum lautet der Stamm [-ωνυμ-]{lang="el"},
+  wie in [συνώνυμο]{lang="el"}.
+- c) [εξ-αγωγή]{lang="el"} „Hinaus-Führen“, lateinisch *ex-portare*. Einfuhr (6) wäre [η
+  εισαγωγή]{lang="el"}.
+- d) [περι-φέρ-εια]{lang="el"} „Herum-Tragen“, lateinisch *circum-ferentia*; im Alltag auch die
+  Region. Durchmesser (3) wäre [η διάμετρος]{lang="el"}.
+- e) [προ-ϊστορικός]{lang="el"} [proiˈstorikos]: [προ-]{lang="el"} behält seinen Vokal.
+- f) [υπερ-ηχ-ο-γράφημα]{lang="el"} „Über-Schall-Aufzeichnung“; *ultra* ist das lateinische
+  [υπερ-]{lang="el"}.
+- g) [υπό-γεια]{lang="el"} „unter der Erde“ (*sub-terraneus*) + [δια-βαση]{lang="el"}
+  „Hinüber-Gang“. Wer bei [υπο-]{lang="el"} „über“ denkt, landet bei 10.
+- h) [αντί-δραση]{lang="el"} „Gegen-Wirkung“, lateinisch *re-actio*.
+:::
+
+<!-- CHECK: Übung 27.3: Satz h (Newton) idiomatisch? Üblich ist „σε κάθε δράση αντιστοιχεί μια ίση και αντίθετη αντίδραση“; Satz d mit „2πρ“ (griechische Schulnotation ρ für den Radius); ανώνυμος mit Stamm -ωνυμ- korrekt erklärt -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -377,7 +560,70 @@ heraus und such das Präsens: [απέφυγε → αποφεύγω]{lang="el"}, 
 die Verben aus den Vokabeltabellen.
 :::
 
-<!-- EXERCISE: inneres Augment; Teil A: sieben Aoriste aus Nachrichtensätzen zurückführen (z.B. απέφυγε, συνέβη, ενέκρινε ← εγκρίνω, εξέπληξε ← εκπλήσσω, διέκοψε ← διακόπτω, κατέλαβε, ανήγγειλε) und Präsens nennen, Auswahl aus Liste; Teil B: laut die ich- und wir-Form bilden (μεταφράζω, αντιγράφω, περιγράφω, υπογράφω, καταστρέφω) mit Betonung/Augment nur betont (μετέφρασα – μεταφράσαμε); Teil C: Falle mit Alltagsverben ohne inneres Augment (καταλαβαίνω, αποφασίζω, ανακαλύπτω); Lösung mit Zerlegung und typischem Fehler *μετεφράσαμε; Schwierigkeit 2–3 -->
+::: {.callout-note .exercise}
+## Übung 27.4: Das versteckte [ε]{lang="el"}
+
+**Teil A.** Welches Präsens gehört zum fetten Aorist? Im Chat: „a2, b8, …“.
+
+::: {lang="el" .no-audio}
+a. Ο οδηγός **απέφυγε** το ατύχημα την τελευταία στιγμή.
+b. Κανείς δεν ξέρει τι **συνέβη** εκείνο το βράδυ.
+c. Η Βουλή **ενέκρινε** τον νέο νόμο.
+d. Η απόφαση **εξέπληξε** πολλούς.
+e. Η ΔΕΗ **διέκοψε** το ρεύμα σε τρία χωριά.
+f. Οι φοιτητές **κατέλαβαν** το κτίριο της σχολής.
+g. Ο υπουργός **ανήγγειλε** νέα μέτρα.
+:::
+
+**Präsens:** 1 [αναγγέλλω]{lang="el"} ankündigen · 2 [αποφεύγω]{lang="el"} · 3
+[διακόπτω]{lang="el"} unterbrechen · 4 [εγκρίνω]{lang="el"} genehmigen · 5 [εκπλήσσω]{lang="el"}
+überraschen · 6 [καταλαβαίνω]{lang="el"} · 7 [καταλαμβάνω]{lang="el"} · 8
+[συμβαίνει]{lang="el"} · 9 [κόβω]{lang="el"}
+
+**Teil B.** Sag laut die ich- und die wir-Form des Aorists: [μεταφράζω, αντιγράφω, περιγράφω,
+υπογράφω, καταστρέφω]{lang="el"}, dann [καταλαβαίνω, αποφασίζω, ανακαλύπτω]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Nimm das betonte [έ]{lang="el"} oder [ή]{lang="el"} heraus und gib der Vorsilbe ihre Grundform:
+[εν- → εγ-]{lang="el"} vor [κ]{lang="el"}, [εξ- → εκ-]{lang="el"} vor Konsonant.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Das innere [ε]{lang="el"} steht nur, wenn es betont ist. Die letzten drei Verben sind
+Alltagsverben.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: a2, b8, c4, d5, e3, f7, g1.** [απ-έ-φυγε, συν-έ-βη, εν-έ-κρινε, εξ-έ-πληξε,
+δι-έ-κοψε, κατ-έ-λαβαν, αν-ή-γγειλε]{lang="el"}. Falle f: „verstanden“ (6) wäre
+[κατάλαβαν]{lang="el"}.
+
+**Teil B:**
+
+| ich | wir |
+|---|---|
+| [μετέφρασα]{lang="el"} | [μεταφράσαμε]{lang="el"} |
+| [αντέγραψα]{lang="el"} | [αντιγράψαμε]{lang="el"} |
+| [περιέγραψα]{lang="el"} | [περιγράψαμε]{lang="el"} |
+| [υπέγραψα]{lang="el"} | [υπογράψαμε]{lang="el"} |
+| [κατέστρεψα]{lang="el"} | [καταστρέψαμε]{lang="el"} |
+| [κατάλαβα]{lang="el"} | [καταλάβαμε]{lang="el"} |
+| [αποφάσισα]{lang="el"} | [αποφασίσαμε]{lang="el"} |
+| [ανακάλυψα]{lang="el"} | [ανακαλύψαμε]{lang="el"} |
+
+In der wir-Form fällt das [ε]{lang="el"} weg, und die Vorsilbe bekommt ihren Vokal zurück:
+[αντ- → αντι-]{lang="el"}. **Typische Fehler:** das Augment mitnehmen, \*[μετεφράσαμε]{lang="el"};
+oder es den Alltagsverben geben. [κατέλαβα]{lang="el"} heißt „ich habe eingenommen“.
+:::
+
+<!-- CHECK: Übung 27.4: *μετεφράσαμε als ungrammatisch markiert (Standard μεταφράσαμε; unbetontes inneres Augment nur in gelehrten Passivformen wie διεξήχθη); in förmlichen Texten kommen απεφάσισε/ανεκάλυψε vor, daher bei Teil C bewusst kein Sternchen; umgangssprachliche Nebenformen wie αντίγραψα/υπόγραψα nicht erwähnt -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -425,7 +671,54 @@ für vier bestellt, sagt [για τέσσερα άτομα]{lang="el"}. Das ist 
 Behördenton.
 :::
 
-<!-- EXERCISE: falsche Freunde im Satz; acht kurze, natürliche Sätze (Taverne: τραπέζι για έξι άτομα; Polizei: η υπόθεση; Studentin: η ύλη για τις εξετάσεις; Nachhilfe: οι τέσσερις πράξεις; Bauingenieur: μηχανικός στο Πολυτεχνείο; Treffen am Flughafen: Τι σύμπτωση!; Promotion: η διατριβή; Streit: εμπάθεια), je drei deutsche Übersetzungen zur Auswahl (Antwort „1b, 2a …“); Lösung mit der Fachbedeutung als Falle; Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 27.5: Was heißt das hier?
+
+Welche Übersetzung passt zum fetten Wort? Im Chat: „1b, 2c, …“.
+
+1. In der Taverne: [Ένα τραπέζι για έξι **άτομα**, παρακαλώ.]{lang="el"}
+   → a) Gedecke, b) Personen, c) Einzelplätze
+2. [Η αστυνομία έκλεισε την **υπόθεση**.]{lang="el"}
+   → a) die Hypothese, b) das Gebäude, c) den Fall
+3. Eine Studentin: [Η **ύλη** για τις εξετάσεις είναι τεράστια.]{lang="el"}
+   → a) der Stoff, b) das Material, c) die Materie
+4. [Ο μικρός ξέρει ήδη τις τέσσερις **πράξεις**.]{lang="el"}
+   → a) Arztpraxen, b) Grundrechenarten, c) Heldentaten
+5. [Η αδερφή μου είναι **μηχανικός**· σπούδασε στο Πολυτεχνείο.]{lang="el"}
+   → a) Ingenieurin, b) Automechanikerin, c) Maschinistin
+6. Am Flughafen: [— Εσύ εδώ; Τι **σύμπτωση**!]{lang="el"}
+   → a) Symptom, b) Zusammenstoß, c) Zufall
+7. [Η **διατριβή** της έχει τριακόσιες σελίδες.]{lang="el"}
+   → a) Dissertation, b) Streitschrift, c) Tagebuch
+8. [Μιλάει για τον πρώην άντρα της με **εμπάθεια**.]{lang="el"}
+   → a) Mitgefühl, b) Groll, c) Wehmut
+
+[το Πολυτεχνείο]{lang="el"}: die Technische Hochschule in Athen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Der Rest des Satzes sagt, in welcher Welt du bist. Eine Übersetzung, die wie das deutsche
+Fremdwort klingt, ist verdächtig.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Bei 3 hat auch [εξετάσεις]{lang="el"} zwei Bedeutungen: Prüfungen und ärztliche Untersuchungen.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1b, 2c, 3a, 4b, 5a, 6c, 7a, 8b.**
+
+Die Fallen: 3b liest [ύλη]{lang="el"} und [εξετάσεις]{lang="el"} wie beim Arzt. 4a wäre
+[ιατρεία]{lang="el"}, 6a [σύμπτωμα]{lang="el"}. 5: [μηχανικός]{lang="el"} kann auch Mechaniker
+heißen, aber das Polytechnikum bildet Ingenieure aus. 8: [εμπάθεια]{lang="el"} ist Leidenschaft
+*gegen* jemanden; Mitgefühl wäre [ενσυναίσθηση]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -486,7 +779,51 @@ reiben · [τραβάω]{lang="el"} anziehen, ziehen · [ο όρος]{lang="el"}
 θεωρία αλλάζει, ο όρος μένει.
 :::
 
-<!-- EXERCISE: Hörverstehen des Vortrags; direkt nach dem Hören, mit ▶, ohne den Text aufzuklappen, höchstens zweimal; nur Inhaltsfragen als Multiple Choice (Antwort „1b, 2a …“): Wo beginnt die Geschichte (Abdera)? Was meinte Demokrit mit „Atom“ (was sich nicht mehr schneiden lässt)? Was tat Cicero (übersetzte ins Lateinische)? Welche zwei Bedeutungen hat άτομο heute? Was geschah 1897 und was folgt daraus fürs Atom? Was ist ήλεκτρο? Was macht Bernstein, wenn man ihn reibt? Die Schlussthese (Theorie ändert sich, Begriff bleibt); zweiter Durchgang mit Text: vier Komposita/Vorsilbenwörter und das innere Augment in μετέφρασε finden; keine Lösung an Aussprache/Intonation der Synthese gebunden; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 27.6: Warum das Atom Atom heißt
+
+Hör den Vortrag mit ▶, ohne den Text aufzuklappen, höchstens zweimal. Im Chat: „1b, 2c, …“.
+
+1. Wo beginnt die Geschichte? a) Athen, b) Abdera, c) Rom
+2. „Atom“ hieß für Demokrit: a) das kleinste Lebewesen, b) das Unsichtbare, c) das, was sich
+   nicht mehr schneiden lässt
+3. Cicero a) übersetzte das Wort ins Lateinische, b) widerlegte Demokrit, c) hielt das Atom
+   für teilbar
+4. Heutige Bedeutungen: a) Atom und Teilchen, b) Atom und Person, c) Person und Name
+5. 1897 a) entdeckt Thomson das Elektron, das Atom ist also teilbar, b) tauft Thomson das
+   Elektron, „Atom“ verschwindet, c) entdeckt Gilbert die Elektrizität
+6. [ήλεκτρο]{lang="el"} ist a) der Blitz, b) der Magnet, c) der Bernstein
+7. Gerieben a) zieht es Papierstückchen an, b) leuchtet es, c) wird es heiß
+8. Schlussthese: a) Demokrit hatte doch recht, b) die Theorie ändert sich, der
+   Begriff bleibt, c) Fachwörter veralten schnell
+
+**Zweiter Durchgang, mit Text:** Such vier Wörter mit Vorsilbe oder zwei Stämmen und das
+innere Augment.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Frage 5: Nach der Jahreszahl folgt ein kurzer Satz mit [λοιπόν]{lang="el"}, die Folgerung.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Das innere Augment steht im Satz über Cicero. Ein Kompositum ist das erste Wort des Vortrags.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1b, 2c, 3a, 4b, 5a, 6c, 7a, 8b.** Zu 5: [Το άτομο λοιπόν κόβεται. Το όνομα όμως
+έμεινε.]{lang="el"} Zu 8: a ist die Falle, denn [Ο Δημόκριτος έκανε λάθος]{lang="el"}.
+
+**Zweiter Durchgang:** [μετ-έ-φρασε]{lang="el"} (wir: [μεταφράσαμε]{lang="el"}). Vorsilben:
+[ά-τομο, α-δι-αίρετο, ανα-ρωτήθηκε, συμ-βαίνει]{lang="el"}, [ανα-κάλυψε]{lang="el"}
+(Alltagsverb, kein inneres Augment). Zwei Stämme: [Καλη-σπέρα]{lang="el"} „guter Abend“,
+[δυό-μισι]{lang="el"} „zweieinhalb“.
+:::
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -546,7 +883,45 @@ verstehst du fast von selbst, und der Kopf bleibt frei für den Satzbau dazwisch
 [ERTflix](https://www.ertflix.gr) findest du Dokumentationen (Suchwort
 [ντοκιμαντέρ]{lang="el"}), auch zu Natur, Medizin und Technik, viele mit griechischen Untertiteln.
 
-<!-- EXERCISE: Hör-Auftrag mit echter Aufnahme (nur ERTflix, https://www.ertflix.gr; Easy Greek https://www.youtube.com/@EasyGreekVideos als Alternative, falls ein Interview über Studium/Berufe gefunden wird); Dokumentation zu Natur, Medizin oder Technik, fünf Minuten; Durchgang 1 ohne Untertitel: Strichliste für Wörter auf -λογία/-λόγος, -ση/-ξη/-ψη, -ισμός; fünf internationale Wörter notieren und die betonte Silbe mitsprechen; Durchgang 2 mit griechischen Untertiteln: prüfen, Betonung am Akzent kontrollieren; zwei Sätze nachsprechen; Lösung ohne feste Werte, mit Auswertungsmaßstab und typischen Betonungsfallen; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 27.7: Hör-Auftrag
+
+Nimm fünf Minuten aus einer Dokumentation auf [ERTflix](https://www.ertflix.gr) zu Natur,
+Medizin oder Technik. Alternative: ein Interview von [Easy
+Greek](https://www.youtube.com/@EasyGreekVideos) über Studium oder Beruf.
+
+1. **Ohne Untertitel:** Mach Striche in drei Spalten: [-λογία/-λόγος]{lang="el"},
+   [-ση/-ξη/-ψη]{lang="el"}, [-ισμός]{lang="el"}.
+2. Merk dir fünf internationale Wörter und sprich sie mit der gehörten Betonung nach.
+3. **Mit griechischen Untertiteln:** Prüf Striche und Betonungen am Akzent.
+4. Sprich zwei Sätze mit Fachwort nach.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Hör auf die betonte Silbe: [-loˈʝia] ist ein Fach, [-ˈloɣos] eine Person, [-izˈmos] ganz
+hinten betont; [-si], [-ksi], [-psi] sind unbetont.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Wo Nachsprechen und Akzent auseinandergehen, sag das Wort dreimal richtig.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Jede Sendung ist anders; so wertest du aus:
+
+- **Striche:** Zählt die Trefferquote. Bestätigen die Untertitel zwei Drittel, ist das gut.
+  [ο λόγος]{lang="el"} allein und [λόγω]{lang="el"} „wegen“ zählen nicht.
+- **Betonungsfallen:** Wörter, die weiter vorn betont sind als im Deutschen ([ενέργεια, μέθοδος,
+  ανάλυση]{lang="el"}), Fächer auf [-ική]{lang="el"} ganz hinten, der Plural auf
+  [-σεις]{lang="el"}.
+- **Nachsprechen:** gelungen, wenn die Fachwörter wie im Original betont sind.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -672,7 +1047,51 @@ Physik sind. Es heißt aber, dass ihnen die Wörter der Physik weniger geheimnis
 | [μυστηριώδης]{lang="el"} | geheimnisvoll (Pl. [μυστηριώδεις]{lang="el"}) |
 :::
 
-<!-- EXERCISE: Leseverstehen „Λέξεις που γύρισαν σπίτι“; Teil A richtig/falsch zu sechs Aussagen (Lavoisier lag mit oxygène richtig? – falsch; hydrogène = „Wasserbildner“; Deutsche übernahmen die griechischen Wörter – falsch; αντιδάνεια = in Europa gebaut und zurückgekehrt; Mikroskop-Name aus Frankreich – falsch; griechische Kinder sind laut Text besser in Physik – falsch), Antwort „1r, 2f …“; Teil B Wortbildung: οξυγόνο, υδρογόνο, άζωτο, δεινόσαυρος, θερμόμετρο, μικροσκόπιο zerlegen und betonen; im Text das innere Augment finden (απέκτησε); Schwierigkeit 1–2 -->
+::: {.callout-note .exercise}
+## Übung 27.8: Nach dem Lesen
+
+**Teil A.** Richtig oder falsch? Im Chat: „1r, 2f, …“.
+
+1. Lavoisier hatte recht: Alle Säuren enthalten Sauerstoff.
+2. [*hydrogène*]{lang="fr"} heißt wörtlich „das, was Wasser hervorbringt“.
+3. Die Deutschen übernahmen Lavoisiers griechische Namen.
+4. Rückentlehnungen wurden in Europa aus griechischen Teilen gebaut.
+5. Das Wort *Mikroskop* entstand in Frankreich.
+6. Laut Text sind griechische Kinder besser in Physik.
+
+**Teil B.** Zerleg und sprich laut: [οξυγόνο, υδρογόνο, άζωτο, δεινόσαυρος]{lang="el"}.
+
+**Teil C.** Ein Verb im Text hat ein inneres Augment, ein anderes sieht nur so aus. Welche?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil B: [-γόνο]{lang="el"} erklärt der Text, [υδρ-]{lang="el"} kennst du aus *Hydrant*,
+[δεινός]{lang="grc"} heißt „schrecklich“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil C: Such ein betontes [έ]{lang="el"} hinter einer Vorsilbe und prüf, ob das Verb in der
+Vergangenheit steht.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1f, 2r, 3f, 4r, 5f, 6f.** Zu 6 sagt der Text ausdrücklich [Αυτό δεν σημαίνει
+…]{lang="el"}.
+
+**Teil B:** [οξυ-γόνο]{lang="el"} [oksiˈɣono] „Säure-Erzeuger“, ohne [-ο-]{lang="el"}, weil
+[οξύ]{lang="el"} auf Vokal endet · [υδρ-ο-γόνο]{lang="el"} [iðroˈɣono] ·
+[α-ζωτ-ο]{lang="el"} [ˈazoto] „ohne Leben“, wie [ά-τομο]{lang="el"} ·
+[δειν-ό-σαυρ-ος]{lang="el"} [ðiˈnosavros], betont auf dem Bindevokal, nicht auf *sau*.
+
+**Teil C:** [απ-έ-κτησε]{lang="el"} von [αποκτάω]{lang="el"} (wir: [αποκτήσαμε]{lang="el"}).
+Nur scheinbar: [περιέχουν]{lang="el"} ist Präsens von [περι-έχω]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |

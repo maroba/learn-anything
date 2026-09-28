@@ -157,7 +157,7 @@ der Kamera sprechen viele Kreter fast Standard. Phonetiker hören auf Kreta auß
 weichere Variante als auf Zypern und schreiben sie [tɕ ɕ ʑ]; das Buch schreibt für beide Inseln
 [tʃ ʃ ʒ]. Dieselbe Erscheinung gibt es auch auf Kythira, in der Mani und auf einigen Inseln der
 südlichen Ägäis. Überblick: Peter Trudgills Aufsatz zur Einteilung der neugriechischen Dialekte
-([*Journal of Greek Linguistics*]{lang="en"} 4, 2003); eine Kurzfassung ist frei zugänglich auf der
+(2003, [*Journal of Greek Linguistics*]{lang="en"} 4); eine Kurzfassung ist frei zugänglich auf der
 [Πύλη για την Ελληνική Γλώσσα]{lang="el"} des Zentrums für Griechische Sprache.
 :::
 
@@ -310,7 +310,7 @@ nach der achten. Zähl nach:
 Drei Regeln stecken darin:
 
 1. **Wie gesprochen gezählt:** [κι εσύ]{lang="el"} sind zwei Silben, [ceˈsi], nicht drei.
-   Zusammenstoßende Vokale verschmelzen, wie beim Sprechen (Kapitel 21).
+   Treffen zwei Vokale aufeinander, zählt nur einer, wie beim Sprechen (Kapitel 21).
 2. **Betonung meist auf den geraden Silben:** [στέλ]{lang="el"} ist die zweite, [μή]{lang="el"} die
    vierte, [ί]{lang="el"} die achte. Am Anfang einer Hälfte darf auch eine ungerade Silbe betont
    sein. Fest betont ist die vierzehnte; vor der Pause die achte oder die sechste, nie die
@@ -334,7 +334,7 @@ gereimten Versen und auf Kretisch. So beginnt sie:
 
 „Die Drehungen des Kreises, die auf- und niedergehen, und des Rades, die mal nach oben, mal in die
 Tiefe gehen“: das Rad des Schicksals. Kretisch ist [πηαίνου]{lang="el"} für
-[πηγαίνουν]{lang="el"}, ohne [γ]{lang="el"}; das Schluss-[ν]{lang="el"} fehlt in vielen Ausgaben.
+[πηγαίνουν]{lang="el"}, ohne [γ]{lang="el"}; das [ν]{lang="el"} am Wortende fehlt in vielen Ausgaben.
 Einzelne Verspaare aus dem *Erotokritos* werden bis heute als Mantinades gesungen.
 
 ::: {.callout-note .exercise}
@@ -410,7 +410,7 @@ hat aber mit [και-μη]{lang="el"} eine Silbe zu viel; die Betonung rutscht a
 | [η συλλαβή]{lang="el"} | [i silaˈvi] | die Silbe |
 | [η ρίμα]{lang="el"} | [i ˈrima] | der Reim (umg.); gehoben [η ομοιοκαταληξία]{lang="el"} |
 | [αυτοσχεδιάζω, αυτοσχεδίασα]{lang="el"} | [aftosçeˈðʝazo], [aftosçeˈðiasa] | improvisieren |
-| [(ξέρω) απέξω]{lang="el"} | [aˈpekso] | auswendig (können) |
+| [(ξέρω) απ’ έξω]{lang="el"} | [aˈpekso] | auswendig (können) |
 :::
 
 ## Wie Zypern klingt {#sec-kz-zypern}
@@ -451,7 +451,7 @@ solltest. Die letzte Zeile zeigt, dass die Länge Wörter unterscheidet: lang �
 Auch auf Zypern wird [κ]{lang="el"} vor [e] und [i] zu [tʃ] und [χ]{lang="el"} zu [ʃ], wie in
 @sec-kz-kreta-laut. Hier wird das oft auch geschrieben:
 
-| Zypern | gesprochen | Standard |
+| Zypern | Hörbild | Standard |
 |---|---|---|
 | [τζιαι]{lang="el"} | [tʃe] | [και]{lang="el"} |
 | [τζείνος]{lang="el"} | [ˈtʃinos] | [εκείνος]{lang="el"} |
@@ -552,7 +552,7 @@ Ein nachgestelltes Pronomen wandert im Standard vors Verb. In 7 steht es schon v
 2. **ist:** [Είναι καλό το φαγητό.]{lang="el"}
 3. **nicht:** [Δεν ξέρω τι θέλει.]{lang="el"}
 4. **Futur:** [Θα πάω σπίτι.]{lang="el"}
-5. **ist:** [Μου είπε ότι είναι κουρασμένη.]{lang="el"} Schluss-[ν]{lang="el"} weg, Pronomen
+5. **ist:** [Μου είπε ότι είναι κουρασμένη.]{lang="el"} [ν]{lang="el"} am Wortende weg, Pronomen
    nach vorn.
 6. **nicht:** [Ο Γιώργος και η Μαρία δεν ήρθαν.]{lang="el"} [ήρταν]{lang="el"} ist die
    zypriotische Form von [ήρθαν]{lang="el"}.
@@ -677,7 +677,7 @@ wir zu mir, meine Mutter kocht.“ – „Okay. Aber wenn ich etwas nicht verste
 | Griechisch | Deutsch |
 |---|---|
 | [παίζεται]{lang="el"} | (ein Film) läuft |
-| [έσσω μου]{lang="el"} | zu mir nach Hause (zypr.) |
+| [έσσω μου]{lang="el"} | zu mir nach Hause (Zypern) |
 | [η μάνα]{lang="el"} | die Mutter (umg.) |
 | [τα λόγια]{lang="el"} | die Worte; der Text, das Gerede |
 :::
@@ -701,7 +701,7 @@ Strichliste sind sie zu kurz.
 - Kreta: (K1) [tʃ] statt [c], am leichtesten bei [και, κι]{lang="el"}; (K2) [ʃ] statt [ç], etwa
   bei [έχει]{lang="el"}; (K3) Inselwörter wie [ίντα, γιάντα, κατέχω]{lang="el"}.
 - Zypern: (Z1) lange Konsonanten, etwa in [πολλά, άλλος, ναι]{lang="el"}; (Z2) [tʃe] für „und“;
-  (Z3) [εν]{lang="el"} und Schluss-[ν]{lang="el"} wie in [είπεν]{lang="el"}.
+  (Z3) [εν]{lang="el"} und [ν]{lang="el"} am Wortende wie in [είπεν]{lang="el"}.
 
 **Durchgang 2, mit griechischen Untertiteln:** Prüf deine Striche und notier zu jedem Merkmal ein
 Beispielwort. Im Chat die Insel und die Zahlen, etwa „Kreta: K1 3, K2 0, K3 1“.
@@ -743,7 +743,7 @@ Zyprioten nahezu Standard. Nimm dann eine ältere Person oder eine Reportage aus
   [ίντα]{lang="el"} „was“, [θωρώ]{lang="el"} „sehen“.
 - **Kreta:** dazu [γ]{lang="el"} vor [e i] als [ʒ]; Wörter wie [γιάντα, κιανείς, ετσά, μπλιο,
   κατέχω]{lang="el"}.
-- **Zypern:** lange (Doppel-)Konsonanten ([ˈalːos]), Schluss-[ν]{lang="el"}
+- **Zypern:** lange (Doppel-)Konsonanten ([ˈalːos]), [ν]{lang="el"} am Wortende
   ([είπεν]{lang="el"}), Pronomen meist hinter dem Verb ([είδα τον]{lang="el"}), [εν]{lang="el"} als
   „ist“, „nicht“ und in [εν να]{lang="el"} als Futur; [τζιαι, έσσω, κάμνω, όι]{lang="el"}.
 - **Mantinada:** gereimter Zweizeiler aus Fünfzehnsilblern, Pause nach der achten Silbe, feste
@@ -765,7 +765,7 @@ dann mit ▶.
 Ο στίχος αυτός, ο δεκαπεντασύλλαβος, είναι πολύ παλιός. Σε αυτόν είναι γραμμένα τα περισσότερα
 δημοτικά τραγούδια, και σε αυτόν έγραψε γύρω στο 1600 ο Βιτσέντζος Κορνάρος τον «Ερωτόκριτο»,
 δέκα χιλιάδες στίχους για την αγάπη του Ερωτόκριτου και της Αρετούσας. Πολλοί Κρητικοί ξέρουν
-ακόμα κομμάτια του απέξω, και κάποιοι στίχοι του τραγουδιούνται σαν μαντινάδες.
+ακόμα κομμάτια του απ’ έξω, και κάποιοι στίχοι του τραγουδιούνται σαν μαντινάδες.
 
 Στην Κύπρο ο ίδιος στίχος ζει σε ένα άλλο, πιο σκληρό είδος: τα τσιαττιστά. Εκεί δύο
 τσιαττιστάδες «μονομαχούν» μπροστά στο κοινό. Ο καθένας πρέπει να απαντήσει αμέσως, με ρίμα, και
