@@ -16,7 +16,7 @@ title: "Wortbildung II: die Sprache der Wissenschaft"
   παρήγγειλα]{lang="el"}, nur betont: [καταστρέψαμε]{lang="el"}.
 :::
 
-## Beim Arzt auf Paros {#sec-gelehrt-einstieg}
+## Bei der Ärztin auf Paros {#sec-gelehrt-einstieg}
 
 Ein Augustabend im Gesundheitszentrum ([το Κέντρο Υγείας]{lang="el"}) von Paros. Ein deutscher
 Vater sitzt mit seinem Sohn vor der Ärztin. Der Junge war eine Woche lang jeden Tag stundenlang im
@@ -77,8 +77,10 @@ Und die Ärztin hat recht, auch wenn sie übertreibt: *Otitis* ist lateinisch nu
 [ωτ-]{lang="el"} ist das Ohr (altgriechisch [ους, ωτός]{lang="grc"}), und die Endung *-itis* für
 Entzündungen kommt vom griechischen [-ίτις]{lang="grc"}. Für eine Griechin ist das Wort durchsichtig:
 „Ohr-Entzündung“. Den Riesen [ωτο-ρινο-λαρυγγο-λόγος]{lang="el"} kürzt sie genauso ab wie wir
-unseren Hals-Nasen-Ohren-Arzt: [ο ωριλάς]{lang="el"}, nach den Anfangsbuchstaben
+unseren Hals-Nasen-Ohren-Arzt: [ο ωριλάς]{lang="el"}, aus der Abkürzung
 [ΩΡΛ]{lang="el"}.
+
+<!-- CHECK: ωριλάς (Pl. ωριλάδες) als verbreitete umgangssprachliche Bezeichnung für den HNO-Arzt, Herleitung aus ΩΡΛ -->
 
 Dieses Kapitel hat drei Ziele: solche Wörter **zerlegen**, sie **griechisch betonen** und wissen,
 **was sie heute im Griechischen bedeuten**. Das Letzte ist nicht immer das, was ein deutsches
@@ -90,8 +92,6 @@ Fachwort erwarten lässt.
 | [η αντιβίωση]{lang="el"} | [i adiˈviosi] | das Antibiotikum (umg.); die Antibiotikabehandlung |
 | [ο πυρετός]{lang="el"} | [o pireˈtos] | das Fieber |
 | [το θερμόμετρο]{lang="el"} | [to θerˈmometro] | das Thermometer |
-| [ο ωριλάς, οι ωριλάδες]{lang="el"} | [o oriˈlas] | der HNO-Arzt (umg.) |
-| [γράφω, έγραψα]{lang="el"} | [ˈɣrafo], [ˈeɣrapsa] | hier: verschreiben ([Θα σας γράψω …]{lang="el"}) |
 :::
 
 ::: {.callout-note collapse="true" .vocab-text}
@@ -101,11 +101,13 @@ Fachwort erwarten lässt.
 |---|---|
 | [το Κέντρο Υγείας]{lang="el"} | das Gesundheitszentrum (Erstversorgung auf dem Land und auf Inseln) |
 | [η ωτίτιδα]{lang="el"} | die Ohrenentzündung |
+| [Θα σας γράψω …]{lang="el"} | Ich verschreibe Ihnen … ([γράφω]{lang="el"} auch „verschreiben“) |
 | [το κολύμπι]{lang="el"} | das Schwimmen ([κολυμπάω]{lang="el"}, Kapitel 4) |
 | [οι σταγόνες]{lang="el"} | die Tropfen |
 | [το αντιπυρετικό]{lang="el"} | das fiebersenkende Mittel |
 | [Αν δεν περάσει]{lang="el"} | Wenn es nicht vorbeigeht |
 | [ο ωτορινολαρυγγολόγος]{lang="el"} | der Hals-Nasen-Ohren-Arzt |
+| [ο ωριλάς, οι ωριλάδες]{lang="el"} | der HNO-Arzt (umg.) |
 | [ολόκληρος, -η, -ο]{lang="el"} | ganz, vollständig |
 :::
 
@@ -125,7 +127,8 @@ Stämme, dazwischen ein [-ο-]{lang="el"}, hinten die Endung. Ein Wort aus mehre
 | [τα μαχαιροπίρουνα]{lang="el"} | [μαχαιρ-ο-πίρουν-α]{lang="el"} | Messer-Gabeln: Besteck |
 
 Die letzte Zeile zeigt, dass das Muster lebt. Auch die Alltagssprache setzt so zusammen: [το
-ηλιοβασίλεμα]{lang="el"} ist der „Sonnen-Untergang“, [το αλατοπίπερο]{lang="el"} Salz und Pfeffer.
+ηλιοβασίλεμα]{lang="el"} [iʎovaˈsilema] ist der „Sonnen-Untergang“, [το αλατοπίπερο]{lang="el"}
+Salz und Pfeffer.
 
 Drei Kleinigkeiten beim Zerlegen:
 
@@ -157,16 +160,14 @@ heißt das Ohr [το αυτί]{lang="el"}, die Nase [η μύτη]{lang="el"}, de
 Die alten Formen [ωτ-, ριν-, ιατρ-]{lang="el"} leben nur in den gelehrten Wörtern weiter: [η
 ιατρική]{lang="el"} ist die Medizin, [το ιατρείο]{lang="el"} die Arztpraxis.
 
-<!-- EXERCISE: Komposita zerlegen und von hinten lesen; zehn Wörter, davon mindestens sechs unbekannte (z.B. σεισμογράφος, υδρόμετρο? besser: ο υδραυλικός als Falle, η ωτίτιδα, η γαστρεντερίτιδα, ο κτηνίατρος, το βαρόμετρο, η καρδιολογία, ο αστροφυσικός, το στηθοσκόπιο, η χρονολογία aus 25, τα μαχαιροπίρουνα), Bausteine mit Bedeutung darunter angeben (καρδιά, στήθος, βάρος, κτήνος „Vieh“, γαστήρ „Magen“, έντερο „Darm“); Aufgabe: Teile trennen, Bindevokal zeigen, Bedeutung nennen; Antwort im Chat als Zuordnung zu einer nummerierten Bedeutungsliste; Lösung mit Zerlegung und Hinweis, dass der hintere Teil entscheidet; Schwierigkeit 1 -->
+<!-- EXERCISE: Komposita zerlegen und von hinten lesen; zehn Wörter, mindestens sechs unbekannt (η γαστρεντερίτιδα, ο κτηνίατρος, το βαρόμετρο, η καρδιολογία, το στηθοσκόπιο, ο σεισμογράφος, ο αστροφυσικός, η χρονολογία aus 25, τα μαχαιροπίρουνα, η τηλεόραση); Bausteine mit Bedeutung darunter (γαστήρ Magen, έντερο Darm, κτήνος Vieh, βάρος Gewicht, καρδιά, στήθος); Teile trennen, Bindevokal zeigen, Bedeutung aus nummerierter Liste zuordnen, Antwort „a3, b7 …“; Lösung mit Zerlegung, Regel „der hintere Teil entscheidet“, typischer Fehler: von vorn lesen; Schwierigkeit 1 -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [το μικροσκόπιο]{lang="el"} | [to mikroˈskopio] | das Mikroskop |
-| [το τηλεσκόπιο]{lang="el"} | [to tileˈskopio] | das Teleskop |
 | [η τηλεόραση]{lang="el"} | [i tileˈorasi] | das Fernsehen; der Fernseher |
 | [τα μαχαιροπίρουνα]{lang="el"} | [ta maxeroˈpiruna] | das Besteck |
-| [το ηλιοβασίλεμα]{lang="el"} | [to iʎovaˈsilema] | der Sonnenuntergang |
 | [ο παιδίατρος, η παιδίατρος]{lang="el"} | [o peˈðiatros] | der Kinderarzt, die Kinderärztin |
 | [ο οδοντίατρος, η οδοντίατρος]{lang="el"} | [o oðoˈdiatros] | der Zahnarzt, die Zahnärztin |
 | [η ιατρική]{lang="el"} | [i iatriˈci] | die Medizin (Fach) |
@@ -204,9 +205,9 @@ Wo das Deutsche den Weg weist und wo nicht, zeigt die Gegenüberstellung:
 | Deutsch | Griechisch |
 |---|---|
 | Bio**lo**gie, Theo**rie**, Demokra**tie** | [βιολογία, θεωρία, δημοκρατία]{lang="el"}: gleich |
-| Phy**sik**, Mathema**tik** | [φυσική, μαθηματικά]{lang="el"}: fast gleich, eine Silbe weiter hinten |
+| Phy**sik**, Mathema**tik** | [φυσική, μαθηματικά]{lang="el"} [fisiˈci, maθimatiˈka]: eine Silbe weiter hinten |
 | Thermo**me**ter, Kilo**me**ter | [θερμόμετρο, χιλιόμετρο]{lang="el"} [θerˈmometro, çiˈʎometro] |
-| A**tom**, E**ner**gie | [το άτομο, η ενέργεια]{lang="el"} [ˈatomo, eˈnerʝia] |
+| A**tom**, Ener**gie** | [το άτομο, η ενέργεια]{lang="el"} [ˈatomo, eˈnerʝia] |
 | Me**tho**de, Ana**ly**se, Hypo**the**se | [η μέθοδος, η ανάλυση, η υπόθεση]{lang="el"} [ˈmeθoðos, aˈnalisi, iˈpoθesi] |
 
 ::: {.callout-warning}
@@ -245,20 +246,17 @@ Faustregel: Nicht jedes Verb hat so ein Nomen, und aus [έγραψα]{lang="el"}
 im Radio der Verkehr. [Έχει πολλή κίνηση στον Κηφισό.]{lang="el"} heißt „Auf dem Kifisos ist viel
 Verkehr“, und gemeint ist die Stadtautobahn, nicht der Fluss.
 
-<!-- EXERCISE: internationale Wörter griechisch betonen und ση-Nomen bilden; Teil A: zwölf Wörter ohne Akzent als .no-audio-Liste laut betonen (z.B. θερμομετρο, χιλιομετρο, ατομο, ενεργεια, μεθοδος, υποθεση, φυσικη, μαθηματικα, ψυχολογος, ψυχολογια, μικροσκοπιο, ηλεκτρονιο, αρθριτιδα, μαγνητισμος), Antwort im Chat als Silbennummer von hinten (1/2/3); Teil B: aus fünf Aoristen das Nomen bilden und umgekehrt (z.B. εξήγησα → εξήγηση, συνέθεσα? besser ανέλυσα vermeiden; μέτρησα, διάβασα?, σύγκρινα → σύγκριση, εξέτασα → εξέταση, πρόβλεψα → πρόβλεψη; η λύση → έλυσα), Plural mit wandernder Betonung laut; Lösung mit IPA, keine Lösung an ▶ gebunden, typische Fehler nach deutschem Klang; Schwierigkeit 2 -->
+<!-- EXERCISE: internationale Wörter griechisch betonen und ση-Nomen bilden; Teil A: zwölf Wörter ohne Akzent als .no-audio-Liste laut betonen (θερμομετρο, χιλιομετρο, ατομο, ενεργεια, μεθοδος, υποθεση, φυσικη, μαθηματικα, ψυχολογος, ψυχολογια, μικροσκοπιο, αρθριτιδα), Antwort im Chat als betonte Silbe von hinten gezählt („1: 3, 2: 3 …“); Teil B: aus Aoristen das Nomen bilden und umgekehrt (εξέτασα → εξέταση, σύγκρινα → σύγκριση, πρόβλεψα → πρόβλεψη, εξήγησα → εξήγηση; η λύση → έλυσα) und den Plural mit wandernder Betonung laut sagen; Lösung mit IPA, nicht an ▶ gebunden, typische Fehler nach deutschem Klang; Schwierigkeit 2 -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [η φυσική]{lang="el"} | [i fisiˈci] | die Physik |
-| [ο φυσικός, η φυσικός]{lang="el"} | [o fisiˈkos] | der Physiker, die Physikerin |
-| [φυσικός, -ή, -ό]{lang="el"} | [fisiˈkos] | natürlich; physikalisch |
+| [ο φυσικός, η φυσικός]{lang="el"} | [o fisiˈkos] | der Physiker, die Physikerin; als Adjektiv [φυσικός, -ή, -ό]{lang="el"} natürlich, physikalisch |
 | [τα μαθηματικά]{lang="el"} | [ta maθimatiˈka] | die Mathematik |
 | [η χημεία]{lang="el"} | [i çiˈmia] | die Chemie |
-| [η βιολογία]{lang="el"} | [i violoˈʝia] | die Biologie |
 | [η πληροφορική]{lang="el"} | [i pliroforiˈci] | die Informatik |
 | [το χιλιόμετρο]{lang="el"} | [to çiˈʎometro] | der Kilometer |
-| [το άτομο]{lang="el"} | [to ˈatomo] | das Atom (Bedeutung im Alltag: @sec-gelehrt-falsche-freunde) |
 | [η ενέργεια]{lang="el"} | [i eˈnerʝia] | die Energie |
 | [η μέτρηση, οι μετρήσεις]{lang="el"} | [i ˈmetrisi], [i meˈtrisis] | die Messung |
 | [η παρατήρηση]{lang="el"} | [i paraˈtirisi] | die Beobachtung; die Bemerkung |
@@ -316,23 +314,19 @@ der Rest bei gelehrten Wörtern öfter unbekannt, und die Bedeutung hat sich wei
 υπόθεση]{lang="el"} ist wörtlich eine „Unter-Stellung“, lateinisch *suppositio*; was sie im Alltag
 heißt, steht in @sec-gelehrt-falsche-freunde.
 
-<!-- EXERCISE: gelehrte Vorsilben abtrennen und Bedeutung erschließen; acht Sätze mit einem hervorgehobenen Wort (z.B. αντίθετος, ανώνυμος, η διαφάνεια, εξάγω/η εξαγωγή, η περιφέρεια, προϊστορικός, υπερηχογράφημα „Ultraschall“, η υπόγεια (διάβαση), η αντίδραση), Grundwörter angegeben; Auswahl aus nummerierter Bedeutungsliste, Antwort „a3, b7 …“; eine Falle, in der das Wort gar keine Vorsilbe hat (z.B. το παράθυρο? nur falls gesichert, sonst ο κατάλογος als durchsichtig verblasst); Schwierigkeit 2 -->
+<!-- EXERCISE: gelehrte Vorsilben abtrennen und Bedeutung erschließen; acht Sätze mit je einem hervorgehobenen Wort (αντίθετος, ανώνυμος, η εξαγωγή, η περιφέρεια, προϊστορικός, το υπερηχογράφημα „Ultraschallbild“, η υπόγεια διάβαση, η αντίδραση), Grundwörter angegeben; Bedeutung aus nummerierter Liste wählen und Vorsilbe benennen, Antwort „a3, b7 …“; Lösung mit Zerlegung und lateinischer/deutscher Parallele, wo sie hilft; Schwierigkeit 2 -->
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [το παράδειγμα]{lang="el"} | [to paˈraðiɣma] | das Beispiel; [για παράδειγμα]{lang="el"} zum Beispiel |
-| [παράλληλος, -η, -ο]{lang="el"} | [paˈralilos] | parallel |
 | [η εξέλιξη]{lang="el"} | [i eˈkseliksi] | die Entwicklung; die Evolution |
 | [ο εγκέφαλος]{lang="el"} | [o eˈɟefalos] | das Gehirn |
 | [η επιφάνεια]{lang="el"} | [i epiˈfania] | die Oberfläche |
 | [η εφαρμογή]{lang="el"} | [i efarmoˈʝi] | die Anwendung; die App |
 | [η υπερβολή]{lang="el"} | [i ipervoˈli] | die Übertreibung; die Hyperbel |
 | [η υπέρταση]{lang="el"} | [i iˈpertasi] | der Bluthochdruck |
-| [η πρόσθεση]{lang="el"} | [i ˈprosθesi] | die Addition |
-| [η αφαίρεση]{lang="el"} | [i aˈferesi] | die Subtraktion |
-| [η διαίρεση]{lang="el"} | [i ðiˈeresi] | die Division |
-| [ο πολλαπλασιασμός]{lang="el"} | [o polaplasiazˈmos] | die Multiplikation |
+| [η πρόσθεση, η αφαίρεση, ο πολλαπλασιασμός, η διαίρεση]{lang="el"} | [ˈprosθesi], [aˈferesi], [polaplasiazˈmos], [ðiˈeresi] | Addition, Subtraktion, Multiplikation, Division |
 :::
 
 ### Das Augment im Wortinneren {#sec-gelehrt-augment}
@@ -376,9 +370,9 @@ Original gibt es noch, mit eigener Bedeutung und innerem Augment: [Ο στρατ
 ::: {.callout-tip}
 ## Tipp
 
-Zum Verstehen reicht ein Handgriff: Steht hinter einem Wortanfang wie [κατ-, απ-, υπ-, μετ-, συν-,
-διε-]{lang="el"} ein betontes [έ]{lang="el"} oder [ή]{lang="el"}, nimm es heraus und such das
-Präsens: [απέφυγε → αποφεύγω]{lang="el"}, [συνέβη → συμβαίνει]{lang="el"}. Aktiv brauchst du nur
+Zum Verstehen reicht ein Handgriff: Beginnt ein Verb mit [κατέ-, απέ-, υπέ-, μετέ-, συνέ-, διέ-,
+περιέ-]{lang="el"} oder [παρή-]{lang="el"}, nimm das betonte [έ]{lang="el"} bzw. [ή]{lang="el"}
+heraus und such das Präsens: [απέφυγε → αποφεύγω]{lang="el"}, [συνέβη → συμβαίνει]{lang="el"}. Aktiv brauchst du nur
 die Verben aus den Vokabeltabellen.
 :::
 
@@ -435,7 +429,7 @@ Behördenton.
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
-| [το άτομο, τα άτομα]{lang="el"} | [to ˈatomo] | die Person; das Individuum (Atom: siehe oben) |
+| [το άτομο, τα άτομα]{lang="el"} | [to ˈatomo] | das Atom; die Person |
 | [η υπόθεση]{lang="el"} | [i iˈpoθesi] | die Hypothese; die Angelegenheit, der Fall |
 | [η ύλη]{lang="el"} | [i ˈili] | die Materie; der Lernstoff |
 | [η πράξη]{lang="el"} | [i ˈpraksi] | die Tat, die Handlung; die Rechenoperation |
@@ -451,8 +445,8 @@ Die ▶-Aufnahmen im Buch sind synthetische Stimmen; echte Menschen bringt der H
 des Abschnitts.
 
 Ein Vortragsabend in einem Athener Kulturzentrum, Reihe „Λέξεις της επιστήμης“, Wörter der
-Wissenschaft. Eine Physikerin spricht zehn Minuten über ein einziges Wort. Hier ist der Anfang und
-der Schluss.
+Wissenschaft. Eine Physikerin spricht zehn Minuten über ein einziges Wort; hier eine gekürzte
+Fassung.
 
 Vor dem Hören:
 
@@ -547,7 +541,7 @@ Wissenschaft oft. Die Theorie ändert sich, der Begriff bleibt.
 ### Vorträge und Dokumentationen hören {#sec-gelehrt-hoeren}
 
 Wissenschaft im griechischen Fernsehen ist ein gutes Training für dieses Kapitel: Die Fachwörter
-verstehst du fast von selbst, und so bleibt Kopf frei für den Satzbau dazwischen. Auf
+verstehst du fast von selbst, und der Kopf bleibt frei für den Satzbau dazwischen. Auf
 [ERTflix](https://www.ertflix.gr) findest du Dokumentationen (Suchwort
 [ντοκιμαντέρ]{lang="el"}), auch zu Natur, Medizin und Technik, viele mit griechischen Untertiteln.
 
@@ -664,6 +658,8 @@ Physik sind. Es heißt aber, dass ihnen die Wörter der Physik weniger geheimnis
 | Griechisch | Deutsch |
 |---|---|
 | [το αέριο]{lang="el"} | das Gas |
+| [το αντιδάνειο]{lang="el"} | die Rückentlehnung |
+| [ο δεινόσαυρος]{lang="el"} | der Dinosaurier |
 | [το οξύ, τα οξέα]{lang="el"} | die Säure |
 | [γεννάω]{lang="el"} | gebären, hervorbringen |
 | [περιέχω]{lang="el"} | enthalten |
@@ -683,6 +679,4 @@ Physik sind. Es heißt aber, dass ihnen die Wörter der Physik weniger geheimnis
 | [το οξυγόνο]{lang="el"} | [to oksiˈɣono] | der Sauerstoff |
 | [το υδρογόνο]{lang="el"} | [to iðroˈɣono] | der Wasserstoff |
 | [το άζωτο]{lang="el"} | [to ˈazoto] | der Stickstoff |
-| [το αντιδάνειο]{lang="el"} | [to adiˈðanio] | die Rückentlehnung |
-| [ο δεινόσαυρος]{lang="el"} | [o ðiˈnosavros] | der Dinosaurier |
 :::
