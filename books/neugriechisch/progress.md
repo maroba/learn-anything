@@ -34,7 +34,7 @@
 | 28 Nachrichtensprache | Entwurf | Welle 13 |
 | 29 Argumentieren | fertig | Welle 11; wartet auf 26–28 |
 | 30 Redewendungen | fertig | Welle 12; wartet auf 27–29 |
-| 32 Kreta und Zypern hören | Konsistenz | Welle 12; überarbeitet |
+| 32 Kreta und Zypern hören | fertig | Welle 12; wartet auf 27–31 |
 | 08 Kleine Wörter, große Wirkung: schwache Pronomen | veröffentlicht | Welle 4; Audio vollständig |
 | 09 Sag’s direkt: der Imperativ | veröffentlicht | Welle 5; Audio vollständig |
 

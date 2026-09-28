@@ -410,7 +410,6 @@ hat aber mit [και-μη]{lang="el"} eine Silbe zu viel; die Betonung rutscht a
 | [η συλλαβή]{lang="el"} | [i silaˈvi] | die Silbe |
 | [η ρίμα]{lang="el"} | [i ˈrima] | der Reim (umg.); gehoben [η ομοιοκαταληξία]{lang="el"} |
 | [αυτοσχεδιάζω, αυτοσχεδίασα]{lang="el"} | [aftosçeˈðʝazo], [aftosçeˈðiasa] | improvisieren |
-| [(ξέρω) απ’ έξω]{lang="el"} | [aˈpekso] | auswendig (können) |
 :::
 
 ## Wie Zypern klingt {#sec-kz-zypern}
@@ -509,7 +508,7 @@ sobald du dabei bist.
 Zypern ist ein eigener Staat, seit 1960 unabhängig von Großbritannien. Amtssprachen der Republik
 Zypern sind Griechisch und Türkisch. Seit 1974 ist die Insel geteilt ([Η Κύπρος είναι χωρισμένη από το
 1974.]{lang="el"}): Nach einem Putsch, den die Athener Junta unterstützte, marschierte die Türkei ein,
-[η εισβολή]{lang="el"} (Kapitel 11). Im Norden wurde 1983 ein Staat
+[η εισβολή]{lang="el"} (vgl. die Anmerkung in Kapitel 11). Im Norden wurde 1983 ein Staat
 ausgerufen, den nur die Türkei anerkennt. Eine Pufferzone der Vereinten Nationen, die **Grüne
 Linie** ([η Πράσινη Γραμμή]{lang="el"}), zieht sich über die Insel und mitten durch die Hauptstadt
 Nikosia, griechisch [η Λευκωσία]{lang="el"} (*Lefkosia*). Seit 2004 ist die Republik Zypern in der
