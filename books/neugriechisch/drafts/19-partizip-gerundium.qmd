@@ -218,7 +218,65 @@ beiden, das Griechische trennt: [γράψει]{lang="el"} ist Teil einer Zeitfor
 [γραμμένος]{lang="el"} ist ein Adjektiv.
 :::
 
-<!-- EXERCISE: Partizip auf -μένος bilden, Art: Formen bilden laut, vom Mediopassiv-Aorist bzw. Aktiv-Aorist ausgehend (8 Verben: κρύβω, φτιάχνω, πληρώνω, ντύνω, χάνω, κουράζω, σπάω/έσπασα, βρέχω), dazu Form an ein Nomen anpassen (z.B. „die verlorenen Schlüssel“, „ein gebrochenes Bein“), Lösung mit typischen Fehlern *γραψμένος, *κρυφτμένος, Betonung nicht auf -μέ-, Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 19.1: Vom Aorist zum Partizip
+
+**Teil A.** Bilde laut das Partizip (männlich). Geh über den Mediopassiv-Aorist, wo du ihn
+kennst, sonst über den Aktiv-Aorist.
+
+[κρύβω · φτιάχνω · πληρώνω · ντύνω · χάνω · κουράζω · σπάω (έσπασα) · βρέχω]{lang="el"}
+
+**Teil B.** Jetzt mit Nomen, Partizip in der passenden Form:
+
+1. die verlorenen Schlüssel
+2. ein gebrochenes Bein
+3. eine versteckte Kirche
+4. die bezahlte Rechnung
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Erst [-θηκα/-τηκα]{lang="el"} abschneiden, dann schauen, was übrig ist: [σ]{lang="el"} bleibt,
+[φ]{lang="el"} wird [μ]{lang="el"}, [χ]{lang="el"} wird [γ]{lang="el"}, ein Vokal bleibt stehen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+[ντύνω]{lang="el"} und [χάνω]{lang="el"} haben einen Mediopassiv-Aorist ohne [σ]{lang="el"}:
+[ντύθηκα, χάθηκα]{lang="el"}. Das Genus in Teil B verrät der Artikel: [το κλειδί, το πόδι, η
+εκκλησία, ο λογαριασμός]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+- [κρύφτηκα → κρυμμένος]{lang="el"} ([φ → μ]{lang="el"})
+- [φτιάχτηκα → φτιαγμένος]{lang="el"} ([χ → γ]{lang="el"})
+- [πληρώθηκα → πληρωμένος]{lang="el"}
+- [ντύθηκα → ντυμένος]{lang="el"}
+- [χάθηκα → χαμένος]{lang="el"}
+- [κουράστηκα → κουρασμένος]{lang="el"}
+- [έσπασα → σπασμένος]{lang="el"}
+- [έβρεξα → βρεγμένος]{lang="el"} (nicht über [βράχηκα]{lang="el"})
+
+**Teil B:** [τα χαμένα κλειδιά, ένα σπασμένο πόδι, μια κρυμμένη εκκλησία, ο πληρωμένος
+λογαριασμός]{lang="el"}. Hinter dem Nomen geht auch: [ο λογαριασμός είναι
+πληρωμένος]{lang="el"}, dann als Satz „die Rechnung ist bezahlt“.
+
+**Typische Fehler:**
+
+- Vom Aktiv-Aorist das [ψ]{lang="el"} mitnehmen: \*[κρυψμένος]{lang="el"}, wie
+  \*[γραψμένος]{lang="el"}. Oder das [τ]{lang="el"} stehen lassen: \*[κρυφτμένος]{lang="el"}.
+- [σ]{lang="el"} einbauen, wo der Aorist keins hat: \*[ντυσμένος, χασμένος]{lang="el"}.
+- Betonung wie im Aorist: \*[κουράσμενος]{lang="el"}. Sie liegt immer auf [-μέ-]{lang="el"},
+  auch in [χαμένα, σπασμένο]{lang="el"}.
+:::
+
+
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -293,7 +351,68 @@ aufgeschrieben.“
   richtet: [Έχω κλεισμένα εισιτήρια.]{lang="el"}
 :::
 
-<!-- EXERCISE: Zustand oder Ereignis unterscheiden, Art: Auswahl mit nummerierten Optionen (1 Mediopassiv-Aorist, 2 είμαι + Partizip, 3 κλειστός/ανοιχτός, 4 έχω + Partizip), 8 deutsche Sätze rund um eine Wanderung (Hüttentür wurde um zehn abgeschlossen / ist abgeschlossen; Schlucht ist wegen Regen zu; Bett in der Hütte gebucht; Karte ist auf Griechisch geschrieben; Weg wurde 2010 markiert; Rucksack ist gepackt; ich habe die Tickets gebucht), Lösung mit griechischem Satz und Begründung, typischer Fehler *είναι κλείσει, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 19.2: Zustand oder Ereignis?
+
+Acht Sätze von einer Wanderung. Welche Form nimmt das Griechische? Sag den Satz dann laut.
+
+1. **Mediopassiv-Aorist** (Ereignis)
+2. **[είμαι]{lang="el"} + Partizip** (Zustand)
+3. **[κλειστός/ανοιχτός]{lang="el"}** (offen, zu)
+4. **[έχω]{lang="el"} + Partizip** (Zustand, über den man verfügt)
+
+a) Die Tür der Hütte wurde um zehn abgeschlossen.
+b) Jetzt ist sie abgeschlossen.
+c) Die Schlucht ist wegen Regen gesperrt.
+d) Das Bett in der Hütte ist gebucht.
+e) Das Menü ist nur auf Griechisch geschrieben.
+f) Der Weg wurde 2010 markiert.
+g) Nach acht Stunden sind wir müde.
+h) Die Tickets? Die hab ich gebucht, die liegen bereit.
+
+Im Chat: „a1, b2, …“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Die deutsche Probe: „wurde“ ist Vorgang, „ist“ Zustand. Aber bei „zu, offen, gesperrt“ nimmt der
+Alltag das einfache Adjektiv.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+„Müde“ ist im Griechischen ein Partizip. Bei h) ist „ich“ das Subjekt und die Tickets das Objekt;
+das Partizip richtet sich nach dem Objekt.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**a1, b2, c3, d2, e2, f1, g2, h4.**
+
+- a) [Η πόρτα του καταφυγίου κλειδώθηκε στις δέκα.]{lang="el"} Zeitstempel, Ereignis.
+- b) [Τώρα είναι κλειδωμένη.]{lang="el"} Weiblich wie [η πόρτα]{lang="el"}.
+- c) [Το φαράγγι είναι κλειστό λόγω βροχής.]{lang="el"} Als Schlagzeile: [Κλειστό το
+  φαράγγι.]{lang="el"}
+- d) [Το κρεβάτι στο καταφύγιο είναι κλεισμένο.]{lang="el"} Hier gerade nicht
+  [κλειστό]{lang="el"}: Ein „geschlossenes“ Bett gibt es nicht, ein gebuchtes schon.
+- e) [Το μενού είναι γραμμένο μόνο στα ελληνικά.]{lang="el"}
+- f) [Το μονοπάτι σημαδεύτηκε το 2010.]{lang="el"}
+- g) [Μετά από οκτώ ώρες είμαστε κουρασμένοι.]{lang="el"}
+- h) [Τα έχω κλεισμένα.]{lang="el"} Auch richtig ist das Perfekt [Τα έχω κλείσει.]{lang="el"};
+  es meldet eher die erledigte Handlung.
+
+**Typische Fehler:** \*[είναι κλείσει, είναι κλειδωθεί]{lang="el"}: Die Form auf
+[-ει]{lang="el"} steht nur nach [έχω]{lang="el"}, nach [είμαι]{lang="el"} kommt das Partizip.
+Bei a) \*[ήταν κλειδωμένη στις δέκα]{lang="el"} ist grammatisch möglich, heißt aber „war um zehn
+(schon) abgeschlossen“, beschreibt also den Zustand, nicht das Abschließen. Bei h) nicht
+\*[κλεισμένος]{lang="el"} nach dem Sprecher: Das Partizip richtet sich nach [τα
+εισιτήρια]{lang="el"}.
+:::
+
+
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -409,9 +528,119 @@ klingt etwas gehoben; im Gespräch sagt man es mit einem Nebensatz (Kapitel 16).
   Verneinung mit [μη(ν)]{lang="el"}.
 :::
 
-<!-- EXERCISE: Gerundium bilden, Art: Formen bilden laut (10 Verben: διαβάζω, τρέχω, μιλάω, ρωτάω, ακούω, λέω, τρώω, πάω, ξέρω, ανεβαίνω; dazu ein -μαι-Verb als Falle, z.B. έρχομαι), Lösung mit Betonung und typischen Fehlern *λέοντας, *πάοντας, *περπατάοντας, Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 19.3: Elf Verben, zehn Gerundien
 
-<!-- EXERCISE: Gerundium verwenden, Art: Sätze laut umformen und Fehler finden; Teil A: 5 ενώ-/Nebensatz-Paare zum Wandern in einen Satz mit Gerundium umformen, davon 2 mit schwachem Pronomen (βλέποντάς τον, λέγοντάς το) und 1 mit Verneinung (μην ξέροντας); Teil B: 5 Fehlersätze (*Είμαι περπατώντας, *Μου αρέσει περπατώντας, *δεν ξέροντας, *το λέγοντας, *λέγοντας το ohne Akzent), Schwierigkeit 2 -->
+Bilde laut das Gerundium und achte auf die Betonung. Eins der Verben hat keins; welches, und wie
+sagst du stattdessen „während ich kam“?
+
+[διαβάζω · τρέχω · μιλάω · ρωτάω · ακούω · λέω · τρώω · πάω · ξέρω · ανεβαίνω ·
+έρχομαι]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Zwei Endungen: [-οντας]{lang="el"} an den Präsensstamm, Betonung bleibt, wo sie im Präsens war;
+bei [-άω]{lang="el"} die betonte Endung [-ώντας]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Die kurzen Verben holen ihr [γ]{lang="el"} aus dem Imperfekt: [έλεγα, έτρωγα,
+άκουγα]{lang="el"}. [πάω]{lang="el"} leiht sich den Stamm, den es auch im Imperfekt leiht.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+- [διαβάζοντας, τρέχοντας, ξέροντας, ανεβαίνοντας]{lang="el"}: Betonung wie im Präsens.
+- [μιλώντας, ρωτώντας]{lang="el"}: [-ώντας]{lang="el"}, betont auf dem [ώ]{lang="el"}.
+- [ακούγοντας, λέγοντας, τρώγοντας]{lang="el"}: mit [γ]{lang="el"}. Neben
+  [ακούγοντας]{lang="el"} liest man auch [ακούοντας]{lang="el"}, seltener.
+- [πηγαίνοντας]{lang="el"} von [πηγαίνω]{lang="el"}.
+- [έρχομαι]{lang="el"} hat keins: [ενώ ερχόμουν]{lang="el"}.
+
+**Typische Fehler:**
+
+- Die Endung stumpf anhängen: \*[λέοντας, πάοντας]{lang="el"}, \*[μιλάοντας]{lang="el"} wie
+  \*[περπατάοντας]{lang="el"}.
+- Den Aorist-Stamm nehmen: \*[διαβάσοντας, τρέξοντας]{lang="el"}. Das Gerundium ist Film, sein
+  Stamm ist der imperfektive.
+- Die Betonung des Imperfekts übernehmen: \*[διάβαζοντας]{lang="el"}. Das Gerundium hat kein
+  Augment und keine Betonungsverschiebung.
+- Ein Gerundium für [έρχομαι]{lang="el"} erfinden, etwa \*[ερχόμοντας]{lang="el"}.
+:::
+
+
+
+::: {.callout-note .exercise}
+## Übung 19.4: Aus zwei Verben wird eins
+
+**Teil A.** Mach laut aus jedem Satz einen mit Gerundium. In 3 und 4 hängt ein schwaches Pronomen am
+Gerundium.
+
+1. [Κατεβήκαμε. Όλη την ώρα τραγουδούσαμε.]{lang="el"}
+2. [Ενώ περπατούσαμε στο φαράγγι, μιλούσαμε για φαγητό.]{lang="el"}
+3. [Η Ελένη είδε τον Νίκο στο καταφύγιο και φώναξε: «Ζωντανός είσαι;»]{lang="el"}
+4. [Ενώ το έλεγε, γελούσε.]{lang="el"}
+5. [Επειδή δεν ξέραμε το μονοπάτι, χαθήκαμε.]{lang="el"}
+
+**Teil B.** Fünf Sätze haben einen Fehler, einer ist richtig. Welcher? Die anderen sag laut
+richtig. Im Chat: die Nummer.
+
+1. [Είμαι περπατώντας στο φαράγγι.]{lang="el"}
+2. [Μου αρέσει περπατώντας στα βουνά.]{lang="el"}
+3. [Δεν ξέροντας τον δρόμο, γυρίσαμε πίσω.]{lang="el"}
+4. [Το λέγοντας, έφυγε.]{lang="el"}
+5. [Μου έδωσε το νερό λέγοντας μου «καλή ανάβαση».]{lang="el"}
+6. [Ένας παππούς καθόταν στην πλατεία. Βρήκα το μονοπάτι ρωτώντας τον.]{lang="el"}
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Das Gerundium ersetzt das Verb, das beschreibt, **wie** oder **während** etwas geschieht; das
+andere Verb bleibt konjugiert. Beim Pronomen: dahinter, und Silben zählen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil A, Satz 5: Wie wird ein Gerundium verneint? Teil B: Zwei Sätze sind Englisch mit
+griechischen Wörtern, zwei haben ein Problem mit dem Pronomen.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+1. [Κατεβήκαμε τραγουδώντας.]{lang="el"}
+2. [Περπατώντας στο φαράγγι, μιλούσαμε για φαγητό.]{lang="el"}
+3. [Βλέποντάς τον στο καταφύγιο, η Ελένη φώναξε: «Ζωντανός είσαι;»]{lang="el"}
+4. [Γελούσε λέγοντάς το.]{lang="el"} oder [Λέγοντάς το, γελούσε.]{lang="el"}
+5. [Μην ξέροντας το μονοπάτι, χαθήκαμε.]{lang="el"}
+
+Die Reihenfolge ist frei: Das Gerundium kann vorn stehen (dann meist mit Komma) oder hinten.
+Bei 3 und 4 nicht \*[βλέποντας τον]{lang="el"}: drittletzte Silbe betont, also zweiter Akzent.
+
+**Teil B: Richtig ist 6.** [ρωτώντας]{lang="el"} ist auf der vorletzten Silbe betont, deshalb
+kein zweiter Akzent. Wer \*[ρωτώντάς τον]{lang="el"} erwartet hat, hat die Regel zu weit
+ausgedehnt.
+
+1. Keine Verlaufsform: [Περπατάω στο φαράγγι.]{lang="el"} (englisch [*I am walking*]{lang="en"}, spanisch
+   [*estoy caminando*]{lang="es"})
+2. Kein Gerundium als Nomen: [Μου αρέσει να περπατάω στα βουνά.]{lang="el"} oder [Μου αρέσει το
+   περπάτημα στα βουνά.]{lang="el"}
+3. [Μην ξέροντας τον δρόμο, γυρίσαμε πίσω.]{lang="el"}
+4. Pronomen dahinter: [Λέγοντάς το, έφυγε.]{lang="el"} Französisch [*en le disant*]{lang="fr"} verführt zur
+   falschen Stellung.
+5. Der zweite Akzent fehlt: [λέγοντάς μου]{lang="el"}.
+:::
+
+
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -483,7 +712,65 @@ das Schild, [το λιβάδι]{lang="el"} die Wiese, [ο τρίτωνας]{lang
 — Τότε, καλή ανάβαση!
 :::
 
-<!-- EXERCISE: Hörverstehen mit .listen zur Wegbeschreibung, Auftrag „mit ▶, ohne den Text aufzuklappen“; Teil A: Weg in die richtige Reihenfolge bringen (Schild am Dorfausgang, Hütte/Quelle, Wiese, See) und Zeiten nennen (3 h bis zur Hütte, 1 h weiter); Teil B richtig/falsch (Weg schlecht markiert? Molche = kleine Drachen? Bett noch nicht gebucht? bei Wolken weitergehen?); Teil C beim zweiten Hören alle Gerundien (βγαίνοντας, ανεβαίνοντας, λέγοντας, τραγουδώντας, πετώντας) und Partizipien (σημαδεμένο, κλεισμένο) zählen; Hinweise auf Hörsignale [-odas] und [-ˈmeno], Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 19.5: Der Weg zum See
+
+Hör mit ▶, ohne den Text aufzuklappen.
+
+**Teil A.** Bring die Stationen in die richtige Reihenfolge: **(a)** Wiese · **(b)** See ·
+**(c)** Kirche · **(d)** Hütte mit Quelle · **(e)** Schild. Wie lange geht man bis zur Hütte, wie
+lange von dort bis zum See?
+
+**Teil B.** Richtig oder falsch?
+
+1. Der Weg ist schlecht markiert.
+2. Die „kleinen schwarzen Drachen“ im See sind Molche.
+3. Der Wanderer ist singend aufgestiegen.
+4. Wer Wolken über dem Gipfel sieht, soll schnell weitergehen.
+5. Die Person, die fragt, hat noch kein Bett in der Hütte.
+
+**Teil C.** Zweiter Durchgang: Zähl die Gerundien ([-odas]) und die Partizipien ([-ˈmeno]).
+
+Im Chat etwa: „c e d a b, 3/1; 1f, 2r, …; 4 und 1“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Die Zeiten hängen an [ώρες]{lang="el"} und [ώρα]{lang="el"}. Für Teil B, Satz 3: Es gibt zwei
+Gerundien, eins für hinauf, eins für hinunter.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Ein Gerundium hat ein Pronomen hinter sich, ein anderes steht am Satzanfang. Nicht jedes Wort auf
+[-ato] oder [-eno] ist ein Partizip: Betont sein muss [ˈme].
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: c, e, d, a, b.** Hinter der Kirche los, am Dorfausgang das Schild, drei Stunden bis zur
+Hütte ([τρεις ώρες ανεβαίνοντας]{lang="el"}), dann noch eine Stunde, über eine Wiese hinunter und
+wieder hinauf zum See.
+
+**Teil B**
+
+1. Falsch: [καλά σημαδεμένο]{lang="el"}.
+2. Richtig: [Τρίτωνες, δηλαδή.]{lang="el"}
+3. Falsch: hinauf [λέγοντας «γιατί το κάνω αυτό;»]{lang="el"}, hinunter
+   [τραγουδώντας]{lang="el"}. Wer beide Gerundien gehört, aber vertauscht hat, hat die Form
+   erkannt; das ist das Ziel.
+4. Falsch: [γυρίστε πίσω]{lang="el"}, umkehren.
+5. Falsch: [Το έχω ήδη κλεισμένο.]{lang="el"}, [έχω]{lang="el"} + Partizip.
+
+**Teil C: fünf Gerundien, zwei Partizipien.** Gerundien: [βγαίνοντας, ανεβαίνοντας, λέγοντας,
+τραγουδώντας, πετώντας]{lang="el"}. [πετώντας του βράχους]{lang="el"} hat das Pronomen dahinter,
+ohne zweiten Akzent, weil [-ώντας]{lang="el"} auf der vorletzten Silbe betont ist. Partizipien:
+[σημαδεμένο, κλεισμένο]{lang="el"}. [γεμάτο]{lang="el"} ist ein gewöhnliches Adjektiv, kein
+Partizip: kein [-ˈme-].
+:::
 
 <!-- CHECK: Route Mikro Papingo – Astraka-Hütte (ca. 1950 m) – Drakolimni Tymfi (ca. 2050 m): Gehzeiten rund 3 h bis zur Hütte und 1 h weiter (mit Abstieg in die Lakka Tsoumani und Wiederaufstieg), Quelle am Weg bzw. bei der Hütte, Alpenmolche im See, Legende vom Drachenkampf Tymfi–Smolikas mit geworfenen Felsen. -->
 
@@ -569,7 +856,49 @@ Beide Formen haben ein Klangzeichen, das man auch in schneller Rede fängt:
 Vorsicht bei [ο μέλλοντας]{lang="el"} „das Futur“ und [ο κυνόδοντας]{lang="el"} „der Eckzahn“
 (Kapitel 15): Das sind Nomen, die nur so klingen. Sie haben einen Artikel davor.
 
-<!-- EXERCISE: Hör-Auftrag Easy Greek (https://www.youtube.com/@EasyGreekVideos): ein Straßeninterview über Urlaub, Reisen oder Natur suchen (Suchwörter διακοπές, βουνό, ταξίδι; Ausweichlösung: irgendein Interview); Durchgang 1 ohne Untertitel: Striche für jedes [-odas] und jedes betonte [-ˈmenos/-ˈmeni/-ˈmeno]; Durchgang 2 mit griechischen Untertiteln prüfen und die häufigsten Formen notieren (erwartbar: κουρασμένος, αγαπημένος, ευχαριστημένος, κάνοντας, πηγαίνοντας); offene Lösung mit Auswertungskriterien, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 19.6: Hör-Auftrag
+
+Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) ein Straßeninterview über Urlaub,
+Reisen oder Natur (Suchwörter [διακοπές, βουνό, ταξίδι]{lang="el"}); findest du keins, geht jedes
+andere Interview. Nimm drei bis vier Minuten.
+
+1. **Ohne Untertitel:** Zähl mit, wie oft du [-odas] am Wortende und ein betontes [-ˈmenos,
+   -ˈmeni, -ˈmeno, -ˈmena] hörst, getrennt nach beiden Sorten.
+2. **Mit griechischen Untertiteln:** Prüf deine Zählung und merk dir die drei Formen, die am
+   häufigsten vorkamen. Welche davon kennst du aus diesem Kapitel?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Gerundien stehen gern am Satzanfang oder direkt hinter dem Hauptverb ([πήγα
+περπατώντας]{lang="el"}). Partizipien hängen oft an [είμαι]{lang="el"}: [ήμουν
+κουρασμένος]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Nicht mitzählen: Nomen auf [-οντας]{lang="el"} mit Artikel ([ο μέλλοντας]{lang="el"}) und Wörter,
+bei denen [-μενος]{lang="el"} unbetont ist, etwa [επόμενος]{lang="el"} [eˈpomenos].
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Keine feste Lösung. Häufig sind in solchen Interviews [αγαπημένος]{lang="el"} („mein
+Lieblings…“), [κουρασμένος]{lang="el"}, [ευχαριστημένος]{lang="el"} „zufrieden“ und Gerundien
+wie [κάνοντας, πηγαίνοντας, περπατώντας]{lang="el"}. Partizipien sind meist häufiger als
+Gerundien, denn das Gerundium ist im spontanen Gespräch seltener als in Erzählung und Presse.
+
+**Auswertung:** Hast du ohne Untertitel mindestens die Hälfte gefunden, sitzen die Hörsignale.
+Hast du zu viele gezählt, prüf, ob [επόμενος]{lang="el"} oder ein Nomen auf [-οντας]{lang="el"}
+dabei war. Fehlen dir viele Partizipien, hör auf die Betonung: [ˈme] ist die lauteste Silbe im
+Wort.
+:::
+
+
 
 ## Das Wichtigste {#sec-partizip-wichtigste}
 

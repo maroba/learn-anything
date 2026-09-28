@@ -216,7 +216,56 @@ Bezugswort.
 
 <!-- CHECK: „Χαίρομαι ότι ήρθες“ – gelegentlich/akzeptabel, aber που klar üblicher? Formulierung der Achtung-Box prüfen. „Χαίρομαι να σε βλέπω“ als allgemeine Aussage idiomatisch? -->
 
-<!-- EXERCISE: ότι/πως, να oder που nach dem Hauptverb wählen (Aussage, Aufforderung, Gefühl), Art: Multiple Choice mit nummerierten Optionen, 8 Sätze aus einem Familienchat über eine Rückkehr aus dem Ausland (λέω ότι/λέω να, χαίρομαι που, λυπάμαι που, ξέρω ότι, θέλω να, καλά που, νομίζω πως); Lösung erklärt die spanische Parallele und die Gefühls-Falle, Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 16.1: Die Tochter kommt zurück
+
+Aus einem Familienchat: Eleni kommt nach sechs Jahren im Ausland nach Hause. Was gehört in die
+Lücke? **(a)** [ότι/πως]{lang="el"} · **(b)** [να]{lang="el"} · **(c)** [που]{lang="el"}. Im
+Chat: „1a, 2c, …“.
+
+::: {lang="el" .no-audio}
+1. Η Ελένη λέει \_\_\_ γυρίζει τον Σεπτέμβριο.
+2. Χαίρομαι πολύ \_\_\_ γυρίζεις, κορίτσι μου!
+3. Η μαμά λέει στον Νίκο \_\_\_ την πάρει από το αεροδρόμιο.
+4. Λυπάμαι \_\_\_ δεν θα είμαι εκεί την Κυριακή.
+5. Ξέρετε \_\_\_ ο Νίκος πούλησε το αυτοκίνητό του;
+6. Θέλω \_\_\_ φάμε όλοι μαζί το Σάββατο.
+7. Καλά \_\_\_ μας το είπες νωρίς.
+8. Νομίζω \_\_\_ θα της λείπει η Γερμανία.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Frag bei jedem Satz: Wird etwas berichtet oder gedacht, wird etwas gewünscht oder verlangt, oder
+freut bzw. ärgert man sich über eine Tatsache?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Die Verbform verrät viel: [πάρει, φάμε]{lang="el"} haben keine Zeit und können nur nach
+[να]{lang="el"} stehen. Nach [χαίρομαι, λυπάμαι, καλά]{lang="el"} steht eine Tatsache, auch
+wenn das Spanische hier den Subjuntivo will.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1a, 2c, 3b, 4c, 5a, 6b, 7c, 8a.**
+
+- 1 und 3: [λέει ότι γυρίζει]{lang="el"} berichtet (*dice que vuelve*), [λέει στον Νίκο να
+  την πάρει]{lang="el"} verlangt (*le dice que la recoja*): Subjuntivo entspricht hier
+  [να]{lang="el"}.
+- 2, 4, 7: Gefühl über eine Tatsache, also [που]{lang="el"}. Die Falle: *me alegro de que
+  vuelvas* verführt zu \*[χαίρομαι να γυρίζεις]{lang="el"}; „ich freue mich, dass“ zu
+  [ότι]{lang="el"}, das man gelegentlich hört, aber weniger üblich ist. In 4 steht sogar
+  [θα]{lang="el"}: Das Fehlen am Sonntag steht fest, also ist es eine Tatsache.
+- 5, 8: Wissen und Meinen, also [ότι]{lang="el"} oder [πως]{lang="el"}, beide richtig
+  (*creo que* + Indikativ).
+- 6: [θέλω να]{lang="el"} aus Kapitel 5.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -273,7 +322,59 @@ In Nachrichten und Behördentexten liest du noch **[διότι]{lang="el"}** [ð
 - [γιατί]{lang="el"} [ʝaˈti] ist zweisilbig: kein [i-a], sondern ein *j* wie in *ja*.
 :::
 
-<!-- EXERCISE: Grund ausdrücken mit επειδή, γιατί, αφού, Art: zwei Sätze laut zu einem verbinden (6 Paare aus dem Krisenalltag, zwei davon mit Grund vorn → επειδή, zwei mit vorwurfsvollem „da ja“ → αφού), dazu 2 Mini-Dialoge Frage/Antwort mit γιατί; Lösung mit Varianten, Schwierigkeit 1 -->
+::: {.callout-note .exercise}
+## Übung 16.2: Gründe in der Krise
+
+**Teil A.** Verbinde laut zu einem Satz; B ist jeweils der Grund. Wo „vorn“ steht, beginnt dein
+Satz mit dem Grund. Welches „weil“ passt?
+
+1. A [Δεν πήγαμε διακοπές.]{lang="el"} B [Δεν είχαμε λεφτά.]{lang="el"}
+2. (vorn) A [Πληρώναμε μόνο με μετρητά.]{lang="el"} B [Οι τράπεζες ήταν κλειστές.]{lang="el"}
+3. A [Γιατί αγοράζεις καινούριο αυτοκίνητο;]{lang="el"} B [Δεν έχεις δουλειά.]{lang="el"}
+4. (vorn) A [Ο γιος μου γύρισε στο σπίτι.]{lang="el"} B [Το νοίκι ανέβηκε.]{lang="el"}
+5. A [Γιατί περιμένεις;]{lang="el"} B [Ξέρεις ότι το μηχάνημα είναι άδειο.]{lang="el"}
+6. A [Ο Κώστας έφυγε στη Γερμανία.]{lang="el"} B [Εδώ δεν έβρισκε δουλειά.]{lang="el"}
+
+**Teil B.** Frage und Antwort laut, beide mit [γιατί]{lang="el"}, und achte auf die Melodie:
+
+7. – Warum bist du zurückgekommen? – Weil mir meine Familie gefehlt hat.
+8. – Warum wartet ihr hier? – Weil wir Geld abheben wollen.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Klingt der Grund nach einem Vorwurf, den beide schon kennen („wo du doch …“)? Und was passiert,
+wenn ein Satz mit [Γιατί]{lang="el"} beginnt?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Grund vorn: [επειδή]{lang="el"}. Grund hinten: [γιατί]{lang="el"} oder [επειδή]{lang="el"}.
+In 3 und 5 kommt der Grund vor die Frage, mit [αφού]{lang="el"}. Für 7: [μου έλειπε]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [Δεν πήγαμε διακοπές, γιατί (επειδή) δεν είχαμε λεφτά.]{lang="el"}
+2. [Επειδή οι τράπεζες ήταν κλειστές, πληρώναμε μόνο με μετρητά.]{lang="el"}
+   [Γιατί]{lang="el"} am Anfang klänge wie eine Frage.
+3. [Αφού δεν έχεις δουλειά, γιατί αγοράζεις καινούριο αυτοκίνητο;]{lang="el"}
+4. [Επειδή το νοίκι ανέβηκε, ο γιος μου γύρισε στο σπίτι.]{lang="el"}
+5. [Αφού ξέρεις ότι το μηχάνημα είναι άδειο, γιατί περιμένεις;]{lang="el"} [Επειδή]{lang="el"}
+   ginge grammatisch, nähme aber den Vorwurf heraus.
+6. [Ο Κώστας έφυγε στη Γερμανία, γιατί (επειδή) εδώ δεν έβρισκε δουλειά.]{lang="el"}
+7. [— Γιατί γύρισες; — Γιατί μου έλειπε η οικογένειά μου.]{lang="el"} Auch [μου
+   έλειψε]{lang="el"} ist richtig. Die Frage steigt am Ende, die Antwort nicht.
+8. [— Γιατί περιμένετε εδώ; — Γιατί θέλουμε να βγάλουμε λεφτά.]{lang="el"} In der Antwort
+   geht auch [Επειδή …]{lang="el"}.
+
+**Typische Fehler:** [Γιατί …]{lang="el"} in 2 und 4 an den Anfang setzen; das Verb nach
+deutschem Muster ans Ende schieben: [επειδή λεφτά δεν είχαμε]{lang="el"} geht nur mit
+Nachdruck auf [λεφτά]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -358,7 +459,56 @@ Bei Zukunftsbezug nach [όταν, μόλις, αφού]{lang="el"}: perfektive F
 
 <!-- CHECK: „όταν θα φτάσω“ kommt umgangssprachlich vor; als „nicht Standard“ markieren statt als Fehler? Ggf. Achtung-Box abschwächen und auf Kapitel 17 verweisen. -->
 
-<!-- EXERCISE: Zeitsätze mit όταν, μόλις, αφού, πριν, μέχρι να und richtiger Form (Aorist/Imperfekt/να-Form, ohne θα bei Zukunft), Art: Lückentext (::: {lang="el" .no-audio}) mit 8 Lücken, Verb in Klammern vorgegeben, eine Erinnerung an den Juli 2015 und ein Plan für morgen; Lösung erklärt *πριν έκλεισαν und *όταν θα, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 16.3: Juli 2015
+
+Setz das Verb in der richtigen Form ein und sag dir bei jeder Lücke, warum: Aorist, Imperfekt
+oder [να]{lang="el"}-Form? Zuerst eine Erinnerung, dann ein Plan aus derselben Woche.
+
+::: {lang="el" .no-audio}
+Τον Ιούλιο του 2015, όταν (1: κλείνω) \_\_\_ οι τράπεζες, ήμουν στην Αθήνα. Κάθε μέρα πήγαινα
+στο μηχάνημα πριν (2: ανοίγω) \_\_\_ τα μαγαζιά. Όταν (3: βλέπω, εμείς) \_\_\_ κάποια γιαγιά, την
+αφήναμε να περάσει μπροστά. Μια μέρα, μόλις (4: φτάνω) \_\_\_ στο μηχάνημα, άδειασε. Περιμέναμε
+μία ώρα μέχρι να (5: έρχομαι) \_\_\_ κάποιος από την τράπεζα.
+
+Αύριο θα ξυπνήσω στις έξι. Πριν (6: φεύγω) \_\_\_ από το σπίτι, θα πάρω την κάρτα της μητέρας μου.
+Αφού (7: βγάζω) \_\_\_ λεφτά, θα πάω στο σούπερ μάρκετ, και όταν (8: γυρίζω) \_\_\_, θα σου
+τηλεφωνήσω.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Erst die Konjunktion anschauen: Gehört sie in die Spalte „normales Verb“ oder
+„[να]{lang="el"}-Form“? Nur bei der ersten Spalte stellt sich die Frage nach der Zeit.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+2 und 5 liegen in der Vergangenheit und bekommen trotzdem keinen Aorist. 3 passiert immer wieder.
+In 6 bis 8 steht kein [θα]{lang="el"} im Nebensatz.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. [έκλεισαν]{lang="el"}: ein Ereignis, Foto.
+2. [ανοίξουν]{lang="el"}: nach [πριν]{lang="el"} die [να]{lang="el"}-Form, auch in der
+   Vergangenheit. \*[πριν άνοιξαν]{lang="el"} ist der typische Fehler; das Spanische hilft:
+   *antes de que abrieran*, Subjuntivo.
+3. [βλέπαμε]{lang="el"}: jedes Mal, wenn; Film wie in Kapitel 4. [είδαμε]{lang="el"} passt nicht
+   zu [αφήναμε]{lang="el"}.
+4. [έφτασα]{lang="el"}: [μόλις]{lang="el"} mit Foto, „kaum war ich da“.
+5. [έρθει]{lang="el"}: [μέχρι να]{lang="el"} + [να]{lang="el"}-Form, obwohl vergangen.
+6. [φύγω]{lang="el"}: Foto ohne [θα]{lang="el"}.
+7. [βγάλω]{lang="el"}: nach [αφού]{lang="el"} mit Zukunftsbezug perfektive Form ohne
+   [θα]{lang="el"}.
+8. [γυρίσω]{lang="el"}: [όταν θα γυρίσω]{lang="el"} ist deutsch gedacht; man hört es
+   gelegentlich, Standard ist [όταν γυρίσω]{lang="el"}.
+
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -418,7 +568,71 @@ Die Probe: Könnte „jedes Mal, laufend“ davorstehen? Dann Film. Sonst Foto.
 - Foto für ein Ziel, Film für einen Zweck, der sich wiederholt oder andauert.
 :::
 
-<!-- EXERCISE: για να / για να μη(ν) / χωρίς να mit richtigem Aspekt, Art: mündlich übersetzen Deutsch→Griechisch (8 Sätze über Auswandern, Sparen, Nebenjobs; davon 3 in der Vergangenheit, 2 mit Film-Zweck), dazu Teil B Fehler finden (4 Sätze: *για να βρήκε, *πριν έφυγα, Verb am Satzende, *χαίρομαι ότι); Lösung mit typischen Fehlern, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 16.4: Gehen, sparen, schuften
+
+**Teil A.** Sag laut auf Griechisch. Achte auf Foto oder Film nach [για να]{lang="el"}.
+
+1. Ich spare, um in Berlin zu arbeiten.
+2. Ich gebe dir meine Karte, damit du Bargeld abhebst.
+3. 2012 ging sie nach Deutschland, um Arbeit zu finden.
+4. Wir sind um sechs gekommen, um nicht in der Schlange zu warten.
+5. Geh nicht, ohne zu bezahlen!
+6. Ich arbeite auch am Wochenende, um meinen Eltern jeden Monat Geld zu schicken.
+7. Ich rufe sie jeden Sonntag an, damit sie sich keine Sorgen macht.
+8. Wir haben das Auto verkauft, ohne dass die Kinder es wussten.
+
+**Teil B.** Was stimmt nicht, und wie klingt es richtig?
+
+::: {lang="el" .no-audio}
+1. Πέρσι πήγε στη Γερμανία για να βρήκε δουλειά.
+2. Πριν έφυγα από την Αθήνα, πούλησα το αυτοκίνητο.
+3. Έμεινα στο σπίτι, επειδή η τράπεζα κλειστή ήταν.
+4. Χαίρομαι ότι γύρισες.
+:::
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+„Sparen“: [μαζεύω λεφτά]{lang="el"}. Wer handelt im Nebensatz? Die Person steckt im Verb nach
+[να]{lang="el"}, bei „um zu“ wie bei „damit“.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Die Probe „jedes Mal, laufend“ trifft auf 6 und 7 zu. In 8 hat [ξέρω]{lang="el"} keinen
+perfektiven Stamm. In Teil B sind 1 und 2 klar falsch, 3 und 4 eher unüblich.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A**
+
+1. [Μαζεύω λεφτά για να δουλέψω στο Βερολίνο.]{lang="el"}
+2. [Σου δίνω την κάρτα μου για να βγάλεις μετρητά (λεφτά).]{lang="el"}
+3. [Το 2012 πήγε (έφυγε) στη Γερμανία για να βρει δουλειά.]{lang="el"} Nicht
+   \*[για να βρήκε]{lang="el"}.
+4. [Ήρθαμε στις έξι για να μην περιμένουμε στην ουρά.]{lang="el"}
+5. [Μη φύγεις χωρίς να πληρώσεις!]{lang="el"}
+6. [Δουλεύω και τα Σαββατοκύριακα για να στέλνω λεφτά στους γονείς μου κάθε μήνα.]{lang="el"}
+   Film, das Schicken wiederholt sich; [να στείλω]{lang="el"} wäre eine einzelne Überweisung.
+7. [Της τηλεφωνώ κάθε Κυριακή για να μην ανησυχεί.]{lang="el"} Film für den Dauerzustand;
+   [να μην ανησυχήσει]{lang="el"} ist nicht falsch, klingt aber nach einem einzelnen Anlass.
+8. [Πουλήσαμε το αυτοκίνητο χωρίς να το ξέρουν τα παιδιά.]{lang="el"} Kein [δεν]{lang="el"}:
+   [χωρίς]{lang="el"} verneint schon.
+
+**Teil B**
+
+1. [… για να βρει δουλειά.]{lang="el"} Kein Wechsel wie spanisch *encontrara*.
+2. [Πριν φύγω από την Αθήνα, …]{lang="el"} Nach [πριν]{lang="el"} nie der Aorist.
+3. [… επειδή η τράπεζα ήταν κλειστή.]{lang="el"} Deutsche Wortstellung; mit Nachdruck auf
+   [κλειστή]{lang="el"} ginge sie, neutral steht das Verb vorn.
+4. [Χαίρομαι που γύρισες.]{lang="el"} [ότι]{lang="el"} hört man gelegentlich, üblich ist
+   [που]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -456,7 +670,63 @@ jeder Aspekt möglich:
 Das zweite [ενώ]{lang="el"} ist schon fast „obwohl“. Ob „während“ oder „dagegen“, entscheidet der
 Sinn, wie im Deutschen.
 
-<!-- EXERCISE: Gegensatz und Zeit unterscheiden: ενώ (während/dagegen), αν και, και όμως; Art: Zuordnen/Auswählen, 6 griechische Sätze über Vorher/Nachher der Krise, jeweils entscheiden „während (zeitlich)“, „dagegen“ oder „obwohl“ und laut ins Deutsche übersetzen; dann 3 deutsche obwohl-Sätze laut mit αν και bilden, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 16.5: Während, dagegen, obwohl
+
+**Teil A.** Heißt es hier „während (zur selben Zeit)“, „während (dagegen)“ oder „obwohl“? Sag
+den Satz dann laut auf Deutsch. Im Chat: „1 zeitlich, 2 dagegen, …“.
+
+::: {lang="el" .no-audio}
+1. Ενώ περίμενα στην ουρά, διάβαζα ειδήσεις στο κινητό.
+2. Πριν από την κρίση έβγαινα κάθε βράδυ, ενώ τώρα βγαίνω μόνο το Σάββατο.
+3. Ενώ είχε δουλειά στην Αθήνα, έφυγε στο Λονδίνο.
+4. Αν και οι μισθοί έπεσαν, οι τιμές δεν έπεσαν.
+5. Ενώ μιλούσαμε για την κρίση, χτύπησε το τηλέφωνο.
+6. Ο αδερφός μου έμεινε στην Ελλάδα, ενώ εγώ έφυγα.
+:::
+
+**Teil B.** Sag laut mit [αν και]{lang="el"}:
+
+7. Obwohl die Banken zu waren, habe ich mir keine Sorgen gemacht.
+8. Obwohl sein Gehalt klein ist, hilft er seinen Eltern.
+9. Wir sind geblieben, obwohl wir gehen wollten.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Zeitlich: zwei Dinge laufen gleichzeitig, eins davon als Film. Dagegen: zwei Tatsachen im
+Kontrast, oft mit verschiedenem Subjekt oder Zeitpunkt. Obwohl: das Ergebnis ist unerwartet.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+In 3 hätte man erwartet, dass er bleibt. In Teil B folgt auf [αν και]{lang="el"} ein normales
+Verb, gleich was das Französische mit *bien que* verlangt.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+1. zeitlich: „Während ich in der Schlange wartete, las ich …“
+2. dagegen: „…, während ich jetzt nur samstags ausgehe.“
+3. obwohl: „Obwohl er Arbeit in Athen hatte, ging er nach London.“
+4. obwohl: [αν και]{lang="el"} ist nie zeitlich.
+5. zeitlich: Film im Hintergrund, Foto als Ereignis.
+6. dagegen: „…, während ich gegangen bin.“
+
+Die Grenze zwischen „dagegen“ und „obwohl“ ist fließend; wer 2 oder 6 mit „obwohl“ übersetzt,
+verschiebt den Sinn nur leicht.
+
+7. [Αν και οι τράπεζες ήταν κλειστές, δεν ανησυχούσα (ανησύχησα).]{lang="el"}
+8. [Αν και ο μισθός του είναι μικρός, βοηθάει τους γονείς του.]{lang="el"}
+9. [Μείναμε, αν και θέλαμε να φύγουμε.]{lang="el"} Das [να]{lang="el"} gehört zu
+   [θέλαμε]{lang="el"}, nicht zu [αν και]{lang="el"}.
+
+**Typischer Fehler:** \*[αν και να …]{lang="el"} nach dem Muster *bien que* + Subjonctif. In 7
+und 9 geht auch [ενώ]{lang="el"}; [παρόλο που]{lang="el"} passt überall.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -495,7 +765,59 @@ dieselbe Frage. Erst hören, dann lesen.
 μπαίνει πάλι λίγο χρήμα, ξαναήρθε και ο δεύτερος καφές.
 :::
 
-<!-- EXERCISE: Hörverstehen mit .listen: Auftrag „mit ▶, ohne den Text aufzuklappen“; 5 Multiple-Choice-Fragen (Wohin ging die junge Frau und wozu? Warum kam sie zurück? Wie oft wurde die Rente gekürzt? Warum beklagt sich der Großvater nicht? Was änderte sich im Kafenion?), dann zweiter Durchgang: jede Konjunktion zählen (επειδή, γιατί, για να, αφού, ενώ, που, μόλις) und bei αφού entscheiden „nachdem“ oder „da ja“; Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 16.6: Drei Antworten
+
+Hör das Interview mit ▶, ohne den Text aufzuklappen. Im Chat: „1b, 2a, …“.
+
+1. Wohin ging die junge Frau, und wozu? **(a)** nach Stuttgart, um zu studieren ·
+   **(b)** nach Stuttgart, um als Ingenieurin zu arbeiten · **(c)** nach München, um als
+   Ingenieurin zu arbeiten
+2. Warum kam sie zurück? **(a)** Sie verlor ihre Stelle. · **(b)** Ihr fehlten das Meer und
+   ihre Mutter. · **(c)** Ihre Mutter wurde krank.
+3. Wie oft wurde die Rente des Großvaters gekürzt? **(a)** zweimal · **(b)** dreimal ·
+   **(c)** sechsmal
+4. Warum beklagt er sich nicht? **(a)** Seine Rente ist noch hoch. · **(b)** Er konnte seinen
+   Enkeln helfen. · **(c)** Seine Kinder helfen ihm.
+5. Was änderte sich im Kafenion? **(a)** In der Krise tranken die Gäste einen Kaffee und blieben
+   lange, später kam der zweite zurück. · **(b)** In der Krise kam kaum noch jemand. ·
+   **(c)** Er senkte die Preise.
+
+**Zweiter Durchgang:** Achte nur auf [επειδή, γιατί, για να, αφού, ενώ, που, μόλις]{lang="el"}.
+Wie oft hörst du jedes? Heißt [αφού]{lang="el"} hier „nachdem“ oder „da ja“, und [ενώ]{lang="el"}
+„während (zeitlich)“ oder „dagegen“?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Nach jeder Zahl kommt ein Nomen: [έξι χρόνια, τρεις φορές, τρία εγγόνια]{lang="el"}. Hör, welches.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Beim [αφού]{lang="el"}-Satz des Großvaters: Ordnet er zwei Ereignisse zeitlich, oder begründet
+er mit etwas, das jeder weiß?
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**1b, 2b, 3b, 4b, 5a.**
+
+1. [Έφυγα στη Στουτγάρδη για να δουλέψω ως μηχανικός.]{lang="el"}
+2. [επειδή μου έλειπε η θάλασσα. Και η μαμά μου.]{lang="el"}
+3. [τρεις φορές]{lang="el"}; sechs Jahre war die junge Frau in Stuttgart.
+4. [γιατί έχω τρία εγγόνια και τα βοήθησα όλα]{lang="el"}.
+5. [έπινε έναν και καθόταν τέσσερις ώρες … ξαναήρθε και ο δεύτερος καφές]{lang="el"}.
+
+**Zweiter Durchgang:** jedes genau einmal. [αφού δεν είχαν οι γονείς τους]{lang="el"} ist „da
+ja“: ein bekannter Grund, keine Reihenfolge. [ενώ στην κρίση έπινε έναν]{lang="el"} ist
+„dagegen“. Nicht mitzählen: [πριν από την κρίση]{lang="el"} (Präposition, kein Nebensatz) und
+[Τι να κάνουμε;]{lang="el"} („Was soll man machen?“). Leicht überhört:
+[χαιρόμουν που ερχόταν]{lang="el"}.
+:::
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -566,7 +888,44 @@ Der Hörtest für die Straße: Auf [Easy Greek](https://www.youtube.com/@EasyGre
 Leute spontan befragt, mit griechischen und englischen Untertiteln. Fragen nach dem Warum lösen
 dort die meisten Nebensätze aus.
 
-<!-- EXERCISE: Hör-Auftrag Easy Greek: ein Straßeninterview mit Meinungs- oder Warum-Fragen suchen (Suchwörter: κρίση, οικονομία, γιατί; Ausweichlösung: jedes Interview), Durchgang 1 ohne Untertitel: επειδή/γιατί/για να zählen und je ein Beispiel im Kopf behalten; Durchgang 2 mit griechischen Untertiteln prüfen und bei zwei για να-Sätzen Foto oder Film bestimmen; offene Lösung mit Auswertungskriterien, Schwierigkeit 2 -->
+::: {.callout-note .exercise}
+## Übung 16.7: Warum-Fragen auf der Straße
+
+Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) ein Straßeninterview mit
+Meinungs- oder Warum-Fragen (Suchwörter: [κρίση, οικονομία, γιατί]{lang="el"}); findest du
+keins, nimm irgendein Interview. Drei bis vier Minuten reichen.
+
+1. **Ohne Untertitel:** Mach einen Strich für jedes [επειδή]{lang="el"}, [γιατί]{lang="el"} und
+   [για να]{lang="el"} ([ʝana]). Behalte von jedem ein Beispiel im Kopf.
+2. **Mit griechischen Untertiteln:** Prüf deine Striche. Such zwei [για να]{lang="el"}-Sätze und
+   bestimme: Foto oder Film?
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+[γιατί]{lang="el"} als „warum?“ kommt meist vom Interviewer, als „weil“ von den Befragten.
+Zähl beides, aber getrennt.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Nach [για να]{lang="el"} hörst du den Aspekt an der Form: [να βγάζω]{lang="el"} Film,
+[να βγάλω]{lang="el"} Foto. Bei manchen Verben sind beide gleich ([να κάνω, να
+περιμένω]{lang="el"}); nimm dann einen anderen Satz.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+Keine feste Zahl. In spontanen Antworten ist [γιατί]{lang="el"} oft häufiger als
+[επειδή]{lang="el"}, weil Antworten gern mit [Γιατί …]{lang="el"} beginnen; das hängt aber
+stark vom Sprecher ab. Nach [για να]{lang="el"} überwiegt das Foto ([για να βρω δουλειά]{lang="el"});
+Film kommt bei Gewohnheiten ([για να ζω, για να πληρώνω]{lang="el"}). Die Hälfte der Striche
+beim Nachprüfen wiederzufinden ist ein gutes Ergebnis; im echten Tempo verschwindet
+[για να]{lang="el"} fast im Verb.
+:::
 
 ## Das Wichtigste {#sec-nebensatz-wichtigste}
 
@@ -719,7 +1078,74 @@ Politics* (2020).
 
 <!-- CHECK: Lesetext sprachlich: „χρωστούσε τόσα πολλά, ώστε δεν μπορούσε πια να δανειστεί από τις αγορές“ idiomatisch? „ένα γκρίζο σύννεφο έμενε πάνω από την Αθήνα“ oder besser „σκέπαζε την Αθήνα“? „σωπαίνει λίγο πριν απαντήσει“ natürlich? -->
 
-<!-- EXERCISE: Leseverstehen und Nebensätze im Lesetext, Art: Teil A richtig/falsch (7 Aussagen, u.a. Krise nur 2015?, Löhne stiegen?, Kamine wegen Kälte oder wegen Preis?, Banken drei Monate zu?); Teil B alle Konjunktionen suchen, einordnen (normales Verb / να-Form) und bei den να-Formen Foto oder Film begründen (βρουν, πληρώνουν, βγαίνουν, ανοίξουν, απαντήσει); Teil C drei Sätze des Textes laut umformen (επειδή → γιατί hinten; ενώ → αν και; για να mit anderem Subjekt), Schwierigkeit 3 -->
+::: {.callout-note .exercise}
+## Übung 16.8: Nach dem Lesen
+
+**Teil A.** Richtig oder falsch? Im Chat: „1f, 2r, …“.
+
+1. Mit „der Krise“ meinen Griechen vor allem den Sommer 2015.
+2. Um die Kredite zu bekommen, unterschrieb das Land drei Vereinbarungen.
+3. Die Löhne stiegen, die Steuern aber noch mehr.
+4. 2013 war mehr als die Hälfte der jungen Leute arbeitslos.
+5. Viele heizten wieder mit dem Kamin, weil die Winter kälter wurden.
+6. Im Sommer 2015 waren die Banken drei Monate geschlossen.
+7. Ein Teil derer, die gegangen waren, ist zurückgekommen.
+
+**Teil B.** Such im Text die Konjunktionen dieses Kapitels und sortier sie: normales Verb oder
+[να]{lang="el"}-Form? Begründe bei [βρουν, πληρώνουν, βγαίνουν, ανοίξουν, απαντήσει]{lang="el"}
+Foto oder Film.
+
+**Teil C.** Form laut um:
+
+8. [Επειδή το πετρέλαιο θέρμανσης έγινε πολύ ακριβό, πολλοί άναψαν ξανά τα τζάκια
+   τους.]{lang="el"} → Grund nach hinten, mit [γιατί]{lang="el"}.
+9. [Πολλοί έφυγαν χωρίς να το θέλουν.]{lang="el"} → mit [αν και]{lang="el"}: „obwohl sie es
+   nicht wollten“.
+10. [Για να πάρει τα δάνεια, υπέγραψε τρία μνημόνια.]{lang="el"} → „…, damit die Länder der
+    Eurozone ihm Kredite geben.“
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 1
+
+Teil A: Drei Aussagen sind richtig. Teil B: Nicht jedes [να]{lang="el"} hängt an einer
+Konjunktion; auch [μπορούσαν να, έλεγαν να]{lang="el"} zählen für die Aspektfrage.
+:::
+
+::: {.callout-tip collapse="true" .hint}
+## Hinweis 2
+
+Teil C, 9: [θέλω]{lang="el"} hat nur eine Vergangenheit ([ήθελα]{lang="el"}). 10: „ihm“ ist
+[της]{lang="el"}, denn [η χώρα]{lang="el"} ist weiblich; [δίνω]{lang="el"} hat
+[να δώσω]{lang="el"}.
+:::
+
+::: {.callout-tip collapse="true" .solution}
+## Lösung
+
+**Teil A: 1f, 2r, 3f, 4r, 5f, 6f, 7r.** 1: 2010 bis 2018. 3: [μειώθηκαν]{lang="el"}, sie
+sanken. 5: wegen des Heizölpreises. 6: drei Wochen.
+
+**Teil B.** Normales Verb: [όταν (λένε, ρωτάς), ώστε, ενώ, επειδή (2×), αν και, που (χαίρομαι
+που)]{lang="el"}. [να]{lang="el"}-Form: [για να (πάρει, βρουν), χωρίς να, μέχρι να,
+πριν]{lang="el"}. Aspekt:
+
+- [βρουν]{lang="el"}, [ανοίξουν]{lang="el"}, [απαντήσει]{lang="el"}: Foto, ein Ziel oder
+  Ereignis, auch in der Vergangenheit ohne Aorist.
+- [πληρώνουν]{lang="el"}: Film, die Miete ist jeden Monat fällig.
+- [βγαίνουν]{lang="el"}: Film, ein Verhalten über den ganzen Winter.
+
+Die [που]{lang="el"} in [οικογένειες που δεν είχαν]{lang="el"} und [όπου]{lang="el"} sind
+Relativwörter (Kapitel 15), keine Konjunktionen dieses Kapitels.
+
+**Teil C**
+
+8. [Πολλοί άναψαν ξανά τα τζάκια τους, γιατί το πετρέλαιο θέρμανσης έγινε πολύ ακριβό.]{lang="el"}
+9. [Πολλοί έφυγαν, αν και δεν ήθελαν.]{lang="el"} Normales Verb mit [δεν]{lang="el"}, nicht
+   \*[αν και να μη θέλουν]{lang="el"}; das [το]{lang="el"} kann bleiben oder wegfallen.
+10. [Υπέγραψε τρία μνημόνια, για να της δώσουν δάνεια οι χώρες της ευρωζώνης.]{lang="el"}
+    Das Subjekt steht gern hinter dem Verb; auch [… οι χώρες της ευρωζώνης δάνεια]{lang="el"}.
+:::
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |

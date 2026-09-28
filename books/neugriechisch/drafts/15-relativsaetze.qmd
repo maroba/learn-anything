@@ -25,9 +25,9 @@ Zwei Freundinnen in einem Café in Athen. Die eine sucht einen Film, der ihr nic
 
 — Αυτή με τον πατέρα που δεν αφήνει τα παιδιά του να βγουν από το σπίτι.
 
-— Α, τον «Κυνόδοντα»! Του Λάνθιμου.
+— Α, ο «Κυνόδοντας»! Του Λάνθιμου.
 
-— Αυτόν. Ένας συνάδελφος που είναι από τη Σεβίλλη θέλει να δει μια ελληνική ταινία. Όλες αυτές
+— Αυτός. Ένας συνάδελφος που είναι από τη Σεβίλλη θέλει να δει μια ελληνική ταινία. Όλες αυτές
 που του πρότεινα, τις έχει ήδη δει.
 
 — Τότε πες του για τη σκηνή με την κασέτα. Όποιος την έχει δει, δεν την ξεχνάει.
@@ -71,15 +71,14 @@ starker Wind.
 Das kleine Wort, das hier ständig auftaucht, kennst du seit Kapitel 1: [που]{lang="el"} ohne
 Akzent. Es heißt „der, die, das“, „den“, „in der“ und noch einiges mehr, und es ändert sich nie.
 Dazu kommen [όποιος]{lang="el"} „wer“ und [ό,τι]{lang="el"} „alles, was“. Der Film heißt
-griechisch «[Κυνόδοντας]{lang="el"}», „Eckzahn“; im Deutschen lief er als *Dogtooth*.
-
-<!-- CHECK: Szene in «Κυνόδοντας» (2009): Die Kinder lernen von Tonband/Kassette falsche Wortbedeutungen, u.a. „θάλασσα“ = Ledersessel und „αυτοκινητόδρομος“ = sehr starker Wind. Stimmen beide Beispiele und das Medium (Kassette)? Deutscher Verleihtitel „Dogtooth“? -->
+griechisch «[Κυνόδοντας]{lang="el"}», „Eckzahn“; auf Deutsch erschien er, ebenfalls als
+*Dogtooth*, auf DVD.
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
 |---|---|---|
 | [Πώς λέγεται …;]{lang="el"} | [pos ˈleʝete] | Wie heißt …? (Sache, Titel) |
-| [το θερινό (σινεμά)]{lang="el"} | [to θeriˈno siˈnema] | das Freiluftkino (im Sommer) |
+| [το θερινό (σινεμά)]{lang="el"} | [to θeriˈno sineˈma] | das Freiluftkino (im Sommer) |
 | [το σινεμά]{lang="el"} | [to sineˈma] | das Kino |
 | [η σκηνή]{lang="el"} | [i sciˈni] | die Szene; die Bühne |
 | [ο συνάδελφος, η συνάδελφος]{lang="el"} | [o siˈnaðelfos], [i siˈnaðelfos] | der Kollege, die Kollegin |
@@ -97,10 +96,9 @@ griechisch «[Κυνόδοντας]{lang="el"}», „Eckzahn“; im Deutschen li
 | [του Λάνθιμου]{lang="el"} | von Lanthimos (Genitiv) |
 | [η Σεβίλλη]{lang="el"} | Sevilla |
 | [η κασέτα]{lang="el"} | die Kassette |
-| [καινούριος, -α, -ο]{lang="el"} | neu |
+| [Όλες αυτές που του πρότεινα, τις έχει ήδη δει.]{lang="el"} | Alle, die ich ihm vorgeschlagen habe, kennt er schon. [τις]{lang="el"} nimmt das vorangestellte Objekt wieder auf (Kapitel 20). |
 | [η πολυθρόνα]{lang="el"} | der Sessel |
 | [ο αυτοκινητόδρομος]{lang="el"} | die Autobahn |
-| [δυνατός, -ή, -ό]{lang="el"} | stark |
 | [Πάμε θάλασσα;]{lang="el"} | Gehen wir ans Meer? (umg., ohne Artikel) |
 :::
 
@@ -136,8 +134,8 @@ Die Zeitform im Relativsatz ist frei, der Aspekt folgt den bekannten Regeln: [η
 δούμε απόψε]{lang="el"} (Foto, Futur), [η ταινία που βλέπαμε κάθε Χριστούγεννα]{lang="el"}
 (Film, Gewohnheit).
 
-[γυρίζω]{lang="el"} kennst du als „zurückkehren; sich drehen“ (Kapitel 2). Mit einer Kamera
-heißt es wie im Deutschen „drehen“: [γυρίζω ταινία]{lang="el"}.
+[γυρίζω ταινία]{lang="el"} „einen Film drehen“ ist dir in Kapitel 4 begegnet: Das Verb für
+„zurückkehren; sich drehen“ dreht, wie im Deutschen, auch Filme.
 
 ### Wer tut hier was? {#sec-relativ-wer}
 
@@ -151,6 +149,10 @@ Artikel:
 Subjekt, und der Regisseur bleibt als Objekt übrig. Das Subjekt steht im Relativsatz gern hinter
 dem Verb, wie in [Ήρθε ο Γιάννης]{lang="el"}. Hier hilft dir das Deutsche mit seinen Fällen mehr
 als das Spanische.
+
+Im Neutrum hilft der Artikel nicht, denn [το]{lang="el"} ist Nominativ und Akkusativ. Dann
+entscheidet der Sinn: [το παιδί που βλέπει το σκυλί]{lang="el"} ist grammatisch „das Kind, das den
+Hund sieht“ oder „das Kind, das der Hund sieht“; meist klärt es der Zusammenhang.
 
 ### Was du schon kennst {#sec-relativ-bekannt}
 
@@ -166,7 +168,7 @@ als das Spanische.
 ## Merke
 
 - [που]{lang="el"} leitet Relativsätze ein, für Subjekt und Objekt, für jedes Genus und jede
-  Zahl. Es steht direkt hinter dem Bezugswort.
+  Zahl. Es steht meist direkt hinter dem Bezugswort.
 - Kein Akzent: [που]{lang="el"} „der, die, das“, [πού;]{lang="el"} „wo?“.
 - Welche Rolle das Bezugswort hat, zeigen Verb, Artikel und Sinn.
 :::
@@ -176,8 +178,9 @@ als das Spanische.
 
 - **Nicht weglassen.** Englisch sagt [*the film we saw*]{lang="en"}; Griechisch braucht das
   Wort immer: [η ταινία που είδαμε]{lang="el"}, nie \*[η ταινία είδαμε]{lang="el"}.
-- **Kein Komma vor jedem Relativsatz.** Das Griechische setzt es wie das Englische nur, wenn der
-  Satz eine Zusatzinformation bringt: [Ο Λάνθιμος, που γεννήθηκε στην Αθήνα, …]{lang="el"}.
+- **Kein Komma vor jedem Relativsatz.** Das Deutsche setzt es immer, das Griechische wie das
+  Englische nur, wenn der Satz eine Zusatzinformation bringt: [Ο Λάνθιμος, που γεννήθηκε στην
+  Αθήνα, …]{lang="el"}, aber [η ταινία που είδαμε]{lang="el"}.
 - [που λες]{lang="el"} (Kapitel 2) ist kein Relativsatz, sondern ein Erzählfüller.
 :::
 
@@ -202,7 +205,7 @@ Verbinde laut: Der zweite Satz wird zum Relativsatz über das Nomen, das in beid
 ## Hinweis 1
 
 Das Nomen im zweiten Satz fällt weg, [που]{lang="el"} tritt direkt hinter das Bezugswort. Bei
-4, 7 und 8 landet der Relativsatz mitten im Hauptsatz.
+4 bis 8 landet der Relativsatz mitten im Hauptsatz.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -238,7 +241,7 @@ ein Komma vor [που]{lang="el"} setzen.
 ::: {.callout-note .exercise}
 ## Übung 15.2: Ein Wörterbuch wie im *Dogtooth*
 
-Spiel den Vater aus dem Film und erfinde falsche Bedeutungen. Bilde laut Definitionen nach dem
+Spiel die Eltern aus dem Film und erfinde falsche Bedeutungen. Bilde laut Definitionen nach dem
 Muster [Θάλασσα είναι μια πολυθρόνα που …]{lang="el"} aus den Bausteinen hinter dem Pfeil.
 
 1. [η θάλασσα]{lang="el"} → [η πολυθρόνα · αγόρασε ο πατέρας]{lang="el"}
@@ -280,7 +283,8 @@ das Subjekt ([ο πατέρας, κανείς]{lang="el"}) hinter dem Verb.
 6. Ταινία είναι ένα όνειρο που βλέπουμε όλοι μαζί.
 :::
 
-Auch richtig: mit Artikel vorn ([Η θάλασσα είναι …]{lang="el"}).
+Auch richtig: mit Artikel vorn ([Η θάλασσα είναι …]{lang="el"}). 1–3 und 5 sind nah am Film,
+4 und 6 erfunden.
 
 **Typische Fehler:** den Artikel nach dem Wort vorn richten (\*[μια ζώο]{lang="el"} wegen [η γάτα]{lang="el"}; richtig
 [ένα ζώο]{lang="el"}). In 4 geht auch
@@ -303,8 +307,6 @@ Nomen, nichts wiederholt?
 | [ο θεατής, οι θεατές]{lang="el"} | [o θeaˈtis], [i θeaˈtes] | der Zuschauer |
 :::
 
-<!-- CHECK: Femininum zu σκηνοθέτης: σκηνοθέτρια (verbreitet) neben σκηνοθέτις (gehoben); Bitte mit dem Wörterbuch des Triantafyllidis-Instituts abgleichen. -->
-
 ## Wem, dessen, wo: [που]{lang="el"} mit Rückverweis {#sec-relativ-rueckverweis}
 
 Mit „der, den“ kommt [που]{lang="el"} allein aus. Bei „dem“ und „dessen“ braucht es Hilfe:
@@ -316,10 +318,11 @@ Mit „der, den“ kommt [που]{lang="el"} allein aus. Bei „dem“ und „de
 
 Das schwache Pronomen [της]{lang="el"}, [του]{lang="el"} holt nach, was [που]{lang="el"} nicht
 sagen kann: den Fall und das Genus. Es heißt hier **Rückverweis**, weil es auf das Bezugswort
-zurückzeigt; Grammatiken sagen „resumptives Pronomen“. Wörtlich also „die Schauspielerin, die
-– ihr gaben sie den Preis“.
+zurückzeigt; Grammatiken sagen „resumptives Pronomen“.
 
-Das klingt fremd, ist dir aber aus zwei Richtungen vertraut. Spanisch doppelt auch:
+Manche süddeutschen Mundarten machen es ähnlich: „der Mann, wo das gesagt hat“, „die Frau, wo man ihr den
+Preis gegeben hat“. Ein unveränderliches „wo“ leitet ein, und für „wem“ kommt das Pronomen
+hinterher. Auch Spanisch doppelt:
 [*la actriz a la que **le** dieron el premio*]{lang="es"}. Und für „dessen“ hat Französisch ein
 eigenes Wort, [*dont*]{lang="fr"}: [*un réalisateur dont les films durent trois heures*]{lang="fr"}.
 Griechisch baut [*dont*]{lang="fr"} aus zwei Teilen: [που … του]{lang="el"}. Das Besitzwort
@@ -352,11 +355,9 @@ daneben [όπου]{lang="el"} „wo“, etwas neutraler bis gehoben: [η πόλ�
 
 „Der Freund, **mit dem** ich im Kino war“: Vor [που]{lang="el"} kann keine Präposition stehen.
 Die Umgangssprache hängt sie mit Pronomen hinten an, fast wie englisch
-[*the friend I went with*]{lang="en"}:
-
-- [ο φίλος που πήγα μαζί του σινεμά]{lang="el"} (umg.) – der Freund, mit dem ich im Kino war
-
-Die neutrale Lösung für Präpositionen ist [ο οποίος]{lang="el"}, der nächste Abschnitt.
+[*the friend I went with*]{lang="en"}; aus [με]{lang="el"} wird dabei [μαζί του, μαζί της]{lang="el"}:
+[ο φίλος που πήγα σινεμά μαζί του]{lang="el"}. Das musst du nur erkennen. Selbst nimmst du
+[ο οποίος]{lang="el"}, den nächsten Abschnitt.
 
 ::: {.callout-important}
 ## Merke
@@ -401,7 +402,8 @@ Nur „wem“ und „wessen“ brauchen [του, της …]{lang="el"}. Maßgeb
 ## Hinweis 2
 
 „Mir gefällt“ heißt [μου αρέσει]{lang="el"}: Wer den Film nicht mag, dem gefällt er nicht. Das
-Besitzwort steht hinter seinem Nomen: [που το όνομά της]{lang="el"}.
+Bei „deren, dessen“ steht das Besitzwort hinter seinem Nomen, wie in [ο σκηνοθέτης που οι
+ταινίες του]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -418,15 +420,17 @@ Besitzwort steht hinter seinem Nomen: [που το όνομά της]{lang="el"}
 8. Οι ταινίες που μου πρότεινες ήταν όλες καλές.
 :::
 
-- 1, 2, 3, 6: Rückverweis nötig. In 3 auch [δεν την είδε]{lang="el"}.
+- 1, 2, 3, 6: Rückverweis nötig. In 3 auch [δεν την είδε]{lang="el"}; [την]{lang="el"},
+  weil [η ταινία]{lang="el"} weiblich ist. \*[δεν τον έχει δει]{lang="el"} kommt vom deutschen
+  „den Film“.
 - 4, 5: Ort und Zeit ohne alles. In 4 auch [όπου γεννήθηκε]{lang="el"}. Nicht \*[που
   γεννήθηκε εκεί]{lang="el"}, nicht \*[στην που]{lang="el"}.
 - 7: Im Deutschen Subjekt, im Griechischen „wem“, wie bei spanisch *gustar*. Nicht
   \*[που δεν άρεσε την ταινία]{lang="el"}.
 - 8: [μου]{lang="el"} ist „mir“, kein Rückverweis; das Bezugswort ist Objekt.
-- 9: Es fehlt [της]{lang="el"}; so klingt es, als hätte man die Schauspielerin verliehen.
-- 10: Keine Präposition vor [που]{lang="el"}. Umgangssprachlich [που πήγα μαζί του
-  σινεμά]{lang="el"}, neutral [με τον οποίο πήγα]{lang="el"} (nächster Abschnitt).
+- 9: Ohne [της]{lang="el"} fehlt das „wem“; so sagt man es nicht.
+- 10: Keine Präposition vor [που]{lang="el"}. Neutral [με τον οποίο πήγα]{lang="el"} (nächster
+  Abschnitt), umgangssprachlich [που πήγα σινεμά μαζί του]{lang="el"}.
 :::
 
 ::: {.vocab}
@@ -463,8 +467,8 @@ Hier sind die romanischen Sprachen eine Brücke, auf die man sich verlassen kann
 [*le film sur lequel*]{lang="fr"}, [*la película sobre la cual*]{lang="es"},
 [η ταινία για την οποία]{lang="el"}.
 
-Die Formen folgen einem Adjektiv auf [-ος, -α, -ο]{lang="el"} mit Artikel davor; die Betonung
-bleibt auf [-ποί-]{lang="el"}:
+Die Tabelle ist zum Nachschlagen, nicht zum Pauken: Die Formen sind die von [ωραίος]{lang="el"}
+(Kapitel 6) mit Artikel davor, die Betonung bleibt auf [-ποί-]{lang="el"}.
 
 | | männlich | weiblich | sächlich |
 |---|---|---|---|
@@ -500,14 +504,13 @@ Drei Fälle, in allen anderen ist [που]{lang="el"} das normale Wort:
 ::: {.callout-warning}
 ## Achtung
 
-- \*[η ταινία για που μιλάμε]{lang="el"}: Vor [που]{lang="el"} steht nie eine Präposition.
-  Richtig: [για την οποία μιλάμε]{lang="el"}, im Gespräch auch [που μιλάμε γι’ αυτήν]{lang="el"}.
+- \*[η ταινία για που μιλάμε]{lang="el"}: Anders als spanisch [*con que, en que*]{lang="es"} und
+  französisch [*avec qui*]{lang="fr"} steht vor [που]{lang="el"} nie eine Präposition. Richtig:
+  [για την οποία μιλάμε]{lang="el"}, im Gespräch meist einfach [η ταινία που λέμε]{lang="el"}.
 - Im Café klingt [ο οποίος]{lang="el"} nach Amtsstube. Ohne Präposition nimm [που]{lang="el"}.
 - [ο οποίος]{lang="el"} [o oˈpios] hat immer den Artikel und die Betonung auf [-ποί-]{lang="el"}.
   Nicht verwechseln mit [όποιος]{lang="el"} [ˈopços] „wer“ im nächsten Abschnitt.
 :::
-
-<!-- CHECK: „που μιλάμε γι’ αυτήν“ als umgangssprachliche Variante von „για την οποία μιλάμε“ natürlich? Alternativ „που λέμε“. Bitte prüfen. -->
 
 ::: {.callout-note .exercise}
 ## Übung 15.4: Die richtige Form
@@ -607,6 +610,14 @@ was ich dachte“.
 [ό,τι]{lang="el"} meint eher „alles, was; egal was“, [αυτό που]{lang="el"} „genau das, was“. Oft
 geht beides.
 
+Vier Wendungen hörst du ständig, auch ohne Film:
+
+- [Ό,τι πεις.]{lang="el"} – Wie du meinst. Ganz wie du willst.
+- [Ό,τι να ’ναι.]{lang="el"} – Irgendwas, Unsinn; über einen Film: „totaler Mist“ (umg.).
+- [Ό,τι καλύτερο!]{lang="el"} – Alles Gute! (zum Abschied, zu Plänen)
+- [αυτό που λέμε]{lang="el"} – wie man so sagt, sozusagen: [Ήταν, αυτό που λέμε, μια καλτ
+  ταινία.]{lang="el"}
+
 Zum Erkennen reicht bei zwei Verwandten: [όσοι, όσες, όσα]{lang="el"} „alle, die; so viele wie“
 ([Όσοι ήρθαν, έμειναν μέχρι το τέλος.]{lang="el"}) und [όπου]{lang="el"} ohne Bezugswort,
 „wo auch immer“ ([Κάθισε όπου θέλεις.]{lang="el"}).
@@ -617,14 +628,15 @@ Zum Erkennen reicht bei zwei Verwandten: [όσοι, όσες, όσα]{lang="el"}
 Vier Wörter, zwei Klangpaare:
 
 - [ό,τι]{lang="el"} und [ότι]{lang="el"} „dass“ klingen gleich, [ˈoti]. Das Komma trennt sie
-  nur in der Schrift. Beim Hören: Nach [λέω, ξέρω, νομίζω]{lang="el"} ist es meist „dass“; wo
-  „was“ passt, ist es [ό,τι]{lang="el"}. [Λέει ότι είναι αλήθεια]{lang="el"} „Er sagt, dass es
-  wahr ist“ gegen [Ό,τι λέει είναι αλήθεια]{lang="el"} „Was er sagt, ist wahr“.
+  nur in der Schrift. Beim Hören schau, was folgt: Ein vollständiger Satz steht hinter „dass“
+  ([ότι]{lang="el"}); fehlt dem Satz danach ein Objekt oder Subjekt, füllt [ό,τι]{lang="el"} die
+  Lücke. [Λέει ότι η ταινία είναι καλή]{lang="el"} „Er sagt, dass der Film gut ist“: vollständig.
+  [Πιστεύει ό,τι ακούει]{lang="el"} „Er glaubt, was er hört“: [ακούει]{lang="el"} fehlt das Objekt.
+  Das Verb davor ist ein zweiter Anhaltspunkt: Nach [λέω, ξέρω, νομίζω]{lang="el"} kommt oft
+  „dass“, aber nicht immer.
 - [όποιος]{lang="el"} [ˈopços] „wer“, [ποιος;]{lang="el"} [pços] „wer?“ und
   [ο οποίος]{lang="el"} [o oˈpios] „der, welcher“: Betonung und Silbenzahl unterscheiden sie.
 :::
-
-<!-- CHECK: IPA für όποιος [ˈopços] (Synizese, stimmloses [ç] nach π wie bei ποιος [pços]) bestätigen. -->
 
 ::: {.callout-note .exercise}
 ## Übung 15.5: Nach dem Kino
@@ -664,8 +676,8 @@ Bei „wer“: Subjekt oder Objekt?
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Zweimal steht [λέει]{lang="el"} davor, aber nur einmal heißt es „dass“: Nach „er sagt …“ folgt
-einmal ein ganzer Satz, einmal das, was er sagt.
+Zweimal steht [λέει]{lang="el"} davor, aber nur einmal heißt es „dass“: Prüf, ob dem Satz
+dahinter ein Objekt fehlt.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -674,9 +686,10 @@ einmal ein ganzer Satz, einmal das, was er sagt.
 **1E, 2D, 3C, 4F, 5A, 6C, 7B, 8D.**
 
 1. Genau das eine, was gefiel: [Αυτό που]{lang="el"}. [Ό,τι]{lang="el"} klänge nach „alles, was“.
-2. [λέει ότι]{lang="el"} + ganzer Satz: „dass“.
-3. „Er sagt alles, was er im Internet liest“: [ό,τι]{lang="el"} ist Objekt von
-   [λέει]{lang="el"} und von [διαβάζει]{lang="el"}. Das Verb davor ist nur eine Faustregel.
+2. Dahinter ein vollständiger Satz: „dass“.
+3. „Er sagt alles, was er im Internet liest“: [διαβάζει]{lang="el"} fehlt das Objekt, also
+   [ό,τι]{lang="el"}. Das Verb davor ist nur ein zweiter Anhaltspunkt. E ([αυτό που]{lang="el"})
+   geht auch, ist aber schwächer: „genau das, was“ statt „alles, was“.
 4. Eine bestimmte Person: [αυτός που]{lang="el"}. [Όποιος]{lang="el"} hieße „wer auch immer
    den Vater spielt“.
 5. „Wer ihn gesehen hat“: Subjekt, [Όποιος]{lang="el"}, wie im Café.
@@ -697,6 +710,10 @@ lassen.
 | [αυτός που, αυτή που]{lang="el"} | [afˈtos pu], [afˈti pu] | der(jenige), der; die(jenige), die |
 | [όσοι, όσες, όσα]{lang="el"} | [ˈosi], [ˈoses], [ˈosa] | alle, die; so viele wie |
 | [Όποιος βιάζεται, σκοντάφτει.]{lang="el"} | [ˈopços ˈvʝazete skonˈdafti] | Wer sich beeilt, stolpert. (Sprichwort) |
+| [Ό,τι πεις.]{lang="el"} | [ˈoti pis] | Wie du meinst. |
+| [Ό,τι να ’ναι.]{lang="el"} | [ˈoti ˈnane] | irgendwas, Unsinn (umg.) |
+| [Ό,τι καλύτερο!]{lang="el"} | [ˈoti kaˈlitero] | Alles Gute! |
+| [αυτό που λέμε]{lang="el"} | [afˈto pu ˈleme] | wie man so sagt, sozusagen (umg.) |
 :::
 
 ## Hörspur: Welcher Film ist das? {#sec-relativ-hoerspur}
@@ -713,7 +730,7 @@ Sonntagabend, erfunden, aber im Ton echt. Erst hören, dann lesen.
 Πρώτη σκηνή: μια παραλία στην Κρήτη. Ένας νέος από την Αγγλία, που τα έχει χάσει όλα, και ένας
 άντρας που ξέρει να ζει χορεύουν μαζί στην άμμο. Δεύτερη σκηνή: ο Πειραιάς. Μια γυναίκα που όλο
 το λιμάνι την αγαπάει κάνει ό,τι θέλει, αλλά την Κυριακή δε δουλεύει ποτέ. Τρίτη σκηνή: η
-Θεσσαλονίκη, μια βροχερή μέρα. Ένας ποιητής, ο οποίος είναι άρρωστος, περνάει την τελευταία του
+Θεσσαλονίκη. Ένας ποιητής, ο οποίος είναι άρρωστος, περνάει την τελευταία του
 μέρα με ένα παιδί από την Αλβανία που καθαρίζει τζάμια στα φανάρια. Έχουμε τηλεφώνημα. Εμπρός;
 
 — Καλησπέρα! Η πρώτη είναι ο «Ζορμπάς», αυτό είναι εύκολο. Η δεύτερη είναι η «Στέλλα». Και η
@@ -733,7 +750,15 @@ Hör das Quiz mit ▶, ohne Text und Übersetzung aufzuklappen, gern zweimal.
    E «[Μια αιωνιότητα και μια μέρα]{lang="el"}»
 2. Welche Antwort der Anruferin war falsch?
 
-Im Chat reicht etwa „A, D, B; falsch: 1“.
+Die nächsten Fragen entscheidet jeweils ein Relativsatz. Hör genau hin, wer was tut.
+
+3. [μια γυναίκα που όλο το λιμάνι την αγαπάει]{lang="el"}: a) Die Frau liebt den Hafen.
+   b) Der Hafen liebt die Frau.
+4. Wer hat alles verloren? a) der junge Mann aus England b) der Mann, der zu leben weiß
+5. Wer putzt an den Ampeln Scheiben? a) der Dichter b) das Kind
+6. Wer ist krank? a) der Dichter b) das Kind
+
+Im Chat reicht etwa „A, D, B; falsch: 1; 3a, 4b …“.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -747,18 +772,28 @@ Relativsatz die Hauptfigur; hör auf [pu] und einmal [o oˈpios].
 ## Hinweis 2
 
 Szene 2: eine Frau, die sonntags nie arbeitet. Das steht im Titel eines der Filme.
+
+Frage 3: Wer ist Subjekt von [αγαπάει]{lang="el"}, und worauf zeigt [την]{lang="el"}? Frage 6:
+Welches Genus hat [ο οποίος]{lang="el"}?
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**B, C, E; falsch war die zweite Antwort.**
+**1: B, C, E. 2: Falsch war die zweite Antwort. 3b, 4a, 5b, 6a.**
 
 - Szene 1: Kreta, Tanz am Strand, [ένας άντρας που ξέρει να ζει]{lang="el"}: Sorbas.
-- Szene 2: [μια γυναίκα που όλο το λιμάνι την αγαπάει]{lang="el"}, mit umgangssprachlichem
-  Rückverweis beim Objekt; [την Κυριακή δε δουλεύει ποτέ]{lang="el"} verrät den Titel. Die
-  Anruferin sagte *Stella* (A).
-- Szene 3: [ένας ποιητής, ο οποίος είναι άρρωστος]{lang="el"}.
+- Szene 2: [την Κυριακή δε δουλεύει ποτέ]{lang="el"} verrät den Titel. Die Anruferin sagte
+  *Stella* (A).
+- 3: An [όλο το λιμάνι]{lang="el"} sieht man den Fall nicht (Neutrum), aber [την]{lang="el"}
+  ist Objekt und weiblich: der umgangssprachliche Rückverweis auf die Frau. Der Hafen bleibt als
+  Subjekt übrig. Wer a wählt, hat [που]{lang="el"} für das Subjekt gehalten.
+- 4: [Ένας νέος από την Αγγλία, που τα έχει χάσει όλα]{lang="el"}: Der Relativsatz hängt am
+  jungen Mann; das Komma und der Sinn zeigen, dass nicht England gemeint ist.
+- 5: [ένα παιδί από την Αλβανία που καθαρίζει τζάμια]{lang="el"}. Auch hier stehen zwei Nomen
+  vor [που]{lang="el"}; Albanien putzt keine Scheiben.
+- 6: [ένας ποιητής, ο οποίος είναι άρρωστος]{lang="el"}: [ο οποίος]{lang="el"} ist männlich, das
+  Kind ([το παιδί]{lang="el"}) wäre [το οποίο]{lang="el"}.
 
 Ein betontes [ˈpu] kommt nicht vor: Jedes [pu] im Quiz leitet einen Relativsatz ein.
 :::
@@ -771,7 +806,7 @@ drei Szenen, und Sie sagen mir die Titel. Wer alle drei findet, gewinnt zwei Kar
 Freiluftkino. Erste Szene: ein Strand auf Kreta. Ein junger Mann aus England, der alles verloren
 hat, und ein Mann, der zu leben weiß, tanzen zusammen im Sand. Zweite Szene: Piräus. Eine Frau,
 die der ganze Hafen liebt, macht, was sie will, aber sonntags arbeitet sie nie. Dritte Szene:
-Thessaloniki, ein Regentag. Ein Dichter, der krank ist, verbringt seinen letzten Tag mit einem
+Thessaloniki. Ein Dichter, der krank ist, verbringt seinen letzten Tag mit einem
 Kind aus Albanien, das an den Ampeln Scheiben putzt. Wir haben einen Anruf. Hallo?
 
 — Guten Abend! Der erste ist *Alexis Sorbas*, das ist leicht. Der zweite ist *Stella*. Und der
@@ -791,24 +826,20 @@ Aber alles Gute, und rufen Sie uns wieder an!
 | [βρει]{lang="el"} | (wer) findet; [να]{lang="el"}-Form nach [όποιος]{lang="el"}, Kapitel 17 |
 | [τα έχει χάσει όλα]{lang="el"} | hat alles verloren |
 | [η άμμος]{lang="el"} | der Sand (weiblich auf [-ος]{lang="el"}) |
-| [βροχερός, -ή, -ό]{lang="el"} | regnerisch |
 | [ο ποιητής]{lang="el"} | der Dichter |
 | [άρρωστος, -η, -ο]{lang="el"} | krank |
-| [τελευταίος, -α, -ο]{lang="el"} | letzter |
 | [καθαρίζω, καθάρισα]{lang="el"} | putzen, sauber machen |
 | [το τηλεφώνημα]{lang="el"} | der Anruf |
 | [Εμπρός;]{lang="el"} | Hallo? (am Telefon) |
 | [οι Κάννες]{lang="el"} | Cannes (weiblich Plural) |
 | [κρίμα]{lang="el"} | schade |
-| [ξανατηλεφωνήστε μας]{lang="el"} | ruft uns wieder an ([ξανα-]{lang="el"}, Kapitel 14) |
+| [ξανατηλεφωνήστε μας]{lang="el"} | rufen Sie uns wieder an ([ξανα-]{lang="el"}, Kapitel 14) |
 :::
 
 Die Anruferin hat die zweite Szene mit *Stella* verwechselt, Cacoyannis’ Film von 1955, in dem
 ebenfalls Melina Mercouri eine Frau spielt, die tut, was sie will. *Sonntags … nie!* (1960)
 drehte der Amerikaner Jules Dassin in Piräus; das Lied daraus, [«Τα παιδιά του
 Πειραιά»]{lang="el"} von Manos Hadjidakis, bekam 1961 den Oscar.
-
-<!-- CHECK: Filmfakten der Quiz-Szenen: Zorba – Schlusstanz am Strand auf Kreta, Basil ein junger Engländer (griechischer Abstammung), der seine Investition verliert; Never on Sunday – Ilya, Piräus, Oscar für den besten Song 1961 an Hadjidakis; Eternity and a Day – kranker Dichter (Alexandros), letzter Tag in Thessaloniki, albanischer Junge, der an Ampeln Autoscheiben putzt, Goldene Palme 1998. Deutsche Titel „Sonntags … nie!“, „Die Ewigkeit und ein Tag“. -->
 
 ### Relativsätze hören {#sec-relativ-hoeren}
 
@@ -817,21 +848,13 @@ drehte der Amerikaner Jules Dassin in Piräus; das Lied daraus, [«Τα παιδ
 - **[o oˈpios], [i oˈpia], [tin oˈpia]**: Das [o] des Artikels verschmilzt oft mit dem
   [o] danach, [oˈpios]. Kommt es nach einer Präposition, weißt du, dass jetzt ein Relativsatz
   folgt: [ʝa tin oˈpia].
-- **[ˈoti]** ist [ότι]{lang="el"} oder [ό,τι]{lang="el"}; entscheide nach dem Verb davor.
-
-Vier Wendungen hörst du ständig, auch ohne Film:
-
-- [Ό,τι πεις.]{lang="el"} – Wie du meinst. Ganz wie du willst.
-- [Ό,τι να ’ναι.]{lang="el"} – Irgendwas, Unsinn; über einen Film: „totaler Mist“ (umg.).
-- [Ό,τι καλύτερο!]{lang="el"} – Alles Gute! (zum Abschied, zu Plänen)
-- [αυτό που λέμε]{lang="el"} – wie man so sagt, sozusagen: [Ήταν, αυτό που λέμε, μια καλτ
-  ταινία.]{lang="el"}
+- **[ˈoti]** ist [ότι]{lang="el"} oder [ό,τι]{lang="el"}. Folgt ein vollständiger Satz, ist es
+  „dass“; fehlt danach ein Objekt oder Subjekt, ist es „was“. Das Verb davor hilft als zweiter
+  Anhaltspunkt.
 
 Auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) reden Leute auf der Straße spontan,
 mit griechischen und englischen Untertiteln. Griechische Filme gibt es auf
-[ERTflix](https://www.ertflix.gr), oft mit griechischen Untertiteln.
-
-<!-- CHECK: Bietet ERTflix derzeit griechische Spielfilme (auch ältere Klassiker) mit griechischen Untertiteln an? Formulierung ggf. abschwächen. -->
+[ERTflix](https://www.ertflix.gr), manche mit griechischen Untertiteln (Kennzeichen CC).
 
 ::: {.callout-note .exercise}
 ## Übung 15.7: Hör-Auftrag
@@ -840,9 +863,9 @@ Such auf [Easy Greek](https://www.youtube.com/@EasyGreekVideos) ein Straßeninte
 Kino oder Serien (Suchwörter [ταινία, σινεμά, σειρά]{lang="el"}); findest du keins, nimm
 irgendeins.
 
-1. Hör drei Minuten **ohne Untertitel** und zähl jedes [pu]. Ordne es beim Hören ein:
-   Relativsatz, Frage [πού;]{lang="el"} oder Füller [που λες]{lang="el"}?
-2. Hör dieselben drei Minuten **mit griechischen Untertiteln** und prüf deine Striche.
+1. Hör drei Minuten **ohne Untertitel** und zähl nur, wie oft [pu] fällt.
+2. Hör dieselben drei Minuten **mit griechischen Untertiteln**, prüf deine Zahl und ordne jedes
+   [pu] ein: Relativsatz, Frage [πού;]{lang="el"} oder Füller [που λες]{lang="el"}?
 3. Merk dir drei Relativsätze samt Bezugswort und sprich sie laut nach.
 :::
 
@@ -850,14 +873,15 @@ irgendeins.
 ## Hinweis 1
 
 Relativ-[pu] ist unbetont und klebt am Nomen davor: [i teˈnia pu]. Das Frage-[ˈpu] ist betont
-und steht am Satzanfang.
+und steht meist am Satzanfang, in indirekten Fragen auch mitten im Satz:
+[δεν ξέρω πού είναι]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
 [που λες]{lang="el"} steht mitten in einer Erzählung, oft mit Pause danach, und bezieht sich
-auf kein Nomen. Achte auch auf [pu] nach [ˈkaθe ˈfora], [ti ˈmera], [ˈtote]: das Zeit-[που]{lang="el"}.
+auf kein Nomen. Achte auch auf [pu] nach [ˈkaθe foˈra], [ti ˈmera], [ˈtote]: das Zeit-[που]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -872,29 +896,22 @@ Jedes Interview ist anders; so wertest du aus:
   [ˈmia teˈnia pu ˈiða].
 :::
 
-::: {.vocab}
-| Griechisch | Aussprache | Deutsch |
-|---|---|---|
-| [Ό,τι πεις.]{lang="el"} | [ˈoti pis] | Wie du meinst. |
-| [Ό,τι να ’ναι.]{lang="el"} | [ˈoti ˈnane] | irgendwas, Unsinn (umg.) |
-| [Ό,τι καλύτερο!]{lang="el"} | [ˈoti kaˈlitero] | Alles Gute! |
-| [αυτό που λέμε]{lang="el"} | [afˈto pu ˈleme] | wie man so sagt, sozusagen (umg.) |
-| [το εισιτήριο]{lang="el"} | [to isiˈtirio] | die Eintrittskarte, das Ticket |
-:::
-
 ## Das Wichtigste {#sec-relativ-wichtigste}
 
 - **[που]{lang="el"}** leitet fast alle Relativsätze ein, unveränderlich, ohne Akzent, nie
-  weglassbar: [η ταινία που είδαμε, ο πατέρας που φωνάζει]{lang="el"}.
-- **Rückverweis:** Für „wem“ und „wessen“ braucht [που]{lang="el"} ein schwaches Pronomen:
-  [που της έδωσαν, που οι ταινίες του]{lang="el"}. Beim Objekt nur umgangssprachlich, bei
-  Subjekt, Ort und Zeit nie: [η πόλη που γεννήθηκα, τη μέρα που]{lang="el"}.
-- **[ο οποίος]{lang="el"}** nach Präpositionen, im geschriebenen Stil und gegen Mehrdeutigkeit:
-  [για την οποία, με τον οποίο, στο οποίο]{lang="el"}. Genus und Zahl vom Bezugswort, Fall aus
-  dem Relativsatz. Nie \*[για που]{lang="el"}.
-- **Ohne Bezugswort:** [όποιος]{lang="el"} „wer“, [ό,τι]{lang="el"} „alles, was“,
-  [αυτό που]{lang="el"} „das, was“. [ό,τι]{lang="el"} und [ότι]{lang="el"} klingen gleich.
-- **Im Gespräch:** [Ό,τι πεις. Ό,τι να ’ναι. Ό,τι καλύτερο!]{lang="el"}
+  weglassbar: [η ταινία που είδαμε, ο πατέρας που φωνάζει]{lang="el"}. Vor [που]{lang="el"} steht
+  nie eine Präposition.
+- **[ο οποίος]{lang="el"}:** Genus und Zahl vom Bezugswort, Fall aus dem Relativsatz.
+- **[ό,τι]{lang="el"} und [ότι]{lang="el"}** klingen gleich. Vollständiger Satz dahinter: „dass“;
+  fehlt ein Objekt oder Subjekt: „was“.
+
+| Selbst bilden | Erkennen reicht |
+|---|---|
+| [που]{lang="el"} für Subjekt, Objekt, Ort, Zeit | [ο οποίος]{lang="el"} ohne Präposition ([η οποία έγινε υπουργός]{lang="el"}) |
+| Rückverweis bei „wem“, „wessen“: [που της έδωσαν, που οι ταινίες του]{lang="el"} | [του οποίου, της οποίας]{lang="el"} „dessen, deren“ |
+| [ο οποίος]{lang="el"} nach Präposition, Akkusativ, [σε]{lang="el"} verschmilzt: [για την οποία, στο οποίο]{lang="el"} | Rückverweis beim Objekt: [που τον έχω δει]{lang="el"} |
+| [όποιος, όποιον, ό,τι, αυτό που]{lang="el"} | [που … μαζί του]{lang="el"} (umg.) |
+| [Ό,τι πεις. Ό,τι να ’ναι. Ό,τι καλύτερο!]{lang="el"} | [όσοι]{lang="el"}, [όπου]{lang="el"} |
 
 ## Zum Lesen: Von *Stella* bis *Dogtooth* {#sec-relativ-lesetext}
 
@@ -903,24 +920,24 @@ Jedes Interview ist anders; so wertest du aus:
 
 Όποιος έχει περάσει ένα καλοκαίρι στην Ελλάδα, ξέρει το θερινό σινεμά: μια αυλή με καρέκλες, μια
 μεγάλη οθόνη, τα αστέρια από πάνω και ο θεατής που τρώει πασατέμπο δίπλα σου. Οι ξένες ταινίες
-παίζονται με υπότιτλους, όχι μεταγλωττισμένες, και πολλοί λένε ότι γι’ αυτό οι Έλληνες μιλάνε
+παίζονται με υπότιτλους, εκτός από τις παιδικές, και πολλοί λένε ότι γι’ αυτό οι Έλληνες μιλάνε
 καλά αγγλικά.
 
-Το πρώτο κεφάλαιο του ελληνικού κινηματογράφου που ξέρει όλος ο κόσμος το έγραψε ο Μιχάλης
+Το πρώτο κεφάλαιο του ελληνικού κινηματογράφου, που το ξέρει όλος ο κόσμος, το έγραψε ο Μιχάλης
 Κακογιάννης, ένας Κύπριος σκηνοθέτης που γύρισε το 1955 τη «Στέλλα». Η πρωταγωνίστρια, η Μελίνα
 Μερκούρη, έγινε αργότερα υπουργός Πολιτισμού. Το 1964 ήρθε ο «Ζορμπάς», η ταινία που έκανε τον
 Άντονι Κουίν τον πιο γνωστό «Έλληνα» στον κόσμο. Το συρτάκι, το οποίο πολλοί τουρίστες θεωρούν
 αρχαίο χορό, δημιουργήθηκε για την ταινία.
 
-Την ίδια εποχή η Φίνος Φιλμ έφτιαχνε κάθε χρόνο δεκάδες κωμωδίες. Είναι οι «παλιές ελληνικές
+Την ίδια εποχή η Φίνος Φιλμ γύριζε τη μία κωμωδία μετά την άλλη. Είναι οι «παλιές ελληνικές
 ταινίες» που παίζει ακόμα η τηλεόραση τα απογεύματα, και ό,τι λένε οι ήρωές τους το ξέρουν οι
 Έλληνες απ’ έξω.
 
 Ύστερα ήρθε ο Θόδωρος Αγγελόπουλος, ένας σκηνοθέτης που οι ταινίες του έχουν πλάνα που κρατάνε
 πολλά λεπτά. Όποιος βιάζεται, καλύτερα να μην τις δει. Όποιος έχει υπομονή, δε θα τις ξεχάσει.
-Το 1998 κέρδισε τον Χρυσό Φοίνικα στις Κάννες με τη «Μια αιωνιότητα και μια μέρα».
+Το 1998 κέρδισε τον Χρυσό Φοίνικα στις Κάννες με την ταινία «Μια αιωνιότητα και μια μέρα».
 
-Το 2009 ένας νέος σκηνοθέτης, ο Γιώργος Λάνθιμος, έδειξε τον «Κυνόδοντα», μια ταινία για μια
+Το 2009 ένας νέος σκηνοθέτης, ο Γιώργος Λάνθιμος, παρουσίασε στις Κάννες τον «Κυνόδοντα», μια ταινία για μια
 οικογένεια που ζει κλεισμένη σε ένα σπίτι. Οι ξένοι κριτικοί μίλησαν για ένα «παράξενο κύμα», στο
 οποίο έβαλαν σκηνοθέτες με πολύ διαφορετικό ύφος. Σήμερα ο Λάνθιμος γυρίζει ταινίες στα αγγλικά,
 με ηθοποιούς που κερδίζουν Όσκαρ. Αλλά αυτό που τον έκανε γνωστό ήταν μια μικρή ελληνική ταινία,
@@ -951,10 +968,9 @@ Drei Stellen zum Lesen:
 | [τα αστέρια]{lang="el"} | die Sterne |
 | [ο πασατέμπος]{lang="el"} | geröstete Kürbiskerne (im Kino geknabbert) |
 | [ξένος, -η, -ο]{lang="el"} | ausländisch, fremd |
-| [η τηλεόραση]{lang="el"} | das Fernsehen |
 | [διαφορετικός, -ή, -ό]{lang="el"} | unterschiedlich, anders |
 | [ο υπότιτλος, οι υπότιτλοι]{lang="el"} | der Untertitel |
-| [μεταγλωττισμένος, -η, -ο]{lang="el"} | synchronisiert |
+| [εκτός από τις παιδικές]{lang="el"} | außer den Kinderfilmen ([εκτός από]{lang="el"}: Kapitel 10) |
 | [το κεφάλαιο]{lang="el"} | das Kapitel |
 | [ο κινηματογράφος]{lang="el"} | das Kino (als Kunst und Branche) |
 | [Κύπριος, Κύπρια]{lang="el"} | Zypriot(in) |
@@ -962,11 +978,12 @@ Drei Stellen zum Lesen:
 | [το συρτάκι]{lang="el"} | der Sirtaki (Kapitel 8) |
 | [θεωρώ]{lang="el"} | halten für (Kapitel 13) |
 | [δημιουργήθηκε]{lang="el"} | wurde geschaffen |
-| [η δεκάδα, δεκάδες]{lang="el"} | Dutzende (wörtlich: Zehner) |
+| [τη μία … μετά την άλλη]{lang="el"} | eine … nach der anderen |
 | [απ’ έξω]{lang="el"} | auswendig |
 | [το πλάνο]{lang="el"} | die Einstellung (Film) |
 | [η υπομονή]{lang="el"} | die Geduld |
 | [ο Χρυσός Φοίνικας]{lang="el"} | die Goldene Palme |
+| [παρουσίασε]{lang="el"} | stellte vor (Aorist von [παρουσιάζω]{lang="el"}) |
 | [ο κριτικός]{lang="el"} | der Kritiker |
 | [παράξενος, -η, -ο]{lang="el"} | seltsam |
 | [το κύμα]{lang="el"} | die Welle |
@@ -981,7 +998,7 @@ Drei Stellen zum Lesen:
 
 Wer einen Sommer in Griechenland verbracht hat, kennt das Freiluftkino: ein Hof mit Stühlen, eine
 große Leinwand, die Sterne darüber und der Zuschauer, der neben dir Kürbiskerne knabbert.
-Ausländische Filme laufen mit Untertiteln, nicht synchronisiert, und viele sagen, deshalb
+Ausländische Filme laufen mit Untertiteln, außer Kinderfilmen, und viele sagen, deshalb
 sprächen die Griechen gut Englisch.
 
 Das erste Kapitel des griechischen Kinos, das die ganze Welt kennt, schrieb Michael Cacoyannis,
@@ -990,7 +1007,7 @@ wurde später Kulturministerin. 1964 kam *Alexis Sorbas*, der Film, der Anthony 
 bekanntesten „Griechen“ der Welt machte. Der Sirtaki, den viele Touristen für einen antiken Tanz
 halten, wurde für den Film geschaffen.
 
-In derselben Zeit drehte Finos Film jedes Jahr Dutzende Komödien. Das sind die „alten
+In derselben Zeit drehte Finos Film eine Komödie nach der anderen. Das sind die „alten
 griechischen Filme“, die das Fernsehen noch heute nachmittags zeigt, und was ihre Helden sagen,
 können die Griechen auswendig.
 
@@ -998,7 +1015,7 @@ Danach kam Theo Angelopoulos, ein Regisseur, dessen Filme Einstellungen haben, d
 dauern. Wer es eilig hat, sollte sie sich besser nicht ansehen. Wer Geduld hat, wird sie nicht
 vergessen. 1998 gewann er in Cannes die Goldene Palme mit *Die Ewigkeit und ein Tag*.
 
-2009 zeigte ein junger Regisseur, Yorgos Lanthimos, *Dogtooth*, einen Film über eine Familie, die
+2009 stellte ein junger Regisseur, Yorgos Lanthimos, in Cannes *Dogtooth* vor, einen Film über eine Familie, die
 eingeschlossen in einem Haus lebt. Die ausländischen Kritiker sprachen von einer „seltsamen
 Welle“ (*Greek Weird Wave*), in die sie Regisseure mit sehr unterschiedlichem Stil einordneten.
 Heute dreht Lanthimos Filme auf Englisch, mit Schauspielern, die Oscars gewinnen. Aber was ihn
@@ -1020,14 +1037,12 @@ unterhalb der Akropolis.
   Regisseurinnen und Regisseure lehnen es als gemeinsame Schule ab.
 :::
 
-<!-- CHECK: Lesetext-Fakten: Cacoyannis geb. 1922 in Limassol (Zypriot); Stella 1955 mit Mercouri; Mercouri Kulturministerin 1981–89 und 1993–94; Zorba 1964 mit Anthony Quinn; Sirtaki für den Film choreografiert; Finos Film (gegr. 1943) produzierte in den 1950er/60er-Jahren jährlich Dutzende Filme; Angelopoulos: Goldene Palme 1998 für «Μια αιωνιότητα και μια μέρα», sehr lange Einstellungen; Dogtooth 2009 (Cannes, Un Certain Regard), niedriges Budget; Begriff „Weird Wave“ (Steve Rose, Guardian, 2011); Poor Things: Oscar für Emma Stone. Griechischer Filmtitel in Akkusativ nach „με τη«…»“: «με τη "Μια αιωνιότητα και μια μέρα"» idiomatisch oder besser «με την ταινία "…"»? -->
-
 ::: {.callout-note .exercise}
 ## Übung 15.8: Filme, die man nicht vergisst
 
 **Teil A: richtig oder falsch?** Aus dem griechischen Text heraus.
 
-1. Im Freiluftkino laufen ausländische Filme synchronisiert.
+1. Im Freiluftkino laufen alle ausländischen Filme mit Untertiteln.
 2. Cacoyannis stammte aus Zypern.
 3. Melina Mercouri wurde später Ministerin.
 4. Der Sirtaki ist ein antiker Tanz.
@@ -1035,8 +1050,10 @@ unterhalb der Akropolis.
 6. Angelopoulos’ Filme haben kurze Einstellungen.
 7. Lanthimos dreht heute Filme auf Englisch.
 
-**Teil B: Relativwörter jagen.** Der Text hat 18 Relativsätze, die Überschrift mitgezählt. Finde
-sie und nenn jeweils Bezugswort und Rolle (Subjekt, Objekt, „wessen“, nach Präposition). Ein
+**Teil B: Relativwörter jagen.** Absatz 2 und Absatz 5 haben zusammen neun Relativsätze. Finde
+sie und nenn jeweils Bezugswort und Rolle (Subjekt, Objekt, „wessen“, nach Präposition).
+
+**Zugabe:** Im Rest des Textes, Überschrift mitgezählt, stecken neun weitere. Ein
 [ότι]{lang="el"} gehört nicht dazu.
 
 **Teil C: umformen.** Sag laut:
@@ -1052,8 +1069,9 @@ sie und nenn jeweils Bezugswort und Rolle (Subjekt, Objekt, „wessen“, nach P
 
 Teil A: Achte auf Verneinungen und darauf, wer etwas behauptet.
 
-Teil B: Neben [που]{lang="el"} such [όποιος]{lang="el"} (dreimal), [ό,τι]{lang="el"},
-[αυτό που]{lang="el"} und drei Formen von [ο οποίος]{lang="el"}.
+Teil B: Neben [που]{lang="el"} such [αυτό που]{lang="el"} und drei Formen von
+[ο οποίος]{lang="el"}. In der Zugabe kommen [όποιος]{lang="el"} (dreimal) und [ό,τι]{lang="el"}
+dazu.
 :::
 
 ::: {.callout-tip collapse="true" .hint}
@@ -1061,31 +1079,32 @@ Teil B: Neben [που]{lang="el"} such [όποιος]{lang="el"} (dreimal), [ό,
 
 Teil A, 4: [πολλοί τουρίστες θεωρούν]{lang="el"} ist nicht der Text selbst.
 
-Teil B: Dreimal steht das Subjekt des Relativsatzes hinter dem Verb, das Bezugswort ist dann
-Objekt: [που ξέρει όλος ο κόσμος]{lang="el"} ist das erste.
+Teil B: In Absatz 2 steht einmal das Subjekt des Relativsatzes hinter dem Verb, das Bezugswort
+ist dann Objekt: [που το ξέρει όλος ο κόσμος]{lang="el"}.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-**Teil A: 1F, 2R, 3R, 4F, 5R, 6F, 7R.** 1 [όχι μεταγλωττισμένες]{lang="el"}; 2
+**Teil A: 1F, 2R, 3R, 4F, 5R, 6F, 7R.** 1 [εκτός από τις παιδικές]{lang="el"}; 2
 [ένας Κύπριος σκηνοθέτης]{lang="el"}; 4 [δημιουργήθηκε για την ταινία]{lang="el"}; 5 [το ξέρουν … απ’ έξω]{lang="el"}; 6 [πλάνα που κρατάνε πολλά
 λεπτά]{lang="el"}.
 
 **Teil B** (S = Subjekt, O = Objekt):
 
-- Überschrift: [ταινίες που]{lang="el"} O. Absatz 1: [Όποιος]{lang="el"} S;
-  [ο θεατής που]{lang="el"} S. [λένε ότι]{lang="el"} ist „dass“.
-- Absatz 2: [κεφάλαιο … που ξέρει όλος ο κόσμος]{lang="el"} O; [σκηνοθέτης που
-  γύρισε]{lang="el"} S; [η ταινία που έκανε]{lang="el"} S; [Το συρτάκι, το οποίο … θεωρούν]{lang="el"}
-  O (Akkusativ, gleich wie Nominativ)
-- Absatz 3: [ταινίες» που παίζει … η τηλεόραση]{lang="el"} O; [ό,τι λένε οι ήρωές
-  τους]{lang="el"} O
-- Absatz 4: [σκηνοθέτης που οι ταινίες του]{lang="el"} „wessen“; [πλάνα που κρατάνε]{lang="el"}
-  S; zweimal [Όποιος]{lang="el"} S
+- Absatz 2: [κεφάλαιο …, που το ξέρει όλος ο κόσμος]{lang="el"} O, mit umgangssprachlichem
+  Rückverweis [το]{lang="el"}; [σκηνοθέτης που γύρισε]{lang="el"} S; [η ταινία που
+  έκανε]{lang="el"} S; [Το συρτάκι, το οποίο … θεωρούν]{lang="el"} O (Akkusativ, gleich wie
+  Nominativ)
 - Absatz 5: [οικογένεια που ζει]{lang="el"} S; [κύμα, στο οποίο]{lang="el"} nach Präposition;
   [ηθοποιούς που κερδίζουν]{lang="el"} S; [αυτό που τον έκανε γνωστό]{lang="el"} S;
   [ταινία, την οποία γύρισε]{lang="el"} O
+
+**Zugabe:** Überschrift [ταινίες που]{lang="el"} O. Absatz 1: [Όποιος]{lang="el"} S;
+[ο θεατής που]{lang="el"} S; [λένε ότι]{lang="el"} ist „dass“. Absatz 3: [ταινίες» που
+παίζει … η τηλεόραση]{lang="el"} O; [ό,τι λένε οι ήρωές τους]{lang="el"} O. Absatz 4:
+[σκηνοθέτης που οι ταινίες του]{lang="el"} „wessen“; [πλάνα που κρατάνε]{lang="el"} S; zweimal
+[Όποιος]{lang="el"} S.
 
 **Teil C**
 
