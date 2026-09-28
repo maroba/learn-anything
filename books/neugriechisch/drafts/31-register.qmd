@@ -208,8 +208,8 @@ anderen.
 ::: {.callout-note .exercise}
 ## Übung 31.1: Wo sind wir?
 
-Acht Sätze. Welche Stufe: **a** formell, **b**
-neutral, **c** vertraut? Nenn dir zu jedem das Signal, das ihn verrät. Im Chat reicht „1a, 2c, …“.
+Acht Sätze. Welche Stufe: **a** formell, **b** neutral, **c** vertraut? Nenn dir zu jedem das
+Signal, das ihn verrät. Im Chat reicht „1a, 2c, …“.
 
 ::: {lang="el"}
 1. Λόγω απεργίας, η υπηρεσία θα παραμείνει κλειστή την Πέμπτη.
@@ -249,7 +249,7 @@ formell sein.
 4. [εκ των προτέρων]{lang="el"}, typisch vor dem Schluss einer formellen E-Mail.
 5. **Die Falle:** [νεράκι]{lang="el"} ist gesellig, aber [κυρία]{lang="el"} + Vorname und
    [θέλετε]{lang="el"} halten Abstand. Wer c gewählt hat, hat nur auf die Verkleinerung geachtet.
-6. Vorname, Imperativ in der du-Form, zwei Verkleinerungen: der Kellner, den man kennt.
+6. Vorname, Imperativ in der du-Form, Verkleinerungen: der Kellner, den man kennt.
 7. [εντός]{lang="el"} + Genitiv und das unpersönliche Mediopassiv: Formularsprache.
 8. **Gekreuzte Regler:** [Κοιτάξτε, Περάστε]{lang="el"} siezen, [αλλιώς, δε γίνεται]{lang="el"}
    sind Alltagswörter. Das ist neutral, wie der Vermieter am Telefon. Formell wäre
