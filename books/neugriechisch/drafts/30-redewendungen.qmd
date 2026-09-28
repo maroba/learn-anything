@@ -1,0 +1,679 @@
+---
+title: "Redewendungen"
+---
+
+::: {.callout-note .review}
+## Zur Wiederholung
+
+Einige feste Wendungen kennst du schon:
+
+- **Reaktionen im Gespräch:** [Σ’ το ’πα.]{lang="el"} (Hab ich dir doch gesagt., Kapitel 3),
+  [Να ’σαι καλά.]{lang="el"} (Danke, das ist lieb., 5), [Άσ’ τα.]{lang="el"} (Frag nicht., 9),
+  [Εμένα μου λες!]{lang="el"} (Wem sagst du das!, 20), [Σιγά μην …!]{lang="el"} (Von wegen …!,
+  20), [Πλάκα κάνεις;]{lang="el"} (Machst du Witze?, 21), [Εύκολο να το λες.]{lang="el"} (Du hast
+  leicht reden., 24).
+- **Sprichwörter:** [Κάθε πράγμα στον καιρό του κι ο κολιός τον Αύγουστο.]{lang="el"} (6),
+  [Όποιος βιάζεται, σκοντάφτει.]{lang="el"} (15), [Τρώγοντας έρχεται η όρεξη.]{lang="el"} (19).
+- **Bildhaftes:** [Τα ’χω χάσει.]{lang="el"} (Ich bin völlig durcheinander., 14),
+  [Είμαι πτώμα.]{lang="el"} (Ich bin fix und fertig., 19), [πέφτω έξω]{lang="el"}
+  (danebenliegen, 22).
+- **[όποιος]{lang="el"}** „wer (auch immer)“ (Kapitel 15) und das **Echo-Pronomen** bei vorangestelltem
+  Objekt (Kapitel 20).
+:::
+
+## Kaffee nach der Präsentation {#sec-redewendungen-einstieg}
+
+Ein Forschungsinstitut in Athen. Ein Kollege kommt aus dem Büro des Direktors, eine Kollegin
+wartet an der Kaffeemaschine.
+
+::: {lang="el"}
+— Λοιπόν; Πώς πήγε με τον διευθυντή;
+
+— Άσ’ τα. Μισή ώρα του εξηγούσα τα δεδομένα, αλλά γι’ αυτόν ήταν κινέζικα. Έκανα μια τρύπα
+στο νερό.
+
+— Σ’ το ’πα. Με πίνακες και αριθμούς δεν τον πείθεις. Κι ο Στέλιος; Δε σε βοήθησε;
+
+— Ο Στέλιος; Δεν του καίγεται καρφί. Όλη την ώρα κοιτούσε το κινητό του.
+
+— Κι ο διευθυντής έκανε τα στραβά μάτια, φαντάζομαι.
+
+— Φυσικά. Και κόβω το κεφάλι μου ότι αύριο θα πει πως η ιδέα ήταν δική του.
+
+— Σιγά τα λάχανα. Ας την πει δική του, αρκεί να πάρουμε τα λεφτά.
+
+— Εύκολο να το λες. Έξι μήνες έβαλα τα δυνατά μου γι’ αυτά τα δεδομένα.
+
+— Έλα, πάμε για καφέ. Κερνάω εγώ.
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Na? Wie lief’s beim Direktor?
+
+— Frag nicht. Eine halbe Stunde habe ich ihm die Daten erklärt, aber für ihn waren das böhmische
+Dörfer. Alles für die Katz.
+
+— Hab ich dir doch gesagt. Mit Tabellen und Zahlen überzeugst du ihn nicht. Und Stelios? Hat er
+dir nicht geholfen?
+
+— Stelios? Dem ist das völlig egal. Die ganze Zeit hat er auf sein Handy geschaut.
+
+— Und der Direktor hat darüber hinweggesehen, nehme ich an.
+
+— Natürlich. Und ich wette meinen Kopf, dass er morgen sagt, die Idee sei von ihm.
+
+— Na und? Soll er sie doch als seine ausgeben, Hauptsache, wir kriegen das Geld.
+
+— Du hast leicht reden. Sechs Monate habe ich mich für diese Daten ins Zeug gelegt.
+
+— Komm, gehen wir einen Kaffee trinken. Ich lade dich ein.
+:::
+
+Jedes Wort verstanden, und trotzdem nichts? Wörtlich steht da:
+
+| Griechisch | wörtlich | gemeint |
+|---|---|---|
+| [Ήταν κινέζικα.]{lang="el"} | Es war Chinesisch. | Ich habe nichts verstanden. |
+| [Έκανα μια τρύπα στο νερό.]{lang="el"} | Ich habe ein Loch ins Wasser gemacht. | Es war umsonst. |
+| [Δεν του καίγεται καρφί.]{lang="el"} | Ihm brennt kein Nagel. | Es ist ihm egal. |
+| [Έκανε τα στραβά μάτια.]{lang="el"} | Er machte die schiefen Augen. | Er sah absichtlich weg. |
+| [Κόβω το κεφάλι μου.]{lang="el"} | Ich schneide mir den Kopf ab. | Ich wette darauf. |
+| [Σιγά τα λάχανα.]{lang="el"} | Langsam die Kohlköpfe. | Na und? Große Sache. |
+| [Έβαλα τα δυνατά μου.]{lang="el"} | Ich setzte meine Starken. | Ich gab mein Bestes. |
+
+Das erste Bild kennst du aus dem Englischen, nur mit vertauschten Rollen: [*It’s all Greek to me*]{lang="en"} stammt aus Shakespeares *Julius Caesar*. Die Griechen schieben das Unverständliche nach China
+weiter, genau wie Spanisch ([*me suena a chino*]{lang="es"}) und Französisch
+([*c’est du chinois*]{lang="fr"}). Das Deutsche bleibt bei den böhmischen Dörfern.
+
+In diesem Kapitel geht es um solche Wendungen: wie man sie erkennt, wie man ihr Bild entschlüsselt,
+woher einige kommen, und welche wenigen du selbst benutzen solltest. Das meiste davon ist
+**Verstehen**. Über Idiomatik stolpert man in Filmen am häufigsten.
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Είναι κινέζικα για μένα.]{lang="el"} | [ˈine ciˈnezika ʝa ˈmena] | Das sind böhmische Dörfer für mich. |
+| [κάνω μια τρύπα στο νερό]{lang="el"} | [ˈkano mɲa ˈtripa sto neˈro] | nichts erreichen, sich umsonst mühen |
+| [Δε μου καίγεται καρφί.]{lang="el"} | [ðe mu ˈceʝete karˈfi] | Das ist mir völlig egal. (umg.) |
+| [κάνω τα στραβά μάτια]{lang="el"} | [ˈkano ta straˈva ˈmatça] | absichtlich wegsehen, ein Auge zudrücken |
+| [κόβω το κεφάλι μου ότι …]{lang="el"} | [ˈkovo to ceˈfali mu ˈoti] | ich wette meinen Kopf, dass … (umg.) |
+| [Σιγά τα λάχανα.]{lang="el"} | [siˈɣa ta ˈlaxana] | Na und? Große Sache! (umg., ironisch) |
+| [βάζω τα δυνατά μου, έβαλα …]{lang="el"} | [ˈvazo ta ðinaˈta mu], [ˈevala] | mein Bestes geben |
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [ο διευθυντής]{lang="el"} | der Direktor, der Leiter |
+| [τα δεδομένα]{lang="el"} | die Daten |
+| [ο πίνακας]{lang="el"} | die Tabelle; das Gemälde |
+| [ας την πει δική του]{lang="el"} | soll er sie doch als seine ausgeben (Kapitel 24) |
+| [αρκεί να]{lang="el"} | Hauptsache, …; sofern nur |
+:::
+
+## Formel, Redewendung, Sprichwort {#sec-redewendungen-sorten}
+
+Feste Wendungen gibt es in drei Sorten, und sie verhalten sich grammatisch verschieden.
+
+**Formeln** sind fertige Reaktionen auf eine Situation: [Σ’ το ’πα. Άσ’ τα. Εύκολο να το
+λες.]{lang="el"} Du kennst schon viele. Man lernt sie als Ganzes, ein Bild steckt selten darin.
+
+Eine **Redewendung** ([η ιδιωματική έκφραση]{lang="el"}) ist ein Bild, das etwas anderes meint,
+und sie fügt sich in einen Satz ein. Das Verb beugt sich wie jedes andere, in Person, Zeit und
+Aspekt:
+
+- [Ο διευθυντής **κάνει** τα στραβά μάτια.]{lang="el"} Der Direktor sieht (immer wieder) weg.
+  (Film)
+- [Χθες **έκανε** τα στραβά μάτια.]{lang="el"} Gestern hat er weggesehen. (Foto)
+- [Αυτή τη φορά **δε θα κάνω** τα στραβά μάτια.]{lang="el"} Diesmal sehe ich nicht weg.
+
+Fest sind dagegen die Nomen, ihre Artikel, ihre Zahl: Aus „schiefen Augen“ wird nie ein schiefes
+Auge.
+
+Ein **Sprichwort** ([η παροιμία]{lang="el"}) ist ein ganzer Satz mit einer Lebensweisheit. Es
+verändert sich nicht und wird zitiert: [Όποιος βιάζεται, σκοντάφτει.]{lang="el"}
+
+Die Grenzen sind fließend. [Μετά Χριστόν προφήτης.]{lang="el"} „Ein Prophet nach Christus“ hat
+kein Verb und ist trotzdem ein Sprichwort: Wer nach dem Ereignis weissagt, weissagt nichts.
+Deutsch: „Hinterher ist man immer schlauer.“
+
+### Das kleine [τα]{lang="el"} {#sec-redewendungen-ta}
+
+Viele Redewendungen haben ein [τα]{lang="el"}, das auf nichts Bestimmtes zeigt. Es heißt so
+viel wie „die Sache, alles“:
+
+| Wendung | Deutsch |
+|---|---|
+| [τα κάνω θάλασσα]{lang="el"} | etwas vermasseln (umg.), wörtlich „es zu Meer machen“ |
+| [τα βρίσκω (με κάποιον)]{lang="el"} | sich einigen; sich gut verstehen |
+| [τα παίρνω]{lang="el"} | sauer werden (umg.) |
+| [τα μαζεύω]{lang="el"} | zusammenpacken; einen Rückzieher machen |
+| [τα ’χω χάσει]{lang="el"} | völlig durcheinander sein (Kapitel 14) |
+| [Άσ’ τα!]{lang="el"}, [Τα λέμε.]{lang="el"} | Frag nicht! Bis dann. (Kapitel 9, 5) |
+
+- [Μην ανησυχείς, τα βρήκαμε.]{lang="el"} Keine Sorge, wir haben uns geeinigt.
+- [Όταν είδε τον λογαριασμό, τα πήρε.]{lang="el"} Als er die Rechnung sah, wurde er sauer.
+- [Φτάνει για σήμερα, τα μαζεύουμε.]{lang="el"} Genug für heute, wir packen zusammen.
+
+Das Spanische kennt denselben Trick mit [*lo*]{lang="es"} und [*la*]{lang="es"}:
+[*pasarlo bien*]{lang="es"} „sich amüsieren“, in Spanien [*¡La has liado!*]{lang="es"} „Jetzt
+hast du’s vermasselt!“ Auch dort zeigt das Pronomen auf nichts Bestimmtes.
+
+::: {.callout-warning}
+## Achtung
+
+Das [τα]{lang="el"} gehört zur Wendung und bleibt immer stehen: [Έκανα θάλασσα]{lang="el"}
+allein ergibt keinen Sinn. Im Gespräch verschmilzt es oft mit dem Verb: [τα ’κανα
+θάλασσα]{lang="el"} [ˈtakana ˈθalasa], wie [τα ’χω χάσει]{lang="el"} (Aphärese, Kapitel 21).
+Und [τα παίρνω]{lang="el"} heißt nur mit [τα]{lang="el"} „sauer werden“; [παίρνω]{lang="el"}
+allein bleibt „nehmen“.
+:::
+
+### Wie Sprichwörter gebaut sind {#sec-redewendungen-sprichwoerter}
+
+Sprichwörter haben ihre eigene Grammatik, und die hilft beim Erkennen.
+
+**[Όποιος]{lang="el"} vorn, Echo-Pronomen danach.** Die häufigste Bauform beginnt mit
+[όποιος]{lang="el"} (Kapitel 15). Braucht der zweite Teil diese Person als Objekt, steht ein
+Echo-Pronomen (Kapitel 20):
+
+- [Όποιος ανακατεύεται με τα πίτουρα, **τον** τρώνε οι κότες.]{lang="el"} Wer sich unter die
+  Kleie mischt, den fressen die Hühner.
+- [Όποιος έχει τη μύγα, μυγιάζεται.]{lang="el"} Wer die Fliege hat, wird unruhig.
+
+**Präsens für das, was immer gilt**, und oft gar kein Verb: [Κάθε πράγμα στον καιρό
+του.]{lang="el"}
+
+**Alte Formen.** [Χριστόν]{lang="el"} mit Schluss-[ν]{lang="el"} ist ein gelehrter Akkusativ,
+heute sagt man [τον Χριστό]{lang="el"}. Sprichwörter konservieren Grammatik wie Bernstein
+Insekten.
+
+<!-- EXERCISE: Formel, Redewendung oder Sprichwort erkennen (10 Wendungen aus diesem und früheren Kapiteln einordnen, Antwort als Buchstabe) + Teil B: τα-Wendungen in Person/Zeit/Aspekt bringen und laut sagen (z. B. „wir haben uns geeinigt“, „er wird sauer werden“, „ich hab’s vermasselt“ mit Aphärese), Formen bilden, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [η έκφραση]{lang="el"} | [i ˈekfrasi] | der Ausdruck; [ιδιωματική έκφραση]{lang="el"} Redewendung |
+| [η παροιμία]{lang="el"} | [i pariˈmia] | das Sprichwort |
+| [τα κάνω θάλασσα]{lang="el"} | [ta ˈkano ˈθalasa] | etwas vermasseln (umg.) |
+| [τα βρίσκω (με), τα βρήκα]{lang="el"} | [ta ˈvrisko], [ta ˈvrika] | sich einigen; sich gut verstehen (mit) |
+| [τα παίρνω, τα πήρα]{lang="el"} | [ta ˈperno], [ta ˈpira] | sauer werden (umg.) |
+| [τα μαζεύω, τα μάζεψα]{lang="el"} | [ta maˈzevo], [ta ˈmazepsa] | zusammenpacken; einen Rückzieher machen |
+| [Μετά Χριστόν προφήτης.]{lang="el"} | [meˈta xriˈston proˈfitis] | Hinterher ist man immer schlauer. (ironisch) |
+| [Όποιος έχει τη μύγα, μυγιάζεται.]{lang="el"} | [ˈopços ˈeçi ti ˈmiɣa miˈʝazete] | Getroffene Hunde bellen. |
+| [Όποιος ανακατεύεται με τα πίτουρα, τον τρώνε οι κότες.]{lang="el"} | [ˈopços anakaˈtevete me ta ˈpitura ton ˈtrone i ˈkotes] | Mitgefangen, mitgehangen. |
+:::
+
+## Bilder lesen: gleich, anders, falsch {#sec-redewendungen-bilder}
+
+Eine unbekannte Wendung knackst du selten mit dem Wörterbuch, aber oft mit der Frage: **Was
+macht das Bild?**
+
+- **Ein Loch ins Wasser:** Es schließt sich sofort, keine Spur bleibt. Also: umsonst.
+  Französisch hat fast dasselbe Bild, [*un coup d’épée dans l’eau*]{lang="fr"}, einen
+  Schwerthieb ins Wasser.
+- **Kleie und Hühner:** Kleie ist Hühnerfutter. Wer sich dazwischen mischt, wird mitgefressen:
+  schlechte Gesellschaft färbt ab, die Folgen trägst du mit.
+- **Die Fliege:** Wer eine auf sich sitzen hat, zuckt. Wer sich bei einer allgemeinen Bemerkung
+  aufregt, verrät, dass sie ihn trifft.
+- **Der Prophet nach Christus:** Propheten sagen Kommendes voraus; wer es nachher tut, ist keiner.
+
+Der **Zusammenhang** hilft mit: [Σιγά τα λάχανα]{lang="el"} kommt fast immer als Antwort auf
+eine Aufregung, [κόβω το κεφάλι μου]{lang="el"} fast immer mit [ότι]{lang="el"} dahinter. Und
+dann kommt der Vergleich mit Sprachen, die du kennst. Er kann auf drei Arten ausgehen.
+
+**Gleiches Bild, gleiche Bedeutung.** Hier hilft dir dein Deutsch sofort:
+
+- [ρίχνω λάδι στη φωτιά]{lang="el"} Öl ins Feuer gießen (Spanisch nimmt Holz:
+  [*echar leña al fuego*]{lang="es"})
+- [Το ’χω στην άκρη της γλώσσας μου.]{lang="el"} Es liegt mir auf der Zunge, wörtlich „auf der
+  Zungenspitze“, wie [*en la punta de la lengua*]{lang="es"}.
+- [Έπεσα από τα σύννεφα.]{lang="el"} Ich fiel aus allen Wolken; Französisch
+  [*tomber des nues*]{lang="fr"}.
+
+**Anderes Bild, gleiche Bedeutung.** Das ist der häufigste Fall:
+
+- [Βρέχει καρεκλοπόδαρα.]{lang="el"} Es regnet Stuhlbeine: dicke, gerade Strahlen. Englisch
+  lässt Katzen und Hunde fallen ([*raining cats and dogs*]{lang="en"}), Französisch Seile
+  ([*il pleut des cordes*]{lang="fr"}), Deutsch gießt aus Kübeln.
+- [Πνίγεται σε μια κουταλιά νερό.]{lang="el"} Er ertrinkt in einem Löffel Wasser: Er verzweifelt
+  an Kleinigkeiten. Spanisch fast wörtlich: [*ahogarse en un vaso de agua*]{lang="es"}, im Glas.
+- [Είπε ο γάιδαρος τον πετεινό κεφάλα.]{lang="el"} Der Esel nannte den Hahn Großkopf. Englisch
+  [*the pot calling the kettle black*]{lang="en"}, Spanisch die Pfanne und der Topf
+  ([*dijo la sartén al cazo*]{lang="es"}). Das Deutsche hat sogar ein Tier gemeinsam: „Ein Esel
+  schimpft den andern Langohr.“ <!-- CHECK: deutsches Sprichwort „Ein Esel schilt/schimpft den andern Langohr“ – Existenz und genauer Wortlaut -->
+
+**Gleiches Bild, andere Bedeutung.** Das sind die falschen Freunde unter den Wendungen:
+
+- [κάνω τα στραβά μάτια]{lang="el"} sieht aus wie „jemanden schief ansehen“, also missbilligen.
+  Gemeint ist das Gegenteil: absichtlich *nicht* hinsehen, ein Auge zudrücken.
+- [Τα ράσα δεν κάνουν τον παπά.]{lang="el"} Das Priestergewand macht nicht den Priester. Das
+  bekannteste deutsche Sprichwort zum Thema sagt genau das Gegenteil: „Kleider machen Leute“.
+  Auf der griechischen Seite stehen das seltenere „Die Kutte macht noch keinen Mönch“,
+  [*L’habit ne fait pas le moine*]{lang="fr"} und [*El hábito no hace al monje*]{lang="es"}.
+
+::: {.callout-tip}
+## Tipp
+
+Drei Fragen, in dieser Reihenfolge: Was macht das Bild? Worauf antwortet der Satz? Kenne ich ein
+ähnliches Bild, und meint es wirklich dasselbe? Die dritte Frage ist die gefährlichste: Ein
+bekanntes Bild fühlt sich wie Verstehen an, auch wenn es in die Irre führt.
+:::
+
+<!-- EXERCISE: Bildlogik: 8 Wendungen (Mischung aus diesem Abschnitt und neuen, leicht erschließbaren, z. B. τρώω τον κόσμο, κάνω την πάπια) mit je drei Bedeutungen zur Wahl; Lösung erklärt das Bild, Schwierigkeit 1 -->
+
+<!-- EXERCISE: Gleich, anders oder falsch? 8 griechische Wendungen je einer deutschen/englischen/spanischen Wendung gegenüberstellen und entscheiden: (1) gleiche Bedeutung, gleiches Bild, (2) gleiche Bedeutung, anderes Bild, (3) falscher Freund; mindestens zwei falsche Freunde (κάνω τα στραβά μάτια / schief ansehen; Τα ράσα … / Kleider machen Leute), Zuordnen, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ρίχνω λάδι στη φωτιά]{lang="el"} | [ˈrixno ˈlaði sti foˈtça] | Öl ins Feuer gießen |
+| [το ’χω στην άκρη της γλώσσας μου]{lang="el"} | [ˈtoxo stin ˈakri tiz ˈɣlosaz mu] | es liegt mir auf der Zunge |
+| [πέφτω από τα σύννεφα]{lang="el"} | [ˈpefto aˈpo ta ˈsinefa] | aus allen Wolken fallen |
+| [Βρέχει καρεκλοπόδαρα.]{lang="el"} | [ˈvreçi karekloˈpoðara] | Es gießt in Strömen. (umg.) |
+| [πνίγομαι σε μια κουταλιά νερό]{lang="el"} | [ˈpniɣome se mɲa kutaˈʎa neˈro] | an Kleinigkeiten verzweifeln |
+| [Είπε ο γάιδαρος τον πετεινό κεφάλα.]{lang="el"} | [ˈipe o ˈɣaiðaros tom betiˈno ceˈfala] | Wer im Glashaus sitzt … (wörtlich: Der Esel nannte den Hahn Großkopf.) |
+| [Τα ράσα δεν κάνουν τον παπά.]{lang="el"} | [ta ˈrasa ðeŋ ˈganun tom baˈpa] | Die Kutte macht noch keinen Mönch. (≠ Kleider machen Leute) |
+| [ο παπάς]{lang="el"} | [o paˈpas] | der (orthodoxe) Priester, Pope |
+:::
+
+## Verstehen oder selbst sagen? {#sec-redewendungen-aktiv}
+
+Mit Redewendungen ist es wie mit Gewürzen. Eine passende Wendung, mit fremdem Akzent gesagt,
+bringt fast immer ein Lächeln. Eine unpassende, eine veraltete oder eine zu derbe kann peinlich
+wirken, und bei Sprichwörtern kommt noch die Frage dazu, ob man sich als Gast so viel Weisheit
+herausnehmen darf. Deshalb trennt dieses Kapitel ausdrücklich: **viele verstehen, wenige selbst
+sagen.**
+
+**Zum Selbstsagen** eignen sich Wendungen, die neutral oder freundlich umgangssprachlich sind
+und niemanden angreifen:
+
+- [βάζω τα δυνατά μου]{lang="el"}: [Θα βάλω τα δυνατά μου.]{lang="el"} Ich gebe mein Bestes.
+- [τα βρίσκω με]{lang="el"}: [Τα βρίσκω πολύ καλά με τη γειτόνισσα.]{lang="el"} Ich verstehe
+  mich sehr gut mit der Nachbarin.
+- [τα κάνω θάλασσα]{lang="el"}, am liebsten über dich selbst: [Συγγνώμη, τα ’κανα
+  θάλασσα.]{lang="el"}
+- [έχω τον νου μου (σε)]{lang="el"}: [Έχε τον νου σου στην τσάντα σου.]{lang="el"} Pass auf
+  deine Tasche auf.
+- [στο πόδι]{lang="el"} (Kapitel 1) und [στο φτερό]{lang="el"}, wörtlich „auf dem Flügel“:
+  [Έφαγα κάτι στο φτερό.]{lang="el"} Ich habe schnell zwischendurch etwas gegessen.
+- [κουτσά στραβά]{lang="el"}, wörtlich „hinkend, schief“: [— Μιλάς ελληνικά; — Κουτσά
+  στραβά.]{lang="el"} Mehr schlecht als recht. Die Antwort ist bescheiden und ehrlich zugleich.
+- [Κάθε εμπόδιο για καλό.]{lang="el"} Jedes Hindernis ist zu etwas gut. Spanisch:
+  [*No hay mal que por bien no venga.*]{lang="es"} Tröstet nach Pech.
+- [Από το στόμα σου και στου Θεού τ’ αυτί.]{lang="el"} Aus deinem Mund in Gottes Ohr, als
+  Antwort auf einen guten Wunsch. Deutsch „Dein Wort in Gottes Ohr“, Spanisch
+  [*Dios te oiga*]{lang="es"}.
+
+Sprichwörter setzt du am sichersten in **Anführungszeichen**, das heißt mit einer Einleitung,
+die zeigt, dass du zitierst: [όπως λέει κι η παροιμία]{lang="el"} „wie es im Sprichwort
+heißt“ oder [που λέει κι ο λόγος]{lang="el"} „wie man so schön sagt“.
+
+**Nur zum Verstehen** ist der Rest dieses Kapitels, und zwar aus drei Gründen:
+
+- **salopp:** [Δε μου καίγεται καρφί.]{lang="el"}, [τα παίρνω]{lang="el"}, dazu [έφαγε
+  πόρτα]{lang="el"} „er ist abgeblitzt“, wörtlich „er hat Tür gegessen“. Unter Freunden
+  normal, vom Gast leicht zu flapsig.
+- **Spitze gegen jemanden:** [Όποιος έχει τη μύγα, μυγιάζεται]{lang="el"} und der Esel mit dem
+  Hahn sind kleine Angriffe. Wer sie zitiert, legt sich mit dem Gegenüber an.
+- **gehoben oder ironisch:** [Μετά Χριστόν προφήτης]{lang="el"} funktioniert nur mit dem
+  richtigen Tonfall; [Ή ταν ή επί τας]{lang="el"} (im Lesetext) klingt nach Schulbuch.
+
+Die derben und vulgären Wendungen, die in Filmen reichlich fallen, lässt dieses Buch beiseite.
+Du erkennst sie meist daran, dass die Figuren auf einmal lauter werden.
+
+::: {.callout-warning}
+## Achtung
+
+- Feste Teile nicht „verbessern“: [κάνω **μια** τρύπα στο νερό]{lang="el"}, nicht [κάνω την
+  τρύπα]{lang="el"}; [τα **στραβά** μάτια]{lang="el"}, nicht [τα κλειστά μάτια]{lang="el"}. Die
+  Sätze wären grammatisch, aber keine Wendung mehr.
+- Deutsche Bilder nicht übersetzen: [ρίχνω το κουτάλι]{lang="el"} für „den Löffel abgeben“
+  versteht niemand. Die Bilder der Nachbarsprache wandern selten mit.
+:::
+
+<!-- EXERCISE: Situation → passende Wendung laut auf Griechisch sagen (nur die acht aktiven Wendungen + όπως λέει κι η παροιμία): 7 kurze Alltagssituationen (z. B. Freundin wünscht Glück für die Prüfung; man hat Fahrkarten falsch gebucht; jemand fragt, wie gut man Griechisch spricht; man soll auf ein Kind aufpassen), mündlich übersetzen; Lösung mit Registerhinweis, welche Wendung zu flapsig wäre, Schwierigkeit 2–3 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [έχω τον νου μου (σε)]{lang="el"} | [ˈexo ton ˈnu mu] | aufpassen (auf), ein Auge haben (auf) |
+| [στο φτερό]{lang="el"} | [sto fteˈro] | im Vorbeigehen, auf die Schnelle |
+| [κουτσά στραβά]{lang="el"} | [kuˈtsa straˈva] | mehr schlecht als recht (umg.) |
+| [Κάθε εμπόδιο για καλό.]{lang="el"} | [ˈkaθe eˈboðio ʝa kaˈlo] | Wer weiß, wofür es gut ist. |
+| [Από το στόμα σου και στου Θεού τ’ αυτί.]{lang="el"} | [aˈpo to ˈstoma su ce stu θeˈu taˈfti] | Dein Wort in Gottes Ohr. |
+| [όπως λέει κι η παροιμία]{lang="el"} | [ˈopos ˈlei ci i pariˈmia] | wie es im Sprichwort heißt |
+| [που λέει κι ο λόγος]{lang="el"} | [pu ˈlei co ˈloɣos] | wie man so schön sagt |
+| [έφαγε πόρτα]{lang="el"} | [ˈefaʝe ˈporta] | er ist abgeblitzt (salopp) |
+:::
+
+## Woher sie kommen {#sec-redewendungen-herkunft}
+
+Über die Herkunft von Redewendungen wird gern erzählt, und vieles davon ist erfunden. Eine
+Geschichte, die ein seltsames Bild nachträglich erklärt, nennt man **Volksetymologie**: Sie
+klingt einleuchtend, belegt ist sie nicht. Gesichert ist eine Herkunft dagegen, wenn die
+Wendung in alten Texten steht oder wenn ihre Wörter eine nachweisbare Geschichte haben. Das
+Griechische hat für beides reiche Quellen; den Blick in die Antike und aufs Meer liefert der
+Lesetext am Ende. Hier zwei andere.
+
+**Die Kirche.** Der **Hexapsalm** ([ο εξάψαλμος]{lang="el"}) besteht aus sechs Psalmen, die im
+orthodoxen Morgengottesdienst am Stück gelesen werden, lang und ohne Unterbrechung, während die
+Gemeinde still zuhört. [Του έψαλα τον εξάψαλμο.]{lang="el"} „Ich habe ihm den Hexapsalm
+gesungen“ heißt: Ich habe ihm eine lange Strafpredigt gehalten. Das Deutsche hat dafür ebenfalls
+ein Bild aus der Kirche: „jemandem die Leviten lesen“, nach der gängigen Erklärung von den
+Vorschriften aus dem Buch Levitikus, die Geistlichen vorgelesen wurden. Aus derselben Welt
+kommen [Μετά Χριστόν προφήτης]{lang="el"} und die Kutte, die keinen Priester macht; zu ihr gibt
+es ein mittelalterlich-lateinisches Gegenstück, [*cucullus non facit monachum*]{lang="la"}.
+
+**Die Osmanen.** Jahrhunderte osmanischer Herrschaft haben dem Griechischen viele
+türkische Wörter hinterlassen, besonders für Gefühle und Umgang. Drei stecken in sehr häufigen
+Wendungen:
+
+- [Χαλάλι σου!]{lang="el"} von türkisch [*helal*]{lang="tr"} „erlaubt, rechtmäßig“ (aus dem
+  Arabischen): „Sei dir gegönnt, das war es wert.“ Man sagt es, wenn man etwas gern gegeben hat,
+  oder wenn sich ein Opfer gelohnt hat.
+- [γίνομαι ρεζίλι]{lang="el"} von [*rezil*]{lang="tr"} „blamiert“: sich lächerlich machen;
+  [Με έκανες ρεζίλι!]{lang="el"} „Du hast mich blamiert!“
+- [το γινάτι]{lang="el"} von [*inat*]{lang="tr"} „Trotz“: [Το έκανε γινάτι.]{lang="el"} „Er
+  hat sich darauf versteift, aus reinem Trotz.“
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+Zu vielen bekannten Wendungen kursieren Herkunftsgeschichten, im Netz, in Zeitungskolumnen, bei
+Stadtführungen. Das gilt auch für [Σιγά τα λάχανα]{lang="el"}: Mehrere Erklärungen sind im
+Umlauf, belegt ist keine. Dieses Buch nennt eine Herkunft nur, wenn sie aus Texten oder aus der
+Wortgeschichte gesichert ist, und kennzeichnet alles andere als „gängige Erklärung“. Nachschlagen
+lassen sich Wortherkünfte im Standardwörterbuch [«Λεξικό της Κοινής Νεοελληνικής»]{lang="el"}
+(Kapitel 22), das bei jedem Stichwort die Etymologie angibt.
+<!-- CHECK: Hexapsalm (sechs Psalmen am Beginn des Orthros, still gehört); Idiom ψέλνω σε κάποιον τον εξάψαλμο = „strenge Strafpredigt“ (LKN); Herleitung „Leviten lesen“ (Levitikus, Regel des Chrodegang) als „gängige Erklärung“; χαλάλι < türk. helal < arab. ḥalāl, ρεζίλι < rezil, γινάτι < inat (LKN-Etymologie) -->
+:::
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [ψέλνω, έψαλα]{lang="el"} | [ˈpselno], [ˈepsala] | (liturgisch) singen |
+| [του έψαλα τον εξάψαλμο]{lang="el"} | [tu ˈepsala ton eˈksapsalmo] | ich habe ihm die Leviten gelesen |
+| [Χαλάλι σου!]{lang="el"} | [xaˈlali su] | Sei dir gegönnt! Das war es wert. |
+| [γίνομαι ρεζίλι]{lang="el"} | [ˈʝinome reˈzili] | mich blamieren; [κάνω κάποιον ρεζίλι]{lang="el"} jemanden blamieren |
+| [το γινάτι]{lang="el"} | [to ʝiˈnati] | der Trotz; [το κάνω γινάτι]{lang="el"} aus Trotz darauf bestehen |
+:::
+
+## Hörspur: Redewendungen im Film {#sec-redewendungen-hoerspur}
+
+Die ▶-Aufnahmen im Buch sind synthetische Stimmen; echte Filme bringt der Hör-Auftrag am Ende des
+Abschnitts. Die griechischen Filmkomödien der 1950er- und 1960er-Jahre (Kapitel 21) sind
+Fundgruben für Redewendungen, und viele ihrer Familienszenen folgen einem Muster: Ein Kind
+verkündet etwas, der Vater explodiert, die Mutter vermittelt, und alle werfen sich Sprichwörter
+zu. Die Szene unten ist erfunden, aber in diesem Stil geschrieben. Es sprechen drei Personen,
+die Aufnahme hat nur zwei Stimmen: eine männliche für den Vater, eine weibliche für Mutter und
+Tochter. Wer von beiden spricht, verrät meist die Anrede: [μπαμπά]{lang="el"} sagt die Tochter,
+[Θανάση]{lang="el"} die Mutter.
+
+Vor dem Hören:
+
+- **Halbe Sprichwörter:** Im Gespräch sagt oft einer nur die erste Hälfte, und der andere
+  ergänzt, oder der Rest bleibt in der Luft. Achte darauf, wer welche Hälfte sagt.
+- **Worthilfen:** [παραιτήθηκα]{lang="el"} ich habe gekündigt · [ηρέμησε]{lang="el"} beruhige
+  dich · [βράζω ένα αβγό]{lang="el"} ein Ei kochen · [η κυρα-Ρήνη]{lang="el"} Frau Rini (volkstümlich)
+  · [τζάμπα]{lang="el"} umsonst, gratis (umg.).
+
+::: {lang="el" .listen}
+[— Λοιπόν, Ελένη; Ποιο είναι το μεγάλο νέο;]{.v2}
+
+[— Παραιτήθηκα από την τράπεζα, μπαμπά.]{.v1}
+
+[— Τι έκανες, λέει; Πέφτω από τα σύννεφα!]{.v2}
+
+[— Ηρέμησε, Θανάση. Κάθε εμπόδιο για καλό.]{.v1}
+
+[— Ποιο εμπόδιο, γυναίκα; Είχε δουλειά σίγουρη, με μισθό, και τα ’κανε θάλασσα!]{.v2}
+
+[— Δεν τα ’κανα θάλασσα, μπαμπά. Ανοίγω φούρνο στη Σίφνο, στο σπίτι του παππού.]{.v1}
+
+[— Φούρνο; Εσύ; Που δεν ξέρεις να βράσεις ένα αβγό;]{.v2}
+
+[— Δύο χρόνια μάθαινα στον φούρνο της κυρα-Ρήνης, κάθε Σάββατο στις πέντε το πρωί.]{.v1}
+
+[— Κι εσύ, γυναίκα, το ήξερες; Κι έκανες τα στραβά μάτια;]{.v2}
+
+[— Το ήξερα.]{.v1}
+
+[— Όποιος ανακατεύεται με τα πίτουρα…]{.v2}
+
+[— …τον τρώνε οι κότες, ναι. Τα ίδια έλεγε κι ο πατέρας σου, Θανάση, όταν άνοιξες το μαγαζί το ’88.]{.v1}
+
+[— Άλλο εκείνο.]{.v2}
+
+[— Είπε ο γάιδαρος τον πετεινό κεφάλα.]{.v1}
+
+[— Τι είπες;]{.v2}
+
+[— Τίποτα, μπαμπά. Πες μου μόνο: Το ψωμί που τρως εδώ και τρεις μήνες και λες ότι είναι το καλύτερο της Αθήνας, από πού έρχεται;]{.v1}
+
+[— Από τον φούρνο της γωνίας.]{.v2}
+
+[— Από τον δικό μας φούρνο, Θανάση. Της κουζίνας.]{.v1}
+
+[— … Καλά. Χαλάλι σου, κορίτσι μου. Αλλά τα κουλούρια της Κυριακής θα μου τα φέρνεις τζάμπα.]{.v2}
+:::
+
+<!-- EXERCISE: Hörverstehen zur Szene: Auftrag „Hör die Szene mit ▶, ohne den Text aufzuklappen, höchstens zweimal. Im Chat: 1a, 2c …“; 7 Multiple-Choice-Fragen NUR zum Inhalt (was hat Eleni getan; wo und was will sie eröffnen; wie/wo hat sie gelernt; wusste die Mutter davon; womit kontert die Mutter das halbe Sprichwort des Vaters (erinnert an sein eigenes Geschäft 1988); woher kommt das Brot, das der Vater seit drei Monaten isst; was verlangt der Vater am Ende); keine Fragen zu Sandhi oder Intonation; Lösung zitiert die Stellen und nennt beiläufig die Wendungen; Schwierigkeit 2 -->
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+— Also, Eleni? Was ist die große Neuigkeit?
+
+— Ich habe bei der Bank gekündigt, Papa.
+
+— Was hast du gemacht? Ich falle aus allen Wolken!
+
+— Beruhige dich, Thanasis. Wer weiß, wofür es gut ist.
+
+— Wofür gut, Frau? Sie hatte eine sichere Stelle, mit Gehalt, und hat alles vermasselt!
+
+— Ich habe nichts vermasselt, Papa. Ich mache eine Bäckerei auf Sifnos auf, im Haus von Opa.
+
+— Eine Bäckerei? Du? Die kein Ei kochen kann?
+
+— Zwei Jahre habe ich in der Bäckerei von Frau Rini gelernt, jeden Samstag um fünf Uhr
+früh.
+
+— Und du, Frau, wusstest das? Und hast weggesehen?
+
+— Ich wusste es.
+
+— Wer sich unter die Kleie mischt …
+
+— … den fressen die Hühner, ja. Dasselbe hat dein Vater gesagt, Thanasis, als du 1988 den Laden
+aufgemacht hast.
+
+— Das war etwas anderes.
+
+— Der Esel nennt den Hahn Großkopf.
+
+— Was hast du gesagt?
+
+— Nichts, Papa. Sag mir nur: Das Brot, das du seit drei Monaten isst und von dem du sagst, es
+sei das beste von Athen, woher kommt das?
+
+— Vom Bäcker an der Ecke.
+
+— Aus unserem eigenen Ofen, Thanasis. Dem in der Küche.
+
+— … Na gut. Sei dir gegönnt, mein Mädchen. Aber die Sesamkringel am Sonntag bringst du mir
+umsonst.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [Τι έκανες, λέει;]{lang="el"} | Was hast du da gemacht? (ungläubig, umg.) |
+| [ο μισθός]{lang="el"} | das Gehalt (Kapitel 16) |
+| [ο φούρνος]{lang="el"} | die Bäckerei; der Ofen |
+| [η κυρα-]{lang="el"} | volkstümlich vor Frauennamen, „Frau“ (vgl. [κυρ]{lang="el"}, Kapitel 6) |
+| [άλλο εκείνο]{lang="el"} | das ist etwas anderes |
+| [της γωνίας]{lang="el"} | an der Ecke |
+| [κορίτσι μου]{lang="el"} | mein Mädchen (Kapitel 7) |
+| [το κουλούρι]{lang="el"} | der Sesamkringel |
+| [τζάμπα]{lang="el"} | umsonst, gratis (umg., von türk. [*caba*]{lang="tr"}) |
+:::
+
+### Filme hören {#sec-redewendungen-filme}
+
+In echten Filmen fallen Redewendungen schnell, beiläufig und oft verkürzt. Zwei Dinge helfen:
+Achte auf die **Reaktion** des Gegenübers (Lachen, Empörung, Schweigen verraten, ob gerade eine
+Spitze gefallen ist), und nutze **griechische Untertitel**. Sie kürzen zwar (Kapitel 21), lassen
+feste Wendungen aber oft stehen, sodass du sie nachschlagen kannst. Filme und Serien
+findest du auf [ERTflix](https://www.ertflix.gr), manche mit griechischen Untertiteln
+(Kapitel 21).
+
+<!-- EXERCISE: Hör-Auftrag ERTflix (https://www.ertflix.gr): eine griechische Komödie oder Familienserie mit griechischen Untertiteln (CC) wählen, 10 Minuten Streit- oder Tischszene; (1) ohne Untertitel: Strich bei jedem Satz, bei dem man die Wörter, aber nicht den Sinn versteht; (2) mit griechischen Untertiteln: zwei solcher Stellen merken, im LKN nachschlagen, entscheiden, ob Formel, Redewendung oder Sprichwort; (3) prüfen, ob eine Wendung aus diesem Kapitel vorkam; Rückmeldung im Chat als Zahl + zwei Wendungen; keine erfundenen Titel oder URLs, Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [παραιτούμαι, παραιτήθηκα]{lang="el"} | [pareˈtume], [pareˈtiθika] | kündigen; zurücktreten |
+| [ηρεμώ, ηρέμησα]{lang="el"} | [ireˈmo], [iˈremisa] | sich beruhigen; [Ηρέμησε!]{lang="el"} Beruhige dich! |
+| [βράζω, έβρασα]{lang="el"} | [ˈvrazo], [ˈevrasa] | kochen, sieden |
+| [τζάμπα]{lang="el"} | [ˈdzaba] | umsonst, gratis (umg.) |
+:::
+
+## Das Wichtigste {#sec-redewendungen-wichtigste}
+
+- **Drei Sorten:** Formeln ([Σ’ το ’πα]{lang="el"}) als Ganzes; **Redewendungen** mit Bild, Verb
+  beugt sich in Person, Zeit und Aspekt ([κάνει / έκανε τα στραβά μάτια]{lang="el"}), Nomen und
+  Artikel bleiben fest; **Sprichwörter** als unveränderliche Sätze, oft mit [όποιος]{lang="el"}
+  und Echo-Pronomen, im Präsens oder ohne Verb, mit alten Formen ([Μετά Χριστόν]{lang="el"}).
+- **Das kleine [τα]{lang="el"}** zeigt auf nichts Bestimmtes und gehört fest dazu: [τα κάνω
+  θάλασσα, τα βρίσκω, τα παίρνω, τα μαζεύω]{lang="el"}.
+- **Verstehen:** Was macht das Bild? Worauf antwortet der Satz? Gibt es ein ähnliches Bild, und
+  meint es dasselbe? Vorsicht bei falschen Freunden ([κάνω τα στραβά μάτια]{lang="el"} ≠ schief
+  ansehen; [Τα ράσα δεν κάνουν τον παπά]{lang="el"} ≠ Kleider machen Leute).
+- **Selbst sagen:** wenige, neutrale Wendungen ([βάζω τα δυνατά μου, τα βρίσκω, τα ’κανα
+  θάλασσα, έχω τον νου μου, στο φτερό, κουτσά στραβά, Κάθε εμπόδιο για καλό, Από το στόμα σου
+  …]{lang="el"}); Sprichwörter mit [όπως λέει κι η παροιμία]{lang="el"} zitieren. Salopp, spitz
+  oder gehoben: nur verstehen.
+- **Herkunft:** gesichert aus Texten oder Wortgeschichte (Kirche, osmanische Wörter wie
+  [χαλάλι, ρεζίλι, γινάτι]{lang="el"}); alles andere ist „gängige Erklärung“.
+
+## Zum Lesen: Salz, Schild und Galeere {#sec-redewendungen-lesetext}
+
+Eine Kolumne, wie sie in einer Wochenendbeilage stehen könnte.
+
+::: {lang="el"}
+**Αλάτι, ασπίδες και κάτεργα**
+
+Κάθε γιαγιά έχει μια παροιμία για κάθε περίσταση. Σπάνια όμως ξέρει από πού έρχεται. Κάποιες
+είναι πολύ πιο παλιές απ’ ό,τι νομίζουμε.
+
+«Φάγαμε μαζί ψωμί κι αλάτι», λέμε για έναν φίλο που ξέρουμε χρόνια. Ήδη ο Αριστοτέλης γράφει
+ότι δύο άνθρωποι δε γνωρίζονται πραγματικά πριν φάνε μαζί «το αλάτι που λένε», δηλαδή πολλά
+γεύματα. Και το γράφει ως παροιμία· άρα ήταν παλιά ήδη τότε. Ο Κικέρωνας την ξαναλέει στα
+λατινικά, και κάτι παρόμοιο υπάρχει και στα γερμανικά.
+
+Ακόμα πιο διάσημη είναι μια φράση από τη Σπάρτη. Ο Πλούταρχος διηγείται ότι μια Σπαρτιάτισσα
+έδωσε στον γιο της την ασπίδα πριν από τη μάχη και του είπε: «Ή ταν ή επί τας», δηλαδή «ή με
+αυτήν ή πάνω σε αυτήν». Γύρνα νικητής ή νεκρός, αλλά όχι χωρίς την ασπίδα· γιατί όποιος έφευγε
+από τη μάχη, την πετούσε για να τρέξει πιο γρήγορα. Σήμερα τη λέμε μισοαστεία, πριν από ένα
+δύσκολο διαγώνισμα ή μια σημαντική συνάντηση.
+
+Άλλες εκφράσεις έρχονται από τη θάλασσα. Στο Βυζάντιο και αργότερα στα χρόνια των Βενετών,
+κάτεργο λεγόταν το πολεμικό πλοίο με κουπιά. Στα χρόνια των Βενετών κουπί τραβούσαν συχνά και
+κατάδικοι, και από το κάτεργο βγήκε ο κατεργάρης. Η συνηθισμένη εξήγηση λέει ότι, όταν τελείωνε η στάση στο λιμάνι,
+ο καθένας έπρεπε να γυρίσει στη θέση του, στον πάγκο του. Σήμερα κατεργάρης είναι ο πονηρός,
+και το «Κάθε κατεργάρης στον πάγκο του» το λέμε όταν τελειώνει μια γιορτή και πάει ο καθένας
+στο σπίτι του.
+
+Και το «Σιγά τα λάχανα»; Εδώ οι ιστορίες είναι πολλές και οι αποδείξεις καμία. Σιγά μην τις
+πιστέψουμε όλες.
+:::
+
+::: {.callout-note collapse="true" .vocab-text}
+## Wortschatz zum Text
+
+| Griechisch | Deutsch |
+|---|---|
+| [η περίσταση]{lang="el"} | die Gelegenheit, der Anlass |
+| [σπάνια]{lang="el"} | selten |
+| [το γεύμα, τα γεύματα]{lang="el"} | die Mahlzeit |
+| [ο Κικέρωνας]{lang="el"} | Cicero |
+| [διηγούμαι]{lang="el"} | erzählen |
+| [η Σπαρτιάτισσα]{lang="el"} | die Spartanerin |
+| [η ασπίδα]{lang="el"} | der Schild |
+| [η μάχη]{lang="el"} | die Schlacht |
+| [ο νικητής]{lang="el"} | der Sieger |
+| [πετάω, πέταξα]{lang="el"} | wegwerfen; fliegen |
+| [μισοαστεία]{lang="el"} | halb im Scherz |
+| [το διαγώνισμα]{lang="el"} | die Klassenarbeit, die Prüfung |
+| [το κάτεργο]{lang="el"} | die Galeere |
+| [το κουπί]{lang="el"} | das Ruder; [τραβάω κουπί]{lang="el"} rudern |
+| [ο κατάδικος]{lang="el"} | der Sträfling |
+| [η στάση]{lang="el"} | der Halt, der Aufenthalt |
+| [πονηρός, -ή, -ό]{lang="el"} | schlau, gerissen |
+| [η απόδειξη, οι αποδείξεις]{lang="el"} | der Beweis |
+:::
+
+::: {.callout-note collapse="true" .translation}
+## Übersetzung
+
+**Salz, Schilde und Galeeren**
+
+Jede Großmutter hat ein Sprichwort für jede Gelegenheit. Woher es kommt, weiß sie aber selten.
+Manche sind viel älter, als wir denken.
+
+„Wir haben zusammen Brot und Salz gegessen“, sagen wir über einen Freund, den wir seit Jahren
+kennen. Schon Aristoteles schreibt, dass zwei Menschen sich erst wirklich kennen, wenn sie „das
+sprichwörtliche Salz“ zusammen gegessen haben, also viele Mahlzeiten. Und er schreibt es als
+Sprichwort; es war also schon damals alt. Cicero wiederholt es auf Latein, und etwas Ähnliches
+gibt es auch im Deutschen.
+
+Noch berühmter ist ein Satz aus Sparta. Plutarch erzählt, eine Spartanerin habe ihrem Sohn vor
+der Schlacht den Schild gereicht und gesagt: „Mit ihm oder auf ihm.“ Komm als Sieger zurück oder
+als Toter, aber nicht ohne den Schild; denn wer aus der Schlacht floh, warf ihn weg, um schneller
+laufen zu können. Heute sagen wir den Satz halb im Scherz, vor einer schweren Prüfung oder einem
+wichtigen Treffen.
+
+Andere Ausdrücke kommen vom Meer. In Byzanz und später unter den Venezianern hieß das
+Kriegsschiff mit Rudern [κάτεργο]{lang="el"}, Galeere. Unter den Venezianern ruderten oft auch
+Sträflinge, und aus dem [κάτεργο]{lang="el"} wurde der [κατεργάρης]{lang="el"}. Die übliche Erklärung sagt: Wenn der Halt im Hafen vorbei war, musste
+jeder an seinen Platz zurück, auf seine Ruderbank. Heute ist ein [κατεργάρης]{lang="el"} ein Schlitzohr, und
+„Jedes Schlitzohr auf seine Bank“ sagen wir, wenn ein Fest zu Ende geht und jeder nach Hause
+geht.
+
+Und „Langsam die Kohlköpfe“? Hier gibt es viele Geschichten und keinen einzigen Beweis. Als ob
+wir die alle glauben würden.
+:::
+
+::: {.callout-caution .uncertain}
+## Vorsicht
+
+- **Salz:** Aristoteles, *Nikomachische Ethik*, Buch 8 (1156b), zitiert das Sprichwort; Cicero,
+  *Laelius* 67, sagt, man müsse „viele Scheffel Salz“ zusammen gegessen haben. Die deutsche
+  Wendung vom „Scheffel Salz“ ist heute selten.
+- **Schild:** Plutarch überliefert den Satz in seiner Sammlung von Aussprüchen spartanischer
+  Frauen, Jahrhunderte nach der Blütezeit Spartas. Ob ihn je eine Mutter so gesagt hat, weiß
+  niemand; er zeigt, wie man sich Sparta später vorstellte.
+- **Galeere:** Dass [κατεργάρης]{lang="el"} von [κάτεργο]{lang="el"} kommt, steht in den
+  Wörterbüchern. Das Bild der Ruderbank für die Wendung ist die übliche, naheliegende Erklärung,
+  aber keine Quelle belegt, wie genau sie entstand.
+<!-- CHECK: Aristoteles EN VIII 1156b25–29 (τοὺς λεγομένους ἅλας συναναλῶσαι); Cicero Laelius 19,67 (multos modios salis); Plutarch, Lacaenarum apophthegmata, Moralia 241F (ἢ τὰν ἢ ἐπὶ τᾶς); κατεργάρης < κάτεργο laut LKN; venezianische Galeeren „oft auch“ mit Sträflingen gerudert (Byzanz: überwiegend freie Ruderer?); deutsche Wendung „einen Scheffel Salz mit jemandem gegessen haben“ -->
+:::
+
+<!-- EXERCISE: Leseverstehen zur Kolumne: Teil A richtig/falsch aus dem Text (7 Aussagen, u. a. Aristoteles erfand das Sprichwort [falsch: zitiert es als Sprichwort]; Schildflüchtige warfen den Schild weg; κατεργάρης heißt heute „Sträfling“ [falsch]; Herkunft von „Σιγά τα λάχανα“ ist geklärt [falsch]); Teil B: vier Wendungen aus dem ganzen Kapitel einer Herkunft zuordnen (Antike, Kirche, Seefahrt, osmanisch) und sagen, ob gesichert oder „gängige Erklärung“; Schwierigkeit 2 -->
+
+::: {.vocab}
+| Griechisch | Aussprache | Deutsch |
+|---|---|---|
+| [Φάγαμε μαζί ψωμί κι αλάτι.]{lang="el"} | [ˈfaɣame maˈzi psoˈmi caˈlati] | Wir kennen uns seit Ewigkeiten, haben viel zusammen erlebt. |
+| [Ή ταν ή επί τας.]{lang="el"} | [i tan i eˈpi tas] | Alles oder nichts. (gehoben, halb im Scherz) |
+| [ο κατεργάρης]{lang="el"} | [o katerˈɣaris] | das Schlitzohr, der Gauner (oft scherzhaft) |
+| [Κάθε κατεργάρης στον πάγκο του.]{lang="el"} | [ˈkaθe katerˈɣaris stom ˈbago tu] | Jeder zurück an seinen Platz. (scherzhaft, am Ende eines Festes) |
+:::

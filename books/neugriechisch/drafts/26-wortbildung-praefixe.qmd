@@ -5,12 +5,16 @@ title: "Wortbildung I: Präfixe und Verkleinerungen"
 ::: {.callout-note .review}
 ## Zur Wiederholung
 
-- **[ξανα-]{lang="el"}** „wieder“ (Kapitel 14): [ξαναλέω, ξαναήρθε, ξαναχτίστηκε]{lang="el"};
-  mit Perfekt „noch nie“: [Δεν το έχω ξαναδεί.]{lang="el"}
-- **Verkleinerungen**, bisher nebenbei: [μισή ωρίτσα]{lang="el"} (Kapitel 2),
-  [τα κολοκυθάκια, το ματσάκι]{lang="el"} (Kapitel 6), [ο Γιωργάκης]{lang="el"} (Kapitel 7).
+- **[ξανα-]{lang="el"}** „wieder“ (Kapitel 14; Beispiele aus 8, 16, 23): [ξανάρχομαι,
+  ξαναζήσει]{lang="el"}, [σ’ το ξαναλέω]{lang="el"}, [ξαναήρθε, ξαναχτίστηκε]{lang="el"}; mit
+  Perfekt „noch nie“: [Δεν το έχω ξαναδεί.]{lang="el"}
+- **Verkleinerungen**, bisher nebenbei: [τα ντολμαδάκια, τα παϊδάκια, τα σουβλάκια]{lang="el"}
+  (Kapitel 1), [μισή ωρίτσα]{lang="el"} (2), [τα προβατάκια]{lang="el"} „Schaumkronen“ (5),
+  [τα κολοκυθάκια, το ματσάκι]{lang="el"} (6), [ο Γιωργάκης]{lang="el"} (7), [το
+  κουτάκι]{lang="el"} (9).
 - **Augment und Betonung** (Kapitel 2): Im Aorist liegt die Betonung auf der drittletzten Silbe;
-  das [ε-]{lang="el"} kommt nur dazu, wenn sonst eine Silbe fehlt.
+  das [ε-]{lang="el"} kommt nur dazu, wenn sonst eine Silbe fehlt. Die Verben mit festem Anfang
+  aus Kapitel 3 ([ήρθα, είδα, ήπια]{lang="el"}) behalten ihr [ή-/εί-]{lang="el"} ohnehin.
 :::
 
 ## Sonntag bei der Großmutter {#sec-praefixe-einstieg}
@@ -32,22 +36,25 @@ Großmutter steht schon in der Tür, der Großvater sitzt unter der Weinlaube.
 
 — Ούζο το μεσημέρι;
 
-— Ένα δαχτυλάκι, ρε, για τον μεζέ. Ούζο χωρίς μεζέ δεν πίνεται.
+[— Ένα δαχτυλάκι, ρε, για τον μεζέ. Ούζο χωρίς μεζέ δεν πίνεται.]{.v2}
 :::
 
 Eine Stunde später.
 
 ::: {lang="el"}
-— Γιαγιά, φτάνει. Παράφαγα.
+[— Γιαγιά, φτάνει. Παράφαγα.]{.v2}
 
 — Τι παράφαγες; Δυο μπουκίτσες έφαγες.
 
 — Να σου ξαναγεμίσω το ποτήρι;
 
-— Όχι, παππού, ευχαριστώ. Πάω να ξεκουραστώ λίγο.
+[— Όχι, παππού, ευχαριστώ. Πάω να ξεκουραστώ λίγο.]{.v2}
 
 — Πήγαινε, χρυσό μου. Και το βράδυ σου κάνω ένα γιουβετσάκι.
 :::
+
+In der Aufnahme teilen sich Enkel und Großvater die Männerstimme: Das [δαχτυλάκι]{lang="el"} und
+das Nachschenken kommen vom Großvater.
 
 ::: {.callout-note collapse="true" .translation}
 ## Übersetzung
@@ -61,7 +68,7 @@ Bohnen, ein bisschen Brot, ein Stückchen Käse. Nichts Besonderes.
 
 — Nur ein Tellerchen, ja?
 
-— Und zwei Fleischbällchen, zum Probieren. Giorgos, schenk dem Jungen ein Ouzo ein.
+— Und zwei Fleischbällchen, zum Probieren. Giorgos, schenk dem Jungen einen Ouzo ein.
 
 — Ouzo am Mittag?
 
@@ -91,10 +98,13 @@ Die zweite Sorte Wortbildung steckt vorn in den Verben. [παρά-φαγα]{lang
 [έφαγα]{lang="el"} mit [παρα-]{lang="el"} „zu viel“, [ξανα-γεμίσω]{lang="el"} ist
 [γεμίσω]{lang="el"} mit [ξανα-]{lang="el"} „noch einmal“, und in [ξε-κουραστώ]{lang="el"}
 steckt [κουράζομαι]{lang="el"} „müde werden“ mit [ξε-]{lang="el"}, das die Müdigkeit rückgängig
-macht. Solche **Vorsilben** (Präfixe, [τα προθήματα]{lang="el"}) sind das zweite Thema. <!-- CHECK: Fachwort „πρόθημα/προθήματα“ für Präfix in griechischen Schulgrammatiken üblich? -->
+macht. Solche **Vorsilben** (Präfixe, [τα προθήματα]{lang="el"}) sind das zweite Thema.
 
 Das Ziel ist vor allem Verstehen: ein unbekanntes Wort zerlegen und seine Bedeutung erraten,
-und im Gespräch hören, was ein Diminutiv gerade tut.
+und im Gespräch hören, was ein Diminutiv gerade tut. Aktiv brauchst du nur zweierlei:
+[-άκι]{lang="el"} bilden und ein paar feste Floskeln, nämlich [ένα λεπτάκι, ένα καφεδάκι, Μη με
+παρεξηγείς, παραλίγο, Με συγχωρείτε, Συγχαρητήρια]{lang="el"}. Alles andere genügt zum
+Erkennen.
 
 ::: {.vocab}
 | Griechisch | Aussprache | Deutsch |
@@ -147,13 +157,13 @@ Magd* zu *das Mädchen*. Spanisch dagegen behält das Genus ([*el cafecito, la c
 wie das Griechische das auch kann, zeigt der nächste Abschnitt.
 
 **Die Betonung liegt immer auf [-ά-]{lang="el"}**, egal wo sie im Grundwort war:
-[ˈuzo → uˈzaci]. Im Plural [-άκια]{lang="el"} gleitet das [ι]{lang="el"} zu [c]:
-[τα μεζεδάκια]{lang="el"} [ta mezeˈðaca]. Beim Hören ist dieses betonte [ˈaci]/[ˈaca] am
-Wortende ein verlässliches Signal.
+[ˈuzo → uˈzaci]. Im Plural [-άκια]{lang="el"} verschmilzt [κι]{lang="el"} vor dem
+[α]{lang="el"} zu [c]: [τα μεζεδάκια]{lang="el"} [ta mezeˈðaca]. Wer beim Hören ein betontes
+[ˈaci]/[ˈaca] am Wortende erwischt, hat fast immer ein Diminutiv.
 
 **Der Stamm kommt manchmal aus einer anderen Form.** Wörter wie [ο καφές, ο μεζές, ο
-ντολμάς]{lang="el"} haben im Plural ein [δ]{lang="el"} ([καφέδες]{lang="el"}), und das nimmt die
-Verkleinerung mit: [καφεδάκι, ντολμαδάκια]{lang="el"}. Wörter auf [-μα]{lang="el"} nehmen den
+ντολμάς]{lang="el"} haben im Plural eine [-δ-]{lang="el"}-Silbe ([καφέδες]{lang="el"},
+Kapitel 6), und die nimmt die Verkleinerung mit: [καφεδάκι, ντολμαδάκια]{lang="el"}. Wörter auf [-μα]{lang="el"} nehmen den
 Stamm des Genitivs: [του προβλήματος → προβληματάκι]{lang="el"}. Faustregel: Wo ein Wort beim
 Beugen länger wird, wird es auch beim Verkleinern länger.
 
@@ -164,9 +174,6 @@ Beugen länger wird, wird es auch beim Verkleinern länger.
   καφεδάκι]{lang="el"}. Artikel und Adjektive richten sich danach.
 - Die Betonung liegt immer auf [-ά-]{lang="el"}: [-άκι]{lang="el"} [ˈaci], Plural
   [-άκια]{lang="el"} [ˈaca].
-- Bei männlichen **Vornamen** bleibt das Genus: [-άκης]{lang="el"} ([ο Γιωργάκης, ο
-  Κωστάκης]{lang="el"}), Anrede [Γιωργάκη!]{lang="el"} wie jeder Name auf [-ης]{lang="el"}
-  (Kapitel 7).
 :::
 
 ::: {.callout-warning}
@@ -174,13 +181,17 @@ Beugen länger wird, wird es auch beim Verkleinern länger.
 
 - \*[ένας καφεδάκι]{lang="el"} → [ένα καφεδάκι]{lang="el"}. Wer vom Grundwort ausgeht, nimmt den
   falschen Artikel.
-- \*[ο ουζάκι]{lang="el"}, \*[το ούζακι]{lang="el"}: Auch bei sächlichen Grundwörtern springt
+- \*[ο ουζάκι]{lang="el"}, \*[το ούζακι]{lang="el"}: Auch bei sächlichen Grundwörtern wandert
   die Betonung auf [-ά-]{lang="el"}.
 :::
 
-Die Nachnamen auf [-άκης]{lang="el"}, die man mit Kreta verbindet (Kapitel 7), sind ursprünglich
-genau solche Verkleinerungen: [Μανωλάκης]{lang="el"} war einmal „der kleine Manolis“ oder dessen
-Sohn. <!-- CHECK: Herkunft der Nachnamen auf -άκης aus Diminutiven (Patronymika) so vertretbar? -->
+Nicht jedes [-άκι]{lang="el"} ist aber ein Diminutiv. Bleibt nach dem Abtrennen kein Grundwort
+übrig, ist es heute keins: Hinter [το τζάκι]{lang="el"} (Kapitel 16), [το σπανάκι]{lang="el"}
+(23) und [το καπάκι]{lang="el"} (9) stecken Lehnwörter, meist aus dem Türkischen; [το
+μουστάκι]{lang="el"} (3) und [το χαντάκι]{lang="el"} (2) waren vor langer Zeit Verkleinerungen,
+ihre Grundwörter sind verschwunden. Ein Grenzfall ist [το συρτάκι]{lang="el"} (8): abgeleitet vom
+Tanz [ο συρτός]{lang="el"}, heute der Name eines eigenen Tanzes.
+<!-- CHECK: Etymologien τζάκι < türk. ocak, σπανάκι < türk. ıspanak (bzw. mittelgr. σπανάκιον), καπάκι < türk. kapak, μουστάκι < μυστάκιον (Dim. von μύσταξ), χαντάκι < mittelgr. χανδάκιον (Dim. von χάνδαξ), συρτάκι < συρτός + -άκι -->
 
 ::: {.callout-note .exercise}
 ## Übung 26.1: Alles wird sächlich
@@ -202,8 +213,8 @@ Der Artikel ist bei allen acht derselbe, die Betonung liegt immer auf [-ά-]{lan
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 2
 
-Zwei Wörter werden länger: [οι κεφτέδες]{lang="el"}, [του προβλήματος]{lang="el"}.
-[ο φραπές]{lang="el"} geht wie [ο καφές]{lang="el"}. Das Adjektiv folgt dem neuen Artikel.
+Drei Wörter werden länger: [οι κεφτέδες]{lang="el"}, [ο φραπές]{lang="el"} (wie [ο
+καφές]{lang="el"}) und [του προβλήματος]{lang="el"}. Das Adjektiv folgt dem neuen Artikel.
 :::
 
 ::: {.callout-tip collapse="true" .solution}
@@ -214,7 +225,7 @@ Zwei Wörter werden länger: [οι κεφτέδες]{lang="el"}, [του προ�
 
 - [κεφτεδάκι, φραπεδάκι]{lang="el"} nehmen das [δ]{lang="el"} des Plurals mit,
   [προβληματάκι]{lang="el"} den Genitivstamm.
-- Die Betonung springt auch bei sächlichen Grundwörtern: [poˈtiri → potiˈraci].
+- Die Betonung wandert auch bei sächlichen Grundwörtern: [poˈtiri → potiˈraci].
 - [το πατατάκι]{lang="el"} ist richtig gebildet, heißt aber meist „Kartoffelchip“ (nächster
   Abschnitt).
 
@@ -248,11 +259,19 @@ Weibliche Nomen können auch weiblich bleiben. Dann bekommen sie [-ίτσα]{lan
 
 Welche der beiden Endungen ein Wort nimmt, lässt sich nicht vorhersagen; manche nehmen beide
 ([η ελίτσα, η ελιούλα]{lang="el"}). Zum Verstehen reicht es, beide zu erkennen. Dieselben Endungen
-machen Vornamen zärtlich: [Μαρίτσα, Ελενίτσα, Κατερινούλα]{lang="el"}. Männlich heißt die Endung
-[-ούλης]{lang="el"}: [ο παππούλης]{lang="el"} „Opachen“. Auch Adjektive lassen sich verkleinern:
-[μικρός → μικρούλης, μικρούλα, μικρούλικο]{lang="el"} „klitzeklein“, [γλυκός → γλυκούλης]{lang="el"}
-„süß, niedlich“. Griechisch hat also beide Wege, den deutschen ([-άκι]{lang="el"}, sächlich) und den spanischen ([-ίτσα]{lang="el"}, Genus
-bleibt).
+machen Vornamen zärtlich: [Μαρίτσα, Ελενίτσα, Κατερινούλα]{lang="el"}.
+
+Auch männlich kann männlich bleiben, mit [-άκης]{lang="el"} oder [-ούλης]{lang="el"}: [ο
+Γιωργάκης, ο Κωστάκης, ο παππούλης]{lang="el"} „Opachen“. Die Anrede geht wie bei jedem Namen auf
+[-ης]{lang="el"} (Kapitel 7): [Γιωργάκη!]{lang="el"} Die Nachnamen auf [-άκης]{lang="el"}, die man
+mit Kreta verbindet, sind ursprünglich genau solche Verkleinerungen: [Μανωλάκης]{lang="el"} war
+einmal „der kleine Manolis“ oder dessen Sohn.
+
+Selbst Adjektive lassen sich verkleinern: [μικρός → μικρούλης, μικρούλα, μικρούλικο]{lang="el"}
+„klitzeklein“, [γλυκός → γλυκούλης]{lang="el"} „süß, niedlich“.
+
+Griechisch hat also beide Wege, den deutschen ([-άκι]{lang="el"}, sächlich) und den spanischen
+([-ίτσα]{lang="el"}, Genus bleibt).
 
 Auch weibliche Wörter können den sächlichen Weg gehen, wie [η κολοκύθα → το
 κολοκυθάκι]{lang="el"}. Bei [η πατάτα]{lang="el"} entstehen so zwei Wörter: [οι
@@ -267,22 +286,24 @@ geworden und bedeuten nichts Kleines mehr:
 |---|---|---|
 | [η κολοκύθα]{lang="el"} Kürbis | [το κολοκυθάκι]{lang="el"} | Zucchini |
 | [τα φασόλια]{lang="el"} Bohnen (getrocknet) | [τα φασολάκια]{lang="el"} | grüne Bohnen |
-| [η σούβλα]{lang="el"} Bratspieß | [το σουβλάκι]{lang="el"} | Fleischspieß; Gyros-Pita |
+| [η σούβλα]{lang="el"} Bratspieß | [το σουβλάκι]{lang="el"} | Fleischspieß; Pita-Wrap (mit Spieß oder Gyros) |
 | [το πιάτο]{lang="el"} Teller | [το πιατάκι]{lang="el"} | auch: Untertasse |
 
-Wer auf dem Markt nach einem kleinen Kürbis fragt, bekommt also keine Zucchini.
+Wer auf dem Markt [κολοκυθάκια]{lang="el"} verlangt, bekommt also keine kleinen Kürbisse.
+Eine Nebenbedeutung ist „ungefähr“: [το βραδάκι]{lang="el"} ist nicht der kleine Abend, sondern
+„gegen Abend“.
 
 ::: {.callout-note collapse="true"}
 ## Exkurs: Das Brot war einmal ein Bisschen
 
-Schon das Altgriechische verkleinerte, meist mit [-ιον]{lang="grc"}. Einige dieser Wörter
+Schon das Alt- und vor allem das hellenistische Griechisch verkleinerten, meist mit
+[-ιον]{lang="grc"}. Einige dieser Wörter
 wurden so oft benutzt, dass sie das Kleine vergaßen und die Grundwörter verdrängten.
 [το παιδί]{lang="el"} kommt von [παιδίον]{lang="grc"} „Kindchen“, [το ψωμί]{lang="el"} von
 [ψωμίον]{lang="grc"} „Bisschen, kleiner Bissen“. Und [το ψάρι]{lang="el"} kommt von
 [οψάριον]{lang="grc"}, der Verkleinerung von [όψον]{lang="grc"}, dem, was man zum Brot aß; am
 Meer war das meist Fisch. Das Wort für Fisch war also einmal ein kleiner Meze. Dass so viele
 alltägliche sächliche Wörter auf [-ι]{lang="el"} enden, hat hier eine seiner Wurzeln.
-<!-- CHECK: Etymologien παιδί < παιδίον, ψωμί < ψωμίον (ψωμός „Bissen“), ψάρι < οψάριον < όψον; Aussage „eine der Wurzeln“ der Neutra auf -ι -->
 :::
 
 ::: {.callout-note .exercise}
@@ -293,13 +314,14 @@ Nenn zu jeder Verkleinerung das Grundwort mit Artikel. Hat das Genus gewechselt?
 [η μπιρίτσα, το χταποδάκι, οι σαρδελίτσες, το κρασάκι, η κουβεντούλα, ο Κωστάκης, τα
 παϊδάκια, το σκυλάκι, το σουβλάκι, το κουταλάκι]{lang="el"}
 
-Welche drei sind heute eigene Wörter, bei denen niemand mehr an „klein“ denkt?
+Welche sind heute eher eigene Wörter mit eigener Bedeutung?
 :::
 
 ::: {.callout-tip collapse="true" .hint}
 ## Hinweis 1
 
-Unbekannte Grundwörter: Oktopus, Sardine, Gespräch, Rippe, Löffel. Das Genus wechseln kann nur
+Unbekannte Grundwörter: Oktopus, Sardine, Gespräch, Rippe, Löffel. Bei der Rippe hilft Kapitel 1:
+[τα παιδιά]{lang="el"} und [τα παϊδάκια]{lang="el"} trennt das Trema. Das Genus wechseln kann nur
 [-άκι]{lang="el"}, und nur bei nicht sächlichen Grundwörtern.
 :::
 
@@ -312,18 +334,18 @@ Eigene Wörter: Denk an die Speisekarte vom Grill und an die Besteckschublade.
 ::: {.callout-tip collapse="true" .solution}
 ## Lösung
 
-[η μπίρα, το χταπόδι, η σαρδέλα, το κρασί, η κουβέντα, ο Κώστας, το παΐδι, ο σκύλος, η σούβλα,
-το κουτάλι]{lang="el"}. Das Genus wechselt nur bei [το σκυλάκι]{lang="el"} und
-[το σουβλάκι]{lang="el"}; [ο Κωστάκης]{lang="el"} bleibt als Name männlich.
+[η μπίρα, το χταπόδι, η σαρδέλα, το κρασί, η κουβέντα, ο Κώστας, το παΐδι, η σούβλα,
+το κουτάλι]{lang="el"}; zu [το σκυλάκι]{lang="el"} passen [ο σκύλος]{lang="el"} und [το
+σκυλί]{lang="el"}. Das Genus wechselt also bei [το σουβλάκι]{lang="el"} und, je nach Grundwort,
+bei [το σκυλάκι]{lang="el"}; [ο Κωστάκης]{lang="el"} bleibt als Name männlich.
 
-Eigene Wörter: [τα παϊδάκια]{lang="el"} (Lammkoteletts vom Grill), [το σουβλάκι]{lang="el"},
-[το κουταλάκι]{lang="el"} (Teelöffel). Grenzfall: [χταποδάκι]{lang="el"} heißt auf der
-Speisekarte meist einfach „Oktopus“.
+Eigene Wörter: [τα παϊδάκια]{lang="el"} (Lamm- oder Zickleinkoteletts vom Grill), [το
+σουβλάκι]{lang="el"}. Grenzfälle: [το κουταλάκι]{lang="el"} ist der Teelöffel, aber der ist ja
+auch ein kleiner Löffel; [χταποδάκι]{lang="el"} heißt auf der Speisekarte meist einfach „Oktopus“.
 
 Typischer Fehler: vom [το]{lang="el"} auf ein sächliches Grundwort schließen. Bei
 [-άκι]{lang="el"} verrät der Artikel nichts.
 :::
-<!-- CHECK: παϊδάκια (Lamm-/Schweinekoteletts) als lexikalisiert, κουταλάκι = Teelöffel -->
 
 
 ::: {.vocab}
@@ -334,7 +356,7 @@ Typischer Fehler: vom [το]{lang="el"} auf ein sächliches Grundwort schließen
 | [ο παππούλης]{lang="el"} | [o paˈpulis] | das Opachen, der liebe Opa |
 | [μικρούλης, -α, -ικο]{lang="el"} | [miˈkrulis] | klitzeklein, winzig |
 | [τα πατατάκια]{lang="el"} | [ta pataˈtaca] | die Kartoffelchips |
-| [το σουβλάκι]{lang="el"} | [to suˈvlaci] | der Fleischspieß; Gyros-Pita |
+| [το σουβλάκι]{lang="el"} | [to suˈvlaci] | der Fleischspieß; Pita-Wrap (mit Spieß oder Gyros) |
 :::
 
 ## Klein, lieb, harmlos, spöttisch: Diminutive deuten {#sec-praefixe-deuten}
