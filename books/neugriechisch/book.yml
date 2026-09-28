@@ -1,0 +1,16 @@
+# Metadaten des Buchs. Wird von scripts/build.py (Bibliothek) und den Claude-Commands gelesen.
+title: "Neugriechisch"
+subtitle: "Vom Anfängerkurs zum Film ohne Untertitel"
+slug: neugriechisch
+topic: "Neugriechisch vom Anfängerniveau bis B2: echte Gespräche führen und Filme verstehen"
+# Sprache, in der das Buch erklärt (BCP-47, z.B. de, en, el, es).
+language: de
+# Nur bei Sprachbüchern: die zu lernende Sprache (für Audio, Eingabehilfen, Immersion). Sonst leer.
+target-language: el
+# languages | formal-sciences | natural-sciences | programming | humanities | practical
+archetype: languages
+# interview | research | outline | sample | writing | complete
+status: research
+# Erscheint erst in der Bibliothek, wenn true (spätestens mit dem Probekapitel).
+published: false
+created: 2026-09-28

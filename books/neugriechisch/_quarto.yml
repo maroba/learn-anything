@@ -1,0 +1,24 @@
+project:
+  type: book
+  output-dir: _book
+  # Only the book itself is rendered, not the working files (STYLE.md, outline.md, ...).
+  render:
+    - index.qmd
+    - chapters/*.qmd
+
+book:
+  title: "Neugriechisch"
+  subtitle: "Vom Anfängerkurs zum Film ohne Untertitel"
+  author: "learn-anything"
+  search: true
+  sidebar:
+    tools:
+      - icon: collection
+        href: ../index.html
+        text: "Bibliothek"
+  chapters:
+    - index.qmd
+
+lang: de
+
+format: learn-anything-html
